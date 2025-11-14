@@ -1,8 +1,37 @@
 [
   {
+    "title": "The Blue Angel",
+    "year": 1930,
+    "director": "Josef von Sternberg",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 104,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      "Emil Jannings",
+      "Marlene Dietrich",
+      "Kurt Gerron"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An esteemed professor's life descends into chaos after he falls in love with a cabaret singer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020697/"
+  },
+  {
     "title": "All Quiet on the Western Front",
     "year": 1930,
     "director": "Lewis Milestone",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 152,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "97%",
@@ -28,34 +57,65 @@
     "imdb_url": "https://www.imdb.com/title/tt0020629/"
   },
   {
-    "title": "The Blue Angel",
+    "title": "Animal Crackers",
     "year": 1930,
-    "director": "Josef von Sternberg",
+    "director": "Victor Heerman",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 97,
     "ratings": {
-      "imdb": "7.7/10",
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "87%"
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Drama",
-      "Music"
+      "Comedy",
+      "Musical"
     ],
     "actors": [
-      "Emil Jannings",
-      "Marlene Dietrich",
-      "Kurt Gerron"
+      "Groucho Marx",
+      "Harpo Marx",
+      "Chico Marx"
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An esteemed professor's life descends into chaos after he falls in love with a cabaret singer.",
+    "description": "A valuable painting is stolen during a party in honor of the famous African explorer Captain Spaulding.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0020697/"
+    "imdb_url": "https://www.imdb.com/title/tt0020640/"
+  },
+  {
+    "title": "Morocco",
+    "year": 1930,
+    "director": "Josef von Sternberg",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "ratings": {
+      "imdb": "7.2/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Gary Cooper",
+      "Marlene Dietrich",
+      "Adolphe Menjou"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A cabaret singer and a Legionnaire fall in love, but their relationship is complicated by the indefinite nature of his military commitment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021156/"
   },
   {
     "title": "City Lights",
     "year": 1931,
     "director": "Charles Chaplin",
+    "mpaa_rating": "G",
+    "runtime_minutes": 87,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "97%",
@@ -82,6 +142,8 @@
     "title": "Dracula",
     "year": 1931,
     "director": "Tod Browning",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 75,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "94%",
@@ -107,6 +169,8 @@
     "title": "Frankenstein",
     "year": 1931,
     "director": "James Whale",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 70,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "94%",
@@ -133,6 +197,8 @@
     "title": "The Public Enemy",
     "year": 1931,
     "director": "William A. Wellman",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 83,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "100%",
@@ -158,6 +224,8 @@
     "title": "M",
     "year": 1931,
     "director": "Fritz Lang",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 117,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "100%",
@@ -181,9 +249,72 @@
     "imdb_url": "https://www.imdb.com/title/tt0022100/"
   },
   {
+    "title": "Cimarron",
+    "year": 1931,
+    "director": "Wesley Ruggles",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 123,
+    "ratings": {
+      "imdb": "5.9/10",
+      "rotten_tomatoes_critic": "53%",
+      "rotten_tomatoes_popcorn": "32%"
+    },
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "Richard Dix",
+      "Irene Dunne",
+      "Estelle Taylor"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Writing, Adaptation",
+      "Best Art Direction"
+    ],
+    "description": "A newspaper editor settles in an Oklahoma boom town with his reluctant wife at the end of the nineteenth century.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021746/"
+  },
+  {
+    "title": "The Champ",
+    "year": 1931,
+    "director": "King Vidor",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "ratings": {
+      "imdb": "7.2/10",
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      "Wallace Beery",
+      "Jackie Cooper",
+      "Irene Rich"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Writing, Original Story"
+    ],
+    "description": "A washed-up ex-heavyweight boxer attempts to get back in the ring and make a better life for his adoring young son.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021730/"
+  },
+  {
     "title": "Grand Hotel",
     "year": 1932,
     "director": "Edmund Goulding",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 112,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "86%",
@@ -211,6 +342,8 @@
     "title": "Scarface",
     "year": 1932,
     "director": "Howard Hawks",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 93,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "98%",
@@ -237,6 +370,8 @@
     "title": "I Am a Fugitive from a Chain Gang",
     "year": 1932,
     "director": "Mervyn LeRoy",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 93,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "96%",
@@ -263,6 +398,8 @@
     "title": "Shanghai Express",
     "year": 1932,
     "director": "Josef von Sternberg",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 82,
     "ratings": {
       "imdb": "7.3/10",
       "rotten_tomatoes_critic": "93%",
@@ -288,9 +425,93 @@
     "imdb_url": "https://www.imdb.com/title/tt0023458/"
   },
   {
+    "title": "Freaks",
+    "year": 1932,
+    "director": "Tod Browning",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 64,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      "Wallace Ford",
+      "Leila Hyams",
+      "Olga Baclanova"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but her deformed friends discover she is only after his inheritance.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0022893/"
+  },
+  {
+    "title": "Trouble in Paradise",
+    "year": 1932,
+    "director": "Ernst Lubitsch",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 83,
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "actors": [
+      "Miriam Hopkins",
+      "Kay Francis",
+      "Herbert Marshall"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A gentleman thief and his lovely partner team up to con a beautiful perfume company owner. Complications arise when the thief and the owner fall in love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0023622/"
+  },
+  {
+    "title": "The Mummy",
+    "year": 1932,
+    "director": "Karl Freund",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 73,
+    "ratings": {
+      "imdb": "7.0/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Fantasy",
+      "Horror"
+    ],
+    "actors": [
+      "Boris Karloff",
+      "Zita Johann",
+      "David Manners"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A resurrected Egyptian mummy stalks a beautiful woman he believes to be the reincarnation of his long-lost love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0023245/"
+  },
+  {
     "title": "King Kong",
     "year": 1933,
     "director": "Merian C. Cooper",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "97%",
@@ -317,6 +538,8 @@
     "title": "Duck Soup",
     "year": 1933,
     "director": "Leo McCarey",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 68,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "91%",
@@ -343,6 +566,8 @@
     "title": "The Invisible Man",
     "year": 1933,
     "director": "James Whale",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 71,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "94%",
@@ -368,6 +593,8 @@
     "title": "42nd Street",
     "year": 1933,
     "director": "Lloyd Bacon",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 89,
     "ratings": {
       "imdb": "7.3/10",
       "rotten_tomatoes_critic": "96%",
@@ -391,9 +618,98 @@
     "imdb_url": "https://www.imdb.com/title/tt0024034/"
   },
   {
+    "title": "Queen Christina",
+    "year": 1933,
+    "director": "Rouben Mamoulian",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Greta Garbo",
+      "John Gilbert",
+      "Ian Keith"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The reclusive queen of Sweden's life is changed when she falls in love with a Spanish envoy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024481/"
+  },
+  {
+    "title": "Dinner at Eight",
+    "year": 1933,
+    "director": "George Cukor",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 111,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Marie Dressler",
+      "John Barrymore",
+      "Wallace Beery"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of high-society guests invited to a dinner party find their lives intersecting in unexpected ways.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0023948/"
+  },
+  {
+    "title": "Cavalcade",
+    "year": 1933,
+    "director": "Frank Lloyd",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "ratings": {
+      "imdb": "5.9/10",
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "actors": [
+      "Diana Wynyard",
+      "Clive Brook",
+      "Una O'Connor"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Art Direction"
+    ],
+    "description": "A historical drama portraying the lives of two English families from New Year's Eve 1899 to 1933.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0023876/"
+  },
+  {
     "title": "It Happened One Night",
     "year": 1934,
     "director": "Frank Capra",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "98%",
@@ -425,6 +741,8 @@
     "title": "The Thin Man",
     "year": 1934,
     "director": "W.S. Van Dyke",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "98%",
@@ -448,35 +766,97 @@
     "imdb_url": "https://www.imdb.com/title/tt0025878/"
   },
   {
-    "title": "L'Atalante",
+    "title": "The Man Who Knew Too Much",
     "year": 1934,
-    "director": "Jean Vigo",
+    "director": "Alfred Hitchcock",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 75,
     "ratings": {
-      "imdb": "7.7/10",
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "91%"
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
+      "Crime",
+      "Mystery",
+      "Thriller"
     ],
     "actors": [
-      "Jean Dasté",
-      "Dita Parlo",
-      "Michel Simon"
+      "Leslie Banks",
+      "Edna Best",
+      "Peter Lorre"
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A newly married couple's blissful life on a canal barge is disrupted by the husband's jealousy and the wife's desire for the glamour of Paris.",
+    "description": "A British family on vacation in Switzerland accidentally stumbles upon an assassination plot and their daughter is kidnapped to ensure their silence.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0024844/"
+    "imdb_url": "https://www.imdb.com/title/tt0025452/"
+  },
+  {
+    "title": "The Gay Divorcee",
+    "year": 1934,
+    "director": "Mark Sandrich",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 107,
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Fred Astaire",
+      "Ginger Rogers",
+      "Alice Brady"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song"
+    ],
+    "description": "A woman seeking a divorce from her husband finds herself entangled with a charming dancer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025164/"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "year": 1934,
+    "director": "Rowland V. Lee",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 113,
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Robert Donat",
+      "Elissa Landi",
+      "Louis Calhern"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young man, falsely imprisoned by his jealous \"friends,\" escapes and uses a hidden treasure to exact his revenge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025004/"
   },
   {
     "title": "Bride of Frankenstein",
     "year": 1935,
     "director": "James Whale",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 75,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "98%",
@@ -503,6 +883,8 @@
     "title": "The 39 Steps",
     "year": 1935,
     "director": "Alfred Hitchcock",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 86,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "96%",
@@ -528,6 +910,8 @@
     "title": "A Night at the Opera",
     "year": 1935,
     "director": "Sam Wood",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 96,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "97%",
@@ -554,6 +938,8 @@
     "title": "Top Hat",
     "year": 1935,
     "director": "Mark Sandrich",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 101,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "100%",
@@ -580,6 +966,8 @@
     "title": "Mutiny on the Bounty",
     "year": 1935,
     "director": "Frank Lloyd",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 132,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "94%",
@@ -608,6 +996,8 @@
     "title": "The Informer",
     "year": 1935,
     "director": "John Ford",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "100%",
@@ -635,9 +1025,39 @@
     "imdb_url": "https://www.imdb.com/title/tt0026529/"
   },
   {
+    "title": "Captain Blood",
+    "year": 1935,
+    "director": "Michael Curtiz",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 119,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "actors": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Lionel Atwill"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A doctor is arrested and sold into slavery for treating a wounded rebel. He and his fellow slaves capture a Spanish ship and become pirates.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0026174/"
+  },
+  {
     "title": "Modern Times",
     "year": 1936,
     "director": "Charles Chaplin",
+    "mpaa_rating": "G",
+    "runtime_minutes": 87,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "98%",
@@ -663,6 +1083,8 @@
     "title": "My Man Godfrey",
     "year": 1936,
     "director": "Gregory La Cava",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 94,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "100%",
@@ -689,6 +1111,8 @@
     "title": "Swing Time",
     "year": 1936,
     "director": "George Stevens",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 103,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "97%",
@@ -717,6 +1141,8 @@
     "title": "Mr. Deeds Goes to Town",
     "year": 1936,
     "director": "Frank Capra",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 115,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "91%",
@@ -742,9 +1168,73 @@
     "imdb_url": "https://www.imdb.com/title/tt0027996/"
   },
   {
+    "title": "The Great Ziegfeld",
+    "year": 1936,
+    "director": "Robert Z. Leonard",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 176,
+    "ratings": {
+      "imdb": "6.6/10",
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Musical"
+    ],
+    "actors": [
+      "William Powell",
+      "Myrna Loy",
+      "Luise Rainer"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Actress",
+      "Best Dance Direction"
+    ],
+    "description": "The life and career of the renowned Broadway impresario Florenz Ziegfeld Jr.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0027698/"
+  },
+  {
+    "title": "San Francisco",
+    "year": 1936,
+    "director": "W.S. Van Dyke",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 115,
+    "ratings": {
+      "imdb": "7.1/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Clark Gable",
+      "Jeanette MacDonald",
+      "Spencer Tracy"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Sound, Recording"
+    ],
+    "description": "A saloon owner and a singer find love in San Francisco on the eve of the 1906 earthquake.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028216/"
+  },
+  {
     "title": "Snow White and the Seven Dwarfs",
     "year": 1937,
     "director": "William Cottrell",
+    "mpaa_rating": "G",
+    "runtime_minutes": 83,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "97%",
@@ -773,6 +1263,8 @@
     "title": "Captains Courageous",
     "year": 1937,
     "director": "Victor Fleming",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 115,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "95%",
@@ -801,6 +1293,8 @@
     "title": "The Awful Truth",
     "year": 1937,
     "director": "Leo McCarey",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "94%",
@@ -828,6 +1322,8 @@
     "title": "Grand Illusion",
     "year": 1937,
     "director": "Jean Renoir",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 113,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "97%",
@@ -853,6 +1349,8 @@
     "title": "A Star Is Born",
     "year": 1937,
     "director": "William A. Wellman",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 111,
     "ratings": {
       "imdb": "7.5/10",
       "rotten_tomatoes_critic": "100%",
@@ -878,9 +1376,69 @@
     "imdb_url": "https://www.imdb.com/title/tt0029606/"
   },
   {
+    "title": "The Life of Emile Zola",
+    "year": 1937,
+    "director": "William Dieterle",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 116,
+    "ratings": {
+      "imdb": "7.1/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Paul Muni",
+      "Gale Sondergaard",
+      "Joseph Schildkraut"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Supporting Actor",
+      "Best Writing, Screenplay"
+    ],
+    "description": "The biopic of the famous French writer Emile Zola and his involvement in the Dreyfus Affair.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029146/"
+  },
+  {
+    "title": "Stage Door",
+    "year": 1937,
+    "director": "Gregory La Cava",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Katharine Hepburn",
+      "Ginger Rogers",
+      "Adolphe Menjou"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The lives and dreams of a group of aspiring actresses living together in a boarding house in New York City.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029604/"
+  },
+  {
     "title": "Bringing Up Baby",
     "year": 1938,
     "director": "Howard Hawks",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 102,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "94%",
@@ -907,6 +1465,8 @@
     "title": "The Adventures of Robin Hood",
     "year": 1938,
     "director": "Michael Curtiz",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 102,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "100%",
@@ -937,6 +1497,8 @@
     "title": "You Can't Take It with You",
     "year": 1938,
     "director": "Frank Capra",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 126,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "95%",
@@ -966,6 +1528,8 @@
     "title": "Angels with Dirty Faces",
     "year": 1938,
     "director": "Michael Curtiz",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 97,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "100%",
@@ -992,6 +1556,8 @@
     "title": "The Lady Vanishes",
     "year": 1938,
     "director": "Alfred Hitchcock",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "98%",
@@ -1017,6 +1583,8 @@
     "title": "Jezebel",
     "year": 1938,
     "director": "William Wyler",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
     "ratings": {
       "imdb": "7.5/10",
       "rotten_tomatoes_critic": "95%",
@@ -1042,9 +1610,71 @@
     "imdb_url": "https://www.imdb.com/title/tt0030287/"
   },
   {
+    "title": "Pygmalion",
+    "year": 1938,
+    "director": "Anthony Asquith",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 96,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Leslie Howard",
+      "Wendy Hiller",
+      "Wilfrid Lawson"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Screenplay"
+    ],
+    "description": "A phonetics professor makes a bet that he can transform a Cockney flower girl into a lady.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0030637/"
+  },
+  {
+    "title": "Boys Town",
+    "year": 1938,
+    "director": "Norman Taurog",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 96,
+    "ratings": {
+      "imdb": "7.2/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Spencer Tracy",
+      "Mickey Rooney",
+      "Henry Hull"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Writing, Original Story"
+    ],
+    "description": "A priest starts a home for delinquent boys and tries to reform a young gangster.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029932/"
+  },
+  {
     "title": "Gone with the Wind",
     "year": 1939,
     "director": "Victor Fleming",
+    "mpaa_rating": "G",
+    "runtime_minutes": 238,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "90%",
@@ -1082,6 +1712,8 @@
     "title": "The Wizard of Oz",
     "year": 1939,
     "director": "Victor Fleming",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 102,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "98%",
@@ -1112,6 +1744,8 @@
     "title": "Mr. Smith Goes to Washington",
     "year": 1939,
     "director": "Frank Capra",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 129,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "96%",
@@ -1139,6 +1773,8 @@
     "title": "Stagecoach",
     "year": 1939,
     "director": "John Ford",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "100%",
@@ -1167,6 +1803,8 @@
     "title": "Ninotchka",
     "year": 1939,
     "director": "Ernst Lubitsch",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "100%",
@@ -1192,6 +1830,8 @@
     "title": "Wuthering Heights",
     "year": 1939,
     "director": "William Wyler",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 104,
     "ratings": {
       "imdb": "7.5/10",
       "rotten_tomatoes_critic": "96%",
@@ -1219,6 +1859,8 @@
     "title": "The Rules of the Game",
     "year": 1939,
     "director": "Jean Renoir",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "96%",
@@ -1244,6 +1886,8 @@
     "title": "Goodbye, Mr. Chips",
     "year": 1939,
     "director": "Sam Wood",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 114,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "86%",
@@ -1271,6 +1915,8 @@
     "title": "Gunga Din",
     "year": 1939,
     "director": "George Stevens",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 117,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "90%",
@@ -1297,6 +1943,8 @@
     "title": "Only Angels Have Wings",
     "year": 1939,
     "director": "Howard Hawks",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 121,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "100%",
@@ -1318,5 +1966,60 @@
     "description": "A group of pilots in a remote South American port risk their lives to fly mail and cargo over the Andes Mountains.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0031762/"
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "year": 1939,
+    "director": "William Dieterle",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 116,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "actors": [
+      "Charles Laughton",
+      "Maureen O'Hara",
+      "Cedric Hardwicke"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 15th-century France, a gypsy girl is framed for murder by the infatuated Chief Justice, and only the deformed bellringer of Notre Dame Cathedral can save her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031455/"
+  },
+  {
+    "title": "Destry Rides Again",
+    "year": 1939,
+    "director": "George Marshall",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "actors": [
+      "Marlene Dietrich",
+      "James Stewart",
+      "Mischa Auer"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young, mild-mannered deputy is sent to tame a lawless frontier town, but he finds his non-violent methods are no match for the town's corrupt boss.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031225/"
   }
 ]

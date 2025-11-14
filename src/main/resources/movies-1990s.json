@@ -3,6 +3,8 @@
     "title": "Goodfellas",
     "year": 1990,
     "director": "Martin Scorsese",
+    "mpaa_rating": "R",
+    "runtime_minutes": 146,
     "ratings": {
       "imdb": "8.7/10",
       "rotten_tomatoes_critic": "96%",
@@ -31,6 +33,8 @@
     "title": "Dances with Wolves",
     "year": 1990,
     "director": "Kevin Costner",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 181,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "87%",
@@ -62,9 +66,67 @@
     "imdb_url": "https://www.imdb.com/title/tt0099348/"
   },
   {
+    "title": "Home Alone",
+    "year": 1990,
+    "director": "Chris Columbus",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 103,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "66%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      "Macaulay Culkin",
+      "Joe Pesci",
+      "Daniel Stern"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099785/"
+  },
+  {
+    "title": "Misery",
+    "year": 1990,
+    "director": "Rob Reiner",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "James Caan",
+      "Kathy Bates",
+      "Richard Farnsworth"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress"
+    ],
+    "description": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100157/"
+  },
+  {
     "title": "The Silence of the Lambs",
     "year": 1991,
     "director": "Jonathan Demme",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
     "ratings": {
       "imdb": "8.6/10",
       "rotten_tomatoes_critic": "95%",
@@ -97,6 +159,8 @@
     "title": "Terminator 2: Judgment Day",
     "year": 1991,
     "director": "James Cameron",
+    "mpaa_rating": "R",
+    "runtime_minutes": 137,
     "ratings": {
       "imdb": "8.6/10",
       "rotten_tomatoes_critic": "91%",
@@ -127,6 +191,8 @@
     "title": "Beauty and the Beast",
     "year": 1991,
     "director": "Gary Trousdale",
+    "mpaa_rating": "G",
+    "runtime_minutes": 84,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "93%",
@@ -156,6 +222,8 @@
     "title": "JFK",
     "year": 1991,
     "director": "Oliver Stone",
+    "mpaa_rating": "R",
+    "runtime_minutes": 189,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "84%",
@@ -182,9 +250,41 @@
     "imdb_url": "https://www.imdb.com/title/tt0102138/"
   },
   {
+    "title": "Thelma & Louise",
+    "year": 1991,
+    "director": "Ridley Scott",
+    "mpaa_rating": "R",
+    "runtime_minutes": 130,
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Susan Sarandon",
+      "Geena Davis",
+      "Harvey Keitel"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Original Screenplay"
+    ],
+    "description": "Two best friends set out on an adventure, but it soon turns around to a terrifying escape from being hunted by the police, as these two women escape for the crimes they committed.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103074/"
+  },
+  {
     "title": "Unforgiven",
     "year": 1992,
     "director": "Clint Eastwood",
+    "mpaa_rating": "R",
+    "runtime_minutes": 131,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "96%",
@@ -215,6 +315,8 @@
     "title": "Reservoir Dogs",
     "year": 1992,
     "director": "Quentin Tarantino",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "90%",
@@ -240,6 +342,8 @@
     "title": "A Few Good Men",
     "year": 1992,
     "director": "Rob Reiner",
+    "mpaa_rating": "R",
+    "runtime_minutes": 138,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "84%",
@@ -265,6 +369,8 @@
     "title": "Aladdin",
     "year": 1992,
     "director": "Ron Clements",
+    "mpaa_rating": "G",
+    "runtime_minutes": 90,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "95%",
@@ -294,6 +400,8 @@
     "title": "Scent of a Woman",
     "year": 1992,
     "director": "Martin Brest",
+    "mpaa_rating": "R",
+    "runtime_minutes": 156,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "91%",
@@ -317,9 +425,40 @@
     "imdb_url": "https://www.imdb.com/title/tt0105323/"
   },
   {
+    "title": "My Cousin Vinny",
+    "year": 1992,
+    "director": "Jonathan Lynn",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      "Joe Pesci",
+      "Marisa Tomei",
+      "Ralph Macchio"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actress"
+    ],
+    "description": "Two New Yorkers are accused of murder in rural Alabama while on their way back to college, and one of their cousins--an inexperienced, loudmouth lawyer not accustomed to Southern rules and manners--comes in to defend them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104952/"
+  },
+  {
     "title": "Schindler's List",
     "year": 1993,
     "director": "Steven Spielberg",
+    "mpaa_rating": "R",
+    "runtime_minutes": 195,
     "ratings": {
       "imdb": "9.0/10",
       "rotten_tomatoes_critic": "98%",
@@ -354,6 +493,8 @@
     "title": "Jurassic Park",
     "year": 1993,
     "director": "Steven Spielberg",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 127,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "91%",
@@ -384,6 +525,8 @@
     "title": "Groundhog Day",
     "year": 1993,
     "director": "Harold Ramis",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 101,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "94%",
@@ -410,6 +553,8 @@
     "title": "Philadelphia",
     "year": 1993,
     "director": "Jonathan Demme",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 125,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "81%",
@@ -437,6 +582,8 @@
     "title": "The Piano",
     "year": 1993,
     "director": "Jane Campion",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
     "ratings": {
       "imdb": "7.5/10",
       "rotten_tomatoes_critic": "92%",
@@ -464,9 +611,69 @@
     "imdb_url": "https://www.imdb.com/title/tt0107822/"
   },
   {
+    "title": "The Fugitive",
+    "year": 1993,
+    "director": "Andrew Davis",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 130,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Tommy Lee Jones",
+      "Sela Ward"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actor"
+    ],
+    "description": "Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106977/"
+  },
+  {
+    "title": "The Nightmare Before Christmas",
+    "year": 1993,
+    "director": "Henry Selick",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 76,
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Danny Elfman",
+      "Chris Sarandon",
+      "Catherine O'Hara"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107688/"
+  },
+  {
     "title": "The Shawshank Redemption",
     "year": 1994,
     "director": "Frank Darabont",
+    "mpaa_rating": "R",
+    "runtime_minutes": 142,
     "ratings": {
       "imdb": "9.3/10",
       "rotten_tomatoes_critic": "91%",
@@ -491,6 +698,8 @@
     "title": "Pulp Fiction",
     "year": 1994,
     "director": "Quentin Tarantino",
+    "mpaa_rating": "R",
+    "runtime_minutes": 154,
     "ratings": {
       "imdb": "8.9/10",
       "rotten_tomatoes_critic": "92%",
@@ -518,6 +727,8 @@
     "title": "Forrest Gump",
     "year": 1994,
     "director": "Robert Zemeckis",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 142,
     "ratings": {
       "imdb": "8.8/10",
       "rotten_tomatoes_critic": "71%",
@@ -550,6 +761,8 @@
     "title": "The Lion King",
     "year": 1994,
     "director": "Roger Allers",
+    "mpaa_rating": "G",
+    "runtime_minutes": 88,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "93%",
@@ -579,6 +792,8 @@
     "title": "Four Weddings and a Funeral",
     "year": 1994,
     "director": "Mike Newell",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
     "ratings": {
       "imdb": "7.0/10",
       "rotten_tomatoes_critic": "96%",
@@ -602,9 +817,42 @@
     "imdb_url": "https://www.imdb.com/title/tt0109831/"
   },
   {
+    "title": "Speed",
+    "year": 1994,
+    "director": "Jan de Bont",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      "Keanu Reeves",
+      "Dennis Hopper",
+      "Sandra Bullock"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Sound",
+      "Best Sound Effects Editing"
+    ],
+    "description": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0111257/"
+  },
+  {
     "title": "Braveheart",
     "year": 1995,
     "director": "Mel Gibson",
+    "mpaa_rating": "R",
+    "runtime_minutes": 178,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "76%",
@@ -637,6 +885,8 @@
     "title": "Toy Story",
     "year": 1995,
     "director": "John Lasseter",
+    "mpaa_rating": "G",
+    "runtime_minutes": 81,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "100%",
@@ -665,6 +915,8 @@
     "title": "Seven",
     "year": 1995,
     "director": "David Fincher",
+    "mpaa_rating": "R",
+    "runtime_minutes": 127,
     "ratings": {
       "imdb": "8.6/10",
       "rotten_tomatoes_critic": "83%",
@@ -691,6 +943,8 @@
     "title": "Apollo 13",
     "year": 1995,
     "director": "Ron Howard",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 140,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "96%",
@@ -720,6 +974,8 @@
     "title": "The Usual Suspects",
     "year": 1995,
     "director": "Bryan Singer",
+    "mpaa_rating": "R",
+    "runtime_minutes": 106,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "88%",
@@ -746,9 +1002,68 @@
     "imdb_url": "https://www.imdb.com/title/tt0114814/"
   },
   {
+    "title": "Heat",
+    "year": 1995,
+    "director": "Michael Mann",
+    "mpaa_rating": "R",
+    "runtime_minutes": 170,
+    "ratings": {
+      "imdb": "8.3/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0113277/"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "year": 1995,
+    "director": "Ang Lee",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 136,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Emma Thompson",
+      "Kate Winslet",
+      "Hugh Grant"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Adapted Screenplay"
+    ],
+    "description": "Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the titular opposites.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114388/"
+  },
+  {
     "title": "Fargo",
     "year": 1996,
     "director": "Joel Coen",
+    "mpaa_rating": "R",
+    "runtime_minutes": 98,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "94%",
@@ -777,6 +1092,8 @@
     "title": "The English Patient",
     "year": 1996,
     "director": "Anthony Minghella",
+    "mpaa_rating": "R",
+    "runtime_minutes": 162,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "86%",
@@ -813,6 +1130,8 @@
     "title": "Jerry Maguire",
     "year": 1996,
     "director": "Cameron Crowe",
+    "mpaa_rating": "R",
+    "runtime_minutes": 139,
     "ratings": {
       "imdb": "7.3/10",
       "rotten_tomatoes_critic": "85%",
@@ -838,9 +1157,37 @@
     "imdb_url": "https://www.imdb.com/title/tt0116695/"
   },
   {
+    "title": "Trainspotting",
+    "year": 1996,
+    "director": "Danny Boyle",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0117951/"
+  },
+  {
     "title": "Titanic",
     "year": 1997,
     "director": "James Cameron",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 194,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "88%",
@@ -878,6 +1225,8 @@
     "title": "Good Will Hunting",
     "year": 1997,
     "director": "Gus Van Sant",
+    "mpaa_rating": "R",
+    "runtime_minutes": 126,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "97%",
@@ -906,6 +1255,8 @@
     "title": "L.A. Confidential",
     "year": 1997,
     "director": "Curtis Hanson",
+    "mpaa_rating": "R",
+    "runtime_minutes": 138,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "99%",
@@ -935,6 +1286,8 @@
     "title": "Life Is Beautiful",
     "year": 1997,
     "director": "Roberto Benigni",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 116,
     "ratings": {
       "imdb": "8.6/10",
       "rotten_tomatoes_critic": "80%",
@@ -965,6 +1318,8 @@
     "title": "Princess Mononoke",
     "year": 1997,
     "director": "Hayao Miyazaki",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 134,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "93%",
@@ -988,9 +1343,42 @@
     "imdb_url": "https://www.imdb.com/title/tt0119698/"
   },
   {
+    "title": "As Good as It Gets",
+    "year": 1997,
+    "director": "James L. Brooks",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 139,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Helen Hunt",
+      "Greg Kinnear"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Actress"
+    ],
+    "description": "A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119822/"
+  },
+  {
     "title": "Saving Private Ryan",
     "year": 1998,
     "director": "Steven Spielberg",
+    "mpaa_rating": "R",
+    "runtime_minutes": 169,
     "ratings": {
       "imdb": "8.6/10",
       "rotten_tomatoes_critic": "94%",
@@ -1022,6 +1410,8 @@
     "title": "American History X",
     "year": 1998,
     "director": "Tony Kaye",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "83%",
@@ -1047,6 +1437,8 @@
     "title": "The Big Lebowski",
     "year": 1998,
     "director": "Joel Coen",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "79%",
@@ -1072,6 +1464,8 @@
     "title": "Shakespeare in Love",
     "year": 1998,
     "director": "John Madden",
+    "mpaa_rating": "R",
+    "runtime_minutes": 123,
     "ratings": {
       "imdb": "7.1/10",
       "rotten_tomatoes_critic": "92%",
@@ -1106,6 +1500,8 @@
     "title": "The Truman Show",
     "year": 1998,
     "director": "Peter Weir",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 103,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "94%",
@@ -1128,9 +1524,38 @@
     "imdb_url": "https://www.imdb.com/title/tt0120382/"
   },
   {
+    "title": "The Thin Red Line",
+    "year": 1998,
+    "director": "Terrence Malick",
+    "mpaa_rating": "R",
+    "runtime_minutes": 170,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Sean Penn",
+      "Adrien Brody",
+      "Jim Caviezel"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120863/"
+  },
+  {
     "title": "The Matrix",
     "year": 1999,
     "director": "Lana Wachowski",
+    "mpaa_rating": "R",
+    "runtime_minutes": 136,
     "ratings": {
       "imdb": "8.7/10",
       "rotten_tomatoes_critic": "83%",
@@ -1161,6 +1586,8 @@
     "title": "Fight Club",
     "year": 1999,
     "director": "David Fincher",
+    "mpaa_rating": "R",
+    "runtime_minutes": 139,
     "ratings": {
       "imdb": "8.8/10",
       "rotten_tomatoes_critic": "79%",
@@ -1185,6 +1612,8 @@
     "title": "American Beauty",
     "year": 1999,
     "director": "Sam Mendes",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "87%",
@@ -1215,6 +1644,8 @@
     "title": "The Sixth Sense",
     "year": 1999,
     "director": "M. Night Shyamalan",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 107,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "86%",
@@ -1241,6 +1672,8 @@
     "title": "The Green Mile",
     "year": 1999,
     "director": "Frank Darabont",
+    "mpaa_rating": "R",
+    "runtime_minutes": 189,
     "ratings": {
       "imdb": "8.6/10",
       "rotten_tomatoes_critic": "79%",
@@ -1267,6 +1700,8 @@
     "title": "Toy Story 2",
     "year": 1999,
     "director": "John Lasseter",
+    "mpaa_rating": "G",
+    "runtime_minutes": 92,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "100%",
@@ -1293,6 +1728,8 @@
     "title": "Being John Malkovich",
     "year": 1999,
     "director": "Spike Jonze",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "94%",
@@ -1314,5 +1751,60 @@
     "description": "A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0120601/"
+  },
+  {
+    "title": "The Insider",
+    "year": 1999,
+    "director": "Michael Mann",
+    "mpaa_rating": "R",
+    "runtime_minutes": 157,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Russell Crowe",
+      "Al Pacino",
+      "Christopher Plummer"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0140352/"
+  },
+  {
+    "title": "The Blair Witch Project",
+    "year": 1999,
+    "director": "Daniel Myrick",
+    "mpaa_rating": "R",
+    "runtime_minutes": 81,
+    "ratings": {
+      "imdb": "6.5/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      "Heather Donahue",
+      "Michael C. Williams",
+      "Joshua Leonard"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0185937/"
   }
 ]

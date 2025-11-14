@@ -3,6 +3,8 @@
     "title": "Psycho",
     "year": 1960,
     "director": "Alfred Hitchcock",
+    "mpaa_rating": "R",
+    "runtime_minutes": 109,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "96%",
@@ -29,6 +31,8 @@
     "title": "The Apartment",
     "year": 1960,
     "director": "Billy Wilder",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 125,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "94%",
@@ -61,6 +65,8 @@
     "title": "Spartacus",
     "year": 1960,
     "director": "Stanley Kubrick",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 197,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "93%",
@@ -92,6 +98,8 @@
     "title": "La Dolce Vita",
     "year": 1960,
     "director": "Federico Fellini",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 174,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "95%",
@@ -116,9 +124,96 @@
     "imdb_url": "https://www.imdb.com/title/tt0053779/"
   },
   {
+    "title": "The Magnificent Seven",
+    "year": 1960,
+    "director": "John Sturges",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 128,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "actors": [
+      "Yul Brynner",
+      "Steve McQueen",
+      "Charles Bronson"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An oppressed Mexican peasant village assembles seven gunfighters to help defend their homes.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0054047/"
+  },
+  {
+    "title": "Breathless",
+    "year": 1960,
+    "director": "Jean-Luc Godard",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 90,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Jean-Paul Belmondo",
+      "Jean Seberg",
+      "Daniel Boulanger"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he reunites with an American journalism student and attempts to persuade her to run away with him to Italy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053472/"
+  },
+  {
+    "title": "Exodus",
+    "year": 1960,
+    "director": "Otto Preminger",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 208,
+    "ratings": {
+      "imdb": "6.7/10",
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Paul Newman",
+      "Eva Marie Saint",
+      "Ralph Richardson"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Score of a Dramatic or Comedy Picture"
+    ],
+    "description": "The state of Israel is created in 1948, resulting in a civil war between the Arabs and the Jews.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053804/"
+  },
+  {
     "title": "West Side Story",
     "year": 1961,
-    "director": "Robert Wise",
+    "director": "Jerome Robbins",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 152,
     "ratings": {
       "imdb": "7.5/10",
       "rotten_tomatoes_critic": "92%",
@@ -156,6 +251,8 @@
     "title": "Judgment at Nuremberg",
     "year": 1961,
     "director": "Stanley Kramer",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 179,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "92%",
@@ -184,6 +281,8 @@
     "title": "The Hustler",
     "year": 1961,
     "director": "Robert Rossen",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 134,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "96%",
@@ -209,9 +308,128 @@
     "imdb_url": "https://www.imdb.com/title/tt0054997/"
   },
   {
+    "title": "Breakfast at Tiffany's",
+    "year": 1961,
+    "director": "Blake Edwards",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 115,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Audrey Hepburn",
+      "George Peppard",
+      "Patricia Neal"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Music, Original Song",
+      "Best Music, Scoring of a Dramatic or Comedy Picture"
+    ],
+    "description": "A young New York socialite becomes interested in a young man who has moved into her apartment building, but her past threatens to get in the way.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0054698/"
+  },
+  {
+    "title": "Yojimbo",
+    "year": 1961,
+    "director": "Akira Kurosawa",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Toshiro Mifune",
+      "Eijirô Tôno",
+      "Tatsuya Nakadai"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055630/"
+  },
+  {
+    "title": "The Guns of Navarone",
+    "year": 1961,
+    "director": "J. Lee Thompson",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 158,
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "David Niven",
+      "Gregory Peck",
+      "Anthony Quinn"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Special Effects"
+    ],
+    "description": "A British team is sent to cross occupied Greek territory and destroy the massive German gun emplacement that commands a key sea channel.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0054953/"
+  },
+  {
+    "title": "One Hundred and One Dalmatians",
+    "year": 1961,
+    "director": "Clyde Geronimi",
+    "mpaa_rating": "G",
+    "runtime_minutes": 79,
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Rod Taylor",
+      "Betty Lou Gerson",
+      "J. Pat O'Malley"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a litter of Dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055254/"
+  },
+  {
     "title": "Lawrence of Arabia",
     "year": 1962,
     "director": "David Lean",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 218,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "94%",
@@ -246,6 +464,8 @@
     "title": "To Kill a Mockingbird",
     "year": 1962,
     "director": "Robert Mulligan",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 129,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "93%",
@@ -275,6 +495,8 @@
     "title": "Dr. No",
     "year": 1962,
     "director": "Terence Young",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "7.2/10",
       "rotten_tomatoes_critic": "95%",
@@ -298,9 +520,99 @@
     "imdb_url": "https://www.imdb.com/title/tt0055928/"
   },
   {
+    "title": "The Manchurian Candidate",
+    "year": 1962,
+    "director": "John Frankenheimer",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 126,
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Frank Sinatra",
+      "Laurence Harvey",
+      "Janet Leigh"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A former prisoner of war is brainwashed as an unwitting assassin for an international Communist conspiracy.",
+    "afi_ranking": 67,
+    "imdb_url": "https://www.imdb.com/title/tt0056218/"
+  },
+  {
+    "title": "The Longest Day",
+    "year": 1962,
+    "director": "Ken Annakin",
+    "mpaa_rating": "G",
+    "runtime_minutes": 178,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "John Wayne",
+      "Robert Ryan",
+      "Richard Burton"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Cinematography, Black-and-White",
+      "Best Effects, Special Effects"
+    ],
+    "description": "The events of D-Day, told on a grand scale from both the Allied and German points of view.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056197/"
+  },
+  {
+    "title": "What Ever Happened to Baby Jane?",
+    "year": 1962,
+    "director": "Robert Aldrich",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 134,
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      "Bette Davis",
+      "Joan Crawford",
+      "Victor Buono"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Costume Design, Black-and-White"
+    ],
+    "description": "A former child star torments her paraplegic sister in their decaying Hollywood mansion.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056687/"
+  },
+  {
     "title": "The Great Escape",
     "year": 1963,
     "director": "John Sturges",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 172,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "94%",
@@ -327,6 +639,8 @@
     "title": "The Birds",
     "year": 1963,
     "director": "Alfred Hitchcock",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 119,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "94%",
@@ -353,6 +667,8 @@
     "title": "8½",
     "year": 1963,
     "director": "Federico Fellini",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 138,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "97%",
@@ -377,9 +693,105 @@
     "imdb_url": "https://www.imdb.com/title/tt0056801/"
   },
   {
+    "title": "Cleopatra",
+    "year": 1963,
+    "director": "Joseph L. Mankiewicz",
+    "mpaa_rating": "G",
+    "runtime_minutes": 192,
+    "ratings": {
+      "imdb": "7.0/10",
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "Rex Harrison"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Cinematography, Color",
+      "Best Art Direction-Set Decoration, Color",
+      "Best Costume Design, Color",
+      "Best Effects, Special Visual Effects"
+    ],
+    "description": "Queen Cleopatra of Egypt experiences both triumph and tragedy as she attempts to resist the imperial ambitions of Rome.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056937/"
+  },
+  {
+    "title": "Tom Jones",
+    "year": 1963,
+    "director": "Tony Richardson",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 129,
+    "ratings": {
+      "imdb": "6.4/10",
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "History"
+    ],
+    "actors": [
+      "Albert Finney",
+      "Susannah York",
+      "George Devine"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Music, Score - Substantially Original"
+    ],
+    "description": "The romantic and chivalrous adventures of adopted bastard Tom Jones in 18th-century England.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0057590/"
+  },
+  {
+    "title": "From Russia with Love",
+    "year": 1963,
+    "director": "Terence Young",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 115,
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      "Sean Connery",
+      "Robert Shaw",
+      "Lotte Lenya"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "James Bond willingly falls into an assassination plot involving a naive Russian beauty in order to retrieve a Soviet encryption device that was stolen by S.P.E.C.T.R.E.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0057076/"
+  },
+  {
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "year": 1964,
     "director": "Stanley Kubrick",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 95,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "98%",
@@ -405,6 +817,8 @@
     "title": "Mary Poppins",
     "year": 1964,
     "director": "Robert Stevenson",
+    "mpaa_rating": "G",
+    "runtime_minutes": 139,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "96%",
@@ -437,6 +851,8 @@
     "title": "My Fair Lady",
     "year": 1964,
     "director": "George Cukor",
+    "mpaa_rating": "G",
+    "runtime_minutes": 170,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "95%",
@@ -472,6 +888,8 @@
     "title": "Goldfinger",
     "year": 1964,
     "director": "Guy Hamilton",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "99%",
@@ -497,9 +915,66 @@
     "imdb_url": "https://www.imdb.com/title/tt0058150/"
   },
   {
+    "title": "A Hard Day's Night",
+    "year": 1964,
+    "director": "Richard Lester",
+    "mpaa_rating": "G",
+    "runtime_minutes": 87,
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A 'typical' day in the life of The Beatles, including many of their famous songs.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058182/"
+  },
+  {
+    "title": "A Fistful of Dollars",
+    "year": 1964,
+    "director": "Sergio Leone",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Gian Maria Volontè",
+      "Marianne Koch"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058461/"
+  },
+  {
     "title": "The Sound of Music",
     "year": 1965,
     "director": "Robert Wise",
+    "mpaa_rating": "G",
+    "runtime_minutes": 172,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "83%",
@@ -532,6 +1007,8 @@
     "title": "Doctor Zhivago",
     "year": 1965,
     "director": "David Lean",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 197,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "84%",
@@ -561,9 +1038,67 @@
     "imdb_url": "https://www.imdb.com/title/tt0059113/"
   },
   {
+    "title": "For a Few Dollars More",
+    "year": 1965,
+    "director": "Sergio Leone",
+    "mpaa_rating": "R",
+    "runtime_minutes": 132,
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Gian Maria Volontè"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two bounty hunters with the same intentions team up to track down a Western outlaw.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0059578/"
+  },
+  {
+    "title": "Thunderball",
+    "year": 1965,
+    "director": "Terence Young",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 130,
+    "ratings": {
+      "imdb": "6.9/10",
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      "Sean Connery",
+      "Claudine Auger",
+      "Adolfo Celi"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Special Visual Effects"
+    ],
+    "description": "James Bond heads to the Bahamas to recover two nuclear warheads stolen by S.P.E.C.T.R.E. agent Emilio Largo in an international extortion scheme.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0059800/"
+  },
+  {
     "title": "The Good, the Bad and the Ugly",
     "year": 1966,
     "director": "Sergio Leone",
+    "mpaa_rating": "R",
+    "runtime_minutes": 178,
     "ratings": {
       "imdb": "8.8/10",
       "rotten_tomatoes_critic": "97%",
@@ -589,6 +1124,8 @@
     "title": "Who's Afraid of Virginia Woolf?",
     "year": 1966,
     "director": "Mike Nichols",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 131,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "95%",
@@ -619,6 +1156,8 @@
     "title": "A Man for All Seasons",
     "year": 1966,
     "director": "Fred Zinnemann",
+    "mpaa_rating": "G",
+    "runtime_minutes": 120,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "89%",
@@ -649,9 +1188,93 @@
     "imdb_url": "https://www.imdb.com/title/tt0060665/"
   },
   {
+    "title": "Blow-Up",
+    "year": 1966,
+    "director": "Michelangelo Antonioni",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 111,
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      "David Hemmings",
+      "Vanessa Redgrave",
+      "Sarah Miles"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A fashion photographer unknowingly captures a death on film after following two lovers in a park.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060176/"
+  },
+  {
+    "title": "The Battle of Algiers",
+    "year": 1966,
+    "director": "Gillo Pontecorvo",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 121,
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      "Brahim Haggiag",
+      "Jean Martin",
+      "Yacef Saadi"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058946/"
+  },
+  {
+    "title": "Persona",
+    "year": 1966,
+    "director": "Ingmar Bergman",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 85,
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Bibi Andersson",
+      "Liv Ullmann",
+      "Margaretha Krook"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A nurse is put in charge of a mute actress and finds that their personas are beginning to merge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060827/"
+  },
+  {
     "title": "The Graduate",
     "year": 1967,
     "director": "Mike Nichols",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 106,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "86%",
@@ -680,6 +1303,8 @@
     "title": "Bonnie and Clyde",
     "year": 1967,
     "director": "Arthur Penn",
+    "mpaa_rating": "R",
+    "runtime_minutes": 111,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "88%",
@@ -709,6 +1334,8 @@
     "title": "In the Heat of the Night",
     "year": 1967,
     "director": "Norman Jewison",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "96%",
@@ -738,9 +1365,100 @@
     "imdb_url": "https://www.imdb.com/title/tt0061811/"
   },
   {
+    "title": "Cool Hand Luke",
+    "year": 1967,
+    "director": "Stuart Rosenberg",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 127,
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Paul Newman",
+      "George Kennedy",
+      "Strother Martin"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actor"
+    ],
+    "description": "A laid-back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061512/"
+  },
+  {
+    "title": "Guess Who's Coming to Dinner",
+    "year": 1967,
+    "director": "Stanley Kramer",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Spencer Tracy",
+      "Sidney Poitier",
+      "Katharine Hepburn"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actress",
+      "Best Writing, Story and Screenplay - Written Directly for the Screen"
+    ],
+    "description": "A couple's attitudes are challenged when their daughter introduces them to her African-American fiancé.",
+    "afi_ranking": 99,
+    "imdb_url": "https://www.imdb.com/title/tt0061735/"
+  },
+  {
+    "title": "The Dirty Dozen",
+    "year": 1967,
+    "director": "Robert Aldrich",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 150,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "actors": [
+      "Lee Marvin",
+      "Ernest Borgnine",
+      "Charles Bronson"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Sound Effects"
+    ],
+    "description": "A U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers in World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061578/"
+  },
+  {
     "title": "2001: A Space Odyssey",
     "year": 1968,
     "director": "Stanley Kubrick",
+    "mpaa_rating": "G",
+    "runtime_minutes": 149,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "92%",
@@ -768,6 +1486,8 @@
     "title": "Rosemary's Baby",
     "year": 1968,
     "director": "Roman Polanski",
+    "mpaa_rating": "R",
+    "runtime_minutes": 137,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "96%",
@@ -795,6 +1515,8 @@
     "title": "Planet of the Apes",
     "year": 1968,
     "director": "Franklin J. Schaffner",
+    "mpaa_rating": "G",
+    "runtime_minutes": 112,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "86%",
@@ -822,6 +1544,8 @@
     "title": "Oliver!",
     "year": 1968,
     "director": "Carol Reed",
+    "mpaa_rating": "G",
+    "runtime_minutes": 153,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "90%",
@@ -852,9 +1576,95 @@
     "imdb_url": "https://www.imdb.com/title/tt0063385/"
   },
   {
+    "title": "The Producers",
+    "year": 1967,
+    "director": "Mel Brooks",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 88,
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      "Zero Mostel",
+      "Gene Wilder",
+      "Dick Shawn"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Story and Screenplay - Written Directly for the Screen"
+    ],
+    "description": "A stage-play producer devises a plan to make money by producing a sure-fire flop.",
+    "afi_ranking": 11,
+    "imdb_url": "https://www.imdb.com/title/tt0063462/"
+  },
+  {
+    "title": "Bullitt",
+    "year": 1968,
+    "director": "Peter Yates",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 114,
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      "Steve McQueen",
+      "Jacqueline Bisset",
+      "Robert Vaughn"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Film Editing"
+    ],
+    "description": "An all-guts, no-glory San Francisco cop becomes determined to find the underworld kingpin that killed the witness in his protection.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062765/"
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "year": 1968,
+    "director": "Sergio Leone",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 165,
+    "ratings": {
+      "imdb": "8.5/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      "Henry Fonda",
+      "Charles Bronson",
+      "Claudia Cardinale"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0064116/"
+  },
+  {
     "title": "Midnight Cowboy",
     "year": 1969,
     "director": "John Schlesinger",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "89%",
@@ -883,6 +1693,8 @@
     "title": "Butch Cassidy and the Sundance Kid",
     "year": 1969,
     "director": "George Roy Hill",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "90%",
@@ -914,6 +1726,8 @@
     "title": "The Wild Bunch",
     "year": 1969,
     "director": "Sam Peckinpah",
+    "mpaa_rating": "R",
+    "runtime_minutes": 145,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "90%",
@@ -940,6 +1754,8 @@
     "title": "Easy Rider",
     "year": 1969,
     "director": "Dennis Hopper",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
     "ratings": {
       "imdb": "7.3/10",
       "rotten_tomatoes_critic": "84%",
@@ -965,6 +1781,8 @@
     "title": "Z",
     "year": 1969,
     "director": "Costa-Gavras",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 127,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "94%",
@@ -989,5 +1807,35 @@
     "description": "In a military-led country, a pacifist organization's leader is killed in what appears to be a traffic accident. The examining magistrate, however, isn't so sure.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0065234/"
+  },
+  {
+    "title": "True Grit",
+    "year": 1969,
+    "director": "Henry Hathaway",
+    "mpaa_rating": "G",
+    "runtime_minutes": 128,
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "John Wayne",
+      "Kim Darby",
+      "Glen Campbell"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor"
+    ],
+    "description": "A drunken, stubborn U.S. Marshal and a Texas Ranger help a stubborn teenager track down her father's murderer in Indian Territory.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0065126/"
   }
 ]

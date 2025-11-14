@@ -3,6 +3,8 @@
     "title": "All About Eve",
     "year": 1950,
     "director": "Joseph L. Mankiewicz",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 138,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "99%",
@@ -34,6 +36,8 @@
     "title": "Sunset Boulevard",
     "year": 1950,
     "director": "Billy Wilder",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "98%",
@@ -63,6 +67,8 @@
     "title": "Rashomon",
     "year": 1950,
     "director": "Akira Kurosawa",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 88,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "98%",
@@ -91,6 +97,8 @@
     "title": "The Asphalt Jungle",
     "year": 1950,
     "director": "John Huston",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 112,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "97%",
@@ -114,9 +122,69 @@
     "imdb_url": "https://www.imdb.com/title/tt0042208/"
   },
   {
+    "title": "Cinderella",
+    "year": 1950,
+    "director": "Clyde Geronimi",
+    "mpaa_rating": "G",
+    "runtime_minutes": 74,
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Ilene Woods",
+      "James MacDonald",
+      "Eleanor Audley"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When her cruel stepmother prevents her from attending the Royal Ball, she gets some unexpected help from the lovable mice Gus and Jaq, and from her Fairy Godmother.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0042332/"
+  },
+  {
+    "title": "Born Yesterday",
+    "year": 1950,
+    "director": "George Cukor",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 103,
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Judy Holliday",
+      "Broderick Crawford",
+      "William Holden"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress"
+    ],
+    "description": "A corrupt tycoon hires a tutor to refine his ditzy girlfriend, but the plan backfires as she becomes educated and assertive.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0042276/"
+  },
+  {
     "title": "Harvey",
     "year": 1950,
     "director": "Henry Koster",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 104,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "87%",
@@ -145,6 +213,8 @@
     "title": "A Streetcar Named Desire",
     "year": 1951,
     "director": "Elia Kazan",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 122,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "97%",
@@ -174,6 +244,8 @@
     "title": "The African Queen",
     "year": 1951,
     "director": "John Huston",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 105,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "96%",
@@ -202,6 +274,8 @@
     "title": "An American in Paris",
     "year": 1951,
     "director": "Vincente Minnelli",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 113,
     "ratings": {
       "imdb": "7.2/10",
       "rotten_tomatoes_critic": "96%",
@@ -235,6 +309,8 @@
     "title": "Strangers on a Train",
     "year": 1951,
     "director": "Alfred Hitchcock",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 101,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "98%",
@@ -261,6 +337,8 @@
     "title": "The Day the Earth Stood Still",
     "year": 1951,
     "director": "Robert Wise",
+    "mpaa_rating": "G",
+    "runtime_minutes": 92,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "95%",
@@ -283,34 +361,66 @@
     "imdb_url": "https://www.imdb.com/title/tt0043456/"
   },
   {
-    "title": "The Thing from Another World",
+    "title": "Ace in the Hole",
     "year": 1951,
-    "director": "Christian Nyby",
+    "director": "Billy Wilder",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 111,
     "ratings": {
-      "imdb": "7.1/10",
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
-      "Horror",
-      "Sci-Fi"
+      "Drama",
+      "Film-Noir"
     ],
     "actors": [
-      "Margaret Sheridan",
-      "Kenneth Tobey",
-      "Robert Cornthwaite"
+      "Kirk Douglas",
+      "Jan Sterling",
+      "Robert Arthur"
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Scientists at an Arctic research station discover a spacecraft buried in the ice and a hostile alien creature frozen within.",
+    "description": "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to rekindle his career, but the situation quickly escalates into a media circus.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0044121/"
+    "imdb_url": "https://www.imdb.com/title/tt0043338/"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "year": 1951,
+    "director": "Clyde Geronimi",
+    "mpaa_rating": "G",
+    "runtime_minutes": 75,
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      "Kathryn Beaumont",
+      "Ed Wynn",
+      "Richard Haydn"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043274/"
   },
   {
     "title": "Singin' in the Rain",
     "year": 1952,
     "director": "Stanley Donen",
+    "mpaa_rating": "G",
+    "runtime_minutes": 103,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "100%",
@@ -337,6 +447,8 @@
     "title": "High Noon",
     "year": 1952,
     "director": "Fred Zinnemann",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 85,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "95%",
@@ -368,6 +480,8 @@
     "title": "Ikiru",
     "year": 1952,
     "director": "Akira Kurosawa",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 143,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "98%",
@@ -389,38 +503,75 @@
     "imdb_url": "https://www.imdb.com/title/tt0044741/"
   },
   {
-    "title": "The Greatest Show on Earth",
+    "title": "The Quiet Man",
     "year": 1952,
-    "director": "Cecil B. DeMille",
+    "director": "John Ford",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 129,
     "ratings": {
-      "imdb": "6.6/10",
-      "rotten_tomatoes_critic": "48%",
-      "rotten_tomatoes_popcorn": "56%"
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
+      "Comedy",
       "Drama",
-      "Family",
       "Romance"
     ],
     "actors": [
-      "James Stewart",
-      "Charlton Heston",
-      "Betty Hutton"
+      "John Wayne",
+      "Maureen O'Hara",
+      "Barry Fitzgerald"
     ],
-    "oscars_nominated": 5,
+    "oscars_nominated": 7,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Picture",
-      "Best Writing, Motion Picture Story"
+      "Best Director",
+      "Best Cinematography, Color"
     ],
-    "description": "The dramatic lives of trapeze artists, a clown, and an elephant trainer are told against a background of circus spectacle.",
+    "description": "A retired American boxer returns to the village of his birth in Ireland, where he falls for a spirited redhead whose brother is contemptuous of their union.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0044672/"
+    "imdb_url": "https://www.imdb.com/title/tt0045061/"
+  },
+  {
+    "title": "The Bad and the Beautiful",
+    "year": 1952,
+    "director": "Vincente Minnelli",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 118,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Lana Turner",
+      "Kirk Douglas",
+      "Walter Pidgeon"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Supporting Actress",
+      "Best Writing, Screenplay",
+      "Best Art Direction-Set Decoration, Black-and-White",
+      "Best Cinematography, Black-and-White",
+      "Best Costume Design, Black-and-White"
+    ],
+    "description": "An unscrupulous movie producer manipulates the lives of a director, an actress, and a writer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044391/"
   },
   {
     "title": "From Here to Eternity",
     "year": 1953,
     "director": "Fred Zinnemann",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 118,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "90%",
@@ -456,6 +607,8 @@
     "title": "Shane",
     "year": 1953,
     "director": "George Stevens",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 118,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "97%",
@@ -483,6 +636,8 @@
     "title": "Roman Holiday",
     "year": 1953,
     "director": "William Wyler",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 118,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "95%",
@@ -512,6 +667,8 @@
     "title": "The Wages of Fear",
     "year": 1953,
     "director": "Henri-Georges Clouzot",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 131,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "95%",
@@ -538,6 +695,8 @@
     "title": "Tokyo Story",
     "year": 1953,
     "director": "Yasujirô Ozu",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 136,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "100%",
@@ -559,9 +718,67 @@
     "imdb_url": "https://www.imdb.com/title/tt0046438/"
   },
   {
+    "title": "Gentlemen Prefer Blondes",
+    "year": 1953,
+    "director": "Howard Hawks",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 91,
+    "ratings": {
+      "imdb": "7.1/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "Jane Russell",
+      "Marilyn Monroe",
+      "Charles Coburn"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two showgirls travel to Paris, but find themselves in trouble when one of them is accused of stealing a diamond tiara.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0045810/"
+  },
+  {
+    "title": "Peter Pan",
+    "year": 1953,
+    "director": "Clyde Geronimi",
+    "mpaa_rating": "G",
+    "runtime_minutes": 77,
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      "Bobby Driscoll",
+      "Kathryn Beaumont",
+      "Hans Conried"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Wendy and her brothers are whisked away to the magical world of Neverland with the hero of their stories, Peter Pan.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046183/"
+  },
+  {
     "title": "On the Waterfront",
     "year": 1954,
     "director": "Elia Kazan",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "99%",
@@ -597,6 +814,8 @@
     "title": "Rear Window",
     "year": 1954,
     "director": "Alfred Hitchcock",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 112,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "98%",
@@ -622,6 +841,8 @@
     "title": "Seven Samurai",
     "year": 1954,
     "director": "Akira Kurosawa",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 207,
     "ratings": {
       "imdb": "8.6/10",
       "rotten_tomatoes_critic": "100%",
@@ -647,6 +868,8 @@
     "title": "Dial M for Murder",
     "year": 1954,
     "director": "Alfred Hitchcock",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 105,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "89%",
@@ -672,6 +895,8 @@
     "title": "A Star Is Born",
     "year": 1954,
     "director": "George Cukor",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 176,
     "ratings": {
       "imdb": "7.5/10",
       "rotten_tomatoes_critic": "97%",
@@ -695,9 +920,72 @@
     "imdb_url": "https://www.imdb.com/title/tt0047522/"
   },
   {
+    "title": "Sabrina",
+    "year": 1954,
+    "director": "Billy Wilder",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 113,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Humphrey Bogart",
+      "Audrey Hepburn",
+      "William Holden"
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Costume Design, Black-and-White"
+    ],
+    "description": "A chauffeur's daughter returns from Paris after two years and captures the hearts of two wealthy brothers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047437/"
+  },
+  {
+    "title": "20,000 Leagues Under the Sea",
+    "year": 1954,
+    "director": "Richard Fleischer",
+    "mpaa_rating": "G",
+    "runtime_minutes": 127,
+    "ratings": {
+      "imdb": "7.2/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      "Kirk Douglas",
+      "James Mason",
+      "Paul Lukas"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Art Direction-Set Decoration, Color",
+      "Best Special Effects"
+    ],
+    "description": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046672/"
+  },
+  {
     "title": "Rebel Without a Cause",
     "year": 1955,
     "director": "Nicholas Ray",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 111,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "93%",
@@ -722,6 +1010,8 @@
     "title": "The Night of the Hunter",
     "year": 1955,
     "director": "Charles Laughton",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 92,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "93%",
@@ -748,6 +1038,8 @@
     "title": "Marty",
     "year": 1955,
     "director": "Delbert Mann",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 90,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "96%",
@@ -778,6 +1070,8 @@
     "title": "Lady and the Tramp",
     "year": 1955,
     "director": "Clyde Geronimi",
+    "mpaa_rating": "G",
+    "runtime_minutes": 76,
     "ratings": {
       "imdb": "7.3/10",
       "rotten_tomatoes_critic": "93%",
@@ -801,33 +1095,66 @@
     "imdb_url": "https://www.imdb.com/title/tt0048280/"
   },
   {
-    "title": "Pather Panchali",
+    "title": "East of Eden",
     "year": 1955,
-    "director": "Satyajit Ray",
+    "director": "Elia Kazan",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 118,
     "ratings": {
-      "imdb": "8.2/10",
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Drama"
     ],
     "actors": [
-      "Kanu Bannerjee",
-      "Karuna Bannerjee",
-      "Subir Banerjee"
+      "James Dean",
+      "Raymond Massey",
+      "Julie Harris"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actress"
+    ],
+    "description": "A wayward young man struggles to earn the affection of his deeply religious father while competing against his favored brother.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048028/"
+  },
+  {
+    "title": "The Seven Year Itch",
+    "year": 1955,
+    "director": "Billy Wilder",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
+    "ratings": {
+      "imdb": "7.1/10",
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      "Marilyn Monroe",
+      "Tom Ewell",
+      "Evelyn Keyes"
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The life of a young boy named Apu and his impoverished family in rural Bengal.",
+    "description": "When his family goes away for the summer, a hitherto faithful husband with an overactive imagination is tempted by a beautiful new neighbor.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048473/"
+    "imdb_url": "https://www.imdb.com/title/tt0048605/"
   },
   {
     "title": "The Searchers",
     "year": 1956,
     "director": "John Ford",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 119,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "96%",
@@ -854,6 +1181,8 @@
     "title": "The Ten Commandments",
     "year": 1956,
     "director": "Cecil B. DeMille",
+    "mpaa_rating": "G",
+    "runtime_minutes": 220,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "89%",
@@ -881,6 +1210,8 @@
     "title": "Giant",
     "year": 1956,
     "director": "George Stevens",
+    "mpaa_rating": "G",
+    "runtime_minutes": 201,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "91%",
@@ -908,6 +1239,8 @@
     "title": "Invasion of the Body Snatchers",
     "year": 1956,
     "director": "Don Siegel",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 80,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "98%",
@@ -931,35 +1264,79 @@
     "imdb_url": "https://www.imdb.com/title/tt0049366/"
   },
   {
-    "title": "Forbidden Planet",
+    "title": "The King and I",
     "year": 1956,
-    "director": "Fred M. Wilcox",
+    "director": "Walter Lang",
+    "mpaa_rating": "G",
+    "runtime_minutes": 133,
     "ratings": {
-      "imdb": "7.5/10",
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "82%"
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
+      "Biography",
+      "Drama",
+      "Musical"
     ],
     "actors": [
-      "Walter Pidgeon",
-      "Anne Francis",
-      "Leslie Nielsen"
+      "Deborah Kerr",
+      "Yul Brynner",
+      "Rita Moreno"
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A starship crew travels to a distant planet to investigate the fate of an earlier expedition, only to find a mysterious and powerful force at play.",
+    "oscars_nominated": 9,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Art Direction-Set Decoration, Color",
+      "Best Costume Design, Color",
+      "Best Sound, Recording",
+      "Best Music, Scoring of a Musical Picture"
+    ],
+    "description": "A widow accepts a job as a live-in governess to the King of Siam's children.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049223/"
+    "imdb_url": "https://www.imdb.com/title/tt0049408/"
+  },
+  {
+    "title": "Around the World in 80 Days",
+    "year": 1956,
+    "director": "Michael Anderson",
+    "mpaa_rating": "G",
+    "runtime_minutes": 182,
+    "ratings": {
+      "imdb": "6.7/10",
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      "David Niven",
+      "Cantinflas",
+      "Shirley MacLaine"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Writing, Best Screenplay - Adapted",
+      "Best Cinematography, Color",
+      "Best Film Editing",
+      "Best Music, Scoring of a Dramatic or Comedy Picture"
+    ],
+    "description": "A Victorian Englishman bets that with the new steamships and railways he can circumnavigate the globe in eighty days.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048960/"
   },
   {
     "title": "12 Angry Men",
     "year": 1957,
     "director": "Sidney Lumet",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
     "ratings": {
       "imdb": "9.0/10",
       "rotten_tomatoes_critic": "100%",
@@ -985,6 +1362,8 @@
     "title": "The Bridge on the River Kwai",
     "year": 1957,
     "director": "David Lean",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 161,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "96%",
@@ -1019,6 +1398,8 @@
     "title": "Paths of Glory",
     "year": 1957,
     "director": "Stanley Kubrick",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 88,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "95%",
@@ -1044,6 +1425,8 @@
     "title": "Witness for the Prosecution",
     "year": 1957,
     "director": "Billy Wilder",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 116,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "100%",
@@ -1070,6 +1453,8 @@
     "title": "The Seventh Seal",
     "year": 1957,
     "director": "Ingmar Bergman",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "94%",
@@ -1092,9 +1477,65 @@
     "imdb_url": "https://www.imdb.com/title/tt0050976/"
   },
   {
+    "title": "Sweet Smell of Success",
+    "year": 1957,
+    "director": "Alexander Mackendrick",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      "Burt Lancaster",
+      "Tony Curtis",
+      "Susan Harrison"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A powerful but unethical Broadway columnist uses his connections to ruin his sister's relationship with a man he deems unworthy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051036/"
+  },
+  {
+    "title": "Wild Strawberries",
+    "year": 1957,
+    "director": "Ingmar Bergman",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 91,
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Victor Sjöström",
+      "Bibi Andersson",
+      "Ingrid Thulin"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a vivid nightmare, an elderly professor confronts his mortality and regrets as he travels to receive an honorary degree.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050986/"
+  },
+  {
     "title": "Vertigo",
     "year": 1958,
     "director": "Alfred Hitchcock",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 128,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "92%",
@@ -1121,6 +1562,8 @@
     "title": "Touch of Evil",
     "year": 1958,
     "director": "Orson Welles",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 95,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "95%",
@@ -1147,6 +1590,8 @@
     "title": "Gigi",
     "year": 1958,
     "director": "Vincente Minnelli",
+    "mpaa_rating": "G",
+    "runtime_minutes": 115,
     "ratings": {
       "imdb": "6.6/10",
       "rotten_tomatoes_critic": "80%",
@@ -1183,6 +1628,8 @@
     "title": "Cat on a Hot Tin Roof",
     "year": 1958,
     "director": "Richard Brooks",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "97%",
@@ -1207,6 +1654,8 @@
     "title": "The Defiant Ones",
     "year": 1958,
     "director": "Stanley Kramer",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "92%",
@@ -1236,6 +1685,8 @@
     "title": "Some Like It Hot",
     "year": 1959,
     "director": "Billy Wilder",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 121,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "94%",
@@ -1264,6 +1715,8 @@
     "title": "North by Northwest",
     "year": 1959,
     "director": "Alfred Hitchcock",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 136,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "97%",
@@ -1290,6 +1743,8 @@
     "title": "Ben-Hur",
     "year": 1959,
     "director": "William Wyler",
+    "mpaa_rating": "G",
+    "runtime_minutes": 212,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "86%",
@@ -1327,6 +1782,8 @@
     "title": "Anatomy of a Murder",
     "year": 1959,
     "director": "Otto Preminger",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 160,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "100%",
@@ -1353,6 +1810,8 @@
     "title": "The 400 Blows",
     "year": 1959,
     "director": "François Truffaut",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 99,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "100%",
@@ -1378,6 +1837,8 @@
     "title": "Sleeping Beauty",
     "year": 1959,
     "director": "Clyde Geronimi",
+    "mpaa_rating": "G",
+    "runtime_minutes": 75,
     "ratings": {
       "imdb": "7.2/10",
       "rotten_tomatoes_critic": "89%",
@@ -1399,5 +1860,32 @@
     "description": "After being snubbed by the royal family, a malevolent fairy curses the infant Princess Aurora, decreeing that she will die on her 16th birthday.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0053285/"
+  },
+  {
+    "title": "Rio Bravo",
+    "year": 1959,
+    "director": "Howard Hawks",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 141,
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      "John Wayne",
+      "Dean Martin",
+      "Ricky Nelson"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053221/"
   }
 ]

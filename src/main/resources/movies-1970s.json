@@ -3,6 +3,8 @@
     "title": "Patton",
     "year": 1970,
     "director": "Franklin J. Schaffner",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 172,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "91%",
@@ -37,6 +39,8 @@
     "title": "M*A*S*H",
     "year": 1970,
     "director": "Robert Altman",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "84%",
@@ -62,9 +66,66 @@
     "imdb_url": "https://www.imdb.com/title/tt0066026/"
   },
   {
+    "title": "Love Story",
+    "year": 1970,
+    "director": "Arthur Hiller",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 100,
+    "ratings": {
+      "imdb": "6.9/10",
+      "rotten_tomatoes_critic": "68%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Ali MacGraw",
+      "Ryan O'Neal",
+      "John Marley"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Score"
+    ],
+    "description": "A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.",
+    "afi_ranking": 9,
+    "imdb_url": "https://www.imdb.com/title/tt0066011/"
+  },
+  {
+    "title": "Five Easy Pieces",
+    "year": 1970,
+    "director": "Bob Rafelson",
+    "mpaa_rating": "R",
+    "runtime_minutes": 98,
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Jack Nicholson",
+      "Karen Black",
+      "Billy Green Bush"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dropout from upper-class America picks up work along the way on oil rigs when his life is interrupted by a link to his past.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0065724/"
+  },
+  {
     "title": "A Clockwork Orange",
     "year": 1971,
     "director": "Stanley Kubrick",
+    "mpaa_rating": "R",
+    "runtime_minutes": 136,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "87%",
@@ -90,6 +151,8 @@
     "title": "The French Connection",
     "year": 1971,
     "director": "William Friedkin",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "96%",
@@ -122,6 +185,8 @@
     "title": "Dirty Harry",
     "year": 1971,
     "director": "Don Siegel",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "89%",
@@ -148,6 +213,8 @@
     "title": "Willy Wonka & the Chocolate Factory",
     "year": 1971,
     "director": "Mel Stuart",
+    "mpaa_rating": "G",
+    "runtime_minutes": 100,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "91%",
@@ -171,9 +238,73 @@
     "imdb_url": "https://www.imdb.com/title/tt0067992/"
   },
   {
+    "title": "Fiddler on the Roof",
+    "year": 1971,
+    "director": "Norman Jewison",
+    "mpaa_rating": "G",
+    "runtime_minutes": 181,
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Musical"
+    ],
+    "actors": [
+      "Topol",
+      "Norma Crane",
+      "Leonard Frey"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Best Sound",
+      "Best Music, Scoring Adaptation and Original Song Score"
+    ],
+    "description": "In pre-revolutionary Russia, a Jewish peasant with traditional values contends with marrying off three of his daughters with their own minds, while growing anti-Semitic sentiment threatens his village.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0067093/"
+  },
+  {
+    "title": "Shaft",
+    "year": 1971,
+    "director": "Gordon Parks",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "ratings": {
+      "imdb": "6.5/10",
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      "Richard Roundtree",
+      "Moses Gunn",
+      "Charles Cioffi"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song"
+    ],
+    "description": "Cool black private eye John Shaft is hired by a crime lord to find and retrieve his kidnapped daughter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0067741/"
+  },
+  {
     "title": "The Godfather",
     "year": 1972,
     "director": "Francis Ford Coppola",
+    "mpaa_rating": "R",
+    "runtime_minutes": 175,
     "ratings": {
       "imdb": "9.2/10",
       "rotten_tomatoes_critic": "97%",
@@ -203,6 +334,8 @@
     "title": "Cabaret",
     "year": 1972,
     "director": "Bob Fosse",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 124,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "94%",
@@ -237,6 +370,8 @@
     "title": "Deliverance",
     "year": 1972,
     "director": "John Boorman",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "89%",
@@ -260,9 +395,69 @@
     "imdb_url": "https://www.imdb.com/title/tt0068473/"
   },
   {
+    "title": "Last Tango in Paris",
+    "year": 1972,
+    "director": "Bernardo Bertolucci",
+    "mpaa_rating": "X",
+    "runtime_minutes": 129,
+    "ratings": {
+      "imdb": "6.9/10",
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Marlon Brando",
+      "Maria Schneider",
+      "Maria Michi"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young Parisian woman meets a middle-aged American businessman who demands their clandestine relationship be based only on sex.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070849/"
+  },
+  {
+    "title": "The Poseidon Adventure",
+    "year": 1972,
+    "director": "Ronald Neame",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 117,
+    "ratings": {
+      "imdb": "7.1/10",
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Gene Hackman",
+      "Ernest Borgnine",
+      "Shelley Winters"
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Music, Original Song",
+      "Special Achievement Award"
+    ],
+    "description": "A group of passengers must embark on a harrowing struggle for survival after a rogue wave capsizes their cruise liner at sea.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0069113/"
+  },
+  {
     "title": "The Sting",
     "year": 1973,
     "director": "George Roy Hill",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 129,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "93%",
@@ -297,6 +492,8 @@
     "title": "The Exorcist",
     "year": 1973,
     "director": "William Friedkin",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "78%",
@@ -324,6 +521,8 @@
     "title": "American Graffiti",
     "year": 1973,
     "director": "George Lucas",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "95%",
@@ -349,6 +548,8 @@
     "title": "Serpico",
     "year": 1973,
     "director": "Sidney Lumet",
+    "mpaa_rating": "R",
+    "runtime_minutes": 130,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "91%",
@@ -372,9 +573,96 @@
     "imdb_url": "https://www.imdb.com/title/tt0070666/"
   },
   {
+    "title": "Mean Streets",
+    "year": 1973,
+    "director": "Martin Scorsese",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "ratings": {
+      "imdb": "7.2/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Robert De Niro",
+      "Harvey Keitel",
+      "David Proval"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-time hood aspires to work his way up the ranks of a local mob.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070379/"
+  },
+  {
+    "title": "Enter the Dragon",
+    "year": 1973,
+    "director": "Robert Clouse",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Bruce Lee",
+      "John Saxon",
+      "Jim Kelly"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070034/"
+  },
+  {
+    "title": "Paper Moon",
+    "year": 1973,
+    "director": "Peter Bogdanovich",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 102,
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      "Ryan O'Neal",
+      "Tatum O'Neal",
+      "Madeline Kahn"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actress"
+    ],
+    "description": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070510/"
+  },
+  {
     "title": "The Godfather Part II",
     "year": 1974,
     "director": "Francis Ford Coppola",
+    "mpaa_rating": "R",
+    "runtime_minutes": 202,
     "ratings": {
       "imdb": "9.0/10",
       "rotten_tomatoes_critic": "96%",
@@ -407,6 +695,8 @@
     "title": "Chinatown",
     "year": 1974,
     "director": "Roman Polanski",
+    "mpaa_rating": "R",
+    "runtime_minutes": 130,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "99%",
@@ -435,6 +725,8 @@
     "title": "Blazing Saddles",
     "year": 1974,
     "director": "Mel Brooks",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "88%",
@@ -460,6 +752,8 @@
     "title": "The Conversation",
     "year": 1974,
     "director": "Francis Ford Coppola",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 113,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "97%",
@@ -483,9 +777,69 @@
     "imdb_url": "https://www.imdb.com/title/tt0071360/"
   },
   {
+    "title": "Young Frankenstein",
+    "year": 1974,
+    "director": "Mel Brooks",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 106,
+    "ratings": {
+      "imdb": "8.0/10",
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      "Gene Wilder",
+      "Madeline Kahn",
+      "Marty Feldman"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American grandson of the infamous scientist, struggling to prove that he is not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0072431/"
+  },
+  {
+    "title": "The Towering Inferno",
+    "year": 1974,
+    "director": "John Guillermin",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 165,
+    "ratings": {
+      "imdb": "7.0/10",
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Steve McQueen",
+      "Paul Newman",
+      "William Holden"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Best Film Editing",
+      "Best Music, Original Song"
+    ],
+    "description": "At the opening party of a colossal, but poorly constructed, office building, a massive fire breaks out that threatens to destroy the tower and everyone in it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0072308/"
+  },
+  {
     "title": "One Flew Over the Cuckoo's Nest",
     "year": 1975,
     "director": "Milos Forman",
+    "mpaa_rating": "R",
+    "runtime_minutes": 133,
     "ratings": {
       "imdb": "8.7/10",
       "rotten_tomatoes_critic": "93%",
@@ -516,6 +870,8 @@
     "title": "Jaws",
     "year": 1975,
     "director": "Steven Spielberg",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 124,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "97%",
@@ -545,6 +901,8 @@
     "title": "Dog Day Afternoon",
     "year": 1975,
     "director": "Sidney Lumet",
+    "mpaa_rating": "R",
+    "runtime_minutes": 125,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "96%",
@@ -573,6 +931,8 @@
     "title": "Barry Lyndon",
     "year": 1975,
     "director": "Stanley Kubrick",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 185,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "88%",
@@ -601,9 +961,69 @@
     "imdb_url": "https://www.imdb.com/title/tt0072684/"
   },
   {
+    "title": "Nashville",
+    "year": 1975,
+    "director": "Robert Altman",
+    "mpaa_rating": "R",
+    "runtime_minutes": 160,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      "Keith Carradine",
+      "Karen Black",
+      "Ronee Blakley"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song"
+    ],
+    "description": "Over the course of a few hectic days, numerous interrelated people prepare for a political convention in Nashville, Tennessee.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0073440/"
+  },
+  {
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "director": "Terry Gilliam",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 91,
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "actors": [
+      "Graham Chapman",
+      "John Cleese",
+      "Eric Idle"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071853/"
+  },
+  {
     "title": "Taxi Driver",
     "year": 1976,
     "director": "Martin Scorsese",
+    "mpaa_rating": "R",
+    "runtime_minutes": 114,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "89%",
@@ -629,6 +1049,8 @@
     "title": "Rocky",
     "year": 1976,
     "director": "John G. Avildsen",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 120,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "92%",
@@ -658,6 +1080,8 @@
     "title": "Network",
     "year": 1976,
     "director": "Sidney Lumet",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "91%",
@@ -687,6 +1111,8 @@
     "title": "All the President's Men",
     "year": 1976,
     "director": "Alan J. Pakula",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 138,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "94%",
@@ -715,9 +1141,37 @@
     "imdb_url": "https://www.imdb.com/title/tt0074119/"
   },
   {
-    "title": "Star Wars: Episode IV - A New Hope",
+    "title": "Carrie",
+    "year": 1976,
+    "director": "Brian De Palma",
+    "mpaa_rating": "R",
+    "runtime_minutes": 98,
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Horror"
+    ],
+    "actors": [
+      "Sissy Spacek",
+      "Piper Laurie",
+      "Amy Irving"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0074285/"
+  },
+  {
+    "title": "Star Wars",
     "year": 1977,
     "director": "George Lucas",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 121,
     "ratings": {
       "imdb": "8.6/10",
       "rotten_tomatoes_critic": "93%",
@@ -752,6 +1206,8 @@
     "title": "Annie Hall",
     "year": 1977,
     "director": "Woody Allen",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 93,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "97%",
@@ -782,6 +1238,8 @@
     "title": "Close Encounters of the Third Kind",
     "year": 1977,
     "director": "Steven Spielberg",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 137,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "94%",
@@ -810,6 +1268,8 @@
     "title": "Saturday Night Fever",
     "year": 1977,
     "director": "John Badham",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
     "ratings": {
       "imdb": "6.8/10",
       "rotten_tomatoes_critic": "82%",
@@ -832,9 +1292,39 @@
     "imdb_url": "https://www.imdb.com/title/tt0076666/"
   },
   {
+    "title": "Smokey and the Bandit",
+    "year": 1977,
+    "director": "Hal Needham",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 96,
+    "ratings": {
+      "imdb": "6.9/10",
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Burt Reynolds",
+      "Sally Field",
+      "Jerry Reed"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Bandit is hired on to run a tractor-trailer full of beer over state lines, in hot pursuit by a pesky sheriff.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076729/"
+  },
+  {
     "title": "The Deer Hunter",
     "year": 1978,
     "director": "Michael Cimino",
+    "mpaa_rating": "R",
+    "runtime_minutes": 183,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "86%",
@@ -866,6 +1356,8 @@
     "title": "Halloween",
     "year": 1978,
     "director": "John Carpenter",
+    "mpaa_rating": "R",
+    "runtime_minutes": 91,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "96%",
@@ -891,6 +1383,8 @@
     "title": "Superman",
     "year": 1978,
     "director": "Richard Donner",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 143,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "94%",
@@ -916,9 +1410,94 @@
     "imdb_url": "https://www.imdb.com/title/tt0078346/"
   },
   {
+    "title": "Grease",
+    "year": 1978,
+    "director": "Randal Kleiser",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "ratings": {
+      "imdb": "7.2/10",
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      "John Travolta",
+      "Olivia Newton-John",
+      "Stockard Channing"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Good girl Sandy Olsson and greaser Danny Zuko fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077631/"
+  },
+  {
+    "title": "National Lampoon's Animal House",
+    "year": 1978,
+    "director": "John Landis",
+    "mpaa_rating": "R",
+    "runtime_minutes": 109,
+    "ratings": {
+      "imdb": "7.4/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      "John Belushi",
+      "Karen Allen",
+      "Tom Hulce"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "At a 1962 college, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
+    "afi_ranking": 36,
+    "imdb_url": "https://www.imdb.com/title/tt0077975/"
+  },
+  {
+    "title": "Days of Heaven",
+    "year": 1978,
+    "director": "Terrence Malick",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 94,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Richard Gere",
+      "Brooke Adams",
+      "Sam Shepard"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Cinematography"
+    ],
+    "description": "A hot-tempered farm laborer convinces the woman he loves to marry their rich but dying boss so that they can inherit his fortune.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077405/"
+  },
+  {
     "title": "Apocalypse Now",
     "year": 1979,
     "director": "Francis Ford Coppola",
+    "mpaa_rating": "R",
+    "runtime_minutes": 147,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "98%",
@@ -947,6 +1526,8 @@
     "title": "Alien",
     "year": 1979,
     "director": "Ridley Scott",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "93%",
@@ -974,6 +1555,8 @@
     "title": "Kramer vs. Kramer",
     "year": 1979,
     "director": "Robert Benton",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 105,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "89%",
@@ -1004,6 +1587,8 @@
     "title": "Manhattan",
     "year": 1979,
     "director": "Woody Allen",
+    "mpaa_rating": "R",
+    "runtime_minutes": 96,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "94%",
@@ -1030,6 +1615,8 @@
     "title": "All That Jazz",
     "year": 1979,
     "director": "Bob Fosse",
+    "mpaa_rating": "R",
+    "runtime_minutes": 123,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "87%",
@@ -1056,5 +1643,90 @@
     "description": "Director/choreographer Bob Fosse tells his own life story as he details the sordid career of Joe Gideon, a womanizing, drug-using dancer.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0078754/"
+  },
+  {
+    "title": "Mad Max",
+    "year": 1979,
+    "director": "George Miller",
+    "mpaa_rating": "R",
+    "runtime_minutes": 88,
+    "ratings": {
+      "imdb": "6.9/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      "Mel Gibson",
+      "Joanne Samuel",
+      "Hugh Keays-Byrne"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0079501/"
+  },
+  {
+    "title": "The Muppet Movie",
+    "year": 1979,
+    "director": "James Frawley",
+    "mpaa_rating": "G",
+    "runtime_minutes": 95,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      "Jim Henson",
+      "Frank Oz",
+      "Jerry Nelson"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Kermit the Frog and his new found friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0079588/"
+  },
+  {
+    "title": "Being There",
+    "year": 1979,
+    "director": "Hal Ashby",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 130,
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Peter Sellers",
+      "Shirley MacLaine",
+      "Melvyn Douglas"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actor"
+    ],
+    "description": "A simple-minded gardener becomes an unlikely trusted advisor to a powerful businessman and an insider in Washington politics.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078841/"
   }
 ]

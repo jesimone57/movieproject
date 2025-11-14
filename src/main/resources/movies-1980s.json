@@ -3,6 +3,8 @@
     "title": "The Empire Strikes Back",
     "year": 1980,
     "director": "Irvin Kershner",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 124,
     "ratings": {
       "imdb": "8.7/10",
       "rotten_tomatoes_critic": "94%",
@@ -32,6 +34,8 @@
     "title": "Raging Bull",
     "year": 1980,
     "director": "Martin Scorsese",
+    "mpaa_rating": "R",
+    "runtime_minutes": 129,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "93%",
@@ -61,6 +65,8 @@
     "title": "The Shining",
     "year": 1980,
     "director": "Stanley Kubrick",
+    "mpaa_rating": "R",
+    "runtime_minutes": 146,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "82%",
@@ -86,6 +92,8 @@
     "title": "Airplane!",
     "year": 1980,
     "director": "Jim Abrahams",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 88,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "97%",
@@ -110,6 +118,8 @@
     "title": "Ordinary People",
     "year": 1980,
     "director": "Robert Redford",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "89%",
@@ -136,9 +146,65 @@
     "imdb_url": "https://www.imdb.com/title/tt0081283/"
   },
   {
+    "title": "The Elephant Man",
+    "year": 1980,
+    "director": "David Lynch",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 124,
+    "ratings": {
+      "imdb": "8.2/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Anthony Hopkins",
+      "John Hurt",
+      "Anne Bancroft"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080678/"
+  },
+  {
+    "title": "Caddyshack",
+    "year": 1980,
+    "director": "Harold Ramis",
+    "mpaa_rating": "R",
+    "runtime_minutes": 98,
+    "ratings": {
+      "imdb": "7.2/10",
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "actors": [
+      "Chevy Chase",
+      "Rodney Dangerfield",
+      "Bill Murray"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An exclusive golf course has to deal with a brash new member and a destructive dancing gopher.",
+    "afi_ranking": 71,
+    "imdb_url": "https://www.imdb.com/title/tt0080487/"
+  },
+  {
     "title": "Raiders of the Lost Ark",
     "year": 1981,
     "director": "Steven Spielberg",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 115,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "93%",
@@ -170,6 +236,8 @@
     "title": "Das Boot",
     "year": 1981,
     "director": "Wolfgang Petersen",
+    "mpaa_rating": "R",
+    "runtime_minutes": 149,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "98%",
@@ -196,6 +264,8 @@
     "title": "Chariots of Fire",
     "year": 1981,
     "director": "Hugh Hudson",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 125,
     "ratings": {
       "imdb": "7.1/10",
       "rotten_tomatoes_critic": "83%",
@@ -224,9 +294,70 @@
     "imdb_url": "https://www.imdb.com/title/tt0082158/"
   },
   {
+    "title": "On Golden Pond",
+    "year": 1981,
+    "director": "Mark Rydell",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 109,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Katharine Hepburn",
+      "Henry Fonda",
+      "Jane Fonda"
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Actress",
+      "Best Adapted Screenplay"
+    ],
+    "description": "Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship develops.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082846/"
+  },
+  {
+    "title": "An American Werewolf in London",
+    "year": 1981,
+    "director": "John Landis",
+    "mpaa_rating": "R",
+    "runtime_minutes": 97,
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "actors": [
+      "David Naughton",
+      "Jenny Agutter",
+      "Griffin Dunne"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Makeup"
+    ],
+    "description": "Two American college students on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082010/"
+  },
+  {
     "title": "Blade Runner",
     "year": 1982,
     "director": "Ridley Scott",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "89%",
@@ -253,6 +384,8 @@
     "title": "E.T. the Extra-Terrestrial",
     "year": 1982,
     "director": "Steven Spielberg",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 115,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "99%",
@@ -284,6 +417,8 @@
     "title": "Gandhi",
     "year": 1982,
     "director": "Richard Attenborough",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 191,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "89%",
@@ -319,6 +454,8 @@
     "title": "Tootsie",
     "year": 1982,
     "director": "Sydney Pollack",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 116,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "90%",
@@ -347,6 +484,8 @@
     "title": "The Thing",
     "year": 1982,
     "director": "John Carpenter",
+    "mpaa_rating": "R",
+    "runtime_minutes": 109,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "85%",
@@ -370,38 +509,64 @@
     "imdb_url": "https://www.imdb.com/title/tt0084787/"
   },
   {
-    "title": "Fanny and Alexander",
+    "title": "Poltergeist",
     "year": 1982,
-    "director": "Ingmar Bergman",
+    "director": "Tobe Hooper",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 114,
     "ratings": {
-      "imdb": "8.1/10",
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      "JoBeth Williams",
+      "Heather O'Rourke",
+      "Craig T. Nelson"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A family's home is haunted by a host of demonic ghosts.",
+    "afi_ranking": 84,
+    "imdb_url": "https://www.imdb.com/title/tt0084516/"
+  },
+  {
+    "title": "The Verdict",
+    "year": 1982,
+    "director": "Sidney Lumet",
+    "mpaa_rating": "R",
+    "runtime_minutes": 129,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Drama"
     ],
     "actors": [
-      "Bertil Guve",
-      "Pernilla Allwin",
-      "Kristina Adolphson"
+      "Paul Newman",
+      "Charlotte Rampling",
+      "Jack Warden"
     ],
-    "oscars_nominated": 6,
-    "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Foreign Language Film",
-      "Best Cinematography",
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design"
-    ],
-    "description": "Two young Swedish children experience the many comedies and tragedies of their family, the Ekdahls.",
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A down-on-his-luck lawyer sees a chance to redeem himself when he is presented with a medical malpractice case that no one thinks he can win.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083922/"
+    "imdb_url": "https://www.imdb.com/title/tt0084855/"
   },
   {
     "title": "Star Wars: Episode VI - Return of the Jedi",
     "year": 1983,
     "director": "Richard Marquand",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 131,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "83%",
@@ -430,6 +595,8 @@
     "title": "Scarface",
     "year": 1983,
     "director": "Brian De Palma",
+    "mpaa_rating": "R",
+    "runtime_minutes": 170,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "79%",
@@ -455,6 +622,8 @@
     "title": "Terms of Endearment",
     "year": 1983,
     "director": "James L. Brooks",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 132,
     "ratings": {
       "imdb": "7.4/10",
       "rotten_tomatoes_critic": "81%",
@@ -483,9 +652,71 @@
     "imdb_url": "https://www.imdb.com/title/tt0086425/"
   },
   {
+    "title": "The Right Stuff",
+    "year": 1983,
+    "director": "Philip Kaufman",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 193,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Sam Shepard",
+      "Scott Glenn",
+      "Ed Harris"
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Sound",
+      "Best Film Editing",
+      "Best Music, Original Score",
+      "Best Effects, Sound Effects Editing"
+    ],
+    "description": "The story of the original Mercury 7 astronauts and their macho, seat-of-the-pants approach to the space program.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0086197/"
+  },
+  {
+    "title": "A Christmas Story",
+    "year": 1983,
+    "director": "Bob Clark",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 94,
+    "ratings": {
+      "imdb": "7.9/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      "Peter Billingsley",
+      "Melinda Dillon",
+      "Darren McGavin"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the 1940s, a young boy named Ralphie attempts to convince his parents, his teacher and Santa that a Red Ryder BB gun really is the perfect Christmas gift.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0085334/"
+  },
+  {
     "title": "Amadeus",
     "year": 1984,
     "director": "Milos Forman",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 160,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "89%",
@@ -521,6 +752,8 @@
     "title": "The Terminator",
     "year": 1984,
     "director": "James Cameron",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "100%",
@@ -546,6 +779,8 @@
     "title": "This Is Spinal Tap",
     "year": 1984,
     "director": "Rob Reiner",
+    "mpaa_rating": "R",
+    "runtime_minutes": 82,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "95%",
@@ -571,6 +806,8 @@
     "title": "Ghostbusters",
     "year": 1984,
     "director": "Ivan Reitman",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 105,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "95%",
@@ -594,9 +831,43 @@
     "imdb_url": "https://www.imdb.com/title/tt0087332/"
   },
   {
+    "title": "The Killing Fields",
+    "year": 1984,
+    "director": "Roland Joffé",
+    "mpaa_rating": "R",
+    "runtime_minutes": 141,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      "Sam Waterston",
+      "Haing S. Ngor",
+      "John Malkovich"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Supporting Actor",
+      "Best Cinematography",
+      "Best Film Editing"
+    ],
+    "description": "A journalist is trapped in Cambodia during tyrant Pol Pot's bloody 'Year Zero' cleansing campaign, which claimed the lives of two million 'undesirable' civilians.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0087553/"
+  },
+  {
     "title": "Back to the Future",
     "year": 1985,
     "director": "Robert Zemeckis",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 116,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "93%",
@@ -625,6 +896,8 @@
     "title": "Brazil",
     "year": 1985,
     "director": "Terry Gilliam",
+    "mpaa_rating": "R",
+    "runtime_minutes": 132,
     "ratings": {
       "imdb": "7.9/10",
       "rotten_tomatoes_critic": "98%",
@@ -650,6 +923,8 @@
     "title": "The Breakfast Club",
     "year": 1985,
     "director": "John Hughes",
+    "mpaa_rating": "R",
+    "runtime_minutes": 97,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "92%",
@@ -672,9 +947,39 @@
     "imdb_url": "https://www.imdb.com/title/tt0088847/"
   },
   {
+    "title": "The Goonies",
+    "year": 1985,
+    "director": "Richard Donner",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 114,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      "Sean Astin",
+      "Josh Brolin",
+      "Jeff Cohen"
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0089218/"
+  },
+  {
     "title": "Out of Africa",
     "year": 1985,
     "director": "Sydney Pollack",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 161,
     "ratings": {
       "imdb": "7.1/10",
       "rotten_tomatoes_critic": "62%",
@@ -706,9 +1011,37 @@
     "imdb_url": "https://www.imdb.com/title/tt0089755/"
   },
   {
+    "title": "The Color Purple",
+    "year": 1985,
+    "director": "Steven Spielberg",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 154,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      "Danny Glover",
+      "Whoopi Goldberg",
+      "Oprah Winfrey"
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A black Southern woman struggles to find her identity after suffering abuse from her father and others over four decades.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0088939/"
+  },
+  {
     "title": "Platoon",
     "year": 1986,
     "director": "Oliver Stone",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "89%",
@@ -739,6 +1072,8 @@
     "title": "Aliens",
     "year": 1986,
     "director": "James Cameron",
+    "mpaa_rating": "R",
+    "runtime_minutes": 137,
     "ratings": {
       "imdb": "8.4/10",
       "rotten_tomatoes_critic": "98%",
@@ -768,6 +1103,8 @@
     "title": "Ferris Bueller's Day Off",
     "year": 1986,
     "director": "John Hughes",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 103,
     "ratings": {
       "imdb": "7.8/10",
       "rotten_tomatoes_critic": "82%",
@@ -792,6 +1129,8 @@
     "title": "Blue Velvet",
     "year": 1986,
     "director": "David Lynch",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "95%",
@@ -818,6 +1157,8 @@
     "title": "Top Gun",
     "year": 1986,
     "director": "Tony Scott",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
     "ratings": {
       "imdb": "6.9/10",
       "rotten_tomatoes_critic": "58%",
@@ -842,9 +1183,69 @@
     "imdb_url": "https://www.imdb.com/title/tt0092099/"
   },
   {
+    "title": "Stand by Me",
+    "year": 1986,
+    "director": "Rob Reiner",
+    "mpaa_rating": "R",
+    "runtime_minutes": 89,
+    "ratings": {
+      "imdb": "8.1/10",
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      "Wil Wheaton",
+      "River Phoenix",
+      "Corey Feldman"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092005/"
+  },
+  {
+    "title": "Hannah and Her Sisters",
+    "year": 1986,
+    "director": "Woody Allen",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 107,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      "Woody Allen",
+      "Mia Farrow",
+      "Michael Caine"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Supporting Actor",
+      "Best Supporting Actress",
+      "Best Original Screenplay"
+    ],
+    "description": "Between two Thanksgivings, a man falls in love with his wife's sister, while her ex-husband rekindles his relationship with her other sister.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091167/"
+  },
+  {
     "title": "Full Metal Jacket",
     "year": 1987,
     "director": "Stanley Kubrick",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
     "ratings": {
       "imdb": "8.3/10",
       "rotten_tomatoes_critic": "90%",
@@ -870,6 +1271,8 @@
     "title": "The Princess Bride",
     "year": 1987,
     "director": "Rob Reiner",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 98,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "98%",
@@ -896,6 +1299,8 @@
     "title": "The Last Emperor",
     "year": 1987,
     "director": "Bernardo Bertolucci",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 163,
     "ratings": {
       "imdb": "7.7/10",
       "rotten_tomatoes_critic": "86%",
@@ -932,6 +1337,8 @@
     "title": "RoboCop",
     "year": 1987,
     "director": "Paul Verhoeven",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
     "ratings": {
       "imdb": "7.6/10",
       "rotten_tomatoes_critic": "92%",
@@ -957,9 +1364,69 @@
     "imdb_url": "https://www.imdb.com/title/tt0093870/"
   },
   {
+    "title": "Lethal Weapon",
+    "year": 1987,
+    "director": "Richard Donner",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "ratings": {
+      "imdb": "7.6/10",
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      "Mel Gibson",
+      "Danny Glover",
+      "Gary Busey"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093409/"
+  },
+  {
+    "title": "The Untouchables",
+    "year": 1987,
+    "director": "Brian De Palma",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      "Kevin Costner",
+      "Sean Connery",
+      "Robert De Niro"
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actor"
+    ],
+    "description": "During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094226/"
+  },
+  {
     "title": "Die Hard",
     "year": 1988,
     "director": "John McTiernan",
+    "mpaa_rating": "R",
+    "runtime_minutes": 132,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "94%",
@@ -985,6 +1452,8 @@
     "title": "Rain Man",
     "year": 1988,
     "director": "Barry Levinson",
+    "mpaa_rating": "R",
+    "runtime_minutes": 133,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "88%",
@@ -1014,6 +1483,8 @@
     "title": "Grave of the Fireflies",
     "year": 1988,
     "director": "Isao Takahata",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 89,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "100%",
@@ -1040,6 +1511,8 @@
     "title": "Cinema Paradiso",
     "year": 1988,
     "director": "Giuseppe Tornatore",
+    "mpaa_rating": "R",
+    "runtime_minutes": 155,
     "ratings": {
       "imdb": "8.5/10",
       "rotten_tomatoes_critic": "90%",
@@ -1064,9 +1537,101 @@
     "imdb_url": "https://www.imdb.com/title/tt0095765/"
   },
   {
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "director": "Robert Zemeckis",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 104,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      "Bob Hoskins",
+      "Christopher Lloyd",
+      "Joanna Cassidy"
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Sound Effects Editing",
+      "Best Visual Effects",
+      "Best Film Editing",
+      "Special Achievement Award"
+    ],
+    "description": "A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0096438/"
+  },
+  {
+    "title": "Big",
+    "year": 1988,
+    "director": "Penny Marshall",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 104,
+    "ratings": {
+      "imdb": "7.3/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Elizabeth Perkins",
+      "Robert Loggia"
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094737/"
+  },
+  {
+    "title": "A Fish Called Wanda",
+    "year": 1988,
+    "director": "Charles Crichton",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "ratings": {
+      "imdb": "7.5/10",
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      "John Cleese",
+      "Jamie Lee Curtis",
+      "Kevin Kline"
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actor"
+    ],
+    "description": "In London, four very different people team up on a jewel heist, then try to double-cross one another for the loot.",
+    "afi_ranking": 21,
+    "imdb_url": "https://www.imdb.com/title/tt0095159/"
+  },
+  {
     "title": "Dead Poets Society",
     "year": 1989,
     "director": "Peter Weir",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 128,
     "ratings": {
       "imdb": "8.1/10",
       "rotten_tomatoes_critic": "84%",
@@ -1094,6 +1659,8 @@
     "title": "Do the Right Thing",
     "year": 1989,
     "director": "Spike Lee",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
     "ratings": {
       "imdb": "8.0/10",
       "rotten_tomatoes_critic": "92%",
@@ -1119,6 +1686,8 @@
     "title": "Indiana Jones and the Last Crusade",
     "year": 1989,
     "director": "Steven Spielberg",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 127,
     "ratings": {
       "imdb": "8.2/10",
       "rotten_tomatoes_critic": "84%",
@@ -1146,6 +1715,8 @@
     "title": "Driving Miss Daisy",
     "year": 1989,
     "director": "Bruce Beresford",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 99,
     "ratings": {
       "imdb": "7.3/10",
       "rotten_tomatoes_critic": "85%",
@@ -1173,39 +1744,11 @@
     "imdb_url": "https://www.imdb.com/title/tt0097239/"
   },
   {
-    "title": "Glory",
-    "year": 1989,
-    "director": "Edward Zwick",
-    "ratings": {
-      "imdb": "7.8/10",
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      "Matthew Broderick",
-      "Denzel Washington",
-      "Cary Elwes"
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Supporting Actor",
-      "Best Cinematography",
-      "Best Sound"
-    ],
-    "description": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union army and the Confederates.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0097441/"
-  },
-  {
     "title": "Batman",
     "year": 1989,
     "director": "Tim Burton",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 126,
     "ratings": {
       "imdb": "7.5/10",
       "rotten_tomatoes_critic": "76%",
@@ -1228,5 +1771,63 @@
     "description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0096895/"
+  },
+  {
+    "title": "When Harry Met Sally...",
+    "year": 1989,
+    "director": "Rob Reiner",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
+    "ratings": {
+      "imdb": "7.7/10",
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      "Billy Crystal",
+      "Meg Ryan",
+      "Carrie Fisher"
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
+    "afi_ranking": 23,
+    "imdb_url": "https://www.imdb.com/title/tt0098635/"
+  },
+  {
+    "title": "My Left Foot",
+    "year": 1989,
+    "director": "Jim Sheridan",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "ratings": {
+      "imdb": "7.8/10",
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      "Daniel Day-Lewis",
+      "Brenda Fricker",
+      "Alison Whelan"
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actor",
+      "Best Supporting Actress"
+    ],
+    "description": "Christy Brown, born with cerebral palsy, learns to paint and write with his only controllable limb - his left foot.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0097937/"
   }
 ]
