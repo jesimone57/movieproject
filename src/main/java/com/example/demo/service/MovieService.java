@@ -27,10 +27,10 @@ public class MovieService {
     private List<Movie> loadMoviesFromJson() {
         try {
             ObjectMapper objectMapper = new ObjectMapper();
-            InputStream inputStream = getClass().getClassLoader().getResourceAsStream("movies.json");
+            InputStream inputStream = getClass().getClassLoader().getResourceAsStream("movies-1930s.json");
 
             if (inputStream == null) {
-                throw new IOException("Could not find movies.json");
+                throw new IOException("Could not find movies-original.json");
             }
 
             return objectMapper.readValue(inputStream, new TypeReference<ArrayList<Movie>>() {
@@ -123,7 +123,7 @@ public class MovieService {
                     .toList();
         } else if ("rating".equalsIgnoreCase(sort)) {
             return stream
-                    .sorted(java.util.Comparator.comparingDouble(Movie::getImdb_rating).reversed())
+                    .sorted(java.util.Comparator.comparingDouble(Movie::getImdbRating).reversed())
                     .toList();
         }
         return stream.toList();
@@ -155,7 +155,7 @@ public class MovieService {
         List<Movie> filteredMovies = movies.stream()
                 .filter(movie -> title == null || StringUtils.containsIgnoreCase(movie.getTitle(), title))
                 .filter(movie -> genre == null || movie.isGenre(genre))
-                .filter(movie -> minRating == null || movie.getImdb_rating() >= minRating)
+                .filter(movie -> minRating == null || movie.getImdbRating() >= minRating)
                 .filter(movie -> yearStart == null || movie.isInRange(yearStart, finalYearEnd))
                 .toList();
         return numberMovies(sortMovies(filteredMovies, sort));

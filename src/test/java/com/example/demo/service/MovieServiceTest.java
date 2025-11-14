@@ -28,7 +28,7 @@ class MovieServiceTest {
         if (!movies.isEmpty()) {
             Movie firstMovie = movies.get(0);
             assertNotNull(firstMovie.getTitle(), "Movie title should not be null");
-            assertNotNull(firstMovie.getGenre(), "Movie genre should not be null");
+            assertNotNull(firstMovie.getGenres(), "Movie genre should not be null");
             assertTrue(firstMovie.getYear() > 0, "Movie year should be greater than 0");
 
             System.out.println("[DEBUG_LOG] First movie: " + firstMovie.getTitle() + " (" + firstMovie.getYear() + ")");
@@ -55,7 +55,7 @@ class MovieServiceTest {
                 output.append("[DEBUG_LOG] Title: '").append(entry.getKey()).append("' appears ").append(entry.getValue()).append(" times\n");
             }
         } else {
-            output.append("[DEBUG_LOG] No duplicate titles found in movies.json\n");
+            output.append("[DEBUG_LOG] No duplicate titles found in movies-original.json\n");
         }
 
         // Print total number of movies for reference

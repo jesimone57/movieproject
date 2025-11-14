@@ -2,11 +2,14 @@
   {
     "title": "The Blue Angel",
     "year": 1930,
-    "director": "Josef von Sternberg",
+    "director": {
+      "name": "Josef von Sternberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0903212/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 104,
     "ratings": {
-      "imdb": "7.7/10",
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "87%"
     },
@@ -15,9 +18,18 @@
       "Music"
     ],
     "actors": [
-      "Emil Jannings",
-      "Marlene Dietrich",
-      "Kurt Gerron"
+      {
+        "name": "Emil Jannings",
+        "imdb_person_url": "https://www.imdb.com/name/nm0417837/"
+      },
+      {
+        "name": "Marlene Dietrich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+      },
+      {
+        "name": "Kurt Gerron",
+        "imdb_person_url": "https://www.imdb.com/name/nm0314777/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -29,11 +41,14 @@
   {
     "title": "All Quiet on the Western Front",
     "year": 1930,
-    "director": "Lewis Milestone",
+    "director": {
+      "name": "Lewis Milestone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0587271/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 152,
     "ratings": {
-      "imdb": "8.1/10",
+      "imdb": 8.1,
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "89%"
     },
@@ -42,9 +57,18 @@
       "War"
     ],
     "actors": [
-      "Louis Wolheim",
-      "Lew Ayres",
-      "John Wray"
+      {
+        "name": "Louis Wolheim",
+        "imdb_person_url": "https://www.imdb.com/name/nm0938473/"
+      },
+      {
+        "name": "Lew Ayres",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000835/"
+      },
+      {
+        "name": "John Wray",
+        "imdb_person_url": "https://www.imdb.com/name/nm0942079/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 2,
@@ -59,11 +83,14 @@
   {
     "title": "Animal Crackers",
     "year": 1930,
-    "director": "Victor Heerman",
+    "director": {
+      "name": "Victor Heerman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0373516/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 97,
     "ratings": {
-      "imdb": "7.5/10",
+      "imdb": 7.5,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -72,9 +99,18 @@
       "Musical"
     ],
     "actors": [
-      "Groucho Marx",
-      "Harpo Marx",
-      "Chico Marx"
+      {
+        "name": "Groucho Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000050/"
+      },
+      {
+        "name": "Harpo Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0555621/"
+      },
+      {
+        "name": "Chico Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0555611/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -86,11 +122,14 @@
   {
     "title": "Morocco",
     "year": 1930,
-    "director": "Josef von Sternberg",
+    "director": {
+      "name": "Josef von Sternberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0903212/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 92,
     "ratings": {
-      "imdb": "7.2/10",
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "88%",
       "rotten_tomatoes_popcorn": "76%"
     },
@@ -99,9 +138,18 @@
       "Romance"
     ],
     "actors": [
-      "Gary Cooper",
-      "Marlene Dietrich",
-      "Adolphe Menjou"
+      {
+        "name": "Gary Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
+      },
+      {
+        "name": "Marlene Dietrich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+      },
+      {
+        "name": "Adolphe Menjou",
+        "imdb_person_url": "https://www.imdb.com/name/nm0579634/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
@@ -113,11 +161,14 @@
   {
     "title": "City Lights",
     "year": 1931,
-    "director": "Charles Chaplin",
+    "director": {
+      "name": "Charles Chaplin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
+    },
     "mpaa_rating": "G",
     "runtime_minutes": 87,
     "ratings": {
-      "imdb": "8.5/10",
+      "imdb": 8.5,
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "96%"
     },
@@ -127,9 +178,18 @@
       "Romance"
     ],
     "actors": [
-      "Charles Chaplin",
-      "Virginia Cherrill",
-      "Florence Lee"
+      {
+        "name": "Charles Chaplin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
+      },
+      {
+        "name": "Virginia Cherrill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0155824/"
+      },
+      {
+        "name": "Florence Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0497380/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -141,11 +201,14 @@
   {
     "title": "Dracula",
     "year": 1931,
-    "director": "Tod Browning",
+    "director": {
+      "name": "Tod Browning",
+      "imdb_person_url": "https://www.imdb.com/name/nm0115316/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 75,
     "ratings": {
-      "imdb": "7.4/10",
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "83%"
     },
@@ -154,9 +217,18 @@
       "Horror"
     ],
     "actors": [
-      "Bela Lugosi",
-      "Helen Chandler",
-      "David Manners"
+      {
+        "name": "Bela Lugosi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000509/"
+      },
+      {
+        "name": "Helen Chandler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0151478/"
+      },
+      {
+        "name": "David Manners",
+        "imdb_person_url": "https://www.imdb.com/name/nm0543142/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -168,11 +240,14 @@
   {
     "title": "Frankenstein",
     "year": 1931,
-    "director": "James Whale",
+    "director": {
+      "name": "James Whale",
+      "imdb_person_url": "https://www.imdb.com/name/nm0923762/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 70,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "87%"
     },
@@ -182,9 +257,18 @@
       "Sci-Fi"
     ],
     "actors": [
-      "Colin Clive",
-      "Mae Clarke",
-      "Boris Karloff"
+      {
+        "name": "Colin Clive",
+        "imdb_person_url": "https://www.imdb.com/name/nm0167107/"
+      },
+      {
+        "name": "Mae Clarke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0164821/"
+      },
+      {
+        "name": "Boris Karloff",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -196,11 +280,14 @@
   {
     "title": "The Public Enemy",
     "year": 1931,
-    "director": "William A. Wellman",
+    "director": {
+      "name": "William A. Wellman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0920074/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 83,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "84%"
     },
@@ -209,9 +296,18 @@
       "Drama"
     ],
     "actors": [
-      "James Cagney",
-      "Jean Harlow",
-      "Edward Woods"
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000010/"
+      },
+      {
+        "name": "Jean Harlow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001318/"
+      },
+      {
+        "name": "Edward Woods",
+        "imdb_person_url": "https://www.imdb.com/name/nm0940561/"
+      }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -223,11 +319,14 @@
   {
     "title": "M",
     "year": 1931,
-    "director": "Fritz Lang",
+    "director": {
+      "name": "Fritz Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000485/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 117,
     "ratings": {
-      "imdb": "8.3/10",
+      "imdb": 8.3,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "95%"
     },
@@ -237,9 +336,18 @@
       "Thriller"
     ],
     "actors": [
-      "Peter Lorre",
-      "Ellen Widmann",
-      "Inge Landgut"
+      {
+        "name": "Peter Lorre",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000048/"
+      },
+      {
+        "name": "Ellen Widmann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0927017/"
+      },
+      {
+        "name": "Inge Landgut",
+        "imdb_person_url": "https://www.imdb.com/name/nm0484739/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -251,11 +359,14 @@
   {
     "title": "Cimarron",
     "year": 1931,
-    "director": "Wesley Ruggles",
+    "director": {
+      "name": "Wesley Ruggles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0749448/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 123,
     "ratings": {
-      "imdb": "5.9/10",
+      "imdb": 5.9,
       "rotten_tomatoes_critic": "53%",
       "rotten_tomatoes_popcorn": "32%"
     },
@@ -264,9 +375,18 @@
       "Western"
     ],
     "actors": [
-      "Richard Dix",
-      "Irene Dunne",
-      "Estelle Taylor"
+      {
+        "name": "Richard Dix",
+        "imdb_person_url": "https://www.imdb.com/name/nm0228834/"
+      },
+      {
+        "name": "Irene Dunne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002050/"
+      },
+      {
+        "name": "Estelle Taylor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0852179/"
+      }
     ],
     "oscars_nominated": 7,
     "oscars_won": 3,
@@ -282,11 +402,14 @@
   {
     "title": "The Champ",
     "year": 1931,
-    "director": "King Vidor",
+    "director": {
+      "name": "King Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0896542/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 86,
     "ratings": {
-      "imdb": "7.2/10",
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "83%",
       "rotten_tomatoes_popcorn": "76%"
     },
@@ -295,9 +418,18 @@
       "Sport"
     ],
     "actors": [
-      "Wallace Beery",
-      "Jackie Cooper",
-      "Irene Rich"
+      {
+        "name": "Wallace Beery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000903/"
+      },
+      {
+        "name": "Jackie Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0178114/"
+      },
+      {
+        "name": "Irene Rich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0723829/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 2,
@@ -310,13 +442,58 @@
     "imdb_url": "https://www.imdb.com/title/tt0021730/"
   },
   {
+    "title": "Dr. Jekyll and Mr. Hyde",
+    "year": 1931,
+    "director": {
+      "name": "Rouben Mamoulian",
+      "imdb_person_url": "https://www.imdb.com/name/nm0541240/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 98,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Fredric March",
+        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
+      },
+      {
+        "name": "Miriam Hopkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001360/"
+      },
+      {
+        "name": "Rose Hobart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0387405/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor"
+    ],
+    "description": "Dr. Jekyll faces horrible consequences when he lets his dark side run wild with a potion that transforms him into the animalistic Mr. Hyde.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0022835/"
+  },
+  {
     "title": "Grand Hotel",
     "year": 1932,
-    "director": "Edmund Goulding",
+    "director": {
+      "name": "Edmund Goulding",
+      "imdb_person_url": "https://www.imdb.com/name/nm0332630/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 112,
     "ratings": {
-      "imdb": "7.4/10",
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "86%",
       "rotten_tomatoes_popcorn": "79%"
     },
@@ -325,9 +502,18 @@
       "Romance"
     ],
     "actors": [
-      "Greta Garbo",
-      "John Barrymore",
-      "Joan Crawford"
+      {
+        "name": "Greta Garbo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001256/"
+      },
+      {
+        "name": "John Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000860/"
+      },
+      {
+        "name": "Joan Crawford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001076/"
+      }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
@@ -341,11 +527,14 @@
   {
     "title": "Scarface",
     "year": 1932,
-    "director": "Howard Hawks",
+    "director": {
+      "name": "Howard Hawks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 93,
     "ratings": {
-      "imdb": "7.7/10",
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "88%"
     },
@@ -355,9 +544,18 @@
       "Drama"
     ],
     "actors": [
-      "Paul Muni",
-      "Ann Dvorak",
-      "Karen Morley"
+      {
+        "name": "Paul Muni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0612868/"
+      },
+      {
+        "name": "Ann Dvorak",
+        "imdb_person_url": "https://www.imdb.com/name/nm0245464/"
+      },
+      {
+        "name": "Karen Morley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0605629/"
+      }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -369,11 +567,14 @@
   {
     "title": "I Am a Fugitive from a Chain Gang",
     "year": 1932,
-    "director": "Mervyn LeRoy",
+    "director": {
+      "name": "Mervyn LeRoy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0504141/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 93,
     "ratings": {
-      "imdb": "8.0/10",
+      "imdb": 8.0,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "88%"
     },
@@ -383,9 +584,18 @@
       "Film-Noir"
     ],
     "actors": [
-      "Paul Muni",
-      "Glenda Farrell",
-      "Helen Vinson"
+      {
+        "name": "Paul Muni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0612868/"
+      },
+      {
+        "name": "Glenda Farrell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0268153/"
+      },
+      {
+        "name": "Helen Vinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0899017/"
+      }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
@@ -397,11 +607,14 @@
   {
     "title": "Shanghai Express",
     "year": 1932,
-    "director": "Josef von Sternberg",
+    "director": {
+      "name": "Josef von Sternberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0903212/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 82,
     "ratings": {
-      "imdb": "7.3/10",
+      "imdb": 7.3,
       "rotten_tomatoes_critic": "93%",
       "rotten_tomatoes_popcorn": "81%"
     },
@@ -411,9 +624,18 @@
       "Romance"
     ],
     "actors": [
-      "Marlene Dietrich",
-      "Clive Brook",
-      "Anna May Wong"
+      {
+        "name": "Marlene Dietrich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+      },
+      {
+        "name": "Clive Brook",
+        "imdb_person_url": "https://www.imdb.com/name/nm0111663/"
+      },
+      {
+        "name": "Anna May Wong",
+        "imdb_person_url": "https://www.imdb.com/name/nm0938923/"
+      }
     ],
     "oscars_nominated": 3,
     "oscars_won": 1,
@@ -427,11 +649,14 @@
   {
     "title": "Freaks",
     "year": 1932,
-    "director": "Tod Browning",
+    "director": {
+      "name": "Tod Browning",
+      "imdb_person_url": "https://www.imdb.com/name/nm0115316/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 64,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -440,9 +665,18 @@
       "Horror"
     ],
     "actors": [
-      "Wallace Ford",
-      "Leila Hyams",
-      "Olga Baclanova"
+      {
+        "name": "Wallace Ford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0285741/"
+      },
+      {
+        "name": "Leila Hyams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404886/"
+      },
+      {
+        "name": "Olga Baclanova",
+        "imdb_person_url": "https://www.imdb.com/name/nm0045507/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -454,11 +688,14 @@
   {
     "title": "Trouble in Paradise",
     "year": 1932,
-    "director": "Ernst Lubitsch",
+    "director": {
+      "name": "Ernst Lubitsch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0523932/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 83,
     "ratings": {
-      "imdb": "7.9/10",
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "91%",
       "rotten_tomatoes_popcorn": "89%"
     },
@@ -468,9 +705,18 @@
       "Romance"
     ],
     "actors": [
-      "Miriam Hopkins",
-      "Kay Francis",
-      "Herbert Marshall"
+      {
+        "name": "Miriam Hopkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001360/"
+      },
+      {
+        "name": "Kay Francis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0290234/"
+      },
+      {
+        "name": "Herbert Marshall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0551017/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -482,11 +728,14 @@
   {
     "title": "The Mummy",
     "year": 1932,
-    "director": "Karl Freund",
+    "director": {
+      "name": "Karl Freund",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002086/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 73,
     "ratings": {
-      "imdb": "7.0/10",
+      "imdb": 7.0,
       "rotten_tomatoes_critic": "88%",
       "rotten_tomatoes_popcorn": "74%"
     },
@@ -495,9 +744,18 @@
       "Horror"
     ],
     "actors": [
-      "Boris Karloff",
-      "Zita Johann",
-      "David Manners"
+      {
+        "name": "Boris Karloff",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+      },
+      {
+        "name": "Zita Johann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0423548/"
+      },
+      {
+        "name": "David Manners",
+        "imdb_person_url": "https://www.imdb.com/name/nm0543142/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -507,13 +765,59 @@
     "imdb_url": "https://www.imdb.com/title/tt0023245/"
   },
   {
+    "title": "A Farewell to Arms",
+    "year": 1932,
+    "director": {
+      "name": "Frank Borzage",
+      "imdb_person_url": "https://www.imdb.com/name/nm0097645/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Helen Hayes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001331/"
+      },
+      {
+        "name": "Gary Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
+      },
+      {
+        "name": "Adolphe Menjou",
+        "imdb_person_url": "https://www.imdb.com/name/nm0579634/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Best Sound, Recording"
+    ],
+    "description": "An American ambulance driver and an English nurse fall in love in Italy during World War I.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0022879/"
+  },
+  {
     "title": "King Kong",
     "year": 1933,
-    "director": "Merian C. Cooper",
+    "director": {
+      "name": "Merian C. Cooper",
+      "imdb_person_url": "https://www.imdb.com/name/nm0178351/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 100,
     "ratings": {
-      "imdb": "7.9/10",
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -523,9 +827,18 @@
       "Sci-Fi"
     ],
     "actors": [
-      "Fay Wray",
-      "Robert Armstrong",
-      "Bruce Cabot"
+      {
+        "name": "Fay Wray",
+        "imdb_person_url": "https://www.imdb.com/name/nm0942102/"
+      },
+      {
+        "name": "Robert Armstrong",
+        "imdb_person_url": "https://www.imdb.com/name/nm0035848/"
+      },
+      {
+        "name": "Bruce Cabot",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001980/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -537,11 +850,14 @@
   {
     "title": "Duck Soup",
     "year": 1933,
-    "director": "Leo McCarey",
+    "director": {
+      "name": "Leo McCarey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565257/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 68,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "91%",
       "rotten_tomatoes_popcorn": "92%"
     },
@@ -551,9 +867,18 @@
       "War"
     ],
     "actors": [
-      "Groucho Marx",
-      "Harpo Marx",
-      "Chico Marx"
+      {
+        "name": "Groucho Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000050/"
+      },
+      {
+        "name": "Harpo Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0555621/"
+      },
+      {
+        "name": "Chico Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0555611/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -565,11 +890,14 @@
   {
     "title": "The Invisible Man",
     "year": 1933,
-    "director": "James Whale",
+    "director": {
+      "name": "James Whale",
+      "imdb_person_url": "https://www.imdb.com/name/nm0923762/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 71,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "85%"
     },
@@ -578,9 +906,18 @@
       "Sci-Fi"
     ],
     "actors": [
-      "Claude Rains",
-      "Gloria Stuart",
-      "William Harrigan"
+      {
+        "name": "Claude Rains",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+      },
+      {
+        "name": "Gloria Stuart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001784/"
+      },
+      {
+        "name": "William Harrigan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0364121/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -592,11 +929,14 @@
   {
     "title": "42nd Street",
     "year": 1933,
-    "director": "Lloyd Bacon",
+    "director": {
+      "name": "Lloyd Bacon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0045934/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 89,
     "ratings": {
-      "imdb": "7.3/10",
+      "imdb": 7.3,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "83%"
     },
@@ -606,9 +946,18 @@
       "Romance"
     ],
     "actors": [
-      "Warner Baxter",
-      "Bebe Daniels",
-      "George Brent"
+      {
+        "name": "Warner Baxter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0062831/"
+      },
+      {
+        "name": "Bebe Daniels",
+        "imdb_person_url": "https://www.imdb.com/name/nm0199732/"
+      },
+      {
+        "name": "George Brent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0107567/"
+      }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
@@ -620,11 +969,14 @@
   {
     "title": "Queen Christina",
     "year": 1933,
-    "director": "Rouben Mamoulian",
+    "director": {
+      "name": "Rouben Mamoulian",
+      "imdb_person_url": "https://www.imdb.com/name/nm0541240/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 99,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "92%",
       "rotten_tomatoes_popcorn": "85%"
     },
@@ -634,9 +986,18 @@
       "Romance"
     ],
     "actors": [
-      "Greta Garbo",
-      "John Gilbert",
-      "Ian Keith"
+      {
+        "name": "Greta Garbo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001256/"
+      },
+      {
+        "name": "John Gilbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0318182/"
+      },
+      {
+        "name": "Ian Keith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0445209/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -648,11 +1009,14 @@
   {
     "title": "Dinner at Eight",
     "year": 1933,
-    "director": "George Cukor",
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 111,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "93%",
       "rotten_tomatoes_popcorn": "87%"
     },
@@ -661,9 +1025,18 @@
       "Drama"
     ],
     "actors": [
-      "Marie Dressler",
-      "John Barrymore",
-      "Wallace Beery"
+      {
+        "name": "Marie Dressler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0237597/"
+      },
+      {
+        "name": "John Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000860/"
+      },
+      {
+        "name": "Wallace Beery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000903/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -675,11 +1048,14 @@
   {
     "title": "Cavalcade",
     "year": 1933,
-    "director": "Frank Lloyd",
+    "director": {
+      "name": "Frank Lloyd",
+      "imdb_person_url": "https://www.imdb.com/name/nm0516030/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 110,
     "ratings": {
-      "imdb": "5.9/10",
+      "imdb": 5.9,
       "rotten_tomatoes_critic": "57%",
       "rotten_tomatoes_popcorn": "35%"
     },
@@ -689,9 +1065,18 @@
       "War"
     ],
     "actors": [
-      "Diana Wynyard",
-      "Clive Brook",
-      "Una O'Connor"
+      {
+        "name": "Diana Wynyard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0943916/"
+      },
+      {
+        "name": "Clive Brook",
+        "imdb_person_url": "https://www.imdb.com/name/nm0111663/"
+      },
+      {
+        "name": "Una O'Connor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0640350/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 3,
@@ -705,13 +1090,58 @@
     "imdb_url": "https://www.imdb.com/title/tt0023876/"
   },
   {
+    "title": "Little Women",
+    "year": 1933,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 115,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
+      },
+      {
+        "name": "Joan Bennett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
+      },
+      {
+        "name": "Paul Lukas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0525624/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Adaptation"
+    ],
+    "description": "The March sisters live in Concord, Massachusetts during and after the American Civil War.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024264/"
+  },
+  {
     "title": "It Happened One Night",
     "year": 1934,
-    "director": "Frank Capra",
+    "director": {
+      "name": "Frank Capra",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 105,
     "ratings": {
-      "imdb": "8.1/10",
+      "imdb": 8.1,
       "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "91%"
     },
@@ -720,9 +1150,18 @@
       "Romance"
     ],
     "actors": [
-      "Clark Gable",
-      "Claudette Colbert",
-      "Walter Connolly"
+      {
+        "name": "Clark Gable",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
+      },
+      {
+        "name": "Claudette Colbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
+      },
+      {
+        "name": "Walter Connolly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0175283/"
+      }
     ],
     "oscars_nominated": 5,
     "oscars_won": 5,
@@ -740,11 +1179,14 @@
   {
     "title": "The Thin Man",
     "year": 1934,
-    "director": "W.S. Van Dyke",
+    "director": {
+      "name": "W.S. Van Dyke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0887852/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 91,
     "ratings": {
-      "imdb": "7.9/10",
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "91%"
     },
@@ -754,9 +1196,18 @@
       "Mystery"
     ],
     "actors": [
-      "William Powell",
-      "Myrna Loy",
-      "Maureen O'Sullivan"
+      {
+        "name": "William Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
+      },
+      {
+        "name": "Myrna Loy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
+      },
+      {
+        "name": "Maureen O'Sullivan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001579/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
@@ -768,11 +1219,14 @@
   {
     "title": "The Man Who Knew Too Much",
     "year": 1934,
-    "director": "Alfred Hitchcock",
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 75,
     "ratings": {
-      "imdb": "7.4/10",
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "89%",
       "rotten_tomatoes_popcorn": "76%"
     },
@@ -782,9 +1236,18 @@
       "Thriller"
     ],
     "actors": [
-      "Leslie Banks",
-      "Edna Best",
-      "Peter Lorre"
+      {
+        "name": "Leslie Banks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0052187/"
+      },
+      {
+        "name": "Edna Best",
+        "imdb_person_url": "https://www.imdb.com/name/nm0078940/"
+      },
+      {
+        "name": "Peter Lorre",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000048/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -796,11 +1259,14 @@
   {
     "title": "The Gay Divorcee",
     "year": 1934,
-    "director": "Mark Sandrich",
+    "director": {
+      "name": "Mark Sandrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0762141/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 107,
     "ratings": {
-      "imdb": "7.4/10",
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "86%",
       "rotten_tomatoes_popcorn": "80%"
     },
@@ -810,9 +1276,18 @@
       "Romance"
     ],
     "actors": [
-      "Fred Astaire",
-      "Ginger Rogers",
-      "Alice Brady"
+      {
+        "name": "Fred Astaire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
+      },
+      {
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
+      },
+      {
+        "name": "Alice Brady",
+        "imdb_person_url": "https://www.imdb.com/name/nm0103484/"
+      }
     ],
     "oscars_nominated": 5,
     "oscars_won": 1,
@@ -826,11 +1301,14 @@
   {
     "title": "The Count of Monte Cristo",
     "year": 1934,
-    "director": "Rowland V. Lee",
+    "director": {
+      "name": "Rowland V. Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0498263/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 113,
     "ratings": {
-      "imdb": "7.5/10",
+      "imdb": 7.5,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "84%"
     },
@@ -840,9 +1318,18 @@
       "Romance"
     ],
     "actors": [
-      "Robert Donat",
-      "Elissa Landi",
-      "Louis Calhern"
+      {
+        "name": "Robert Donat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0232238/"
+      },
+      {
+        "name": "Elissa Landi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0484730/"
+      },
+      {
+        "name": "Louis Calhern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0129731/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -852,13 +1339,93 @@
     "imdb_url": "https://www.imdb.com/title/tt0025004/"
   },
   {
+    "title": "It's a Gift",
+    "year": 1934,
+    "director": {
+      "name": "Norman Z. McLeod",
+      "imdb_person_url": "https://www.imdb.com/name/nm0572855/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 68,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "W.C. Fields",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001210/"
+      },
+      {
+        "name": "Kathleen Howard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0397395/"
+      },
+      {
+        "name": "Jean Rouverol",
+        "imdb_person_url": "https://www.imdb.com/name/nm0745814/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A henpecked grocery store owner buys a California orange grove, sight unseen, and moves his family out west.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025313/"
+  },
+  {
+    "title": "Of Human Bondage",
+    "year": 1934,
+    "director": {
+      "name": "John Cromwell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0188683/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 83,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Leslie Howard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
+      },
+      {
+        "name": "Frances Dee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0214159/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young man with a clubfoot falls in love with a vulgar waitress who is beneath him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025586/"
+  },
+  {
     "title": "Bride of Frankenstein",
     "year": 1935,
-    "director": "James Whale",
+    "director": {
+      "name": "James Whale",
+      "imdb_person_url": "https://www.imdb.com/name/nm0923762/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 75,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "87%"
     },
@@ -868,9 +1435,18 @@
       "Sci-Fi"
     ],
     "actors": [
-      "Boris Karloff",
-      "Elsa Lanchester",
-      "Colin Clive"
+      {
+        "name": "Boris Karloff",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+      },
+      {
+        "name": "Elsa Lanchester",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001444/"
+      },
+      {
+        "name": "Colin Clive",
+        "imdb_person_url": "https://www.imdb.com/name/nm0167107/"
+      }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -882,11 +1458,14 @@
   {
     "title": "The 39 Steps",
     "year": 1935,
-    "director": "Alfred Hitchcock",
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 86,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -895,9 +1474,18 @@
       "Thriller"
     ],
     "actors": [
-      "Robert Donat",
-      "Madeleine Carroll",
-      "Lucie Mannheim"
+      {
+        "name": "Robert Donat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0232238/"
+      },
+      {
+        "name": "Madeleine Carroll",
+        "imdb_person_url": "https://www.imdb.com/name/nm0140924/"
+      },
+      {
+        "name": "Lucie Mannheim",
+        "imdb_person_url": "https://www.imdb.com/name/nm0543168/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -909,11 +1497,14 @@
   {
     "title": "A Night at the Opera",
     "year": 1935,
-    "director": "Sam Wood",
+    "director": {
+      "name": "Sam Wood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939886/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 96,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "92%"
     },
@@ -923,9 +1514,18 @@
       "Romance"
     ],
     "actors": [
-      "Groucho Marx",
-      "Chico Marx",
-      "Harpo Marx"
+      {
+        "name": "Groucho Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000050/"
+      },
+      {
+        "name": "Chico Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0555611/"
+      },
+      {
+        "name": "Harpo Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0555621/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -937,11 +1537,14 @@
   {
     "title": "Top Hat",
     "year": 1935,
-    "director": "Mark Sandrich",
+    "director": {
+      "name": "Mark Sandrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0762141/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 101,
     "ratings": {
-      "imdb": "7.7/10",
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "91%"
     },
@@ -951,9 +1554,18 @@
       "Romance"
     ],
     "actors": [
-      "Fred Astaire",
-      "Ginger Rogers",
-      "Edward Everett Horton"
+      {
+        "name": "Fred Astaire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
+      },
+      {
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
+      },
+      {
+        "name": "Edward Everett Horton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002143/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
@@ -965,11 +1577,14 @@
   {
     "title": "Mutiny on the Bounty",
     "year": 1935,
-    "director": "Frank Lloyd",
+    "director": {
+      "name": "Frank Lloyd",
+      "imdb_person_url": "https://www.imdb.com/name/nm0516030/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 132,
     "ratings": {
-      "imdb": "7.7/10",
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -979,9 +1594,18 @@
       "Drama"
     ],
     "actors": [
-      "Charles Laughton",
-      "Clark Gable",
-      "Franchot Tone"
+      {
+        "name": "Charles Laughton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
+      },
+      {
+        "name": "Clark Gable",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
+      },
+      {
+        "name": "Franchot Tone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0867026/"
+      }
     ],
     "oscars_nominated": 8,
     "oscars_won": 1,
@@ -995,11 +1619,14 @@
   {
     "title": "The Informer",
     "year": 1935,
-    "director": "John Ford",
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 91,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "79%"
     },
@@ -1008,9 +1635,18 @@
       "Film-Noir"
     ],
     "actors": [
-      "Victor McLaglen",
-      "Heather Angel",
-      "Preston Foster"
+      {
+        "name": "Victor McLaglen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0572138/"
+      },
+      {
+        "name": "Heather Angel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0029432/"
+      },
+      {
+        "name": "Preston Foster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0287958/"
+      }
     ],
     "oscars_nominated": 6,
     "oscars_won": 4,
@@ -1027,11 +1663,14 @@
   {
     "title": "Captain Blood",
     "year": 1935,
-    "director": "Michael Curtiz",
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 119,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -1041,9 +1680,18 @@
       "Romance"
     ],
     "actors": [
-      "Errol Flynn",
-      "Olivia de Havilland",
-      "Lionel Atwill"
+      {
+        "name": "Errol Flynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "Olivia de Havilland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000014/"
+      },
+      {
+        "name": "Lionel Atwill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0041165/"
+      }
     ],
     "oscars_nominated": 5,
     "oscars_won": 0,
@@ -1053,13 +1701,56 @@
     "imdb_url": "https://www.imdb.com/title/tt0026174/"
   },
   {
+    "title": "A Tale of Two Cities",
+    "year": 1935,
+    "director": {
+      "name": "Jack Conway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0176840/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 128,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ronald Colman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
+      },
+      {
+        "name": "Elizabeth Allan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0019803/"
+      },
+      {
+        "name": "Edna May Oliver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0646824/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A British lawyer fondly remembers his past sacrificial love for a young woman, and his current friendship with her and her family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0027075/"
+  },
+  {
     "title": "Modern Times",
     "year": 1936,
-    "director": "Charles Chaplin",
+    "director": {
+      "name": "Charles Chaplin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
+    },
     "mpaa_rating": "G",
     "runtime_minutes": 87,
     "ratings": {
-      "imdb": "8.5/10",
+      "imdb": 8.5,
       "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "95%"
     },
@@ -1068,9 +1759,18 @@
       "Drama"
     ],
     "actors": [
-      "Charles Chaplin",
-      "Paulette Goddard",
-      "Henry Bergman"
+      {
+        "name": "Charles Chaplin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
+      },
+      {
+        "name": "Paulette Goddard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001278/"
+      },
+      {
+        "name": "Henry Bergman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0074851/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1082,11 +1782,14 @@
   {
     "title": "My Man Godfrey",
     "year": 1936,
-    "director": "Gregory La Cava",
+    "director": {
+      "name": "Gregory La Cava",
+      "imdb_person_url": "https://www.imdb.com/name/nm0478712/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 94,
     "ratings": {
-      "imdb": "8.0/10",
+      "imdb": 8.0,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "92%"
     },
@@ -1096,9 +1799,18 @@
       "Romance"
     ],
     "actors": [
-      "William Powell",
-      "Carole Lombard",
-      "Alice Brady"
+      {
+        "name": "William Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
+      },
+      {
+        "name": "Carole Lombard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
+      },
+      {
+        "name": "Alice Brady",
+        "imdb_person_url": "https://www.imdb.com/name/nm0103484/"
+      }
     ],
     "oscars_nominated": 6,
     "oscars_won": 0,
@@ -1110,11 +1822,14 @@
   {
     "title": "Swing Time",
     "year": 1936,
-    "director": "George Stevens",
+    "director": {
+      "name": "George Stevens",
+      "imdb_person_url": "https://www.imdb.com/name/nm0828552/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 103,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "87%"
     },
@@ -1124,9 +1839,18 @@
       "Romance"
     ],
     "actors": [
-      "Fred Astaire",
-      "Ginger Rogers",
-      "Victor Moore"
+      {
+        "name": "Fred Astaire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
+      },
+      {
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
+      },
+      {
+        "name": "Victor Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0601994/"
+      }
     ],
     "oscars_nominated": 2,
     "oscars_won": 1,
@@ -1140,11 +1864,14 @@
   {
     "title": "Mr. Deeds Goes to Town",
     "year": 1936,
-    "director": "Frank Capra",
+    "director": {
+      "name": "Frank Capra",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 115,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "91%",
       "rotten_tomatoes_popcorn": "89%"
     },
@@ -1154,9 +1881,18 @@
       "Romance"
     ],
     "actors": [
-      "Gary Cooper",
-      "Jean Arthur",
-      "George Bancroft"
+      {
+        "name": "Gary Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
+      },
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000799/"
+      },
+      {
+        "name": "George Bancroft",
+        "imdb_person_url": "https://www.imdb.com/name/nm0051785/"
+      }
     ],
     "oscars_nominated": 5,
     "oscars_won": 1,
@@ -1170,11 +1906,14 @@
   {
     "title": "The Great Ziegfeld",
     "year": 1936,
-    "director": "Robert Z. Leonard",
+    "director": {
+      "name": "Robert Z. Leonard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0502758/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 176,
     "ratings": {
-      "imdb": "6.6/10",
+      "imdb": 6.6,
       "rotten_tomatoes_critic": "67%",
       "rotten_tomatoes_popcorn": "56%"
     },
@@ -1184,9 +1923,18 @@
       "Musical"
     ],
     "actors": [
-      "William Powell",
-      "Myrna Loy",
-      "Luise Rainer"
+      {
+        "name": "William Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
+      },
+      {
+        "name": "Myrna Loy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
+      },
+      {
+        "name": "Luise Rainer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0707023/"
+      }
     ],
     "oscars_nominated": 7,
     "oscars_won": 3,
@@ -1202,11 +1950,14 @@
   {
     "title": "San Francisco",
     "year": 1936,
-    "director": "W.S. Van Dyke",
+    "director": {
+      "name": "W.S. Van Dyke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0887852/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 115,
     "ratings": {
-      "imdb": "7.1/10",
+      "imdb": 7.1,
       "rotten_tomatoes_critic": "92%",
       "rotten_tomatoes_popcorn": "75%"
     },
@@ -1216,9 +1967,18 @@
       "Romance"
     ],
     "actors": [
-      "Clark Gable",
-      "Jeanette MacDonald",
-      "Spencer Tracy"
+      {
+        "name": "Clark Gable",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
+      },
+      {
+        "name": "Jeanette MacDonald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531776/"
+      },
+      {
+        "name": "Spencer Tracy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
+      }
     ],
     "oscars_nominated": 6,
     "oscars_won": 1,
@@ -1230,13 +1990,177 @@
     "imdb_url": "https://www.imdb.com/title/tt0028216/"
   },
   {
+    "title": "The Charge of the Light Brigade",
+    "year": 1936,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 115,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Errol Flynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "Olivia de Havilland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000014/"
+      },
+      {
+        "name": "Patric Knowles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0461424/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Assistant Director"
+    ],
+    "description": "A British officer leads a charge against the Russians in the Crimean War, seeking revenge on the man who betrayed his regiment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0027438/"
+  },
+  {
+    "title": "Show Boat",
+    "year": 1936,
+    "director": {
+      "name": "James Whale",
+      "imdb_person_url": "https://www.imdb.com/name/nm0923762/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 113,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Irene Dunne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002050/"
+      },
+      {
+        "name": "Allan Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0427301/"
+      },
+      {
+        "name": "Charles Winninger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0935391/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The daughter of a riverboat captain falls in love with a charming gambler, but their fairytale romance is threatened by his addiction.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028243/"
+  },
+  {
+    "title": "After the Thin Man",
+    "year": 1936,
+    "director": {
+      "name": "W.S. Van Dyke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0887852/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 112,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "William Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
+      },
+      {
+        "name": "Myrna Loy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
+      },
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Nick and Nora Charles are back in San Francisco to spend New Year's Eve, but their vacation is interrupted when a cousin's husband goes missing.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0027260/"
+  },
+  {
+    "title": "Camille",
+    "year": 1936,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 109,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Greta Garbo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001256/"
+      },
+      {
+        "name": "Robert Taylor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001788/"
+      },
+      {
+        "name": "Lionel Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000865/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Parisian courtesan falls in love with a young man from a good family, but their romance is threatened by her past and his father's disapproval.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028683/"
+  },
+  {
     "title": "Snow White and the Seven Dwarfs",
     "year": 1937,
-    "director": "William Cottrell",
+    "director": {
+      "name": "William Cottrell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0182878/"
+    },
     "mpaa_rating": "G",
     "runtime_minutes": 83,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "78%"
     },
@@ -1246,9 +2170,18 @@
       "Fantasy"
     ],
     "actors": [
-      "Adriana Caselotti",
-      "Harry Stockwell",
-      "Lucille La Verne"
+      {
+        "name": "Adriana Caselotti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0143323/"
+      },
+      {
+        "name": "Harry Stockwell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0830843/"
+      },
+      {
+        "name": "Lucille La Verne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0479046/"
+      }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
@@ -1262,11 +2195,14 @@
   {
     "title": "Captains Courageous",
     "year": 1937,
-    "director": "Victor Fleming",
+    "director": {
+      "name": "Victor Fleming",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002078/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 115,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "88%"
     },
@@ -1276,9 +2212,18 @@
       "Family"
     ],
     "actors": [
-      "Spencer Tracy",
-      "Freddie Bartholomew",
-      "Lionel Barrymore"
+      {
+        "name": "Spencer Tracy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
+      },
+      {
+        "name": "Freddie Bartholomew",
+        "imdb_person_url": "https://www.imdb.com/name/nm0058332/"
+      },
+      {
+        "name": "Lionel Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000865/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
@@ -1292,11 +2237,14 @@
   {
     "title": "The Awful Truth",
     "year": 1937,
-    "director": "Leo McCarey",
+    "director": {
+      "name": "Leo McCarey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565257/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 91,
     "ratings": {
-      "imdb": "7.7/10",
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "88%"
     },
@@ -1305,9 +2253,18 @@
       "Romance"
     ],
     "actors": [
-      "Irene Dunne",
-      "Cary Grant",
-      "Ralph Bellamy"
+      {
+        "name": "Irene Dunne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002050/"
+      },
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Ralph Bellamy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000896/"
+      }
     ],
     "oscars_nominated": 6,
     "oscars_won": 1,
@@ -1321,11 +2278,14 @@
   {
     "title": "Grand Illusion",
     "year": 1937,
-    "director": "Jean Renoir",
+    "director": {
+      "name": "Jean Renoir",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003025/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 113,
     "ratings": {
-      "imdb": "8.1/10",
+      "imdb": 8.1,
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "92%"
     },
@@ -1334,9 +2294,18 @@
       "War"
     ],
     "actors": [
-      "Jean Gabin",
-      "Dita Parlo",
-      "Pierre Fresnay"
+      {
+        "name": "Jean Gabin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0300265/"
+      },
+      {
+        "name": "Dita Parlo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0663116/"
+      },
+      {
+        "name": "Pierre Fresnay",
+        "imdb_person_url": "https://www.imdb.com/name/nm0294374/"
+      }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -1348,11 +2317,14 @@
   {
     "title": "A Star Is Born",
     "year": 1937,
-    "director": "William A. Wellman",
+    "director": {
+      "name": "William A. Wellman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0920074/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 111,
     "ratings": {
-      "imdb": "7.5/10",
+      "imdb": 7.5,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "79%"
     },
@@ -1361,9 +2333,18 @@
       "Romance"
     ],
     "actors": [
-      "Janet Gaynor",
-      "Fredric March",
-      "Adolphe Menjou"
+      {
+        "name": "Janet Gaynor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0310982/"
+      },
+      {
+        "name": "Fredric March",
+        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
+      },
+      {
+        "name": "Adolphe Menjou",
+        "imdb_person_url": "https://www.imdb.com/name/nm0579634/"
+      }
     ],
     "oscars_nominated": 7,
     "oscars_won": 2,
@@ -1378,11 +2359,14 @@
   {
     "title": "The Life of Emile Zola",
     "year": 1937,
-    "director": "William Dieterle",
+    "director": {
+      "name": "William Dieterle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0226189/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 116,
     "ratings": {
-      "imdb": "7.1/10",
+      "imdb": 7.1,
       "rotten_tomatoes_critic": "86%",
       "rotten_tomatoes_popcorn": "69%"
     },
@@ -1391,9 +2375,18 @@
       "Drama"
     ],
     "actors": [
-      "Paul Muni",
-      "Gale Sondergaard",
-      "Joseph Schildkraut"
+      {
+        "name": "Paul Muni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0612868/"
+      },
+      {
+        "name": "Gale Sondergaard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0814242/"
+      },
+      {
+        "name": "Joseph Schildkraut",
+        "imdb_person_url": "https://www.imdb.com/name/nm0771630/"
+      }
     ],
     "oscars_nominated": 10,
     "oscars_won": 3,
@@ -1409,11 +2402,14 @@
   {
     "title": "Stage Door",
     "year": 1937,
-    "director": "Gregory La Cava",
+    "director": {
+      "name": "Gregory La Cava",
+      "imdb_person_url": "https://www.imdb.com/name/nm0478712/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 92,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "84%"
     },
@@ -1422,9 +2418,18 @@
       "Drama"
     ],
     "actors": [
-      "Katharine Hepburn",
-      "Ginger Rogers",
-      "Adolphe Menjou"
+      {
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
+      },
+      {
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
+      },
+      {
+        "name": "Adolphe Menjou",
+        "imdb_person_url": "https://www.imdb.com/name/nm0579634/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
@@ -1434,13 +2439,55 @@
     "imdb_url": "https://www.imdb.com/title/tt0029604/"
   },
   {
+    "title": "Make Way for Tomorrow",
+    "year": 1937,
+    "director": {
+      "name": "Leo McCarey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565257/"
+    },
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 91,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Victor Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0601994/"
+      },
+      {
+        "name": "Beulah Bondi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0094248/"
+      },
+      {
+        "name": "Fay Bainter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0047895/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An elderly couple is forced to separate when they lose their house and none of their five children will take both of them in.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029192/"
+  },
+  {
     "title": "Bringing Up Baby",
     "year": 1938,
-    "director": "Howard Hawks",
+    "director": {
+      "name": "Howard Hawks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 102,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "91%"
     },
@@ -1450,9 +2497,18 @@
       "Romance"
     ],
     "actors": [
-      "Katharine Hepburn",
-      "Cary Grant",
-      "Charles Ruggles"
+      {
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
+      },
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Charles Ruggles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0749459/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1464,11 +2520,14 @@
   {
     "title": "The Adventures of Robin Hood",
     "year": 1938,
-    "director": "Michael Curtiz",
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
+    },
     "mpaa_rating": "PG",
     "runtime_minutes": 102,
     "ratings": {
-      "imdb": "7.9/10",
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "90%"
     },
@@ -1478,9 +2537,18 @@
       "Romance"
     ],
     "actors": [
-      "Errol Flynn",
-      "Olivia de Havilland",
-      "Basil Rathbone"
+      {
+        "name": "Errol Flynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "Olivia de Havilland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000014/"
+      },
+      {
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 3,
@@ -1496,11 +2564,14 @@
   {
     "title": "You Can't Take It with You",
     "year": 1938,
-    "director": "Frank Capra",
+    "director": {
+      "name": "Frank Capra",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 126,
     "ratings": {
-      "imdb": "7.9/10",
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "91%"
     },
@@ -1510,9 +2581,18 @@
       "Romance"
     ],
     "actors": [
-      "Jean Arthur",
-      "Lionel Barrymore",
-      "James Stewart"
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000799/"
+      },
+      {
+        "name": "Lionel Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000865/"
+      },
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      }
     ],
     "oscars_nominated": 7,
     "oscars_won": 2,
@@ -1527,11 +2607,14 @@
   {
     "title": "Angels with Dirty Faces",
     "year": 1938,
-    "director": "Michael Curtiz",
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 97,
     "ratings": {
-      "imdb": "7.9/10",
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "91%"
     },
@@ -1541,9 +2624,18 @@
       "Film-Noir"
     ],
     "actors": [
-      "James Cagney",
-      "Pat O'Brien",
-      "The Dead End Kids"
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000010/"
+      },
+      {
+        "name": "Pat O'Brien",
+        "imdb_person_url": "https://www.imdb.com/name/nm0639649/"
+      },
+      {
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
@@ -1555,11 +2647,14 @@
   {
     "title": "The Lady Vanishes",
     "year": 1938,
-    "director": "Alfred Hitchcock",
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 96,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "90%"
     },
@@ -1568,9 +2663,18 @@
       "Thriller"
     ],
     "actors": [
-      "Margaret Lockwood",
-      "Michael Redgrave",
-      "Paul Lukas"
+      {
+        "name": "Margaret Lockwood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0516997/"
+      },
+      {
+        "name": "Michael Redgrave",
+        "imdb_person_url": "https://www.imdb.com/name/nm0714819/"
+      },
+      {
+        "name": "Paul Lukas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0525624/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1582,11 +2686,14 @@
   {
     "title": "Jezebel",
     "year": 1938,
-    "director": "William Wyler",
+    "director": {
+      "name": "William Wyler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 104,
     "ratings": {
-      "imdb": "7.5/10",
+      "imdb": 7.5,
       "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "85%"
     },
@@ -1595,9 +2702,18 @@
       "Romance"
     ],
     "actors": [
-      "Bette Davis",
-      "Henry Fonda",
-      "George Brent"
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Henry Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "George Brent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0107567/"
+      }
     ],
     "oscars_nominated": 5,
     "oscars_won": 2,
@@ -1612,11 +2728,14 @@
   {
     "title": "Pygmalion",
     "year": 1938,
-    "director": "Anthony Asquith",
+    "director": {
+      "name": "Anthony Asquith",
+      "imdb_person_url": "https://www.imdb.com/name/nm0039433/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 96,
     "ratings": {
-      "imdb": "7.7/10",
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -1626,9 +2745,18 @@
       "Romance"
     ],
     "actors": [
-      "Leslie Howard",
-      "Wendy Hiller",
-      "Wilfrid Lawson"
+      {
+        "name": "Leslie Howard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
+      },
+      {
+        "name": "Wendy Hiller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0384918/"
+      },
+      {
+        "name": "Wilfrid Lawson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0493322/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
@@ -1642,11 +2770,14 @@
   {
     "title": "Boys Town",
     "year": 1938,
-    "director": "Norman Taurog",
+    "director": {
+      "name": "Norman Taurog",
+      "imdb_person_url": "https://www.imdb.com/name/nm0851457/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 96,
     "ratings": {
-      "imdb": "7.2/10",
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "90%",
       "rotten_tomatoes_popcorn": "80%"
     },
@@ -1655,9 +2786,18 @@
       "Drama"
     ],
     "actors": [
-      "Spencer Tracy",
-      "Mickey Rooney",
-      "Henry Hull"
+      {
+        "name": "Spencer Tracy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
+      },
+      {
+        "name": "Mickey Rooney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
+      },
+      {
+        "name": "Henry Hull",
+        "imdb_person_url": "https://www.imdb.com/name/nm0401569/"
+      }
     ],
     "oscars_nominated": 5,
     "oscars_won": 2,
@@ -1670,13 +2810,93 @@
     "imdb_url": "https://www.imdb.com/title/tt0029932/"
   },
   {
+    "title": "Holiday",
+    "year": 1938,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
+      },
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Doris Nolan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0634289/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young man is torn between his free-thinking lifestyle and the conservative customs of his wealthy fiancée's family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0030241/"
+  },
+  {
+    "title": "The Citadel",
+    "year": 1938,
+    "director": {
+      "name": "King Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0896542/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robert Donat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0232238/"
+      },
+      {
+        "name": "Rosalind Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
+      },
+      {
+        "name": "Ralph Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001667/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An idealistic young doctor in a Welsh mining town is torn between his desire to help the poor and the lure of a lucrative London practice.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029982/"
+  },
+  {
     "title": "Gone with the Wind",
     "year": 1939,
-    "director": "Victor Fleming",
+    "director": {
+      "name": "Victor Fleming",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002078/"
+    },
     "mpaa_rating": "G",
     "runtime_minutes": 238,
     "ratings": {
-      "imdb": "8.2/10",
+      "imdb": 8.2,
       "rotten_tomatoes_critic": "90%",
       "rotten_tomatoes_popcorn": "93%"
     },
@@ -1686,9 +2906,18 @@
       "Romance"
     ],
     "actors": [
-      "Clark Gable",
-      "Vivien Leigh",
-      "Thomas Mitchell"
+      {
+        "name": "Clark Gable",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
+      },
+      {
+        "name": "Vivien Leigh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000048/"
+      },
+      {
+        "name": "Thomas Mitchell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0593459/"
+      }
     ],
     "oscars_nominated": 13,
     "oscars_won": 10,
@@ -1711,11 +2940,14 @@
   {
     "title": "The Wizard of Oz",
     "year": 1939,
-    "director": "Victor Fleming",
+    "director": {
+      "name": "Victor Fleming",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002078/"
+    },
     "mpaa_rating": "PG",
     "runtime_minutes": 102,
     "ratings": {
-      "imdb": "8.1/10",
+      "imdb": 8.1,
       "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "89%"
     },
@@ -1725,9 +2957,18 @@
       "Fantasy"
     ],
     "actors": [
-      "Judy Garland",
-      "Frank Morgan",
-      "Ray Bolger"
+      {
+        "name": "Judy Garland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000023/"
+      },
+      {
+        "name": "Frank Morgan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0604673/"
+      },
+      {
+        "name": "Ray Bolger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001961/"
+      }
     ],
     "oscars_nominated": 6,
     "oscars_won": 3,
@@ -1743,11 +2984,14 @@
   {
     "title": "Mr. Smith Goes to Washington",
     "year": 1939,
-    "director": "Frank Capra",
+    "director": {
+      "name": "Frank Capra",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 129,
     "ratings": {
-      "imdb": "8.1/10",
+      "imdb": 8.1,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "93%"
     },
@@ -1756,9 +3000,18 @@
       "Drama"
     ],
     "actors": [
-      "James Stewart",
-      "Jean Arthur",
-      "Claude Rains"
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      },
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000799/"
+      },
+      {
+        "name": "Claude Rains",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+      }
     ],
     "oscars_nominated": 11,
     "oscars_won": 1,
@@ -1772,11 +3025,14 @@
   {
     "title": "Stagecoach",
     "year": 1939,
-    "director": "John Ford",
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 96,
     "ratings": {
-      "imdb": "7.8/10",
+      "imdb": 7.8,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "87%"
     },
@@ -1785,9 +3041,18 @@
       "Western"
     ],
     "actors": [
-      "John Wayne",
-      "Claire Trevor",
-      "Andy Devine"
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Claire Trevor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0872429/"
+      },
+      {
+        "name": "Andy Devine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0222421/"
+      }
     ],
     "oscars_nominated": 7,
     "oscars_won": 2,
@@ -1802,11 +3067,14 @@
   {
     "title": "Ninotchka",
     "year": 1939,
-    "director": "Ernst Lubitsch",
+    "director": {
+      "name": "Ernst Lubitsch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0523932/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 110,
     "ratings": {
-      "imdb": "7.9/10",
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "90%"
     },
@@ -1815,9 +3083,18 @@
       "Romance"
     ],
     "actors": [
-      "Greta Garbo",
-      "Melvyn Douglas",
-      "Ina Claire"
+      {
+        "name": "Greta Garbo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001256/"
+      },
+      {
+        "name": "Melvyn Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002048/"
+      },
+      {
+        "name": "Ina Claire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0163319/"
+      }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
@@ -1829,11 +3106,14 @@
   {
     "title": "Wuthering Heights",
     "year": 1939,
-    "director": "William Wyler",
+    "director": {
+      "name": "William Wyler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 104,
     "ratings": {
-      "imdb": "7.5/10",
+      "imdb": 7.5,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -1842,9 +3122,18 @@
       "Romance"
     ],
     "actors": [
-      "Merle Oberon",
-      "Laurence Olivier",
-      "David Niven"
+      {
+        "name": "Merle Oberon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0643329/"
+      },
+      {
+        "name": "Laurence Olivier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
+      },
+      {
+        "name": "David Niven",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000057/"
+      }
     ],
     "oscars_nominated": 8,
     "oscars_won": 1,
@@ -1858,11 +3147,14 @@
   {
     "title": "The Rules of the Game",
     "year": 1939,
-    "director": "Jean Renoir",
+    "director": {
+      "name": "Jean Renoir",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003025/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 110,
     "ratings": {
-      "imdb": "8.1/10",
+      "imdb": 8.1,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "90%"
     },
@@ -1871,9 +3163,18 @@
       "Drama"
     ],
     "actors": [
-      "Nora Gregor",
-      "Paulette Dubost",
-      "Mila Parély"
+      {
+        "name": "Nora Gregor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0339670/"
+      },
+      {
+        "name": "Paulette Dubost",
+        "imdb_person_url": "https://www.imdb.com/name/nm0239247/"
+      },
+      {
+        "name": "Mila Parély",
+        "imdb_person_url": "https://www.imdb.com/name/nm0661338/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1885,11 +3186,14 @@
   {
     "title": "Goodbye, Mr. Chips",
     "year": 1939,
-    "director": "Sam Wood",
+    "director": {
+      "name": "Sam Wood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939886/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 114,
     "ratings": {
-      "imdb": "7.7/10",
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "86%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -1898,9 +3202,18 @@
       "Romance"
     ],
     "actors": [
-      "Robert Donat",
-      "Greer Garson",
-      "Terry Kilburn"
+      {
+        "name": "Robert Donat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0232238/"
+      },
+      {
+        "name": "Greer Garson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002093/"
+      },
+      {
+        "name": "Terry Kilburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0453006/"
+      }
     ],
     "oscars_nominated": 7,
     "oscars_won": 1,
@@ -1914,11 +3227,14 @@
   {
     "title": "Gunga Din",
     "year": 1939,
-    "director": "George Stevens",
+    "director": {
+      "name": "George Stevens",
+      "imdb_person_url": "https://www.imdb.com/name/nm0828552/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 117,
     "ratings": {
-      "imdb": "7.4/10",
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "90%",
       "rotten_tomatoes_popcorn": "83%"
     },
@@ -1928,9 +3244,18 @@
       "War"
     ],
     "actors": [
-      "Cary Grant",
-      "Victor McLaglen",
-      "Douglas Fairbanks Jr."
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Victor McLaglen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0572138/"
+      },
+      {
+        "name": "Douglas Fairbanks Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001198/"
+      }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -1942,11 +3267,14 @@
   {
     "title": "Only Angels Have Wings",
     "year": 1939,
-    "director": "Howard Hawks",
+    "director": {
+      "name": "Howard Hawks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 121,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "83%"
     },
@@ -1956,9 +3284,18 @@
       "Romance"
     ],
     "actors": [
-      "Cary Grant",
-      "Jean Arthur",
-      "Rita Hayworth"
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000799/"
+      },
+      {
+        "name": "Rita Hayworth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000028/"
+      }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
@@ -1970,11 +3307,14 @@
   {
     "title": "The Hunchback of Notre Dame",
     "year": 1939,
-    "director": "William Dieterle",
+    "director": {
+      "name": "William Dieterle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0226189/"
+    },
     "mpaa_rating": "Passed",
     "runtime_minutes": 116,
     "ratings": {
-      "imdb": "7.7/10",
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "92%",
       "rotten_tomatoes_popcorn": "83%"
     },
@@ -1984,9 +3324,18 @@
       "Romance"
     ],
     "actors": [
-      "Charles Laughton",
-      "Maureen O'Hara",
-      "Cedric Hardwicke"
+      {
+        "name": "Charles Laughton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
+      },
+      {
+        "name": "Maureen O'Hara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000058/"
+      },
+      {
+        "name": "Cedric Hardwicke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002127/"
+      }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
@@ -1998,11 +3347,14 @@
   {
     "title": "Destry Rides Again",
     "year": 1939,
-    "director": "George Marshall",
+    "director": {
+      "name": "George Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0550882/"
+    },
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 95,
     "ratings": {
-      "imdb": "7.6/10",
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "86%"
     },
@@ -2011,9 +3363,18 @@
       "Western"
     ],
     "actors": [
-      "Marlene Dietrich",
-      "James Stewart",
-      "Mischa Auer"
+      {
+        "name": "Marlene Dietrich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+      },
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      },
+      {
+        "name": "Mischa Auer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0041695/"
+      }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -2021,5 +3382,45 @@
     "description": "A young, mild-mannered deputy is sent to tame a lawless frontier town, but he finds his non-violent methods are no match for the town's corrupt boss.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0031225/"
+  },
+  {
+    "title": "The Roaring Twenties",
+    "year": 1939,
+    "director": {
+      "name": "Raoul Walsh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0909825/"
+    },
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 106,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000010/"
+      },
+      {
+        "name": "Priscilla Lane",
+        "imdb_person_url": "https://www.imdb.com/name/nm0485390/"
+      },
+      {
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three men attempt to make a living in Prohibition-era America after returning home from fighting together in World War I.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031867/"
   }
 ]

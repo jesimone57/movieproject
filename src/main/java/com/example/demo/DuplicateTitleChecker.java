@@ -4,7 +4,7 @@ import com.example.demo.service.MovieService;
 import java.util.Map;
 
 /**
- * A simple utility class to check for duplicate movie titles in the movies.json file.
+ * A simple utility class to check for duplicate movie titles in the movies-original.json file.
  */
 public class DuplicateTitleChecker {
     
@@ -24,7 +24,7 @@ public class DuplicateTitleChecker {
                 System.out.println("Title: '" + entry.getKey() + "' appears " + entry.getValue() + " times");
             }
         } else {
-            System.out.println("No duplicate titles found in movies.json");
+            System.out.println("No duplicate titles found in movies-original.json");
         }
         
         // Print total number of movies for reference

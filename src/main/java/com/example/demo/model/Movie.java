@@ -1,64 +1,51 @@
 package com.example.demo.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.ArrayList;
 import java.util.List;
+import lombok.Data;
 import org.apache.commons.lang3.StringUtils;
 
+@Data
 public class Movie {
 
     private  int num;
     private String title;
     private int year;
-    private double imdb_rating;
-    private List<String> genre;
-    private String imdb_id;
-    private String imdb_url;
+    private Director director;
+    @JsonProperty("mpaa_rating")
+    private String mpaaRating;
+    @JsonProperty("runtime_minutes")
+    private int runtimeMinutes;
+    private Ratings ratings;
+    private List<String> genres;
+    private List<Actor> actors;
+    @JsonProperty("oscars_nominated")
+    private int oscarsNominated;
+    @JsonProperty("oscars_won")
+    private int oscarsWon;
+    @JsonProperty("oscars_won_details")
+    private List<String> oscarsWonDetails;
     private String description;
+    @JsonProperty("afi_ranking")
+    private Integer afiRanking;
+    @JsonProperty("imdb_url")
+    private String imdbUrl;
+    @JsonProperty("imdb_id")
+    private String imdbId;
 
-    // Getters and setters
-    public int getNum() {
-        return num;
-    }
-    public int setNum(int num) {
-        return this.num = num;
-    }
-    public String getTitle() {
-        return title;
-    }
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public int getYear() {
-        return year;
-    }
-    public void setYear(int year) {
-        this.year = year;
-    }
-
-    public double getImdb_rating() {
-        return imdb_rating;
-    }
-    public void setImdb_rating(double imdb_rating) {
-        this.imdb_rating = imdb_rating;
-    }
-
-    public List<String> getGenre() {
-        return genre;
-    }
-
-    public void setGenre(List<String> genre) {
-        this.genre = genre;
+    public double getImdbRating() {
+        return ratings.getImdb();
     }
 
     public boolean isGenre(String genre) {
         // Handle null or empty data safely
-        if (this.genre == null || this.genre.isEmpty() || genre == null) {
+        if (this.genres == null || this.genres.isEmpty() || genre == null) {
             return false;
         }
 
         // Flatten the movie's genre list into a single searchable string
-        String genreText = String.join(" ", this.genre);
+        String genreText = String.join(" ", this.genres);
 
         // Collect search tokens by splitting on commas
         String[] parts = genre.split(",");
@@ -85,40 +72,5 @@ public class Movie {
 
     public boolean isInRange(Integer yearStart, Integer yearEnd) {
         return yearStart != null && this.year >= yearStart && yearEnd != null && this.year <= yearEnd;
-    }
-
-    public String getImdb_id() {
-        return imdb_id;
-    }
-    public void setImdb_id(String imdb_id) {
-        this.imdb_id = imdb_id;
-    }
-
-    public String getImdb_url() {
-        return imdb_url;
-    }
-    public void setImdb_url(String imdb_url) {
-        this.imdb_url = imdb_url;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-    public void setDescription(String description) {
-        this.description = description;
-    }
-
-    @Override
-    public String toString() {
-        return "Movie{" +
-                "num=" + num +
-                "  title='" + title + '\'' +
-                ", year=" + year +
-                ", imdb_rating=" + imdb_rating +
-                ", genre=" + genre +
-                ", imdb_id='" + imdb_id + '\'' +
-                ", imdb_url='" + imdb_url + '\'' +
-                ", description='" + description + '\'' +
-                '}';
     }
 }

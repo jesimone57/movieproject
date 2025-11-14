@@ -88,8 +88,8 @@ class DemoApplicationUnitTests {
         assertNotNull(movies);
         assertEquals(56, movies.size());
         for (int i = 0; i < movies.size() - 1; i++) {
-            double currentRating = movies.get(i).getImdb_rating();
-            double nextRating = movies.get(i + 1).getImdb_rating();
+            double currentRating = movies.get(i).getImdbRating();
+            double nextRating = movies.get(i + 1).getImdbRating();
             assertTrue(nextRating <= currentRating);
         }
     }
@@ -109,7 +109,7 @@ class DemoApplicationUnitTests {
         assertNotNull(movies);
         assertEquals(33, movies.size());
         for (Movie movie : movies) {
-            List<String> genres = movie.getGenre();
+            List<String> genres = movie.getGenres();
             assertTrue(genres.contains(genre));
         }
     }
@@ -129,7 +129,7 @@ class DemoApplicationUnitTests {
         assertNotNull(movies);
         assertEquals(4, movies.size());
         for (Movie movie : movies) {
-            List<String> genres = movie.getGenre();
+            List<String> genres = movie.getGenres();
             assertTrue(genres.contains("Romance"));
             assertTrue(genres.contains("Comedy"));
         }
@@ -143,7 +143,7 @@ class DemoApplicationUnitTests {
         assertNotNull(movies);
         assertEquals(4, movies.size());
         for (Movie movie : movies) {
-            List<String> genres = movie.getGenre();
+            List<String> genres = movie.getGenres();
             assertTrue(genres.contains("Romance"));
             assertTrue(genres.contains("Comedy"));
         }
@@ -157,7 +157,7 @@ class DemoApplicationUnitTests {
         assertNotNull(movies);
         assertEquals(2, movies.size());
         for (Movie movie : movies) {
-            List<String> genres = movie.getGenre();
+            List<String> genres = movie.getGenres();
             assertTrue(genres.contains("Action"));
             assertTrue(genres.contains("Mystery"));
             assertTrue(genres.contains("Drama"));
@@ -243,7 +243,7 @@ class DemoApplicationUnitTests {
         assertNotNull(movies);
         assertEquals(2, movies.size());
         for (Movie movie : movies) {
-            assertTrue(movie.getImdb_rating() >= imdb_rating);
+            assertTrue(movie.getImdbRating() >= imdb_rating);
         }
     }
 
@@ -268,7 +268,7 @@ class DemoApplicationUnitTests {
         assertNotNull(movies);
         assertEquals(2, movies.size());
         for (Movie movie : movies) {
-            assertTrue(movie.getGenre().contains(genre));
+            assertTrue(movie.getGenres().contains(genre));
             assertEquals(year, movie.getYear());
         }
     }
@@ -284,8 +284,8 @@ class DemoApplicationUnitTests {
         assertEquals(1, movies.size());
         for (Movie movie : movies) {
             assertTrue(StringUtils.containsIgnoreCase(movie.getTitle(), title));
-            assertTrue(movie.getGenre().contains(genre));
-            assertTrue(movie.getImdb_rating() >= minRating);
+            assertTrue(movie.getGenres().contains(genre));
+            assertTrue(movie.getImdbRating() >= minRating);
             assertEquals(year, movie.getYear());
         }
     }
@@ -298,7 +298,7 @@ class DemoApplicationUnitTests {
         assertEquals(32, movies.get(31).getNum());
         for (Movie movie : movies) {
             assertTrue(StringUtils.containsIgnoreCase(movie.getTitle(), title));
-            assertTrue(movie.getGenre().contains(genre));
+            assertTrue(movie.getGenres().contains(genre));
         }
     }
 
