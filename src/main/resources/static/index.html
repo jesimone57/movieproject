@@ -154,6 +154,10 @@
       font-size: 12px;
     }
 
+    /* Title column width (70% of previous 320px setting = ~224px) */
+    /* Column order (current): 1:#, 2:Title, 3:Year, 4:IMDb, 5:Director, 6:Genre, ... */
+    th:nth-child(2), td:nth-child(2) { min-width: 224px; }
+
     pre.json { background: #0b1020; color: #d6eaff; padding: 16px; border-radius: 12px; overflow: auto; font-size: 13px; }
     code.key { color: #8be9fd }
     code.str { color: #f1fa8c }
@@ -285,6 +289,20 @@
         case 'title': return (m.title ?? '').toString();
         case 'year': return (m.year ?? null);
         case 'imdb': return (m.imdbRating ?? null);
+        case 'director': {
+          const dname = m.director && (m.director.name ?? m.director?.Name);
+          return (dname ?? '').toString();
+        }
+        case 'actors': {
+          if (Array.isArray(m.actors)) {
+            // Sort by a single comparable string of actor names
+            return m.actors
+              .map(a => (a && (a.name ?? a?.Name) ? String(a.name ?? a?.Name) : ''))
+              .filter(Boolean)
+              .join(', ');
+          }
+          return '';
+        }
         case 'genre': {
           if (Array.isArray(m.genres)) return m.genres.join(', ').toString();
           return (m.genres ?? '').toString();
@@ -292,7 +310,14 @@
         case 'duration': return (m.runtime_minutes ?? null);
         case 'osc_nom': return (m.oscars_nominated ?? null);
         case 'osc_won': return (m.oscars_won ?? null);
+        case 'osc_won_details': {
+          if (Array.isArray(m.oscars_won_details)) {
+            return m.oscars_won_details.join(', ');
+          }
+          return '';
+        }
         case 'mpaa': return (m.mpaa_rating ?? '').toString();
+        case 'afi': return (m.afi_ranking ?? m.afiRanking ?? null);
         default: return null;
       }
     }
@@ -355,90 +380,130 @@
     function renderMovies(movies) {
       if (!Array.isArray(movies)) return formatJSON(movies);
       const rows = movies.map(m => `
-        <tr>
-          <td>${m.num ?? ''}</td>
-          <td>${escapeHtml(m.title ?? '')}</td>
-          <td>${m.year ?? ''}</td>
-          <td><span class="kpi">${m.imdbRating ?? ''}</span></td>
-          <td>${Array.isArray(m.genres) ? m.genres.map(g => escapeHtml(g)).join(', ') : (m.genres ?? '')}</td>
-          <td class="numcol">${m.runtime_minutes != null ? escapeHtml(m.runtime_minutes) + ' min' : ''}</td>
-          <td class="numcol">${m.oscars_nominated ?? ''}</td>
-          <td class="numcol">${m.oscars_won ?? ''}</td>
-          <td>${m.mpaa_rating ?? ''}</td>
-          <td>${m.imdb_url ? `<a href="${escapeAttr(m.imdb_url)}" target="_blank">link</a>` : ''}</td>
-        </tr>`).join('');
-      return `
-        <div class="table-wrap">
-          <table>
-            <thead>
-              <tr>
-                <th>#</th>
-                <th>
-                  <div class="sortable"><span>Title</span>
-                    <span class="sort-controls">
-                      <button class="sort" data-key="title" data-dir="asc" title="Sort ascending">▲</button>
-                      <button class="sort" data-key="title" data-dir="desc" title="Sort descending">▼</button>
-                    </span>
-                  </div>
-                </th>
-                <th>
-                  <div class="sortable"><span>Year</span>
-                    <span class="sort-controls">
-                      <button class="sort" data-key="year" data-dir="asc" title="Sort ascending">▲</button>
-                      <button class="sort" data-key="year" data-dir="desc" title="Sort descending">▼</button>
-                    </span>
-                  </div>
-                </th>
-                <th>
-                  <div class="sortable"><span>IMDb</span>
-                    <span class="sort-controls">
-                      <button class="sort" data-key="imdb" data-dir="asc" title="Sort ascending">▲</button>
-                      <button class="sort" data-key="imdb" data-dir="desc" title="Sort descending">▼</button>
-                    </span>
-                  </div>
-                </th>
-                <th>
-                  <div class="sortable"><span>Genre</span>
-                    <span class="sort-controls">
-                      <button class="sort" data-key="genre" data-dir="asc" title="Sort ascending">▲</button>
-                      <button class="sort" data-key="genre" data-dir="desc" title="Sort descending">▼</button>
-                    </span>
-                  </div>
-                </th>
-                <th class="numcol">
-                  <div class="sortable"><span>Duration</span>
-                    <span class="sort-controls">
-                      <button class="sort" data-key="duration" data-dir="asc" title="Sort ascending">▲</button>
-                      <button class="sort" data-key="duration" data-dir="desc" title="Sort descending">▼</button>
-                    </span>
-                  </div>
-                </th>
-                <th class="numcol">
-                  <div class="sortable"><span>Oscars<br>Nominated</span>
-                    <span class="sort-controls">
-                      <button class="sort" data-key="osc_nom" data-dir="asc" title="Sort ascending">▲</button>
-                      <button class="sort" data-key="osc_nom" data-dir="desc" title="Sort descending">▼</button>
-                    </span>
-                  </div>
-                </th>
-                <th class="numcol">
-                  <div class="sortable"><span>Oscars<br>Won</span>
-                    <span class="sort-controls">
-                      <button class="sort" data-key="osc_won" data-dir="asc" title="Sort ascending">▲</button>
-                      <button class="sort" data-key="osc_won" data-dir="desc" title="Sort descending">▼</button>
-                    </span>
-                  </div>
-                </th>
-                <th>
-                  <div class="sortable"><span>MPAA</span>
-                    <span class="sort-controls">
-                      <button class="sort" data-key="mpaa" data-dir="asc" title="Sort ascending">▲</button>
-                      <button class="sort" data-key="mpaa" data-dir="desc" title="Sort descending">▼</button>
-                    </span>
-                  </div>
-                </th>
-                <th>URL</th>
-              </tr>
+      <tr>
+        <td>${m.num ?? ''}</td>
+        <td title="${m.description ? escapeAttr(m.description) : ''}">${escapeHtml(m.title ?? '')}</td>
+        <td>${m.year ?? ''}</td>
+        <td><span class="kpi">${m.imdbRating ?? ''}</span></td>
+        <td>${(m.director && m.director.name) ? (m.director.imdb_person_url ? `<a href="${escapeAttr(m.director.imdb_person_url)}" target="_blank">${escapeHtml(m.director.name)}</a>` : escapeHtml(m.director.name)) : ''}</td>
+        <td>${Array.isArray(m.actors) ? m.actors.map(a => {
+          const name = a && a.name ? escapeHtml(a.name) : '';
+          const url = a && a.imdb_person_url ? escapeAttr(a.imdb_person_url) : null;
+          return name ? (url ? `<a href="${url}" target="_blank">${name}</a>` : name) : '';
+        }).filter(Boolean).join(', ') : ''}</td>
+        <td>${Array.isArray(m.genres) ? m.genres.map(g => escapeHtml(g)).join(', ') : (m.genres ?? '')}</td>
+        <td class="numcol">${m.runtime_minutes != null ? escapeHtml(m.runtime_minutes) + ' min' : ''}</td>
+        <td class="numcol">${m.oscars_nominated ?? ''}</td>
+        <td class="numcol">${m.oscars_won ?? ''}</td>
+        <td>${Array.isArray(m.oscars_won_details) ? m.oscars_won_details.map(d => escapeHtml(d)).join('; ') : ''}</td>
+        <td>${m.mpaa_rating ?? ''}</td>
+        <td class="numcol">${m.afi_ranking ?? m.afiRanking ?? ''}</td>
+        <td>${m.imdb_url ? `<a href="${escapeAttr(m.imdb_url)}" target="_blank">link</a>` : ''}</td>
+      </tr>`).join('');
+    return `
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>
+                <div class="sortable"><span>Title</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="title" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="title" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>
+                <div class="sortable"><span>Year</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="year" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="year" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>
+                <div class="sortable"><span>IMDb</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="imdb" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="imdb" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>
+                <div class="sortable"><span>Director</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="director" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="director" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>
+                <div class="sortable"><span>Actors</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="actors" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="actors" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>
+                <div class="sortable"><span>Genre</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="genre" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="genre" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th class="numcol">
+                <div class="sortable"><span>Duration</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="duration" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="duration" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th class="numcol">
+                <div class="sortable"><span>Oscars<br>Nominated</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="osc_nom" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="osc_nom" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th class="numcol">
+                <div class="sortable"><span>Oscars<br>Won</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="osc_won" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="osc_won" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>
+                <div class="sortable"><span>Oscars Won Details</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="osc_won_details" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="osc_won_details" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>
+                <div class="sortable"><span>MPAA</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="mpaa" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="mpaa" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th class="numcol">
+                <div class="sortable"><span>AFI</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="afi" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="afi" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>URL</th>
+            </tr>
             </thead>
             <tbody>${rows}</tbody>
           </table>
