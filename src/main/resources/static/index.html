@@ -126,6 +126,26 @@
     tbody tr:hover { background: #f9fbfd; }
 
     .row { display: contents; }
+    /* Right-align numeric table cells for clean column alignment */
+    .numcol { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    /* Allow wrapping in numeric column headers to tighten column width */
+    th.numcol { white-space: normal; }
+    /* Sortable header controls */
+    .sortable { display: flex; align-items: center; gap: 6px; }
+    /* Stack sort arrows vertically to save horizontal space */
+    .sort-controls {
+      display: inline-flex;
+      flex-direction: column;
+      gap: 2px;
+      align-items: center;
+    }
+    .sort-controls button {
+      padding: 0 4px; line-height: 1; height: 16px; min-width: 18px;
+      border: 1px solid transparent; border-radius: 4px; background: transparent; color: #64748b;
+      cursor: pointer; font-size: 12px;
+    }
+    .sort-controls button:hover { background: #e2e8f0; color: #334155; }
+    .sort-controls button.active { background: #dbeafe; border-color: #bfdbfe; color: #1d4ed8; font-weight: 700; }
     .kpi {
       display: inline-block;
       padding: 4px 10px;
@@ -256,6 +276,82 @@
       return `<pre class="json">${json}</pre>`;
     }
 
+    // In-memory cache and sorting state for client-side sorting
+    let lastResults = [];
+    let currentSort = null; // { key: string, dir: 'asc'|'desc' }
+
+    function getSortValue(m, key) {
+      switch (key) {
+        case 'title': return (m.title ?? '').toString();
+        case 'year': return (m.year ?? null);
+        case 'imdb': return (m.imdbRating ?? null);
+        case 'genre': {
+          if (Array.isArray(m.genres)) return m.genres.join(', ').toString();
+          return (m.genres ?? '').toString();
+        }
+        case 'duration': return (m.runtime_minutes ?? null);
+        case 'osc_nom': return (m.oscars_nominated ?? null);
+        case 'osc_won': return (m.oscars_won ?? null);
+        case 'mpaa': return (m.mpaa_rating ?? '').toString();
+        default: return null;
+      }
+    }
+
+    function compareValues(a, b) {
+      // Handle null/undefined: push to end in ascending
+      const na = (a === null || a === undefined || a === '');
+      const nb = (b === null || b === undefined || b === '');
+      if (na && nb) return 0;
+      if (na) return 1;
+      if (nb) return -1;
+      const an = typeof a === 'number';
+      const bn = typeof b === 'number';
+      if (an && bn) return a - b;
+      // Try to coerce numeric strings
+      const ap = parseFloat(a);
+      const bp = parseFloat(b);
+      if (!Number.isNaN(ap) && !Number.isNaN(bp) && String(a).trim() !== '' && String(b).trim() !== '') {
+        return ap - bp;
+      }
+      return String(a).localeCompare(String(b), undefined, { sensitivity: 'base' });
+    }
+
+    function sortData(data, key, dir) {
+      const sorted = data.slice().sort((m1, m2) => {
+        const v1 = getSortValue(m1, key);
+        const v2 = getSortValue(m2, key);
+        const base = compareValues(v1, v2);
+        return dir === 'desc' ? -base : base;
+      });
+      return sorted;
+    }
+
+    function setActiveSortIndicators(root) {
+      const buttons = root.querySelectorAll('button.sort');
+      buttons.forEach(btn => {
+        const key = btn.getAttribute('data-key');
+        const dir = btn.getAttribute('data-dir');
+        const isActive = currentSort && currentSort.key === key && currentSort.dir === dir;
+        btn.classList.toggle('active', !!isActive);
+      });
+    }
+
+    function wireSortHandlers(root) {
+      const buttons = root.querySelectorAll('button.sort');
+      buttons.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          e.preventDefault();
+          const key = btn.getAttribute('data-key');
+          const dir = btn.getAttribute('data-dir');
+          currentSort = { key, dir };
+          if (Array.isArray(lastResults)) {
+            const data = sortData(lastResults, key, dir);
+            renderInto(el('results'), data);
+          }
+        });
+      });
+    }
+
     function renderMovies(movies) {
       if (!Array.isArray(movies)) return formatJSON(movies);
       const rows = movies.map(m => `
@@ -263,9 +359,12 @@
           <td>${m.num ?? ''}</td>
           <td>${escapeHtml(m.title ?? '')}</td>
           <td>${m.year ?? ''}</td>
-          <td><span class="kpi">${m.imdb_rating ?? ''}</span></td>
-          <td>${Array.isArray(m.genre) ? m.genre.join(', ') : (m.genre ?? '')}</td>
-          <td>${m.imdb_id ?? ''}</td>
+          <td><span class="kpi">${m.imdbRating ?? ''}</span></td>
+          <td>${Array.isArray(m.genres) ? m.genres.map(g => escapeHtml(g)).join(', ') : (m.genres ?? '')}</td>
+          <td class="numcol">${m.runtime_minutes != null ? escapeHtml(m.runtime_minutes) + ' min' : ''}</td>
+          <td class="numcol">${m.oscars_nominated ?? ''}</td>
+          <td class="numcol">${m.oscars_won ?? ''}</td>
+          <td>${m.mpaa_rating ?? ''}</td>
           <td>${m.imdb_url ? `<a href="${escapeAttr(m.imdb_url)}" target="_blank">link</a>` : ''}</td>
         </tr>`).join('');
       return `
@@ -274,17 +373,83 @@
             <thead>
               <tr>
                 <th>#</th>
-                <th>Title</th>
-                <th>Year</th>
-                <th>IMDb</th>
-                <th>Genre</th>
-                <th>IMDb ID</th>
+                <th>
+                  <div class="sortable"><span>Title</span>
+                    <span class="sort-controls">
+                      <button class="sort" data-key="title" data-dir="asc" title="Sort ascending">▲</button>
+                      <button class="sort" data-key="title" data-dir="desc" title="Sort descending">▼</button>
+                    </span>
+                  </div>
+                </th>
+                <th>
+                  <div class="sortable"><span>Year</span>
+                    <span class="sort-controls">
+                      <button class="sort" data-key="year" data-dir="asc" title="Sort ascending">▲</button>
+                      <button class="sort" data-key="year" data-dir="desc" title="Sort descending">▼</button>
+                    </span>
+                  </div>
+                </th>
+                <th>
+                  <div class="sortable"><span>IMDb</span>
+                    <span class="sort-controls">
+                      <button class="sort" data-key="imdb" data-dir="asc" title="Sort ascending">▲</button>
+                      <button class="sort" data-key="imdb" data-dir="desc" title="Sort descending">▼</button>
+                    </span>
+                  </div>
+                </th>
+                <th>
+                  <div class="sortable"><span>Genre</span>
+                    <span class="sort-controls">
+                      <button class="sort" data-key="genre" data-dir="asc" title="Sort ascending">▲</button>
+                      <button class="sort" data-key="genre" data-dir="desc" title="Sort descending">▼</button>
+                    </span>
+                  </div>
+                </th>
+                <th class="numcol">
+                  <div class="sortable"><span>Duration</span>
+                    <span class="sort-controls">
+                      <button class="sort" data-key="duration" data-dir="asc" title="Sort ascending">▲</button>
+                      <button class="sort" data-key="duration" data-dir="desc" title="Sort descending">▼</button>
+                    </span>
+                  </div>
+                </th>
+                <th class="numcol">
+                  <div class="sortable"><span>Oscars<br>Nominated</span>
+                    <span class="sort-controls">
+                      <button class="sort" data-key="osc_nom" data-dir="asc" title="Sort ascending">▲</button>
+                      <button class="sort" data-key="osc_nom" data-dir="desc" title="Sort descending">▼</button>
+                    </span>
+                  </div>
+                </th>
+                <th class="numcol">
+                  <div class="sortable"><span>Oscars<br>Won</span>
+                    <span class="sort-controls">
+                      <button class="sort" data-key="osc_won" data-dir="asc" title="Sort ascending">▲</button>
+                      <button class="sort" data-key="osc_won" data-dir="desc" title="Sort descending">▼</button>
+                    </span>
+                  </div>
+                </th>
+                <th>
+                  <div class="sortable"><span>MPAA</span>
+                    <span class="sort-controls">
+                      <button class="sort" data-key="mpaa" data-dir="asc" title="Sort ascending">▲</button>
+                      <button class="sort" data-key="mpaa" data-dir="desc" title="Sort descending">▼</button>
+                    </span>
+                  </div>
+                </th>
                 <th>URL</th>
               </tr>
             </thead>
             <tbody>${rows}</tbody>
           </table>
         </div>`;
+    }
+
+    function renderInto(container, data) {
+      // Render and then attach sort handlers + highlight active
+      container.innerHTML = renderMovies(data);
+      wireSortHandlers(container);
+      setActiveSortIndicators(container);
     }
 
     function escapeHtml(s) {
@@ -325,16 +490,30 @@
       };
       const r = await api('/api/movies/search', params);
       const data = await r.json();
-      el('results').innerHTML = renderMovies(data);
-      setKPIs(Array.isArray(data)?data.length:undefined, data);
+      if (Array.isArray(data)) {
+        lastResults = data.slice();
+        const toRender = currentSort ? sortData(lastResults, currentSort.key, currentSort.dir) : lastResults;
+        renderInto(el('results'), toRender);
+        setKPIs(toRender.length, data);
+      } else {
+        el('results').innerHTML = renderMovies(data);
+        setKPIs(undefined, data);
+      }
     }));
 
     el('btnTopN').addEventListener('click', () => handle(el('btnTopN'), async () => {
       const limit = 10; // default top rated count
       const r = await api(`/api/movies/toprating/${encodeURIComponent(limit)}`);
       const data = await r.json();
-      el('results').innerHTML = renderMovies(data);
-      setKPIs(Array.isArray(data)?data.length:undefined, data);
+      if (Array.isArray(data)) {
+        lastResults = data.slice();
+        const toRender = currentSort ? sortData(lastResults, currentSort.key, currentSort.dir) : lastResults;
+        renderInto(el('results'), toRender);
+        setKPIs(toRender.length, data);
+      } else {
+        el('results').innerHTML = renderMovies(data);
+        setKPIs(undefined, data);
+      }
     }));
 
     // Optional: Load initial data

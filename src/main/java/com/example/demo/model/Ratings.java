@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 public class Ratings {
-    private float imdb;
+    private double imdb;
     @JsonProperty("rotten_tomatoes_critic")
     private String rottenRomatoesCritic;
     @JsonProperty("rotten_tomatoes_popcorn")
