@@ -155,8 +155,11 @@
     }
 
     /* Title column width (70% of previous 320px setting = ~224px) */
-    /* Column order (current): 1:#, 2:Title, 3:Year, 4:IMDb, 5:Director, 6:Genre, ... */
+    /* Column order (current): 1:#, 2:Title, 3:Year, 4:IMDb, 5:Director, 6:Actors, 7:Genre, 8:Duration, 9:Oscars Nom., 10:Oscars Won, 11:Oscars Won Details, 12:MPAA, 13:AFI, 14:IMDB URL */
     th:nth-child(2), td:nth-child(2) { min-width: 224px; }
+
+    /* Make the Oscars Nominated column a little narrower */
+    th:nth-child(9), td:nth-child(9) { width: 80px; }
 
     pre.json { background: #0b1020; color: #d6eaff; padding: 16px; border-radius: 12px; overflow: auto; font-size: 13px; }
     code.key { color: #8be9fd }
@@ -463,7 +466,7 @@
                 </div>
               </th>
               <th class="numcol">
-                <div class="sortable"><span>Oscars<br>Nominated</span>
+                <div class="sortable"><span>Oscars Nom.</span>
                   <span class="sort-controls">
                     <button class="sort" data-key="osc_nom" data-dir="asc" title="Sort ascending">▲</button>
                     <button class="sort" data-key="osc_nom" data-dir="desc" title="Sort descending">▼</button>
@@ -502,7 +505,7 @@
                   </span>
                 </div>
               </th>
-              <th>URL</th>
+              <th>IMDB URL</th>
             </tr>
             </thead>
             <tbody>${rows}</tbody>
