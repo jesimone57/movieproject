@@ -374,3 +374,13 @@ java -jar build/lib/demo-0.0.1-SNAPSHOT.jar search "dark knight"
 ./gradlew bootRun
 ```
 2. Open `http://localhost:8080/` in your browser.
+
+## AI data generation prompts
+* the same for 1959.  25 of the most popular, iconic, celebrated and award winning movies for that year.
+
+* as a cinema lover I want the BEST movies for 1942.  25 of the most popular, iconic, celebrated and award winning movies for that year.
+
+* as a cinema lover I want the BEST movies for 1930.  25 of the most popular, iconic, celebrated and award winning movies for that year.  Please provide a complete list of 25 films - no cheating.
+
+* nice work.  now as a cinema lover I want the BEST movies for 1956.  30 of the most popular, iconic, celebrated and award winning movies for that year.  
+Please provide a complete list with a minimum of 25 films.  more films is better.

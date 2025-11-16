@@ -13,6 +13,8 @@ public class Movie {
     private String title;
     private int year;
     private Director director;
+    @JsonProperty("production_studio")
+    private String studio;
     @JsonProperty("mpaa_rating")
     private String mpaaRating;
     @JsonProperty("runtime_minutes")
@@ -39,6 +41,8 @@ public class Movie {
     private Integer afiRanking;
     @JsonProperty("imdb_url")
     private String imdbUrl;
+    @JsonProperty("rotten_tomatoes_url")
+    private String rottenTomatoesUrl;
 
     public double getImdbRating() {
         return ratings.getImdb();

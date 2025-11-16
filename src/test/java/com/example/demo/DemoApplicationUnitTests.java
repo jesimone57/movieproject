@@ -16,11 +16,12 @@ import org.junit.jupiter.api.Test;
 
 class DemoApplicationUnitTests {
 
+    private static final String TEST_RESOURCE = "movies-1930.json";
     private MovieService movieService;
 
     @BeforeEach
     void setUp() {
-        movieService = new MovieService();
+        movieService = new MovieService(TEST_RESOURCE);
     }
 
     @Test

@@ -8,14 +8,19 @@ import com.example.demo.model.Movie;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 class MovieServiceTest {
 
+    private static final String TEST_RESOURCE = "movies-1930.json";
+    private MovieService movieService;
+
+    @BeforeEach
     @Test
     void testMovieServiceLoadsMovies() {
         // Arrange
-        MovieService movieService = new MovieService();
+        movieService = new MovieService(TEST_RESOURCE);
 
         // Act
         List<Movie> movies = movieService.getAllMovies();
@@ -39,7 +44,7 @@ class MovieServiceTest {
     @Test
     void testCheckForDuplicateTitles() {
         // Arrange
-        MovieService movieService = new MovieService();
+        MovieService movieService = new MovieService(TEST_RESOURCE);
 
         // Act
         Map<String, Integer> duplicates = movieService.findDuplicateTitles();
