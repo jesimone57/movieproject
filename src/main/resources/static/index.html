@@ -45,6 +45,8 @@
       box-shadow: 0 6px 20px rgba(0,0,0,0.04);
     }
 
+    /* Removed resizable panels to allow full page flow without internal scrollbars */
+
     .grid {
       display: grid;
       grid-template-columns: repeat(12, 1fr);
@@ -121,7 +123,8 @@
 
     .table-wrap { overflow: auto; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
     table { border-collapse: collapse; width: 100%; min-width: 880px; }
-    th, td { padding: 10px 12px; border-bottom: 1px solid var(--border); text-align: left; font-size: 14px; }
+    /* Tighten column spacing a bit for a denser look */
+    th, td { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: left; font-size: 14px; }
     th { background: #f1f5f9; font-weight: 700; color: #334155; position: sticky; top: 0; }
     tbody tr:hover { background: #f9fbfd; }
 
@@ -131,16 +134,17 @@
     /* Allow wrapping in numeric column headers to tighten column width */
     th.numcol { white-space: normal; }
     /* Sortable header controls */
-    .sortable { display: flex; align-items: center; gap: 6px; }
+    .sortable { display: inline-flex; align-items: center; gap: 2px; }
     /* Stack sort arrows vertically to save horizontal space */
     .sort-controls {
       display: inline-flex;
       flex-direction: column;
-      gap: 2px;
+      gap: 1px;           /* reduce vertical gap between arrows */
       align-items: center;
+      margin-left: 2px;   /* keep arrows very close to label */
     }
     .sort-controls button {
-      padding: 0 4px; line-height: 1; height: 16px; min-width: 18px;
+      padding: 0 3px; line-height: 1; height: 14px; min-width: 16px;
       border: 1px solid transparent; border-radius: 4px; background: transparent; color: #64748b;
       cursor: pointer; font-size: 12px;
     }
@@ -153,6 +157,26 @@
       background: var(--chip);
       font-size: 12px;
     }
+
+    /* Revenue cell layout: ensure the ROI pill fits and hugs the right edge neatly */
+    .roi-cell { display: flex; justify-content: flex-end; align-items: center; width: 100%; }
+    /* ROI highlight box styles for Revenue column */
+    .roi {
+      display: inline-flex;
+      align-items: center;
+      /* Add right padding for breathing room; compensate with negative right margin to keep right edge alignment */
+      padding: 4px 8px 4px 10px; /* top right bottom left */
+      margin-right: -8px;        /* maintain alignment with Budget column */
+      border-radius: 16px;       /* a bit rounder for a better fit */
+      line-height: 1.4;
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums; /* consistent digit widths */
+      /* Use inset box-shadow as a border so it doesn't affect layout width */
+      box-shadow: inset 0 0 0 2px transparent;
+    }
+    .roi-green { box-shadow: inset 0 0 0 3px #16a34a; background: rgba(22,163,74,0.10); }
+    .roi-yellow { box-shadow: inset 0 0 0 3px #f59e0b; background: rgba(245,158,11,0.10); }
+    .roi-red { box-shadow: inset 0 0 0 3px #dc2626; background: rgba(220,38,38,0.10); }
 
     /* Title column width (70% of previous 320px setting = ~224px) */
     /* Column order (current): 1:#, 2:Title, 3:Year, 4:IMDb, 5:Director, 6:Actors, 7:Genre, 8:Duration, 9:Oscars Nom., 10:Oscars Won, 11:Oscars Won Details, 12:MPAA, 13:AFI, 14:IMDB URL */
@@ -287,11 +311,31 @@
     let lastResults = [];
     let currentSort = null; // { key: string, dir: 'asc'|'desc' }
 
+    // Parse strings like "98%" into numeric 98 for proper sorting
+    function parsePercent(val) {
+      if (val === null || val === undefined) return null;
+      if (typeof val === 'number') return val;
+      const s = String(val).trim();
+      if (!s) return null;
+      const n = parseFloat(s.replace('%', ''));
+      return Number.isNaN(n) ? null : n;
+    }
+
     function getSortValue(m, key) {
       switch (key) {
         case 'title': return (m.title ?? '').toString();
         case 'year': return (m.year ?? null);
         case 'imdb': return (m.imdbRating ?? null);
+        case 'budget': return (m.budget_usd_millions ?? m.budget ?? null);
+        case 'revenue': return (m.gross_revenue_usd_millions ?? m.revenue ?? null);
+        case 'rt_critic': {
+          const v = m.ratings && (m.ratings.rotten_tomatoes_critic ?? m.ratings.rottenTomatoesCritic);
+          return parsePercent(v);
+        }
+        case 'rt_popcorn': {
+          const v = m.ratings && (m.ratings.rotten_tomatoes_popcorn ?? m.ratings.rottenTomatoesPopcorn);
+          return parsePercent(v);
+        }
         case 'director': {
           const dname = m.director && (m.director.name ?? m.director?.Name);
           return (dname ?? '').toString();
@@ -344,6 +388,15 @@
       return String(a).localeCompare(String(b), undefined, { sensitivity: 'base' });
     }
 
+    // Format numeric million values with consistent decimals for visual alignment
+    function formatMillions(val) {
+      if (val === null || val === undefined || val === '') return '';
+      const n = Number(val);
+      if (Number.isNaN(n)) return '';
+      // Allow 0–2 decimals depending on data precision
+      return n.toLocaleString(undefined, { minimumFractionDigits: 0, maximumFractionDigits: 2 });
+    }
+
     function sortData(data, key, dir) {
       const sorted = data.slice().sort((m1, m2) => {
         const v1 = getSortValue(m1, key);
@@ -380,6 +433,24 @@
       });
     }
 
+    // Determine ROI highlight class based on revenue vs budget
+    function roiClass(budget, revenue) {
+      if (budget == null || revenue == null || isNaN(budget) || isNaN(revenue) || budget <= 0) return '';
+      const ratio = Number(revenue) / Number(budget);
+      if (ratio >= 2) return 'roi roi-green';
+      if (ratio >= 1) return 'roi roi-yellow';
+      return 'roi roi-red';
+    }
+
+    function renderRevenueCell(m) {
+      const rev = (m.gross_revenue_usd_millions ?? m.revenue ?? null);
+      const bud = (m.budget_usd_millions ?? m.budget ?? null);
+      if (rev == null || rev === '') return '';
+      const cls = roiClass(bud, rev);
+      const text = escapeHtml(formatMillions(rev));
+      return cls ? `<span class="${cls}">${text}</span>` : text;
+    }
+
     function renderMovies(movies) {
       if (!Array.isArray(movies)) return formatJSON(movies);
       const rows = movies.map(m => `
@@ -388,6 +459,8 @@
         <td title="${m.description ? escapeAttr(m.description) : ''}">${escapeHtml(m.title ?? '')}</td>
         <td>${m.year ?? ''}</td>
         <td><span class="kpi">${m.imdbRating ?? ''}</span></td>
+        <td class="numcol">${(m.ratings && (m.ratings.rotten_tomatoes_critic ?? m.ratings.rottenTomatoesCritic)) || ''}</td>
+        <td class="numcol">${(m.ratings && (m.ratings.rotten_tomatoes_popcorn ?? m.ratings.rottenTomatoesPopcorn)) || ''}</td>
         <td>${(m.director && m.director.name) ? (m.director.imdb_person_url ? `<a href="${escapeAttr(m.director.imdb_person_url)}" target="_blank">${escapeHtml(m.director.name)}</a>` : escapeHtml(m.director.name)) : ''}</td>
         <td>${Array.isArray(m.actors) ? m.actors.map(a => {
           const name = a && a.name ? escapeHtml(a.name) : '';
@@ -401,6 +474,8 @@
         <td>${Array.isArray(m.oscars_won_details) ? m.oscars_won_details.map(d => escapeHtml(d)).join('; ') : ''}</td>
         <td>${m.mpaa_rating ?? ''}</td>
         <td class="numcol">${m.afi_ranking ?? m.afiRanking ?? ''}</td>
+        <td class="numcol">${formatMillions(m.budget_usd_millions ?? m.budget)}</td>
+        <td class="numcol"><div class="roi-cell">${renderRevenueCell(m)}</div></td>
         <td>${m.imdb_url ? `<a href="${escapeAttr(m.imdb_url)}" target="_blank">link</a>` : ''}</td>
       </tr>`).join('');
     return `
@@ -430,6 +505,22 @@
                   <span class="sort-controls">
                     <button class="sort" data-key="imdb" data-dir="asc" title="Sort ascending">▲</button>
                     <button class="sort" data-key="imdb" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>
+                <div class="sortable"><span>Critic</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="rt_critic" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="rt_critic" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th>
+                <div class="sortable"><span>Popcorn</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="rt_popcorn" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="rt_popcorn" data-dir="desc" title="Sort descending">▼</button>
                   </span>
                 </div>
               </th>
@@ -505,12 +596,28 @@
                   </span>
                 </div>
               </th>
+              <th class="numcol">
+                <div class="sortable"><span>Budget</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="budget" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="budget" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
+              <th class="numcol">
+                <div class="sortable"><span>Revenue</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="revenue" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="revenue" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
               <th>IMDB URL</th>
             </tr>
-            </thead>
-            <tbody>${rows}</tbody>
-          </table>
-        </div>`;
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>`;
     }
 
     function renderInto(container, data) {

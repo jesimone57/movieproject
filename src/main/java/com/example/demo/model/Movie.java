@@ -17,22 +17,28 @@ public class Movie {
     private String mpaaRating;
     @JsonProperty("runtime_minutes")
     private int runtimeMinutes;
+
+    @JsonProperty("budget_usd_millions")
+    private Double budget;
+    @JsonProperty("gross_revenue_usd_millions")
+    private Double revenue;
+
     private Ratings ratings;
     private List<String> genres;
     private List<Actor> actors;
+
     @JsonProperty("oscars_nominated")
     private int oscarsNominated;
     @JsonProperty("oscars_won")
     private int oscarsWon;
     @JsonProperty("oscars_won_details")
     private List<String> oscarsWonDetails;
+
     private String description;
     @JsonProperty("afi_ranking")
     private Integer afiRanking;
     @JsonProperty("imdb_url")
     private String imdbUrl;
-    @JsonProperty("imdb_id")
-    private String imdbId;
 
     public double getImdbRating() {
         return ratings.getImdb();
