@@ -66,7 +66,7 @@ class DemoApplicationUnitTests {
         String title = "the";
         List<Movie> movies = movieService.getMovieByPartialTitle(title, "title");
         assertNotNull(movies);
-        assertEquals(29, movies.size());
+        assertEquals(31, movies.size());
         for (int i = 0; i < movies.size() - 1; i++) {
             String currentTitle = movies.get(i).getTitle();
             String nextTitle = movies.get(i + 1).getTitle();
@@ -79,7 +79,7 @@ class DemoApplicationUnitTests {
         String title = "the";
         List<Movie> movies = movieService.getMovieByPartialTitle(title, "year");
         assertNotNull(movies);
-        assertEquals(29, movies.size());
+        assertEquals(31, movies.size());
         for (int i = 0; i < movies.size() - 1; i++) {
             int currentYear = movies.get(i).getYear();
             int nextYear = movies.get(i + 1).getYear();
@@ -92,7 +92,7 @@ class DemoApplicationUnitTests {
         String title = "the";
         List<Movie> movies = movieService.getMovieByPartialTitle(title, "rating");
         assertNotNull(movies);
-        assertEquals(29, movies.size());
+        assertEquals(31, movies.size());
         for (int i = 0; i < movies.size() - 1; i++) {
             double currentRating = movies.get(i).getImdbRating();
             double nextRating = movies.get(i + 1).getImdbRating();
@@ -133,7 +133,7 @@ class DemoApplicationUnitTests {
         String genre = "Romance,Comedy";
         List<Movie> movies = movieService.getMovieByGenre(genre);
         assertNotNull(movies);
-        assertEquals(16, movies.size());
+        assertEquals(17, movies.size());
         for (Movie movie : movies) {
             List<String> genres = movie.getGenres();
             assertTrue(genres.contains("Romance"));
@@ -147,7 +147,7 @@ class DemoApplicationUnitTests {
         String genre = "  Romance , Comedy  ";
         List<Movie> movies = movieService.getMovieByGenre(genre);
         assertNotNull(movies);
-        assertEquals(16, movies.size());
+        assertEquals(17, movies.size());
         for (Movie movie : movies) {
             List<String> genres = movie.getGenres();
             assertTrue(genres.contains("Romance"));
@@ -204,7 +204,7 @@ class DemoApplicationUnitTests {
         int year = 1935;
         List<Movie> movies = movieService.getMoviesByYear(year);
         assertNotNull(movies);
-        assertEquals(8, movies.size());
+        assertEquals(9, movies.size());
         for (Movie movie : movies) {
             assertEquals(year, movie.getYear());
         }
@@ -247,7 +247,7 @@ class DemoApplicationUnitTests {
         double imdb_rating = 7.4;
         List<Movie> movies = movieService.getMovieByRating(imdb_rating);
         assertNotNull(movies);
-        assertEquals(66, movies.size());
+        assertEquals(69, movies.size());
         for (Movie movie : movies) {
             assertTrue(movie.getImdbRating() >= imdb_rating);
         }
@@ -272,7 +272,7 @@ class DemoApplicationUnitTests {
         Integer year = 1933;
         List<Movie> movies = movieService.filterMovies(null, genre, null, year, null);
         assertNotNull(movies);
-        assertEquals(3, movies.size());
+        assertEquals(4, movies.size());
         for (Movie movie : movies) {
             assertTrue(movie.getGenres().contains(genre));
             assertEquals(year, movie.getYear());
