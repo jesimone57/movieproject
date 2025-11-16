@@ -19,10 +19,17 @@ import org.springframework.stereotype.Service;
 public class MovieService {
 
     private final List<Movie> movies;
-    private static final String RESOURCE_FILE = "movies-1930.json";
+    private static final String RESOURCE_FILE = "movies-decade-of-1930s.json";
 
     public MovieService() {
         this.movies = loadMoviesFromJson(RESOURCE_FILE);
+    }
+
+    public MovieService(String resourceFile) {
+        if (StringUtils.isBlank(resourceFile)) {
+            resourceFile = RESOURCE_FILE;
+        }
+        this.movies = loadMoviesFromJson(resourceFile);
     }
 
     private List<Movie> loadMoviesFromJson(String resource) {
@@ -43,14 +50,14 @@ public class MovieService {
     }
 
     public List<Movie> getAllMovies() {
-        return filterMovies(null, null, null, null, null, null);
+        return filterMovies(null, null, null, null, null, null, null);
     }
 
     public List<Movie> getMovieByPartialTitle(String title, String sort) {
         if (sort == null) {
             sort = "title";
         }
-        return filterMovies(title, null, null, null, null, sort);
+        return filterMovies(title, null, null, null, null, sort, null);
     }
 
     /**
@@ -91,16 +98,16 @@ public class MovieService {
         if (StringUtils.isBlank(genre)) {
             return new ArrayList<>();
         } else {
-            return filterMovies(null, genre, null, null, null, "title");
+            return filterMovies(null, genre, null, null, null, "title", null);
         }
     }
 
     public List<Movie> getMovieByRating(Double imdbRating) {
-        return filterMovies(null, null, imdbRating, null, null, "title");
+        return filterMovies(null, null, imdbRating, null, null, "title", null);
     }
 
     public List<Movie> getMoviesByYear(Integer year) {
-        return filterMovies(null, null, null, year, null, "title");
+        return filterMovies(null, null, null, year, null, "title", null);
     }
 
     public List<Movie> getMoviesTopNbyYear(Integer numberMovies) {
@@ -108,7 +115,7 @@ public class MovieService {
             throw new IllegalArgumentException("numberMovies must be 1 or more");
         }
         int pastYear = LocalDate.now().plusYears(-1).getYear();
-        List<Movie> filteredMovies = filterMovies(null, null, null, pastYear, pastYear, "rating");
+        List<Movie> filteredMovies = filterMovies(null, null, null, pastYear, pastYear, "rating", null);
         return filteredMovies.stream().limit(numberMovies).toList();
     }
 
@@ -130,7 +137,7 @@ public class MovieService {
         return stream.toList();
     }
 
-    public List<Movie> filterMovies(String title, String genre, Double minRating, Integer yearStart, Integer yearEnd, String sort) {
+    public List<Movie> filterMovies(String title, String genre, Double minRating, Integer yearStart, Integer yearEnd, String sort, String director) {
         if (sort == null) {
             sort = "title";
         }
@@ -158,12 +165,13 @@ public class MovieService {
                 .filter(movie -> genre == null || movie.isGenre(genre))
                 .filter(movie -> minRating == null || movie.getImdbRating() >= minRating)
                 .filter(movie -> yearStart == null || movie.isInRange(yearStart, finalYearEnd))
+                .filter(movie -> director == null || StringUtils.containsIgnoreCase(movie.getDirector().getName(), director))
                 .toList();
         return numberMovies(sortMovies(filteredMovies, sort));
     }
 
     public List<Movie> filterMovies(String title, String genre, Double minRating, Integer yearStart, Integer yearEnd) {
-        return filterMovies(title, genre, minRating, yearStart, yearEnd, "title");
+        return filterMovies(title, genre, minRating, yearStart, yearEnd, "title", null);
     }
 
     public List<Movie> numberMovies(List<Movie> movies) {
