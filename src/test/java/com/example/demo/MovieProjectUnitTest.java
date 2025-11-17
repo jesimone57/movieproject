@@ -14,7 +14,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class DemoApplicationUnitTests {
+class MovieProjectUnitTest {
 
     private static final String TEST_RESOURCE = "movies-decade-of-1930s.json";
     private MovieService movieService;
@@ -259,7 +259,7 @@ class DemoApplicationUnitTests {
     void getMoviesByTitleAndYear() {
         String title = "love";
         Integer year = 1939;
-        List<Movie> movies = movieService.filterMovies(title, null, null, year, null, "title", null, null);
+        List<Movie> movies = movieService.filterMovies(title, null, null, year, null, "title", null, null, null);
         assertNotNull(movies);
         assertEquals(2, movies.size());
         for (Movie movie : movies) {
@@ -314,7 +314,7 @@ class DemoApplicationUnitTests {
     void getMoviesInRange() {
         Integer yearStart = 1930;
         Integer yearEnd = 1933;
-        List<Movie> movies = movieService.filterMovies(null, null, null, yearStart, yearEnd, "year", null, null);
+        List<Movie> movies = movieService.filterMovies(null, null, null, yearStart, yearEnd, "year", null, null, null);
         assertEquals(28, movies.get(27).getNum());
         for (Movie movie : movies) {
             assertTrue(movie.getYear() >= yearStart);
@@ -327,14 +327,14 @@ class DemoApplicationUnitTests {
         Integer yearStart = 1995;
         Integer yearEnd = 1990;
         assertThrows(IllegalArgumentException.class, () ->
-                movieService.filterMovies(null, null, null, yearStart, yearEnd, "year",null, null)
+                movieService.filterMovies(null, null, null, yearStart, yearEnd, "year",null, null, null)
         );
     }
 
     @Test
     void getMoviesFilterByDirector() {
         String director = "hitchcock";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, director, null);
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, director, null, null);
         assertNotNull(movies);
         assertEquals(5, movies.size());
         for (Movie movie : movies) {
@@ -345,7 +345,7 @@ class DemoApplicationUnitTests {
     @Test
     void getMoviesFilterByActor() {
         String actor = "gable";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, null, actor);
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, null, actor, null);
         assertNotNull(movies);
         assertEquals(7, movies.size());
         for (Movie movie : movies) {
@@ -356,12 +356,38 @@ class DemoApplicationUnitTests {
     @Test
     void getMoviesFilterByActorCompound() {
         String actor = "gable, colb";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, null, actor);
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
+                null, null, actor, null);
         assertNotNull(movies);
         assertEquals(1, movies.size());
         assertEquals("It Happened One Night", movies.getFirst().getTitle());
         for (Movie movie : movies) {
             assertTrue(movie.isActor(actor));
+        }
+    }
+
+    @Test
+    void getMoviesFilterByOscarsWonDetails() {
+        String oscarsWonDetail = "picture";
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
+                null, null, null, oscarsWonDetail);
+        assertNotNull(movies);
+        assertEquals(10, movies.size());
+        for (Movie movie : movies) {
+            assertTrue(movie.isOscarsWonDetail(oscarsWonDetail));
+        }
+    }
+
+    @Test
+    void getMoviesFilterByOscarsWonDetailsCompound() {
+        String oscarsWonDetail = "picture, actress";
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
+                null, null, null, oscarsWonDetail);
+        assertNotNull(movies);
+        assertEquals(3, movies.size());
+        assertEquals("Gone with the Wind", movies.getFirst().getTitle());
+        for (Movie movie : movies) {
+            assertTrue(movie.isOscarsWonDetail(oscarsWonDetail));
         }
     }
 

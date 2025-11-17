@@ -34,7 +34,7 @@ public class Movie {
     @JsonProperty("oscars_won")
     private int oscarsWon;
     @JsonProperty("oscars_won_details")
-    private List<String> oscarsWonDetails;
+    private List<String> oscarsWonDetails = new ArrayList<>();
 
     private String description;
     @JsonProperty("afi_ranking")
@@ -62,6 +62,26 @@ public class Movie {
             boolean result = true;
             for (String token : searchTokens) {
                 result = result && actors.stream().anyMatch(i -> i.getName() != null && StringUtils.containsIgnoreCase(i.getName(), token));
+            }
+            return result;
+        }
+        return false;
+    }
+
+    public  boolean isOscarsWonDetail(String detail) {
+        if (oscarsWonDetails != null && !oscarsWonDetails.isEmpty() && !detail.isBlank()) {
+            // Collect search tokens by splitting on commas
+            String[] parts = detail.split(",");
+            List<String> searchTokens = new ArrayList<>();
+            for (String part : parts) {
+                if (!StringUtils.isBlank(part)) {
+                    searchTokens.add(part.trim());
+                }
+            }
+
+            boolean result = true;
+            for (String token : searchTokens) {
+                result = result && oscarsWonDetails.stream().anyMatch(i -> StringUtils.containsIgnoreCase(i, token));
             }
             return result;
         }

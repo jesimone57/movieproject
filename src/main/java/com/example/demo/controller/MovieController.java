@@ -28,19 +28,22 @@ public class MovieController {
     }
 
     @GetMapping("/search")
-    public List<Movie> searchByTitle(@RequestParam(value = "q", required = false) String title,
-                                     @RequestParam(value = "sort", required = false) String sort,
-                                     @RequestParam(value = "genre", required = false) String genre,
-                                     @RequestParam(value = "minRating", required = false) Double minRating,
-                                     @RequestParam(value = "yearStart", required = false) Integer yearStart,
-                                     @RequestParam(value = "yearEnd", required = false) Integer yearEnd,
-                                     @RequestParam(value = "director", required = false) String director,
-                                     @RequestParam(value = "actor", required = false) String actor)
+    public List<Movie> searchByTitle(
+            @RequestParam(value = "title",     required = false) String title,
+            @RequestParam(value = "sort",      required = false) String sort,
+            @RequestParam(value = "genre",     required = false) String genre,
+            @RequestParam(value = "minRating", required = false) Double minRating,
+            @RequestParam(value = "yearStart", required = false) Integer yearStart,
+            @RequestParam(value = "yearEnd",   required = false) Integer yearEnd,
+            @RequestParam(value = "director",  required = false) String director,
+            @RequestParam(value = "actor",     required = false) String actor,
+            @RequestParam(value = "oscarWon",  required = false) String oscarWon)
     {
         if (StringUtils.isEmpty(sort)) {
             sort = "title";
         }
-        return movieService.filterMovies(title, genre, minRating, yearStart,  yearEnd,  sort, director, actor);
+        return movieService.filterMovies(title, genre, minRating, yearStart,  yearEnd,
+                sort, director, actor, oscarWon);
     }
 
     @GetMapping("/genre/{genre}")
