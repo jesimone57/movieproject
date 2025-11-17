@@ -259,7 +259,7 @@ class DemoApplicationUnitTests {
     void getMoviesByTitleAndYear() {
         String title = "love";
         Integer year = 1939;
-        List<Movie> movies = movieService.filterMovies(title, null, null, year, null, "title", null);
+        List<Movie> movies = movieService.filterMovies(title, null, null, year, null, "title", null, null);
         assertNotNull(movies);
         assertEquals(2, movies.size());
         for (Movie movie : movies) {
@@ -314,7 +314,7 @@ class DemoApplicationUnitTests {
     void getMoviesInRange() {
         Integer yearStart = 1930;
         Integer yearEnd = 1933;
-        List<Movie> movies = movieService.filterMovies(null, null, null, yearStart, yearEnd, "year", null);
+        List<Movie> movies = movieService.filterMovies(null, null, null, yearStart, yearEnd, "year", null, null);
         assertEquals(28, movies.get(27).getNum());
         for (Movie movie : movies) {
             assertTrue(movie.getYear() >= yearStart);
@@ -327,18 +327,41 @@ class DemoApplicationUnitTests {
         Integer yearStart = 1995;
         Integer yearEnd = 1990;
         assertThrows(IllegalArgumentException.class, () ->
-                movieService.filterMovies(null, null, null, yearStart, yearEnd, "year",null)
+                movieService.filterMovies(null, null, null, yearStart, yearEnd, "year",null, null)
         );
     }
 
     @Test
     void getMoviesFilterByDirector() {
         String director = "hitchcock";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, director);
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, director, null);
         assertNotNull(movies);
         assertEquals(5, movies.size());
         for (Movie movie : movies) {
             assertTrue(StringUtils.containsIgnoreCase(movie.getDirector().getName(), director));
+        }
+    }
+
+    @Test
+    void getMoviesFilterByActor() {
+        String actor = "gable";
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, null, actor);
+        assertNotNull(movies);
+        assertEquals(8, movies.size());
+        for (Movie movie : movies) {
+            assertTrue(movie.isActor(actor));
+        }
+    }
+
+    @Test
+    void getMoviesFilterByActorCompound() {
+        String actor = "gable, colb";
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, null, actor);
+        assertNotNull(movies);
+        assertEquals(1, movies.size());
+        assertEquals("It Happened One Night", movies.getFirst().getTitle());
+        for (Movie movie : movies) {
+            assertTrue(movie.isActor(actor));
         }
     }
 

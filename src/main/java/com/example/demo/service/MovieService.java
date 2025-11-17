@@ -50,14 +50,14 @@ public class MovieService {
     }
 
     public List<Movie> getAllMovies() {
-        return filterMovies(null, null, null, null, null, null, null);
+        return filterMovies(null, null, null, null, null, null, null, null);
     }
 
     public List<Movie> getMovieByPartialTitle(String title, String sort) {
         if (sort == null) {
             sort = "title";
         }
-        return filterMovies(title, null, null, null, null, sort, null);
+        return filterMovies(title, null, null, null, null, sort, null, null);
     }
 
     /**
@@ -98,16 +98,16 @@ public class MovieService {
         if (StringUtils.isBlank(genre)) {
             return new ArrayList<>();
         } else {
-            return filterMovies(null, genre, null, null, null, "title", null);
+            return filterMovies(null, genre, null, null, null, "title", null, null);
         }
     }
 
     public List<Movie> getMovieByRating(Double imdbRating) {
-        return filterMovies(null, null, imdbRating, null, null, "title", null);
+        return filterMovies(null, null, imdbRating, null, null, "title", null, null);
     }
 
     public List<Movie> getMoviesByYear(Integer year) {
-        return filterMovies(null, null, null, year, null, "title", null);
+        return filterMovies(null, null, null, year, null, "title", null, null);
     }
 
     public List<Movie> getMoviesTopNbyYear(Integer numberMovies) {
@@ -115,7 +115,7 @@ public class MovieService {
             throw new IllegalArgumentException("numberMovies must be 1 or more");
         }
         int pastYear = LocalDate.now().plusYears(-1).getYear();
-        List<Movie> filteredMovies = filterMovies(null, null, null, pastYear, pastYear, "rating", null);
+        List<Movie> filteredMovies = filterMovies(null, null, null, pastYear, pastYear, "rating", null, null);
         return filteredMovies.stream().limit(numberMovies).toList();
     }
 
@@ -137,7 +137,7 @@ public class MovieService {
         return stream.toList();
     }
 
-    public List<Movie> filterMovies(String title, String genre, Double minRating, Integer yearStart, Integer yearEnd, String sort, String director) {
+    public List<Movie> filterMovies(String title, String genre, Double minRating, Integer yearStart, Integer yearEnd, String sort, String director, String actor) {
         if (sort == null) {
             sort = "title";
         }
@@ -166,12 +166,13 @@ public class MovieService {
                 .filter(movie -> minRating == null || movie.getImdbRating() >= minRating)
                 .filter(movie -> yearStart == null || movie.isInRange(yearStart, finalYearEnd))
                 .filter(movie -> director == null || StringUtils.containsIgnoreCase(movie.getDirector().getName(), director))
+                .filter(movie -> actor == null || movie.isActor(actor))
                 .toList();
         return numberMovies(sortMovies(filteredMovies, sort));
     }
 
     public List<Movie> filterMovies(String title, String genre, Double minRating, Integer yearStart, Integer yearEnd) {
-        return filterMovies(title, genre, minRating, yearStart, yearEnd, "title", null);
+        return filterMovies(title, genre, minRating, yearStart, yearEnd, "title", null, null);
     }
 
     public List<Movie> numberMovies(List<Movie> movies) {
