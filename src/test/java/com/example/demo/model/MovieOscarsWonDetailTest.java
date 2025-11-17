@@ -91,4 +91,17 @@ class MovieOscarsWonDetailTest {
         assertFalse(movie.isOscarsWonDetail(" picture ,  actress , screenplay ")); // OscarWonDetail not found
     }
 
+    @Test
+    void isOscarsWonDetailFromBComoundNamesBlank() {
+        // arrange
+        Movie movie = new Movie();
+        List<String> oscarsWonDetails = movie.getOscarsWonDetails();
+        oscarsWonDetails.add("Best Picture");
+        oscarsWonDetails.add("Best Actress");
+
+        // act & assert
+        assertFalse(movie.isOscarsWonDetail("    ,    "));
+    }
+
+
 }

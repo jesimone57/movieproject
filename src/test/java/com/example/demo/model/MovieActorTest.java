@@ -103,4 +103,17 @@ class MovieActorTest {
         assertTrue(movie.isActor("  row "));
     }
 
+    @Test
+    void isActorFromBComoundNamesBlank() {
+        // arrange
+        Movie movie = new Movie();
+        List<Actor> actors = movie.getActors();
+        Actor actor1 = new Actor();
+        actor1.setName("  Fred   Brown  ");
+        actors.add(actor1);
+
+        // act & assert
+        assertFalse(movie.isActor("     ,    "));
+    }
+
 }

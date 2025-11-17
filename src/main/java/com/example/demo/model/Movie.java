@@ -48,80 +48,61 @@ public class Movie {
         return ratings.getImdb();
     }
 
-    public  boolean isActor(String actor) {
-        if (actors != null && !actors.isEmpty() && !actor.isBlank()) {
-            // Collect search tokens by splitting on commas
-            String[] parts = actor.split(",");
-            List<String> searchTokens = new ArrayList<>();
-            for (String part : parts) {
-                if (!StringUtils.isBlank(part)) {
-                    searchTokens.add(part.trim());
+    public  boolean isActor(String filterCriteria) {
+        if (actors != null && !actors.isEmpty() && !filterCriteria.isBlank()) {
+            List<String> searchTokens = tokenizeFilterCriteria(filterCriteria);
+            if (!searchTokens.isEmpty()) {
+                boolean result = true;
+                for (String token : searchTokens) {
+                    result = result && actors.stream().anyMatch(i -> i.getName() != null && StringUtils.containsIgnoreCase(i.getName(), token));
                 }
+                return result;
             }
-
-            boolean result = true;
-            for (String token : searchTokens) {
-                result = result && actors.stream().anyMatch(i -> i.getName() != null && StringUtils.containsIgnoreCase(i.getName(), token));
-            }
-            return result;
         }
         return false;
     }
 
     public  boolean isOscarsWonDetail(String detail) {
         if (oscarsWonDetails != null && !oscarsWonDetails.isEmpty() && !detail.isBlank()) {
-            // Collect search tokens by splitting on commas
-            String[] parts = detail.split(",");
-            List<String> searchTokens = new ArrayList<>();
-            for (String part : parts) {
-                if (!StringUtils.isBlank(part)) {
-                    searchTokens.add(part.trim());
+            List<String> searchTokens = tokenizeFilterCriteria(detail);
+            if (!searchTokens.isEmpty()) {
+                boolean result = true;
+                for (String token : searchTokens) {
+                    result = result && oscarsWonDetails.stream().anyMatch(i -> StringUtils.containsIgnoreCase(i, token));
                 }
+                return result;
             }
-
-            boolean result = true;
-            for (String token : searchTokens) {
-                result = result && oscarsWonDetails.stream().anyMatch(i -> StringUtils.containsIgnoreCase(i, token));
-            }
-            return result;
         }
         return false;
     }
 
-
     public boolean isGenre(String genre) {
-        // Handle null or empty data safely
-        if (this.genres == null || this.genres.isEmpty() || genre == null) {
-            return false;
-        }
-
-        // Flatten the movie's genre list into a single searchable string
-        String genreText = String.join(" ", this.genres);
-
-        // Collect search tokens by splitting on commas
-        String[] parts = genre.split(",");
-        List<String> tokens = new ArrayList<>();
-        for (String part : parts) {
-            if (!StringUtils.isBlank(part)) {
-                tokens.add(part.trim());
+        if (this.genres != null && !this.genres.isEmpty() && !genre.isBlank()) {
+            List<String> searchTokens = tokenizeFilterCriteria(genre);
+            if (!searchTokens.isEmpty()) {
+                boolean result = true;
+                for (String token : searchTokens) {
+                    result = result && genres.stream().anyMatch(i -> StringUtils.containsIgnoreCase(i, token));
+                }
+                return result;
             }
         }
-
-        // If no tokens derived, fall back to the original containsIgnoreCase behavior
-        if (tokens.isEmpty()) {
-            return StringUtils.containsIgnoreCase(genreText, genre);
-        }
-
-        // Require that ALL tokens are found (case-insensitive) within the movie's genre text
-        for (String token : tokens) {
-            if (!StringUtils.containsIgnoreCase(genreText, token)) {
-                return false;
-            }
-        }
-        return true;
+        return false;
     }
 
     public boolean isInRange(Integer yearStart, Integer yearEnd) {
         return yearStart != null && this.year >= yearStart && yearEnd != null && this.year <= yearEnd;
+    }
+
+    private static List<String> tokenizeFilterCriteria(String filterCriteria) {
+        List<String> searchTokens = new ArrayList<>();
+        // Collect search tokens by splitting on commas
+        String[] parts = filterCriteria.split(",");
+        for (String part : parts) {
+            if (!StringUtils.isBlank(part)) {
+                searchTokens.add(part.trim());
+            }
+        }
+        return searchTokens;
     }
 }

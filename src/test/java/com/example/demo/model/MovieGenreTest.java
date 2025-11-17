@@ -92,4 +92,17 @@ class MovieGenreTest {
         assertFalse(movie.isGenre(" com ,  dram , west ")); // genre not found
     }
 
+    @Test
+    void isGenreFromBComoundNamesBlank() {
+        // arrange
+        Movie movie = new Movie();
+        List<String> genres = movie.getGenres();
+        genres.add("Drama");
+        genres.add("Comedy");
+
+        // act & assert
+        assertFalse(movie.isGenre("   ,  "));
+    }
+
+
 }
