@@ -27,7 +27,7 @@ public class Movie {
 
     private Ratings ratings;
     private List<String> genres;
-    private List<Actor> actors;
+    private List<Actor> actors = new ArrayList<>();
 
     @JsonProperty("oscars_nominated")
     private int oscarsNominated;
@@ -47,6 +47,29 @@ public class Movie {
     public double getImdbRating() {
         return ratings.getImdb();
     }
+
+    public  boolean isActor(String actor) {
+        if (actors != null && !actors.isEmpty() && !actor.isBlank()) {
+            // Collect search tokens by splitting on commas
+            String[] parts = actor.split(",");
+            List<String> searchTokens = new ArrayList<>();
+            for (String part : parts) {
+                if (!StringUtils.isBlank(part)) {
+                    searchTokens.add(part.trim());
+                }
+            }
+
+            boolean result = true;
+            for (String token : searchTokens) {
+                result = result && actors.stream().anyMatch(i -> i.getName() != null && StringUtils.containsIgnoreCase(i.getName(), token));
+            }
+            if (result) {
+                return true;
+            }
+        }
+        return false;
+    }
+
 
     public boolean isGenre(String genre) {
         // Handle null or empty data safely
