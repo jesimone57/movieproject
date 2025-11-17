@@ -7,9 +7,9 @@ import java.util.Map;
  * A simple utility class to check for duplicate movie titles in the movies-original.json file.
  */
 public class DuplicateTitleChecker {
-    private static String RESOURCE_FILE = "movies-original/movies-1930s.json";
+    private static String RESOURCE_FILE = "movies-decade-of-1930s.json";
     public static void main(String[] args) {
-        MovieService movieService = new MovieService();
+        MovieService movieService = new MovieService(RESOURCE_FILE);
         
         // Check for duplicate titles
         Map<String, Integer> duplicates = movieService.findDuplicateTitles();

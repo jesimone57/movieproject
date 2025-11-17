@@ -43,9 +43,6 @@ class MovieServiceTest {
 
     @Test
     void testCheckForDuplicateTitles() {
-        // Arrange
-        MovieService movieService = new MovieService(TEST_RESOURCE);
-
         // Act
         Map<String, Integer> duplicates = movieService.findDuplicateTitles();
         boolean hasDuplicates = movieService.hasDuplicateTitles();

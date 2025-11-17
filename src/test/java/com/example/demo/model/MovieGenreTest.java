@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.util.List;
 import org.junit.jupiter.api.Test;
 
-public class MovieGenreTest {
+class MovieGenreTest {
     @Test
     void isGenreTest() {
         // arrange

@@ -11,9 +11,9 @@ class MovieOscarsWonDetailTest {
     void isOscarsWonDetailTest() {
         // arrange
         Movie movie = new Movie();
-        List<String> OscarsWonDetails = movie.getOscarsWonDetails();
-        OscarsWonDetails.add("Best Picture");
-        OscarsWonDetails.add("Best Actress");
+        List<String> oscarsWonDetails = movie.getOscarsWonDetails();
+        oscarsWonDetails.add("Best Picture");
+        oscarsWonDetails.add("Best Actress");
 
         // act & assert
         assertTrue(movie.isOscarsWonDetail("Picture"));
