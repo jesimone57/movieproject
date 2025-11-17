@@ -63,9 +63,7 @@ public class Movie {
             for (String token : searchTokens) {
                 result = result && actors.stream().anyMatch(i -> i.getName() != null && StringUtils.containsIgnoreCase(i.getName(), token));
             }
-            if (result) {
-                return true;
-            }
+            return result;
         }
         return false;
     }
