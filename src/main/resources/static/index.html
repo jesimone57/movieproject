@@ -179,11 +179,15 @@
     .roi-red { box-shadow: inset 0 0 0 3px #dc2626; background: rgba(220,38,38,0.10); }
 
     /* Title column width (70% of previous 320px setting = ~224px) */
-    /* Column order (current): 1:#, 2:Title, 3:Year, 4:IMDb, 5:Director, 6:Actors, 7:Genre, 8:Duration, 9:Oscars Nom., 10:Oscars Won, 11:Oscars Won Details, 12:MPAA, 13:AFI, 14:IMDB URL */
-    th:nth-child(2), td:nth-child(2) { min-width: 224px; }
+    /* Column order (current after removing # column):
+       1:Title, 2:Year, 3:IMDb, 4:Critic, 5:Popcorn, 6:Director, 7:Actors,
+       8:Genre, 9:Duration, 10:Oscars Nom., 11:Oscars Won, 12:Oscars Won Details,
+       13:MPAA, 14:AFI, 15:Budget, 16:Revenue, 17:Studio
+    */
+    th:nth-child(1), td:nth-child(1) { min-width: 224px; }
 
     /* Make the Oscars Nominated column a little narrower */
-    th:nth-child(9), td:nth-child(9) { width: 80px; }
+    th:nth-child(10), td:nth-child(10) { width: 80px; }
 
     pre.json { background: #0b1020; color: #d6eaff; padding: 16px; border-radius: 12px; overflow: auto; font-size: 13px; }
     code.key { color: #8be9fd }
@@ -197,6 +201,34 @@
     .note { color: var(--muted); font-size: 12px; }
 
     .footer { text-align: center; color: var(--muted); font-size: 12px; padding: 18px; }
+
+    /* Custom tooltip for Title cell: larger, styled hover instead of native title */
+    .has-tooltip { position: relative; }
+    .has-tooltip[data-tip]:hover::after {
+      content: attr(data-tip);
+      position: absolute;
+      left: 0;
+      top: calc(100% + 6px);
+      z-index: 20;
+      background: rgba(15, 23, 42, 0.96);
+      color: #f8fafc;
+      padding: 10px 12px;
+      border-radius: 10px;
+      font-size: 15px; /* increased hover font size for title tooltip */
+      line-height: 1.4;
+      max-width: 520px;
+      white-space: normal;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+    }
+    .has-tooltip[data-tip]:hover::before {
+      content: '';
+      position: absolute;
+      left: 12px;
+      top: 100%;
+      border-width: 6px 6px 0 6px;
+      border-style: solid;
+      border-color: rgba(15, 23, 42, 0.96) transparent transparent transparent;
+    }
   </style>
 </head>
 <body>
@@ -376,6 +408,10 @@
         }
         case 'mpaa': return (m.mpaa_rating ?? '').toString();
         case 'afi': return (m.afi_ranking ?? m.afiRanking ?? null);
+        case 'studio': {
+          const s = (m.production_studio ?? m.studio ?? '');
+          return s ? String(s) : '';
+        }
         default: return null;
       }
     }
@@ -466,8 +502,9 @@
       if (!Array.isArray(movies)) return formatJSON(movies);
       const rows = movies.map(m => `
       <tr>
-        <td>${m.num ?? ''}</td>
-        <td title="${m.description ? escapeAttr(m.description) : ''}">${escapeHtml(m.title ?? '')}</td>
+        <td class="has-tooltip" data-tip="${m.description ? escapeAttr(m.description) : ''}">${
+          (m.imdb_url ? `<a href="${escapeAttr(m.imdb_url)}" target="_blank">${escapeHtml(m.title ?? '')}</a>` : escapeHtml(m.title ?? ''))
+        }</td>
         <td>${m.year ?? ''}</td>
         <td><span class="kpi">${m.imdbRating ?? ''}</span></td>
         <td class="numcol">${(m.ratings && (m.ratings.rotten_tomatoes_critic ?? m.ratings.rottenTomatoesCritic)) || ''}</td>
@@ -487,14 +524,13 @@
         <td class="numcol">${m.afi_ranking ?? m.afiRanking ?? ''}</td>
         <td class="numcol">${formatMillions(m.budget_usd_millions ?? m.budget)}</td>
         <td class="numcol"><div class="roi-cell">${renderRevenueCell(m)}</div></td>
-        <td>${m.imdb_url ? `<a href="${escapeAttr(m.imdb_url)}" target="_blank">link</a>` : ''}</td>
+        <td>${escapeHtml(m.production_studio ?? m.studio ?? '')}</td>
       </tr>`).join('');
     return `
       <div class="table-wrap">
         <table>
           <thead>
             <tr>
-              <th>#</th>
               <th>
                 <div class="sortable"><span>Title</span>
                   <span class="sort-controls">
@@ -623,7 +659,14 @@
                   </span>
                 </div>
               </th>
-              <th>IMDB URL</th>
+              <th>
+                <div class="sortable"><span>Studio</span>
+                  <span class="sort-controls">
+                    <button class="sort" data-key="studio" data-dir="asc" title="Sort ascending">▲</button>
+                    <button class="sort" data-key="studio" data-dir="desc" title="Sort descending">▼</button>
+                  </span>
+                </div>
+              </th>
             </tr>
           </thead>
           <tbody>${rows}</tbody>
