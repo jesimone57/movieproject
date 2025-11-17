@@ -37,13 +37,14 @@ public class MovieController {
             @RequestParam(value = "yearEnd",   required = false) Integer yearEnd,
             @RequestParam(value = "director",  required = false) String director,
             @RequestParam(value = "actor",     required = false) String actor,
-            @RequestParam(value = "oscarWon",  required = false) String oscarWon)
+            @RequestParam(value = "oscarWon",  required = false) String oscarWon,
+            @RequestParam(value = "studio",    required = false) String studio)
     {
         if (StringUtils.isEmpty(sort)) {
             sort = "title";
         }
         return movieService.filterMovies(title, genre, minRating, yearStart,  yearEnd,
-                sort, director, actor, oscarWon);
+                sort, director, actor, oscarWon, studio);
     }
 
     @GetMapping("/genre/{genre}")

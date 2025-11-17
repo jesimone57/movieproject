@@ -62,9 +62,9 @@ public class Movie {
         return false;
     }
 
-    public  boolean isOscarsWonDetail(String detail) {
-        if (oscarsWonDetails != null && !oscarsWonDetails.isEmpty() && !detail.isBlank()) {
-            List<String> searchTokens = tokenizeFilterCriteria(detail);
+    public  boolean isOscarsWonDetail(String filterCriteria) {
+        if (oscarsWonDetails != null && !oscarsWonDetails.isEmpty() && !filterCriteria.isBlank()) {
+            List<String> searchTokens = tokenizeFilterCriteria(filterCriteria);
             if (!searchTokens.isEmpty()) {
                 boolean result = true;
                 for (String token : searchTokens) {
@@ -76,9 +76,9 @@ public class Movie {
         return false;
     }
 
-    public boolean isGenre(String genre) {
-        if (this.genres != null && !this.genres.isEmpty() && !genre.isBlank()) {
-            List<String> searchTokens = tokenizeFilterCriteria(genre);
+    public boolean isGenre(String filterCriteria) {
+        if (this.genres != null && !this.genres.isEmpty() && !filterCriteria.isBlank()) {
+            List<String> searchTokens = tokenizeFilterCriteria(filterCriteria);
             if (!searchTokens.isEmpty()) {
                 boolean result = true;
                 for (String token : searchTokens) {
@@ -86,6 +86,27 @@ public class Movie {
                 }
                 return result;
             }
+        }
+        return false;
+    }
+
+    public boolean isStudio(String filterCriteria) {
+        if (this.studio != null && !filterCriteria.isBlank()) {
+            return StringUtils.containsIgnoreCase(this.studio, filterCriteria.trim());
+        }
+        return false;
+    }
+
+    public boolean isTitle(String filterCriteria) {
+        if (this.title != null && !filterCriteria.isBlank()) {
+            return StringUtils.containsIgnoreCase(this.title, filterCriteria.trim());
+        }
+        return false;
+    }
+
+    public boolean isDirector(String filterCriteria) {
+        if (this.director != null && director.getName() != null && !filterCriteria.isBlank()) {
+            return StringUtils.containsIgnoreCase(this.director.getName(), filterCriteria.trim());
         }
         return false;
     }

@@ -53,6 +53,18 @@ class MovieProjectUnitTest {
     }
 
     @Test
+    void getMoviesByTitlePartialSearchWithWhitespace() {
+        String title = "   mum   ";
+        List<Movie> movies = movieService.getMovieByPartialTitle(title, null);
+        assertNotNull(movies);
+        assertEquals(1, movies.size());
+        for (Movie movie : movies) {
+            assertTrue(movie.isTitle(title));
+        }
+    }
+
+
+    @Test
     void getMoviesByTitlePartialSearch() {
         String title = "ea";
         List<Movie> movies = movieService.getMovieByPartialTitle(title, null);
@@ -259,7 +271,7 @@ class MovieProjectUnitTest {
     void getMoviesByTitleAndYear() {
         String title = "love";
         Integer year = 1939;
-        List<Movie> movies = movieService.filterMovies(title, null, null, year, null, "title", null, null, null);
+        List<Movie> movies = movieService.filterMovies(title, null, null, year, null, "title", null, null, null, null);
         assertNotNull(movies);
         assertEquals(2, movies.size());
         for (Movie movie : movies) {
@@ -314,7 +326,8 @@ class MovieProjectUnitTest {
     void getMoviesInRange() {
         Integer yearStart = 1930;
         Integer yearEnd = 1933;
-        List<Movie> movies = movieService.filterMovies(null, null, null, yearStart, yearEnd, "year", null, null, null);
+        List<Movie> movies = movieService.filterMovies(null, null, null, yearStart, yearEnd,
+                "year", null, null, null, null);
         assertEquals(28, movies.get(27).getNum());
         for (Movie movie : movies) {
             assertTrue(movie.getYear() >= yearStart);
@@ -327,25 +340,40 @@ class MovieProjectUnitTest {
         Integer yearStart = 1995;
         Integer yearEnd = 1990;
         assertThrows(IllegalArgumentException.class, () ->
-                movieService.filterMovies(null, null, null, yearStart, yearEnd, "year",null, null, null)
+                movieService.filterMovies(null, null, null, yearStart, yearEnd,
+                        "year",null, null, null, null)
         );
     }
 
     @Test
     void getMoviesFilterByDirector() {
         String director = "hitchcock";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, director, null, null);
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
+                null, director, null, null, null);
         assertNotNull(movies);
         assertEquals(5, movies.size());
         for (Movie movie : movies) {
-            assertTrue(StringUtils.containsIgnoreCase(movie.getDirector().getName(), director));
+            assertTrue(movie.isDirector(director));
+        }
+    }
+
+    @Test
+    void getMoviesFilterByDirectorWhitespace() {
+        String director = "  hitchcock    ";
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
+                null, director, null, null, null);
+        assertNotNull(movies);
+        assertEquals(5, movies.size());
+        for (Movie movie : movies) {
+            assertTrue(movie.isDirector(director));
         }
     }
 
     @Test
     void getMoviesFilterByActor() {
         String actor = "gable";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null, null, null, actor, null);
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
+                null, null, actor, null, null);
         assertNotNull(movies);
         assertEquals(7, movies.size());
         for (Movie movie : movies) {
@@ -357,7 +385,7 @@ class MovieProjectUnitTest {
     void getMoviesFilterByActorCompound() {
         String actor = "gable, colb";
         List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, null, actor, null);
+                null, null, actor, null, null);
         assertNotNull(movies);
         assertEquals(1, movies.size());
         assertEquals("It Happened One Night", movies.getFirst().getTitle());
@@ -370,7 +398,7 @@ class MovieProjectUnitTest {
     void getMoviesFilterByOscarsWonDetails() {
         String oscarsWonDetail = "picture";
         List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, null, null, oscarsWonDetail);
+                null, null, null, oscarsWonDetail, null);
         assertNotNull(movies);
         assertEquals(10, movies.size());
         for (Movie movie : movies) {
@@ -382,12 +410,36 @@ class MovieProjectUnitTest {
     void getMoviesFilterByOscarsWonDetailsCompound() {
         String oscarsWonDetail = "picture, actress";
         List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, null, null, oscarsWonDetail);
+                null, null, null, oscarsWonDetail, null);
         assertNotNull(movies);
         assertEquals(3, movies.size());
         assertEquals("Gone with the Wind", movies.getFirst().getTitle());
         for (Movie movie : movies) {
             assertTrue(movie.isOscarsWonDetail(oscarsWonDetail));
+        }
+    }
+
+    @Test
+    void getMoviesFilterByStudio() {
+        String studio = "paramount";
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
+                null, null, null, null, studio);
+        assertNotNull(movies);
+        assertEquals(28, movies.size());
+        for (Movie movie : movies) {
+            assertTrue(movie.isStudio(studio));
+        }
+    }
+
+    @Test
+    void getMoviesFilterByStudioWhitespace() {
+        String studio = "   paramount   ";
+        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
+                null, null, null, null, studio);
+        assertNotNull(movies);
+        assertEquals(28, movies.size());
+        for (Movie movie : movies) {
+            assertTrue(movie.isStudio(studio));
         }
     }
 
