@@ -26,7 +26,7 @@ public class Movie {
     private Double revenue;
 
     private Ratings ratings;
-    private List<String> genres;
+    private List<String> genres = new ArrayList<>();
     private List<Actor> actors = new ArrayList<>();
 
     @JsonProperty("oscars_nominated")
