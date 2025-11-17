@@ -40,7 +40,7 @@ public class MovieController {
         if (StringUtils.isEmpty(sort)) {
             sort = "title";
         }
-        return movieService.filterMovies(title, genre, minRating, yearStart,  yearEnd,  sort, director, null);
+        return movieService.filterMovies(title, genre, minRating, yearStart,  yearEnd,  sort, director, actor);
     }
 
     @GetMapping("/genre/{genre}")

@@ -218,6 +218,10 @@
           <input id="director" type="text" placeholder="e.g. Hitchcock" />
         </div>
         <div class="col" style="grid-column: span 3;">
+          <label for="actor">Actor contains</label>
+          <input id="actor" type="text" placeholder="e.g. Gable, Hepburn" />
+        </div>
+        <div class="col" style="grid-column: span 3;">
           <label for="genre">Genre(s) (comma-separated)</label>
           <input id="genre" type="text" placeholder="e.g. Action, Adventure" />
         </div>
@@ -664,6 +668,7 @@
         sort: el('sort').value || 'title',
         genre: el('genre').value.trim() || undefined,
         director: el('director').value.trim() || undefined,
+        actor: el('actor').value.trim() || undefined,
         minRating: el('minRating').value ? Number(el('minRating').value) : undefined,
         yearStart: el('yearStart').value ? Number(el('yearStart').value) : undefined,
         yearEnd: el('yearEnd').value ? Number(el('yearEnd').value) : undefined,
@@ -703,6 +708,7 @@
     el('btnClear').addEventListener('click', () => {
       el('title').value = '';
       el('director').value = '';
+      el('actor').value = '';
       el('genre').value = '';
       el('minRating').value = '';
       el('yearStart').value = '';
@@ -724,9 +730,9 @@
       input.classList.toggle('has-value', hasValue);
     }
     function refreshValueHighlights() {
-      ['title','director','genre','minRating','yearStart','yearEnd'].forEach(id => applyValueHighlight(el(id)));
+      ['title','director','actor','genre','minRating','yearStart','yearEnd'].forEach(id => applyValueHighlight(el(id)));
     }
-    ['title','director','genre','minRating','yearStart','yearEnd'].forEach(id => {
+    ['title','director','actor','genre','minRating','yearStart','yearEnd'].forEach(id => {
       const node = el(id);
       node.addEventListener('input', () => applyValueHighlight(node));
       node.addEventListener('change', () => applyValueHighlight(node));
