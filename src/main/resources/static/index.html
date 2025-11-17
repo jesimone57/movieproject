@@ -208,10 +208,14 @@
   <div class="container">
     <div class="panel">
       <div class="section-title">Filters</div>
-      <div class="grid" style="margin-top:8px">
-        <div class="col" style="grid-column: span 4;">
+      <div class="grid" id="filters" style="margin-top:8px">
+        <div class="col" style="grid-column: span 3;">
           <label for="title">Title contains</label>
           <input id="title" type="text" placeholder="e.g. Star" />
+        </div>
+        <div class="col" style="grid-column: span 3;">
+          <label for="genre">Genre(s) (comma-separated)</label>
+          <input id="genre" type="text" placeholder="e.g. Action, Adventure" />
         </div>
         <div class="col" style="grid-column: span 3;">
           <label for="director">Director contains</label>
@@ -222,27 +226,26 @@
           <input id="actor" type="text" placeholder="e.g. Gable, Hepburn" />
         </div>
         <div class="col" style="grid-column: span 3;">
-          <label for="genre">Genre(s) (comma-separated)</label>
-          <input id="genre" type="text" placeholder="e.g. Action, Adventure" />
+          <label for="oscarsWonDetails">Oscars Won Details contains</label>
+          <input id="oscarsWonDetails" type="text" placeholder="e.g. Best Picture" />
         </div>
-        <!-- Min rating moved up next to Genre(s) and made compact -->
-        <div class="col" style="grid-column: span 1;">
+        <!-- Min rating and years set to same width as other filter boxes -->
+        <div class="col" style="grid-column: span 3;">
           <label for="minRating">Min IMDb rating</label>
-          <input id="minRating" type="text" placeholder="7.5" class="small-input" />
+          <input id="minRating" type="text" placeholder="7.5" />
         </div>
-        <!-- Year start/end made compact to fit 4-digit years -->
-        <div class="col" style="grid-column: span 1;">
+        <div class="col" style="grid-column: span 3;">
           <label for="yearStart">Year start</label>
-          <input id="yearStart" type="number" inputmode="numeric" placeholder="1990" class="small-input" />
+          <input id="yearStart" type="number" inputmode="numeric" placeholder="1990" />
         </div>
-        <div class="col" style="grid-column: span 1;">
+        <div class="col" style="grid-column: span 3;">
           <label for="yearEnd">Year end</label>
-          <input id="yearEnd" type="number" inputmode="numeric" placeholder="2020" class="small-input" />
+          <input id="yearEnd" type="number" inputmode="numeric" placeholder="2020" />
         </div>
-        <!-- Sort by defaults to title and is compact; (none) removed -->
-        <div class="col" style="grid-column: span 1;">
+        <!-- Sort by defaults to title and matches width of other filters -->
+        <div class="col" style="grid-column: span 3;">
           <label for="sort">Sort by</label>
-          <select id="sort" class="compact-select">
+          <select id="sort">
             <option value="title" selected>title</option>
             <option value="year">year</option>
             <option value="rating">rating</option>
@@ -663,12 +666,13 @@
     // Wire buttons
     el('btnSearch').addEventListener('click', () => handle(el('btnSearch'), async () => {
       const params = {
-        q: el('title').value.trim(),
+        title: el('title').value.trim(),
         // default sort is 'title' per requirement
         sort: el('sort').value || 'title',
         genre: el('genre').value.trim() || undefined,
         director: el('director').value.trim() || undefined,
         actor: el('actor').value.trim() || undefined,
+        oscarWon: el('oscarsWonDetails').value.trim() || undefined,
         minRating: el('minRating').value ? Number(el('minRating').value) : undefined,
         yearStart: el('yearStart').value ? Number(el('yearStart').value) : undefined,
         yearEnd: el('yearEnd').value ? Number(el('yearEnd').value) : undefined,
@@ -709,6 +713,7 @@
       el('title').value = '';
       el('director').value = '';
       el('actor').value = '';
+      el('oscarsWonDetails').value = '';
       el('genre').value = '';
       el('minRating').value = '';
       el('yearStart').value = '';
@@ -730,15 +735,29 @@
       input.classList.toggle('has-value', hasValue);
     }
     function refreshValueHighlights() {
-      ['title','director','actor','genre','minRating','yearStart','yearEnd'].forEach(id => applyValueHighlight(el(id)));
+      ['title','director','actor','oscarsWonDetails','genre','minRating','yearStart','yearEnd'].forEach(id => applyValueHighlight(el(id)));
     }
-    ['title','director','actor','genre','minRating','yearStart','yearEnd'].forEach(id => {
+    ['title','director','actor','oscarsWonDetails','genre','minRating','yearStart','yearEnd'].forEach(id => {
       const node = el(id);
       node.addEventListener('input', () => applyValueHighlight(node));
       node.addEventListener('change', () => applyValueHighlight(node));
     });
     // initialize on load
     refreshValueHighlights();
+
+    // Pressing Enter in any filter field triggers Search
+    const filtersGrid = document.getElementById('filters');
+    if (filtersGrid) {
+      filtersGrid.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          const searchBtn = el('btnSearch');
+          if (searchBtn && !searchBtn.disabled) {
+            searchBtn.click();
+          }
+        }
+      });
+    }
   </script>
 </body>
 <html>
