@@ -440,8 +440,8 @@ look at the following json element describing a movie:
   "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/all_about_eve"
 }
 ```
-As a movie lover and as fan of cinema i would like a json dataset of a minimum of 25 unique elements
-for the most popular, iconic, celebrated and award winning movies for that year. 
+As a movie lover and as fan of cinema i would like a json dataset of a minimum of 40 unique elements
+for the most popular, iconic, celebrated and award-winning movies for that year. 
 Use the above data structure as a sample of the type of data to return.  
 Use movie ratings from IMDB and Rotten Tomatoes; find the film ranking, 
 if any, from the AFI website; list  the number of oscars nominated and won and which 
@@ -449,7 +449,7 @@ oscars were won in a oscar_details array; runtime of the movie, director, actor 
 back to their imdb pages and all the other data you see above including budget and revenue numbers.  
 please provide a quality dataset for the most important movies for a given year without duplicates 
 or omitting important films.   
-If you need more that 25 films the list the most celebrated and iconic movies then do so.
+If you need more than 40 films to do the list justice then do so.
 
 start with 1957.  The more movies the better.  Hope you can spare the CPU time!
 
