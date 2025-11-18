@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 public class MovieService {
 
     private final List<Movie> movies;
-    private static final String RESOURCE_FILE = "movies-decade-of-1930s.json";
+    private static final String RESOURCE_FILE = "movies-of-the-1930s-1950s.json";
 
     public MovieService() {
         this.movies = loadMoviesFromJson(RESOURCE_FILE);

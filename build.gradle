@@ -38,9 +38,16 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
     testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
-    testImplementation 'org.mockito:mockito-core:5.2.0'
 }
 
 tasks.named('test') {
     useJUnitPlatform()
+}
+
+// Utility task to combine decade JSON files and write a merged file
+tasks.register('combineMovies', JavaExec) {
+    group = 'utilities'
+    description = 'Combine 1930s, 1940s, 1950s movie JSON files into one and remove duplicates.'
+    classpath = sourceSets.main.runtimeClasspath
+    mainClass = 'com.example.demo.util.CombineMovies'
 }

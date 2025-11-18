@@ -13,7 +13,7 @@ import org.junit.jupiter.api.Test;
 
 class MovieServiceTest {
 
-    private static final String TEST_RESOURCE = "movies-1930.json";
+    private static final String TEST_RESOURCE = "movies-by-year/movies-1930.json";
     private MovieService movieService;
 
     @BeforeEach

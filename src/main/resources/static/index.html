@@ -759,6 +759,7 @@
 
     // Clear button: reset all inputs and visual state
     el('btnClear').addEventListener('click', () => {
+      // Reset all filters
       el('title').value = '';
       el('director').value = '';
       el('actor').value = '';
@@ -768,11 +769,22 @@
       el('minRating').value = '';
       el('yearStart').value = '';
       el('yearEnd').value = '';
+      // Revert the dropdown to default sort
       el('sort').value = 'title';
 
-      // remove results and KPIs
-      el('results').innerHTML = '';
-      el('kpis').innerHTML = '';
+      // Clear any column sort settings (client-side state and indicators)
+      currentSort = null; // remove custom column sort
+
+      // If we have results in memory, re-render them in default order (title asc)
+      if (Array.isArray(lastResults) && lastResults.length > 0) {
+        const defaultSorted = sortData(lastResults, 'title', 'asc');
+        renderInto(el('results'), defaultSorted); // renderInto will also reset active indicators
+        setKPIs(defaultSorted.length, undefined);
+      } else {
+        // No cached results: clear the view
+        el('results').innerHTML = '';
+        el('kpis').innerHTML = '';
+      }
 
       // update value-highlights
       refreshValueHighlights();
