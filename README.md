@@ -384,3 +384,75 @@ java -jar build/lib/demo-0.0.1-SNAPSHOT.jar search "dark knight"
 
 * nice work.  now as a cinema lover I want the BEST movies for 1956.  30 of the most popular, iconic, celebrated and award winning movies for that year.  
 Please provide a complete list with a minimum of 25 films.  more films is better.
+
+
+
+look at the following json element describing a movie:
+```json
+
+{
+  "title": "All About Eve",
+  "year": 1950,
+  "director": {
+    "name": "Joseph L. Mankiewicz",
+    "imdb_person_url": "https://www.imdb.com/name/nm0542403/"
+  },
+  "production_studio": "20th Century Fox",
+  "mpaa_rating": "Not Rated",
+  "runtime_minutes": 138,
+  "budget_usd_millions": 1.4,
+  "gross_revenue_usd_millions": 8.4,
+  "ratings": {
+    "imdb": 8.2,
+    "rotten_tomatoes_critic": "99%",
+    "rotten_tomatoes_popcorn": "94%"
+  },
+  "genres": [
+    "Drama"
+  ],
+  "actors": [
+    {
+      "name": "Bette Davis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+    },
+    {
+      "name": "Anne Baxter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000882/"
+    },
+    {
+      "name": "George Sanders",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001695/"
+    }
+  ],
+  "oscars_nominated": 14,
+  "oscars_won": 6,
+  "oscars_won_details": [
+    "Best Picture",
+    "Best Director",
+    "Best Supporting Actor",
+    "Best Writing, Screenplay",
+    "Best Costume Design, Black-and-White",
+    "Best Sound, Recording"
+  ],
+  "description": "A seemingly timid but secretly manipulative ingenue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+  "afi_ranking": 16,
+  "imdb_url": "https://www.imdb.com/title/tt0042192/",
+  "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/all_about_eve"
+}
+```
+As a movie lover and as fan of cinema i would like a json dataset of a minimum of 25 unique elements
+for the most popular, iconic, celebrated and award winning movies for that year. 
+Use the above data structure as a sample of the type of data to return.  
+Use movie ratings from IMDB and Rotten Tomatoes; find the film ranking, 
+if any, from the AFI website; list  the number of oscars nominated and won and which 
+oscars were won in a oscar_details array; runtime of the movie, director, actor with links 
+back to their imdb pages and all the other data you see above including budget and revenue numbers.  
+please provide a quality dataset for the most important movies for a given year without duplicates 
+or omitting important films.   
+If you need more that 25 films the list the most celebrated and iconic movies then do so.
+
+start with 1957.  The more movies the better.  Hope you can spare the CPU time!
+
+how about 1980 please.  take your time and produce quality, complete and accurate data.  
+you can add additional movies to ensure we have a  truly satisfying list. you can go to 40 or 50 movies if you wish.
+```
