@@ -103,6 +103,4 @@ class MovieGenreTest {
         // act & assert
         assertFalse(movie.isGenre("   ,  "));
     }
-
-
 }

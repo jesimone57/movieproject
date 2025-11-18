@@ -22,8 +22,10 @@ class MovieActorTest {
         // act & assert
         assertTrue(movie.isActor("Fred Brown"));
         assertTrue(movie.isActor("Oscar Brown"));
+        assertTrue(movie.isActor("FRED br"));
         assertTrue(movie.isActor("oscar"));
         assertTrue(movie.isActor("fred"));
+        assertTrue(movie.isActor("FRED "));
         assertTrue(movie.isActor("brown"));
     }
 
@@ -115,5 +117,4 @@ class MovieActorTest {
         // act & assert
         assertFalse(movie.isActor("     ,    "));
     }
-
 }

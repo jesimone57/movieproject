@@ -18,6 +18,8 @@ class MovieOscarsWonDetailTest {
         // act & assert
         assertTrue(movie.isOscarsWonDetail("Picture"));
         assertTrue(movie.isOscarsWonDetail("best picture"));
+        assertTrue(movie.isOscarsWonDetail("best pic"));
+        assertTrue(movie.isOscarsWonDetail("actress"));
     }
 
     @Test
@@ -102,6 +104,4 @@ class MovieOscarsWonDetailTest {
         // act & assert
         assertFalse(movie.isOscarsWonDetail("    ,    "));
     }
-
-
 }

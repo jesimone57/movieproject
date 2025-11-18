@@ -18,6 +18,7 @@ class MovieDirectorTest {
         assertTrue(movie.isDirector("hitchcock"));
         assertTrue(movie.isDirector("HITCH"));
         assertTrue(movie.isDirector(" hitch  "));
+        assertTrue(movie.isDirector(" cock  "));
     }
 
     @Test

@@ -7,13 +7,14 @@ import org.junit.jupiter.api.Test;
 
 class MovieStudioTest {
     @Test
-    void isProductionStudioTest() {
+    void isStudioTest() {
         // arrange
         Movie movie = new Movie();
         movie.setStudio("Paramount Pictures");
 
         // act & assert
         assertTrue(movie.isStudio("Paramount Pictures"));
+        assertTrue(movie.isStudio("Paramount pict"));
         assertTrue(movie.isStudio("PARAMOUNT"));
         assertTrue(movie.isStudio("PARA"));
         assertTrue(movie.isStudio("PICT"));
@@ -41,6 +42,7 @@ class MovieStudioTest {
 
     @Test
     void isStudioBlankTest() {
+        // arrange
         Movie movie = new Movie();
         movie.setStudio("        ");
 

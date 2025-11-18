@@ -9,7 +9,7 @@ import org.apache.commons.lang3.StringUtils;
 @Data
 public class Movie {
 
-    private  int num;
+    private int num;
     private String title;
     private int year;
     private Director director;
@@ -48,13 +48,13 @@ public class Movie {
         return ratings.getImdb();
     }
 
-    public  boolean isActor(String filterCriteria) {
+    public boolean isActor(String filterCriteria) {
         if (actors != null && !actors.isEmpty() && !filterCriteria.isBlank()) {
             List<String> searchTokens = tokenizeFilterCriteria(filterCriteria);
             if (!searchTokens.isEmpty()) {
                 boolean result = true;
                 for (String token : searchTokens) {
-                    result = result && actors.stream().anyMatch(i -> i.getName() != null && StringUtils.containsIgnoreCase(i.getName(), token));
+                    result &= actors.stream().anyMatch(i -> i.getName() != null && StringUtils.containsIgnoreCase(i.getName(), token));
                 }
                 return result;
             }
@@ -62,13 +62,13 @@ public class Movie {
         return false;
     }
 
-    public  boolean isOscarsWonDetail(String filterCriteria) {
+    public boolean isOscarsWonDetail(String filterCriteria) {
         if (oscarsWonDetails != null && !oscarsWonDetails.isEmpty() && !filterCriteria.isBlank()) {
             List<String> searchTokens = tokenizeFilterCriteria(filterCriteria);
             if (!searchTokens.isEmpty()) {
                 boolean result = true;
                 for (String token : searchTokens) {
-                    result = result && oscarsWonDetails.stream().anyMatch(i -> StringUtils.containsIgnoreCase(i, token));
+                    result &= oscarsWonDetails.stream().anyMatch(i -> StringUtils.containsIgnoreCase(i, token));
                 }
                 return result;
             }
@@ -82,7 +82,7 @@ public class Movie {
             if (!searchTokens.isEmpty()) {
                 boolean result = true;
                 for (String token : searchTokens) {
-                    result = result && genres.stream().anyMatch(i -> StringUtils.containsIgnoreCase(i, token));
+                    result &= genres.stream().anyMatch(i -> StringUtils.containsIgnoreCase(i, token));
                 }
                 return result;
             }
