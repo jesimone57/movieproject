@@ -258,12 +258,12 @@ class MovieProjectUnitTest {
 
     @Test
     void checkByRating() {
-        double imdb_rating = 7.4;
-        List<Movie> movies = movieService.getMovieByRating(imdb_rating);
+        double imdbRating = 7.4;
+        List<Movie> movies = movieService.getMovieByRating(imdbRating);
         assertNotNull(movies);
         assertEquals(112, movies.size());
         for (Movie movie : movies) {
-            assertTrue(movie.getImdbRating() >= imdb_rating);
+            assertTrue(movie.getImdbRating() >= imdbRating);
         }
     }
 
@@ -297,7 +297,7 @@ class MovieProjectUnitTest {
     void getMoviesByAllFilters() {
         String title = "the";
         String genre = "Crime";
-        Double minRating = 7.4;
+        double minRating = 7.4;
         Integer year = 1934;
         List<Movie> movies = movieService.filterMovies(title, genre, minRating, year, null);
         assertNotNull(movies);
@@ -324,8 +324,8 @@ class MovieProjectUnitTest {
 
     @Test
     void getMoviesInRange() {
-        Integer yearStart = 1930;
-        Integer yearEnd = 1933;
+        int yearStart = 1930;
+        int yearEnd = 1933;
         List<Movie> movies = movieService.filterMovies(null, null, null, yearStart, yearEnd,
                 "year", null, null, null, null);
         assertEquals(28, movies.get(27).getNum());
