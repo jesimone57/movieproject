@@ -7,27 +7,38 @@ import java.util.Map;
  * A simple utility class to check for duplicate movie titles in the movies-original.json file.
  */
 public class DuplicateTitleChecker {
-    private static String RESOURCE_FILE = "movies-decade-of-1930s.json";
+
     public static void main(String[] args) {
-        MovieService movieService = new MovieService(RESOURCE_FILE);
-        
+        MovieService movieService;
+        String folder = "movies-by-year/";
+
+        for (int i = 1930; i <= 2007; i++) {
+            String filename = folder + "movies-" + i + ".json";
+            System.out.println(filename);
+
+            movieService = new MovieService(filename);
+            checkForDuplicateTitles(movieService, filename);
+        }
+    }
+
+    private static void checkForDuplicateTitles(MovieService movieService, String inputFile) {
         // Check for duplicate titles
         Map<String, Integer> duplicates = movieService.findDuplicateTitles();
         boolean hasDuplicates = movieService.hasDuplicateTitles();
-        
-        // Print results
-        System.out.println("Has duplicate titles: " + hasDuplicates);
-        
+        int duplicatesCount = 0;
+
         if (hasDuplicates) {
-            System.out.println("Duplicate titles found:");
+            System.out.println("\tDuplicate titles found:");
+            duplicatesCount = 0;
             for (Map.Entry<String, Integer> entry : duplicates.entrySet()) {
-                System.out.println("Title: '" + entry.getKey() + "' appears " + entry.getValue() + " times");
+                System.out.println("\tTitle: '" + entry.getKey() + "' appears " + entry.getValue() + " times");
+                duplicatesCount += entry.getValue();
             }
+            System.out.println("\tTotal number of duplicate movies: " + duplicatesCount);
+            System.out.println("\tTotal number of movies: " + movieService.getAllMovies().size());
         } else {
-            System.out.println("No duplicate titles found in movies-original.json");
+            System.out.println("\tNo duplicate titles found in " + inputFile);
+            System.out.println("\tTotal number of movies: " + movieService.getAllMovies().size());
         }
-        
-        // Print total number of movies for reference
-        System.out.println("Total number of movies: " + movieService.getAllMovies().size());
     }
 }

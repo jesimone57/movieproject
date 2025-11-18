@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 public class MovieService {
 
     private final List<Movie> movies;
-    private static final String RESOURCE_FILE = "movies-1958.json";
+    private static final String RESOURCE_FILE = "movies-by-year/movies-1958.json";
 
     public MovieService() {
         this.movies = loadMoviesFromJson(RESOURCE_FILE);
@@ -32,13 +32,13 @@ public class MovieService {
         this.movies = loadMoviesFromJson(resourceFile);
     }
 
-    private List<Movie> loadMoviesFromJson(String resource) {
+    private List<Movie> loadMoviesFromJson(String resourceFile) {
         try {
             ObjectMapper objectMapper = new ObjectMapper();
-            InputStream inputStream = getClass().getClassLoader().getResourceAsStream(resource);
+            InputStream inputStream = getClass().getClassLoader().getResourceAsStream(resourceFile);
 
             if (inputStream == null) {
-                throw new IOException("Could not find movies-original.json");
+                throw new IOException("Could not find "+resourceFile);
             }
 
             return objectMapper.readValue(inputStream, new TypeReference<ArrayList<Movie>>() {
