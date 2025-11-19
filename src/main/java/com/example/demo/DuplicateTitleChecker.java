@@ -4,7 +4,7 @@ import com.example.demo.service.MovieService;
 import java.util.Map;
 
 /**
- * A simple utility class to check for duplicate movie titles in the movies-original.json file.
+ * A simple utility class to check for duplicate movie titles in all the movies-yyyy.json files.
  */
 public class DuplicateTitleChecker {
 
