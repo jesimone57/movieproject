@@ -71,12 +71,13 @@
     .note { color: var(--muted); font-size: 12px; }
     .footer { text-align: center; color: var(--muted); font-size: 12px; padding: 18px; }
 
-    /* Column sizing tweaks per requirements */
-    /* 1: Name, 2: Born, 3: Died, 4: Oscars Nominated, 5: Oscars Won, 6: Filmography */
-    th:nth-child(1), td:nth-child(1) { min-width: 195px; }           /* 0.75x previous min-width to match request */
+    /* Column sizing tweaks per updated requirements */
+    /* 1: Name, 2: Life (Born–Died), 3: Oscars Nominated, 4: Oscars Won, 5: Filmography */
+    th:nth-child(1), td:nth-child(1) { min-width: 195px; }
+    th:nth-child(2), td:nth-child(2) { width: 80px; }                /* compact life span */
+    th:nth-child(3), td:nth-child(3) { width: 60px; }                /* Small two‑digit numbers */
     th:nth-child(4), td:nth-child(4) { width: 60px; }                /* Small two‑digit numbers */
-    th:nth-child(5), td:nth-child(5) { width: 60px; }                /* Small two‑digit numbers */
-    th:nth-child(6), td:nth-child(6) { width: 72%; }                 /* Filmography column 50% wider than prior 48% -> ~72% */
+    th:nth-child(5), td:nth-child(5) { width: 75%; }                 /* Make filmography column wider */
 
     /* Filmography cell: show each film on a separate line with light spacing */
     .film-line + .film-line { margin-top: 4px; }
@@ -89,6 +90,10 @@
       background: var(--chip);
       font-size: 12px;
     }
+
+    /* Award emphasis */
+    .oscar-win { color: #0a7a20; font-weight: 700; }
+    .oscar-nom { color: #0b5ed7; font-weight: 700; }
   </style>
 </head>
 <body>
@@ -127,12 +132,11 @@
         <div class="table-wrap">
           <table id="resultsTable">
             <colgroup>
-              <col style="width: 18%">   <!-- Name (reduced to 0.75x previous 24%) -->
-              <col style="width: 3%">    <!-- Born (tight) -->
-              <col style="width: 3%">    <!-- Died (tight) -->
+              <col style="width: 18%">   <!-- Name -->
+              <col style="width: 5%">    <!-- Life (Born–Died) -->
               <col style="width: 2%">    <!-- Oscars Nominated (2-digit) -->
               <col style="width: 2%">    <!-- Oscars Won (2-digit) -->
-              <col style="width: 72%">   <!-- Filmography (50% wider than 48%) -->
+              <col style="width: 73%">   <!-- Filmography (wider) -->
             </colgroup>
             <thead>
               <tr>
@@ -145,18 +149,10 @@
                   </span>
                 </th>
                 <th class="numcol">
-                  <span class="sortable">Born
+                  <span class="sortable">Life
                     <span class="sort-controls">
-                      <button data-col="born" data-dir="asc">▲</button>
-                      <button data-col="born" data-dir="desc">▼</button>
-                    </span>
-                  </span>
-                </th>
-                <th class="numcol">
-                  <span class="sortable">Died
-                    <span class="sort-controls">
-                      <button data-col="died" data-dir="asc">▲</button>
-                      <button data-col="died" data-dir="desc">▼</button>
+                      <button data-col="life" data-dir="asc">▲</button>
+                      <button data-col="life" data-dir="desc">▼</button>
                     </span>
                   </span>
                 </th>
@@ -224,12 +220,40 @@
         .replace(/'/g, '&#39;');
     }
 
+    // Highlight Oscar awards inside the per‑film awards text
+    // Examples to highlight:
+    //  - "Oscar: Win – Best Actor" => bold green (oscar-win)
+    //  - "Oscar: Nomination – Best Actor" => bold blue (oscar-nom)
+    // Non-Oscar awards remain unstyled.
+    function highlightAwards(raw) {
+      if (!raw || typeof raw !== 'string') return '';
+      // Split on semicolons to preserve each award token
+      const tokens = raw.split(';');
+      const out = tokens.map((tok) => {
+        const t = tok.trim();
+        if (t.length === 0) return '';
+        const hasOscar = /\boscars?\b/i.test(t);
+        if (!hasOscar) {
+          return escapeHtml(t);
+        }
+        const isWin = /\bwin(s)?\b/i.test(t);
+        const isNom = /\bnomination|nominated\b/i.test(t);
+        const safe = escapeHtml(t);
+        if (isWin) return `<span class="oscar-win">${safe}</span>`;
+        if (isNom) return `<span class="oscar-nom">${safe}</span>`;
+        // If it's an Oscar but neither win nor nomination matched, just return escaped
+        return safe;
+      });
+      // Rejoin with semicolons and spaces, mirroring input style
+      return out.join('; ');
+    }
+
     function filmToHtml(f) {
       if (!f) return '';
       const title = escapeHtml(fmt(f.title, 'Untitled'));
       const year = (f.year != null) ? ` (${escapeHtml(f.year)})` : '';
       const plot = f.plot ? ` — ${escapeHtml(f.plot)}` : '';
-      const awards = f.awards ? ` — Awards: ${escapeHtml(f.awards)}` : '';
+      const awards = f.awards ? ` — Awards: ${highlightAwards(String(f.awards))}` : '';
       const r = f.ratings || {};
       const parts = [];
       if (typeof r.imdb === 'number') parts.push(`IMDb ${r.imdb.toFixed(1)}`);
@@ -245,6 +269,15 @@
       return films.map(f => `<div class="film-line">${filmToHtml(f)}</div>`).join('');
     }
 
+    function lifeSpan(p) {
+      const born = p.year_born ?? p.yearBorn ?? null;
+      const died = p.year_died ?? p.yearDied ?? null;
+      if (born == null && died == null) return '';
+      if (born != null && died == null) return `${born}–`;
+      if (born == null && died != null) return `–${died}`;
+      return `${born}–${died}`;
+    }
+
     function render() {
       const tbody = $('tbody');
       tbody.innerHTML = '';
@@ -255,20 +288,31 @@
         const tr = document.createElement('tr');
         const cells = [
           fmt(p.name, ''),
-          p.year_born ?? p.yearBorn ?? '',
-          p.year_died ?? p.yearDied ?? '',
+          lifeSpan(p),
           awards.oscars_nominated ?? awards.oscarsNominated ?? '',
           awards.oscars_won ?? awards.oscarsWon ?? '',
           aggregateFilmographyHtml(it)
         ];
         cells.forEach((c, idx) => {
           const td = document.createElement('td');
-          if (idx === 5) {
+          if (idx === 4) {
             td.innerHTML = c || '';
           } else {
             td.textContent = c === null ? '' : c;
           }
-          if (idx >= 1 && idx <= 4) td.className = 'numcol';
+          if (idx >= 1 && idx <= 3) td.classList.add('numcol');
+          // Awards coloring: won -> bold green, else if nominated -> bold blue
+          if (idx === 2 || idx === 3) {
+            const n = Number(c);
+            if (!Number.isNaN(n) && n > 0) {
+              if (idx === 3) {
+                td.classList.add('oscar-win');
+              } else {
+                // Only apply nomination color if no wins (wins take precedence visually in adjacent cell)
+                td.classList.add('oscar-nom');
+              }
+            }
+          }
           tr.appendChild(td);
         });
         tbody.appendChild(tr);
@@ -284,8 +328,7 @@
       let va, vb;
       switch (col) {
         case 'name': va = (pA.name || '').toLowerCase(); vb = (pB.name || '').toLowerCase(); break;
-        case 'born': va = pA.year_born ?? pA.yearBorn ?? null; vb = pB.year_born ?? pB.yearBorn ?? null; break;
-        case 'died': va = pA.year_died ?? pA.yearDied ?? null; vb = pB.year_died ?? pB.yearDied ?? null; break;
+        case 'life': va = pA.year_born ?? pA.yearBorn ?? null; vb = pB.year_born ?? pB.yearBorn ?? null; break; // sort by birth year
         case 'noms': va = awA.oscars_nominated ?? awA.oscarsNominated ?? null; vb = awB.oscars_nominated ?? awB.oscarsNominated ?? null; break;
         case 'won':  va = awA.oscars_won ?? awA.oscarsWon ?? null;       vb = awB.oscars_won ?? awB.oscarsWon ?? null; break;
         default: va = 0; vb = 0;
