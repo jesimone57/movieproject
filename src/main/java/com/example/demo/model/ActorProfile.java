@@ -19,6 +19,15 @@ public class ActorProfile {
 
     @JsonProperty("imdb_url")
     private String imdbUrl;
+    @JsonProperty("image_url")
+    private String imageUrl;
+
+    @JsonProperty("year_of_first_film")
+    private Integer yearOfFirstFilm;
+    @JsonProperty("year_of_last_film")
+    private Integer yearOfLastFilm;
+    @JsonProperty("number_of_feature_films_made")
+    private Integer numberOfFeatureFilms;
 
     @JsonProperty("actor_awards")
     private ActorAwards actorAwards;

@@ -12,6 +12,9 @@ public class ActorMovie {
     private String title;
     private Integer year;
     private String plot;
+    private String role;
+    @JsonProperty("role_description")
+    private String roleDescription;
     private String awards; // can be null
 
     private Ratings ratings;

@@ -10,16 +10,23 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import org.apache.commons.lang3.StringUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.stereotype.Service;
 
 @Service
 public class ActorFilmographyService {
 
+    private Logger logger = LoggerFactory.getLogger(ActorFilmographyService.class);
     private final List<ActorFilmography> actorFilmographies;
     private static final String RESOURCE_FILE = "actor-movies-sample.json";
+    private static final String FILMOGRAPHIES_FOLDER = "actor-filmographies";
 
     public ActorFilmographyService() {
-        this.actorFilmographies = loadActorFilmographiesFromJson(RESOURCE_FILE);
+        this.actorFilmographies = new ArrayList<>();
+        loadActorFilmographiesFromFolder();
     }
 
     public ActorFilmographyService(String resourceFile) {
@@ -35,15 +42,80 @@ public class ActorFilmographyService {
             InputStream inputStream = getClass().getClassLoader().getResourceAsStream(resourceFile);
 
             if (inputStream == null) {
-                throw new IOException("Could not find "+resourceFile);
+                String message = "Resource not found: " + resourceFile;
+                logger.error(message);
+                throw new IOException(message);
             }
 
-            return objectMapper.readValue(inputStream, new TypeReference<ArrayList<ActorFilmography>>() {
-            });
+            return objectMapper.readValue(inputStream, new TypeReference<ArrayList<ActorFilmography>>() {});
         } catch (IOException e) {
             e.printStackTrace();
             return new ArrayList<>();
         }
+    }
+
+    /**
+     * Loads any JSON resources found under the given folder on the classpath and appends them
+     * to the current list of actorFilmographies. This method is resilient to files containing
+     * either a single ActorFilmography object or an array of ActorFilmography objects.
+     * Malformed files are skipped.
+     *
+     * @param folder the classpath folder containing actor filmography JSON files
+     */
+    public void loadActorFilmographiesFromFolder(String folder) {
+        if (folder == null || StringUtils.isBlank(folder)) {
+            throw new IllegalArgumentException("folder cannot be null or empty");
+        }
+
+        int addedFileCount = 0;
+        ObjectMapper objectMapper = new ObjectMapper();
+        PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
+        try {
+            Resource[] resources = resolver.getResources("classpath*:" + folder + "/**/*.json");
+            for (Resource resource : resources) {
+                if (resource == null || !resource.exists()) {
+                    continue;
+                }
+                String resourceFileName = resource.getFile().getName();
+
+                // IMPORTANT: Use the Resource to open the stream with the correct path
+                try (InputStream is = resource.getInputStream()) {
+                    // Try as a single object first
+                    try {
+                        ActorFilmography single = objectMapper.readValue(is, ActorFilmography.class);
+                        if (single != null) {
+                            this.actorFilmographies.add(single);
+                            addedFileCount++;
+                            logger.info(addedFileCount + " added as single entry: " + resourceFileName);
+                        }
+                    } catch (IOException singleEx) {
+                        // If single parse failed, try as an array/list
+                        try (InputStream is2 = resource.getInputStream()) {
+                            List<ActorFilmography> list = objectMapper.readValue(is2, new TypeReference<ArrayList<ActorFilmography>>() {});
+                            if (list != null && !list.isEmpty()) {
+                                this.actorFilmographies.addAll(list);
+                                addedFileCount++;
+                                logger.info(addedFileCount + " added as multiple entries: " + resourceFileName);
+                            }
+                        } catch (IOException listEx) {
+                            logger.info("Skip malformed resource " + resourceFileName + " and continue (malformed or unexpected structure)");
+
+                        }
+                    }
+                }
+            }
+        } catch (IOException e) {
+            // If we cannot scan the folder, simply ignore and continue with existing data
+            // Optionally log in the future
+        }
+
+    }
+
+    /**
+     * Convenience method to load from the default actor-filmographies folder on the classpath.
+     */
+    public void loadActorFilmographiesFromFolder() {
+        loadActorFilmographiesFromFolder(FILMOGRAPHIES_FOLDER);
     }
 
     /**
