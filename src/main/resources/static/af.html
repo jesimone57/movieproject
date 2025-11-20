@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Actor Filmographies</title>
+  <style>
+    :root {
+      --bg: #f7fafc;
+      --card: #ffffff;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --primary: #4a90e2;
+      --primary-dark: #3579c8;
+      --border: #e5e7eb;
+      --chip: #eef2f7;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text);
+      background: linear-gradient(180deg, #fbfdff 0%, var(--bg) 100%);
+    }
+
+    header { padding: 28px 16px 8px; text-align: center; }
+    h1 { margin: 0 0 6px; font-size: 26px; letter-spacing: .2px; }
+    .subtitle { color: var(--muted); font-size: 14px; }
+
+    .container { max-width: 1140px; margin: 0 auto; padding: 16px; }
+
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.04);
+    }
+
+    .grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 12px; align-items: end; }
+    label { display: block; font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+
+    input { width: 100%; padding: 10px 12px; font-size: 14px; color: var(--text); background: #fff; border: 1px solid var(--border); border-radius: 8px; outline: none; transition: box-shadow .15s ease, border-color .15s ease; }
+    input:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(74,144,226,0.15); }
+
+    .btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 14px; border: 1px solid var(--primary); background: var(--primary); color: #fff; border-radius: 10px; font-weight: 600; cursor: pointer; transition: background .15s ease, transform .05s ease; text-decoration: none; white-space: nowrap; }
+    .btn.secondary { background: #fff; color: var(--primary); }
+    .btn:hover { background: var(--primary-dark); }
+    .btn.secondary:hover { background: #f5f9ff; }
+    .btn:active { transform: translateY(1px); }
+
+    .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+
+    .results { margin-top: 18px; display: grid; grid-template-columns: 1fr; gap: 12px; }
+    .table-wrap { overflow: auto; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
+    table { border-collapse: collapse; width: 100%; min-width: 880px; }
+    th, td { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: left; font-size: 14px; }
+    th { background: #f1f5f9; font-weight: 700; color: #334155; position: sticky; top: 0; }
+    tbody tr:hover { background: #f9fbfd; }
+    .numcol { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    /* Allow wrapping inside numeric headers so we can split labels across two lines */
+    th.numcol { white-space: normal; }
+
+    .sortable { display: inline-flex; align-items: center; gap: 4px; }
+    .sort-controls { display: inline-flex; flex-direction: column; gap: 1px; align-items: center; margin-left: 2px; }
+    .sort-controls button { padding: 0 3px; line-height: 1; height: 14px; min-width: 16px; border: 1px solid transparent; border-radius: 4px; background: transparent; color: #64748b; cursor: pointer; font-size: 12px; }
+    .sort-controls button:hover { background: #e2e8f0; color: #334155; }
+    .sort-controls button.active { background: #dbeafe; border-color: #bfdbfe; color: #1d4ed8; font-weight: 700; }
+
+    .note { color: var(--muted); font-size: 12px; }
+    .footer { text-align: center; color: var(--muted); font-size: 12px; padding: 18px; }
+
+    /* Column sizing tweaks per requirements */
+    /* 1: Name, 2: Born, 3: Died, 4: Oscars Nominated, 5: Oscars Won, 6: Filmography */
+    th:nth-child(1), td:nth-child(1) { min-width: 195px; }           /* 0.75x previous min-width to match request */
+    th:nth-child(4), td:nth-child(4) { width: 60px; }                /* Small two‑digit numbers */
+    th:nth-child(5), td:nth-child(5) { width: 60px; }                /* Small two‑digit numbers */
+    th:nth-child(6), td:nth-child(6) { width: 72%; }                 /* Filmography column 50% wider than prior 48% -> ~72% */
+
+    /* Filmography cell: show each film on a separate line with light spacing */
+    .film-line + .film-line { margin-top: 4px; }
+
+    /* KPI pill (copied to match index.html look) */
+    .kpi {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: var(--chip);
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Actor Filmographies</h1>
+    <div class="subtitle">Search actors and view their filmography and awards</div>
+  </header>
+
+  <main class="container">
+    <section class="panel">
+      <div class="grid">
+        <div style="grid-column: span 4;">
+          <label for="name">Actor Name</label>
+          <input id="name" type="text" placeholder="e.g., James Stewart" />
+        </div>
+        <div style="grid-column: span 2;">
+          <label for="year">Year</label>
+          <input id="year" type="number" inputmode="numeric" placeholder="e.g., 1946" />
+        </div>
+        <div style="grid-column: span 3;">
+          <label for="oscarsNominated">Oscars Nominated</label>
+          <input id="oscarsNominated" type="number" inputmode="numeric" placeholder="e.g., 5" />
+        </div>
+        <div style="grid-column: span 3;">
+          <label for="oscarsWon">Oscars Won</label>
+          <input id="oscarsWon" type="number" inputmode="numeric" placeholder="e.g., 1" />
+        </div>
+      </div>
+      <div class="actions">
+        <button id="searchBtn" class="btn" title="Search">🔎 Search</button>
+        <button id="clearBtn" class="btn secondary" title="Clear filters">✖ Clear</button>
+        <span id="resultCount" class="kpi" style="display:none"></span>
+      </div>
+
+      <div class="results">
+        <div class="table-wrap">
+          <table id="resultsTable">
+            <colgroup>
+              <col style="width: 18%">   <!-- Name (reduced to 0.75x previous 24%) -->
+              <col style="width: 3%">    <!-- Born (tight) -->
+              <col style="width: 3%">    <!-- Died (tight) -->
+              <col style="width: 2%">    <!-- Oscars Nominated (2-digit) -->
+              <col style="width: 2%">    <!-- Oscars Won (2-digit) -->
+              <col style="width: 72%">   <!-- Filmography (50% wider than 48%) -->
+            </colgroup>
+            <thead>
+              <tr>
+                <th>
+                  <span class="sortable">Name
+                    <span class="sort-controls">
+                      <button data-col="name" data-dir="asc">▲</button>
+                      <button data-col="name" data-dir="desc">▼</button>
+                    </span>
+                  </span>
+                </th>
+                <th class="numcol">
+                  <span class="sortable">Born
+                    <span class="sort-controls">
+                      <button data-col="born" data-dir="asc">▲</button>
+                      <button data-col="born" data-dir="desc">▼</button>
+                    </span>
+                  </span>
+                </th>
+                <th class="numcol">
+                  <span class="sortable">Died
+                    <span class="sort-controls">
+                      <button data-col="died" data-dir="asc">▲</button>
+                      <button data-col="died" data-dir="desc">▼</button>
+                    </span>
+                  </span>
+                </th>
+                <th class="numcol">
+                  <span class="sortable">Oscars<br>Nominated
+                    <span class="sort-controls">
+                      <button data-col="noms" data-dir="asc">▲</button>
+                      <button data-col="noms" data-dir="desc">▼</button>
+                    </span>
+                  </span>
+                </th>
+                <th class="numcol">
+                  <span class="sortable">Oscars<br>Won
+                    <span class="sort-controls">
+                      <button data-col="won" data-dir="asc">▲</button>
+                      <button data-col="won" data-dir="desc">▼</button>
+                    </span>
+                  </span>
+                </th>
+                <th>Filmography</th>
+              </tr>
+            </thead>
+            <tbody id="tbody"></tbody>
+          </table>
+        </div>
+        <div id="status" class="note"></div>
+      </div>
+    </section>
+
+    <p class="note">Tip: Use the sort arrows in the headers. The Search button requests the server, Clear removes filters and results.</p>
+  </main>
+
+  <footer class="footer">Built for ActorFilmographyController • /api/filmographies/search</footer>
+
+  <script>
+    const api = '/api/filmographies/search';
+    let data = [];
+    let sortState = { col: null, dir: null };
+
+    // Helpers
+    const $ = (id) => document.getElementById(id);
+
+    function buildQuery() {
+      const params = new URLSearchParams();
+      const name = $('name').value.trim();
+      const year = $('year').value.trim();
+      const noms = $('oscarsNominated').value.trim();
+      const won = $('oscarsWon').value.trim();
+      if (name) params.set('name', name);
+      if (year) params.set('year', year);
+      if (noms) params.set('oscarsNominated', noms);
+      if (won) params.set('oscarsWon', won);
+      return params.toString() ? api + '?' + params.toString() : api;
+    }
+
+    function fmt(val, fallback = '') { return (val ?? '') === '' ? fallback : val; }
+    function num(val) { return val == null ? null : Number(val); }
+
+    function escapeHtml(s) {
+      return String(s)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function filmToHtml(f) {
+      if (!f) return '';
+      const title = escapeHtml(fmt(f.title, 'Untitled'));
+      const year = (f.year != null) ? ` (${escapeHtml(f.year)})` : '';
+      const plot = f.plot ? ` — ${escapeHtml(f.plot)}` : '';
+      const awards = f.awards ? ` — Awards: ${escapeHtml(f.awards)}` : '';
+      const r = f.ratings || {};
+      const parts = [];
+      if (typeof r.imdb === 'number') parts.push(`IMDb ${r.imdb.toFixed(1)}`);
+      if (r.rottenRomatoesCriticScore) parts.push(`RT Critic ${escapeHtml(r.rottenRomatoesCriticScore)}`);
+      if (r.rottenTomatoesPopcornScore) parts.push(`RT Popcorn ${escapeHtml(r.rottenTomatoesPopcornScore)}`);
+      const ratings = parts.length ? ` — Ratings: ${parts.join(', ')}` : '';
+      return `<strong>${title}</strong>${year}${plot}${awards}${ratings}`;
+    }
+
+    function aggregateFilmographyHtml(entry) {
+      const films = Array.isArray(entry.filmography) ? entry.filmography : [];
+      if (!films.length) return '';
+      return films.map(f => `<div class="film-line">${filmToHtml(f)}</div>`).join('');
+    }
+
+    function render() {
+      const tbody = $('tbody');
+      tbody.innerHTML = '';
+      const rows = (data || []);
+      for (const it of rows) {
+        const p = it.actor_profile || it.actorProfile || {}; // support JSON naming
+        const awards = p.actor_awards || p.actorAwards || {};
+        const tr = document.createElement('tr');
+        const cells = [
+          fmt(p.name, ''),
+          p.year_born ?? p.yearBorn ?? '',
+          p.year_died ?? p.yearDied ?? '',
+          awards.oscars_nominated ?? awards.oscarsNominated ?? '',
+          awards.oscars_won ?? awards.oscarsWon ?? '',
+          aggregateFilmographyHtml(it)
+        ];
+        cells.forEach((c, idx) => {
+          const td = document.createElement('td');
+          if (idx === 5) {
+            td.innerHTML = c || '';
+          } else {
+            td.textContent = c === null ? '' : c;
+          }
+          if (idx >= 1 && idx <= 4) td.className = 'numcol';
+          tr.appendChild(td);
+        });
+        tbody.appendChild(tr);
+      }
+      updateActiveSortButtons();
+    }
+
+    function compare(a, b, col) {
+      const pA = a.actor_profile || a.actorProfile || {};
+      const pB = b.actor_profile || b.actorProfile || {};
+      const awA = pA.actor_awards || pA.actorAwards || {};
+      const awB = pB.actor_awards || pB.actorAwards || {};
+      let va, vb;
+      switch (col) {
+        case 'name': va = (pA.name || '').toLowerCase(); vb = (pB.name || '').toLowerCase(); break;
+        case 'born': va = pA.year_born ?? pA.yearBorn ?? null; vb = pB.year_born ?? pB.yearBorn ?? null; break;
+        case 'died': va = pA.year_died ?? pA.yearDied ?? null; vb = pB.year_died ?? pB.yearDied ?? null; break;
+        case 'noms': va = awA.oscars_nominated ?? awA.oscarsNominated ?? null; vb = awB.oscars_nominated ?? awB.oscarsNominated ?? null; break;
+        case 'won':  va = awA.oscars_won ?? awA.oscarsWon ?? null;       vb = awB.oscars_won ?? awB.oscarsWon ?? null; break;
+        default: va = 0; vb = 0;
+      }
+      const isNum = typeof va === 'number' || typeof vb === 'number';
+      if (isNum) { va = num(va); vb = num(vb); }
+      if (va == null && vb == null) return 0;
+      if (va == null) return -1;
+      if (vb == null) return 1;
+      if (isNum) return va - vb;
+      return va.localeCompare(vb);
+    }
+
+    function sortData(col, dir) {
+      if (!col || !dir) return;
+      sortState = { col, dir };
+      data.sort((a, b) => {
+        const r = compare(a, b, col);
+        return dir === 'asc' ? r : -r;
+      });
+      render();
+    }
+
+    function updateActiveSortButtons() {
+      document.querySelectorAll('.sort-controls button').forEach(btn => {
+        const active = sortState.col === btn.dataset.col && sortState.dir === btn.dataset.dir;
+        btn.classList.toggle('active', active);
+      });
+    }
+
+    function setResultCount(n) {
+      const rc = $('resultCount');
+      if (typeof n === 'number') {
+        rc.textContent = `${n} result${n === 1 ? '' : 's'}`;
+        rc.style.display = 'inline-block';
+      } else {
+        rc.textContent = '';
+        rc.style.display = 'none';
+      }
+    }
+
+    async function search() {
+      const url = buildQuery();
+      const status = $('status');
+      status.textContent = 'Searching…';
+      try {
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        data = await res.json();
+        // If a sort is already selected, re-apply; otherwise default sort by name asc
+        if (sortState.col && sortState.dir) {
+          sortData(sortState.col, sortState.dir);
+        } else {
+          sortData('name', 'asc');
+        }
+        status.textContent = `${data.length} result(s)`;
+        setResultCount(data.length);
+      } catch (e) {
+        console.error(e);
+        data = [];
+        render();
+        status.textContent = 'Search failed: ' + e.message;
+        setResultCount(null);
+      }
+    }
+
+    function clearFilters() {
+      $('name').value = '';
+      $('year').value = '';
+      $('oscarsNominated').value = '';
+      $('oscarsWon').value = '';
+      data = [];
+      sortState = { col: null, dir: null };
+      $('tbody').innerHTML = '';
+      $('status').textContent = '';
+      updateActiveSortButtons();
+      setResultCount(null);
+    }
+
+    // Events
+    document.querySelectorAll('.sort-controls button').forEach(btn => {
+      btn.addEventListener('click', () => sortData(btn.dataset.col, btn.dataset.dir));
+    });
+    $('searchBtn').addEventListener('click', search);
+    $('clearBtn').addEventListener('click', clearFilters);
+
+    // Allow Enter to trigger search
+    ['name','year','oscarsNominated','oscarsWon'].forEach(id => {
+      $(id).addEventListener('keydown', (e) => { if (e.key === 'Enter') search(); });
+    });
+
+    // Optional: perform an initial load (empty filters fetches all if backend supports it)
+    // search();
+  </script>
+</body>
+</html>
