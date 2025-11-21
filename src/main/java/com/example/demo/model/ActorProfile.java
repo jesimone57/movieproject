@@ -35,4 +35,18 @@ public class ActorProfile {
     public boolean isInRange(Integer year) {
         return this.yearBorn != null && yearDied != null && year != null && year <= yearDied && year >= this.yearBorn;
     }
+
+    public Integer getCareerLengthInYears() {
+        if (yearBorn != null && yearDied != null && yearBorn < yearDied) {
+            return yearDied - yearBorn;
+        }
+        return null;
+    }
+
+    public Integer getAgeLengthInYears() {
+        if (yearOfFirstFilm != null && yearOfLastFilm != null && yearOfFirstFilm <= yearOfLastFilm) {
+            return yearOfLastFilm - yearOfFirstFilm;
+        }
+        return null;
+    }
 }
