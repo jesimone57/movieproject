@@ -8,9 +8,11 @@ import java.io.InputStream;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
+import java.util.Set;
 import java.util.stream.Stream;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
@@ -104,6 +106,7 @@ public class MovieService {
                         try (InputStream is2 = resource.getInputStream()) {
                             List<Movie> list = objectMapper.readValue(is2, new TypeReference<ArrayList<Movie>>() {});
                             if (list != null && !list.isEmpty()) {
+                                list = removeDuplicateMovies(list);
                                 this.movies.addAll(list);
                                 addedFileCount++;
                                 logger.info("\t" + addedFileCount + " added as multiple entries: " + resourceFileName);
@@ -134,6 +137,12 @@ public class MovieService {
         }
         return filterMovies(title, null, null, null, null, sort,
                 null, null, null, null);
+    }
+
+    public List<Movie> removeDuplicateMovies(List<Movie> movies) {
+        Set<Movie> uniqueMovies = new HashSet<>();
+        uniqueMovies.addAll(movies);
+        return new ArrayList<>(uniqueMovies);
     }
 
     /**

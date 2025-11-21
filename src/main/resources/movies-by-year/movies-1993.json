@@ -6,10 +6,10 @@
       "name": "Steven Spielberg",
       "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "Universal Pictures, Amblin Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 195,
-    "budget_usd_millions": 22,
+    "budget_usd_millions": 22.0,
     "gross_revenue_usd_millions": 322.2,
     "ratings": {
       "imdb": 9.0,
@@ -27,12 +27,12 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000553/"
       },
       {
-        "name": "Ralph Fiennes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000146/"
-      },
-      {
         "name": "Ben Kingsley",
         "imdb_person_url": "https://www.imdb.com/name/nm0001426/"
+      },
+      {
+        "name": "Ralph Fiennes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000146/"
       }
     ],
     "oscars_nominated": 12,
@@ -40,9 +40,9 @@
     "oscars_won_details": [
       "Best Picture",
       "Best Director",
-      "Best Adapted Screenplay",
+      "Best Screenplay Based on Material Previously Produced or Published",
       "Best Cinematography",
-      "Best Art Direction-Set Decoration",
+      "Best Art Direction",
       "Best Film Editing",
       "Best Original Score"
     ],
@@ -58,11 +58,11 @@
       "name": "Steven Spielberg",
       "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "Universal Pictures, Amblin Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 127,
-    "budget_usd_millions": 63,
-    "gross_revenue_usd_millions": 1109.8,
+    "budget_usd_millions": 63.0,
+    "gross_revenue_usd_millions": 1046.0,
     "ratings": {
       "imdb": 8.2,
       "rotten_tomatoes_critic": "92%",
@@ -94,10 +94,57 @@
       "Best Sound Effects Editing",
       "Best Visual Effects"
     ],
-    "description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "description": "A pragmatic paleontologist visiting an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0107290/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jurassic_park"
+  },
+  {
+    "title": "The Piano",
+    "year": 1993,
+    "director": {
+      "name": "Jane Campion",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001005/"
+    },
+    "production_studio": "CiBy 2000",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 40.2,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Holly Hunter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
+      },
+      {
+        "name": "Harvey Keitel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
+      },
+      {
+        "name": "Anna Paquin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000568/"
+      }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actress (Holly Hunter)",
+      "Best Supporting Actress (Anna Paquin)",
+      "Best Original Screenplay"
+    ],
+    "description": "In the mid-19th century, a mute woman is sent to New Zealand along with her young daughter and prized piano for an arranged marriage to a wealthy landowner, but is soon lusted after by a local worker on the plantation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107822/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/piano"
   },
   {
     "title": "Groundhog Day",
@@ -110,16 +157,16 @@
     "mpaa_rating": "PG",
     "runtime_minutes": 101,
     "budget_usd_millions": 14.6,
-    "gross_revenue_usd_millions": 105,
+    "gross_revenue_usd_millions": 105.0,
     "ratings": {
       "imdb": 8.0,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "94%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Comedy",
-      "Drama",
-      "Fantasy"
+      "Fantasy",
+      "Romance"
     ],
     "actors": [
       {
@@ -128,17 +175,17 @@
       },
       {
         "name": "Andie MacDowell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000510/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000513/"
       },
       {
         "name": "Chris Elliott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001183/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0254402/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A weatherman finds himself inexplicably living the same day over and over again.",
+    "description": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.",
     "afi_ranking": 34,
     "imdb_url": "https://www.imdb.com/title/tt0107048/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/groundhog_day"
@@ -148,12 +195,12 @@
     "year": 1993,
     "director": {
       "name": "Andrew Davis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001112/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0204136/"
     },
-    "production_studio": "Warner Bros., Kopelson Entertainment",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 130,
-    "budget_usd_millions": 44,
+    "budget_usd_millions": 44.0,
     "gross_revenue_usd_millions": 368.9,
     "ratings": {
       "imdb": 7.8,
@@ -182,29 +229,29 @@
     "oscars_nominated": 7,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Actor in a Supporting Role"
+      "Best Actor in a Supporting Role (Tommy Lee Jones)"
     ],
     "description": "Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0106977/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_fugitive"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1046129-fugitive"
   },
   {
     "title": "Philadelphia",
     "year": 1993,
     "director": {
       "name": "Jonathan Demme",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001129/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001130/"
     },
-    "production_studio": "TriStar Pictures, Clinica Estetico",
+    "production_studio": "TriStar Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 125,
-    "budget_usd_millions": 26,
+    "budget_usd_millions": 26.0,
     "gross_revenue_usd_millions": 206.7,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Drama"
@@ -220,14 +267,14 @@
       },
       {
         "name": "Roberta Maxwell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0561787/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0561799/"
       }
     ],
     "oscars_nominated": 5,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Actor in a Leading Role",
-      "Best Music, Original Song"
+      "Best Actor (Tom Hanks)",
+      "Best Original Song (Streets of Philadelphia)"
     ],
     "description": "When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small time lawyer as the only willing advocate for a wrongful dismissal suit.",
     "afi_ranking": 20,
@@ -235,52 +282,179 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/philadelphia"
   },
   {
-    "title": "The Piano",
+    "title": "The Nightmare Before Christmas",
     "year": 1993,
     "director": {
-      "name": "Jane Campion",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001005/"
+      "name": "Henry Selick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0783139/"
     },
-    "production_studio": "Jan Chapman Productions, CiBy 2000",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 40.2,
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 76,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 91.5,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
-      "Drama",
-      "Music",
-      "Romance"
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Musical"
     ],
     "actors": [
       {
-        "name": "Holly Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
+        "name": "Danny Elfman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000384/"
       },
       {
-        "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+        "name": "Chris Sarandon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001697/"
       },
       {
-        "name": "Sam Neill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000554/"
+        "name": "Catherine O'Hara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001573/"
       }
     ],
-    "oscars_nominated": 8,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role",
-      "Best Actress in a Supporting Role",
-      "Best Writing, Screenplay Written Directly for the Screen"
-    ],
-    "description": "In the mid-19th century, a mute woman is sent to New Zealand for an arranged marriage and finds herself in a turbulent relationship with a local man.",
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107822/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/piano"
+    "imdb_url": "https://www.imdb.com/title/tt0107688/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nightmare_before_christmas"
+  },
+  {
+    "title": "Dazed and Confused",
+    "year": 1993,
+    "director": {
+      "name": "Richard Linklater",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
+    },
+    "production_studio": "Gramercy Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 6.9,
+    "gross_revenue_usd_millions": 8.0,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Jason London",
+        "imdb_person_url": "https://www.imdb.com/name/nm0518714/"
+      },
+      {
+        "name": "Wiley Wiggins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0927759/"
+      },
+      {
+        "name": "Matthew McConaughey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000190/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The adventures of high school and junior high students on the last day of school in May 1976.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106677/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dazed_and_confused"
+  },
+  {
+    "title": "True Romance",
+    "year": 1993,
+    "director": {
+      "name": "Tony Scott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
+    },
+    "production_studio": "Morgan Creek",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 12.5,
+    "gross_revenue_usd_millions": 12.3,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Christian Slater",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000225/"
+      },
+      {
+        "name": "Patricia Arquette",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000096/"
+      },
+      {
+        "name": "Dennis Hopper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000454/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0108399/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/true_romance"
+  },
+  {
+    "title": "Tombstone",
+    "year": 1993,
+    "director": {
+      "name": "George P. Cosmatos",
+      "imdb_person_url": "https://www.imdb.com/name/nm0181899/"
+    },
+    "production_studio": "Hollywood Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 130,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 56.5,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Kurt Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
+      },
+      {
+        "name": "Val Kilmer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000174/"
+      },
+      {
+        "name": "Sam Elliott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000385/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A successful lawman's plans to retire anonymously in Tombstone, Arizona are disrupted by the kind of outlaws he was famous for eliminating.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0108358/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tombstone"
   },
   {
     "title": "Mrs. Doubtfire",
@@ -289,15 +463,15 @@
       "name": "Chris Columbus",
       "imdb_person_url": "https://www.imdb.com/name/nm0001060/"
     },
-    "production_studio": "20th Century Fox, Blue Wolf Productions",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 125,
-    "budget_usd_millions": 25,
+    "budget_usd_millions": 25.0,
     "gross_revenue_usd_millions": 441.3,
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "70%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
       "Comedy",
@@ -323,201 +497,27 @@
     "oscars_won_details": [
       "Best Makeup"
     ],
-    "description": "After a bitter divorce, an actor disguises himself as a female housekeeper to spend time with his children.",
+    "description": "After a bitter divorce, an actor disguises himself as a female housekeeper to spend time with his children held in custody by his former wife.",
     "afi_ranking": 67,
-    "imdb_url": "https://www.imdb.com/title/tt0107614/",
+    "imdb_url": "https://www.imdb.com/title/tt0107611/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mrs_doubtfire"
-  },
-  {
-    "title": "In the Name of the Father",
-    "year": 1993,
-    "director": {
-      "name": "Jim Sheridan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
-    },
-    "production_studio": "Universal Pictures, Hell's Kitchen Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 65.8,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "94%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Daniel Day-Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000358/"
-      },
-      {
-        "name": "Pete Postlethwaite",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000592/"
-      },
-      {
-        "name": "Emma Thompson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107207/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_the_name_of_the_father"
-  },
-  {
-    "title": "Dazed and Confused",
-    "year": 1993,
-    "director": {
-      "name": "Richard Linklater",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
-    },
-    "production_studio": "Gramercy Pictures, Alphaville Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 6.9,
-    "gross_revenue_usd_millions": 8,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Jason London",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005149/"
-      },
-      {
-        "name": "Wiley Wiggins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0927725/"
-      },
-      {
-        "name": "Matthew McConaughey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000190/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The adventures of a group of Texas high school students on the last day of school in 1976.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106677/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dazed_and_confused"
-  },
-  {
-    "title": "The Nightmare Before Christmas",
-    "year": 1993,
-    "director": {
-      "name": "Henry Selick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002203/"
-    },
-    "production_studio": "Touchstone Pictures, Skellington Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 76,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 91.5,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Animation",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Danny Elfman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000384/"
-      },
-      {
-        "name": "Chris Sarandon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001700/"
-      },
-      {
-        "name": "Catherine O'Hara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001573/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107688/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nightmare_before_christmas"
-  },
-  {
-    "title": "True Romance",
-    "year": 1993,
-    "director": {
-      "name": "Tony Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
-    },
-    "production_studio": "Morgan Creek Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 12.5,
-    "gross_revenue_usd_millions": 12.3,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Christian Slater",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000225/"
-      },
-      {
-        "name": "Patricia Arquette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000099/"
-      },
-      {
-        "name": "Dennis Hopper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001364/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108399/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/true_romance"
   },
   {
     "title": "Sleepless in Seattle",
     "year": 1993,
     "director": {
       "name": "Nora Ephron",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001185/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001187/"
     },
     "production_studio": "TriStar Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 105,
-    "budget_usd_millions": 21,
+    "budget_usd_millions": 21.0,
     "gross_revenue_usd_millions": 227.8,
     "ratings": {
       "imdb": 6.8,
       "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "74%"
     },
     "genres": [
       "Comedy",
@@ -535,7 +535,7 @@
       },
       {
         "name": "Ross Malinger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0539999/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0539635/"
       }
     ],
     "oscars_nominated": 2,
@@ -547,65 +547,61 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sleepless_in_seattle"
   },
   {
-    "title": "The Piano",
+    "title": "In the Name of the Father",
     "year": 1993,
     "director": {
-      "name": "Jane Campion",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001005/"
+      "name": "Jim Sheridan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0792193/"
     },
-    "production_studio": "Jan Chapman Productions, CiBy 2000",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 40.2,
+    "runtime_minutes": 133,
+    "budget_usd_millions": 13.0,
+    "gross_revenue_usd_millions": 65.8,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "95%"
     },
     "genres": [
-      "Drama",
-      "Music",
-      "Romance"
+      "Biography",
+      "Crime",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Holly Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
+        "name": "Daniel Day-Lewis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
       },
       {
-        "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+        "name": "Pete Postlethwaite",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000592/"
       },
       {
-        "name": "Sam Neill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000554/"
+        "name": "Emma Thompson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
       }
     ],
-    "oscars_nominated": 8,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role",
-      "Best Actress in a Supporting Role",
-      "Best Writing, Screenplay Written Directly for the Screen"
-    ],
-    "description": "In the mid-19th century, a mute woman is sent to New Zealand for an arranged marriage and finds herself in a turbulent relationship with a local man.",
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man's coerced confession to an IRA bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107822/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/piano"
+    "imdb_url": "https://www.imdb.com/title/tt0107207/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_the_name_of_the_father"
   },
   {
     "title": "What's Eating Gilbert Grape",
     "year": 1993,
     "director": {
       "name": "Lasse Hallström",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001311/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0002120/"
     },
-    "production_studio": "Paramount Pictures, Matalon Teper Ohlsson",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 118,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 10,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 10.0,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "90%",
@@ -625,7 +621,7 @@
       },
       {
         "name": "Juliette Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000496/"
       }
     ],
     "oscars_nominated": 1,
@@ -637,48 +633,91 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whats_eating_gilbert_grape"
   },
   {
-    "title": "In the Line of Fire",
+    "title": "Carlito's Way",
     "year": 1993,
     "director": {
-      "name": "Wolfgang Petersen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000583/"
+      "name": "Brian De Palma",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000361/"
     },
-    "production_studio": "Columbia Pictures, Castle Rock Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 187.3,
+    "runtime_minutes": 144,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 63.8,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
-      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Al Pacino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
+      },
+      {
+        "name": "Sean Penn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
+      },
+      {
+        "name": "Penelope Ann Miller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000543/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead a better life outside of NYC.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106519/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/carlitos_way"
+  },
+  {
+    "title": "A Bronx Tale",
+    "year": 1993,
+    "director": {
+      "name": "Robert De Niro",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
+    },
+    "production_studio": "Savoy Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 17.3,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
       "Crime",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Clint Eastwood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
       },
       {
-        "name": "John Malkovich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000518/"
+        "name": "Chazz Palminteri",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
       },
       {
-        "name": "Rene Russo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000623/"
+        "name": "Lillo Brancato",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000970/"
       }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A disgraced Secret Service agent gets a chance to redeem himself when a brilliant psychopath threatens to assassinate the President.",
+    "description": "A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107206/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_the_line_of_fire"
+    "imdb_url": "https://www.imdb.com/title/tt0106489/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bronx_tale"
   },
   {
     "title": "The Remains of the Day",
@@ -687,15 +726,15 @@
       "name": "James Ivory",
       "imdb_person_url": "https://www.imdb.com/name/nm0001391/"
     },
-    "production_studio": "Columbia Pictures, Merchant Ivory Productions",
+    "production_studio": "Merchant Ivory Productions",
     "mpaa_rating": "PG",
     "runtime_minutes": 134,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 63.9,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 63.2,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Drama",
@@ -711,105 +750,105 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
       },
       {
-        "name": "John Haycraft",
-        "imdb_person_url": "https://www.imdb.com/name/nm0370164/"
+        "name": "James Fox",
+        "imdb_person_url": "https://www.imdb.com/name/nm0289038/"
       }
     ],
     "oscars_nominated": 8,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A rule-bound head butler's world of manners and decorum in the years leading up to World War II is shaken by the arrival of a housekeeper.",
+    "description": "A butler who sacrificed body and soul to service in the years leading up to World War II realizes too late how misguided his loyalty was to his lordly employer.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0107943/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/remains_of_the_day"
   },
   {
-    "title": "Demolition Man",
+    "title": "The Age of Innocence",
     "year": 1993,
     "director": {
-      "name": "Marco Brambilla",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000969/"
+      "name": "Martin Scorsese",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
     },
-    "production_studio": "Warner Bros., Silver Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 57,
-    "gross_revenue_usd_millions": 159.1,
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 139,
+    "budget_usd_millions": 34.0,
+    "gross_revenue_usd_millions": 32.3,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Sylvester Stallone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
-      },
-      {
-        "name": "Wesley Snipes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000648/"
-      },
-      {
-        "name": "Sandra Bullock",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000113/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A police officer is brought out of suspended animation in a utopian future to pursue an old nemesis who is loose in a non-violent society.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106697/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/demolition_man"
-  },
-  {
-    "title": "The Firm",
-    "year": 1993,
-    "director": {
-      "name": "Sydney Pollack",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001628/"
-    },
-    "production_studio": "Paramount Pictures, Davis Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 154,
-    "budget_usd_millions": 42,
-    "gross_revenue_usd_millions": 270.2,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
       "Drama",
-      "Mystery",
-      "Thriller"
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+        "name": "Daniel Day-Lewis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
       },
       {
-        "name": "Jeanne Tripplehorn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000671/"
+        "name": "Michelle Pfeiffer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
       },
       {
-        "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
+        "name": "Winona Ryder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Costume Design"
+    ],
+    "description": "A tale of nineteenth-century New York high society in which a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106226/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/age_of_innocence"
+  },
+  {
+    "title": "Short Cuts",
+    "year": 1993,
+    "director": {
+      "name": "Robert Altman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
+    },
+    "production_studio": "Fine Line Features",
+    "mpaa_rating": "R",
+    "runtime_minutes": 187,
+    "budget_usd_millions": 22.0,
+    "gross_revenue_usd_millions": 6.1,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Andie MacDowell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000513/"
+      },
+      {
+        "name": "Julianne Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
+      },
+      {
+        "name": "Tim Robbins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
+      }
+    ],
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side.",
+    "description": "The day-to-day lives of several suburban Los Angeles residents blend and intertwine during the weeks leading up to a massive earthquake.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106918/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_firm"
+    "imdb_url": "https://www.imdb.com/title/tt0108122/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/short_cuts"
   },
   {
     "title": "Falling Down",
@@ -818,11 +857,11 @@
       "name": "Joel Schumacher",
       "imdb_person_url": "https://www.imdb.com/name/nm0001708/"
     },
-    "production_studio": "Warner Bros., Le Studio Canal+",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 113,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 96,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 40.9,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "75%",
@@ -850,114 +889,71 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An ordinary man frustrated with the various flaws he sees in society, begins to psychotically and violently lash out against them.",
+    "description": "An unemployed defense worker, frustrated with the various flaws he sees in modern society, begins to psychotically and violently lash out against them.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0106856/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/falling_down"
   },
   {
-    "title": "Tombstone",
+    "title": "Three Colors: Blue",
     "year": 1993,
     "director": {
-      "name": "George P. Cosmatos",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
+      "name": "Krzysztof Kieslowski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001425/"
     },
-    "production_studio": "Hollywood Pictures, Cinergi Pictures Entertainment",
+    "production_studio": "MK2 Productions",
     "mpaa_rating": "R",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 73.2,
+    "runtime_minutes": 98,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 1.3,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "94%"
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
-      "Action",
-      "Biography",
-      "Drama"
+      "Drama",
+      "Music",
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "Kurt Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
+        "name": "Juliette Binoche",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000300/"
       },
       {
-        "name": "Val Kilmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000174/"
+        "name": "Zbigniew Zamachowski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0952569/"
       },
       {
-        "name": "Sam Elliott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000385/"
+        "name": "Julie Delpy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000365/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A successful lawman's plans to retire anonymously in Tombstone, Arizona are upended when he and his brothers are challenged by a ruthless gang of outlaws.",
+    "description": "A woman struggles to find a way to live her life after the death of her husband and child.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108358/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tombstone"
+    "imdb_url": "https://www.imdb.com/title/tt0108394/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_colors_blue"
   },
   {
-    "title": "Short Cuts",
+    "title": "Menace II Society",
     "year": 1993,
     "director": {
-      "name": "Robert Altman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
+      "name": "The Hughes Brothers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0399650/"
     },
-    "production_studio": "Fine Line Features, Avenue Pictures",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "R",
-    "runtime_minutes": 188,
-    "budget_usd_millions": 10.7,
-    "gross_revenue_usd_millions": 6.1,
+    "runtime_minutes": 97,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 27.9,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Andie MacDowell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000510/"
-      },
-      {
-        "name": "Jack Lemmon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
-      },
-      {
-        "name": "Julianne Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The day-to-day lives of a number of suburban Los Angeles residents.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108122/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/short_cuts"
-  },
-  {
-    "title": "Carlito's Way",
-    "year": 1993,
-    "director": {
-      "name": "Brian De Palma",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000361/"
-    },
-    "production_studio": "Universal Pictures, Epic Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 144,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 63.8,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "92%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
       "Crime",
@@ -966,130 +962,349 @@
     ],
     "actors": [
       {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
+        "name": "Tyrin Turner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0877918/"
       },
       {
-        "name": "Sean Penn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
+        "name": "Larenz Tate",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005478/"
       },
       {
-        "name": "Penelope Ann Miller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001534/"
+        "name": "Samuel L. Jackson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000168/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Puerto Rican ex-con who has just been released from prison pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.",
+    "description": "A young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106519/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/carlitos_way"
+    "imdb_url": "https://www.imdb.com/title/tt0107554/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/menace_ii_society"
   },
   {
-    "title": "The Age of Innocence",
+    "title": "The Sandlot",
     "year": 1993,
     "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+      "name": "David Mickey Evans",
+      "imdb_person_url": "https://www.imdb.com/name/nm0262698/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 34,
-    "gross_revenue_usd_millions": 32.3,
+    "runtime_minutes": 101,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 34.3,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Tom Guiry",
+        "imdb_person_url": "https://www.imdb.com/name/nm0347509/"
+      },
+      {
+        "name": "Mike Vitar",
+        "imdb_person_url": "https://www.imdb.com/name/nm0899966/"
+      },
+      {
+        "name": "Patrick Renna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0719606/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0108037/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sandlot"
+  },
+  {
+    "title": "Hocus Pocus",
+    "year": 1993,
+    "director": {
+      "name": "Kenny Ortega",
+      "imdb_person_url": "https://www.imdb.com/name/nm0650942/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 28.0,
+    "gross_revenue_usd_millions": 49.6,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Bette Midler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000541/"
+      },
+      {
+        "name": "Sarah Jessica Parker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
+      },
+      {
+        "name": "Kathy Najimy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005262/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A curious youngster moves to Salem, where he struggles to fit in before awakening a trio of diabolical witches that were executed in the 17th century.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107120/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hocus_pocus"
+  },
+  {
+    "title": "Addams Family Values",
+    "year": 1993,
+    "director": {
+      "name": "Barry Sonnenfeld",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001756/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 47.0,
+    "gross_revenue_usd_millions": 48.9,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Anjelica Huston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001378/"
+      },
+      {
+        "name": "Raul Julia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000471/"
+      },
+      {
+        "name": "Christopher Lloyd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000502/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Addams Family try to rescue their beloved Uncle Fester from his gold-digging new love, a black widow named Debbie.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106220/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/addams_family_values"
+  },
+  {
+    "title": "Batman: Mask of the Phantasm",
+    "year": 1993,
+    "director": {
+      "name": "Eric Radomski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0705683/"
+    },
+    "production_studio": "Warner Bros. Animation",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 76,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 5.6,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Animation",
+      "Action",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Kevin Conroy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0175834/"
+      },
+      {
+        "name": "Dana Delany",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001127/"
+      },
+      {
+        "name": "Mark Hamill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000434/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Batman is wrongly implicated in a series of murders of mob bosses involving a new vigilante assassin.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106364/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/batman_mask_of_the_phantasm"
+  },
+  {
+    "title": "Demolition Man",
+    "year": 1993,
+    "director": {
+      "name": "Marco Brambilla",
+      "imdb_person_url": "https://www.imdb.com/name/nm0104196/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 57.0,
+    "gross_revenue_usd_millions": 159.1,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Sylvester Stallone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
+      },
+      {
+        "name": "Wesley Snipes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000227/"
+      },
+      {
+        "name": "Sandra Bullock",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000113/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A police officer is brought out of suspended animation in prison to pursue an old ultra-violent nemesis who is loose in a non-violent future society.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106697/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/demolition_man"
+  },
+  {
+    "title": "Cliffhanger",
+    "year": 1993,
+    "director": {
+      "name": "Renny Harlin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001317/"
+    },
+    "production_studio": "Carolco Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 70.0,
+    "gross_revenue_usd_millions": 255.0,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Sylvester Stallone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
+      },
+      {
+        "name": "John Lithgow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001475/"
+      },
+      {
+        "name": "Michael Rooker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0740264/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A botched mid-air heist results in suitcases full of cash being searched for by various groups throughout the Rocky Mountains.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106579/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cliffhanger"
+  },
+  {
+    "title": "The Firm",
+    "year": 1993,
+    "director": {
+      "name": "Sydney Pollack",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001628/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 154,
+    "budget_usd_millions": 42.0,
+    "gross_revenue_usd_millions": 270.2,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "63%"
     },
     "genres": [
       "Drama",
-      "Romance"
+      "Mystery",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Daniel Day-Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000358/"
+        "name": "Tom Cruise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
       },
       {
-        "name": "Michelle Pfeiffer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
+        "name": "Jeanne Tripplehorn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000676/"
       },
       {
-        "name": "Winona Ryder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
+        "name": "Gene Hackman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
       }
     ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Costume Design"
-    ],
-    "description": "A tale of 19th-century New York high society in which a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106226/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/age_of_innocence"
-  },
-  {
-    "title": "A Bronx Tale",
-    "year": 1993,
-    "director": {
-      "name": "Robert De Niro",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-    },
-    "production_studio": "TriBeCa Productions, Price Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 17.3,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Robert De Niro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-      },
-      {
-        "name": "Chazz Palminteri",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
-      },
-      {
-        "name": "Lillo Brancato",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000969/"
-      }
-    ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.",
+    "description": "A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106489/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_bronx_tale"
+    "imdb_url": "https://www.imdb.com/title/tt0106918/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/firm"
   },
   {
-    "title": "The Three Musketeers",
+    "title": "Last Action Hero",
     "year": 1993,
     "director": {
-      "name": "Stephen Herek",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001344/"
+      "name": "John McTiernan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001532/"
     },
-    "production_studio": "Walt Disney Pictures, Caravan Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 53.9,
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 130,
+    "budget_usd_millions": 85.0,
+    "gross_revenue_usd_millions": 137.3,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "31%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "47%"
     },
     "genres": [
       "Action",
@@ -1098,25 +1313,680 @@
     ],
     "actors": [
       {
-        "name": "Charlie Sheen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000221/"
+        "name": "Arnold Schwarzenegger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000216/"
       },
       {
-        "name": "Kiefer Sutherland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000662/"
+        "name": "F. Murray Abraham",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000719/"
       },
       {
-        "name": "Chris O'Donnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000563/"
+        "name": "Art Carney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0138727/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The three best of the disbanded Musketeers - Athos, Porthos, and Aramis - join a young hothead named D'Artagnan to stop Cardinal Richelieu's evil plot: to form an alliance with enemy England by way of the mysterious Milady.",
+    "description": "With the help of a magic ticket, a young film fan is transported into the fictional world of his favorite action film character.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108333/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1046048-three_musketeers"
+    "imdb_url": "https://www.imdb.com/title/tt0107362/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_action_hero"
+  },
+  {
+    "title": "Much Ado About Nothing",
+    "year": 1993,
+    "director": {
+      "name": "Kenneth Branagh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000110/"
+    },
+    "production_studio": "Renaissance Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 22.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Kenneth Branagh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000110/"
+      },
+      {
+        "name": "Emma Thompson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
+      },
+      {
+        "name": "Keanu Reeves",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Young lovers Hero and Claudio, soon to wed, conspire to get verbal sparring partners and confirmed singles Benedick and Beatrice to wed as well.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107616/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1044436-much_ado_about_nothing"
+  },
+  {
+    "title": "Searching for Bobby Fischer",
+    "year": 1993,
+    "director": {
+      "name": "Steven Zaillian",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001873/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 7.3,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Joe Mantegna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
+      },
+      {
+        "name": "Ben Kingsley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001426/"
+      },
+      {
+        "name": "Max Pomeranc",
+        "imdb_person_url": "https://www.imdb.com/name/nm0690070/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A prepubescent chess prodigy refuses to harden himself in order to become a champion like the famous but unlikable Bobby Fischer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0108065/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/searching_for_bobby_fischer"
+  },
+  {
+    "title": "Dave",
+    "year": 1993,
+    "director": {
+      "name": "Ivan Reitman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 28.0,
+    "gross_revenue_usd_millions": 63.3,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Kevin Kline",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000177/"
+      },
+      {
+        "name": "Sigourney Weaver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000244/"
+      },
+      {
+        "name": "Frank Langella",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001449/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An uncanny Presidential lookalike named Dave is recruited by the Secret Service to become a temporary stand-in for the President of the United States.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106668/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dave"
+  },
+  {
+    "title": "Six Degrees of Separation",
+    "year": 1993,
+    "director": {
+      "name": "Fred Schepisi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001703/"
+    },
+    "production_studio": "Maiden Movies",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 6.4,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Will Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
+      },
+      {
+        "name": "Stockard Channing",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000330/"
+      },
+      {
+        "name": "Donald Sutherland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An affluent New York couple finds their lives touched, intruded upon, and compelled by a mysterious young black man who is never quite who he says he is.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0108149/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/six_degrees_of_separation"
+  },
+  {
+    "title": "Farewell My Concubine",
+    "year": 1993,
+    "director": {
+      "name": "Kaige Chen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0155020/"
+    },
+    "production_studio": "Beijing Film Studio",
+    "mpaa_rating": "R",
+    "runtime_minutes": 171,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 5.2,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Leslie Cheung",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001041/"
+      },
+      {
+        "name": "Fengyi Zhang",
+        "imdb_person_url": "https://www.imdb.com/name/nm0955442/"
+      },
+      {
+        "name": "Gong Li",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000423/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two stars in a Beijing opera troupe and the woman who comes between them endure the political turmoil of 20th-century China.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106332/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/farewell_my_concubine"
+  },
+  {
+    "title": "Naked",
+    "year": 1993,
+    "director": {
+      "name": "Mike Leigh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005139/"
+    },
+    "production_studio": "Thin Man Films",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 131,
+    "budget_usd_millions": 2.4,
+    "gross_revenue_usd_millions": 1.8,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "David Thewlis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000667/"
+      },
+      {
+        "name": "Lesley Sharp",
+        "imdb_person_url": "https://www.imdb.com/name/nm0789143/"
+      },
+      {
+        "name": "Katrin Cartlidge",
+        "imdb_person_url": "https://www.imdb.com/name/nm0142138/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Johnny flees Manchester for London to avoid a beating from the family of a girl he has raped. There, he encounters a series of characters and situations that test his nihilistic worldview.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107653/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/naked"
+  },
+  {
+    "title": "Shadowlands",
+    "year": 1993,
+    "director": {
+      "name": "Richard Attenborough",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000277/"
+    },
+    "production_studio": "Savoy Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 131,
+    "budget_usd_millions": 22.0,
+    "gross_revenue_usd_millions": 25.8,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Anthony Hopkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
+      },
+      {
+        "name": "Debra Winger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+      },
+      {
+        "name": "Julian Fellowes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0271501/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "C.S. Lewis, a world-renowned Christian theologian, writer, and professor, leads a passionless life until he meets spirited poet Joy Gresham from the U.S.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0108101/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shadowlands"
+  },
+  {
+    "title": "The Joy Luck Club",
+    "year": 1993,
+    "director": {
+      "name": "Wayne Wang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002032/"
+    },
+    "production_studio": "Hollywood Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 139,
+    "budget_usd_millions": 10.5,
+    "gross_revenue_usd_millions": 32.9,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Tamlyn Tomita",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000674/"
+      },
+      {
+        "name": "Rosalind Chao",
+        "imdb_person_url": "https://www.imdb.com/name/nm0151969/"
+      },
+      {
+        "name": "Kieu Chinh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0157880/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The life histories of four Asian women and their daughters reflect and guide each other.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0107282/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/joy_luck_club"
+  },
+  {
+    "title": "Benny & Joon",
+    "year": 1993,
+    "director": {
+      "name": "Jeremiah S. Chechik",
+      "imdb_person_url": "https://www.imdb.com/name/nm0154819/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 23.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Johnny Depp",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
+      },
+      {
+        "name": "Mary Stuart Masterson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000524/"
+      },
+      {
+        "name": "Aidan Quinn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001644/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mentally ill young woman finds her love in an eccentric man who models himself after Buster Keaton.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106387/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/benny_and_joon"
+  },
+  {
+    "title": "Cronos",
+    "year": 1993,
+    "director": {
+      "name": "Guillermo del Toro",
+      "imdb_person_url": "https://www.imdb.com/name/nm0868219/"
+    },
+    "production_studio": "Producciones Iguana",
+    "mpaa_rating": "R",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 0.6,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Federico Luppi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0527009/"
+      },
+      {
+        "name": "Ron Perlman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000579/"
+      },
+      {
+        "name": "Claudio Brook",
+        "imdb_person_url": "https://www.imdb.com/name/nm0111623/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mysterious device designed to provide its owner with eternal life resurfaces after four hundred years, leaving a trail of destruction in its path.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104029/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cronos"
+  },
+  {
+    "title": "Rudy",
+    "year": 1993,
+    "director": {
+      "name": "David Anspaugh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000770/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 22.8,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Sean Astin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000276/"
+      },
+      {
+        "name": "Jon Favreau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0269463/"
+      },
+      {
+        "name": "Ned Beatty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000885/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Rudy has always been told that he was too small to play college football. But he is determined to overcome the odds and fulfill his dream of playing for Notre Dame.",
+    "afi_ranking": 54,
+    "imdb_url": "https://www.imdb.com/title/tt0108002/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rudy"
+  },
+  {
+    "title": "Cool Runnings",
+    "year": 1993,
+    "director": {
+      "name": "Jon Turteltaub",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005509/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 154.8,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "John Candy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001006/"
+      },
+      {
+        "name": "Leon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0502426/"
+      },
+      {
+        "name": "Doug E. Doug",
+        "imdb_person_url": "https://www.imdb.com/name/nm0234723/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican Bobsled Team.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106611/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cool_runnings"
+  },
+  {
+    "title": "The Secret Garden",
+    "year": 1993,
+    "director": {
+      "name": "Agnieszka Holland",
+      "imdb_person_url": "https://www.imdb.com/name/nm0390725/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "G",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 31.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Kate Maberly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531069/"
+      },
+      {
+        "name": "Maggie Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001749/"
+      },
+      {
+        "name": "Heydon Prowse",
+        "imdb_person_url": "https://www.imdb.com/name/nm0699109/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young British girl born and raised in India loses her neglectful parents in an earthquake. She is returned to England to live at her uncle's estate, where she discovers a hidden garden.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0108071/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1047785-secret_garden"
+  },
+  {
+    "title": "Dragon: The Bruce Lee Story",
+    "year": 1993,
+    "director": {
+      "name": "Rob Cohen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001057/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 63.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jason Scott Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000491/"
+      },
+      {
+        "name": "Lauren Holly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000452/"
+      },
+      {
+        "name": "Robert Wagner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001822/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dramatized biographical account of the life and career of the martial arts superstar Bruce Lee.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106770/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dragon_the_bruce_lee_story"
+  },
+  {
+    "title": "What's Love Got to Do with It",
+    "year": 1993,
+    "director": {
+      "name": "Brian Gibson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0316868/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 39.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Angela Bassett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000291/"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000401/"
+      },
+      {
+        "name": "Vanessa Bell Calloway",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004792/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of singer Tina Turner's rise to stardom and how she gained the courage to break free from her abusive husband, Ike Turner.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0108551/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whats_love_got_to_do_with_it"
   },
   {
     "title": "Grumpy Old Men",
@@ -1125,15 +1995,15 @@
       "name": "Donald Petrie",
       "imdb_person_url": "https://www.imdb.com/name/nm0677953/"
     },
-    "production_studio": "Warner Bros., John Davis",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 103,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 70.2,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 70.0,
     "ratings": {
-      "imdb": 6.9,
+      "imdb": 7.0,
       "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "72%"
     },
     "genres": [
       "Comedy",
@@ -1151,13 +2021,13 @@
       },
       {
         "name": "Ann-Margret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000767/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000268/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A lifelong feud between two neighbors since childhood only gets worse when a new female neighbor moves in across the street.",
+    "description": "A lifelong feud between two neighbors since childhood only gets worse when a new female neighbor moves across the street.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0107050/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grumpy_old_men"
@@ -1167,16 +2037,16 @@
     "year": 1993,
     "director": {
       "name": "Alan J. Pakula",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001587/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 141,
-    "budget_usd_millions": 45,
+    "budget_usd_millions": 45.0,
     "gross_revenue_usd_millions": 195.3,
     "ratings": {
       "imdb": 6.6,
-      "rotten_tomatoes_critic": "55%",
+      "rotten_tomatoes_critic": "53%",
       "rotten_tomatoes_popcorn": "61%"
     },
     "genres": [
@@ -1207,967 +2077,134 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pelican_brief"
   },
   {
-    "title": "Three Colors: Blue",
+    "title": "Manhattan Murder Mystery",
     "year": 1993,
     "director": {
-      "name": "Krzysztof Kieslowski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001425/"
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
     },
-    "production_studio": "MK2 Productions, CED Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 1.3,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Juliette Binoche",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000300/"
-      },
-      {
-        "name": "Benoît Régent",
-        "imdb_person_url": "https://www.imdb.com/name/nm0716259/"
-      },
-      {
-        "name": "Florence Pernel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0674681/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A woman struggles to find a new life for herself after the death of her husband and child.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108394/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_colors_blue"
-  },
-  {
-    "title": "What's Love Got to Do with It",
-    "year": 1993,
-    "director": {
-      "name": "Brian Gibson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0317112/"
-    },
-    "production_studio": "Touchstone Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 56,
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 13.5,
+    "gross_revenue_usd_millions": 11.3,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Angela Bassett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000291/"
-      },
-      {
-        "name": "Laurence Fishburne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000401/"
-      },
-      {
-        "name": "Rae'Ven Larrymore Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0446459/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of singer Tina Turner's rise to stardom and how she gained the courage to break free from her abusive husband, Ike Turner.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108551/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whats_love_got_to_do_with_it"
-  },
-  {
-    "title": "The Age of Innocence",
-    "year": 1993,
-    "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 34,
-    "gross_revenue_usd_millions": 32.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Daniel Day-Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000358/"
-      },
-      {
-        "name": "Michelle Pfeiffer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
-      },
-      {
-        "name": "Winona Ryder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Costume Design"
-    ],
-    "description": "A tale of 19th-century New York high society in which a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106226/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/age_of_innocence"
-  },
-  {
-    "title": "True Romance",
-    "year": 1993,
-    "director": {
-      "name": "Tony Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
-    },
-    "production_studio": "Morgan Creek Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 12.5,
-    "gross_revenue_usd_millions": 12.3,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Christian Slater",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000225/"
-      },
-      {
-        "name": "Patricia Arquette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000099/"
-      },
-      {
-        "name": "Dennis Hopper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001364/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108399/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/true_romance"
-  },
-  {
-    "title": "The Nightmare Before Christmas",
-    "year": 1993,
-    "director": {
-      "name": "Henry Selick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002203/"
-    },
-    "production_studio": "Touchstone Pictures, Skellington Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 76,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 91.5,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Animation",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Danny Elfman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000384/"
-      },
-      {
-        "name": "Chris Sarandon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001700/"
-      },
-      {
-        "name": "Catherine O'Hara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001573/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107688/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nightmare_before_christmas"
-  },
-  {
-    "title": "The Joy Luck Club",
-    "year": 1993,
-    "director": {
-      "name": "Wayne Wang",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001826/"
-    },
-    "production_studio": "Hollywood Pictures, American Zoetrope",
-    "mpaa_rating": "R",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 10.5,
-    "gross_revenue_usd_millions": 32.9,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tamlyn Tomita",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000674/"
-      },
-      {
-        "name": "Rosalind Chao",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001035/"
-      },
-      {
-        "name": "Kieu Chinh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0158229/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the relationships between a group of Chinese-American women and their Chinese immigrant mothers.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107282/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/joy_luck_club"
-  },
-  {
-    "title": "The Secret Garden",
-    "year": 1993,
-    "director": {
-      "name": "Agnieszka Holland",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001359/"
-    },
-    "production_studio": "Warner Bros., American Zoetrope",
-    "mpaa_rating": "G",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 31.2,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Kate Maberly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0531068/"
-      },
-      {
-        "name": "Maggie Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001749/"
-      },
-      {
-        "name": "Heydon Prowse",
-        "imdb_person_url": "https://www.imdb.com/name/nm0698948/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young girl who is sent to live with her uncle in a gloomy English mansion discovers a magical, hidden garden.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108071/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1045952-secret_garden"
-  },
-  {
-    "title": "What's Eating Gilbert Grape",
-    "year": 1993,
-    "director": {
-      "name": "Lasse Hallström",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001311/"
-    },
-    "production_studio": "Paramount Pictures, Matalon Teper Ohlsson",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 10,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Johnny Depp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
-      },
-      {
-        "name": "Leonardo DiCaprio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000138/"
-      },
-      {
-        "name": "Juliette Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young man in a small Midwestern town struggles to care for his mentally-disabled younger brother and morbidly obese mother while attempting to pursue his own happiness.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108550/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whats_eating_gilbert_grape"
-  },
-  {
-    "title": "A Bronx Tale",
-    "year": 1993,
-    "director": {
-      "name": "Robert De Niro",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-    },
-    "production_studio": "TriBeCa Productions, Price Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 17.3,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Robert De Niro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-      },
-      {
-        "name": "Chazz Palminteri",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
-      },
-      {
-        "name": "Lillo Brancato",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000969/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106489/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_bronx_tale"
-  },
-  {
-    "title": "The Sandlot",
-    "year": 1993,
-    "director": {
-      "name": "David Mickey Evans",
-      "imdb_person_url": "https://www.imdb.com/name/nm0262846/"
-    },
-    "production_studio": "20th Century Fox, Island World",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 33.8,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Comedy",
-      "Family",
-      "Sport"
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "Tom Guiry",
-        "imdb_person_url": "https://www.imdb.com/name/nm0347851/"
+        "name": "Woody Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
       },
       {
-        "name": "Mike Vitar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0900222/"
+        "name": "Diane Keaton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000473/"
       },
       {
-        "name": "Patrick Renna",
-        "imdb_person_url": "https://www.imdb.com/name/nm0719234/"
+        "name": "Jerry Adler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0012176/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.",
+    "description": "A middle-aged couple suspects foul play when their neighbor's wife dies suddenly.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108037/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_sandlot"
+    "imdb_url": "https://www.imdb.com/title/tt0107516/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/manhattan_murder_mystery"
   },
   {
-    "title": "In the Line of Fire",
+    "title": "The Wedding Banquet",
     "year": 1993,
     "director": {
-      "name": "Wolfgang Petersen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000583/"
+      "name": "Ang Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
     },
-    "production_studio": "Columbia Pictures, Castle Rock Entertainment",
+    "production_studio": "Central Motion Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 187.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Clint Eastwood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
-      },
-      {
-        "name": "John Malkovich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000518/"
-      },
-      {
-        "name": "Rene Russo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000623/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A disgraced Secret Service agent gets a chance to redeem himself when a brilliant psychopath threatens to assassinate the President.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107206/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_the_line_of_fire"
-  },
-  {
-    "title": "Tombstone",
-    "year": 1993,
-    "director": {
-      "name": "George P. Cosmatos",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
-    },
-    "production_studio": "Hollywood Pictures, Cinergi Pictures Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 73.2,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "94%"
-    },
-    "genres": [
-      "Action",
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Kurt Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
-      },
-      {
-        "name": "Val Kilmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000174/"
-      },
-      {
-        "name": "Sam Elliott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000385/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A successful lawman's plans to retire anonymously in Tombstone, Arizona are upended when he and his brothers are challenged by a ruthless gang of outlaws.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108358/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tombstone"
-  },
-  {
-    "title": "True Romance",
-    "year": 1993,
-    "director": {
-      "name": "Tony Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
-    },
-    "production_studio": "Morgan Creek Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 12.5,
-    "gross_revenue_usd_millions": 12.3,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Christian Slater",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000225/"
-      },
-      {
-        "name": "Patricia Arquette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000099/"
-      },
-      {
-        "name": "Dennis Hopper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001364/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108399/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/true_romance"
-  },
-  {
-    "title": "A Perfect World",
-    "year": 1993,
-    "director": {
-      "name": "Clint Eastwood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
-    },
-    "production_studio": "Warner Bros., Malpaso Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 138,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 135.2,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Kevin Costner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
-      },
-      {
-        "name": "Clint Eastwood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
-      },
-      {
-        "name": "Laura Dern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000368/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An escaped convict and his hostage, a young boy, are on the run from the law.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107808/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_perfect_world"
-  },
-  {
-    "title": "The Joy Luck Club",
-    "year": 1993,
-    "director": {
-      "name": "Wayne Wang",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001826/"
-    },
-    "production_studio": "Hollywood Pictures, American Zoetrope",
-    "mpaa_rating": "R",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 10.5,
-    "gross_revenue_usd_millions": 32.9,
+    "runtime_minutes": 106,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 23.6,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tamlyn Tomita",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000674/"
-      },
-      {
-        "name": "Rosalind Chao",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001035/"
-      },
-      {
-        "name": "Kieu Chinh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0158229/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the relationships between a group of Chinese-American women and their Chinese immigrant mothers.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107282/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/joy_luck_club"
-  },
-  {
-    "title": "The Remains of the Day",
-    "year": 1993,
-    "director": {
-      "name": "James Ivory",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001391/"
-    },
-    "production_studio": "Columbia Pictures, Merchant Ivory Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 63.9,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Anthony Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
-      },
-      {
-        "name": "Emma Thompson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
-      },
-      {
-        "name": "John Haycraft",
-        "imdb_person_url": "https://www.imdb.com/name/nm0370164/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A rule-bound head butler's world of manners and decorum in the years leading up to World War II is shaken by the arrival of a housekeeper.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107943/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/remains_of_the_day"
-  },
-  {
-    "title": "The Age of Innocence",
-    "year": 1993,
-    "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 34,
-    "gross_revenue_usd_millions": 32.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Daniel Day-Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000358/"
-      },
-      {
-        "name": "Michelle Pfeiffer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
-      },
-      {
-        "name": "Winona Ryder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Costume Design"
-    ],
-    "description": "A tale of 19th-century New York high society in which a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106226/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/age_of_innocence"
-  },
-  {
-    "title": "Shadowlands",
-    "year": 1993,
-    "director": {
-      "name": "Richard Attenborough",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000277/"
-    },
-    "production_studio": "Savoy Pictures, Price Entertainment",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 131,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 26,
-    "ratings": {
-      "imdb": 7.3,
       "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
-      "Biography",
+      "Comedy",
       "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Anthony Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
+        "name": "Winston Chao",
+        "imdb_person_url": "https://www.imdb.com/name/nm0152067/"
       },
       {
-        "name": "Debra Winger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
+        "name": "May Chin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0151960/"
       },
       {
-        "name": "Julian Fellowes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0271501/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the love affair between C.S. Lewis and the American poet Joy Davidman.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108101/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shadowlands"
-  },
-  {
-    "title": "The Nightmare Before Christmas",
-    "year": 1993,
-    "director": {
-      "name": "Henry Selick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002203/"
-    },
-    "production_studio": "Touchstone Pictures, Skellington Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 76,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 91.5,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Animation",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Danny Elfman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000384/"
-      },
-      {
-        "name": "Chris Sarandon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001700/"
-      },
-      {
-        "name": "Catherine O'Hara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001573/"
+        "name": "Mitchell Lichtenstein",
+        "imdb_person_url": "https://www.imdb.com/name/nm0509073/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
+    "description": "To satisfy his nagging parents, a gay landlord and a female tenant agree to a marriage of convenience, but his parents arrive to visit and things get out of hand.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107688/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nightmare_before_christmas"
+    "imdb_url": "https://www.imdb.com/title/tt0107156/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wedding_banquet"
   },
   {
-    "title": "Dazed and Confused",
+    "title": "Homeward Bound: The Incredible Journey",
     "year": 1993,
     "director": {
-      "name": "Richard Linklater",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
+      "name": "Duwayne Dunham",
+      "imdb_person_url": "https://www.imdb.com/name/nm0242261/"
     },
-    "production_studio": "Gramercy Pictures, Alphaville Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 6.9,
-    "gross_revenue_usd_millions": 8,
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 84,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 41.8,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "90%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "72%"
     },
     "genres": [
-      "Comedy"
+      "Adventure",
+      "Comedy",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Jason London",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005149/"
+        "name": "Michael J. Fox",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000153/"
       },
       {
-        "name": "Wiley Wiggins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0927725/"
+        "name": "Sally Field",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000398/"
       },
       {
-        "name": "Matthew McConaughey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000190/"
+        "name": "Don Ameche",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000746/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The adventures of a group of Texas high school students on the last day of school in 1976.",
+    "description": "Three pets escape from a California ranch to find their owners in San Francisco.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0106677/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dazed_and_confused"
-  },
-  {
-    "title": "Three Colors: Blue",
-    "year": 1993,
-    "director": {
-      "name": "Krzysztof Kieslowski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001425/"
-    },
-    "production_studio": "MK2 Productions, CED Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 1.3,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Juliette Binoche",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000300/"
-      },
-      {
-        "name": "Benoît Régent",
-        "imdb_person_url": "https://www.imdb.com/name/nm0716259/"
-      },
-      {
-        "name": "Florence Pernel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0674681/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A woman struggles to find a new life for herself after the death of her husband and child.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0108394/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_colors_blue"
-  },
-  {
-    "title": "The Piano",
-    "year": 1993,
-    "director": {
-      "name": "Jane Campion",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001005/"
-    },
-    "production_studio": "Jan Chapman Productions, CiBy 2000",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 40.2,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Holly Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
-      },
-      {
-        "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      },
-      {
-        "name": "Sam Neill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000554/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role",
-      "Best Actress in a Supporting Role",
-      "Best Writing, Screenplay Written Directly for the Screen"
-    ],
-    "description": "In the mid-19th century, a mute woman is sent to New Zealand for an arranged marriage and finds herself in a turbulent relationship with a local man.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0107822/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/piano"
+    "imdb_url": "https://www.imdb.com/title/tt0107131/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/homeward_bound_the_incredible_journey"
   }
 ]

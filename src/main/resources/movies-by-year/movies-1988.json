@@ -1,16 +1,111 @@
 [
   {
+    "title": "Rain Man",
+    "year": 1988,
+    "director": {
+      "name": "Barry Levinson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005144/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "R",
+    "runtime_minutes": 133,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 354.8,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Dustin Hoffman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
+      },
+      {
+        "name": "Tom Cruise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+      },
+      {
+        "name": "Valeria Golino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000420/"
+      }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor (Dustin Hoffman)",
+      "Best Original Screenplay"
+    ],
+    "description": "Selfish yuppie Charlie Babbitt's father dies and leaves a fortune to his institutionalized savant brother Raymond, whom Charlie didn't know existed.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095953/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rain_man"
+  },
+  {
+    "title": "Who Framed Roger Rabbit",
+    "year": 1988,
+    "director": {
+      "name": "Robert Zemeckis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 50.6,
+    "gross_revenue_usd_millions": 329.8,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Bob Hoskins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
+      },
+      {
+        "name": "Christopher Lloyd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000502/"
+      },
+      {
+        "name": "Joanna Cassidy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001024/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Film Editing",
+      "Best Sound Effects Editing",
+      "Best Visual Effects"
+    ],
+    "description": "A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0096438/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/who_framed_roger_rabbit"
+  },
+  {
     "title": "Die Hard",
     "year": 1988,
     "director": {
       "name": "John McTiernan",
       "imdb_person_url": "https://www.imdb.com/name/nm0001532/"
     },
-    "production_studio": "20th Century Fox, Gordon Company, Silver Pictures",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
     "runtime_minutes": 132,
-    "budget_usd_millions": 28,
-    "gross_revenue_usd_millions": 141.6,
+    "budget_usd_millions": 28.0,
+    "gross_revenue_usd_millions": 141.5,
     "ratings": {
       "imdb": 8.2,
       "rotten_tomatoes_critic": "94%",
@@ -31,200 +126,61 @@
       },
       {
         "name": "Bonnie Bedelia",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000889/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000896/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
     "description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
-    "afi_ranking": null,
+    "afi_ranking": 39,
     "imdb_url": "https://www.imdb.com/title/tt0095016/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/die_hard"
   },
   {
-    "title": "Rain Man",
+    "title": "A Fish Called Wanda",
     "year": 1988,
     "director": {
-      "name": "Barry Levinson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001469/"
+      "name": "Charles Crichton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0187800/"
     },
-    "production_studio": "United Artists, The Guber-Peters Company",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "R",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 354.8,
+    "runtime_minutes": 108,
+    "budget_usd_millions": 7.5,
+    "gross_revenue_usd_millions": 188.6,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "90%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
-      "Drama"
+      "Comedy",
+      "Crime"
     ],
     "actors": [
       {
-        "name": "Dustin Hoffman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
+        "name": "John Cleese",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
       },
       {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+        "name": "Jamie Lee Curtis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000130/"
       },
       {
-        "name": "Valeria Golino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000419/"
+        "name": "Kevin Kline",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000177/"
       }
     ],
-    "oscars_nominated": 8,
-    "oscars_won": 4,
+    "oscars_nominated": 3,
+    "oscars_won": 1,
     "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor in a Leading Role",
-      "Best Writing, Original Screenplay"
+      "Best Supporting Actor (Kevin Kline)"
     ],
-    "description": "Selfish yuppie Charlie Babbitt's father leaves a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.",
-    "afi_ranking": 63,
-    "imdb_url": "https://www.imdb.com/title/tt0095953/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rain_man"
-  },
-  {
-    "title": "Who Framed Roger Rabbit",
-    "year": 1988,
-    "director": {
-      "name": "Robert Zemeckis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
-    },
-    "production_studio": "Touchstone Pictures, Amblin Entertainment",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 329.8,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Bob Hoskins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000451/"
-      },
-      {
-        "name": "Christopher Lloyd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000502/"
-      },
-      {
-        "name": "Joanna Cassidy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001026/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Sound Effects Editing",
-      "Best Visual Effects",
-      "Best Film Editing",
-      "Special Achievement Award"
-    ],
-    "description": "A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0096438/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/who_framed_roger_rabbit"
-  },
-  {
-    "title": "Grave of the Fireflies",
-    "year": 1988,
-    "director": {
-      "name": "Isao Takahata",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005473/"
-    },
-    "production_studio": "Studio Ghibli",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 3.7,
-    "gross_revenue_usd_millions": 0.5,
-    "ratings": {
-      "imdb": 8.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "95%"
-    },
-    "genres": [
-      "Animation",
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Tsutomu Tatsumi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0851694/"
-      },
-      {
-        "name": "Ayano Shiraishi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0793753/"
-      },
-      {
-        "name": "Akemi Yamaguchi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0945440/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095327/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grave_of_the_fireflies"
-  },
-  {
-    "title": "Akira",
-    "year": 1988,
-    "director": {
-      "name": "Katsuhiro Ôtomo",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005286/"
-    },
-    "production_studio": "Toho, Akira Committee Company Ltd.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 49,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Animation",
-      "Action",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Mitsuo Iwata",
-        "imdb_person_url": "https://www.imdb.com/name/nm0412663/"
-      },
-      {
-        "name": "Nozomu Sasaki",
-        "imdb_person_url": "https://www.imdb.com/name/nm0765948/"
-      },
-      {
-        "name": "Mami Koyama",
-        "imdb_person_url": "https://www.imdb.com/name/nm0470342/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by a teenager, his gang of biker friends and a group of psychics.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094625/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/akira"
+    "description": "In London, four very different people team up to commit a jewelry heist, then try to double-cross one another for the loot.",
+    "afi_ranking": 21,
+    "imdb_url": "https://www.imdb.com/title/tt0095159/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fish_called_wanda"
   },
   {
     "title": "Big",
@@ -233,15 +189,15 @@
       "name": "Penny Marshall",
       "imdb_person_url": "https://www.imdb.com/name/nm0001508/"
     },
-    "production_studio": "20th Century Fox, Gracie Films",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG",
     "runtime_minutes": 104,
-    "budget_usd_millions": 18,
+    "budget_usd_millions": 18.0,
     "gross_revenue_usd_millions": 151.7,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Comedy",
@@ -259,106 +215,16 @@
       },
       {
         "name": "Robert Loggia",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001478/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.",
+    "description": "After wishing to be made big, a teenage boy wakes up the next morning to find himself mysteriously in the body of an adult.",
     "afi_ranking": 42,
     "imdb_url": "https://www.imdb.com/title/tt0094737/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big"
-  },
-  {
-    "title": "A Fish Called Wanda",
-    "year": 1988,
-    "director": {
-      "name": "Charles Crichton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001078/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer, Prominent Features",
-    "mpaa_rating": "R",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 7.5,
-    "gross_revenue_usd_millions": 62.5,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "John Cleese",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000092/"
-      },
-      {
-        "name": "Jamie Lee Curtis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000130/"
-      },
-      {
-        "name": "Kevin Kline",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000177/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role"
-    ],
-    "description": "In London, four very different people team up on a jewel heist, then try to double-cross one another for the loot.",
-    "afi_ranking": 21,
-    "imdb_url": "https://www.imdb.com/title/tt0095159/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fish_called_wanda"
-  },
-  {
-    "title": "Cinema Paradiso",
-    "year": 1988,
-    "director": {
-      "name": "Giuseppe Tornatore",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000673/"
-    },
-    "production_studio": "Cristaldifilm, Les Films Ariane",
-    "mpaa_rating": "R",
-    "runtime_minutes": 155,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 12.4,
-    "ratings": {
-      "imdb": 8.5,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "97%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Philippe Noiret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001571/"
-      },
-      {
-        "name": "Enzo Cannavale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0134293/"
-      },
-      {
-        "name": "Antonella Attili",
-        "imdb_person_url": "https://www.imdb.com/name/nm0040697/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "A filmmaker recalls his childhood when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095765/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cinema_paradiso"
   },
   {
     "title": "Dangerous Liaisons",
@@ -367,15 +233,15 @@
       "name": "Stephen Frears",
       "imdb_person_url": "https://www.imdb.com/name/nm0001241/"
     },
-    "production_studio": "Warner Bros., Lorimar Film Entertainment",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 119,
-    "budget_usd_millions": 14,
+    "budget_usd_millions": 14.0,
     "gross_revenue_usd_millions": 34.7,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Drama",
@@ -398,14 +264,103 @@
     "oscars_nominated": 7,
     "oscars_won": 3,
     "oscars_won_details": [
-      "Best Writing, Screenplay Based on Material from Another Medium",
-      "Best Art Direction-Set Decoration",
+      "Best Adapted Screenplay",
+      "Best Art Direction",
       "Best Costume Design"
     ],
-    "description": "In 18th century France, a Marquise and a Vicomte play a dangerous game of seduction and betrayal.",
+    "description": "A scheming widow and her manipulative ex-lover make a bet regarding the corruption of a recently married woman.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0094947/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dangerous_liaisons"
+  },
+  {
+    "title": "Mississippi Burning",
+    "year": 1988,
+    "director": {
+      "name": "Alan Parker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000570/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 34.6,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Gene Hackman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
+      },
+      {
+        "name": "Willem Dafoe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
+      },
+      {
+        "name": "Frances McDormand",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000530/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Cinematography"
+    ],
+    "description": "Two F.B.I. Agents with wildly different styles arrive in Mississippi to investigate the disappearance of some civil rights activists.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095647/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mississippi_burning"
+  },
+  {
+    "title": "The Naked Gun: From the Files of Police Squad!",
+    "year": 1988,
+    "director": {
+      "name": "David Zucker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001878/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 78.8,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Leslie Nielsen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000558/"
+      },
+      {
+        "name": "Priscilla Presley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001636/"
+      },
+      {
+        "name": "Ricardo Montalban",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001544/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Incompetent police detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095705/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/naked_gun_from_the_files_of_police_squad"
   },
   {
     "title": "Beetlejuice",
@@ -417,7 +372,7 @@
     "production_studio": "The Geffen Company",
     "mpaa_rating": "PG",
     "runtime_minutes": 92,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 74.2,
     "ratings": {
       "imdb": 7.5,
@@ -430,16 +385,16 @@
     ],
     "actors": [
       {
-        "name": "Michael Keaton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000474/"
-      },
-      {
         "name": "Alec Baldwin",
         "imdb_person_url": "https://www.imdb.com/name/nm0000285/"
       },
       {
         "name": "Geena Davis",
         "imdb_person_url": "https://www.imdb.com/name/nm0000133/"
+      },
+      {
+        "name": "Michael Keaton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000474/"
       }
     ],
     "oscars_nominated": 1,
@@ -453,67 +408,242 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beetlejuice"
   },
   {
-    "title": "Mississippi Burning",
+    "title": "Midnight Run",
     "year": 1988,
     "director": {
-      "name": "Alan Parker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000571/"
+      "name": "Martin Brest",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000976/"
     },
-    "production_studio": "Orion Pictures",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 34.6,
+    "runtime_minutes": 126,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 38.4,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "85%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
-      "Crime",
-      "Drama",
-      "History"
+      "Action",
+      "Comedy",
+      "Crime"
     ],
     "actors": [
       {
-        "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
       },
       {
-        "name": "Willem Dafoe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
+        "name": "Charles Grodin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001301/"
       },
       {
-        "name": "Frances McDormand",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000531/"
+        "name": "Yaphet Kotto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001433/"
       }
     ],
-    "oscars_nominated": 7,
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bounty hunter pursues a former Mafia accountant who is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095631/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/midnight_run"
+  },
+  {
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "director": {
+      "name": "Giuseppe Tornatore",
+      "imdb_person_url": "https://www.imdb.com/name/nm0868125/"
+    },
+    "production_studio": "Cristaldifilm",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 155,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 12.4,
+    "ratings": {
+      "imdb": 8.5,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "97%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Philippe Noiret",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001568/"
+      },
+      {
+        "name": "Enzo Cannavale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0134076/"
+      },
+      {
+        "name": "Antonella Attili",
+        "imdb_person_url": "https://www.imdb.com/name/nm0041013/"
+      }
+    ],
+    "oscars_nominated": 1,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Cinematography"
+      "Best Foreign Language Film"
     ],
-    "description": "Two F.B.I. Agents, with wildly different styles, arrive in Mississippi to investigate the disappearance of some civil rights activists.",
+    "description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095647/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mississippi_burning"
+    "imdb_url": "https://www.imdb.com/title/tt0095765/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cinema_paradiso"
+  },
+  {
+    "title": "Akira",
+    "year": 1988,
+    "director": {
+      "name": "Katsuhiro Ôtomo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0652945/"
+    },
+    "production_studio": "Tokyo Movie Shinsha",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 49.0,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Animation",
+      "Action",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Mitsuo Iwata",
+        "imdb_person_url": "https://www.imdb.com/name/nm0413319/"
+      },
+      {
+        "name": "Nozomu Sasaki",
+        "imdb_person_url": "https://www.imdb.com/name/nm0765822/"
+      },
+      {
+        "name": "Mami Koyama",
+        "imdb_person_url": "https://www.imdb.com/name/nm0468505/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be saved by two teenagers and a group of psychics.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094625/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/akira"
+  },
+  {
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "director": {
+      "name": "Isao Takahata",
+      "imdb_person_url": "https://www.imdb.com/name/nm0847223/"
+    },
+    "production_studio": "Studio Ghibli",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 3.7,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Tsutomu Tatsumi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0851320/"
+      },
+      {
+        "name": "Ayano Shiraishi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0794093/"
+      },
+      {
+        "name": "Akemi Yamaguchi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0945298/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095327/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grave_of_the_fireflies"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "director": {
+      "name": "Hayao Miyazaki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0594503/"
+    },
+    "production_studio": "Studio Ghibli",
+    "mpaa_rating": "G",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 3.7,
+    "gross_revenue_usd_millions": 30.5,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Chika Sakamoto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0765522/"
+      },
+      {
+        "name": "Noriko Hidaka",
+        "imdb_person_url": "https://www.imdb.com/name/nm0383001/"
+      },
+      {
+        "name": "Hitoshi Takagi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0847075/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0096283/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_neighbor_totoro"
   },
   {
     "title": "Heathers",
-    "year": 1989,
+    "year": 1988,
     "director": {
       "name": "Michael Lehmann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0005137/"
     },
-    "production_studio": "New World Pictures, Cinemarque Entertainment",
+    "production_studio": "New World Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 103,
-    "budget_usd_millions": 3,
+    "budget_usd_millions": 3.0,
     "gross_revenue_usd_millions": 1.1,
     "ratings": {
       "imdb": 7.2,
       "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "90%"
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Comedy",
@@ -530,7 +660,7 @@
       },
       {
         "name": "Shannen Doherty",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000371/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001147/"
       }
     ],
     "oscars_nominated": 0,
@@ -542,221 +672,47 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heathers"
   },
   {
-    "title": "Coming to America",
+    "title": "Women on the Verge of a Nervous Breakdown",
     "year": 1988,
     "director": {
-      "name": "John Landis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000484/"
+      "name": "Pedro Almodóvar",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
     },
-    "production_studio": "Paramount Pictures, Eddie Murphy Productions",
+    "production_studio": "El Deseo",
     "mpaa_rating": "R",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 36,
-    "gross_revenue_usd_millions": 288.8,
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 7.2,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "85%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Eddie Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000552/"
-      },
-      {
-        "name": "Arsenio Hall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001309/"
-      },
-      {
-        "name": "James Earl Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000469/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife that he can respect for her intelligence and will.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094898/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/coming_to_america"
-  },
-  {
-    "title": "The Naked Gun: From the Files of Police Squad!",
-    "year": 1988,
-    "director": {
-      "name": "David Zucker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001878/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 85,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 78.8,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Leslie Nielsen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000558/"
-      },
-      {
-        "name": "Priscilla Presley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001631/"
-      },
-      {
-        "name": "O.J. Simpson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001738/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Incompetent police Detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095705/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/naked_gun_from_the_files_of_police_squad"
-  },
-  {
-    "title": "Willow",
-    "year": 1988,
-    "director": {
-      "name": "Ron Howard",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
-    },
-    "production_studio": "Lucasfilm, Metro-Goldwyn-Mayer",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 57.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "53%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Val Kilmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000174/"
+        "name": "Carmen Maura",
+        "imdb_person_url": "https://www.imdb.com/name/nm0560945/"
       },
       {
-        "name": "Joanne Whalley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001844/"
+        "name": "Antonio Banderas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000104/"
       },
       {
-        "name": "Warwick Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001116/"
+        "name": "Julieta Serrano",
+        "imdb_person_url": "https://www.imdb.com/name/nm0785568/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young farmer is chosen to protect a special baby from an evil queen.",
+    "description": "A television actress encounters a variety of eccentric characters after embarking on a journey to discover why her lover abruptly left her.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0096446/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/willow"
-  },
-  {
-    "title": "Gorillas in the Mist",
-    "year": 1988,
-    "director": {
-      "name": "Michael Apted",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000776/"
-    },
-    "production_studio": "Universal Pictures, Warner Bros.",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 61.1,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Sigourney Weaver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000244/"
-      },
-      {
-        "name": "Bryan Brown",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000989/"
-      },
-      {
-        "name": "Julie Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of Dian Fossey, a scientist who came to Africa to study the vanishing mountain gorillas, and later fought to protect them.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095243/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gorillas_in_the_mist"
-  },
-  {
-    "title": "My Neighbor Totoro",
-    "year": 1988,
-    "director": {
-      "name": "Hayao Miyazaki",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005251/"
-    },
-    "production_studio": "Studio Ghibli",
-    "mpaa_rating": "G",
-    "runtime_minutes": 86,
-    "budget_usd_millions": 3.7,
-    "gross_revenue_usd_millions": 45,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "94%"
-    },
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Hitoshi Takagi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0847427/"
-      },
-      {
-        "name": "Noriko Hidaka",
-        "imdb_person_url": "https://www.imdb.com/name/nm0382023/"
-      },
-      {
-        "name": "Chika Sakamoto",
-        "imdb_person_url": "https://www.imdb.com/name/nm0757134/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0096283/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_neighbor_totoro"
+    "imdb_url": "https://www.imdb.com/title/tt0095675/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/women_on_the_verge_of_a_nervous_breakdown"
   },
   {
     "title": "The Last Temptation of Christ",
@@ -765,15 +721,15 @@
       "name": "Martin Scorsese",
       "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
     },
-    "production_studio": "Universal Pictures, Cineplex-Odeon Films",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 164,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 8.9,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 8.4,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Drama"
@@ -785,7 +741,7 @@
       },
       {
         "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
       },
       {
         "name": "Barbara Hershey",
@@ -798,70 +754,24 @@
     "description": "The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0095497/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_last_temptation_of_christ"
-  },
-  {
-    "title": "The Accidental Tourist",
-    "year": 1988,
-    "director": {
-      "name": "Lawrence Kasdan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001410/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 32.6,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "William Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
-      },
-      {
-        "name": "Kathleen Turner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000678/"
-      },
-      {
-        "name": "Geena Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000133/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role"
-    ],
-    "description": "A man who writes travel guides for people who hate to travel finds his life changed when he meets a quirky dog trainer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094622/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/accidental_tourist"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_temptation_of_christ"
   },
   {
     "title": "Bull Durham",
     "year": 1988,
     "director": {
       "name": "Ron Shelton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001732/"
     },
-    "production_studio": "The Mount Company",
+    "production_studio": "Orion Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 108,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 50.9,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 50.8,
     "ratings": {
-      "imdb": 7.0,
+      "imdb": 7.1,
       "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "82%"
     },
     "genres": [
       "Comedy",
@@ -879,160 +789,33 @@
       },
       {
         "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A fan of minor-league baseball has an affair with a young pitcher and a veteran catcher, and the three of them learn some lessons about life and love.",
+    "description": "A fan who has an affair with one minor-league baseball player each season meets an up-and-coming pitcher and the experienced catcher assigned to him.",
     "afi_ranking": 97,
-    "imdb_url": "https://www.imdb.com/title/tt0094812/",
+    "imdb_url": "https://www.imdb.com/title/tt0094813/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bull_durham"
-  },
-  {
-    "title": "A Cry in the Dark",
-    "year": 1988,
-    "director": {
-      "name": "Fred Schepisi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001700/"
-    },
-    "production_studio": "The Cannon Group, Golan-Globus Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 6.9,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Meryl Streep",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
-      },
-      {
-        "name": "Sam Neill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000554/"
-      },
-      {
-        "name": "Dale Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0716259/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of an Australian woman who was accused of murdering her baby daughter, and her long and arduous legal battle to prove her innocence.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094924/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_cry_in_the_dark"
-  },
-  {
-    "title": "The Last Temptation of Christ",
-    "year": 1988,
-    "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
-    },
-    "production_studio": "Universal Pictures, Cineplex-Odeon Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 164,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 8.9,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Willem Dafoe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
-      },
-      {
-        "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      },
-      {
-        "name": "Barbara Hershey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001347/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095497/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_last_temptation_of_christ"
-  },
-  {
-    "title": "Child's Play",
-    "year": 1988,
-    "director": {
-      "name": "Tom Holland",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001358/"
-    },
-    "production_studio": "United Artists",
-    "mpaa_rating": "R",
-    "runtime_minutes": 87,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 44.2,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Catherine Hicks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000448/"
-      },
-      {
-        "name": "Chris Sarandon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001700/"
-      },
-      {
-        "name": "Alex Vincent",
-        "imdb_person_url": "https://www.imdb.com/name/nm0898661/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A single mother gives her son a much sought-after doll for his birthday, only to discover that it is possessed by the soul of a serial killer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094862/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/childs_play"
   },
   {
     "title": "Working Girl",
     "year": 1988,
     "director": {
       "name": "Mike Nichols",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001569/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001566/"
     },
     "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
     "runtime_minutes": 113,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 103,
+    "budget_usd_millions": 28.0,
+    "gross_revenue_usd_millions": 103.0,
     "ratings": {
       "imdb": 6.8,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "72%"
     },
     "genres": [
       "Comedy",
@@ -1041,16 +824,16 @@
     ],
     "actors": [
       {
+        "name": "Melanie Griffith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000429/"
+      },
+      {
         "name": "Harrison Ford",
         "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
       },
       {
         "name": "Sigourney Weaver",
         "imdb_person_url": "https://www.imdb.com/name/nm0000244/"
-      },
-      {
-        "name": "Melanie Griffith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000426/"
       }
     ],
     "oscars_nominated": 6,
@@ -1059,9 +842,141 @@
       "Best Music, Original Song"
     ],
     "description": "When a secretary's idea is stolen by her boss, she seizes an opportunity to steal it back by pretending she has her boss's job.",
-    "afi_ranking": 91,
+    "afi_ranking": 87,
     "imdb_url": "https://www.imdb.com/title/tt0096463/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/working_girl"
+  },
+  {
+    "title": "The Accused",
+    "year": 1988,
+    "director": {
+      "name": "Jonathan Kaplan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0438281/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 32.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jodie Foster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
+      },
+      {
+        "name": "Kelly McGillis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000535/"
+      },
+      {
+        "name": "Bernie Coulson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0183440/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress (Jodie Foster)"
+    ],
+    "description": "After a young woman suffers a brutal gang rape in a bar, a prosecutor assists in bringing the perpetrators to justice, including the ones who cheered the attack on.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094608/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/accused"
+  },
+  {
+    "title": "Gorillas in the Mist",
+    "year": 1988,
+    "director": {
+      "name": "Michael Apted",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000776/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 129,
+    "budget_usd_millions": 22.0,
+    "gross_revenue_usd_millions": 61.1,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Sigourney Weaver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000244/"
+      },
+      {
+        "name": "Bryan Brown",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000986/"
+      },
+      {
+        "name": "Julie Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0364892/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of Dian Fossey, a scientist who came to Africa to study the vanishing mountain gorillas, and later fought to protect them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095243/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gorillas_in_the_mist"
+  },
+  {
+    "title": "They Live",
+    "year": 1988,
+    "director": {
+      "name": "John Carpenter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000118/"
+    },
+    "production_studio": "Alive Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 13.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Roddy Piper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0684929/"
+      },
+      {
+        "name": "Keith David",
+        "imdb_person_url": "https://www.imdb.com/name/nm0202966/"
+      },
+      {
+        "name": "Meg Foster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001236/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A drifter discovers a pair of sunglasses that let him wake up to the fact that aliens have taken over the Earth.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0096256/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/they_live"
   },
   {
     "title": "Coming to America",
@@ -1070,10 +985,10 @@
       "name": "John Landis",
       "imdb_person_url": "https://www.imdb.com/name/nm0000484/"
     },
-    "production_studio": "Paramount Pictures, Eddie Murphy Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 117,
-    "budget_usd_millions": 36,
+    "budget_usd_millions": 39.0,
     "gross_revenue_usd_millions": 288.8,
     "ratings": {
       "imdb": 7.1,
@@ -1091,7 +1006,7 @@
       },
       {
         "name": "Arsenio Hall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001309/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0004985/"
       },
       {
         "name": "James Earl Jones",
@@ -1107,65 +1022,65 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/coming_to_america"
   },
   {
-    "title": "The Land Before Time",
+    "title": "Willow",
     "year": 1988,
     "director": {
-      "name": "Don Bluth",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
+      "name": "Ron Howard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
     },
-    "production_studio": "Universal Pictures, Amblin Entertainment",
-    "mpaa_rating": "G",
-    "runtime_minutes": 69,
-    "budget_usd_millions": 12.5,
-    "gross_revenue_usd_millions": 84.5,
+    "production_studio": "Lucasfilm",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 57.3,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "52%",
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
-      "Animation",
+      "Action",
       "Adventure",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Pat Hingle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
+        "name": "Val Kilmer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000174/"
       },
       {
-        "name": "Gabriel Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0198904/"
+        "name": "Joanne Whalley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000696/"
       },
       {
-        "name": "Judith Barsi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0058279/"
+        "name": "Warwick Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001116/"
       }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An orphaned brontosaurus teams up with other young dinosaurs in order to reunite with their families in a valley.",
+    "description": "A reluctant dwarf must play the critical role of protecting a special baby from an evil queen to fulfill a prophecy.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095489/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/land_before_time"
+    "imdb_url": "https://www.imdb.com/title/tt0096446/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/willow"
   },
   {
     "title": "Scrooged",
     "year": 1988,
     "director": {
       "name": "Richard Donner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001152/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000373/"
     },
-    "production_studio": "Paramount Pictures, Mirage Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 101,
-    "budget_usd_millions": 32,
-    "gross_revenue_usd_millions": 100,
+    "budget_usd_millions": 32.0,
+    "gross_revenue_usd_millions": 60.3,
     "ratings": {
       "imdb": 6.9,
       "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "71%"
     },
     "genres": [
       "Comedy",
@@ -1179,474 +1094,209 @@
       },
       {
         "name": "Karen Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000261/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000737/"
       },
       {
         "name": "John Forsythe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001236/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002080/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A cynically selfish television executive is haunted by three spirits bearing lessons on Christmas Eve.",
+    "description": "A cynical television executive broadcasting a live production of 'A Christmas Carol' is visited by three ghosts on Christmas Eve.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0096061/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scrooged"
   },
   {
-    "title": "Running on Empty",
+    "title": "Twins",
     "year": 1988,
     "director": {
-      "name": "Sidney Lumet",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+      "name": "Ivan Reitman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
     },
-    "production_studio": "Lorimar Film Entertainment, Double Play",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 2.8,
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 216.6,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 6.0,
+      "rotten_tomatoes_critic": "43%",
+      "rotten_tomatoes_popcorn": "43%"
     },
     "genres": [
-      "Crime",
-      "Drama",
-      "Music"
+      "Comedy",
+      "Crime"
     ],
     "actors": [
       {
-        "name": "River Phoenix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000202/"
+        "name": "Arnold Schwarzenegger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000216/"
       },
       {
-        "name": "Christine Lahti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001442/"
+        "name": "Danny DeVito",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000362/"
       },
       {
-        "name": "Judd Hirsch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
+        "name": "Kelly Preston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000593/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The teenage son of two fugitives from the 1960s wants to have a normal life.",
+    "description": "A physically perfect but innocent man goes in search of his long-lost twin brother, who is a short small-time crook.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0096018/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/running_on_empty"
+    "imdb_url": "https://www.imdb.com/title/tt0096320/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1022191-twins"
   },
   {
-    "title": "The Accused",
+    "title": "Child's Play",
     "year": 1988,
     "director": {
-      "name": "Jonathan Kaplan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0438257/"
+      "name": "Tom Holland",
+      "imdb_person_url": "https://www.imdb.com/name/nm0390851/"
     },
-    "production_studio": "Paramount Pictures",
+    "production_studio": "United Artists",
     "mpaa_rating": "R",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 32.1,
+    "runtime_minutes": 87,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 44.2,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "91%",
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Catherine Hicks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0382837/"
+      },
+      {
+        "name": "Chris Sarandon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001697/"
+      },
+      {
+        "name": "Brad Dourif",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000373/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A single mother gives her son a much sought-after doll for his birthday, only to discover that it is possessed by the soul of a serial killer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094862/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/childs_play"
+  },
+  {
+    "title": "Young Guns",
+    "year": 1988,
+    "director": {
+      "name": "Christopher Cain",
+      "imdb_person_url": "https://www.imdb.com/name/nm0128925/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 45.7,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "40%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
-      "Crime",
-      "Drama"
+      "Action",
+      "Western"
     ],
     "actors": [
       {
-        "name": "Kelly McGillis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000534/"
+        "name": "Emilio Estevez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000389/"
       },
       {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
+        "name": "Kiefer Sutherland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000662/"
       },
       {
-        "name": "Bernie Coulson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0183359/"
+        "name": "Lou Diamond Phillips",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001617/"
       }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "A prosecutor helps a woman who was gang-raped in a bar to bring her attackers to justice.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094608/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/accused"
+    "imdb_url": "https://www.imdb.com/title/tt0096487/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/young_guns"
   },
   {
-    "title": "The Last Temptation of Christ",
+    "title": "Dirty Rotten Scoundrels",
     "year": 1988,
     "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+      "name": "Frank Oz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000568/"
     },
-    "production_studio": "Universal Pictures, Cineplex-Odeon Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 164,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 8.9,
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 42.0,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "82%",
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "89%",
       "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Willem Dafoe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
-      },
-      {
-        "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      },
-      {
-        "name": "Barbara Hershey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001347/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095497/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_last_temptation_of_christ"
-  },
-  {
-    "title": "Dead Ringers",
-    "year": 1988,
-    "director": {
-      "name": "David Cronenberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
-    },
-    "production_studio": "Morgan Creek Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 8,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Jeremy Irons",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000460/"
-      },
-      {
-        "name": "Geneviève Bujold",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000993/"
-      },
-      {
-        "name": "Heidi von Palleske",
-        "imdb_person_url": "https://www.imdb.com/name/nm0902263/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Twin gynecologists who are also identical twins take advantage of the fact that nobody can tell them apart, until their relationship begins to deteriorate over a woman.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094964/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_ringers"
-  },
-  {
-    "title": "The Vanishing",
-    "year": 1988,
-    "director": {
-      "name": "George Sluizer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0806229/"
-    },
-    "production_studio": "Golden Egg, Ingrid Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 107,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Bernard-Pierre Donnadieu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0232845/"
-      },
-      {
-        "name": "Gene Bervoets",
-        "imdb_person_url": "https://www.imdb.com/name/nm0078096/"
-      },
-      {
-        "name": "Johanna ter Steege",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001767/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man searches for his girlfriend, who mysteriously disappeared at a rest stop.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0096163/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1039824-vanishing"
-  },
-  {
-    "title": "The Last Temptation of Christ",
-    "year": 1988,
-    "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
-    },
-    "production_studio": "Universal Pictures, Cineplex-Odeon Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 164,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 8.9,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Willem Dafoe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
-      },
-      {
-        "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      },
-      {
-        "name": "Barbara Hershey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001347/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095497/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_last_temptation_of_christ"
-  },
-  {
-    "title": "Beaches",
-    "year": 1988,
-    "director": {
-      "name": "Garry Marshall",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005190/"
-    },
-    "production_studio": "Touchstone Pictures, Silver Screen Partners III",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 57,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "43%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
       "Comedy",
-      "Drama",
-      "Music"
+      "Crime"
     ],
     "actors": [
       {
-        "name": "Bette Midler",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000541/"
+        "name": "Steve Martin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000188/"
       },
       {
-        "name": "Barbara Hershey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001347/"
+        "name": "Michael Caine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
       },
       {
-        "name": "John Heard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001334/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the lifelong friendship between two women, one a successful singer and the other a wealthy but unhappy housewife.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094715/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beaches"
-  },
-  {
-    "title": "A World Apart",
-    "year": 1988,
-    "director": {
-      "name": "Chris Menges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002206/"
-    },
-    "production_studio": "British Screen Productions, Atlantic Entertainment Group",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 113,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1.7,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Barbara Hershey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001347/"
-      },
-      {
-        "name": "Jodhi May",
-        "imdb_person_url": "https://www.imdb.com/name/nm0562234/"
-      },
-      {
-        "name": "Jeroen Krabbé",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
+        "name": "Glenne Headly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001333/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of a young white girl in 1960s South Africa whose parents are anti-apartheid activists.",
+    "description": "Two con men try to settle their rivalry by betting on who can swindle a young American heiress out of fifty thousand dollars first.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0096464/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_world_apart"
-  },
-  {
-    "title": "The Accidental Tourist",
-    "year": 1988,
-    "director": {
-      "name": "Lawrence Kasdan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001410/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 32.6,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "William Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
-      },
-      {
-        "name": "Kathleen Turner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000678/"
-      },
-      {
-        "name": "Geena Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000133/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role"
-    ],
-    "description": "A man who writes travel guides for people who hate to travel finds his life changed when he meets a quirky dog trainer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094622/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/accidental_tourist"
-  },
-  {
-    "title": "Mystic Pizza",
-    "year": 1988,
-    "director": {
-      "name": "Donald Petrie",
-      "imdb_person_url": "https://www.imdb.com/name/nm0677953/"
-    },
-    "production_studio": "The Samuel Goldwyn Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 12.8,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Julia Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
-      },
-      {
-        "name": "Annabeth Gish",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001272/"
-      },
-      {
-        "name": "Lili Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000666/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Three teenage girls come of age while working at a pizza parlor in a seaside town in Connecticut.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095690/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mystic_pizza"
+    "imdb_url": "https://www.imdb.com/title/tt0095031/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dirty_rotten_scoundrels"
   },
   {
     "title": "The Land Before Time",
     "year": 1988,
     "director": {
       "name": "Don Bluth",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000950/"
     },
-    "production_studio": "Universal Pictures, Amblin Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "G",
     "runtime_minutes": 69,
     "budget_usd_millions": 12.5,
-    "gross_revenue_usd_millions": 84.5,
+    "gross_revenue_usd_millions": 84.4,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Animation",
@@ -1656,15 +1306,15 @@
     "actors": [
       {
         "name": "Pat Hingle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0385757/"
       },
       {
         "name": "Gabriel Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0198904/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0198895/"
       },
       {
-        "name": "Judith Barsi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0058279/"
+        "name": "Helen Shaver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0789533/"
       }
     ],
     "oscars_nominated": 0,
@@ -1676,90 +1326,529 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/land_before_time"
   },
   {
-    "title": "The Accused",
+    "title": "The Unbearable Lightness of Being",
     "year": 1988,
     "director": {
-      "name": "Jonathan Kaplan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0438257/"
+      "name": "Philip Kaufman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001412/"
     },
-    "production_studio": "Paramount Pictures",
+    "production_studio": "Orion Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 32.1,
+    "runtime_minutes": 171,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 10.0,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "91%",
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Daniel Day-Lewis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
+      },
+      {
+        "name": "Juliette Binoche",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000300/"
+      },
+      {
+        "name": "Lena Olin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000565/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1968 Prague, a Czech doctor with an active sex life meets a woman who wants monogamy, and then the Soviet invasion strikes.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0096332/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/unbearable_lightness_of_being"
+  },
+  {
+    "title": "Eight Men Out",
+    "year": 1988,
+    "director": {
+      "name": "John Sayles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000626/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 5.6,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "87%",
       "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "John Cusack",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000131/"
+      },
+      {
+        "name": "Clifton James",
+        "imdb_person_url": "https://www.imdb.com/name/nm0416397/"
+      },
+      {
+        "name": "Michael Lerner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0503645/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dramatization of the Black Sox scandal when the underpaid Chicago White Sox accepted bribes to deliberately lose the 1919 World Series.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095082/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eight_men_out"
+  },
+  {
+    "title": "Running on Empty",
+    "year": 1988,
+    "director": {
+      "name": "Sidney Lumet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+    },
+    "production_studio": "Lorimar Film Entertainment",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 116,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Crime",
-      "Drama"
+      "Drama",
+      "Music"
     ],
     "actors": [
       {
-        "name": "Kelly McGillis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000534/"
+        "name": "River Phoenix",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000203/"
       },
       {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
+        "name": "Christine Lahti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001440/"
       },
       {
-        "name": "Bernie Coulson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0183359/"
+        "name": "Judd Hirsch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002139/"
       }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "A prosecutor helps a woman who was gang-raped in a bar to bring her attackers to justice.",
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The eldest son of a fugitive family comes of age and wants to live his own life, but that would mean leaving his family forever.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094608/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/accused"
+    "imdb_url": "https://www.imdb.com/title/tt0096018/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/running_on_empty"
   },
   {
-    "title": "A Cry in the Dark",
+    "title": "Stand and Deliver",
     "year": 1988,
     "director": {
-      "name": "Fred Schepisi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001700/"
+      "name": "Ramón Menéndez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0579881/"
     },
-    "production_studio": "The Cannon Group, Golan-Globus Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 6.9,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 13.9,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
+      "Biography",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Meryl Streep",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
+        "name": "Edward James Olmos",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001579/"
       },
       {
-        "name": "Sam Neill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000554/"
+        "name": "Lou Diamond Phillips",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001617/"
       },
       {
-        "name": "Dale Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0716259/"
+        "name": "Rosanna DeSoto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0221453/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The true story of an Australian woman who was accused of murdering her baby daughter, and her long and arduous legal battle to prove her innocence.",
+    "description": "The story of Jaime Escalante, a high school teacher who successfully inspired his dropout prone students to learn calculus.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094924/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_cry_in_the_dark"
+    "imdb_url": "https://www.imdb.com/title/tt0094027/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stand_and_deliver"
+  },
+  {
+    "title": "Bird",
+    "year": 1988,
+    "director": {
+      "name": "Clint Eastwood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 161,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Forest Whitaker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
+      },
+      {
+        "name": "Diane Venora",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
+      },
+      {
+        "name": "Michael Zelniker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0954698/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Sound"
+    ],
+    "description": "The troubled life and career of jazz musician Charlie 'Bird' Parker.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094744/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bird"
+  },
+  {
+    "title": "Hairspray",
+    "year": 1988,
+    "director": {
+      "name": "John Waters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000691/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 8.3,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Sonny Bono",
+        "imdb_person_url": "https://www.imdb.com/name/nm0095133/"
+      },
+      {
+        "name": "Ricki Lake",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000482/"
+      },
+      {
+        "name": "Divine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001145/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A 'pleasantly plump' teenager teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095270/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hairspray"
+  },
+  {
+    "title": "Tucker: The Man and His Dream",
+    "year": 1988,
+    "director": {
+      "name": "Francis Ford Coppola",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000338/"
+    },
+    "production_studio": "Lucasfilm",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 24.0,
+    "gross_revenue_usd_millions": 19.7,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jeff Bridges",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
+      },
+      {
+        "name": "Joan Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
+      },
+      {
+        "name": "Martin Landau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001445/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of Preston Tucker, the maverick car designer and his ill-fated challenge to the auto industry with his revolutionary car concept.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0096316/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tucker_the_man_and_his_dream"
+  },
+  {
+    "title": "Dead Ringers",
+    "year": 1988,
+    "director": {
+      "name": "David Cronenberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
+    },
+    "production_studio": "Morgan Creek",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 13.0,
+    "gross_revenue_usd_millions": 8.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Jeremy Irons",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000460/"
+      },
+      {
+        "name": "Geneviève Bujold",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000990/"
+      },
+      {
+        "name": "Heidi von Palleske",
+        "imdb_person_url": "https://www.imdb.com/name/nm0902818/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Twin gynecologists take full advantage of the fact that nobody can tell them apart, until their relationship begins to deteriorate over a woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094964/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_ringers"
+  },
+  {
+    "title": "Mystic Pizza",
+    "year": 1988,
+    "director": {
+      "name": "Donald Petrie",
+      "imdb_person_url": "https://www.imdb.com/name/nm0677953/"
+    },
+    "production_studio": "Samuel Goldwyn Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 12.8,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Annabeth Gish",
+        "imdb_person_url": "https://www.imdb.com/name/nm0320386/"
+      },
+      {
+        "name": "Julia Roberts",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
+      },
+      {
+        "name": "Lili Taylor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000666/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three teenage girls come of age while working at a pizza parlor in the Connecticut town of Mystic.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095690/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mystic_pizza"
+  },
+  {
+    "title": "Killer Klowns from Outer Space",
+    "year": 1988,
+    "director": {
+      "name": "Stephen Chiodo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0157943/"
+    },
+    "production_studio": "Trans World Entertainment",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 43.0,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Grant Cramer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0186174/"
+      },
+      {
+        "name": "Suzanne Snyder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0811570/"
+      },
+      {
+        "name": "John Allen Nelson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0625460/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Aliens who look like clowns come from outer space and terrorize a small town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0095444/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/killer_klowns_from_outer_space"
+  },
+  {
+    "title": "Bloodsport",
+    "year": 1988,
+    "director": {
+      "name": "Newt Arnold",
+      "imdb_person_url": "https://www.imdb.com/name/nm0036593/"
+    },
+    "production_studio": "The Cannon Group",
+    "mpaa_rating": "R",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 2.3,
+    "gross_revenue_usd_millions": 50.0,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "46%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jean-Claude Van Damme",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000241/"
+      },
+      {
+        "name": "Donald Gibb",
+        "imdb_person_url": "https://www.imdb.com/name/nm0316459/"
+      },
+      {
+        "name": "Leah Ayres",
+        "imdb_person_url": "https://www.imdb.com/name/nm0044025/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Frank Dux, an American martial artist serving in the military, decides to leave the army to compete in a martial arts tournament in Hong Kong where fights to the death can occur.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094764/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bloodsport"
+  },
+  {
+    "title": "Colors",
+    "year": 1988,
+    "director": {
+      "name": "Dennis Hopper",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000454/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 46.6,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Sean Penn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
+      },
+      {
+        "name": "Robert Duvall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
+      },
+      {
+        "name": "Maria Conchita Alonso",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004701/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An experienced cop and his rookie partner patrol the streets of East Los Angeles while trying to keep the gang violence under control.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094894/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004528-colors"
   }
 ]

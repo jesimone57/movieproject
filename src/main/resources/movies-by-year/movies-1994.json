@@ -1,15 +1,57 @@
 [
   {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": {
+      "name": "Frank Darabont",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001104/"
+    },
+    "production_studio": "Castle Rock Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 142,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 28.3,
+    "ratings": {
+      "imdb": 9.3,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "98%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Tim Robbins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Morgan Freeman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
+      },
+      {
+        "name": "Bob Gunton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0348409/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "afi_ranking": 72,
+    "imdb_url": "https://www.imdb.com/title/tt0111161/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shawshank_redemption"
+  },
+  {
     "title": "Pulp Fiction",
     "year": 1994,
     "director": {
       "name": "Quentin Tarantino",
       "imdb_person_url": "https://www.imdb.com/name/nm0000233/"
     },
-    "production_studio": "Miramax, A Band Apart, Jersey Films",
+    "production_studio": "Miramax",
     "mpaa_rating": "R",
     "runtime_minutes": 154,
-    "budget_usd_millions": 8,
+    "budget_usd_millions": 8.0,
     "gross_revenue_usd_millions": 213.9,
     "ratings": {
       "imdb": 8.9,
@@ -37,7 +79,7 @@
     "oscars_nominated": 7,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Writing, Screenplay Written Directly for the Screen"
+      "Best Original Screenplay"
     ],
     "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
     "afi_ranking": 94,
@@ -51,11 +93,11 @@
       "name": "Robert Zemeckis",
       "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
     },
-    "production_studio": "Paramount Pictures, The Tisch Company",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 142,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 678.2,
+    "budget_usd_millions": 55.0,
+    "gross_revenue_usd_millions": 677.4,
     "ratings": {
       "imdb": 8.8,
       "rotten_tomatoes_critic": "71%",
@@ -72,7 +114,7 @@
       },
       {
         "name": "Robin Wright",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000705/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001865/"
       },
       {
         "name": "Gary Sinise",
@@ -84,69 +126,27 @@
     "oscars_won_details": [
       "Best Picture",
       "Best Director",
-      "Best Actor in a Leading Role",
-      "Best Writing, Screenplay Based on Material Previously Produced or Published",
+      "Best Actor (Tom Hanks)",
+      "Best Adapted Screenplay",
       "Best Film Editing",
-      "Best Effects, Visual Effects"
+      "Best Visual Effects"
     ],
-    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
     "afi_ranking": 76,
     "imdb_url": "https://www.imdb.com/title/tt0109830/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/forrest_gump"
   },
   {
-    "title": "The Shawshank Redemption",
-    "year": 1994,
-    "director": {
-      "name": "Frank Darabont",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001104/"
-    },
-    "production_studio": "Castle Rock Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 142,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 73.3,
-    "ratings": {
-      "imdb": 9.3,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "98%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      },
-      {
-        "name": "Morgan Freeman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
-      },
-      {
-        "name": "Bob Gunton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001303/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-    "afi_ranking": 72,
-    "imdb_url": "https://www.imdb.com/title/tt0111161/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shawshank_redemption"
-  },
-  {
     "title": "The Lion King",
     "year": 1994,
     "director": {
-      "name": "Roger Allers, Rob Minkoff",
-      "imdb_person_url": "https://www.imdb.com/name/nm0021295/"
+      "name": "Roger Allers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0021249/"
     },
     "production_studio": "Walt Disney Pictures",
     "mpaa_rating": "G",
     "runtime_minutes": 88,
-    "budget_usd_millions": 45,
+    "budget_usd_millions": 45.0,
     "gross_revenue_usd_millions": 968.5,
     "ratings": {
       "imdb": 8.5,
@@ -175,10 +175,10 @@
     "oscars_nominated": 4,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Music, Original Song",
-      "Best Music, Original Score"
+      "Best Original Score",
+      "Best Original Song (Can You Feel the Love Tonight)"
     ],
-    "description": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0110357/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lion_king"
@@ -190,11 +190,11 @@
       "name": "Luc Besson",
       "imdb_person_url": "https://www.imdb.com/name/nm0000108/"
     },
-    "production_studio": "Gaumont, Les Films du Dauphin",
+    "production_studio": "Gaumont",
     "mpaa_rating": "R",
     "runtime_minutes": 110,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 46.1,
+    "budget_usd_millions": 16.0,
+    "gross_revenue_usd_millions": 45.3,
     "ratings": {
       "imdb": 8.5,
       "rotten_tomatoes_critic": "74%",
@@ -207,7 +207,7 @@
     ],
     "actors": [
       {
-        "name": "Jean Reno",
+        "name": "Jean-Reno",
         "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
       },
       {
@@ -222,114 +222,26 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+    "description": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0110413/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/leon_the_professional"
-  },
-  {
-    "title": "Natural Born Killers",
-    "year": 1994,
-    "director": {
-      "name": "Oliver Stone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
-    },
-    "production_studio": "Warner Bros., Regency Enterprises",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 34,
-    "gross_revenue_usd_millions": 50.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "51%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Woody Harrelson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000437/"
-      },
-      {
-        "name": "Juliette Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
-      },
-      {
-        "name": "Tom Sizemore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001744/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110632/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/natural_born_killers"
-  },
-  {
-    "title": "Four Weddings and a Funeral",
-    "year": 1994,
-    "director": {
-      "name": "Mike Newell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001564/"
-    },
-    "production_studio": "Channel Four Films, PolyGram Filmed Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 4.4,
-    "gross_revenue_usd_millions": 245.7,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Hugh Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000424/"
-      },
-      {
-        "name": "Andie MacDowell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000510/"
-      },
-      {
-        "name": "James Fleet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0281412/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
-    "afi_ranking": 96,
-    "imdb_url": "https://www.imdb.com/title/tt0109831/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/four_weddings_and_a_funeral"
   },
   {
     "title": "Speed",
     "year": 1994,
     "director": {
       "name": "Jan de Bont",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001099/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000361/"
     },
     "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
     "runtime_minutes": 116,
-    "budget_usd_millions": 30,
+    "budget_usd_millions": 30.0,
     "gross_revenue_usd_millions": 350.4,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
@@ -343,12 +255,12 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
       },
       {
-        "name": "Dennis Hopper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001364/"
-      },
-      {
         "name": "Sandra Bullock",
         "imdb_person_url": "https://www.imdb.com/name/nm0000113/"
+      },
+      {
+        "name": "Dennis Hopper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000454/"
       }
     ],
     "oscars_nominated": 3,
@@ -360,223 +272,7 @@
     "description": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
     "afi_ranking": 99,
     "imdb_url": "https://www.imdb.com/title/tt0111257/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1054366-speed"
-  },
-  {
-    "title": "Dumb and Dumber",
-    "year": 1994,
-    "director": {
-      "name": "Peter Farrelly, Bobby Farrelly",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004904/"
-    },
-    "production_studio": "New Line Cinema, Motion Picture Corporation of America",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 247.3,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "68%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Jim Carrey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000120/"
-      },
-      {
-        "name": "Jeff Daniels",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001099/"
-      },
-      {
-        "name": "Lauren Holly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After a woman leaves a briefcase at the airport terminal, a dumb limo driver and his dumber friend set out on a hilarious cross-country road trip to Aspen to return it.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109686/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dumb_and_dumber"
-  },
-  {
-    "title": "True Lies",
-    "year": 1994,
-    "director": {
-      "name": "James Cameron",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000116/"
-    },
-    "production_studio": "Lightstorm Entertainment, 20th Century Fox",
-    "mpaa_rating": "R",
-    "runtime_minutes": 141,
-    "budget_usd_millions": 115,
-    "gross_revenue_usd_millions": 378.9,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Arnold Schwarzenegger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000216/"
-      },
-      {
-        "name": "Jamie Lee Curtis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000130/"
-      },
-      {
-        "name": "Tom Arnold",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000782/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used-car salesman while terrorists smuggle nuclear war heads into the United States.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0111503/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/true_lies"
-  },
-  {
-    "title": "The Crow",
-    "year": 1994,
-    "director": {
-      "name": "Alex Proyas",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
-    },
-    "production_studio": "Miramax, Crowvision Inc.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 23,
-    "gross_revenue_usd_millions": 94,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Brandon Lee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000488/"
-      },
-      {
-        "name": "Michael Wincott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001854/"
-      },
-      {
-        "name": "Rochelle Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0205220/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man brutally murdered comes back to life as an undead avenger of his and his fiancée's murder.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109506/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crow"
-  },
-  {
-    "title": "Clerks",
-    "year": 1994,
-    "director": {
-      "name": "Kevin Smith",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003620/"
-    },
-    "production_studio": "View Askew Productions, Miramax",
-    "mpaa_rating": "R",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 0.23,
-    "gross_revenue_usd_millions": 3.2,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Brian O'Halloran",
-        "imdb_person_url": "https://www.imdb.com/name/nm0641168/"
-      },
-      {
-        "name": "Jeff Anderson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0026942/"
-      },
-      {
-        "name": "Marilyn Ghigliotti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0315998/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109445/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/clerks"
-  },
-  {
-    "title": "Léon: The Professional",
-    "year": 1994,
-    "director": {
-      "name": "Luc Besson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000108/"
-    },
-    "production_studio": "Gaumont, Les Films du Dauphin",
-    "mpaa_rating": "R",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 46.1,
-    "ratings": {
-      "imdb": 8.5,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "95%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jean Reno",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
-      },
-      {
-        "name": "Gary Oldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
-      },
-      {
-        "name": "Natalie Portman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110413/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/leon_the_professional"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1052363-speed"
   },
   {
     "title": "Ed Wood",
@@ -588,12 +284,12 @@
     "production_studio": "Touchstone Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 127,
-    "budget_usd_millions": 18,
+    "budget_usd_millions": 18.0,
     "gross_revenue_usd_millions": 5.9,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Biography",
@@ -611,63 +307,63 @@
       },
       {
         "name": "Sarah Jessica Parker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000572/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Actor in a Supporting Role",
+      "Best Actor in a Supporting Role (Martin Landau)",
       "Best Makeup"
     ],
-    "description": "The story of the famously untalented director of 'Plan 9 from Outer Space' and his strange group of friends and collaborators.",
+    "description": "Ambitious but troubled movie director Edward D. Wood Jr. tries his best to fulfill his dreams, despite his lack of talent.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0109707/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ed_wood"
   },
   {
-    "title": "Hoop Dreams",
+    "title": "Four Weddings and a Funeral",
     "year": 1994,
     "director": {
-      "name": "Steve James",
-      "imdb_person_url": "https://www.imdb.com/name/nm0416972/"
+      "name": "Mike Newell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001565/"
     },
-    "production_studio": "Kartemquin Films, KTCA Minneapolis/St. Paul",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 170,
-    "budget_usd_millions": 0.7,
-    "gross_revenue_usd_millions": 11.8,
+    "production_studio": "PolyGram Filmed Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 4.4,
+    "gross_revenue_usd_millions": 245.7,
     "ratings": {
-      "imdb": 8.3,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "74%"
     },
     "genres": [
-      "Documentary",
+      "Comedy",
       "Drama",
-      "Sport"
+      "Romance"
     ],
     "actors": [
       {
-        "name": "William Gates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0309172/"
+        "name": "Hugh Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000157/"
       },
       {
-        "name": "Arthur Agee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0013095/"
+        "name": "Andie MacDowell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000513/"
       },
       {
-        "name": "Steve James",
-        "imdb_person_url": "https://www.imdb.com/name/nm0416972/"
+        "name": "James Fleet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0281424/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A film following the lives of two inner-city Chicago boys who struggle to become college basketball players on the road to going professional.",
+    "description": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110057/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hoop_dreams"
+    "imdb_url": "https://www.imdb.com/title/tt0109831/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/four_weddings_and_a_funeral"
   },
   {
     "title": "Quiz Show",
@@ -676,10 +372,10 @@
       "name": "Robert Redford",
       "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
     },
-    "production_studio": "Hollywood Pictures, Baltimore Pictures",
+    "production_studio": "Hollywood Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 133,
-    "budget_usd_millions": 31,
+    "budget_usd_millions": 31.0,
     "gross_revenue_usd_millions": 24.8,
     "ratings": {
       "imdb": 7.5,
@@ -702,16 +398,449 @@
       },
       {
         "name": "Rob Morrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005249/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001555/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young lawyer, Richard Goodwin, investigates a potentially fixed game show. Charles Van Doren, a big time contestant, is the focal point of the investigation.",
+    "description": "A young lawyer investigates a potentially rigged television quiz show in the 1950s, uncovering a scandal involving a charming contestant.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0110932/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quiz_show"
+  },
+  {
+    "title": "True Lies",
+    "year": 1994,
+    "director": {
+      "name": "James Cameron",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000116/"
+    },
+    "production_studio": "Lightstorm Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 141,
+    "budget_usd_millions": 115.0,
+    "gross_revenue_usd_millions": 378.9,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Arnold Schwarzenegger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000216/"
+      },
+      {
+        "name": "Jamie Lee Curtis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000130/"
+      },
+      {
+        "name": "Tom Arnold",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000790/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0111503/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/true_lies"
+  },
+  {
+    "title": "Clerks",
+    "year": 1994,
+    "director": {
+      "name": "Kevin Smith",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000027/"
+    },
+    "production_studio": "View Askew Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.027,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Brian O'Halloran",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641168/"
+      },
+      {
+        "name": "Jeff Anderson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0026867/"
+      },
+      {
+        "name": "Marilyn Ghigliotti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0315769/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109445/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/clerks"
+  },
+  {
+    "title": "Interview with the Vampire",
+    "year": 1994,
+    "director": {
+      "name": "Neil Jordan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
+    },
+    "production_studio": "Geffen Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 60.0,
+    "gross_revenue_usd_millions": 223.7,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Brad Pitt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
+      },
+      {
+        "name": "Tom Cruise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000392/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110148/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/interview_with_the_vampire"
+  },
+  {
+    "title": "Natural Born Killers",
+    "year": 1994,
+    "director": {
+      "name": "Oliver Stone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 34.0,
+    "gross_revenue_usd_millions": 50.3,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "48%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Woody Harrelson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000437/"
+      },
+      {
+        "name": "Juliette Lewis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000496/"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000375/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110632/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/natural_born_killers"
+  },
+  {
+    "title": "The Crow",
+    "year": 1994,
+    "director": {
+      "name": "Alex Proyas",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 23.0,
+    "gross_revenue_usd_millions": 94.0,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Brandon Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000488/"
+      },
+      {
+        "name": "Michael Wincott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000699/"
+      },
+      {
+        "name": "Ernie Hudson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001368/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man brutally murdered comes back to life as an undead avenger of his and his fiancée's murder.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109506/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crow"
+  },
+  {
+    "title": "Dumb and Dumber",
+    "year": 1994,
+    "director": {
+      "name": "Peter Farrelly",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004912/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 247.3,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "68%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Jim Carrey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000120/"
+      },
+      {
+        "name": "Jeff Daniels",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001099/"
+      },
+      {
+        "name": "Lauren Holly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000452/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The cross-country adventures of two good-hearted but incredibly stupid friends.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109686/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dumb_and_dumber"
+  },
+  {
+    "title": "The Mask",
+    "year": 1994,
+    "director": {
+      "name": "Chuck Russell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0751080/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 23.0,
+    "gross_revenue_usd_millions": 351.6,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Jim Carrey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000120/"
+      },
+      {
+        "name": "Cameron Diaz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000139/"
+      },
+      {
+        "name": "Peter Riegert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0726160/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110475/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1055627-mask"
+  },
+  {
+    "title": "Ace Ventura: Pet Detective",
+    "year": 1994,
+    "director": {
+      "name": "Tom Shadyac",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001726/"
+    },
+    "production_studio": "Morgan Creek Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 107.2,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "48%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Jim Carrey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000120/"
+      },
+      {
+        "name": "Courteney Cox",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001073/"
+      },
+      {
+        "name": "Sean Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000707/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109036/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ace_ventura_pet_detective"
+  },
+  {
+    "title": "Heavenly Creatures",
+    "year": 1994,
+    "director": {
+      "name": "Peter Jackson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
+    },
+    "production_studio": "WingNut Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 5.4,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Melanie Lynskey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001491/"
+      },
+      {
+        "name": "Kate Winslet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000701/"
+      },
+      {
+        "name": "Sarah Peirse",
+        "imdb_person_url": "https://www.imdb.com/name/nm0670653/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two teenage friends share an obsessive fantasy life that leads them to commit a desperate crime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110005/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heavenly_creatures"
+  },
+  {
+    "title": "Chungking Express",
+    "year": 1994,
+    "director": {
+      "name": "Wong Kar-Wai",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939182/"
+    },
+    "production_studio": "Jet Tone Production",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.6,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Brigitte Lin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0510894/"
+      },
+      {
+        "name": "Takeshi Kaneshiro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0437580/"
+      },
+      {
+        "name": "Tony Leung Chiu-wai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0496187/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two melancholy Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109424/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chungking_express"
   },
   {
     "title": "Three Colors: Red",
@@ -720,15 +849,15 @@
       "name": "Krzysztof Kieslowski",
       "imdb_person_url": "https://www.imdb.com/name/nm0001425/"
     },
-    "production_studio": "MK2 Productions, France 3 Cinéma",
+    "production_studio": "MK2 Productions",
     "mpaa_rating": "R",
     "runtime_minutes": 99,
     "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 4,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
+      "rotten_tomatoes_popcorn": "94%"
     },
     "genres": [
       "Drama",
@@ -738,24 +867,160 @@
     "actors": [
       {
         "name": "Irène Jacob",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000462/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001396/"
       },
       {
         "name": "Jean-Louis Trintignant",
         "imdb_person_url": "https://www.imdb.com/name/nm0001802/"
       },
       {
-        "name": "Frédérique Feder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0270471/"
+        "name": "Jean-Pierre Lorit",
+        "imdb_person_url": "https://www.imdb.com/name/nm0520793/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A model discovers her neighbor is a retired judge who spies on his neighbors' phone calls.",
+    "description": "A model discovers that her neighbor is keen on invading people's privacy.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0111495/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_colors_red"
+  },
+  {
+    "title": "Little Women",
+    "year": 1994,
+    "director": {
+      "name": "Gillian Armstrong",
+      "imdb_person_url": "https://www.imdb.com/name/nm0035703/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 50.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Winona Ryder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
+      },
+      {
+        "name": "Gabriel Byrne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000321/"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000392/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The March sisters live and grow in post-Civil War America.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110367/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1059634-little_women"
+  },
+  {
+    "title": "Legends of the Fall",
+    "year": 1994,
+    "director": {
+      "name": "Edward Zwick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 133,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 160.6,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "59%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Brad Pitt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
+      },
+      {
+        "name": "Anthony Hopkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
+      },
+      {
+        "name": "Aidan Quinn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001644/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Cinematography"
+    ],
+    "description": "In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110322/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/legends_of_the_fall"
+  },
+  {
+    "title": "The Madness of King George",
+    "year": 1994,
+    "director": {
+      "name": "Nicholas Hytner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0405333/"
+    },
+    "production_studio": "Samuel Goldwyn Company",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 15.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Nigel Hawthorne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001330/"
+      },
+      {
+        "name": "Helen Mirren",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000545/"
+      },
+      {
+        "name": "Ian Holm",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Art Direction"
+    ],
+    "description": "The aging King George III of England exhibits signs of madness, a problem little understood in 1788. As the monarch alternates between bouts of confusion and violent outbursts of temper, his hapless doctors attempt the ineffectual cures of the time.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110428/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/madness_of_king_george"
   },
   {
     "title": "Bullets Over Broadway",
@@ -764,15 +1029,15 @@
       "name": "Woody Allen",
       "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
     },
-    "production_studio": "Sweetland Films, Jean Doumanian Productions",
+    "production_studio": "Miramax",
     "mpaa_rating": "R",
     "runtime_minutes": 98,
-    "budget_usd_millions": 20,
+    "budget_usd_millions": 20.0,
     "gross_revenue_usd_millions": 13.4,
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Comedy",
@@ -795,135 +1060,90 @@
     "oscars_nominated": 7,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Actress in a Supporting Role"
+      "Best Supporting Actress (Dianne Wiest)"
     ],
-    "description": "In 1920s New York, a struggling playwright is forced to cast a mobster's talentless girlfriend in his latest play in order to get it produced.",
+    "description": "In 1928 New York, a struggling playwright is forced to cast a mobster's talentless girlfriend in his latest drama in order to get it produced.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0109348/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bullets_over_broadway"
   },
   {
-    "title": "The Crow",
+    "title": "Hoop Dreams",
     "year": 1994,
     "director": {
-      "name": "Alex Proyas",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
+      "name": "Steve James",
+      "imdb_person_url": "https://www.imdb.com/name/nm0416942/"
     },
-    "production_studio": "Miramax, Crowvision Inc.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 23,
-    "gross_revenue_usd_millions": 94,
+    "production_studio": "Kartemquin Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 170,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 11.8,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "90%"
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
-      "Action",
+      "Documentary",
       "Drama",
-      "Fantasy"
+      "Sport"
     ],
     "actors": [
       {
-        "name": "Brandon Lee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000488/"
+        "name": "William Gates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0309628/"
       },
       {
-        "name": "Michael Wincott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001854/"
+        "name": "Arthur Agee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0012929/"
       },
       {
-        "name": "Rochelle Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0205220/"
+        "name": "Emma Gates",
+        "imdb_person_url": "https://www.imdb.com/name/nm2406049/"
       }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A man brutally murdered comes back to life as an undead avenger of his and his fiancée's murder.",
+    "description": "A film following the lives of two inner-city Chicago boys who struggle to become college basketball players on the road to going professional.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109506/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crow"
-  },
-  {
-    "title": "Little Women",
-    "year": 1994,
-    "director": {
-      "name": "Gillian Armstrong",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000782/"
-    },
-    "production_studio": "Columbia Pictures, Di Novi Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 50.1,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama",
-      "Family",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Winona Ryder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
-      },
-      {
-        "name": "Gabriel Byrne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000321/"
-      },
-      {
-        "name": "Trini Alvarado",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000755/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The March sisters live and grow in post-Civil War America.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110367/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1060773-little_women"
+    "imdb_url": "https://www.imdb.com/title/tt0110057/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hoop_dreams"
   },
   {
     "title": "The Adventures of Priscilla, Queen of the Desert",
     "year": 1994,
     "director": {
       "name": "Stephan Elliott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0254261/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0254622/"
     },
-    "production_studio": "PolyGram Filmed Entertainment, Australian Film Finance Corporation (AFFC)",
+    "production_studio": "Latent Image",
     "mpaa_rating": "R",
     "runtime_minutes": 104,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 11.2,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 29.7,
     "ratings": {
-      "imdb": 7.4,
+      "imdb": 7.5,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Comedy",
-      "Drama",
       "Music"
     ],
     "actors": [
       {
-        "name": "Terence Stamp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000648/"
-      },
-      {
         "name": "Hugo Weaving",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001834/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0915989/"
       },
       {
         "name": "Guy Pearce",
         "imdb_person_url": "https://www.imdb.com/name/nm0001602/"
+      },
+      {
+        "name": "Terence Stamp",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000654/"
       }
     ],
     "oscars_nominated": 1,
@@ -931,246 +1151,27 @@
     "oscars_won_details": [
       "Best Costume Design"
     ],
-    "description": "Two drag queens and a transgender woman travel across the desert to perform their unique style of cabaret.",
+    "description": "Two drag queens and a transgender woman contract to perform a drag show at a resort in Alice Springs, a resort town in the remote Australian desert.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0109045/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/adventures_of_priscilla_queen_of_the_desert"
   },
   {
-    "title": "The Hudsucker Proxy",
-    "year": 1994,
-    "director": {
-      "name": "Joel Coen, Ethan Coen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
-    },
-    "production_studio": "Warner Bros., Silver Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 2.8,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "61%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      },
-      {
-        "name": "Jennifer Jason Leigh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
-      },
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A naive mailroom clerk is made the president of a manufacturing company as part of a stock scam.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110074/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hudsucker_proxy"
-  },
-  {
-    "title": "The Madness of King George",
-    "year": 1994,
-    "director": {
-      "name": "Nicholas Hytner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001382/"
-    },
-    "production_studio": "The Samuel Goldwyn Company, Channel Four Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 110,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 15.2,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Nigel Hawthorne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001329/"
-      },
-      {
-        "name": "Helen Mirren",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000545/"
-      },
-      {
-        "name": "Ian Holm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Art Direction-Set Decoration"
-    ],
-    "description": "The story of King George III's slide into insanity, and the political and familial turmoil that ensued.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110428/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/madness_of_king_george"
-  },
-  {
-    "title": "Nobody's Fool",
-    "year": 1994,
-    "director": {
-      "name": "Robert Benton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000914/"
-    },
-    "production_studio": "Paramount Pictures, Scott Rudin Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 39.5,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Jessica Tandy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001788/"
-      },
-      {
-        "name": "Bruce Willis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An aging ne'er-do-well in a small New York town tries to reconnect with his estranged son and grandson.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110684/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nobodys_fool"
-  },
-  {
-    "title": "Immortal Beloved",
-    "year": 1994,
-    "director": {
-      "name": "Bernard Rose",
-      "imdb_person_url": "https://www.imdb.com/name/nm0742211/"
-    },
-    "production_studio": "Icon Entertainment International, Majestic Films International",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 9.9,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "57%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Gary Oldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
-      },
-      {
-        "name": "Jeroen Krabbé",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
-      },
-      {
-        "name": "Isabella Rossellini",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000618/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The life and loves of the great composer Ludwig van Beethoven, as seen through the eyes of his secretary and biographer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110116/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/immortal_beloved"
-  },
-  {
-    "title": "Nell",
-    "year": 1994,
-    "director": {
-      "name": "Michael Apted",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000776/"
-    },
-    "production_studio": "20th Century Fox, Egg Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 24.5,
-    "gross_revenue_usd_millions": 57,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "56%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
-      },
-      {
-        "name": "Liam Neeson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000553/"
-      },
-      {
-        "name": "Natasha Richardson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001670/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young woman who has been raised in isolation in the Appalachian Mountains is discovered by a doctor and a psychologist.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110638/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nell"
-  },
-  {
     "title": "Muriel's Wedding",
     "year": 1994,
     "director": {
-      "name": "P. J. Hogan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0389333/"
+      "name": "P.J. Hogan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0389583/"
     },
-    "production_studio": "CiBy 2000, Film Victoria",
+    "production_studio": "House & Moorhouse Films",
     "mpaa_rating": "R",
     "runtime_minutes": 106,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 15.2,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 57.5,
     "ratings": {
       "imdb": 7.2,
       "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Comedy",
@@ -1184,169 +1185,125 @@
       },
       {
         "name": "Rachel Griffiths",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001297/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001300/"
       },
       {
         "name": "Bill Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0402833/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0402725/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A socially awkward young woman from a small Australian town dreams of having a glamorous wedding.",
+    "description": "A young social outcast in Australia steals money from her parents to finance a vacation where she hopes to find happiness, and perhaps love.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0110598/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/muriels_wedding"
   },
   {
-    "title": "Heavenly Creatures",
+    "title": "Reality Bites",
     "year": 1994,
     "director": {
-      "name": "Peter Jackson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
+      "name": "Ben Stiller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001774/"
     },
-    "production_studio": "WingNut Films, Miramax",
-    "mpaa_rating": "R",
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
     "runtime_minutes": 99,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 5.4,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 33.4,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "74%"
     },
     "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Melanie Lynskey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001491/"
-      },
-      {
-        "name": "Kate Winslet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000701/"
-      },
-      {
-        "name": "Sarah Peirse",
-        "imdb_person_url": "https://www.imdb.com/name/nm0670305/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of two teenage girls in 1950s New Zealand who form an intense and obsessive friendship, and their fantasies lead them to commit a shocking murder.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110005/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heavenly_creatures"
-  },
-  {
-    "title": "The Mask",
-    "year": 1994,
-    "director": {
-      "name": "Chuck Russell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0751103/"
-    },
-    "production_studio": "New Line Cinema, Dark Horse Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 23,
-    "gross_revenue_usd_millions": 351.6,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
       "Comedy",
-      "Crime"
+      "Drama",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Jim Carrey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000120/"
+        "name": "Winona Ryder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
       },
       {
-        "name": "Cameron Diaz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000139/"
+        "name": "Ethan Hawke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000160/"
       },
       {
-        "name": "Peter Riegert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001671/"
+        "name": "Ben Stiller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001774/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+    "description": "A documentary filmmaker and her fellow Gen X graduates face life after college, looking for work and love in Houston.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110475/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1053744-mask"
+    "imdb_url": "https://www.imdb.com/title/tt0110950/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/reality_bites"
   },
   {
-    "title": "Clear and Present Danger",
+    "title": "The Hudsucker Proxy",
     "year": 1994,
     "director": {
-      "name": "Phillip Noyce",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001573/"
+      "name": "Joel Coen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001053/"
     },
-    "production_studio": "Paramount Pictures, Mace Neufeld Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 141,
-    "budget_usd_millions": 62,
-    "gross_revenue_usd_millions": 215.9,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 2.8,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
-      "Action",
+      "Comedy",
       "Drama",
-      "Thriller"
+      "Fantasy"
     ],
     "actors": [
       {
-        "name": "Harrison Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
+        "name": "Tim Robbins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
       },
       {
-        "name": "Willem Dafoe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
+        "name": "Jennifer Jason Leigh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
       },
       {
-        "name": "Anne Archer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000271/"
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "CIA analyst Jack Ryan is drawn into an illegal war fought by the US government against a Colombian drug cartel.",
+    "description": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109444/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/clear_and_present_danger"
+    "imdb_url": "https://www.imdb.com/title/tt0110074/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hudsucker_proxy"
   },
   {
     "title": "Maverick",
     "year": 1994,
     "director": {
       "name": "Richard Donner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001152/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000373/"
     },
-    "production_studio": "Warner Bros., Icon Productions",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG",
     "runtime_minutes": 127,
-    "budget_usd_millions": 75,
-    "gross_revenue_usd_millions": 183,
+    "budget_usd_millions": 75.0,
+    "gross_revenue_usd_millions": 183.0,
     "ratings": {
       "imdb": 7.0,
       "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "71%"
+      "rotten_tomatoes_popcorn": "70%"
     },
     "genres": [
       "Action",
@@ -1376,93 +1333,179 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/maverick"
   },
   {
-    "title": "Interview with the Vampire: The Vampire Chronicles",
+    "title": "Clear and Present Danger",
     "year": 1994,
     "director": {
-      "name": "Neil Jordan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
+      "name": "Phillip Noyce",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001571/"
     },
-    "production_studio": "The Geffen Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 60,
-    "gross_revenue_usd_millions": 223.7,
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 141,
+    "budget_usd_millions": 62.0,
+    "gross_revenue_usd_millions": 215.9,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "64%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "68%"
     },
     "genres": [
-      "Horror",
-      "Romance"
+      "Action",
+      "Crime",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Brad Pitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
+        "name": "Harrison Ford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
       },
       {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+        "name": "Willem Dafoe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
       },
       {
-        "name": "Antonio Banderas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000104/"
+        "name": "Anne Archer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000108/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+    "description": "CIA Analyst Jack Ryan is drawn into an illegal war fought by the US government against a Colombian drug cartel.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110148/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/interview_with_the_vampire"
+    "imdb_url": "https://www.imdb.com/title/tt0109444/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/clear_and_present_danger"
   },
   {
-    "title": "Legends of the Fall",
+    "title": "Stargate",
     "year": 1994,
     "director": {
-      "name": "Edward Zwick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
+      "name": "Roland Emmerich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000386/"
     },
-    "production_studio": "TriStar Pictures, Bedford Falls Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 160.6,
+    "production_studio": "Canal+",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 55.0,
+    "gross_revenue_usd_millions": 196.6,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "58%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "53%",
+      "rotten_tomatoes_popcorn": "74%"
     },
     "genres": [
-      "Drama",
-      "Romance",
-      "War"
+      "Action",
+      "Adventure",
+      "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "Brad Pitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
+        "name": "Kurt Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
       },
       {
-        "name": "Anthony Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
+        "name": "James Spader",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000652/"
       },
       {
-        "name": "Aidan Quinn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
+        "name": "Jaye Davidson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0203364/"
       }
     ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Cinematography"
-    ],
-    "description": "The story of three brothers and their father living in the remote wilderness of Montana in the early 20th century and how their lives are affected by nature, history, war, and love.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110322/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/legends_of_the_fall"
+    "imdb_url": "https://www.imdb.com/title/tt0111282/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stargate"
+  },
+  {
+    "title": "The Santa Clause",
+    "year": 1994,
+    "director": {
+      "name": "John Pasquin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0664707/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 22.0,
+    "gross_revenue_usd_millions": 189.8,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Tim Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000741/"
+      },
+      {
+        "name": "Judge Reinhold",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001662/"
+      },
+      {
+        "name": "Wendy Crewson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0187762/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a man inadvertently makes Santa fall off of his roof on Christmas Eve, he finds himself magically recruited to take his place.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0111070/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/santa_clause"
+  },
+  {
+    "title": "Disclosure",
+    "year": 1994,
+    "director": {
+      "name": "Barry Levinson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005144/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 55.0,
+    "gross_revenue_usd_millions": 214.0,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "59%",
+      "rotten_tomatoes_popcorn": "42%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Michael Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000140/"
+      },
+      {
+        "name": "Demi Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000193/"
+      },
+      {
+        "name": "Donald Sutherland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109635/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/disclosure"
   },
   {
     "title": "The Client",
@@ -1471,15 +1514,15 @@
       "name": "Joel Schumacher",
       "imdb_person_url": "https://www.imdb.com/name/nm0001708/"
     },
-    "production_studio": "Warner Bros., Regency Enterprises",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 119,
-    "budget_usd_millions": 45,
+    "budget_usd_millions": 45.0,
     "gross_revenue_usd_millions": 117.6,
     "ratings": {
       "imdb": 6.7,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "68%"
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "57%"
     },
     "genres": [
       "Crime",
@@ -1496,386 +1539,161 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
       },
       {
-        "name": "Brad Renfro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000607/"
+        "name": "Mary-Louise Parker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000571/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young boy who witnessed the suicide of a mafia lawyer hires an attorney to protect him from the mob and the authorities.",
+    "description": "A young boy who witnesses the suicide of a mafia lawyer hires an attorney to protect him when the District Attorney tries to use him to take down a mob family.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109446/",
+    "imdb_url": "https://www.imdb.com/title/tt0109443/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/client"
   },
   {
-    "title": "Wes Craven's New Nightmare",
+    "title": "Mary Shelley's Frankenstein",
     "year": 1994,
     "director": {
-      "name": "Wes Craven",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000127/"
+      "name": "Kenneth Branagh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000110/"
     },
-    "production_studio": "New Line Cinema",
+    "production_studio": "TriStar Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 19.8,
+    "runtime_minutes": 123,
+    "budget_usd_millions": 45.0,
+    "gross_revenue_usd_millions": 112.0,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "61%"
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "43%",
+      "rotten_tomatoes_popcorn": "53%"
     },
     "genres": [
-      "Fantasy",
+      "Drama",
       "Horror",
-      "Mystery"
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Heather Langenkamp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000486/"
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
       },
       {
-        "name": "Robert Englund",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000387/"
+        "name": "Kenneth Branagh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000110/"
       },
       {
-        "name": "Miko Hughes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001371/"
+        "name": "Helena Bonham Carter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000307/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When the brilliant but unorthodox scientist Dr. Victor Frankenstein rejects the artificial man that he has created, the Creature escapes and later swears revenge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109936/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mary_shelleys_frankenstein"
+  },
+  {
+    "title": "Wolf",
+    "year": 1994,
+    "director": {
+      "name": "Mike Nichols",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001566/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 70.0,
+    "gross_revenue_usd_millions": 131.0,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "61%",
+      "rotten_tomatoes_popcorn": "43%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jack Nicholson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
+      },
+      {
+        "name": "Michelle Pfeiffer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
+      },
+      {
+        "name": "James Spader",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000652/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A demonic force has chosen Freddy Krueger as its portal to the real world. Can Heather Langenkamp play the part of Nancy one last time and trap the evil trying to enter our world?",
+    "description": "A publisher finds his life taking a turn for the surreal and terrifying after he's bitten by a wolf on a business trip.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0111686/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wes_cravens_new_nightmare"
+    "imdb_url": "https://www.imdb.com/title/tt0111742/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1052806-wolf"
   },
   {
-    "title": "Blue Sky",
+    "title": "The River Wild",
     "year": 1994,
     "director": {
-      "name": "Tony Richardson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0724682/"
+      "name": "Curtis Hanson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002125/"
     },
-    "production_studio": "Orion Pictures",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 3.4,
+    "runtime_minutes": 111,
+    "budget_usd_millions": 45.0,
+    "gross_revenue_usd_millions": 94.2,
     "ratings": {
       "imdb": 6.4,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "56%"
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "41%"
     },
     "genres": [
-      "Drama",
-      "Romance"
+      "Action",
+      "Adventure",
+      "Crime"
     ],
     "actors": [
       {
-        "name": "Jessica Lange",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001448/"
+        "name": "Meryl Streep",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
       },
       {
-        "name": "Tommy Lee Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
+        "name": "Kevin Bacon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000102/"
       },
       {
-        "name": "Powers Boothe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "The wife of an Army officer in the 1960s has a mental breakdown and is sent to an institution.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109306/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_sky"
-  },
-  {
-    "title": "Little Women",
-    "year": 1994,
-    "director": {
-      "name": "Gillian Armstrong",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000782/"
-    },
-    "production_studio": "Columbia Pictures, Di Novi Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 50.1,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama",
-      "Family",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Winona Ryder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
-      },
-      {
-        "name": "Gabriel Byrne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000321/"
-      },
-      {
-        "name": "Trini Alvarado",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000755/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The March sisters live and grow in post-Civil War America.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110367/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1060773-little_women"
-  },
-  {
-    "title": "Muriel's Wedding",
-    "year": 1994,
-    "director": {
-      "name": "P. J. Hogan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0389333/"
-    },
-    "production_studio": "CiBy 2000, Film Victoria",
-    "mpaa_rating": "R",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 15.2,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Toni Collette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001057/"
-      },
-      {
-        "name": "Rachel Griffiths",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001297/"
-      },
-      {
-        "name": "Bill Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0402833/"
+        "name": "David Strathairn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000657/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A socially awkward young woman from a small Australian town dreams of having a glamorous wedding.",
+    "description": "A rafting expert takes on a pair of armed killers while navigating a violent river.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110598/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/muriels_wedding"
-  },
-  {
-    "title": "Heavenly Creatures",
-    "year": 1994,
-    "director": {
-      "name": "Peter Jackson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
-    },
-    "production_studio": "WingNut Films, Miramax",
-    "mpaa_rating": "R",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 5.4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Melanie Lynskey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001491/"
-      },
-      {
-        "name": "Kate Winslet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000701/"
-      },
-      {
-        "name": "Sarah Peirse",
-        "imdb_person_url": "https://www.imdb.com/name/nm0670305/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of two teenage girls in 1950s New Zealand who form an intense and obsessive friendship, and their fantasies lead them to commit a shocking murder.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110005/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heavenly_creatures"
-  },
-  {
-    "title": "The Adventures of Priscilla, Queen of the Desert",
-    "year": 1994,
-    "director": {
-      "name": "Stephan Elliott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0254261/"
-    },
-    "production_studio": "PolyGram Filmed Entertainment, Australian Film Finance Corporation (AFFC)",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 11.2,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Terence Stamp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000648/"
-      },
-      {
-        "name": "Hugo Weaving",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001834/"
-      },
-      {
-        "name": "Guy Pearce",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001602/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Costume Design"
-    ],
-    "description": "Two drag queens and a transgender woman travel across the desert to perform their unique style of cabaret.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109045/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/adventures_of_priscilla_queen_of_the_desert"
-  },
-  {
-    "title": "The Hudsucker Proxy",
-    "year": 1994,
-    "director": {
-      "name": "Joel Coen, Ethan Coen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
-    },
-    "production_studio": "Warner Bros., Silver Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 2.8,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "61%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      },
-      {
-        "name": "Jennifer Jason Leigh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
-      },
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A naive mailroom clerk is made the president of a manufacturing company as part of a stock scam.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110074/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hudsucker_proxy"
-  },
-  {
-    "title": "The Madness of King George",
-    "year": 1994,
-    "director": {
-      "name": "Nicholas Hytner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001382/"
-    },
-    "production_studio": "The Samuel Goldwyn Company, Channel Four Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 110,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 15.2,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Nigel Hawthorne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001329/"
-      },
-      {
-        "name": "Helen Mirren",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000545/"
-      },
-      {
-        "name": "Ian Holm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Art Direction-Set Decoration"
-    ],
-    "description": "The story of King George III's slide into insanity, and the political and familial turmoil that ensued.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110428/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/madness_of_king_george"
+    "imdb_url": "https://www.imdb.com/title/tt0110997/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/river_wild"
   },
   {
     "title": "Nobody's Fool",
     "year": 1994,
     "director": {
       "name": "Robert Benton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000914/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000913/"
     },
-    "production_studio": "Paramount Pictures, Scott Rudin Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 110,
-    "budget_usd_millions": 20,
+    "budget_usd_millions": 20.0,
     "gross_revenue_usd_millions": 39.5,
     "ratings": {
       "imdb": 7.3,
@@ -1903,98 +1721,231 @@
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An aging ne'er-do-well in a small New York town tries to reconnect with his estranged son and grandson.",
+    "description": "A stubborn man past his prime has to confront his inability to grow up when his estranged son and family come to stay with him.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0110684/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nobodys_fool"
   },
   {
-    "title": "Immortal Beloved",
+    "title": "Blue Sky",
     "year": 1994,
     "director": {
-      "name": "Bernard Rose",
-      "imdb_person_url": "https://www.imdb.com/name/nm0742211/"
+      "name": "Tony Richardson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0006254/"
     },
-    "production_studio": "Icon Entertainment International, Majestic Films International",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 9.9,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "57%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Gary Oldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
-      },
-      {
-        "name": "Jeroen Krabbé",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
-      },
-      {
-        "name": "Isabella Rossellini",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000618/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The life and loves of the great composer Ludwig van Beethoven, as seen through the eyes of his secretary and biographer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110116/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/immortal_beloved"
-  },
-  {
-    "title": "The Client",
-    "year": 1994,
-    "director": {
-      "name": "Joel Schumacher",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001708/"
-    },
-    "production_studio": "Warner Bros., Regency Enterprises",
+    "production_studio": "Orion Pictures",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 45,
-    "gross_revenue_usd_millions": 117.6,
+    "runtime_minutes": 101,
+    "budget_usd_millions": 16.0,
+    "gross_revenue_usd_millions": 3.3,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "68%"
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "52%"
     },
     "genres": [
-      "Crime",
       "Drama",
-      "Mystery"
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Susan Sarandon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
+        "name": "Jessica Lange",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000486/"
       },
       {
         "name": "Tommy Lee Jones",
         "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
       },
       {
-        "name": "Brad Renfro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000607/"
+        "name": "Powers Boothe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress (Jessica Lange)"
+    ],
+    "description": "A nuclear engineer in the Army and his volatile wife move to a base in Alabama, where her behavior and a government cover-up threaten their lives.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109306/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_sky"
+  },
+  {
+    "title": "Shallow Grave",
+    "year": 1994,
+    "director": {
+      "name": "Danny Boyle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000965/"
+    },
+    "production_studio": "Channel Four Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 19.7,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Kerry Fox",
+        "imdb_person_url": "https://www.imdb.com/name/nm0289088/"
+      },
+      {
+        "name": "Christopher Eccleston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001172/"
+      },
+      {
+        "name": "Ewan McGregor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000191/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three friends discover their new flatmate dead but loaded with cash.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0111149/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shallow_grave"
+  },
+  {
+    "title": "Eat Drink Man Woman",
+    "year": 1994,
+    "director": {
+      "name": "Ang Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
+    },
+    "production_studio": "Central Motion Pictures",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 124,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 7.3,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Sihung Lung",
+        "imdb_person_url": "https://www.imdb.com/name/nm0526189/"
+      },
+      {
+        "name": "Yu-Wen Wang",
+        "imdb_person_url": "https://www.imdb.com/name/nm0911073/"
+      },
+      {
+        "name": "Chien-Lien Wu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0943069/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young boy who witnessed the suicide of a mafia lawyer hires an attorney to protect him from the mob and the authorities.",
+    "description": "A senior chef lives with his three grown daughters; the middle one finds her future plans affected by unexpected events and the life changes of the other household members.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109446/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/client"
+    "imdb_url": "https://www.imdb.com/title/tt0111797/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eat_drink_man_woman"
+  },
+  {
+    "title": "Serial Mom",
+    "year": 1994,
+    "director": {
+      "name": "John Waters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000691/"
+    },
+    "production_studio": "Savoy Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 13.0,
+    "gross_revenue_usd_millions": 7.8,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Kathleen Turner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000678/"
+      },
+      {
+        "name": "Sam Waterston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001832/"
+      },
+      {
+        "name": "Ricki Lake",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000482/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sweet mother takes a little too much at heart for the defense of her family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0111127/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/serial_mom"
+  },
+  {
+    "title": "The Last Seduction",
+    "year": 1994,
+    "director": {
+      "name": "John Dahl",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001100/"
+    },
+    "production_studio": "Incorporated Television Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 5.8,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Linda Fiorentino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000398/"
+      },
+      {
+        "name": "Peter Berg",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000916/"
+      },
+      {
+        "name": "Bill Pullman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000597/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A devious woman steals seven hundred thousand dollars from her drug-dealing husband and hides out in a small town where she meets a simple man and convinces him to help her kill her husband.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110308/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_seduction"
   },
   {
     "title": "Wes Craven's New Nightmare",
@@ -2006,12 +1957,12 @@
     "production_studio": "New Line Cinema",
     "mpaa_rating": "R",
     "runtime_minutes": 112,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 19.8,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 19.7,
     "ratings": {
       "imdb": 6.4,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "61%"
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "66%"
     },
     "genres": [
       "Fantasy",
@@ -2029,7 +1980,7 @@
       },
       {
         "name": "Miko Hughes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001371/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0399998/"
       }
     ],
     "oscars_nominated": 0,
@@ -2041,92 +1992,222 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wes_cravens_new_nightmare"
   },
   {
-    "title": "Blue Sky",
+    "title": "Immortal Beloved",
     "year": 1994,
     "director": {
-      "name": "Tony Richardson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0724682/"
+      "name": "Bernard Rose",
+      "imdb_person_url": "https://www.imdb.com/name/nm0741246/"
     },
-    "production_studio": "Orion Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 3.4,
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 26.2,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "56%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "56%",
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
+      "Biography",
       "Drama",
-      "Romance"
+      "Music"
     ],
     "actors": [
       {
-        "name": "Jessica Lange",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001448/"
+        "name": "Gary Oldman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
       },
       {
-        "name": "Tommy Lee Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
+        "name": "Jeroen Krabbé",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001434/"
       },
       {
-        "name": "Powers Boothe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
+        "name": "Isabella Rossellini",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000618/"
       }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "The wife of an Army officer in the 1960s has a mental breakdown and is sent to an institution.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The life and death of the legendary Ludwig van Beethoven. Alongside all that work that is known and loved, the movie uncovers the pain and longing of the composer.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0109306/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_sky"
+    "imdb_url": "https://www.imdb.com/title/tt0110116/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/immortal_beloved"
   },
   {
-    "title": "Little Women",
+    "title": "Three Colors: White",
     "year": 1994,
     "director": {
-      "name": "Gillian Armstrong",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000782/"
+      "name": "Krzysztof Kieslowski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001425/"
     },
-    "production_studio": "Columbia Pictures, Di Novi Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 50.1,
+    "production_studio": "MK2 Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.5,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "92%",
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "87%",
       "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
+      "Comedy",
       "Drama",
-      "Family",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Winona Ryder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
+        "name": "Zbigniew Zamachowski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0952569/"
       },
       {
-        "name": "Gabriel Byrne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000321/"
+        "name": "Julie Delpy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000365/"
       },
       {
-        "name": "Trini Alvarado",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000755/"
+        "name": "Janusz Gajos",
+        "imdb_person_url": "https://www.imdb.com/name/nm0301469/"
       }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The March sisters live and grow in post-Civil War America.",
+    "description": "After his wife divorces him for his impotence, a Polish immigrant plots to get even with her.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0110367/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1060773-little_women"
+    "imdb_url": "https://www.imdb.com/title/tt0111507/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white"
+  },
+  {
+    "title": "Once Were Warriors",
+    "year": 1994,
+    "director": {
+      "name": "Lee Tamahori",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001788/"
+    },
+    "production_studio": "Communicado Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Rena Owen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0654246/"
+      },
+      {
+        "name": "Temuera Morrison",
+        "imdb_person_url": "https://www.imdb.com/name/nm0607325/"
+      },
+      {
+        "name": "Mamaengaroa Kerr-Bell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0449835/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A family descended from Maori warriors is bedeviled by a violent father and the societal problems of being treated as outcasts.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0110729/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/once_were_warriors"
+  },
+  {
+    "title": "Crumb",
+    "year": 1994,
+    "director": {
+      "name": "Terry Zwigoff",
+      "imdb_person_url": "https://www.imdb.com/name/nm0959314/"
+    },
+    "production_studio": "Superior Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Robert Crumb",
+        "imdb_person_url": "https://www.imdb.com/name/nm0190029/"
+      },
+      {
+        "name": "Aline Kominsky-Crumb",
+        "imdb_person_url": "https://www.imdb.com/name/nm0464603/"
+      },
+      {
+        "name": "Charles Crumb",
+        "imdb_person_url": "https://www.imdb.com/name/nm1151939/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An intimate portrait of the controversial cartoonist Robert Crumb and his traumatized family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0109508/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crumb"
+  },
+  {
+    "title": "Timecop",
+    "year": 1994,
+    "director": {
+      "name": "Peter Hyams",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001376/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 27.0,
+    "gross_revenue_usd_millions": 101.6,
+    "ratings": {
+      "imdb": 5.9,
+      "rotten_tomatoes_critic": "45%",
+      "rotten_tomatoes_popcorn": "33%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Jean-Claude Van Damme",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000241/"
+      },
+      {
+        "name": "Mia Sara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000214/"
+      },
+      {
+        "name": "Ron Silver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0798775/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An officer for a security agency that regulates time travel must fend off a corrupt politician who has a past with the officer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0111438/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/timecop"
   }
 ]

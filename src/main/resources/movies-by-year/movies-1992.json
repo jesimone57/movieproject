@@ -6,9 +6,9 @@
       "name": "Clint Eastwood",
       "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
     },
-    "production_studio": "Warner Bros., The Malpaso Company",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
-    "runtime_minutes": 131,
+    "runtime_minutes": 130,
     "budget_usd_millions": 14.4,
     "gross_revenue_usd_millions": 159.2,
     "ratings": {
@@ -27,7 +27,7 @@
       },
       {
         "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
       },
       {
         "name": "Morgan Freeman",
@@ -39,13 +39,13 @@
     "oscars_won_details": [
       "Best Picture",
       "Best Director",
-      "Best Actor in a Supporting Role",
+      "Best Supporting Actor (Gene Hackman)",
       "Best Film Editing"
     ],
-    "description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.",
+    "description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The Schofield Kid.",
     "afi_ranking": 68,
     "imdb_url": "https://www.imdb.com/title/tt0105695/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/unforgiven"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1041911-unforgiven"
   },
   {
     "title": "Reservoir Dogs",
@@ -54,11 +54,11 @@
       "name": "Quentin Tarantino",
       "imdb_person_url": "https://www.imdb.com/name/nm0000233/"
     },
-    "production_studio": "Live Entertainment, Dog Eat Dog Productions",
+    "production_studio": "Live Entertainment",
     "mpaa_rating": "R",
     "runtime_minutes": 99,
     "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 2.9,
+    "gross_revenue_usd_millions": 2.8,
     "ratings": {
       "imdb": 8.3,
       "rotten_tomatoes_critic": "90%",
@@ -71,7 +71,7 @@
     "actors": [
       {
         "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
       },
       {
         "name": "Tim Roth",
@@ -94,13 +94,13 @@
     "title": "Aladdin",
     "year": 1992,
     "director": {
-      "name": "Ron Clements, John Musker",
+      "name": "Ron Clements",
       "imdb_person_url": "https://www.imdb.com/name/nm0166256/"
     },
     "production_studio": "Walt Disney Pictures",
     "mpaa_rating": "G",
     "runtime_minutes": 90,
-    "budget_usd_millions": 28,
+    "budget_usd_millions": 28.0,
     "gross_revenue_usd_millions": 504.1,
     "ratings": {
       "imdb": 8.0,
@@ -110,12 +110,13 @@
     "genres": [
       "Animation",
       "Adventure",
-      "Comedy"
+      "Comedy",
+      "Musical"
     ],
     "actors": [
       {
         "name": "Scott Weinger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0918458/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0918369/"
       },
       {
         "name": "Robin Williams",
@@ -123,80 +124,36 @@
       },
       {
         "name": "Linda Larkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0488665/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0488238/"
       }
     ],
     "oscars_nominated": 5,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Music, Original Song",
-      "Best Music, Original Score"
+      "Best Original Score",
+      "Best Original Song (A Whole New World)"
     ],
-    "description": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0103639/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1042583-aladdin"
-  },
-  {
-    "title": "Scent of a Woman",
-    "year": 1992,
-    "director": {
-      "name": "Martin Brest",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000976/"
-    },
-    "production_studio": "Universal Pictures, City Light Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 156,
-    "budget_usd_millions": 31,
-    "gross_revenue_usd_millions": 134.1,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Chris O'Donnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000563/"
-      },
-      {
-        "name": "James Rebhorn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001655/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role"
-    ],
-    "description": "A prep school student needing money agrees to 'babysit' a blind man, but the job is not at all what he anticipated.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105323/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scent_of_a_woman"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1042582-aladdin"
   },
   {
     "title": "A Few Good Men",
     "year": 1992,
     "director": {
       "name": "Rob Reiner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001661/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0005348/"
     },
-    "production_studio": "Castle Rock Entertainment, Columbia Pictures",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 138,
-    "budget_usd_millions": 40,
+    "budget_usd_millions": 40.0,
     "gross_revenue_usd_millions": 243.2,
     "ratings": {
-      "imdb": 7.6,
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Drama",
@@ -220,9 +177,234 @@
     "oscars_won": 0,
     "oscars_won_details": [],
     "description": "Military lawyer Lieutenant Daniel Kaffee defends Marines accused of murder. They contend they were acting under orders.",
-    "afi_ranking": 29,
+    "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0104257/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_few_good_men"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/few_good_men"
+  },
+  {
+    "title": "The Crying Game",
+    "year": 1992,
+    "director": {
+      "name": "Neil Jordan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
+    },
+    "production_studio": "Palace Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 2.3,
+    "gross_revenue_usd_millions": 62.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Stephen Rea",
+        "imdb_person_url": "https://www.imdb.com/name/nm0713822/"
+      },
+      {
+        "name": "Jaye Davidson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0203364/"
+      },
+      {
+        "name": "Forest Whitaker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Original Screenplay"
+    ],
+    "description": "A British soldier kidnapped by IRA terrorists soon befriends one of his captors, who then becomes drawn into the soldier's world.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104036/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crying_game"
+  },
+  {
+    "title": "Scent of a Woman",
+    "year": 1992,
+    "director": {
+      "name": "Martin Brest",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000976/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 156,
+    "budget_usd_millions": 31.0,
+    "gross_revenue_usd_millions": 134.1,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Al Pacino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
+      },
+      {
+        "name": "Chris O'Donnell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000563/"
+      },
+      {
+        "name": "James Rebhorn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0714310/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor (Al Pacino)"
+    ],
+    "description": "A prep school student needing money agrees to \"babysit\" a blind man, but the job is not at all what he anticipated.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105323/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scent_of_a_woman"
+  },
+  {
+    "title": "Glengarry Glen Ross",
+    "year": 1992,
+    "director": {
+      "name": "James Foley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002078/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 12.5,
+    "gross_revenue_usd_millions": 10.7,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Al Pacino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
+      },
+      {
+        "name": "Jack Lemmon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
+      },
+      {
+        "name": "Alec Baldwin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000285/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An examination of the machinations behind the scenes at a real estate office, where agents are compelled to sell undesirable properties to unwitting victims.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104348/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/glengarry_glen_ross"
+  },
+  {
+    "title": "The Player",
+    "year": 1992,
+    "director": {
+      "name": "Robert Altman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
+    },
+    "production_studio": "Avenue Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 28.9,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Tim Robbins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Greta Scacchi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000627/"
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000155/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected, but which one?",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105151/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/player"
+  },
+  {
+    "title": "Howards End",
+    "year": 1992,
+    "director": {
+      "name": "James Ivory",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001391/"
+    },
+    "production_studio": "Merchant Ivory Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 26.1,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Anthony Hopkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
+      },
+      {
+        "name": "Emma Thompson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
+      },
+      {
+        "name": "Vanessa Redgrave",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000603/"
+      }
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actress (Emma Thompson)",
+      "Best Adapted Screenplay",
+      "Best Art Direction"
+    ],
+    "description": "A businessman thwarts his wife's bequest of an estate to another woman, only to become romantically involved with her himself.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104454/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/howards_end"
   },
   {
     "title": "Basic Instinct",
@@ -231,15 +413,15 @@
       "name": "Paul Verhoeven",
       "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
     },
-    "production_studio": "Carolco Pictures, StudioCanal",
+    "production_studio": "Carolco Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 127,
-    "budget_usd_millions": 49,
+    "budget_usd_millions": 49.0,
     "gross_revenue_usd_millions": 352.9,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "56%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "66%"
     },
     "genres": [
       "Drama",
@@ -257,327 +439,16 @@
       },
       {
         "name": "George Dzundza",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001166/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001169/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A violent police detective investigating a brutal murder becomes involved with a seductive and manipulative crime novelist.",
+    "description": "A violent police detective investigates a brutal murder that might involve a manipulative and seductive novelist.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0103772/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/basic_instinct"
-  },
-  {
-    "title": "The Crying Game",
-    "year": 1992,
-    "director": {
-      "name": "Neil Jordan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
-    },
-    "production_studio": "Miramax, Palace Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 2.3,
-    "gross_revenue_usd_millions": 62.5,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Stephen Rea",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001653/"
-      },
-      {
-        "name": "Jaye Davidson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001109/"
-      },
-      {
-        "name": "Forest Whitaker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Screenplay Written Directly for the Screen"
-    ],
-    "description": "A British soldier kidnapped by IRA terrorists surprisingly befriends one of his captors, who is drawn into the soldier's world.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104036/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crying_game"
-  },
-  {
-    "title": "My Cousin Vinny",
-    "year": 1992,
-    "director": {
-      "name": "Jonathan Lynn",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001488/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "R",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 64.1,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Joe Pesci",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000582/"
-      },
-      {
-        "name": "Marisa Tomei",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000645/"
-      },
-      {
-        "name": "Ralph Macchio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001494/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role"
-    ],
-    "description": "Two New Yorkers are accused of murder in rural Alabama while on their way back to college, and the one's cousin, a loudmouth lawyer who has never gone to trial, must defend them.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104952/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_cousin_vinny"
-  },
-  {
-    "title": "The Last of the Mohicans",
-    "year": 1992,
-    "director": {
-      "name": "Michael Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
-    },
-    "production_studio": "20th Century Fox, Morgan Creek Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 75.5,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Daniel Day-Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000358/"
-      },
-      {
-        "name": "Madeleine Stowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000656/"
-      },
-      {
-        "name": "Russell Means",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001521/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Sound"
-    ],
-    "description": "Three trappers protect the daughters of a British Colonel in the midst of the French and Indian War.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104691/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_of_the_mohicans"
-  },
-  {
-    "title": "Under Siege",
-    "year": 1992,
-    "director": {
-      "name": "Andrew Davis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001112/"
-    },
-    "production_studio": "Warner Bros., Regency Enterprises",
-    "mpaa_rating": "R",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 156.6,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Steven Seagal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
-      },
-      {
-        "name": "Tommy Lee Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
-      },
-      {
-        "name": "Gary Busey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000997/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An ex-Navy Seal turned cook is the only person who can stop a group of terrorists when they seize control of a U.S. battleship.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105690/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/under_siege"
-  },
-  {
-    "title": "A League of Their Own",
-    "year": 1992,
-    "director": {
-      "name": "Penny Marshall",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001508/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 132.4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Tom Hanks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
-      },
-      {
-        "name": "Geena Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000133/"
-      },
-      {
-        "name": "Lori Petty",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001614/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two sisters join the first female professional baseball league and struggle to help it succeed amidst their own growing rivalry.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104694/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_league_of_their_own"
-  },
-  {
-    "title": "The Player",
-    "year": 1992,
-    "director": {
-      "name": "Robert Altman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
-    },
-    "production_studio": "Fine Line Features, Avenue Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 21.7,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      },
-      {
-        "name": "Greta Scacchi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000629/"
-      },
-      {
-        "name": "Fred Ward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001826/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A Hollywood studio executive is the target of a murder investigation, but he finds that he can use the situation to his advantage.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105151/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_player"
-  },
-  {
-    "title": "Wayne's World",
-    "year": 1992,
-    "director": {
-      "name": "Penelope Spheeris",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005455/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 183.1,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Comedy",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Mike Myers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000196/"
-      },
-      {
-        "name": "Dana Carvey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001022/"
-      },
-      {
-        "name": "Rob Lowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000507/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two slacker friends try to promote their public-access cable show.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105793/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/waynes_world"
   },
   {
     "title": "Batman Returns",
@@ -586,11 +457,11 @@
       "name": "Tim Burton",
       "imdb_person_url": "https://www.imdb.com/name/nm0000318/"
     },
-    "production_studio": "Warner Bros., PolyGram Filmed Entertainment",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 126,
-    "budget_usd_millions": 80,
-    "gross_revenue_usd_millions": 266.9,
+    "budget_usd_millions": 80.0,
+    "gross_revenue_usd_millions": 266.8,
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "81%",
@@ -618,54 +489,10 @@
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When a corrupt businessman and the grotesque Penguin plot to take control of Gotham City, only Batman can stop them, while the Catwoman has her own agenda.",
+    "description": "Batman returns to the big screen when a deformed man calling himself the Penguin wreaks havoc across Gotham with the help of a cruel businessman.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0103776/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/batman_returns"
-  },
-  {
-    "title": "Glengarry Glen Ross",
-    "year": 1992,
-    "director": {
-      "name": "James Foley",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001226/"
-    },
-    "production_studio": "New Line Cinema, Zupnik Cinema Group",
-    "mpaa_rating": "R",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 12.5,
-    "gross_revenue_usd_millions": 10.7,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Jack Lemmon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
-      },
-      {
-        "name": "Alec Baldwin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000285/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An examination of the machinations behind the scenes at a real estate office.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104348/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/glengarry_glen_ross"
   },
   {
     "title": "Bram Stoker's Dracula",
@@ -674,17 +501,19 @@
       "name": "Francis Ford Coppola",
       "imdb_person_url": "https://www.imdb.com/name/nm0000338/"
     },
-    "production_studio": "Columbia Pictures, American Zoetrope",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 128,
-    "budget_usd_millions": 40,
+    "budget_usd_millions": 40.0,
     "gross_revenue_usd_millions": 215.9,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "83%"
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
+      "Drama",
+      "Fantasy",
       "Horror"
     ],
     "actors": [
@@ -708,161 +537,72 @@
       "Best Sound Effects Editing",
       "Best Makeup"
     ],
-    "description": "The centuries old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and inflict havoc in the foreign land.",
+    "description": "The centuries-old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and inflict havoc in the foreign land.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0103874/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bram_stokers_dracula"
   },
   {
-    "title": "Howard's End",
+    "title": "My Cousin Vinny",
     "year": 1992,
     "director": {
-      "name": "James Ivory",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001391/"
-    },
-    "production_studio": "Merchant Ivory Productions, Film Four International",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 142,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 26.3,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Anthony Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
-      },
-      {
-        "name": "Emma Thompson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
-      },
-      {
-        "name": "Vanessa Redgrave",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
-      }
-    ],
-    "oscars_nominated": 9,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role",
-      "Best Writing, Screenplay Based on Material from Another Medium",
-      "Best Art Direction-Set Decoration"
-    ],
-    "description": "A bourgeois idealistic young woman in Edwardian England becomes involved with a wealthy, conservative family.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104454/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/howards_end"
-  },
-  {
-    "title": "The Player",
-    "year": 1992,
-    "director": {
-      "name": "Robert Altman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
-    },
-    "production_studio": "Fine Line Features, Avenue Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 21.7,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      },
-      {
-        "name": "Greta Scacchi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000629/"
-      },
-      {
-        "name": "Fred Ward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001826/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A Hollywood studio executive is the target of a murder investigation, but he finds that he can use the situation to his advantage.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105151/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_player"
-  },
-  {
-    "title": "Patriot Games",
-    "year": 1992,
-    "director": {
-      "name": "Phillip Noyce",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001573/"
-    },
-    "production_studio": "Paramount Pictures, Mace Neufeld Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 45,
-    "gross_revenue_usd_millions": 178.1,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Harrison Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
-      },
-      {
-        "name": "Anne Archer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000271/"
-      },
-      {
-        "name": "Patrick Bergin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000921/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "When CIA analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets him and his family for revenge.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105112/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/patriot_games"
-  },
-  {
-    "title": "White Men Can't Jump",
-    "year": 1992,
-    "director": {
-      "name": "Ron Shelton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
+      "name": "Jonathan Lynn",
+      "imdb_person_url": "https://www.imdb.com/name/nm0528738/"
     },
     "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 31,
-    "gross_revenue_usd_millions": 90.8,
+    "runtime_minutes": 120,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 64.1,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Joe Pesci",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000582/"
+      },
+      {
+        "name": "Marisa Tomei",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000673/"
+      },
+      {
+        "name": "Ralph Macchio",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001494/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actress (Marisa Tomei)"
+    ],
+    "description": "Two New Yorkers accused of murder in rural Alabama call on one of their cousins, a loudmouth lawyer with no trial experience, to defend them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104952/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_cousin_vinny"
+  },
+  {
+    "title": "A League of Their Own",
+    "year": 1992,
+    "director": {
+      "name": "Penny Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001508/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 40.0,
+    "gross_revenue_usd_millions": 132.4,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Comedy",
@@ -871,113 +611,25 @@
     ],
     "actors": [
       {
-        "name": "Wesley Snipes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000648/"
+        "name": "Tom Hanks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
       },
       {
-        "name": "Woody Harrelson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000437/"
+        "name": "Geena Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000133/"
       },
       {
-        "name": "Rosie Perez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001611/"
+        "name": "Lori Petty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001614/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two street basketball hustlers, one black and one white, team up to make some money.",
+    "description": "Two sisters join the first female professional baseball league and struggle to help it succeed amidst their own growing rivalry.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105812/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white_men_cant_jump"
-  },
-  {
-    "title": "Hard Boiled",
-    "year": 1992,
-    "director": {
-      "name": "John Woo",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000251/"
-    },
-    "production_studio": "Golden Princess Film Production, Milestone Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 4.5,
-    "gross_revenue_usd_millions": 0.2,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Chow Yun-Fat",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000334/"
-      },
-      {
-        "name": "Tony Chiu-Wai Leung",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001044/"
-      },
-      {
-        "name": "Teresa Mo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0594895/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A tough-as-nails cop teams up with an undercover agent to shut down a ruthless gun smuggling ring.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104684/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hard_boiled"
-  },
-  {
-    "title": "The Player",
-    "year": 1992,
-    "director": {
-      "name": "Robert Altman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
-    },
-    "production_studio": "Fine Line Features, Avenue Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 21.7,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      },
-      {
-        "name": "Greta Scacchi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000629/"
-      },
-      {
-        "name": "Fred Ward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001826/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A Hollywood studio executive is the target of a murder investigation, but he finds that he can use the situation to his advantage.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105151/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_player"
+    "imdb_url": "https://www.imdb.com/title/tt0104694/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/league_of_their_own"
   },
   {
     "title": "Malcolm X",
@@ -986,15 +638,15 @@
       "name": "Spike Lee",
       "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
     },
-    "production_studio": "40 Acres and a Mule Filmworks, Largo International",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 202,
-    "budget_usd_millions": 33,
+    "budget_usd_millions": 33.0,
     "gross_revenue_usd_millions": 48.2,
     "ratings": {
       "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Biography",
@@ -1024,109 +676,154 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/malcolm_x"
   },
   {
-    "title": "Single White Female",
+    "title": "The Last of the Mohicans",
     "year": 1992,
     "director": {
-      "name": "Barbet Schroeder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001707/"
+      "name": "Michael Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 48,
+    "runtime_minutes": 112,
+    "budget_usd_millions": 40.0,
+    "gross_revenue_usd_millions": 75.5,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "54%",
-      "rotten_tomatoes_popcorn": "46%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
-      "Drama",
-      "Thriller"
+      "Action",
+      "Adventure",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Bridget Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
+        "name": "Daniel Day-Lewis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
       },
       {
-        "name": "Jennifer Jason Leigh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
+        "name": "Madeleine Stowe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000656/"
       },
       {
-        "name": "Steven Weber",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005543/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A woman advertising for a new roommate finds that her new roommate is not who she appears to be.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105414/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/single_white_female"
-  },
-  {
-    "title": "Death Becomes Her",
-    "year": 1992,
-    "director": {
-      "name": "Robert Zemeckis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 149,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "55%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Meryl Streep",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
-      },
-      {
-        "name": "Bruce Willis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
-      },
-      {
-        "name": "Goldie Hawn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000440/"
+        "name": "Russell Means",
+        "imdb_person_url": "https://www.imdb.com/name/nm0575178/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Effects, Visual Effects"
+      "Best Sound"
     ],
-    "description": "Two women, a writer and an actress, drink a magic potion that promises eternal youth, but they find that it has some unexpected side effects.",
+    "description": "Three trappers protect the daughters of a British Colonel in the midst of the French and Indian War.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104070/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/death_becomes_her"
+    "imdb_url": "https://www.imdb.com/title/tt0104691/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1040678-last_of_the_mohicans"
+  },
+  {
+    "title": "Wayne's World",
+    "year": 1992,
+    "director": {
+      "name": "Penelope Spheeris",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001761/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 183.1,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Mike Myers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000196/"
+      },
+      {
+        "name": "Dana Carvey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001022/"
+      },
+      {
+        "name": "Rob Lowe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000184/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two slacker friends try to promote their public-access cable show.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105793/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/waynes_world"
+  },
+  {
+    "title": "Sister Act",
+    "year": 1992,
+    "director": {
+      "name": "Emile Ardolino",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000784/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 31.0,
+    "gross_revenue_usd_millions": 231.6,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Whoopi Goldberg",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000155/"
+      },
+      {
+        "name": "Maggie Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001749/"
+      },
+      {
+        "name": "Harvey Keitel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a worldly singer witnesses a mob crime, the police hide her as a nun in a traditional convent where she has trouble fitting in.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105417/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sister_act"
   },
   {
     "title": "The Bodyguard",
     "year": 1992,
     "director": {
       "name": "Mick Jackson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0413926/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0413861/"
     },
-    "production_studio": "Warner Bros., Tig Productions",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 129,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 411,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 411.0,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "38%",
-      "rotten_tomatoes_popcorn": "56%"
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "39%",
+      "rotten_tomatoes_popcorn": "63%"
     },
     "genres": [
       "Action",
@@ -1144,16 +841,103 @@
       },
       {
         "name": "Gary Kemp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0447190/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0447282/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former Secret Service agent takes on the job of bodyguard to a pop singer, whose lifestyle is most unlike a President's.",
+    "description": "A former Secret Service agent takes on the job of bodyguard to an R&B singer, whose lifestyle is most unlike a President's.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0103855/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bodyguard"
+  },
+  {
+    "title": "Candyman",
+    "year": 1992,
+    "director": {
+      "name": "Bernard Rose",
+      "imdb_person_url": "https://www.imdb.com/name/nm0741246/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 25.8,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Virginia Madsen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000514/"
+      },
+      {
+        "name": "Tony Todd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0865302/"
+      },
+      {
+        "name": "Xander Berkeley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0075359/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103919/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/candyman"
+  },
+  {
+    "title": "Army of Darkness",
+    "year": 1992,
+    "director": {
+      "name": "Sam Raimi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 11.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Bruce Campbell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0132257/"
+      },
+      {
+        "name": "Embeth Davidtz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001110/"
+      },
+      {
+        "name": "Marcus Gilbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0318165/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man is accidentally transported to 1300 A.D., where he must battle an army of the dead and retrieve the Necronomicon so he can return home.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0106308/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/army_of_darkness"
   },
   {
     "title": "Chaplin",
@@ -1162,10 +946,10 @@
       "name": "Richard Attenborough",
       "imdb_person_url": "https://www.imdb.com/name/nm0000277/"
     },
-    "production_studio": "Carolco Pictures, Lambeth Productions",
+    "production_studio": "TriStar Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 143,
-    "budget_usd_millions": 31,
+    "budget_usd_millions": 31.0,
     "gross_revenue_usd_millions": 9.5,
     "ratings": {
       "imdb": 7.5,
@@ -1188,279 +972,281 @@
       },
       {
         "name": "Paul Rhys",
-        "imdb_person_url": "https://www.imdb.com/name/nm0722421/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0722675/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A biopic of the life of the legendary comedian, from his impoverished childhood in London to his rise to fame in Hollywood and his eventual exile.",
+    "description": "A biography of the turbulent life of filmmaker and comedian Charlie Chaplin.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0103939/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chaplin"
   },
   {
-    "title": "Honeymoon in Vegas",
+    "title": "Hard Boiled",
     "year": 1992,
     "director": {
-      "name": "Andrew Bergman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000921/"
+      "name": "John Woo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000247/"
     },
-    "production_studio": "Castle Rock Entertainment, New Line Cinema",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 35.2,
+    "production_studio": "Golden Princess Film Production",
+    "mpaa_rating": "R",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
-      "imdb": 5.8,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "51%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
-      "Comedy",
-      "Romance",
+      "Action",
+      "Crime",
       "Thriller"
     ],
     "actors": [
       {
-        "name": "James Caan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
+        "name": "Chow Yun-Fat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000334/"
       },
       {
-        "name": "Nicolas Cage",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000115/"
+        "name": "Tony Leung Chiu-wai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0496187/"
       },
       {
-        "name": "Sarah Jessica Parker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000572/"
+        "name": "Teresa Mo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0594969/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A private eye who is afraid of commitment finally agrees to marry his girlfriend, but he loses her in a poker game to a professional gambler.",
+    "description": "A tough-as-nails cop teams up with an undercover agent to shut down a sinister mobster and his crew.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104438/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/honeymoon_in_vegas"
+    "imdb_url": "https://www.imdb.com/title/tt0104684/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hard_boiled"
   },
   {
-    "title": "Far and Away",
+    "title": "Strictly Ballroom",
     "year": 1992,
     "director": {
-      "name": "Ron Howard",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
+      "name": "Baz Luhrmann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0525303/"
     },
-    "production_studio": "Imagine Entertainment, Universal Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 140,
-    "budget_usd_millions": 60,
-    "gross_revenue_usd_millions": 137.8,
+    "production_studio": "M&A",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 11.7,
     "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
-      "Adventure",
+      "Comedy",
       "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+        "name": "Paul Mercurio",
+        "imdb_person_url": "https://www.imdb.com/name/nm0580487/"
       },
       {
-        "name": "Nicole Kidman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
+        "name": "Tara Morice",
+        "imdb_person_url": "https://www.imdb.com/name/nm0605232/"
       },
       {
-        "name": "Thomas Gibson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004959/"
+        "name": "Bill Hunter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0402725/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young Irish couple in the 1890s flees to the United States and participates in the Oklahoma Land Rush.",
+    "description": "A maverick dancer risks his career by performing an unusual routine and sets out to succeed with a new partner.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104231/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/far_and_away"
+    "imdb_url": "https://www.imdb.com/title/tt0105488/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/strictly_ballroom"
   },
   {
-    "title": "Candyman",
+    "title": "Braindead",
     "year": 1992,
     "director": {
-      "name": "Bernard Rose",
-      "imdb_person_url": "https://www.imdb.com/name/nm0742211/"
+      "name": "Peter Jackson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
     },
-    "production_studio": "TriStar Pictures, PolyGram Filmed Entertainment",
+    "production_studio": "WingNut Films",
     "mpaa_rating": "R",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 25.8,
+    "runtime_minutes": 104,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 0.24,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Virginia Madsen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000516/"
-      },
-      {
-        "name": "Tony Todd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001798/"
-      },
-      {
-        "name": "Xander Berkeley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000921/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The ghost of a murdered slave haunts a graduate student who is writing a thesis on urban legends.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0103919/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/candyman"
-  },
-  {
-    "title": "White Men Can't Jump",
-    "year": 1992,
-    "director": {
-      "name": "Ron Shelton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 31,
-    "gross_revenue_usd_millions": 90.8,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Comedy",
-      "Drama",
-      "Sport"
+      "Horror"
     ],
     "actors": [
       {
-        "name": "Wesley Snipes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000648/"
+        "name": "Timothy Balme",
+        "imdb_person_url": "https://www.imdb.com/name/nm0050933/"
       },
       {
-        "name": "Woody Harrelson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000437/"
+        "name": "Diana Peñalver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0672310/"
       },
       {
-        "name": "Rosie Perez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001611/"
+        "name": "Elizabeth Moody",
+        "imdb_person_url": "https://www.imdb.com/name/nm0600473/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two street basketball hustlers, one black and one white, team up to make some money.",
+    "description": "A young man's mother is bitten by a Sumatran rat-monkey. She gets sick and dies, at which time she comes back to life, killing and eating dogs, nurses, friends, and neighbors.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105812/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white_men_cant_jump"
+    "imdb_url": "https://www.imdb.com/title/tt0103873/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_alive"
   },
   {
-    "title": "Glengarry Glen Ross",
+    "title": "Indochine",
     "year": 1992,
     "director": {
-      "name": "James Foley",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001226/"
+      "name": "Régis Wargnier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0912180/"
     },
-    "production_studio": "New Line Cinema, Zupnik Cinema Group",
-    "mpaa_rating": "R",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 12.5,
-    "gross_revenue_usd_millions": 10.7,
+    "production_studio": "Paradis Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 159,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 5.6,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "82%"
     },
     "genres": [
-      "Crime",
       "Drama",
-      "Mystery"
+      "Romance",
+      "War"
     ],
     "actors": [
       {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
+        "name": "Catherine Deneuve",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000363/"
       },
       {
-        "name": "Jack Lemmon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
+        "name": "Vincent Perez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001608/"
       },
       {
-        "name": "Alec Baldwin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000285/"
+        "name": "Linh Dan Pham",
+        "imdb_person_url": "https://www.imdb.com/name/nm0679555/"
       }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An examination of the machinations behind the scenes at a real estate office.",
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "The story of a French rubber plantation owner in colonial Indochina and her adopted Vietnamese daughter, set against the backdrop of the rising nationalist movement.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0104348/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/glengarry_glen_ross"
+    "imdb_url": "https://www.imdb.com/title/tt0104507/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/indochine"
   },
   {
-    "title": "Romper Stomper",
+    "title": "El Mariachi",
     "year": 1992,
     "director": {
-      "name": "Geoffrey Wright",
-      "imdb_person_url": "https://www.imdb.com/name/nm0942379/"
+      "name": "Robert Rodriguez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
     },
-    "production_studio": "Film Victoria, Australian Film Commission",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 3.2,
+    "runtime_minutes": 81,
+    "budget_usd_millions": 0.007,
+    "gross_revenue_usd_millions": 2.0,
     "ratings": {
       "imdb": 6.8,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "75%"
     },
     "genres": [
       "Action",
       "Crime",
-      "Drama"
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
+        "name": "Carlos Gallardo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0302647/"
       },
       {
-        "name": "Daniel Pollock",
-        "imdb_person_url": "https://www.imdb.com/name/nm0689489/"
+        "name": "Consuelo Gómez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0351242/"
       },
       {
-        "name": "Jacqueline McKenzie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005200/"
+        "name": "Reinol Martínez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0554796/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of a group of neo-Nazi skinheads in Melbourne, Australia.",
+    "description": "A traveling mariachi is mistaken for a murderous criminal and must hide from a gang bent on killing him.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0105275/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/romper_stomper"
+    "imdb_url": "https://www.imdb.com/title/tt0104815/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/el_mariachi"
+  },
+  {
+    "title": "Husbands and Wives",
+    "year": 1992,
+    "director": {
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 10.5,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Woody Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+      },
+      {
+        "name": "Mia Farrow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001204/"
+      },
+      {
+        "name": "Sydney Pollack",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001628/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When their best friends announce that they're separating, a professor and his wife discover that the faults in their own marriage are becoming harder to ignore.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104466/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/husbands_and_wives"
   },
   {
     "title": "Death Becomes Her",
@@ -1472,16 +1258,17 @@
     "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 104,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 149,
+    "budget_usd_millions": 55.0,
+    "gross_revenue_usd_millions": 149.0,
     "ratings": {
       "imdb": 6.6,
-      "rotten_tomatoes_critic": "55%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_critic": "56%",
+      "rotten_tomatoes_popcorn": "55%"
     },
     "genres": [
       "Comedy",
-      "Fantasy"
+      "Fantasy",
+      "Horror"
     ],
     "actors": [
       {
@@ -1494,79 +1281,471 @@
       },
       {
         "name": "Goldie Hawn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000440/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000443/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Effects, Visual Effects"
+      "Best Visual Effects"
     ],
-    "description": "Two women, a writer and an actress, drink a magic potion that promises eternal youth, but they find that it has some unexpected side effects.",
+    "description": "When a woman learns of an immortality treatment, she sees it as a way to outdo her long-time rival.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0104070/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/death_becomes_her"
   },
   {
-    "title": "The Bodyguard",
+    "title": "Home Alone 2: Lost in New York",
     "year": 1992,
     "director": {
-      "name": "Mick Jackson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0413926/"
+      "name": "Chris Columbus",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001060/"
     },
-    "production_studio": "Warner Bros., Tig Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 411,
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 28.0,
+    "gross_revenue_usd_millions": 358.9,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "38%",
-      "rotten_tomatoes_popcorn": "56%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "35%",
+      "rotten_tomatoes_popcorn": "61%"
     },
     "genres": [
-      "Action",
-      "Drama",
-      "Music"
+      "Adventure",
+      "Comedy",
+      "Family"
     ],
     "actors": [
       {
-        "name": "Kevin Costner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
+        "name": "Macaulay Culkin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000346/"
       },
       {
-        "name": "Whitney Houston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001365/"
+        "name": "Joe Pesci",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000582/"
       },
       {
-        "name": "Gary Kemp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0447190/"
+        "name": "Daniel Stern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0827663/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "One year after Kevin McCallister was left home alone and had to defeat a pair of bumbling burglars, he accidentally finds himself stranded in New York City - and the same criminals are not far behind.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104431/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/home_alone_2_lost_in_new_york"
+  },
+  {
+    "title": "Lethal Weapon 3",
+    "year": 1992,
+    "director": {
+      "name": "Richard Donner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000373/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 321.7,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Mel Gibson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
+      },
+      {
+        "name": "Danny Glover",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000418/"
+      },
+      {
+        "name": "Joe Pesci",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000582/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Martin Riggs and Roger Murtaugh pursue a former L.A.P.D. officer who uses his knowledge of police procedure and policies to steal and sell confiscated guns and ammunition to street gangs.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104714/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lethal_weapon_3"
+  },
+  {
+    "title": "Alien³",
+    "year": 1992,
+    "director": {
+      "name": "David Fincher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000399/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 50.0,
+    "gross_revenue_usd_millions": 159.8,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "48%",
+      "rotten_tomatoes_popcorn": "47%"
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Sigourney Weaver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000244/"
+      },
+      {
+        "name": "Charles S. Dutton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001165/"
+      },
+      {
+        "name": "Charles Dance",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001097/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After her last encounter, Ellen Ripley crash-lands on a prison planet inhabited by male inmates and attempts to kill the alien that survived the crash.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103644/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/alien_3"
+  },
+  {
+    "title": "Under Siege",
+    "year": 1992,
+    "director": {
+      "name": "Andrew Davis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0204136/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 156.6,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "52%"
+    },
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Steven Seagal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
+      },
+      {
+        "name": "Gary Busey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000997/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former Secret Service agent takes on the job of bodyguard to a pop singer, whose lifestyle is most unlike a President's.",
+    "description": "An ex-Navy Seal turned cook is the only person who can stop a group of terrorists when they seize control of a U.S. battleship.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0103855/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bodyguard"
+    "imdb_url": "https://www.imdb.com/title/tt0105690/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/under_siege"
+  },
+  {
+    "title": "Patriot Games",
+    "year": 1992,
+    "director": {
+      "name": "Phillip Noyce",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001571/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 45.0,
+    "gross_revenue_usd_millions": 178.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Harrison Ford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
+      },
+      {
+        "name": "Sean Bean",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000293/"
+      },
+      {
+        "name": "Anne Archer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000108/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When CIA analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets him and his family for revenge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105112/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/patriot_games"
+  },
+  {
+    "title": "Sneakers",
+    "year": 1992,
+    "director": {
+      "name": "Phil Alden Robinson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0732973/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 23.0,
+    "gross_revenue_usd_millions": 105.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robert Redford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+      },
+      {
+        "name": "Dan Aykroyd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+      },
+      {
+        "name": "Sidney Poitier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000590/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A security pro finds his past coming back to haunt him, when he and his unique team are tasked with retrieving a particularly important item.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105435/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sneakers"
+  },
+  {
+    "title": "Singles",
+    "year": 1992,
+    "director": {
+      "name": "Cameron Crowe",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001081/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 18.5,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Bridget Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000403/"
+      },
+      {
+        "name": "Campbell Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001714/"
+      },
+      {
+        "name": "Kyra Sedgwick",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000633/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of twenty-something friends, most of whom live in the same apartment complex, search for love and success in grunge-era Seattle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105415/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/singles"
+  },
+  {
+    "title": "Of Mice and Men",
+    "year": 1992,
+    "director": {
+      "name": "Gary Sinise",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000641/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 5.5,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "John Malkovich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000518/"
+      },
+      {
+        "name": "Gary Sinise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000641/"
+      },
+      {
+        "name": "Ray Walston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0909946/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two drifters, one a gentle giant and the other his guide, find work at a ranch in Depression-era California, but their plan to own their own farm faces tragedy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105046/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1040947-of_mice_and_men"
+  },
+  {
+    "title": "Bob Roberts",
+    "year": 1992,
+    "director": {
+      "name": "Tim Robbins",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Tim Robbins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Giancarlo Esposito",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002064/"
+      },
+      {
+        "name": "Alan Rickman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000614/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A folk singer turned corrupt politician runs for the US Senate in Pennsylvania.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103850/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bob_roberts"
+  },
+  {
+    "title": "Twin Peaks: Fire Walk with Me",
+    "year": 1992,
+    "director": {
+      "name": "David Lynch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 4.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Sheryl Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0498278/"
+      },
+      {
+        "name": "Ray Wise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0936418/"
+      },
+      {
+        "name": "Mädchen Amick",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000749/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young FBI agent disappears while investigating a murder miles from Twin Peaks that may be related to the future murder of Laura Palmer; the last week of the life of Laura Palmer is chronicled.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105665/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/twin_peaks_fire_walk_with_me"
   },
   {
     "title": "The Muppet Christmas Carol",
     "year": 1992,
     "director": {
       "name": "Brian Henson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001345/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0004918/"
     },
-    "production_studio": "Walt Disney Pictures, Jim Henson Productions",
+    "production_studio": "Walt Disney Pictures",
     "mpaa_rating": "G",
     "runtime_minutes": 85,
-    "budget_usd_millions": 12,
+    "budget_usd_millions": 12.0,
     "gross_revenue_usd_millions": 27.3,
     "ratings": {
       "imdb": 7.7,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Comedy",
@@ -1580,11 +1759,11 @@
       },
       {
         "name": "Dave Goelz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0324316/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0004965/"
       },
       {
         "name": "Steve Whitmire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0926213/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0926209/"
       }
     ],
     "oscars_nominated": 0,
@@ -1594,5 +1773,265 @@
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0104940/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/muppet_christmas_carol"
+  },
+  {
+    "title": "Porco Rosso",
+    "year": 1992,
+    "director": {
+      "name": "Hayao Miyazaki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0594503/"
+    },
+    "production_studio": "Studio Ghibli",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 9.2,
+    "gross_revenue_usd_millions": 59.0,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Shûichirô Moriyama",
+        "imdb_person_url": "https://www.imdb.com/name/nm0606076/"
+      },
+      {
+        "name": "Tokiko Katô",
+        "imdb_person_url": "https://www.imdb.com/name/nm0441947/"
+      },
+      {
+        "name": "Bunshi Katsura Vi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0441513/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1930s Italy, a veteran World War I pilot is cursed to look like an anthropomorphic pig.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102357/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/porco_rosso"
+  },
+  {
+    "title": "Bad Lieutenant",
+    "year": 1992,
+    "director": {
+      "name": "Abel Ferrara",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001205/"
+    },
+    "production_studio": "Aries Film",
+    "mpaa_rating": "NC-17",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Harvey Keitel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
+      },
+      {
+        "name": "Victor Argo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0034502/"
+      },
+      {
+        "name": "Paul Calderon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0129693/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "While investigating the rape of a nun, a corrupt New York City police detective with a serious drug and gambling addiction tries to change his ways and find forgiveness.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103759/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_lieutenant"
+  },
+  {
+    "title": "Passion Fish",
+    "year": 1992,
+    "director": {
+      "name": "John Sayles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000626/"
+    },
+    "production_studio": "Atchafalaya",
+    "mpaa_rating": "R",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 4.3,
+    "gross_revenue_usd_millions": 4.8,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Mary McDonnell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005211/"
+      },
+      {
+        "name": "Alfre Woodard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005569/"
+      },
+      {
+        "name": "Lenore Banks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0052192/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A soap opera star is paralyzed in an accident and returns to her home in Louisiana to recover, where she meets a nurse who changes her outlook on life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105107/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/passion_fish"
+  },
+  {
+    "title": "One False Move",
+    "year": 1992,
+    "director": {
+      "name": "Carl Franklin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0291362/"
+    },
+    "production_studio": "IRS Media",
+    "mpaa_rating": "R",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Bill Paxton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000575/"
+      },
+      {
+        "name": "Billy Bob Thornton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000233/"
+      },
+      {
+        "name": "Cynda Williams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0930336/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three criminals on the run from Los Angeles converge on a small Arkansas town where the local sheriff is waiting for them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102592/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/one_false_move"
+  },
+  {
+    "title": "Deep Cover",
+    "year": 1992,
+    "director": {
+      "name": "Bill Duke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004886/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 16.6,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Laurence Fishburne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000401/"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000156/"
+      },
+      {
+        "name": "Victoria Dillard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0226829/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A police officer goes undercover to infiltrate a drug ring, but gets in over his head.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0104073/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/deep_cover"
+  },
+  {
+    "title": "A River Runs Through It",
+    "year": 1992,
+    "director": {
+      "name": "Robert Redford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 43.4,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Craig Sheffer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000640/"
+      },
+      {
+        "name": "Brad Pitt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
+      },
+      {
+        "name": "Tom Skerritt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000643/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Cinematography"
+    ],
+    "description": "The story of two stern but loving brothers growing up in Montana, dedicated to fly fishing.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0105265/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/river_runs_through_it"
   }
 ]

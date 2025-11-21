@@ -3,64 +3,293 @@
     "title": "Snow White and the Seven Dwarfs",
     "year": 1937,
     "director": {
-      "name": "William Cottrell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0182878/"
+      "name": "David Hand",
+      "imdb_person_url": "https://www.imdb.com/name/nm0359331/"
     },
     "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 83,
     "budget_usd_millions": 1.49,
-    "gross_revenue_usd_millions": 184.9,
+    "gross_revenue_usd_millions": 418.0,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Animation",
-      "Family",
-      "Fantasy"
+      "Adventure",
+      "Family"
     ],
     "actors": [
       {
         "name": "Adriana Caselotti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0143323/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0143247/"
       },
       {
         "name": "Harry Stockwell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0830843/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0830813/"
       },
       {
         "name": "Lucille La Verne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0479046/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0478968/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Honorary Award"
+      "Honorary Award (To Walt Disney for a significant screen innovation)"
     ],
-    "description": "Exiled into the dangerous forest by her wicked stepmother, a princess is rescued by seven dwarf miners.",
+    "description": "Exiled into the dangerous forest by her wicked stepmother, a princess is rescued by seven dwarf miners who make her part of their household.",
     "afi_ranking": 34,
     "imdb_url": "https://www.imdb.com/title/tt0029583/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/snow_white_and_the_seven_dwarfs"
+  },
+  {
+    "title": "The Life of Emile Zola",
+    "year": 1937,
+    "director": {
+      "name": "William Dieterle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0226150/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "46%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Paul Muni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002237/"
+      },
+      {
+        "name": "Gale Sondergaard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0814215/"
+      },
+      {
+        "name": "Joseph Schildkraut",
+        "imdb_person_url": "https://www.imdb.com/name/nm0771592/"
+      }
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Supporting Actor",
+      "Best Writing, Screenplay"
+    ],
+    "description": "The biopic of the famous French muckraking writer and his involvement in fighting the injustice of the Dreyfus Affair.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029146/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/life_of_emile_zola"
+  },
+  {
+    "title": "The Awful Truth",
+    "year": 1937,
+    "director": {
+      "name": "Leo McCarey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565590/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Screwball"
+    ],
+    "actors": [
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Irene Dunne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002051/"
+      },
+      {
+        "name": "Ralph Bellamy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000897/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Director"
+    ],
+    "description": "A married couple suspicious of each other's fidelity files for divorce and begins sabotaging each other's new romantic interests.",
+    "afi_ranking": 68,
+    "imdb_url": "https://www.imdb.com/title/tt0028597/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/awful_truth"
+  },
+  {
+    "title": "La Grande Illusion",
+    "year": 1937,
+    "director": {
+      "name": "Jean Renoir",
+      "imdb_person_url": "https://www.imdb.com/name/nm0719645/"
+    },
+    "production_studio": "Réalisations d'Art Cinématographique",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 113,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Jean Gabin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002088/"
+      },
+      {
+        "name": "Erich von Stroheim",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002233/"
+      },
+      {
+        "name": "Pierre Fresnay",
+        "imdb_person_url": "https://www.imdb.com/name/nm0294360/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During WWI, two French soldiers are captured and imprisoned in a German POW camp. Several escape attempts follow until they are sent to a seemingly inescapable fortress.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028970/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grand_illusion"
+  },
+  {
+    "title": "A Star Is Born",
+    "year": 1937,
+    "director": {
+      "name": "William A. Wellman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0920025/"
+    },
+    "production_studio": "Selznick International Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 1.17,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Janet Gaynor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0310955/"
+      },
+      {
+        "name": "Fredric March",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001507/"
+      },
+      {
+        "name": "Adolphe Menjou",
+        "imdb_person_url": "https://www.imdb.com/name/nm0579639/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Original Story",
+      "Honorary Award (W. Howard Greene for color photography)"
+    ],
+    "description": "A young woman comes to Hollywood with dreams of stardom, achieving them only with the help of an alcoholic leading man whose days are numbered.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029606/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019824-star_is_born"
+  },
+  {
+    "title": "Lost Horizon",
+    "year": 1937,
+    "director": {
+      "name": "Frank Capra",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 132,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Ronald Colman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0172848/"
+      },
+      {
+        "name": "Jane Wyatt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0943553/"
+      },
+      {
+        "name": "Sam Jaffe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0415488/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Art Direction",
+      "Best Film Editing"
+    ],
+    "description": "A plane crash delivers a group of people to the secluded land of Shangri-La, where life is peaceful and people do not age.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029162/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lost_horizon"
   },
   {
     "title": "Captains Courageous",
     "year": 1937,
     "director": {
       "name": "Victor Fleming",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002078/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0002076/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 115,
+    "runtime_minutes": 117,
     "budget_usd_millions": 1.6,
     "gross_revenue_usd_millions": 3.1,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "88%"
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Adventure",
@@ -74,220 +303,39 @@
       },
       {
         "name": "Freddie Bartholomew",
-        "imdb_person_url": "https://www.imdb.com/name/nm0058332/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0058605/"
       },
       {
         "name": "Lionel Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000865/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000859/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Actor"
+      "Best Actor (Spencer Tracy)"
     ],
-    "description": "A spoiled brat who falls overboard from a steamship is rescued by a Portuguese fisherman, who teaches him the ways of the sea.",
-    "afi_ranking": null,
+    "description": "A spoiled brat falls overboard from a steamship and gets picked up by a Portuguese fisherman on a fishing boat, where he is forced to earn his keep.",
+    "afi_ranking": 94,
     "imdb_url": "https://www.imdb.com/title/tt0028691/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/captains_courageous"
-  },
-  {
-    "title": "The Awful Truth",
-    "year": 1937,
-    "director": {
-      "name": "Leo McCarey",
-      "imdb_person_url": "https://www.imdb.com/name/nm0565257/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 0.6,
-    "gross_revenue_usd_millions": 3,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Irene Dunne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002050/"
-      },
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Ralph Bellamy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000896/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Director"
-    ],
-    "description": "A married couple who suspect each other of infidelity file for divorce, but find it hard to let go.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0028597/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_awful_truth"
-  },
-  {
-    "title": "Grand Illusion",
-    "year": 1937,
-    "director": {
-      "name": "Jean Renoir",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003025/"
-    },
-    "production_studio": "Réalisation d'Art Cinématographique (RAC)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 113,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Jean Gabin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0300265/"
-      },
-      {
-        "name": "Dita Parlo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0663116/"
-      },
-      {
-        "name": "Pierre Fresnay",
-        "imdb_person_url": "https://www.imdb.com/name/nm0294374/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "During WWI, two French soldiers are captured and imprisoned in a German POW camp. Several escape attempts follow.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0028950/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grand_illusion"
-  },
-  {
-    "title": "A Star Is Born",
-    "year": 1937,
-    "director": {
-      "name": "William A. Wellman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0920074/"
-    },
-    "production_studio": "Selznick International Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 0.57,
-    "gross_revenue_usd_millions": 2.3,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Janet Gaynor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0310982/"
-      },
-      {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
-      },
-      {
-        "name": "Adolphe Menjou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0579634/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Writing, Original Story",
-      "Honorary Award"
-    ],
-    "description": "A young woman comes to Hollywood with dreams of stardom, but finds her career is mentoring by an aging actor whose own career is in decline.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029606/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019632-star_is_born"
-  },
-  {
-    "title": "The Life of Emile Zola",
-    "year": 1937,
-    "director": {
-      "name": "William Dieterle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0226189/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 0.69,
-    "gross_revenue_usd_millions": 1.9,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "69%"
-    },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Paul Muni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0612868/"
-      },
-      {
-        "name": "Gale Sondergaard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0814242/"
-      },
-      {
-        "name": "Joseph Schildkraut",
-        "imdb_person_url": "https://www.imdb.com/name/nm0771630/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Supporting Actor",
-      "Best Writing, Screenplay"
-    ],
-    "description": "The biopic of the famous French writer Emile Zola and his involvement in the Dreyfus Affair.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029146/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_life_of_emile_zola"
   },
   {
     "title": "Stage Door",
     "year": 1937,
     "director": {
       "name": "Gregory La Cava",
-      "imdb_person_url": "https://www.imdb.com/name/nm0478712/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0479355/"
     },
     "production_studio": "RKO Radio Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 92,
     "budget_usd_millions": 0.9,
-    "gross_revenue_usd_millions": null,
+    "gross_revenue_usd_millions": 1.8,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
       "Comedy",
@@ -304,13 +352,13 @@
       },
       {
         "name": "Adolphe Menjou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0579634/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0579639/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The lives and dreams of a group of aspiring actresses living together in a boarding house in New York City.",
+    "description": "A boardinghouse for aspiring actresses houses a mix of women with different backgrounds and ambitions, leading to friendship and tragedy.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0029604/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stage_door"
@@ -320,17 +368,17 @@
     "year": 1937,
     "director": {
       "name": "Leo McCarey",
-      "imdb_person_url": "https://www.imdb.com/name/nm0565257/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0565590/"
     },
     "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 91,
-    "budget_usd_millions": 0.3,
+    "budget_usd_millions": 0.7,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 8.1,
+      "imdb": 8.2,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Drama",
@@ -339,15 +387,15 @@
     "actors": [
       {
         "name": "Victor Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0601994/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0601990/"
       },
       {
         "name": "Beulah Bondi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0094248/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001961/"
       },
       {
-        "name": "Fay Bainter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0047895/"
+        "name": "Thomas Mitchell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0593758/"
       }
     ],
     "oscars_nominated": 0,
@@ -355,116 +403,116 @@
     "oscars_won_details": [],
     "description": "An elderly couple is forced to separate when they lose their house and none of their five children will take both of them in.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029192/",
+    "imdb_url": "https://www.imdb.com/title/tt0029195/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/make_way_for_tomorrow"
   },
   {
-    "title": "Lost Horizon",
+    "title": "Dead End",
     "year": 1937,
     "director": {
-      "name": "Frank Capra",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+      "name": "William Wyler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "Samuel Goldwyn Productions",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 2.6,
-    "gross_revenue_usd_millions": null,
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.4,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "62%"
     },
     "genres": [
-      "Adventure",
+      "Crime",
       "Drama",
-      "Fantasy"
+      "Film-Noir"
     ],
     "actors": [
       {
-        "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
+        "name": "Sylvia Sidney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0796660/"
       },
       {
-        "name": "Jane Wyatt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001864/"
+        "name": "Joel McCrea",
+        "imdb_person_url": "https://www.imdb.com/name/nm0566909/"
       },
       {
-        "name": "Edward Everett Horton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002143/"
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
       }
     ],
-    "oscars_nominated": 7,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Art Direction",
-      "Best Film Editing"
-    ],
-    "description": "A plane crash delivers a group of people to the secluded land of Shangri-La, but will they ever be able to leave?",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029162/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lost_horizon"
-  },
-  {
-    "title": "A Day at the Races",
-    "year": 1937,
-    "director": {
-      "name": "Sam Wood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0939886/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 3.7,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Groucho Marx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000050/"
-      },
-      {
-        "name": "Chico Marx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0555611/"
-      },
-      {
-        "name": "Harpo Marx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0555621/"
-      }
-    ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A veterinarian posing as a doctor, a race horse owner, and a singer team up to save a sanitarium.",
+    "description": "The lives of a gang of street urchins, a gangster returning to his old neighborhood, and an architect intersect in a New York City slum.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0028772/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_day_at_the_races"
+    "imdb_url": "https://www.imdb.com/title/tt0028773/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_end"
+  },
+  {
+    "title": "In Old Chicago",
+    "year": 1937,
+    "director": {
+      "name": "Henry King",
+      "imdb_person_url": "https://www.imdb.com/name/nm0454780/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 4.4,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "25%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Tyrone Power",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001634/"
+      },
+      {
+        "name": "Alice Faye",
+        "imdb_person_url": "https://www.imdb.com/name/nm0269646/"
+      },
+      {
+        "name": "Don Ameche",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000746/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Supporting Actress",
+      "Best Assistant Director"
+    ],
+    "description": "A fictionalized account of the Great Chicago Fire of 1871 and the O'Leary family who occupied the center of the drama.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029051/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_old_chicago"
   },
   {
     "title": "Nothing Sacred",
     "year": 1937,
     "director": {
       "name": "William A. Wellman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0920074/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0920025/"
     },
     "production_studio": "Selznick International Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 77,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 1.6,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "54%"
     },
     "genres": [
       "Comedy",
@@ -478,39 +526,124 @@
       },
       {
         "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001507/"
       },
       {
         "name": "Charles Winninger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0935391/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0935422/"
       }
     ],
     "oscars_nominated": 0,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Honorary Award"
-    ],
-    "description": "A small-town woman who is mistakenly thought to be dying of radium poisoning is exploited by a New York City newspaper.",
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A big-city reporter attempts to resurrect his career by exploiting the story of a small-town woman supposedly dying of radium poisoning.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0029322/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nothing_sacred"
+  },
+  {
+    "title": "Stella Dallas",
+    "year": 1937,
+    "director": {
+      "name": "King Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0007181/"
+    },
+    "production_studio": "Samuel Goldwyn Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 106,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Barbara Stanwyck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001766/"
+      },
+      {
+        "name": "John Boles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0092925/"
+      },
+      {
+        "name": "Anne Shirley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0794297/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A working-class mother makes the ultimate sacrifice to ensure her daughter has the social standing and happiness she never could.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029608/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019921-stella_dallas"
+  },
+  {
+    "title": "The Prisoner of Zenda",
+    "year": 1937,
+    "director": {
+      "name": "John Cromwell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0188560/"
+    },
+    "production_studio": "Selznick International Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ronald Colman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0172848/"
+      },
+      {
+        "name": "Madeleine Carroll",
+        "imdb_person_url": "https://www.imdb.com/name/nm0140914/"
+      },
+      {
+        "name": "Douglas Fairbanks Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002068/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An Englishman on holiday in a fictional European kingdom is persuaded to impersonate the King to save the throne from the King's wicked brother.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029440/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016682-prisoner_of_zenda"
   },
   {
     "title": "Easy Living",
     "year": 1937,
     "director": {
       "name": "Mitchell Leisen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0500191/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0500603/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 88,
-    "budget_usd_millions": null,
+    "budget_usd_millions": 0.6,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "82%"
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Comedy",
@@ -519,11 +652,11 @@
     "actors": [
       {
         "name": "Jean Arthur",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000799/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
       },
       {
         "name": "Edward Arnold",
-        "imdb_person_url": "https://www.imdb.com/name/nm0036323/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0036422/"
       },
       {
         "name": "Ray Milland",
@@ -533,148 +666,105 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A series of comic misunderstandings ensues when a wealthy financier throws his wife's expensive fur coat out the window and it lands on a young working woman.",
+    "description": "A wealthy banker, angry with his wife, throws her fur coat out the window where it lands on a poor working girl, causing everyone to assume she is his mistress.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0028822/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/easy_living"
+    "imdb_url": "https://www.imdb.com/title/tt0028816/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1006392-easy_living"
   },
   {
-    "title": "Stella Dallas",
+    "title": "A Day at the Races",
     "year": 1937,
     "director": {
-      "name": "King Vidor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0896542/"
+      "name": "Sam Wood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939997/"
     },
-    "production_studio": "Samuel Goldwyn Company",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": 2,
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.7,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "82%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Barbara Stanwyck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001761/"
-      },
-      {
-        "name": "John Boles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0093010/"
-      },
-      {
-        "name": "Anne Shirley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001732/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A working-class woman makes a great sacrifice for her daughter's social advancement.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029608/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stella_dallas"
-  },
-  {
-    "title": "The Prisoner of Zenda",
-    "year": 1937,
-    "director": {
-      "name": "John Cromwell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0188683/"
-    },
-    "production_studio": "Selznick International Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 1.25,
-    "gross_revenue_usd_millions": 2,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
-      },
-      {
-        "name": "Madeleine Carroll",
-        "imdb_person_url": "https://www.imdb.com/name/nm0140924/"
-      },
-      {
-        "name": "C. Aubrey Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An Englishman on a Ruritanian holiday must impersonate the king when the rightful monarch is drugged and kidnapped.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029442/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016766-prisoner_of_zenda"
-  },
-  {
-    "title": "Topper",
-    "year": 1937,
-    "director": {
-      "name": "Norman Z. McLeod",
-      "imdb_person_url": "https://www.imdb.com/name/nm0572855/"
-    },
-    "production_studio": "Hal Roach Studios",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 97,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Comedy",
-      "Fantasy",
+      "Musical",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Groucho Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000050/"
+      },
+      {
+        "name": "Chico Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005192/"
+      },
+      {
+        "name": "Harpo Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005193/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A veterinarian posing as a doctor, a racehorse owner, and his friends struggle to help a sanitarium owner keep her business open with the help of a misfit horse.",
+    "afi_ranking": 59,
+    "imdb_url": "https://www.imdb.com/title/tt0028772/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/day_at_the_races"
+  },
+  {
+    "title": "Shall We Dance",
+    "year": 1937,
+    "director": {
+      "name": "Mark Sandrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0762237/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": 2.1,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Constance Bennett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
+        "name": "Fred Astaire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
       },
       {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
       },
       {
-        "name": "Roland Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0949826/"
+        "name": "Edward Everett Horton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002143/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A fun-loving couple who die in a car crash return as ghosts to haunt the staid banker who bought their house.",
+    "description": "A ballet dancer and a tap dancer fake a marriage for publicity, but eventually fall in love for real.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029682/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/topper"
+    "imdb_url": "https://www.imdb.com/title/tt0029546/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shall_we_dance"
   },
   {
     "title": "Way Out West",
     "year": 1937,
     "director": {
       "name": "James W. Horne",
-      "imdb_person_url": "https://www.imdb.com/name/nm0394988/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0395020/"
     },
     "production_studio": "Hal Roach Studios",
     "mpaa_rating": "Passed",
@@ -684,31 +774,30 @@
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
       "Comedy",
-      "Family",
       "Western"
     ],
     "actors": [
       {
         "name": "Stan Laurel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001453/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001451/"
       },
       {
         "name": "Oliver Hardy",
         "imdb_person_url": "https://www.imdb.com/name/nm0001316/"
       },
       {
-        "name": "Sharon Lynn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0528770/"
+        "name": "Sharon Lynne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0529007/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two bumbling prospectors try to deliver the deed to a gold mine to the daughter of a dead friend, but are swindled by a saloon owner.",
+    "description": "Stan and Ollie attempt to deliver a deed to a gold mine to the daughter of a deceased prospector but are duped by her evil guardian.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0029747/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/way_out_west"
@@ -718,17 +807,17 @@
     "year": 1937,
     "director": {
       "name": "Sidney Franklin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0291535/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0291511/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
     "runtime_minutes": 138,
     "budget_usd_millions": 2.8,
-    "gross_revenue_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 4.2,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
       "Drama",
@@ -737,7 +826,7 @@
     "actors": [
       {
         "name": "Paul Muni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0612868/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002237/"
       },
       {
         "name": "Luise Rainer",
@@ -745,7 +834,7 @@
       },
       {
         "name": "Walter Connolly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0175283/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0175305/"
       }
     ],
     "oscars_nominated": 5,
@@ -754,27 +843,421 @@
       "Best Actress",
       "Best Cinematography"
     ],
-    "description": "A Chinese farmer and his family struggle to survive through drought, famine, and revolution.",
+    "description": "A Chinese farmer and his former slave wife face locusts, famine, and revolution as they struggle to maintain their land and family.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0028945/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_good_earth"
+    "imdb_url": "https://www.imdb.com/title/tt0028944/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/good_earth"
   },
   {
-    "title": "Dead End",
+    "title": "Topper",
     "year": 1937,
     "director": {
-      "name": "William Wyler",
-      "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
+      "name": "Norman Z. McLeod",
+      "imdb_person_url": "https://www.imdb.com/name/nm0572723/"
     },
-    "production_studio": "Samuel Goldwyn Company",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 0.9,
-    "gross_revenue_usd_millions": 2,
+    "production_studio": "Hal Roach Studios",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.6,
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Constance Bennett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001941/"
+      },
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Roland Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950031/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A fun-loving couple, now ghosts after a car accident, decide to shake up the stuffy lifestyle of their favorite banker friend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029682/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/topper"
+  },
+  {
+    "title": "Heidi",
+    "year": 1937,
+    "director": {
+      "name": "Allan Dwan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0245355/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 88,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Shirley Temple",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000073/"
+      },
+      {
+        "name": "Jean Hersholt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0380965/"
+      },
+      {
+        "name": "Arthur Treacher",
+        "imdb_person_url": "https://www.imdb.com/name/nm0871560/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young orphan girl is sent to live with her reclusive grandfather in the mountains, only to be taken away again to live with a wealthy invalid.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028988/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009420-heidi"
+  },
+  {
+    "title": "The Prince and the Pauper",
+    "year": 1937,
+    "director": {
+      "name": "William Keighley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0445108/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": 1.68,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Errol Flynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
+      },
+      {
+        "name": "Billy Mauch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0560838/"
+      },
+      {
+        "name": "Bobby Mauch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0560839/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two identical young boys, a beggar and a prince, swap places by accident and have to survive in each other's worlds.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029441/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016672-prince_and_the_pauper"
+  },
+  {
+    "title": "Pépé le Moko",
+    "year": 1937,
+    "director": {
+      "name": "Julien Duvivier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0245264/"
+    },
+    "production_studio": "Paris Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 94,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jean Gabin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002088/"
+      },
+      {
+        "name": "Gabriel Gabrio",
+        "imdb_person_url": "https://www.imdb.com/name/nm0300157/"
+      },
+      {
+        "name": "Mireille Balin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0050228/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A French gangster hiding in the Casbah of Algiers risks capture when he falls in love with a beautiful tourist.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029389/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pepe_le_moko"
+  },
+  {
+    "title": "One Hundred Men and a Girl",
+    "year": 1937,
+    "director": {
+      "name": "Henry Koster",
+      "imdb_person_url": "https://www.imdb.com/name/nm0467443/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 84,
+    "budget_usd_millions": 0.76,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "38%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Deanna Durbin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002052/"
+      },
+      {
+        "name": "Leopold Stokowski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0831437/"
+      },
+      {
+        "name": "Adolphe Menjou",
+        "imdb_person_url": "https://www.imdb.com/name/nm0579639/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Score"
+    ],
+    "description": "The daughter of an unemployed musician forms an orchestra of similarly unemployed men and tries to get a famous conductor to lead them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029349/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/one_hundred_men_and_a_girl"
+  },
+  {
+    "title": "Young and Innocent",
+    "year": 1937,
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
+    "production_studio": "Gaumont British",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 80,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "46%"
+    },
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Nova Pilbeam",
+        "imdb_person_url": "https://www.imdb.com/name/nm0683340/"
+      },
+      {
+        "name": "Derrick De Marney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0210039/"
+      },
+      {
+        "name": "Percy Marmont",
+        "imdb_person_url": "https://www.imdb.com/name/nm0549418/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man unjustly accused of murder goes on the run with the help of a police constable's daughter to find the real killer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029811/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/young_and_innocent"
+  },
+  {
+    "title": "Wee Willie Winkie",
+    "year": 1937,
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "40%"
+    },
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Shirley Temple",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000073/"
+      },
+      {
+        "name": "Victor McLaglen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0572149/"
+      },
+      {
+        "name": "C. Aubrey Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0807521/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young girl and her widowed mother live at a British Army outpost in India during the colonial era, where she charms the regiment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029752/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wee_willie_winkie"
+  },
+  {
+    "title": "Kid Galahad",
+    "year": 1937,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0193249/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 1.3,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Edward G. Robinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
+      },
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A boxing promoter takes a young bellhop under his wing and turns him into a prize fighter, angering a rival gangster.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029078/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011427-kid_galahad"
+  },
+  {
+    "title": "San Quentin",
+    "year": 1937,
+    "director": {
+      "name": "Lloyd Bacon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0045811/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 70,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "30%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Pat O'Brien",
+        "imdb_person_url": "https://www.imdb.com/name/nm0639738/"
+      },
+      {
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      },
+      {
+        "name": "Ann Sheridan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0792133/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ex-Army officer takes over as chief guard at San Quentin prison and tries to implement fair reforms, but inmates plan a breakout.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029516/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/san_quentin"
+  },
+  {
+    "title": "Marked Woman",
+    "year": 1937,
+    "director": {
+      "name": "Lloyd Bacon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0045811/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 0.49,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
       "Crime",
@@ -783,42 +1266,42 @@
     ],
     "actors": [
       {
-        "name": "Sylvia Sidney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001712/"
-      },
-      {
-        "name": "Joel McCrea",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001520/"
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
       },
       {
         "name": "Humphrey Bogart",
         "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      },
+      {
+        "name": "Lola Lane",
+        "imdb_person_url": "https://www.imdb.com/name/nm0485431/"
       }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The lives of the rich and the poor intersect on a dead-end street in a New York City slum.",
+    "description": "A nightclub hostess decides to testify against her gangster boss after he beats her and kills her younger sister.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0028773/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_end"
+    "imdb_url": "https://www.imdb.com/title/tt0029216/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/marked_woman"
   },
   {
-    "title": "The Prisoner of Zenda",
+    "title": "The Hurricane",
     "year": 1937,
     "director": {
-      "name": "John Cromwell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0188683/"
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
     },
-    "production_studio": "Selznick International Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 1.25,
-    "gross_revenue_usd_millions": 2,
+    "production_studio": "Samuel Goldwyn Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "50%"
     },
     "genres": [
       "Action",
@@ -827,205 +1310,547 @@
     ],
     "actors": [
       {
-        "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
+        "name": "Dorothy Lamour",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001446/"
       },
       {
-        "name": "Madeleine Carroll",
-        "imdb_person_url": "https://www.imdb.com/name/nm0140924/"
+        "name": "Jon Hall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0355742/"
       },
       {
-        "name": "C. Aubrey Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
+        "name": "Mary Astor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000803/"
       }
     ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An Englishman on a Ruritanian holiday must impersonate the king when the rightful monarch is drugged and kidnapped.",
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Sound, Recording"
+    ],
+    "description": "A Polynesian sailor is unjustly imprisoned by a colonial governor; meanwhile, a massive typhoon threatens to destroy the island.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029442/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016766-prisoner_of_zenda"
+    "imdb_url": "https://www.imdb.com/title/tt0029030/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010271-hurricane"
   },
   {
-    "title": "Topper",
+    "title": "Black Legion",
     "year": 1937,
     "director": {
-      "name": "Norman Z. McLeod",
-      "imdb_person_url": "https://www.imdb.com/name/nm0572855/"
+      "name": "Archie Mayo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0562923/"
     },
-    "production_studio": "Hal Roach Studios",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 97,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Constance Bennett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
-      },
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Roland Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0949826/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A fun-loving couple who die in a car crash return as ghosts to haunt the staid banker who bought their house.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029682/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/topper"
-  },
-  {
-    "title": "Way Out West",
-    "year": 1937,
-    "director": {
-      "name": "James W. Horne",
-      "imdb_person_url": "https://www.imdb.com/name/nm0394988/"
-    },
-    "production_studio": "Hal Roach Studios",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 64,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.23,
+    "gross_revenue_usd_millions": 0.8,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "88%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "45%"
     },
     "genres": [
-      "Comedy",
-      "Family",
-      "Western"
+      "Crime",
+      "Drama",
+      "Film-Noir"
     ],
     "actors": [
       {
-        "name": "Stan Laurel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001453/"
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
       },
       {
-        "name": "Oliver Hardy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001316/"
+        "name": "Dick Foran",
+        "imdb_person_url": "https://www.imdb.com/name/nm0285267/"
       },
       {
-        "name": "Sharon Lynn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0528770/"
+        "name": "Erin O'Brien-Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0639547/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two bumbling prospectors try to deliver the deed to a gold mine to the daughter of a dead friend, but are swindled by a saloon owner.",
+    "description": "An auto factory worker turns to a violent, Ku Klux Klan-like hate group when he loses a promotion to a foreign-born co-worker.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029747/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/way_out_west"
+    "imdb_url": "https://www.imdb.com/title/tt0028634/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/black_legion"
   },
   {
-    "title": "The Good Earth",
+    "title": "History Is Made at Night",
     "year": 1937,
     "director": {
-      "name": "Sidney Franklin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0291535/"
+      "name": "Frank Borzage",
+      "imdb_person_url": "https://www.imdb.com/name/nm0097636/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Walter Wanger Productions",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 138,
-    "budget_usd_millions": 2.8,
-    "gross_revenue_usd_millions": 3.5,
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.7,
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "59%"
     },
     "genres": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Charles Boyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000964/"
+      },
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
+      },
+      {
+        "name": "Leo Carrillo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0140567/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman tries to divorce her possessive shipping magnate husband and falls in love with a dashing headwaiter, leading to a dramatic confrontation on an ocean liner.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029007/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/history_is_made_at_night"
+  },
+  {
+    "title": "Angel",
+    "year": 1937,
+    "director": {
+      "name": "Ernst Lubitsch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002281/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": [
+      "Comedy",
       "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Paul Muni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0612868/"
+        "name": "Marlene Dietrich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
       },
       {
-        "name": "Luise Rainer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0707023/"
+        "name": "Herbert Marshall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0550913/"
       },
       {
-        "name": "Walter Connolly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0175283/"
+        "name": "Melvyn Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0235182/"
       }
     ],
-    "oscars_nominated": 5,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actress",
-      "Best Cinematography"
-    ],
-    "description": "A Chinese farmer and his family struggle to survive through drought, famine, and revolution.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The neglected wife of a British diplomat has a brief fling with a stranger in Paris, only to find him later as a guest in her own home.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0028945/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_good_earth"
+    "imdb_url": "https://www.imdb.com/title/tt0028579/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/angel"
   },
   {
-    "title": "Lost Horizon",
+    "title": "True Confession",
     "year": 1937,
     "director": {
-      "name": "Frank Capra",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+      "name": "Wesley Ruggles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0749437/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 2.6,
+    "runtime_minutes": 85,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "43%"
     },
     "genres": [
-      "Adventure",
-      "Drama",
-      "Fantasy"
+      "Comedy",
+      "Crime"
     ],
     "actors": [
       {
-        "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
+        "name": "Carole Lombard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
       },
       {
-        "name": "Jane Wyatt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001864/"
+        "name": "Fred MacMurray",
+        "imdb_person_url": "https://www.imdb.com/name/nm0534045/"
       },
       {
-        "name": "Edward Everett Horton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002143/"
+        "name": "John Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000856/"
       }
     ],
-    "oscars_nominated": 7,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Art Direction",
-      "Best Film Editing"
-    ],
-    "description": "A plane crash delivers a group of people to the secluded land of Shangri-La, but will they ever be able to leave?",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pathological liar confesses to a murder she didn't commit to boost her lawyer husband's career, but the plan spirals out of control.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0029162/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lost_horizon"
+    "imdb_url": "https://www.imdb.com/title/tt0029692/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/true_confession"
+  },
+  {
+    "title": "Tovarich",
+    "year": 1937,
+    "director": {
+      "name": "Anatole Litvak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514854/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Claudette Colbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
+      },
+      {
+        "name": "Charles Boyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000964/"
+      },
+      {
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Russian royals exiled in Paris after the revolution run out of money and are forced to take jobs as servants in a banker's household.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029685/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tovarich"
+  },
+  {
+    "title": "It's Love I'm After",
+    "year": 1937,
+    "director": {
+      "name": "Archie Mayo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0562923/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Leslie Howard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
+      },
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Olivia de Havilland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000014/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A quarrelsome stage couple agrees to help a young fan break off her engagement by having the actor pretend to be an unbearable boor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029057/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/its_love_im_after"
+  },
+  {
+    "title": "Elephant Boy",
+    "year": 1937,
+    "director": {
+      "name": "Robert J. Flaherty",
+      "imdb_person_url": "https://www.imdb.com/name/nm0280850/"
+    },
+    "production_studio": "London Film Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "40%"
+    },
+    "genres": [
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Sabu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0754934/"
+      },
+      {
+        "name": "W.E. Holloway",
+        "imdb_person_url": "https://www.imdb.com/name/nm0391297/"
+      },
+      {
+        "name": "Walter Hudd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0399567/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Based on a Kipling story, a native boy in India claims he knows the secret gathering place of the elephant herds.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028827/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/elephant_boy"
+  },
+  {
+    "title": "Think Fast, Mr. Moto",
+    "year": 1937,
+    "director": {
+      "name": "Norman Foster",
+      "imdb_person_url": "https://www.imdb.com/name/nm0287985/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 66,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Peter Lorre",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000048/"
+      },
+      {
+        "name": "Virginia Field",
+        "imdb_person_url": "https://www.imdb.com/name/nm0276066/"
+      },
+      {
+        "name": "Thomas Beck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0065291/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Japanese detective Mr. Moto solves a diamond smuggling ring while travelling on a ship from San Francisco to Shanghai.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029659/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/think_fast_mr_moto"
+  },
+  {
+    "title": "Vogues of 1938",
+    "year": 1937,
+    "director": {
+      "name": "Irving Cummings",
+      "imdb_person_url": "https://www.imdb.com/name/nm0191898/"
+    },
+    "production_studio": "Walter Wanger Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 108,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "20%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Warner Baxter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0062871/"
+      },
+      {
+        "name": "Joan Bennett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000910/"
+      },
+      {
+        "name": "Helen Vinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0899059/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wealthy socialite jilts her fiance to work as a model for a successful couturier, causing complications in his business and personal life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029738/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/vogues_of_1938"
+  },
+  {
+    "title": "Maytime",
+    "year": 1937,
+    "director": {
+      "name": "Robert Z. Leonard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0502741/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 132,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 4.0,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jeanette MacDonald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531776/"
+      },
+      {
+        "name": "Nelson Eddy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0248904/"
+      },
+      {
+        "name": "John Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000856/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An elderly woman recounts her life as an opera singer in Paris and her tragic romance with a baritone singer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029224/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/maytime"
+  },
+  {
+    "title": "Night Must Fall",
+    "year": 1937,
+    "director": {
+      "name": "Richard Thorpe",
+      "imdb_person_url": "https://www.imdb.com/name/nm0861694/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 117,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.0,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Robert Montgomery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0599910/"
+      },
+      {
+        "name": "Rosalind Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0751426/"
+      },
+      {
+        "name": "Dame May Whitty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0926572/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A charming but psychopathic bellboy worms his way into the household of a wealthy invalid, while the invalid's niece suspects him of a local murder.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0029308/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015044-night_must_fall"
+  },
+  {
+    "title": "The Firefly",
+    "year": 1937,
+    "director": {
+      "name": "Robert Z. Leonard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0502741/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 131,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "45%"
+    },
+    "genres": [
+      "History",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jeanette MacDonald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531776/"
+      },
+      {
+        "name": "Allan Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0427445/"
+      },
+      {
+        "name": "Warren William",
+        "imdb_person_url": "https://www.imdb.com/name/nm0931923/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During the Napoleonic Wars, a beautiful Spanish singer secretly works as a spy against the French.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0028872/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_firefly"
   }
 ]

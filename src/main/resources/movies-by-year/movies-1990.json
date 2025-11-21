@@ -1,5 +1,57 @@
 [
   {
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "director": {
+      "name": "Kevin Costner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
+    },
+    "production_studio": "Tig Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 181,
+    "budget_usd_millions": 22.0,
+    "gross_revenue_usd_millions": 424.2,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Kevin Costner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
+      },
+      {
+        "name": "Mary McDonnell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005211/"
+      },
+      {
+        "name": "Graham Greene",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001295/"
+      }
+    ],
+    "oscars_nominated": 12,
+    "oscars_won": 7,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Screenplay Based on Material from Another Medium",
+      "Best Cinematography",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Music, Original Score"
+    ],
+    "description": "Lieutenant John Dunbar, exiled to a remote western Civil War outpost, befriends wolves and the local Lakota tribe, making him an intolerable aberration in the military.",
+    "afi_ranking": 75,
+    "imdb_url": "https://www.imdb.com/title/tt0099348/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dances_with_wolves"
+  },
+  {
     "title": "Goodfellas",
     "year": 1990,
     "director": {
@@ -8,12 +60,12 @@
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
-    "runtime_minutes": 145,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 47.1,
+    "runtime_minutes": 146,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 46.8,
     "ratings": {
       "imdb": 8.7,
-      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "97%"
     },
     "genres": [
@@ -38,119 +90,24 @@
     "oscars_nominated": 6,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Actor in a Supporting Role"
+      "Best Actor in a Supporting Role (Joe Pesci)"
     ],
-    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
     "afi_ranking": 92,
     "imdb_url": "https://www.imdb.com/title/tt0099685/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/goodfellas"
-  },
-  {
-    "title": "Dances with Wolves",
-    "year": 1990,
-    "director": {
-      "name": "Kevin Costner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
-    },
-    "production_studio": "Tig Productions, Majestic Films International",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 181,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 424.2,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Kevin Costner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
-      },
-      {
-        "name": "Mary McDonnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001521/"
-      },
-      {
-        "name": "Graham Greene",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001295/"
-      }
-    ],
-    "oscars_nominated": 12,
-    "oscars_won": 7,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Writing, Screenplay Based on Material from Another Medium",
-      "Best Cinematography",
-      "Best Sound",
-      "Best Film Editing",
-      "Best Music, Original Score"
-    ],
-    "description": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable outcast on the frontier.",
-    "afi_ranking": 75,
-    "imdb_url": "https://www.imdb.com/title/tt0099348/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dances_with_wolves"
-  },
-  {
-    "title": "Home Alone",
-    "year": 1990,
-    "director": {
-      "name": "Chris Columbus",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001060/"
-    },
-    "production_studio": "20th Century Fox, Hughes Entertainment",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 476.7,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "66%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Comedy",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Macaulay Culkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000346/"
-      },
-      {
-        "name": "Joe Pesci",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000582/"
-      },
-      {
-        "name": "Daniel Stern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001768/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099785/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/home_alone"
   },
   {
     "title": "Ghost",
     "year": 1990,
     "director": {
       "name": "Jerry Zucker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001878/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001879/"
     },
-    "production_studio": "Paramount Pictures, Howard W. Koch Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 127,
-    "budget_usd_millions": 22,
+    "budget_usd_millions": 22.0,
     "gross_revenue_usd_millions": 505.7,
     "ratings": {
       "imdb": 7.1,
@@ -179,13 +136,56 @@
     "oscars_nominated": 5,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Actress in a Supporting Role",
-      "Best Writing, Screenplay Written Directly for the Screen"
+      "Best Actress in a Supporting Role (Whoopi Goldberg)",
+      "Best Screenplay Written Directly for the Screen"
     ],
     "description": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0099653/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ghost"
+  },
+  {
+    "title": "Home Alone",
+    "year": 1990,
+    "director": {
+      "name": "Chris Columbus",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001060/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 476.7,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "66%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Macaulay Culkin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000346/"
+      },
+      {
+        "name": "Joe Pesci",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000582/"
+      },
+      {
+        "name": "Daniel Stern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0827663/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099785/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/home_alone"
   },
   {
     "title": "Pretty Woman",
@@ -194,15 +194,15 @@
       "name": "Garry Marshall",
       "imdb_person_url": "https://www.imdb.com/name/nm0005190/"
     },
-    "production_studio": "Touchstone Pictures, Silver Screen Partners IV",
+    "production_studio": "Touchstone Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 119,
-    "budget_usd_millions": 14,
+    "budget_usd_millions": 14.0,
     "gross_revenue_usd_millions": 463.4,
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "68%"
+      "rotten_tomatoes_popcorn": "69%"
     },
     "genres": [
       "Comedy",
@@ -219,7 +219,7 @@
       },
       {
         "name": "Jason Alexander",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000735/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000732/"
       }
     ],
     "oscars_nominated": 1,
@@ -231,6 +231,97 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pretty_woman"
   },
   {
+    "title": "Misery",
+    "year": 1990,
+    "director": {
+      "name": "Rob Reiner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005348/"
+    },
+    "production_studio": "Castle Rock Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 61.3,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "James Caan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
+      },
+      {
+        "name": "Kathy Bates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000291/"
+      },
+      {
+        "name": "Richard Farnsworth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002070/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress (Kathy Bates)"
+    ],
+    "description": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100157/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/misery"
+  },
+  {
+    "title": "The Hunt for Red October",
+    "year": 1990,
+    "director": {
+      "name": "John McTiernan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001532/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 200.5,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Sean Connery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
+      },
+      {
+        "name": "Alec Baldwin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000285/"
+      },
+      {
+        "name": "Scott Glenn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001277/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Sound Effects Editing"
+    ],
+    "description": "In November 1984, the Soviet Union's best submarine captain in their newest sub violates orders and heads for the U.S. Is he trying to defect or to start a war?",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099810/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hunt_for_red_october"
+  },
+  {
     "title": "Edward Scissorhands",
     "year": 1990,
     "director": {
@@ -240,11 +331,11 @@
     "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 105,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 86,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 86.0,
     "ratings": {
       "imdb": 7.9,
-      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_critic": "89%",
       "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
@@ -281,15 +372,15 @@
       "name": "Paul Verhoeven",
       "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
     },
-    "production_studio": "Carolco Pictures, TriStar Pictures",
+    "production_studio": "Carolco Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 113,
-    "budget_usd_millions": 65,
+    "budget_usd_millions": 65.0,
     "gross_revenue_usd_millions": 261.3,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Action",
@@ -307,63 +398,18 @@
       },
       {
         "name": "Rachel Ticotin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001798/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0862687/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Special Achievement Award for Visual Effects"
+      "Special Achievement Award (Visual Effects)"
     ],
-    "description": "When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real - or does he?",
+    "description": "When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0100802/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/total_recall"
-  },
-  {
-    "title": "Misery",
-    "year": 1990,
-    "director": {
-      "name": "Rob Reiner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001661/"
-    },
-    "production_studio": "Castle Rock Entertainment, Nelson Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 61.3,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "James Caan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
-      },
-      {
-        "name": "Kathy Bates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000870/"
-      },
-      {
-        "name": "Richard Farnsworth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001200/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0100157/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/misery"
   },
   {
     "title": "The Godfather Part III",
@@ -372,15 +418,15 @@
       "name": "Francis Ford Coppola",
       "imdb_person_url": "https://www.imdb.com/name/nm0000338/"
     },
-    "production_studio": "Paramount Pictures, Zoetrope Studios",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 162,
-    "budget_usd_millions": 54,
-    "gross_revenue_usd_millions": 136.9,
+    "budget_usd_millions": 54.0,
+    "gross_revenue_usd_millions": 136.8,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "66%",
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Crime",
@@ -403,10 +449,141 @@
     "oscars_nominated": 7,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Follows Michael Corleone, now in his 60s, as he seeks to legitimize his family's criminal empire.",
+    "description": "Follows Michael Corleone, now in his 60s, as he seeks to free his family from crime and find a suitable successor to his empire.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0099674/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/godfather_part_iii"
+  },
+  {
+    "title": "Miller's Crossing",
+    "year": 1990,
+    "director": {
+      "name": "Joel Coen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001053/"
+    },
+    "production_studio": "Circle Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 5.0,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Gabriel Byrne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000321/"
+      },
+      {
+        "name": "Albert Finney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001215/"
+      },
+      {
+        "name": "John Turturro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001806/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Tom Reagan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100150/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/millers_crossing"
+  },
+  {
+    "title": "Die Hard 2",
+    "year": 1990,
+    "director": {
+      "name": "Renny Harlin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001317/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 70.0,
+    "gross_revenue_usd_millions": 240.0,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Bruce Willis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
+      },
+      {
+        "name": "William Atherton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0040466/"
+      },
+      {
+        "name": "Bonnie Bedelia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000896/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "John McClane attempts to avert disaster as rogue military operatives seize control of Dulles International Airport in Washington, D.C.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099423/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/die_hard_2"
+  },
+  {
+    "title": "Back to the Future Part III",
+    "year": 1990,
+    "director": {
+      "name": "Robert Zemeckis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 40.0,
+    "gross_revenue_usd_millions": 244.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Michael J. Fox",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000153/"
+      },
+      {
+        "name": "Christopher Lloyd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000502/"
+      },
+      {
+        "name": "Mary Steenburgen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000656/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Stranded in 1955, Marty McFly receives word that his friend Doctor Emmett Brown is trapped in 1885 and must travel back in time to save him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099088/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/back_to_the_future_part_iii"
   },
   {
     "title": "Awakenings",
@@ -418,12 +595,12 @@
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 121,
-    "budget_usd_millions": 29,
+    "budget_usd_millions": 31.0,
     "gross_revenue_usd_millions": 52.1,
     "ratings": {
       "imdb": 7.8,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Biography",
@@ -446,27 +623,73 @@
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The victims of an encephalitis epidemic many years ago have been catatonic ever since, but a new doctor believes he can cure them.",
+    "description": "The victims of an encephalitis epidemic many years ago have been catatonic ever since, but a new drug offers the prospect of reviving them.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0099077/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/awakenings"
+  },
+  {
+    "title": "Reversal of Fortune",
+    "year": 1990,
+    "director": {
+      "name": "Barbet Schroeder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0775443/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 19.5,
+    "gross_revenue_usd_millions": 15.4,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jeremy Irons",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000460/"
+      },
+      {
+        "name": "Glenn Close",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000335/"
+      },
+      {
+        "name": "Ron Silver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0798775/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor (Jeremy Irons)"
+    ],
+    "description": "Claus von Bülow is convicted of attempting to murder his wife Sunny, but he hires law professor Alan Dershowitz to lead his appeal.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100486/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/reversal_of_fortune"
   },
   {
     "title": "Dick Tracy",
     "year": 1990,
     "director": {
       "name": "Warren Beatty",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000886/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000902/"
     },
-    "production_studio": "Touchstone Pictures, Silver Screen Partners IV",
+    "production_studio": "Touchstone Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 105,
-    "budget_usd_millions": 47,
+    "budget_usd_millions": 47.0,
     "gross_revenue_usd_millions": 162.7,
     "ratings": {
       "imdb": 6.2,
-      "rotten_tomatoes_critic": "64%",
-      "rotten_tomatoes_popcorn": "46%"
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "47%"
     },
     "genres": [
       "Action",
@@ -476,178 +699,89 @@
     "actors": [
       {
         "name": "Warren Beatty",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000886/"
-      },
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000902/"
       },
       {
         "name": "Madonna",
         "imdb_person_url": "https://www.imdb.com/name/nm0000187/"
+      },
+      {
+        "name": "Al Pacino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
       }
     ],
     "oscars_nominated": 7,
     "oscars_won": 3,
     "oscars_won_details": [
-      "Best Art Direction-Set Decoration",
+      "Best Art Direction",
       "Best Makeup",
       "Best Music, Original Song"
     ],
-    "description": "The comic strip detective finds his life complicated by a beautiful nightclub singer, a resourceful orphan, and a ruthless gangster.",
+    "description": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0099422/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dick_tracy"
   },
   {
-    "title": "Die Hard 2",
+    "title": "Kindergarten Cop",
     "year": 1990,
     "director": {
-      "name": "Renny Harlin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001317/"
+      "name": "Ivan Reitman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
     },
-    "production_studio": "20th Century Fox, Gordon Company, Silver Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 240,
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 26.0,
+    "gross_revenue_usd_millions": 202.0,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "54%",
+      "rotten_tomatoes_popcorn": "53%"
     },
     "genres": [
       "Action",
-      "Thriller"
+      "Comedy",
+      "Crime"
     ],
     "actors": [
       {
-        "name": "Bruce Willis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
+        "name": "Arnold Schwarzenegger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000216/"
       },
       {
-        "name": "William Atherton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000801/"
+        "name": "Penelope Ann Miller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000543/"
       },
       {
-        "name": "Bonnie Bedelia",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000889/"
+        "name": "Pamela Reed",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001657/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "John McClane attempts to avert disaster as rogue military operatives seize control of Dulles International Airport in Washington, D.C.",
+    "description": "A tough police detective must go undercover as a kindergarten teacher to locate the wife and child of a drug dealer.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099423/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/die_hard_2_die_harder"
-  },
-  {
-    "title": "The Hunt for Red October",
-    "year": 1990,
-    "director": {
-      "name": "John McTiernan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001532/"
-    },
-    "production_studio": "Paramount Pictures, Mace Neufeld Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 135,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 200.5,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Sean Connery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
-      },
-      {
-        "name": "Alec Baldwin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000285/"
-      },
-      {
-        "name": "Scott Glenn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001277/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Effects, Sound Effects Editing"
-    ],
-    "description": "In November 1984, the Soviet Union's best submarine captain in their newest sub violates orders and heads for the U.S. Is he trying to defect or to start a war?",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099810/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hunt_for_red_october"
-  },
-  {
-    "title": "Miller's Crossing",
-    "year": 1990,
-    "director": {
-      "name": "Joel Coen, Ethan Coen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
-    },
-    "production_studio": "20th Century Fox, Circle Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 5.1,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Gabriel Byrne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000321/"
-      },
-      {
-        "name": "Marcia Gay Harden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001315/"
-      },
-      {
-        "name": "John Turturro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001806/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Tom Reagan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0100150/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/millers_crossing"
+    "imdb_url": "https://www.imdb.com/title/tt0099938/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kindergarten_cop"
   },
   {
     "title": "Teenage Mutant Ninja Turtles",
     "year": 1990,
     "director": {
       "name": "Steve Barron",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001917/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0057719/"
     },
-    "production_studio": "New Line Cinema, Golden Harvest",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "PG",
     "runtime_minutes": 93,
     "budget_usd_millions": 13.5,
-    "gross_revenue_usd_millions": 202,
+    "gross_revenue_usd_millions": 202.0,
     "ratings": {
       "imdb": 6.7,
       "rotten_tomatoes_critic": "42%",
-      "rotten_tomatoes_popcorn": "68%"
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
       "Action",
@@ -657,7 +791,7 @@
     "actors": [
       {
         "name": "Judith Hoag",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0387432/"
       },
       {
         "name": "Elias Koteas",
@@ -665,7 +799,7 @@
       },
       {
         "name": "Josh Pais",
-        "imdb_person_url": "https://www.imdb.com/name/nm0656913/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0656899/"
       }
     ],
     "oscars_nominated": 0,
@@ -681,22 +815,21 @@
     "year": 1990,
     "director": {
       "name": "Ron Underwood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005521/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0005523/"
     },
-    "production_studio": "Universal Pictures, No Frills Film Production",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 96,
-    "budget_usd_millions": 10,
+    "budget_usd_millions": 11.0,
     "gross_revenue_usd_millions": 16.7,
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Comedy",
-      "Horror",
-      "Sci-Fi"
+      "Horror"
     ],
     "actors": [
       {
@@ -705,11 +838,11 @@
       },
       {
         "name": "Fred Ward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001826/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0911525/"
       },
       {
         "name": "Finn Carter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0141369/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0141617/"
       }
     ],
     "oscars_nominated": 0,
@@ -721,769 +854,21 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tremors"
   },
   {
-    "title": "Jacob's Ladder",
-    "year": 1990,
-    "director": {
-      "name": "Adrian Lyne",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000509/"
-    },
-    "production_studio": "Carolco Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 26.1,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      },
-      {
-        "name": "Elizabeth Peña",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001608/"
-      },
-      {
-        "name": "Danny Aiello",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000732/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Mourning his dead child, a haunted Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusions, and perceptions of death.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099871/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jacobs_ladder"
-  },
-  {
-    "title": "Flatliners",
-    "year": 1990,
-    "director": {
-      "name": "Joel Schumacher",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001708/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 26,
-    "gross_revenue_usd_millions": 61.5,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Kiefer Sutherland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000662/"
-      },
-      {
-        "name": "Julia Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
-      },
-      {
-        "name": "Kevin Bacon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000102/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Five medical students experiment with 'near death' experiences, with dangerous consequences.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099582/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/flatliners"
-  },
-  {
-    "title": "Presumed Innocent",
-    "year": 1990,
-    "director": {
-      "name": "Alan J. Pakula",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001587/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 221.3,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Harrison Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
-      },
-      {
-        "name": "Brian Dennehy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001133/"
-      },
-      {
-        "name": "Raul Julia",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001409/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A prosecutor is accused of murdering his mistress, and he must clear his name while dealing with a web of corruption and deceit.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0100404/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/presumed_innocent"
-  },
-  {
-    "title": "Back to the Future Part III",
-    "year": 1990,
-    "director": {
-      "name": "Robert Zemeckis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
-    },
-    "production_studio": "Universal Pictures, Amblin Entertainment",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 244.5,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Michael J. Fox",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000150/"
-      },
-      {
-        "name": "Christopher Lloyd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000502/"
-      },
-      {
-        "name": "Mary Steenburgen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001767/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Stranded in 1955, Marty McFly must travel to 1885 to rescue Doc Brown from a premature end.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099088/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/back_to_the_future_part_iii"
-  },
-  {
-    "title": "La Femme Nikita",
-    "year": 1990,
-    "director": {
-      "name": "Luc Besson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000108/"
-    },
-    "production_studio": "Gaumont, Cecchi Gori Group Tiger Cinematografica",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 5.1,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Anne Parillaud",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001597/"
-      },
-      {
-        "name": "Marc Duret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0243224/"
-      },
-      {
-        "name": "Patrick Fontana",
-        "imdb_person_url": "https://www.imdb.com/name/nm0284617/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Convicted felon Nikita, instead of going to jail, is given a new identity and trained, stylishly, as a top secret spy/assassin.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0100263/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_femme_nikita"
-  },
-  {
-    "title": "Rocky V",
-    "year": 1990,
-    "director": {
-      "name": "John G. Avildsen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000814/"
-    },
-    "production_studio": "United Artists, Star Partners III Ltd.",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 42,
-    "gross_revenue_usd_millions": 119.9,
-    "ratings": {
-      "imdb": 5.3,
-      "rotten_tomatoes_critic": "31%",
-      "rotten_tomatoes_popcorn": "36%"
-    },
-    "genres": [
-      "Drama",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Sylvester Stallone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
-      },
-      {
-        "name": "Talia Shire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000640/"
-      },
-      {
-        "name": "Burt Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001875/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Reluctantly retired from boxing, Rocky takes on a young protégé who turns out to be a traitor.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0100507/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rocky_v"
-  },
-  {
-    "title": "Henry & June",
-    "year": 1990,
-    "director": {
-      "name": "Philip Kaufman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001412/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "NC-17",
-    "runtime_minutes": 136,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 11.6,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Fred Ward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001826/"
-      },
-      {
-        "name": "Uma Thurman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000235/"
-      },
-      {
-        "name": "Maria de Medeiros",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001522/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the love triangle between writer Henry Miller, his wife June, and the writer Anaïs Nin.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099762/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/henry_and_june"
-  },
-  {
-    "title": "The Freshman",
-    "year": 1990,
-    "director": {
-      "name": "Andrew Bergman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000921/"
-    },
-    "production_studio": "TriStar Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 21.5,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Marlon Brando",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
-      },
-      {
-        "name": "Matthew Broderick",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000111/"
-      },
-      {
-        "name": "Bruno Kirby",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A film student gets a job with a man who looks and sounds exactly like the Godfather, but who is he?",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099615/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1031388-freshman"
-  },
-  {
-    "title": "Cyrano de Bergerac",
-    "year": 1990,
-    "director": {
-      "name": "Jean-Paul Rappeneau",
-      "imdb_person_url": "https://www.imdb.com/name/nm0710884/"
-    },
-    "production_studio": "Hachette Première, Caméra One",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 15,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Gérard Depardieu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
-      },
-      {
-        "name": "Anne Brochet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001954/"
-      },
-      {
-        "name": "Vincent Perez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001612/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Costume Design"
-    ],
-    "description": "A man with a prominent nose is in love with a beautiful woman, but he is too shy to tell her, so he writes love letters to her on behalf of another man.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099334/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cyrano_de_bergerac"
-  },
-  {
-    "title": "Reversal of Fortune",
-    "year": 1990,
-    "director": {
-      "name": "Barbet Schroeder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001707/"
-    },
-    "production_studio": "Reversal Films, Shochiku-Fuji Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 15.4,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Glenn Close",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000335/"
-      },
-      {
-        "name": "Jeremy Irons",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000460/"
-      },
-      {
-        "name": "Ron Silver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001732/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role"
-    ],
-    "description": "The story of the trial of Claus von Bülow, who was accused of attempting to murder his wealthy wife.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0100486/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/reversal_of_fortune"
-  },
-  {
-    "title": "The Grifters",
-    "year": 1990,
-    "director": {
-      "name": "Stephen Frears",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001241/"
-    },
-    "production_studio": "Cineplex-Odeon Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 13.4,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Anjelica Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001378/"
-      },
-      {
-        "name": "John Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000131/"
-      },
-      {
-        "name": "Annette Bening",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000906/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small-time con man is caught between his estranged mother and his girlfriend, who are both dangerous criminals.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099711/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_grifters"
-  },
-  {
-    "title": "Kindergarten Cop",
-    "year": 1990,
-    "director": {
-      "name": "Ivan Reitman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001661/"
-    },
-    "production_studio": "Universal Pictures, Imagine Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 26,
-    "gross_revenue_usd_millions": 202,
-    "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "53%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Arnold Schwarzenegger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000216/"
-      },
-      {
-        "name": "Penelope Ann Miller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001534/"
-      },
-      {
-        "name": "Pamela Reed",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001657/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A tough cop goes undercover as a kindergarten teacher in order to catch a drug dealer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099938/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kindergarten_cop"
-  },
-  {
-    "title": "Days of Thunder",
-    "year": 1990,
-    "director": {
-      "name": "Tony Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
-    },
-    "production_studio": "Paramount Pictures, Don Simpson/Jerry Bruckheimer Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 60,
-    "gross_revenue_usd_millions": 157.9,
-    "ratings": {
-      "imdb": 6.1,
-      "rotten_tomatoes_critic": "38%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
-      },
-      {
-        "name": "Nicole Kidman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
-      },
-      {
-        "name": "Robert Duvall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young hot-shot stock car driver gets his chance to compete at the top level.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099371/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/days_of_thunder"
-  },
-  {
-    "title": "La Femme Nikita",
-    "year": 1990,
-    "director": {
-      "name": "Luc Besson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000108/"
-    },
-    "production_studio": "Gaumont, Cecchi Gori Group Tiger Cinematografica",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 5.1,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Anne Parillaud",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001597/"
-      },
-      {
-        "name": "Marc Duret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0243224/"
-      },
-      {
-        "name": "Patrick Fontana",
-        "imdb_person_url": "https://www.imdb.com/name/nm0284617/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Convicted felon Nikita, instead of going to jail, is given a new identity and trained, stylishly, as a top secret spy/assassin.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0100263/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_femme_nikita"
-  },
-  {
-    "title": "Another 48 Hrs.",
-    "year": 1990,
-    "director": {
-      "name": "Walter Hill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
-    },
-    "production_studio": "Paramount Pictures, Lawrence Gordon Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 153.5,
-    "ratings": {
-      "imdb": 6.0,
-      "rotten_tomatoes_critic": "20%",
-      "rotten_tomatoes_popcorn": "41%"
-    },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Eddie Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000552/"
-      },
-      {
-        "name": "Nick Nolte",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000560/"
-      },
-      {
-        "name": "Brion James",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001397/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Jack Cates is back, and this time he's teamed up with Reggie Hammond to hunt down an elusive drug lord.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099044/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/another_48_hrs"
-  },
-  {
-    "title": "The Witches",
-    "year": 1990,
-    "director": {
-      "name": "Nicolas Roeg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001676/"
-    },
-    "production_studio": "Lorimar Film Entertainment, Jim Henson Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 15.3,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Anjelica Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001378/"
-      },
-      {
-        "name": "Mai Zetterling",
-        "imdb_person_url": "https://www.imdb.com/name/nm0956488/"
-      },
-      {
-        "name": "Jasen Fisher",
-        "imdb_person_url": "https://www.imdb.com/name/nm0279472/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young boy stumbles onto a witch convention and must stop them, even after he has been turned into a mouse.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0100944/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/witches"
-  },
-  {
-    "title": "Jacob's Ladder",
-    "year": 1990,
-    "director": {
-      "name": "Adrian Lyne",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000509/"
-    },
-    "production_studio": "Carolco Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 26.1,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      },
-      {
-        "name": "Elizabeth Peña",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001608/"
-      },
-      {
-        "name": "Danny Aiello",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000732/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Mourning his dead child, a haunted Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusions, and perceptions of death.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099871/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jacobs_ladder"
-  },
-  {
     "title": "Wild at Heart",
     "year": 1990,
     "director": {
       "name": "David Lynch",
       "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
     },
-    "production_studio": "PolyGram Filmed Entertainment, Propaganda Films",
+    "production_studio": "PolyGram Filmed Entertainment",
     "mpaa_rating": "R",
     "runtime_minutes": 125,
-    "budget_usd_millions": 10,
+    "budget_usd_millions": 10.0,
     "gross_revenue_usd_millions": 14.6,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "68%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
       "Comedy",
@@ -1513,98 +898,967 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wild_at_heart"
   },
   {
-    "title": "Dances with Wolves",
+    "title": "La Femme Nikita",
     "year": 1990,
     "director": {
-      "name": "Kevin Costner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
+      "name": "Luc Besson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000108/"
     },
-    "production_studio": "Tig Productions, Majestic Films International",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 181,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 424.2,
+    "production_studio": "Gaumont",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 5.0,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "87%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Adventure",
-      "Drama",
-      "Western"
+      "Action",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Kevin Costner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
+        "name": "Anne Parillaud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001593/"
       },
       {
-        "name": "Mary McDonnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001521/"
+        "name": "Jean-Hugues Anglade",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000762/"
       },
       {
-        "name": "Graham Greene",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001295/"
-      }
-    ],
-    "oscars_nominated": 12,
-    "oscars_won": 7,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Writing, Screenplay Based on Material from Another Medium",
-      "Best Cinematography",
-      "Best Sound",
-      "Best Film Editing",
-      "Best Music, Original Score"
-    ],
-    "description": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable outcast on the frontier.",
-    "afi_ranking": 75,
-    "imdb_url": "https://www.imdb.com/title/tt0099348/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dances_with_wolves"
-  },
-  {
-    "title": "The Freshman",
-    "year": 1990,
-    "director": {
-      "name": "Andrew Bergman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000921/"
-    },
-    "production_studio": "TriStar Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 21.5,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Marlon Brando",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
-      },
-      {
-        "name": "Matthew Broderick",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000111/"
-      },
-      {
-        "name": "Bruno Kirby",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
+        "name": "Tchéky Karyo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001418/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A film student gets a job with a man who looks and sounds exactly like the Godfather, but who is he?",
+    "description": "Convicted felon Nikita, instead of going to jail, is given a new identity and trained, stylishly, as a top secret spy/assassin.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0099615/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1031388-freshman"
+    "imdb_url": "https://www.imdb.com/title/tt0100263/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_femme_nikita"
+  },
+  {
+    "title": "King of New York",
+    "year": 1990,
+    "director": {
+      "name": "Abel Ferrara",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001205/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Christopher Walken",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000686/"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000401/"
+      },
+      {
+        "name": "David Caruso",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001022/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A drug kingpin is released from prison and seeks to take total control of the criminal underworld in order to give back to the community.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099939/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/king_of_new_york"
+  },
+  {
+    "title": "Jacob's Ladder",
+    "year": 1990,
+    "director": {
+      "name": "Adrian Lyne",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001490/"
+    },
+    "production_studio": "Carolco Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 26.1,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Tim Robbins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000219/"
+      },
+      {
+        "name": "Elizabeth Peña",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005298/"
+      },
+      {
+        "name": "Danny Aiello",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000256/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Mourning his dead child, a haunted Vietnam War veteran attempts to uncover his past while suffering from severe dissociation. To do so, he must decipher reality and life from his own dreams, delusions, and perceptions of death.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099871/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jacobs_ladder"
+  },
+  {
+    "title": "The Grifters",
+    "year": 1990,
+    "director": {
+      "name": "Stephen Frears",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001241/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 13.4,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Anjelica Huston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001378/"
+      },
+      {
+        "name": "John Cusack",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000131/"
+      },
+      {
+        "name": "Annette Bening",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000906/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-time con artist has torn loyalties between his estranged mother and his new girlfriend, both of whom are high-stakes grifters with their own angles to play.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099703/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grifters"
+  },
+  {
+    "title": "Cyrano de Bergerac",
+    "year": 1990,
+    "director": {
+      "name": "Jean-Paul Rappeneau",
+      "imdb_person_url": "https://www.imdb.com/name/nm0710897/"
+    },
+    "production_studio": "Hachette Première",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 137,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 6.6,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Gérard Depardieu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
+      },
+      {
+        "name": "Anne Brochet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0110540/"
+      },
+      {
+        "name": "Vincent Perez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001608/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Costume Design"
+    ],
+    "description": "A romantic poet with an abnormally large nose believes he is too ugly to be loved by the beautiful Roxane, so he helps a handsome young cadet woo her instead.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099334/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1031825-cyrano_de_bergerac"
+  },
+  {
+    "title": "Darkman",
+    "year": 1990,
+    "director": {
+      "name": "Sam Raimi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 16.0,
+    "gross_revenue_usd_millions": 48.9,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Liam Neeson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000553/"
+      },
+      {
+        "name": "Frances McDormand",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000530/"
+      },
+      {
+        "name": "Colin Friels",
+        "imdb_person_url": "https://www.imdb.com/name/nm0295539/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A brilliant scientist left for dead returns to exact revenge on the people who burned him alive.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099365/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/darkman"
+  },
+  {
+    "title": "Gremlins 2: The New Batch",
+    "year": 1990,
+    "director": {
+      "name": "Joe Dante",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001102/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 50.0,
+    "gross_revenue_usd_millions": 41.5,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Zach Galligan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001254/"
+      },
+      {
+        "name": "Phoebe Cates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000121/"
+      },
+      {
+        "name": "John Glover",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001278/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Gremlins are back, and this time, they've taken control of a New York City media mogul's high-tech skyscraper.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099700/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gremlins_2_the_new_batch"
+  },
+  {
+    "title": "Arachnophobia",
+    "year": 1990,
+    "director": {
+      "name": "Frank Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005191/"
+    },
+    "production_studio": "Amblin Entertainment",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 31.0,
+    "gross_revenue_usd_millions": 53.2,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Jeff Daniels",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001099/"
+      },
+      {
+        "name": "Julian Sands",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001696/"
+      },
+      {
+        "name": "John Goodman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000422/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A species of South American killer spider hitches a lift to the U.S. in a coffin and starts to breed and kill.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099052/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/arachnophobia"
+  },
+  {
+    "title": "Presumed Innocent",
+    "year": 1990,
+    "director": {
+      "name": "Alan J. Pakula",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 221.3,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Harrison Ford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
+      },
+      {
+        "name": "Raul Julia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000471/"
+      },
+      {
+        "name": "Greta Scacchi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000627/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "As a lawyer investigates the murder of a colleague, he finds himself accused of the crime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100404/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/presumed_innocent"
+  },
+  {
+    "title": "Days of Thunder",
+    "year": 1990,
+    "director": {
+      "name": "Tony Scott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 60.0,
+    "gross_revenue_usd_millions": 157.9,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "38%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Tom Cruise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+      },
+      {
+        "name": "Nicole Kidman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
+      },
+      {
+        "name": "Robert Duvall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young hot-shot stock car driver gets his chance to compete at the top level.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099384/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/days_of_thunder"
+  },
+  {
+    "title": "House Party",
+    "year": 1990,
+    "director": {
+      "name": "Reginald Hudlin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0399670/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 26.3,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Christopher 'Kid' Reid",
+        "imdb_person_url": "https://www.imdb.com/name/nm0717212/"
+      },
+      {
+        "name": "Christopher 'Play' Martin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0552095/"
+      },
+      {
+        "name": "Robin Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0365268/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A high schooler sneaks out to his friend's house party for a night of fun, music, and romance, while trying to avoid his father and the school bullies.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099796/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/house_party"
+  },
+  {
+    "title": "Metropolitan",
+    "year": 1990,
+    "director": {
+      "name": "Whit Stillman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001775/"
+    },
+    "production_studio": "Westerly Film",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 0.225,
+    "gross_revenue_usd_millions": 2.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Carolyn Farina",
+        "imdb_person_url": "https://www.imdb.com/name/nm0267453/"
+      },
+      {
+        "name": "Edward Clements",
+        "imdb_person_url": "https://www.imdb.com/name/nm0166160/"
+      },
+      {
+        "name": "Chris Eigeman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001182/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of young upper-class Manhattanites are blithely moving through the gala debutante season as an unusual outsider joins them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100142/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/metropolitan"
+  },
+  {
+    "title": "Close-Up",
+    "year": 1990,
+    "director": {
+      "name": "Abbas Kiarostami",
+      "imdb_person_url": "https://www.imdb.com/name/nm0452102/"
+    },
+    "production_studio": "Kanun Parvaresh Fekri",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Hossain Sabzian",
+        "imdb_person_url": "https://www.imdb.com/name/nm0754942/"
+      },
+      {
+        "name": "Mohsen Makhmalbaf",
+        "imdb_person_url": "https://www.imdb.com/name/nm0538532/"
+      },
+      {
+        "name": "Abolfazl Ahankhah",
+        "imdb_person_url": "https://www.imdb.com/name/nm0013835/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The true story of a man who impersonated film director Mohsen Makhmalbaf, convincing a family he would star them in his new movie.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100234/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/closeup"
+  },
+  {
+    "title": "The Rescuers Down Under",
+    "year": 1990,
+    "director": {
+      "name": "Hendel Butoy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0125179/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 77,
+    "budget_usd_millions": 37.9,
+    "gross_revenue_usd_millions": 47.4,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Bob Newhart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0627878/"
+      },
+      {
+        "name": "Eva Gabor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001246/"
+      },
+      {
+        "name": "John Candy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001006/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The R.A.S. agents, Miss Bianca and Bernard, race to Australia to save a little boy and a rare golden eagle from a murderous poacher.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100477/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rescuers_down_under"
+  },
+  {
+    "title": "Joe Versus the Volcano",
+    "year": 1990,
+    "director": {
+      "name": "John Patrick Shanley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0788327/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 39.4,
+    "ratings": {
+      "imdb": 5.9,
+      "rotten_tomatoes_critic": "66%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Tom Hanks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
+      },
+      {
+        "name": "Meg Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000212/"
+      },
+      {
+        "name": "Lloyd Bridges",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000977/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A hypochondriac learns he is dying and accepts an offer to throw himself into a volcano on a tropical island, and along the way learns to truly live.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099892/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/joe_versus_the_volcano"
+  },
+  {
+    "title": "Cry-Baby",
+    "year": 1990,
+    "director": {
+      "name": "John Waters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000691/"
+    },
+    "production_studio": "Imagine Entertainment",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 8.3,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Johnny Depp",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
+      },
+      {
+        "name": "Ricki Lake",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000482/"
+      },
+      {
+        "name": "Amy Locane",
+        "imdb_person_url": "https://www.imdb.com/name/nm0516473/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bad boy with a heart of gold wins the love of a good girl, whose boyfriend sets out to destroy him and his reputation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099329/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cry_baby"
+  },
+  {
+    "title": "Internal Affairs",
+    "year": 1990,
+    "director": {
+      "name": "Mike Figgis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001212/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 47.7,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "49%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Richard Gere",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
+      },
+      {
+        "name": "Andy Garcia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000412/"
+      },
+      {
+        "name": "Nancy Travis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001801/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An Internal Affairs agent becomes obsessed with bringing down a manipulative and corrupt cop who has everyone else fooled.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099850/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/internal_affairs"
+  },
+  {
+    "title": "Pump Up the Volume",
+    "year": 1990,
+    "director": {
+      "name": "Allan Moyle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0610279/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 11.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Christian Slater",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000225/"
+      },
+      {
+        "name": "Samantha Mathis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000526/"
+      },
+      {
+        "name": "Scott Paulin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0667180/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A high school student opens his own pirate radio station, but his broadcasts of teenage rebellion cause a stir in his small town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100436/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pump_up_the_volume"
+  },
+  {
+    "title": "Mo' Better Blues",
+    "year": 1990,
+    "director": {
+      "name": "Spike Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 130,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 16.2,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Denzel Washington",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
+      },
+      {
+        "name": "Spike Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
+      },
+      {
+        "name": "Wesley Snipes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000227/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of Bleek Gilliam, a talented jazz trumpeter who must make a series of difficult decisions that will affect his music, his love life, and his future.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100168/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mo_better_blues"
+  },
+  {
+    "title": "Alice",
+    "year": 1990,
+    "director": {
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 7.3,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Mia Farrow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001204/"
+      },
+      {
+        "name": "William Hurt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
+      },
+      {
+        "name": "Joe Mantegna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A spoiled Manhattan housewife re-evaluates her life after visiting a Chinese herbalist who gives her herbs that make her invisible.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099012/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1031388-alice"
+  },
+  {
+    "title": "Hamlet",
+    "year": 1990,
+    "director": {
+      "name": "Franco Zeffirelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001874/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 20.7,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Mel Gibson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
+      },
+      {
+        "name": "Glenn Close",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000335/"
+      },
+      {
+        "name": "Alan Bates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000870/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Prince Hamlet struggles with whether or not he should kill his uncle, whom he suspects has murdered his father, the former King.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099726/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1032973-hamlet"
+  },
+  {
+    "title": "Flatliners",
+    "year": 1990,
+    "director": {
+      "name": "Joel Schumacher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001708/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 26.0,
+    "gross_revenue_usd_millions": 61.5,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "52%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Kiefer Sutherland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000662/"
+      },
+      {
+        "name": "Julia Roberts",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
+      },
+      {
+        "name": "Kevin Bacon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000102/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Five medical students experiment with 'near death' experiences that involve chemically induced heart stoppages and immediate revival.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099582/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/flatliners"
   }
 ]

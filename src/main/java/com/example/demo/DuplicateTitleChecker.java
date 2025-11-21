@@ -2,11 +2,14 @@ package com.example.demo;
 
 import com.example.demo.service.MovieService;
 import java.util.Map;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 /**
  * A simple utility class to check for duplicate movie titles in all the movies-yyyy.json files.
  */
 public class DuplicateTitleChecker {
+    private static Logger logger = LoggerFactory.getLogger(DuplicateTitleChecker.class);
 
     public static void main(String[] args) {
         MovieService movieService;
@@ -14,7 +17,7 @@ public class DuplicateTitleChecker {
 
         for (int i = 1930; i <= 2007; i++) {
             String filename = folder + "movies-" + i + ".json";
-            System.out.println(filename);
+            logger.info("Duplicates checking for resource file " + filename);
 
             movieService = new MovieService(filename);
             checkForDuplicateTitles(movieService, filename);
