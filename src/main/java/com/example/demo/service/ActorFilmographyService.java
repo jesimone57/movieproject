@@ -67,6 +67,7 @@ public class ActorFilmographyService {
             throw new IllegalArgumentException("folder cannot be null or empty");
         }
 
+        logger.info("Loading ActorFilmographies from resource folder: " + folder);
         int addedFileCount = 0;
         ObjectMapper objectMapper = new ObjectMapper();
         PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
@@ -86,7 +87,7 @@ public class ActorFilmographyService {
                         if (single != null) {
                             this.actorFilmographies.add(single);
                             addedFileCount++;
-                            logger.info(addedFileCount + " added as single entry: " + resourceFileName);
+                            logger.info("\t" + addedFileCount + " added as single entry: " + resourceFileName);
                         }
                     } catch (IOException singleEx) {
                         // If single parse failed, try as an array/list
@@ -95,20 +96,20 @@ public class ActorFilmographyService {
                             if (list != null && !list.isEmpty()) {
                                 this.actorFilmographies.addAll(list);
                                 addedFileCount++;
-                                logger.info(addedFileCount + " added as multiple entries: " + resourceFileName);
+                                logger.info("\t" + addedFileCount + " added as multiple entries: " + resourceFileName);
                             }
                         } catch (IOException listEx) {
-                            logger.info("Skip malformed resource " + resourceFileName + " and continue (malformed or unexpected structure)");
+                            logger.info("\t" + "Skip malformed resource " + resourceFileName + " and continue (malformed or unexpected structure)");
 
                         }
                     }
                 }
             }
+            logger.info("Loaded "+ addedFileCount + " ActorFilmographies from resource folder: " + folder);
         } catch (IOException e) {
             // If we cannot scan the folder, simply ignore and continue with existing data
             // Optionally log in the future
         }
-
     }
 
     /**

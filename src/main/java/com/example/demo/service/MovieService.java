@@ -13,16 +13,23 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.stream.Stream;
 import org.apache.commons.lang3.StringUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.stereotype.Service;
 
 @Service
 public class MovieService {
 
+    private Logger logger = LoggerFactory.getLogger(MovieService.class);
     private final List<Movie> movies;
     private static final String RESOURCE_FILE = "movies-by-year/movies-1958.json";
+    private static final String MOVIES_FOLDER = "movies-by-year";
 
     public MovieService() {
-        this.movies = loadMoviesFromJson(RESOURCE_FILE);
+        this.movies = new ArrayList<>();
+        loadMoviesFromFolder();
     }
 
     public MovieService(String resourceFile) {
@@ -48,6 +55,73 @@ public class MovieService {
             return new ArrayList<>();
         }
     }
+
+    /**
+     * Convenience method to load from the default movies folder on the classpath.
+     */
+    public void loadMoviesFromFolder() {
+        loadMoviesFromFolder(MOVIES_FOLDER);
+    }
+
+
+    /**
+     * Loads any JSON resources found under the given folder on the classpath and appends them
+     * to the current list of movies. This method is resilient to files containing
+     * either a single Movie object or an array of Movie objects.
+     * Malformed files are skipped.
+     *
+     * @param folder the classpath folder containing movie JSON files
+     */
+    public void loadMoviesFromFolder(String folder) {
+        if (folder == null || StringUtils.isBlank(folder)) {
+            throw new IllegalArgumentException("folder cannot be null or empty");
+        }
+
+        logger.info("Loading Movies from resource folder: " + folder);
+        int addedFileCount = 0;
+        ObjectMapper objectMapper = new ObjectMapper();
+        PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
+        try {
+            Resource[] resources = resolver.getResources("classpath*:" + folder + "/**/*.json");
+            for (Resource resource : resources) {
+                if (resource == null || !resource.exists()) {
+                    continue;
+                }
+                String resourceFileName = resource.getFile().getName();
+
+                // IMPORTANT: Use the Resource to open the stream with the correct path
+                try (InputStream is = resource.getInputStream()) {
+                    // Try as a single object first
+                    try {
+                        Movie single = objectMapper.readValue(is, Movie.class);
+                        if (single != null) {
+                            this.movies.add(single);
+                            addedFileCount++;
+                            logger.info("\t" + addedFileCount + " added as single entry: " + resourceFileName);
+                        }
+                    } catch (IOException singleEx) {
+                        // If single parse failed, try as an array/list
+                        try (InputStream is2 = resource.getInputStream()) {
+                            List<Movie> list = objectMapper.readValue(is2, new TypeReference<ArrayList<Movie>>() {});
+                            if (list != null && !list.isEmpty()) {
+                                this.movies.addAll(list);
+                                addedFileCount++;
+                                logger.info("\t" + addedFileCount + " added as multiple entries: " + resourceFileName);
+                            }
+                        } catch (IOException listEx) {
+                            logger.info("\t" + "Skip malformed resource " + resourceFileName + " and continue (malformed or unexpected structure)");
+
+                        }
+                    }
+                }
+            }
+            logger.info("Loaded "+ addedFileCount + " Movies from resource folder: " + folder);
+        } catch (IOException e) {
+            // If we cannot scan the folder, simply ignore and continue with existing data
+            // Optionally log in the future
+        }
+    }
+
 
     public List<Movie> getAllMovies() {
         return filterMovies(null, null, null, null, null,
