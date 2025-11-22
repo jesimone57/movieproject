@@ -22,17 +22,23 @@ public class DuplicateTitleChecker {
             movieService = new MovieService(filename);
             checkForDuplicateTitles(movieService, filename);
         }
+        for (int i = 1900; i <= 1920;  i+=10) {
+            String filename = folder + "movies-" + i + "s.json";
+            logger.info("Duplicates checking for resource file " + filename);
+
+            movieService = new MovieService(filename);
+            checkForDuplicateTitles(movieService, filename);
+        }
     }
 
     private static void checkForDuplicateTitles(MovieService movieService, String inputFile) {
         // Check for duplicate titles
         Map<String, Integer> duplicates = movieService.findDuplicateTitles();
         boolean hasDuplicates = movieService.hasDuplicateTitles();
-        int duplicatesCount = 0;
 
         if (hasDuplicates) {
             System.out.println("\tDuplicate titles found:");
-            duplicatesCount = 0;
+            int duplicatesCount = 0;
             for (Map.Entry<String, Integer> entry : duplicates.entrySet()) {
                 System.out.println("\tTitle: '" + entry.getKey() + "' appears " + entry.getValue() + " times");
                 duplicatesCount += entry.getValue();
