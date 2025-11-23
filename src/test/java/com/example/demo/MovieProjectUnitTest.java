@@ -474,4 +474,13 @@ class MovieProjectUnitTest {
                 movieService.getMoviesTopNbyYear(-1)
         );
     }
+
+    @Test
+    void getAllGenres() {
+        List<String> genres = movieService.getAllGenres();
+        genres.forEach(System.out::println);
+        assertEquals(23, genres.size());
+        assertEquals("Action", genres.getFirst());
+        assertEquals("Western", genres.getLast());
+    }
 }

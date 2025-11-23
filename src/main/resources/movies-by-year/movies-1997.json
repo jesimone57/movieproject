@@ -6,95 +6,87 @@
       "name": "James Cameron",
       "imdb_person_url": "https://www.imdb.com/name/nm0000116/"
     },
-    "production_studio": "20th Century Fox, Paramount Pictures, Lightstorm Entertainment",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 194,
     "budget_usd_millions": 200,
-    "gross_revenue_usd_millions": 2257.9,
+    "gross_revenue_usd_millions": 2201.6,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "88%",
       "rotten_tomatoes_popcorn": "69%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Leonardo DiCaprio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000138/"
-      },
-      {
-        "name": "Kate Winslet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000701/"
-      },
-      {
-        "name": "Billy Zane",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000708/"
-      }
+      { "name": "Leonardo DiCaprio", "imdb_person_url": "https://www.imdb.com/name/nm0000138/" },
+      { "name": "Kate Winslet", "imdb_person_url": "https://www.imdb.com/name/nm0000701/" },
+      { "name": "Billy Zane", "imdb_person_url": "https://www.imdb.com/name/nm0000708/" }
     ],
     "oscars_nominated": 14,
     "oscars_won": 11,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Cinematography",
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design",
-      "Best Sound",
-      "Best Film Editing",
-      "Best Sound Effects Editing",
-      "Best Visual Effects",
-      "Best Music, Original Song",
-      "Best Music, Original Dramatic Score"
-    ],
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Cinematography", "Best Art Direction", "Best Costume Design", "Best Sound", "Best Film Editing", "Best Sound Effects Editing", "Best Visual Effects", "Best Original Song", "Best Original Dramatic Score"],
     "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
-    "afi_ranking": 37,
+    "afi_ranking": 83,
     "imdb_url": "https://www.imdb.com/title/tt0120338/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/titanic"
+  },
+  {
+    "title": "Men in Black",
+    "year": 1997,
+    "director": {
+      "name": "Barry Sonnenfeld",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001756/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 90,
+    "gross_revenue_usd_millions": 589.4,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Tommy Lee Jones", "imdb_person_url": "https://www.imdb.com/name/nm0000169/" },
+      { "name": "Will Smith", "imdb_person_url": "https://www.imdb.com/name/nm0000226/" },
+      { "name": "Linda Fiorentino", "imdb_person_url": "https://www.imdb.com/name/nm0000400/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Makeup"],
+    "description": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119654/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/men_in_black"
   },
   {
     "title": "Good Will Hunting",
     "year": 1997,
     "director": {
       "name": "Gus Van Sant",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001814/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
     },
-    "production_studio": "Miramax, Be Gentlemen",
+    "production_studio": "Miramax",
     "mpaa_rating": "R",
     "runtime_minutes": 126,
     "budget_usd_millions": 10,
     "gross_revenue_usd_millions": 225.9,
     "ratings": {
       "imdb": 8.3,
-      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "94%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Robin Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
-      },
-      {
-        "name": "Matt Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
-      },
-      {
-        "name": "Ben Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000255/"
-      }
+      { "name": "Robin Williams", "imdb_person_url": "https://www.imdb.com/name/nm0000245/" },
+      { "name": "Matt Damon", "imdb_person_url": "https://www.imdb.com/name/nm0000354/" },
+      { "name": "Ben Affleck", "imdb_person_url": "https://www.imdb.com/name/nm0000255/" }
     ],
     "oscars_nominated": 9,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role",
-      "Best Writing, Screenplay Written Directly for the Screen"
-    ],
+    "oscars_won_details": ["Best Actor in a Supporting Role", "Best Writing, Screenplay Written Directly for the Screen"],
     "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0119217/",
@@ -105,9 +97,9 @@
     "year": 1997,
     "director": {
       "name": "Curtis Hanson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001318/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000397/"
     },
-    "production_studio": "Warner Bros., Regency Enterprises",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 138,
     "budget_usd_millions": 35,
@@ -117,128 +109,19 @@
       "rotten_tomatoes_critic": "99%",
       "rotten_tomatoes_popcorn": "94%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
+    "genres": ["Crime", "Drama", "Mystery"],
     "actors": [
-      {
-        "name": "Kevin Spacey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000228/"
-      },
-      {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
-      },
-      {
-        "name": "Guy Pearce",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001602/"
-      }
+      { "name": "Kevin Spacey", "imdb_person_url": "https://www.imdb.com/name/nm0000228/" },
+      { "name": "Russell Crowe", "imdb_person_url": "https://www.imdb.com/name/nm0000128/" },
+      { "name": "Guy Pearce", "imdb_person_url": "https://www.imdb.com/name/nm0001602/" }
     ],
     "oscars_nominated": 9,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role",
-      "Best Writing, Screenplay Based on Material Previously Produced or Published"
-    ],
+    "oscars_won_details": ["Best Actress in a Supporting Role", "Best Writing, Screenplay Based on Material Previously Produced or Published"],
     "description": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0119488/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_confidential"
-  },
-  {
-    "title": "Men in Black",
-    "year": 1997,
-    "director": {
-      "name": "Barry Sonnenfeld",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001756/"
-    },
-    "production_studio": "Columbia Pictures, Amblin Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 98,
-    "budget_usd_millions": 90,
-    "gross_revenue_usd_millions": 589.4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Tommy Lee Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
-      },
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Linda Fiorentino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000147/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Makeup"
-    ],
-    "description": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119654/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/men_in_black"
-  },
-  {
-    "title": "As Good as It Gets",
-    "year": 1997,
-    "director": {
-      "name": "James L. Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000985/"
-    },
-    "production_studio": "Gracie Films, TriStar Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 314.1,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
-      },
-      {
-        "name": "Helen Hunt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000166/"
-      },
-      {
-        "name": "Greg Kinnear",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001427/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role",
-      "Best Actress in a Leading Role"
-    ],
-    "description": "A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119822/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/as_good_as_it_gets"
   },
   {
     "title": "The Fifth Element",
@@ -255,26 +138,13 @@
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Bruce Willis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
-      },
-      {
-        "name": "Milla Jovovich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000170/"
-      },
-      {
-        "name": "Gary Oldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
-      }
+      { "name": "Bruce Willis", "imdb_person_url": "https://www.imdb.com/name/nm0000246/" },
+      { "name": "Milla Jovovich", "imdb_person_url": "https://www.imdb.com/name/nm0000170/" },
+      { "name": "Gary Oldman", "imdb_person_url": "https://www.imdb.com/name/nm0000198/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -282,7 +152,38 @@
     "description": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0119116/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_fifth_element"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fifth_element"
+  },
+  {
+    "title": "As Good as It Gets",
+    "year": 1997,
+    "director": {
+      "name": "James L. Brooks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000985/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 139,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 314.2,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Jack Nicholson", "imdb_person_url": "https://www.imdb.com/name/nm0000197/" },
+      { "name": "Helen Hunt", "imdb_person_url": "https://www.imdb.com/name/nm0000166/" },
+      { "name": "Greg Kinnear", "imdb_person_url": "https://www.imdb.com/name/nm0000477/" }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Actor in a Leading Role", "Best Actress in a Leading Role"],
+    "description": "A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119822/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/as_good_as_it_gets"
   },
   {
     "title": "Boogie Nights",
@@ -291,7 +192,7 @@
       "name": "Paul Thomas Anderson",
       "imdb_person_url": "https://www.imdb.com/name/nm0000759/"
     },
-    "production_studio": "New Line Cinema, Lawrence Gordon Productions",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "R",
     "runtime_minutes": 155,
     "budget_usd_millions": 15,
@@ -299,24 +200,13 @@
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Mark Wahlberg",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000242/"
-      },
-      {
-        "name": "Julianne Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
-      },
-      {
-        "name": "Burt Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
-      }
+      { "name": "Mark Wahlberg", "imdb_person_url": "https://www.imdb.com/name/nm0001823/" },
+      { "name": "Julianne Moore", "imdb_person_url": "https://www.imdb.com/name/nm0000194/" },
+      { "name": "Burt Reynolds", "imdb_person_url": "https://www.imdb.com/name/nm0000608/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
@@ -327,397 +217,63 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boogie_nights"
   },
   {
-    "title": "Princess Mononoke",
+    "title": "The Lost World: Jurassic Park",
     "year": 1997,
     "director": {
-      "name": "Hayao Miyazaki",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005251/"
+      "name": "Steven Spielberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "Studio Ghibli, Tokuma Shoten",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 23.5,
-    "gross_revenue_usd_millions": 169.7,
-    "ratings": {
-      "imdb": 8.3,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "94%"
-    },
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure"
-    ],
-    "actors": [
-      {
-        "name": "Yôji Matsuda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0559670/"
-      },
-      {
-        "name": "Yuriko Ishida",
-        "imdb_person_url": "https://www.imdb.com/name/nm0410886/"
-      },
-      {
-        "name": "Yûko Tanaka",
-        "imdb_person_url": "https://www.imdb.com/name/nm0849033/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119698/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/princess_mononoke"
-  },
-  {
-    "title": "The Full Monty",
-    "year": 1997,
-    "director": {
-      "name": "Peter Cattaneo",
-      "imdb_person_url": "https://www.imdb.com/name/nm0146338/"
-    },
-    "production_studio": "Fox Searchlight Pictures, Redwave Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 258,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Robert Carlyle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001015/"
-      },
-      {
-        "name": "Mark Addy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000728/"
-      },
-      {
-        "name": "William Snape",
-        "imdb_person_url": "https://www.imdb.com/name/nm0811195/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Musical or Comedy Score"
-    ],
-    "description": "Six unemployed steel workers form a male striptease act.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119164/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/full_monty"
-  },
-  {
-    "title": "The Game",
-    "year": 1997,
-    "director": {
-      "name": "David Fincher",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000399/"
-    },
-    "production_studio": "PolyGram Filmed Entertainment, Propaganda Films",
-    "mpaa_rating": "R",
     "runtime_minutes": 129,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 109.4,
+    "budget_usd_millions": 73,
+    "gross_revenue_usd_millions": 618.6,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "54%",
+      "rotten_tomatoes_popcorn": "51%"
     },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Michael Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000140/"
-      },
-      {
-        "name": "Sean Penn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
-      },
-      {
-        "name": "Deborah Kara Unger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000679/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A wealthy San Francisco banker is given a mysterious gift that turns his life upside down.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119174/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1078179-game"
-  },
-  {
-    "title": "Jackie Brown",
-    "year": 1997,
-    "director": {
-      "name": "Quentin Tarantino",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000233/"
-    },
-    "production_studio": "Miramax, A Band Apart",
-    "mpaa_rating": "R",
-    "runtime_minutes": 154,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 74.7,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Pam Grier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000427/"
-      },
-      {
-        "name": "Samuel L. Jackson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000168/"
-      },
-      {
-        "name": "Robert Forster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001233/"
-      }
+      { "name": "Jeff Goldblum", "imdb_person_url": "https://www.imdb.com/name/nm0000156/" },
+      { "name": "Julianne Moore", "imdb_person_url": "https://www.imdb.com/name/nm0000194/" },
+      { "name": "Pete Postlethwaite", "imdb_person_url": "https://www.imdb.com/name/nm0000592/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A flight attendant with a criminal past gets nabbed by the ATF for smuggling. Under pressure to become an informant against the drug dealer she works for, she must find a way to secure her future without getting killed.",
+    "description": "A research team is sent to the Jurassic Park Site B island to study the dinosaurs there, while an InGen team approaches with another agenda.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119396/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jackie_brown"
-  },
-  {
-    "title": "Gattaca",
-    "year": 1997,
-    "director": {
-      "name": "Andrew Niccol",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001567/"
-    },
-    "production_studio": "Columbia Pictures, Jersey Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 36,
-    "gross_revenue_usd_millions": 12.5,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Ethan Hawke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000160/"
-      },
-      {
-        "name": "Uma Thurman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000235/"
-      },
-      {
-        "name": "Jude Law",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119177/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gattaca"
-  },
-  {
-    "title": "Starship Troopers",
-    "year": 1997,
-    "director": {
-      "name": "Paul Verhoeven",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
-    },
-    "production_studio": "TriStar Pictures, Touchstone Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 105,
-    "gross_revenue_usd_millions": 121.2,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Casper Van Dien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000678/"
-      },
-      {
-        "name": "Denise Richards",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000612/"
-      },
-      {
-        "name": "Dina Meyer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000537/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120201/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/starship_troopers"
-  },
-  {
-    "title": "Liar Liar",
-    "year": 1997,
-    "director": {
-      "name": "Tom Shadyac",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001723/"
-    },
-    "production_studio": "Universal Pictures, Imagine Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 86,
-    "budget_usd_millions": 45,
-    "gross_revenue_usd_millions": 302.7,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Jim Carrey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000120/"
-      },
-      {
-        "name": "Maura Tierney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001793/"
-      },
-      {
-        "name": "Justin Cooper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0178335/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A fast-track lawyer can't lie for 24 hours due to his son's birthday wish.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119528/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/liar_liar"
-  },
-  {
-    "title": "Donnie Brasco",
-    "year": 1997,
-    "director": {
-      "name": "Mike Newell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001564/"
-    },
-    "production_studio": "TriStar Pictures, Mandalay Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 124.9,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Johnny Depp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
-      },
-      {
-        "name": "Michael Madsen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000514/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119008/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/donnie_brasco"
+    "imdb_url": "https://www.imdb.com/title/tt0119567/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lost_world_jurassic_park"
   },
   {
     "title": "Air Force One",
     "year": 1997,
     "director": {
       "name": "Wolfgang Petersen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000583/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000581/"
     },
-    "production_studio": "Columbia Pictures, Beacon Communications",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 124,
     "budget_usd_millions": 85,
     "gross_revenue_usd_millions": 315.2,
     "ratings": {
       "imdb": 6.5,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "61%"
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "66%"
     },
-    "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ],
+    "genres": ["Action", "Drama", "Thriller"],
     "actors": [
-      {
-        "name": "Harrison Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
-      },
-      {
-        "name": "Gary Oldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
-      },
-      {
-        "name": "Glenn Close",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000335/"
-      }
+      { "name": "Harrison Ford", "imdb_person_url": "https://www.imdb.com/name/nm0000148/" },
+      { "name": "Gary Oldman", "imdb_person_url": "https://www.imdb.com/name/nm0000198/" },
+      { "name": "Glenn Close", "imdb_person_url": "https://www.imdb.com/name/nm0000335/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Hijackers seize the plane carrying the President of the United States and his family, but he is a former soldier and plans to fight back.",
+    "description": "Communist Radicals hijack Air Force One with The U.S. President and his family on board. The Vice President negotiates from Washington D.C., while the President, a veteran, fights to rescue the hostages on board.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0118571/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/air_force_one"
@@ -727,139 +283,71 @@
     "year": 1997,
     "director": {
       "name": "John Woo",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000251/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000247/"
     },
-    "production_studio": "Paramount Pictures, Touchstone Pictures",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 139,
+    "runtime_minutes": 138,
     "budget_usd_millions": 80,
     "gross_revenue_usd_millions": 245.7,
     "ratings": {
-      "imdb": 7.2,
+      "imdb": 7.3,
       "rotten_tomatoes_critic": "92%",
       "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Sci-Fi"
-    ],
+    "genres": ["Action", "Crime", "Sci-Fi"],
     "actors": [
-      {
-        "name": "John Travolta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "Nicolas Cage",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000115/"
-      },
-      {
-        "name": "Joan Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000260/"
-      }
+      { "name": "John Travolta", "imdb_person_url": "https://www.imdb.com/name/nm0000237/" },
+      { "name": "Nicolas Cage", "imdb_person_url": "https://www.imdb.com/name/nm0000115/" },
+      { "name": "Joan Allen", "imdb_person_url": "https://www.imdb.com/name/nm0000260/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind, who then escapes custody and assumes the identity of the agent.",
+    "description": "In order to foil a terrorist plot, an FBI agent undergoes facial transplant surgery and assumes the identity of a criminal mastermind, who murdered his only son.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0119094/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/faceoff"
   },
   {
-    "title": "My Best Friend's Wedding",
+    "title": "Liar Liar",
     "year": 1997,
     "director": {
-      "name": "P. J. Hogan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0389333/"
+      "name": "Tom Shadyac",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001724/"
     },
-    "production_studio": "TriStar Pictures",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 38,
-    "gross_revenue_usd_millions": 299.3,
+    "runtime_minutes": 86,
+    "budget_usd_millions": 45,
+    "gross_revenue_usd_millions": 302.7,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "66%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Fantasy"],
     "actors": [
-      {
-        "name": "Julia Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
-      },
-      {
-        "name": "Dermot Mulroney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000566/"
-      },
-      {
-        "name": "Cameron Diaz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000139/"
-      }
+      { "name": "Jim Carrey", "imdb_person_url": "https://www.imdb.com/name/nm0000120/" },
+      { "name": "Maura Tierney", "imdb_person_url": "https://www.imdb.com/name/nm0005491/" },
+      { "name": "Justin Cooper", "imdb_person_url": "https://www.imdb.com/name/nm0178193/" }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When a woman's long-time friend reveals he's engaged, she realizes she loves him herself and sets out to get him, with only days before the wedding.",
+    "description": "A fast-talking lawyer can't lie for 24 hours due to his son's birthday wish after he disappoints him for the last time.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119738/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_best_friends_wedding"
-  },
-  {
-    "title": "The Sweet Hereafter",
-    "year": 1997,
-    "director": {
-      "name": "Atom Egoyan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000382/"
-    },
-    "production_studio": "Alliance Communications, Ego Film Arts",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 4.3,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Ian Holm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
-      },
-      {
-        "name": "Sarah Polley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001631/"
-      },
-      {
-        "name": "Caerthan Banks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052411/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small mountain community is devastated by a school bus accident that kills most of the town's children, and a lawyer who arrives to represent the victims' families finds himself confronting his own personal tragedy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120255/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_sweet_hereafter"
+    "imdb_url": "https://www.imdb.com/title/tt0119528/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/liar_liar"
   },
   {
     "title": "Austin Powers: International Man of Mystery",
     "year": 1997,
     "director": {
       "name": "Jay Roach",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0005372/"
     },
-    "production_studio": "New Line Cinema, Eric's Boy",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 94,
     "budget_usd_millions": 16.5,
@@ -867,338 +355,83 @@
     "ratings": {
       "imdb": 7.0,
       "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
+    "genres": ["Comedy"],
     "actors": [
-      {
-        "name": "Mike Myers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000196/"
-      },
-      {
-        "name": "Elizabeth Hurley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000167/"
-      },
-      {
-        "name": "Michael York",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001874/"
-      }
+      { "name": "Mike Myers", "imdb_person_url": "https://www.imdb.com/name/nm0000196/" },
+      { "name": "Elizabeth Hurley", "imdb_person_url": "https://www.imdb.com/name/nm0000167/" },
+      { "name": "Michael York", "imdb_person_url": "https://www.imdb.com/name/nm0001868/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A 1960s secret agent is brought out of cryofreeze to oppose his greatest enemy in the 1990s, where his social attitudes are glaringly out of place.",
+    "description": "A 1960s hipster secret agent is brought out of cryofreeze to oppose his greatest enemy in the 1990s, where his social attitudes are glaringly out of place.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0118655/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/austin_powers_international_man_of_mystery"
   },
   {
-    "title": "Con Air",
+    "title": "Starship Troopers",
     "year": 1997,
     "director": {
-      "name": "Simon West",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001842/"
+      "name": "Paul Verhoeven",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
     },
-    "production_studio": "Touchstone Pictures, Jerry Bruckheimer Films",
+    "production_studio": "TriStar Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 75,
-    "gross_revenue_usd_millions": 224,
+    "runtime_minutes": 129,
+    "budget_usd_millions": 105,
+    "gross_revenue_usd_millions": 121.2,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "58%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "70%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Nicolas Cage",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000115/"
-      },
-      {
-        "name": "John Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000131/"
-      },
-      {
-        "name": "John Malkovich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000518/"
-      }
+      { "name": "Casper Van Dien", "imdb_person_url": "https://www.imdb.com/name/nm0000680/" },
+      { "name": "Dina Meyer", "imdb_person_url": "https://www.imdb.com/name/nm0000539/" },
+      { "name": "Denise Richards", "imdb_person_url": "https://www.imdb.com/name/nm0000612/" }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A newly-paroled ex-con and former U.S. Ranger finds himself trapped in a prisoner-transport plane when the passengers seize control.",
+    "description": "Humans in a fascist, militaristic future wage war with giant alien bugs.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0118880/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/con_air"
+    "imdb_url": "https://www.imdb.com/title/tt0120201/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/starship_troopers"
   },
   {
-    "title": "Grosse Pointe Blank",
+    "title": "Jackie Brown",
     "year": 1997,
     "director": {
-      "name": "George Armitage",
-      "imdb_person_url": "https://www.imdb.com/name/nm0035848/"
-    },
-    "production_studio": "Hollywood Pictures, Caravan Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 28.1,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "John Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000131/"
-      },
-      {
-        "name": "Minnie Driver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000378/"
-      },
-      {
-        "name": "Alan Arkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000273/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A professional assassin has a crisis of conscience and decides to attend his high school reunion.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119229/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grosse_pointe_blank"
-  },
-  {
-    "title": "Lost Highway",
-    "year": 1997,
-    "director": {
-      "name": "David Lynch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
-    },
-    "production_studio": "Ciby 2000, Asymmetrical Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 3.7,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "68%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Bill Pullman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000601/"
-      },
-      {
-        "name": "Patricia Arquette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000099/"
-      },
-      {
-        "name": "John Roselius",
-        "imdb_person_url": "https://www.imdb.com/name/nm0743329/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After a bizarre encounter at a party, a jazz saxophonist is framed for the murder of his wife and sent to prison, where he inexplicably morphs into a young mechanic and begins leading a new life.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0116922/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lost_highway"
-  },
-  {
-    "title": "Chasing Amy",
-    "year": 1997,
-    "director": {
-      "name": "Kevin Smith",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003620/"
-    },
-    "production_studio": "View Askew Productions, Miramax",
-    "mpaa_rating": "R",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 0.25,
-    "gross_revenue_usd_millions": 12,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Ben Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000255/"
-      },
-      {
-        "name": "Joey Lauren Adams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000728/"
-      },
-      {
-        "name": "Jason Lee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005129/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A comic book artist falls in love with a lesbian, and their relationship is complicated by his own insecurities and the disapproval of his best friend.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0118842/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chasing_amy"
-  },
-  {
-    "title": "The Wings of the Dove",
-    "year": 1997,
-    "director": {
-      "name": "Iain Softley",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001751/"
+      "name": "Quentin Tarantino",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000233/"
     },
     "production_studio": "Miramax",
     "mpaa_rating": "R",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 13.7,
+    "runtime_minutes": 154,
+    "budget_usd_millions": 12,
+    "gross_revenue_usd_millions": 74.7,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "85%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Crime", "Drama", "Thriller"],
     "actors": [
-      {
-        "name": "Helena Bonham Carter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000307/"
-      },
-      {
-        "name": "Linus Roache",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
-      },
-      {
-        "name": "Alison Elliott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001184/"
-      }
+      { "name": "Pam Grier", "imdb_person_url": "https://www.imdb.com/name/nm0000427/" },
+      { "name": "Samuel L. Jackson", "imdb_person_url": "https://www.imdb.com/name/nm0000168/" },
+      { "name": "Robert Forster", "imdb_person_url": "https://www.imdb.com/name/nm0001233/" }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An impoverished woman who has been jilted by her wealthy lover conspires with a cynical journalist to deceive a dying heiress.",
+    "description": "A middle-aged flight attendant smuggles money for a gun runner to ensure her retirement, but she gets caught by the ATF and must cooperate to bring him down.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120520/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wings_of_the_dove"
-  },
-  {
-    "title": "Grosse Pointe Blank",
-    "year": 1997,
-    "director": {
-      "name": "George Armitage",
-      "imdb_person_url": "https://www.imdb.com/name/nm0035848/"
-    },
-    "production_studio": "Hollywood Pictures, Caravan Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 28.1,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "John Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000131/"
-      },
-      {
-        "name": "Minnie Driver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000378/"
-      },
-      {
-        "name": "Alan Arkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000273/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A professional assassin has a crisis of conscience and decides to attend his high school reunion.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119229/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grosse_pointe_blank"
-  },
-  {
-    "title": "The Sweet Hereafter",
-    "year": 1997,
-    "director": {
-      "name": "Atom Egoyan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000382/"
-    },
-    "production_studio": "Alliance Communications, Ego Film Arts",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 4.3,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Ian Holm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
-      },
-      {
-        "name": "Sarah Polley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001631/"
-      },
-      {
-        "name": "Caerthan Banks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052411/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small mountain community is devastated by a school bus accident that kills most of the town's children, and a lawyer who arrives to represent the victims' families finds himself confronting his own personal tragedy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120255/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_sweet_hereafter"
+    "imdb_url": "https://www.imdb.com/title/tt0119396/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jackie_brown"
   },
   {
     "title": "Contact",
@@ -1207,7 +440,7 @@
       "name": "Robert Zemeckis",
       "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
     },
-    "production_studio": "Warner Bros., South Side Amusement Company",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG",
     "runtime_minutes": 150,
     "budget_usd_millions": 90,
@@ -1215,26 +448,13 @@
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "68%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "78%"
     },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ],
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
-      },
-      {
-        "name": "Matthew McConaughey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000190/"
-      },
-      {
-        "name": "Tom Skerritt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000643/"
-      }
+      { "name": "Jodie Foster", "imdb_person_url": "https://www.imdb.com/name/nm0000149/" },
+      { "name": "Matthew McConaughey", "imdb_person_url": "https://www.imdb.com/name/nm0000190/" },
+      { "name": "Tom Skerritt", "imdb_person_url": "https://www.imdb.com/name/nm0000643/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -1242,139 +462,7 @@
     "description": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0118884/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/contact"
-  },
-  {
-    "title": "Donnie Brasco",
-    "year": 1997,
-    "director": {
-      "name": "Mike Newell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001564/"
-    },
-    "production_studio": "TriStar Pictures, Mandalay Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 124.9,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Johnny Depp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
-      },
-      {
-        "name": "Michael Madsen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000514/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119008/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/donnie_brasco"
-  },
-  {
-    "title": "The Game",
-    "year": 1997,
-    "director": {
-      "name": "David Fincher",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000399/"
-    },
-    "production_studio": "PolyGram Filmed Entertainment, Propaganda Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 109.4,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Michael Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000140/"
-      },
-      {
-        "name": "Sean Penn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
-      },
-      {
-        "name": "Deborah Kara Unger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000679/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A wealthy San Francisco banker is given a mysterious gift that turns his life upside down.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119174/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1078179-game"
-  },
-  {
-    "title": "Air Force One",
-    "year": 1997,
-    "director": {
-      "name": "Wolfgang Petersen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000583/"
-    },
-    "production_studio": "Columbia Pictures, Beacon Communications",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 85,
-    "gross_revenue_usd_millions": 315.2,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Harrison Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
-      },
-      {
-        "name": "Gary Oldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
-      },
-      {
-        "name": "Glenn Close",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000335/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Hijackers seize the plane carrying the President of the United States and his family, but he is a former soldier and plans to fight back.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0118571/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/air_force_one"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1077987-contact"
   },
   {
     "title": "The Devil's Advocate",
@@ -1383,34 +471,21 @@
       "name": "Taylor Hackford",
       "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
     },
-    "production_studio": "Warner Bros., Regency Enterprises",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 144,
     "budget_usd_millions": 57,
-    "gross_revenue_usd_millions": 153,
+    "gross_revenue_usd_millions": 152.9,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "79%"
     },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery"
-    ],
+    "genres": ["Drama", "Mystery", "Thriller"],
     "actors": [
-      {
-        "name": "Keanu Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
-      },
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Charlize Theron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000234/"
-      }
+      { "name": "Keanu Reeves", "imdb_person_url": "https://www.imdb.com/name/nm0000206/" },
+      { "name": "Al Pacino", "imdb_person_url": "https://www.imdb.com/name/nm0000199/" },
+      { "name": "Charlize Theron", "imdb_person_url": "https://www.imdb.com/name/nm0000232/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1421,187 +496,13 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/devils_advocate"
   },
   {
-    "title": "The Fifth Element",
-    "year": 1997,
-    "director": {
-      "name": "Luc Besson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000108/"
-    },
-    "production_studio": "Gaumont",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 90,
-    "gross_revenue_usd_millions": 263.9,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Bruce Willis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
-      },
-      {
-        "name": "Milla Jovovich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000170/"
-      },
-      {
-        "name": "Gary Oldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119116/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_fifth_element"
-  },
-  {
-    "title": "Boogie Nights",
-    "year": 1997,
-    "director": {
-      "name": "Paul Thomas Anderson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000759/"
-    },
-    "production_studio": "New Line Cinema, Lawrence Gordon Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 155,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 43.1,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Mark Wahlberg",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000242/"
-      },
-      {
-        "name": "Julianne Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
-      },
-      {
-        "name": "Burt Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of a young man's adventures in the Californian pornography industry of the late 1970s and early 1980s.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0118749/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boogie_nights"
-  },
-  {
-    "title": "Donnie Brasco",
-    "year": 1997,
-    "director": {
-      "name": "Mike Newell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001564/"
-    },
-    "production_studio": "TriStar Pictures, Mandalay Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 124.9,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Johnny Depp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
-      },
-      {
-        "name": "Michael Madsen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000514/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119008/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/donnie_brasco"
-  },
-  {
-    "title": "Jackie Brown",
-    "year": 1997,
-    "director": {
-      "name": "Quentin Tarantino",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000233/"
-    },
-    "production_studio": "Miramax, A Band Apart",
-    "mpaa_rating": "R",
-    "runtime_minutes": 154,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 74.7,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Pam Grier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000427/"
-      },
-      {
-        "name": "Samuel L. Jackson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000168/"
-      },
-      {
-        "name": "Robert Forster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001233/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A flight attendant with a criminal past gets nabbed by the ATF for smuggling. Under pressure to become an informant against the drug dealer she works for, she must find a way to secure her future without getting killed.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0119396/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jackie_brown"
-  },
-  {
     "title": "Gattaca",
     "year": 1997,
     "director": {
       "name": "Andrew Niccol",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001567/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0629272/"
     },
-    "production_studio": "Columbia Pictures, Jersey Films",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 106,
     "budget_usd_millions": 36,
@@ -1609,26 +510,13 @@
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
     "actors": [
-      {
-        "name": "Ethan Hawke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000160/"
-      },
-      {
-        "name": "Uma Thurman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000235/"
-      },
-      {
-        "name": "Jude Law",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
-      }
+      { "name": "Ethan Hawke", "imdb_person_url": "https://www.imdb.com/name/nm0000160/" },
+      { "name": "Uma Thurman", "imdb_person_url": "https://www.imdb.com/name/nm0000235/" },
+      { "name": "Jude Law", "imdb_person_url": "https://www.imdb.com/name/nm0000179/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -1639,47 +527,1274 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gattaca"
   },
   {
-    "title": "Starship Troopers",
+    "title": "The Full Monty",
     "year": 1997,
     "director": {
-      "name": "Paul Verhoeven",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
+      "name": "Peter Cattaneo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0146337/"
     },
-    "production_studio": "TriStar Pictures, Touchstone Pictures",
+    "production_studio": "Fox Searchlight",
     "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 105,
-    "gross_revenue_usd_millions": 121.2,
+    "runtime_minutes": 91,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 258,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "80%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
+    "genres": ["Comedy", "Drama"],
     "actors": [
-      {
-        "name": "Casper Van Dien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000678/"
-      },
-      {
-        "name": "Denise Richards",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000612/"
-      },
-      {
-        "name": "Dina Meyer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000537/"
-      }
+      { "name": "Robert Carlyle", "imdb_person_url": "https://www.imdb.com/name/nm0001015/" },
+      { "name": "Tom Wilkinson", "imdb_person_url": "https://www.imdb.com/name/nm0929489/" },
+      { "name": "Mark Addy", "imdb_person_url": "https://www.imdb.com/name/nm0004692/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Music, Original Musical or Comedy Score"],
+    "description": "Six unemployed steel workers, inspired by a touring group of male strippers, decide to make some quick cash by forming their own act with a slightly different gimmick.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119164/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/full_monty"
+  },
+  {
+    "title": "Donnie Brasco",
+    "year": 1997,
+    "director": {
+      "name": "Mike Newell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001564/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 35,
+    "gross_revenue_usd_millions": 124.9,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Biography", "Crime", "Drama"],
+    "actors": [
+      { "name": "Al Pacino", "imdb_person_url": "https://www.imdb.com/name/nm0000199/" },
+      { "name": "Johnny Depp", "imdb_person_url": "https://www.imdb.com/name/nm0000136/" },
+      { "name": "Michael Madsen", "imdb_person_url": "https://www.imdb.com/name/nm0000514/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival.",
+    "description": "An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120201/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/starship_troopers"
+    "imdb_url": "https://www.imdb.com/title/tt0119008/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/donnie_brasco"
+  },
+  {
+    "title": "My Best Friend's Wedding",
+    "year": 1997,
+    "director": {
+      "name": "P.J. Hogan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0389592/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 38,
+    "gross_revenue_usd_millions": 299.3,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Julia Roberts", "imdb_person_url": "https://www.imdb.com/name/nm0000210/" },
+      { "name": "Dermot Mulroney", "imdb_person_url": "https://www.imdb.com/name/nm0000551/" },
+      { "name": "Cameron Diaz", "imdb_person_url": "https://www.imdb.com/name/nm0000139/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a woman's long-time friend reveals he's engaged, she realizes she loves him herself and sets out to get him, with only days before the wedding.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119738/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_best_friends_wedding"
+  },
+  {
+    "title": "Tomorrow Never Dies",
+    "year": 1997,
+    "director": {
+      "name": "Roger Spottiswoode",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001760/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 110,
+    "gross_revenue_usd_millions": 333,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "56%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": ["Action", "Adventure", "Thriller"],
+    "actors": [
+      { "name": "Pierce Brosnan", "imdb_person_url": "https://www.imdb.com/name/nm0000112/" },
+      { "name": "Jonathan Pryce", "imdb_person_url": "https://www.imdb.com/name/nm0000601/" },
+      { "name": "Michelle Yeoh", "imdb_person_url": "https://www.imdb.com/name/nm0000706/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "James Bond sets out to stop a media mogul from inducing war between China and the UK in order to obtain exclusive global media coverage.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120347/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tomorrow_never_dies"
+  },
+  {
+    "title": "Batman & Robin",
+    "year": 1997,
+    "director": {
+      "name": "Joel Schumacher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001708/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 125,
+    "gross_revenue_usd_millions": 238.2,
+    "ratings": {
+      "imdb": 3.7,
+      "rotten_tomatoes_critic": "12%",
+      "rotten_tomatoes_popcorn": "16%"
+    },
+    "genres": ["Action", "Sci-Fi"],
+    "actors": [
+      { "name": "Arnold Schwarzenegger", "imdb_person_url": "https://www.imdb.com/name/nm0000216/" },
+      { "name": "George Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0000123/" },
+      { "name": "Chris O'Donnell", "imdb_person_url": "https://www.imdb.com/name/nm0000563/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118688/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/batman_and_robin"
+  },
+  {
+    "title": "George of the Jungle",
+    "year": 1997,
+    "director": {
+      "name": "Sam Weisman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0919064/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 55,
+    "gross_revenue_usd_millions": 174.4,
+    "ratings": {
+      "imdb": 5.5,
+      "rotten_tomatoes_critic": "55%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Brendan Fraser", "imdb_person_url": "https://www.imdb.com/name/nm0000409/" },
+      { "name": "Leslie Mann", "imdb_person_url": "https://www.imdb.com/name/nm0005181/" },
+      { "name": "Thomas Haden Church", "imdb_person_url": "https://www.imdb.com/name/nm0002006/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "George, who was raised by apes, falls in love with a wealthy heiress and experiences the big city for the first time.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119190/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/george_of_the_jungle"
+  },
+  {
+    "title": "Scream 2",
+    "year": 1997,
+    "director": {
+      "name": "Wes Craven",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000341/"
+    },
+    "production_studio": "Dimension Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 24,
+    "gross_revenue_usd_millions": 172.4,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Horror", "Mystery"],
+    "actors": [
+      { "name": "Neve Campbell", "imdb_person_url": "https://www.imdb.com/name/nm0000118/" },
+      { "name": "Courteney Cox", "imdb_person_url": "https://www.imdb.com/name/nm0001073/" },
+      { "name": "David Arquette", "imdb_person_url": "https://www.imdb.com/name/nm0000274/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two years after the first series of murders, as Sidney acclimates to college life, someone donning the Ghostface costume begins a new string of killings.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120082/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scream_2"
+  },
+  {
+    "title": "I Know What You Did Last Summer",
+    "year": 1997,
+    "director": {
+      "name": "Jim Gillespie",
+      "imdb_person_url": "https://www.imdb.com/name/nm0318930/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 17,
+    "gross_revenue_usd_millions": 125.3,
+    "ratings": {
+      "imdb": 5.8,
+      "rotten_tomatoes_critic": "46%",
+      "rotten_tomatoes_popcorn": "39%"
+    },
+    "genres": ["Horror", "Mystery"],
+    "actors": [
+      { "name": "Jennifer Love Hewitt", "imdb_person_url": "https://www.imdb.com/name/nm0000163/" },
+      { "name": "Sarah Michelle Gellar", "imdb_person_url": "https://www.imdb.com/name/nm0001264/" },
+      { "name": "Freddie Prinze Jr.", "imdb_person_url": "https://www.imdb.com/name/nm0005327/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Four young friends bound by a tragic accident are reunited when they find themselves being stalked by a hook-wielding maniac in their small seaside town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119345/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_know_what_you_did_last_summer"
+  },
+  {
+    "title": "Flubber",
+    "year": 1997,
+    "director": {
+      "name": "Les Mayfield",
+      "imdb_person_url": "https://www.imdb.com/name/nm0562664/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 80,
+    "gross_revenue_usd_millions": 177.9,
+    "ratings": {
+      "imdb": 5.3,
+      "rotten_tomatoes_critic": "24%",
+      "rotten_tomatoes_popcorn": "32%"
+    },
+    "genres": ["Comedy", "Family", "Sci-Fi"],
+    "actors": [
+      { "name": "Robin Williams", "imdb_person_url": "https://www.imdb.com/name/nm0000245/" },
+      { "name": "Marcia Gay Harden", "imdb_person_url": "https://www.imdb.com/name/nm0002124/" },
+      { "name": "Christopher McDonald", "imdb_person_url": "https://www.imdb.com/name/nm0001523/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An absent-minded professor discovers \"flubber,\" a rubber-like super-bouncy substance.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119137/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/flubber"
+  },
+  {
+    "title": "Conspiracy Theory",
+    "year": 1997,
+    "director": {
+      "name": "Richard Donner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000373/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 75,
+    "gross_revenue_usd_millions": 137,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": ["Action", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Mel Gibson", "imdb_person_url": "https://www.imdb.com/name/nm0000154/" },
+      { "name": "Julia Roberts", "imdb_person_url": "https://www.imdb.com/name/nm0000210/" },
+      { "name": "Patrick Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0001772/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A taxi driver with a penchant for conspiracy theories becomes a target after one of his theories turns out to be true.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118883/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/conspiracy_theory"
+  },
+  {
+    "title": "Hercules",
+    "year": 1997,
+    "director": {
+      "name": "Ron Clements & John Musker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0166243/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 85,
+    "gross_revenue_usd_millions": 252.7,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Tate Donovan", "imdb_person_url": "https://www.imdb.com/name/nm0004883/" },
+      { "name": "Susan Egan", "imdb_person_url": "https://www.imdb.com/name/nm0250768/" },
+      { "name": "James Woods", "imdb_person_url": "https://www.imdb.com/name/nm0000249/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The son of Zeus and Hera is stripped of his immortality as an infant and must become a true hero to reclaim it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119282/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1077989-hercules"
+  },
+  {
+    "title": "Anastasia",
+    "year": 1997,
+    "director": {
+      "name": "Don Bluth & Gary Goldman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0089942/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "G",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 139.8,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Animation", "Adventure", "Drama"],
+    "actors": [
+      { "name": "Meg Ryan", "imdb_person_url": "https://www.imdb.com/name/nm0000212/" },
+      { "name": "John Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0000131/" },
+      { "name": "Kelsey Grammer", "imdb_person_url": "https://www.imdb.com/name/nm0001288/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The last surviving child of the Russian Royal Family joins two con men to reunite with her grandmother, the Dowager Empress, while the undead Rasputin seeks her death.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118617/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1084106-anastasia"
+  },
+  {
+    "title": "Dante's Peak",
+    "year": 1997,
+    "director": {
+      "name": "Roger Donaldson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001147/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 116,
+    "gross_revenue_usd_millions": 178.1,
+    "ratings": {
+      "imdb": 6.0,
+      "rotten_tomatoes_critic": "28%",
+      "rotten_tomatoes_popcorn": "39%"
+    },
+    "genres": ["Action", "Adventure", "Thriller"],
+    "actors": [
+      { "name": "Pierce Brosnan", "imdb_person_url": "https://www.imdb.com/name/nm0000112/" },
+      { "name": "Linda Hamilton", "imdb_person_url": "https://www.imdb.com/name/nm0000157/" },
+      { "name": "Jamie Renée Smith", "imdb_person_url": "https://www.imdb.com/name/nm0808620/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A vulcanologist arrives at a countryside town named Dante's Peak after a long dormant volcano, which has recently been named the second most desirable place to live in America, and discovers that Dante's Peak may wake up at any moment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118928/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dantes_peak"
+  },
+  {
+    "title": "Volcano",
+    "year": 1997,
+    "director": {
+      "name": "Mick Jackson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0413883/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 90,
+    "gross_revenue_usd_millions": 122.8,
+    "ratings": {
+      "imdb": 5.5,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "31%"
+    },
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "actors": [
+      { "name": "Tommy Lee Jones", "imdb_person_url": "https://www.imdb.com/name/nm0000169/" },
+      { "name": "Anne Heche", "imdb_person_url": "https://www.imdb.com/name/nm0000162/" },
+      { "name": "Gaby Hoffmann", "imdb_person_url": "https://www.imdb.com/name/nm0001358/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A volcano erupts in downtown Los Angeles, threatening to destroy the city.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120461/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1077034-volcano"
+  },
+  {
+    "title": "The Game",
+    "year": 1997,
+    "director": {
+      "name": "David Fincher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000399/"
+    },
+    "production_studio": "Polygram Filmed Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 129,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 109.4,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Michael Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0000140/" },
+      { "name": "Sean Penn", "imdb_person_url": "https://www.imdb.com/name/nm0000576/" },
+      { "name": "Deborah Kara Unger", "imdb_person_url": "https://www.imdb.com/name/nm0001808/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a wealthy banker is given an opportunity to participate in a mysterious game, his life is turned upside down when he begins to question if it might really be a concealed conspiracy to destroy him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119174/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1078955-game"
+  },
+  {
+    "title": "Wag the Dog",
+    "year": 1997,
+    "director": {
+      "name": "Barry Levinson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001469/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 64.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Dustin Hoffman", "imdb_person_url": "https://www.imdb.com/name/nm0000163/" },
+      { "name": "Robert De Niro", "imdb_person_url": "https://www.imdb.com/name/nm0000134/" },
+      { "name": "Anne Heche", "imdb_person_url": "https://www.imdb.com/name/nm0000162/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Shortly before an election, a spin-doctor and a Hollywood producer join efforts to fabricate a war in order to cover up a Presidential sex scandal.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120490/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wag_the_dog"
+  },
+  {
+    "title": "In & Out",
+    "year": 1997,
+    "director": {
+      "name": "Frank Oz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000568/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 35,
+    "gross_revenue_usd_millions": 63.8,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Comedy"],
+    "actors": [
+      { "name": "Kevin Kline", "imdb_person_url": "https://www.imdb.com/name/nm0000177/" },
+      { "name": "Joan Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0000349/" },
+      { "name": "Tom Selleck", "imdb_person_url": "https://www.imdb.com/name/nm0000633/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A midwestern teacher questions his sexuality after a former student makes a comment about him at the Academy Awards.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119360/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_and_out"
+  },
+  {
+    "title": "The Rainmaker",
+    "year": 1997,
+    "director": {
+      "name": "Francis Ford Coppola",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000338/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 40,
+    "gross_revenue_usd_millions": 45.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Matt Damon", "imdb_person_url": "https://www.imdb.com/name/nm0000354/" },
+      { "name": "Danny DeVito", "imdb_person_url": "https://www.imdb.com/name/nm0000362/" },
+      { "name": "Claire Danes", "imdb_person_url": "https://www.imdb.com/name/nm0000132/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An underdog lawyer takes on a fraudulent insurance company.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119157/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/john_grishams_the_rainmaker"
+  },
+  {
+    "title": "Cop Land",
+    "year": 1997,
+    "director": {
+      "name": "James Mangold",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 63.7,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Sylvester Stallone", "imdb_person_url": "https://www.imdb.com/name/nm0000230/" },
+      { "name": "Harvey Keitel", "imdb_person_url": "https://www.imdb.com/name/nm0000172/" },
+      { "name": "Ray Liotta", "imdb_person_url": "https://www.imdb.com/name/nm0000501/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Sheriff of a suburban New Jersey community, populated by New York City police officers, slowly discovers the town is a front for mob connections and corruption.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118887/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cop_land"
+  },
+  {
+    "title": "Grosse Pointe Blank",
+    "year": 1997,
+    "director": {
+      "name": "George Armitage",
+      "imdb_person_url": "https://www.imdb.com/name/nm0035495/"
+    },
+    "production_studio": "Hollywood Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 28.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "actors": [
+      { "name": "John Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0000131/" },
+      { "name": "Minnie Driver", "imdb_person_url": "https://www.imdb.com/name/nm0000378/" },
+      { "name": "Dan Aykroyd", "imdb_person_url": "https://www.imdb.com/name/nm0000095/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Martin Blank is a professional hitman. He is sent on a mission to a small Detroit suburb, Grosse Pointe, and, by coincidence, his ten-year high school reunion is taking place there at the same time.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119229/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grosse_pointe_blank"
+  },
+  {
+    "title": "Chasing Amy",
+    "year": 1997,
+    "director": {
+      "name": "Kevin Smith",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 0.25,
+    "gross_revenue_usd_millions": 12,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Ben Affleck", "imdb_person_url": "https://www.imdb.com/name/nm0000255/" },
+      { "name": "Joey Lauren Adams", "imdb_person_url": "https://www.imdb.com/name/nm0000725/" },
+      { "name": "Jason Lee", "imdb_person_url": "https://www.imdb.com/name/nm0497504/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but there's a heavy load of baggage: she's a lesbian.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118842/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chasing_amy"
+  },
+  {
+    "title": "The Ice Storm",
+    "year": 1997,
+    "director": {
+      "name": "Ang Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
+    },
+    "production_studio": "Fox Searchlight",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 18,
+    "gross_revenue_usd_millions": 8,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Kevin Kline", "imdb_person_url": "https://www.imdb.com/name/nm0000177/" },
+      { "name": "Joan Allen", "imdb_person_url": "https://www.imdb.com/name/nm0000260/" },
+      { "name": "Sigourney Weaver", "imdb_person_url": "https://www.imdb.com/name/nm0000244/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In suburban New Canaan, Connecticut, 1973, middle-class families experimenting with casual sex and substance abuse find their lives out of control.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119349/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ice_storm"
+  },
+  {
+    "title": "The Sweet Hereafter",
+    "year": 1997,
+    "director": {
+      "name": "Atom Egoyan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000383/"
+    },
+    "production_studio": "Fine Line Features",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 5,
+    "gross_revenue_usd_millions": 3.3,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Ian Holm", "imdb_person_url": "https://www.imdb.com/name/nm0000453/" },
+      { "name": "Sarah Polley", "imdb_person_url": "https://www.imdb.com/name/nm0001632/" },
+      { "name": "Bruce Greenwood", "imdb_person_url": "https://www.imdb.com/name/nm0339304/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A visiting big-city lawyer rallies the community to file a class-action lawsuit against the people they feel are responsible for a tragic school bus accident.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120255/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sweet_hereafter"
+  },
+  {
+    "title": "The Apostle",
+    "year": 1997,
+    "director": {
+      "name": "Robert Duvall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
+    },
+    "production_studio": "October Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 5,
+    "gross_revenue_usd_millions": 21.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Robert Duvall", "imdb_person_url": "https://www.imdb.com/name/nm0000377/" },
+      { "name": "Todd Allen", "imdb_person_url": "https://www.imdb.com/name/nm0021113/" },
+      { "name": "Paul Bagget", "imdb_person_url": "https://www.imdb.com/name/nm0046631/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After his happy life spins out of control, a preacher from Texas changes his name, goes to Louisiana and starts a new church.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118632/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/apostle"
+  },
+  {
+    "title": "Ulee's Gold",
+    "year": 1997,
+    "director": {
+      "name": "Victor Nunez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0637893/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 9,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Peter Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0001228/" },
+      { "name": "Patricia Richardson", "imdb_person_url": "https://www.imdb.com/name/nm0005359/" },
+      { "name": "Christine Dunford", "imdb_person_url": "https://www.imdb.com/name/nm0242230/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A reclusive beekeeper slowly pulls his dysfunctional family back together, but not without having to fight through a dangerous situation first.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120402/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ulees_gold"
+  },
+  {
+    "title": "Deconstructing Harry",
+    "year": 1997,
+    "director": {
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+    },
+    "production_studio": "Fine Line Features",
+    "mpaa_rating": "R",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 20,
+    "gross_revenue_usd_millions": 10.6,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Woody Allen", "imdb_person_url": "https://www.imdb.com/name/nm0000095/" },
+      { "name": "Judy Davis", "imdb_person_url": "https://www.imdb.com/name/nm0000362/" },
+      { "name": "Julia Louis-Dreyfus", "imdb_person_url": "https://www.imdb.com/name/nm0000506/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Suffering from writer's block and waiting for his book to be published, Harry Block's life is laid bare when he drives to his old university to receive an honorary degree.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118954/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/deconstructing_harry"
+  },
+  {
+    "title": "Midnight in the Garden of Good and Evil",
+    "year": 1997,
+    "director": {
+      "name": "Clint Eastwood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 155,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 25.1,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "51%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "John Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0000131/" },
+      { "name": "Kevin Spacey", "imdb_person_url": "https://www.imdb.com/name/nm0000228/" },
+      { "name": "Jack Thompson", "imdb_person_url": "https://www.imdb.com/name/nm0859652/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A visiting city reporter's assignment suddenly revolves around the murder trial of a local eccentric millionaire.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119664/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/midnight_in_the_garden_of_good_and_evil"
+  },
+  {
+    "title": "Event Horizon",
+    "year": 1997,
+    "director": {
+      "name": "Paul W.S. Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0027271/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 60,
+    "gross_revenue_usd_millions": 42,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "34%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "actors": [
+      { "name": "Laurence Fishburne", "imdb_person_url": "https://www.imdb.com/name/nm0000401/" },
+      { "name": "Sam Neill", "imdb_person_url": "https://www.imdb.com/name/nm0000554/" },
+      { "name": "Kathleen Quinlan", "imdb_person_url": "https://www.imdb.com/name/nm0001645/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119081/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/event_horizon"
+  },
+  {
+    "title": "Cube",
+    "year": 1997,
+    "director": {
+      "name": "Vincenzo Natali",
+      "imdb_person_url": "https://www.imdb.com/name/nm0622112/"
+    },
+    "production_studio": "Trimark Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.35,
+    "gross_revenue_usd_millions": 9,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Drama", "Horror", "Mystery"],
+    "actors": [
+      { "name": "Nicole de Boer", "imdb_person_url": "https://www.imdb.com/name/nm0207498/" },
+      { "name": "Maurice Dean Wint", "imdb_person_url": "https://www.imdb.com/name/nm0935861/" },
+      { "name": "David Hewlett", "imdb_person_url": "https://www.imdb.com/name/nm0382110/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Six complete strangers with widely varying personality characteristics are involuntarily placed in an endless maze containing deadly traps.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0123755/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cube"
+  },
+  {
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "director": {
+      "name": "Roberto Benigni",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 20,
+    "gross_revenue_usd_millions": 230.1,
+    "ratings": {
+      "imdb": 8.6,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Roberto Benigni", "imdb_person_url": "https://www.imdb.com/name/nm0000905/" },
+      { "name": "Nicoletta Braschi", "imdb_person_url": "https://www.imdb.com/name/nm0000971/" },
+      { "name": "Giorgio Cantarini", "imdb_person_url": "https://www.imdb.com/name/nm0134478/" }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 3,
+    "oscars_won_details": ["Best Actor in a Leading Role", "Best Foreign Language Film", "Best Music, Original Dramatic Score"],
+    "description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118799/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1084398-life_is_beautiful"
+  },
+  {
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "director": {
+      "name": "Hayao Miyazaki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0594503/"
+    },
+    "production_studio": "Studio Ghibli",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 23.5,
+    "gross_revenue_usd_millions": 169.7,
+    "ratings": {
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "actors": [
+      { "name": "Yôji Matsuda", "imdb_person_url": "https://www.imdb.com/name/nm0559533/" },
+      { "name": "Yuriko Ishida", "imdb_person_url": "https://www.imdb.com/name/nm0410940/" },
+      { "name": "Yûko Tanaka", "imdb_person_url": "https://www.imdb.com/name/nm0849245/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119698/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/princess_mononoke"
+  },
+  {
+    "title": "Happy Together",
+    "year": 1997,
+    "director": {
+      "name": "Wong Kar-Wai",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939182/"
+    },
+    "production_studio": "Block 2 Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 8.2,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Leslie Cheung", "imdb_person_url": "https://www.imdb.com/name/nm0001042/" },
+      { "name": "Tony Leung Chiu-wai", "imdb_person_url": "https://www.imdb.com/name/nm0496213/" },
+      { "name": "Chen Chang", "imdb_person_url": "https://www.imdb.com/name/nm0151668/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A couple takes a trip to Argentina but breaks up along the way; later, they meet again and try to reconcile their volatile relationship.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118845/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/happy_together"
+  },
+  {
+    "title": "Funny Games",
+    "year": 1997,
+    "director": {
+      "name": "Michael Haneke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0359397/"
+    },
+    "production_studio": "Wega Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 0.4,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Crime", "Drama", "Horror"],
+    "actors": [
+      { "name": "Susanne Lothar", "imdb_person_url": "https://www.imdb.com/name/nm0521393/" },
+      { "name": "Ulrich Mühe", "imdb_person_url": "https://www.imdb.com/name/nm0617837/" },
+      { "name": "Arno Frisch", "imdb_person_url": "https://www.imdb.com/name/nm0295656/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two psychotic young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic \"games\" with one another for their own amusement.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119167/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1083637-funny_games"
+  },
+  {
+    "title": "Taste of Cherry",
+    "year": 1997,
+    "director": {
+      "name": "Abbas Kiarostami",
+      "imdb_person_url": "https://www.imdb.com/name/nm0452102/"
+    },
+    "production_studio": "Abbas Kiarostami Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 0.3,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Homayoun Ershadi", "imdb_person_url": "https://www.imdb.com/name/nm0259791/" },
+      { "name": "Abdolrahman Bagheri", "imdb_person_url": "https://www.imdb.com/name/nm0046657/" },
+      { "name": "Afshin Khorshid Bakhtiari", "imdb_person_url": "https://www.imdb.com/name/nm0047237/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A middle-aged man drives his truck in search of someone who will bury him under a cherry tree after he commits suicide.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120265/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/taste_of_cherry"
+  },
+  {
+    "title": "Alien: Resurrection",
+    "year": 1997,
+    "director": {
+      "name": "Jean-Pierre Jeunet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000466/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 70,
+    "gross_revenue_usd_millions": 161.3,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "54%",
+      "rotten_tomatoes_popcorn": "39%"
+    },
+    "genres": ["Action", "Horror", "Sci-Fi"],
+    "actors": [
+      { "name": "Sigourney Weaver", "imdb_person_url": "https://www.imdb.com/name/nm0000244/" },
+      { "name": "Winona Ryder", "imdb_person_url": "https://www.imdb.com/name/nm0000213/" },
+      { "name": "Dominique Pinon", "imdb_person_url": "https://www.imdb.com/name/nm0684478/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two hundred years after her death, Ellen Ripley is revived as a powerful human/alien hybrid clone. Along with a crew of space pirates, she must again battle the deadly aliens and stop them from reaching Earth.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118583/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/alien_resurrection"
+  },
+  {
+    "title": "The Jackal",
+    "year": 1997,
+    "director": {
+      "name": "Michael Caton-Jones",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001027/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 60,
+    "gross_revenue_usd_millions": 159.3,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "24%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": ["Action", "Crime", "Thriller"],
+    "actors": [
+      { "name": "Bruce Willis", "imdb_person_url": "https://www.imdb.com/name/nm0000246/" },
+      { "name": "Richard Gere", "imdb_person_url": "https://www.imdb.com/name/nm0000152/" },
+      { "name": "Sidney Poitier", "imdb_person_url": "https://www.imdb.com/name/nm0000590/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An imprisoned IRA fighter is freed to help stop a brutal, seemingly faceless assassin from completing his next job.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119396/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1078747-jackal"
+  },
+  {
+    "title": "Kiss the Girls",
+    "year": 1997,
+    "director": {
+      "name": "Gary Fleder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0281442/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 27,
+    "gross_revenue_usd_millions": 60.5,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "33%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Morgan Freeman", "imdb_person_url": "https://www.imdb.com/name/nm0000151/" },
+      { "name": "Ashley Judd", "imdb_person_url": "https://www.imdb.com/name/nm0000171/" },
+      { "name": "Cary Elwes", "imdb_person_url": "https://www.imdb.com/name/nm0000144/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Police forensic psychologist Alex Cross tracks a serial killer who kidnaps strong-willed women, with the help of one of the killer's escaped victims.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119468/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kiss_the_girls"
+  },
+  {
+    "title": "The Peacemaker",
+    "year": 1997,
+    "director": {
+      "name": "Mimi Leder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002160/"
+    },
+    "production_studio": "DreamWorks",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 110.4,
+    "ratings": {
+      "imdb": 6.0,
+      "rotten_tomatoes_critic": "47%",
+      "rotten_tomatoes_popcorn": "43%"
+    },
+    "genres": ["Action", "Thriller"],
+    "actors": [
+      { "name": "George Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0000123/" },
+      { "name": "Nicole Kidman", "imdb_person_url": "https://www.imdb.com/name/nm0000173/" },
+      { "name": "Marcel Iures", "imdb_person_url": "https://www.imdb.com/name/nm0411518/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A US Army colonel and a civilian nuclear expert must track down stolen Russian nuclear weapons before they're used by terrorists.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119879/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/peacemaker"
+  },
+  {
+    "title": "Amistad",
+    "year": 1997,
+    "director": {
+      "name": "Steven Spielberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
+    },
+    "production_studio": "DreamWorks",
+    "mpaa_rating": "R",
+    "runtime_minutes": 155,
+    "budget_usd_millions": 36,
+    "gross_revenue_usd_millions": 44.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "actors": [
+      { "name": "Djimon Hounsou", "imdb_person_url": "https://www.imdb.com/name/nm0005023/" },
+      { "name": "Matthew McConaughey", "imdb_person_url": "https://www.imdb.com/name/nm0000190/" },
+      { "name": "Anthony Hopkins", "imdb_person_url": "https://www.imdb.com/name/nm0000164/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1839, the revolt of Mende captives aboard a Spanish owned ship causes a major controversy in the United States when the ship is captured off the coast of Long Island. The courts must decide whether the Mende are slaves or legally free.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118607/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/amistad"
+  },
+  {
+    "title": "Seven Years in Tibet",
+    "year": 1997,
+    "director": {
+      "name": "Jean-Jacques Annaud",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000765/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 136,
+    "budget_usd_millions": 70,
+    "gross_revenue_usd_millions": 131.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Adventure", "Biography", "Drama"],
+    "actors": [
+      { "name": "Brad Pitt", "imdb_person_url": "https://www.imdb.com/name/nm0000093/" },
+      { "name": "David Thewlis", "imdb_person_url": "https://www.imdb.com/name/nm0000667/" },
+      { "name": "BD Wong", "imdb_person_url": "https://www.imdb.com/name/nm0000699/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "True story of Heinrich Harrer, an Austrian mountain climber who became friends with the Dalai Lama at the time of China's takeover of Tibet.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120102/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_years_in_tibet"
+  },
+  {
+    "title": "Kundun",
+    "year": 1997,
+    "director": {
+      "name": "Martin Scorsese",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 28,
+    "gross_revenue_usd_millions": 5.7,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "actors": [
+      { "name": "Tenzin Thuthob Tsarong", "imdb_person_url": "https://www.imdb.com/name/nm0002535/" },
+      { "name": "Gyurme Tethong", "imdb_person_url": "https://www.imdb.com/name/nm0856631/" },
+      { "name": "Tulku Jamyang Kunga Tenzin", "imdb_person_url": "https://www.imdb.com/name/nm0856632/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "From childhood to adulthood, Tibet's fourteenth Dalai Lama deals with Chinese oppression and other problems.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119485/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kundun"
   }
 ]

@@ -6,10 +6,10 @@
       "name": "Martin Scorsese",
       "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
     },
-    "production_studio": "Warner Bros., Plan B Entertainment, Media Asia Films",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 151,
-    "budget_usd_millions": 90,
+    "budget_usd_millions": 90.0,
     "gross_revenue_usd_millions": 291.5,
     "ratings": {
       "imdb": 8.5,
@@ -49,105 +49,17 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/departed"
   },
   {
-    "title": "The Prestige",
-    "year": 2006,
-    "director": {
-      "name": "Christopher Nolan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0634240/"
-    },
-    "production_studio": "Warner Bros., Touchstone Pictures, Newmarket Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 109.7,
-    "ratings": {
-      "imdb": 8.5,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Hugh Jackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003964/"
-      },
-      {
-        "name": "Christian Bale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
-      },
-      {
-        "name": "Michael Caine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0482571/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_prestige"
-  },
-  {
-    "title": "Casino Royale",
-    "year": 2006,
-    "director": {
-      "name": "Martin Campbell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001004/"
-    },
-    "production_studio": "Eon Productions, Columbia Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 144,
-    "budget_usd_millions": 150,
-    "gross_revenue_usd_millions": 616.5,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Daniel Craig",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001074/"
-      },
-      {
-        "name": "Eva Green",
-        "imdb_person_url": "https://www.imdb.com/name/nm1200692/"
-      },
-      {
-        "name": "Judi Dench",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001132/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After earning 00 status and a licence to kill, secret agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, Montenegro.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0381061/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/casino_royale"
-  },
-  {
     "title": "Pan's Labyrinth",
     "year": 2006,
     "director": {
       "name": "Guillermo del Toro",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001125/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0868219/"
     },
-    "production_studio": "Warner Bros., Tequila Gang",
+    "production_studio": "Estudios Picasso",
     "mpaa_rating": "R",
     "runtime_minutes": 118,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 83.9,
+    "budget_usd_millions": 19.0,
+    "gross_revenue_usd_millions": 83.3,
     "ratings": {
       "imdb": 8.2,
       "rotten_tomatoes_critic": "95%",
@@ -165,11 +77,11 @@
       },
       {
         "name": "Ariadna Gil",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004958/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0317720/"
       },
       {
         "name": "Sergi López",
-        "imdb_person_url": "https://www.imdb.com/name/nm0529947/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0530365/"
       }
     ],
     "oscars_nominated": 6,
@@ -179,56 +91,54 @@
       "Best Art Direction",
       "Best Makeup"
     ],
-    "description": "In the falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+    "description": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0457430/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pans_labyrinth"
   },
   {
-    "title": "Little Miss Sunshine",
+    "title": "The Prestige",
     "year": 2006,
     "director": {
-      "name": "Jonathan Dayton, Valerie Faris",
-      "imdb_person_url": "https://www.imdb.com/name/nm0206770/"
+      "name": "Christopher Nolan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0634240/"
     },
-    "production_studio": "Fox Searchlight Pictures, Big Beach",
-    "mpaa_rating": "R",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 101,
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 130,
+    "budget_usd_millions": 40.0,
+    "gross_revenue_usd_millions": 109.7,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "90%"
+      "imdb": 8.5,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
-      "Comedy",
-      "Drama"
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "Abigail Breslin",
-        "imdb_person_url": "https://www.imdb.com/name/nm1113550/"
+        "name": "Christian Bale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
       },
       {
-        "name": "Toni Collette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001057/"
+        "name": "Hugh Jackman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0413168/"
       },
       {
-        "name": "Greg Kinnear",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001427/"
+        "name": "Scarlett Johansson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0424060/"
       }
     ],
-    "oscars_nominated": 4,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role",
-      "Best Original Screenplay"
-    ],
-    "description": "A family determined to get their young daughter into the finals of a beauty pageant takes a cross-country trip in their VW bus.",
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0449059/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/little_miss_sunshine"
+    "imdb_url": "https://www.imdb.com/title/tt0482571/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/prestige"
   },
   {
     "title": "Children of Men",
@@ -237,29 +147,29 @@
       "name": "Alfonso Cuarón",
       "imdb_person_url": "https://www.imdb.com/name/nm0190859/"
     },
-    "production_studio": "Universal Pictures, Strike Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 109,
-    "budget_usd_millions": 76,
-    "gross_revenue_usd_millions": 70,
+    "budget_usd_millions": 76.0,
+    "gross_revenue_usd_millions": 70.0,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "92%",
       "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
-      "Adventure",
+      "Action",
       "Drama",
       "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "Julianne Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
+        "name": "Clive Owen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0654110/"
       },
       {
-        "name": "Clive Owen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001584/"
+        "name": "Julianne Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
       },
       {
         "name": "Chiwetel Ejiofor",
@@ -275,21 +185,21 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/children_of_men"
   },
   {
-    "title": "The Devil Wears Prada",
+    "title": "Little Miss Sunshine",
     "year": 2006,
     "director": {
-      "name": "David Frankel",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002082/"
+      "name": "Jonathan Dayton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0206772/"
     },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 109,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 326.7,
+    "production_studio": "Fox Searchlight Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 100.5,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Comedy",
@@ -297,42 +207,135 @@
     ],
     "actors": [
       {
-        "name": "Meryl Streep",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
+        "name": "Steve Carell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0136797/"
       },
       {
-        "name": "Anne Hathaway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004266/"
+        "name": "Toni Collette",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001057/"
       },
       {
-        "name": "Emily Blunt",
-        "imdb_person_url": "https://www.imdb.com/name/nm1289434/"
+        "name": "Greg Kinnear",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001427/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Supporting Actor (Alan Arkin)",
+      "Best Original Screenplay"
+    ],
+    "description": "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0449059/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/little_miss_sunshine"
+  },
+  {
+    "title": "The Lives of Others",
+    "year": 2006,
+    "director": {
+      "name": "Florian Henckel von Donnersmarck",
+      "imdb_person_url": "https://www.imdb.com/name/nm1026212/"
+    },
+    "production_studio": "Wiedemann & Berg Filmproduktion",
+    "mpaa_rating": "R",
+    "runtime_minutes": 137,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 77.4,
+    "ratings": {
+      "imdb": 8.4,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Ulrich Mühe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0617837/"
+      },
+      {
+        "name": "Martina Gedeck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0311428/"
+      },
+      {
+        "name": "Sebastian Koch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0462407/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0405094/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lives_of_others"
+  },
+  {
+    "title": "Casino Royale",
+    "year": 2006,
+    "director": {
+      "name": "Martin Campbell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0132709/"
+    },
+    "production_studio": "Eon Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 144,
+    "budget_usd_millions": 150.0,
+    "gross_revenue_usd_millions": 616.5,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Daniel Craig",
+        "imdb_person_url": "https://www.imdb.com/name/nm0185819/"
+      },
+      {
+        "name": "Eva Green",
+        "imdb_person_url": "https://www.imdb.com/name/nm1164468/"
+      },
+      {
+        "name": "Judi Dench",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001132/"
+      }
+    ],
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.",
+    "description": "After earning 00 status and a licence to kill, Secret Agent James Bond sets out on his first mission as 007.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0458352/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_devil_wears_prada"
+    "imdb_url": "https://www.imdb.com/title/tt0381061/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/casino_royale"
   },
   {
     "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
     "year": 2006,
     "director": {
       "name": "Larry Charles",
-      "imdb_person_url": "https://www.imdb.com/name/nm0153069/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0153077/"
     },
-    "production_studio": "20th Century Fox, Four by Two Films",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
     "runtime_minutes": 84,
-    "budget_usd_millions": 18,
+    "budget_usd_millions": 18.0,
     "gross_revenue_usd_millions": 262.6,
     "ratings": {
-      "imdb": 7.4,
+      "imdb": 7.3,
       "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
       "Comedy"
@@ -340,41 +343,86 @@
     "actors": [
       {
         "name": "Sacha Baron Cohen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000339/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0056187/"
       },
       {
         "name": "Ken Davitian",
-        "imdb_person_url": "https://www.imdb.com/name/nm0205771/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0205772/"
       },
       {
         "name": "Luenell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0524823/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0131256/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Kazakhstani TV talking head Borat is sent to the United States to report on the greatest country in the world.",
+    "description": "Kazakh TV talking head Borat is dispatched to the United States to report on the greatest country in the world. With a documentary crew in tow, Borat becomes more interested in locating and marrying Pamela Anderson.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0443453/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/borat"
   },
   {
-    "title": "Apocalypto",
+    "title": "The Queen",
     "year": 2006,
     "director": {
-      "name": "Mel Gibson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
+      "name": "Stephen Frears",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001241/"
     },
-    "production_studio": "Touchstone Pictures, Icon Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 120.7,
+    "production_studio": "Pathé Renn Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 123.4,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "66%",
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Helen Mirren",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000545/"
+      },
+      {
+        "name": "Michael Sheen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0790688/"
+      },
+      {
+        "name": "James Cromwell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000342/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress (Helen Mirren)"
+    ],
+    "description": "After the death of Princess Diana, Queen Elizabeth II struggles with her reaction to a sequence of events nobody could have predicted.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0436697/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_queen"
+  },
+  {
+    "title": "Letters from Iwo Jima",
+    "year": 2006,
+    "director": {
+      "name": "Clint Eastwood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 141,
+    "budget_usd_millions": 19.0,
+    "gross_revenue_usd_millions": 68.7,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Action",
@@ -383,88 +431,132 @@
     ],
     "actors": [
       {
-        "name": "Rudy Youngblood",
-        "imdb_person_url": "https://www.imdb.com/name/nm1854378/"
+        "name": "Ken Watanabe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0913822/"
       },
       {
-        "name": "Dalia Hernández",
-        "imdb_person_url": "https://www.imdb.com/name/nm2091176/"
+        "name": "Kazunari Ninomiya",
+        "imdb_person_url": "https://www.imdb.com/name/nm1377929/"
       },
       {
-        "name": "Jonathan Brewer",
-        "imdb_person_url": "https://www.imdb.com/name/nm1954359/"
+        "name": "Tsuyoshi Ihara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0407145/"
       }
     ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "As the Mayan kingdom faces its decline, a young man is taken on a perilous journey to a world ruled by fear and oppression.",
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Sound Editing"
+    ],
+    "description": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0472043/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/apocalypto"
+    "imdb_url": "https://www.imdb.com/title/tt0498380/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/letters_from_iwo_jima"
   },
   {
-    "title": "Happy Feet",
+    "title": "United 93",
     "year": 2006,
     "director": {
-      "name": "George Miller, Warren Coleman, Judy Morris",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004306/"
+      "name": "Paul Greengrass",
+      "imdb_person_url": "https://www.imdb.com/name/nm0339030/"
     },
-    "production_studio": "Warner Bros., Village Roadshow Pictures, Kennedy Miller Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 100,
-    "gross_revenue_usd_millions": 384.3,
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 76.3,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "82%"
     },
     "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
+      "Drama",
+      "History",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Elijah Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000704/"
+        "name": "David Alan Basche",
+        "imdb_person_url": "https://www.imdb.com/name/nm0059682/"
       },
       {
-        "name": "Brittany Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005261/"
+        "name": "Olivia Thirlby",
+        "imdb_person_url": "https://www.imdb.com/name/nm1880888/"
       },
       {
-        "name": "Hugh Jackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003964/"
+        "name": "Liza Colón-Zayas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0173186/"
       }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Animated Feature Film of the Year"
-    ],
-    "description": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing, but can tap dance something fierce.",
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A real-time account of the events on United Flight 93, one of the planes hijacked on September 11, 2001 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0366548/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/happy_feet"
+    "imdb_url": "https://www.imdb.com/title/tt0477302/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/united_93"
+  },
+  {
+    "title": "V for Vendetta",
+    "year": 2006,
+    "director": {
+      "name": "James McTeigue",
+      "imdb_person_url": "https://www.imdb.com/name/nm0574620/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 132,
+    "budget_usd_millions": 54.0,
+    "gross_revenue_usd_millions": 132.5,
+    "ratings": {
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Hugo Weaving",
+        "imdb_person_url": "https://www.imdb.com/name/nm0915989/"
+      },
+      {
+        "name": "Natalie Portman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
+      },
+      {
+        "name": "Rupert Graves",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001292/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of 'V', plots to overthrow it with the help of a young woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0434409/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/v_for_vendetta"
   },
   {
     "title": "The Last King of Scotland",
     "year": 2006,
     "director": {
       "name": "Kevin Macdonald",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001494/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0531817/"
     },
-    "production_studio": "Fox Searchlight Pictures, Film4 Productions",
+    "production_studio": "Fox Searchlight Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 123,
-    "budget_usd_millions": 6,
+    "budget_usd_millions": 6.0,
     "gross_revenue_usd_millions": 48.4,
     "ratings": {
-      "imdb": 7.6,
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Biography",
@@ -482,13 +574,13 @@
       },
       {
         "name": "Kerry Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004897/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0913488/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Performance by an Actor in a Leading Role"
+      "Best Actor (Forest Whitaker)"
     ],
     "description": "Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen by his personal physician during the 1970s.",
     "afi_ranking": null,
@@ -496,111 +588,156 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_king_of_scotland"
   },
   {
-    "title": "Letters from Iwo Jima",
+    "title": "Cars",
     "year": 2006,
     "director": {
-      "name": "Clint Eastwood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+      "name": "John Lasseter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005124/"
     },
-    "production_studio": "Warner Bros., DreamWorks, Malpaso Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 141,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 68.7,
+    "production_studio": "Pixar Animation Studios",
+    "mpaa_rating": "G",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 120.0,
+    "gross_revenue_usd_millions": 462.2,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
-      "Drama",
-      "History",
-      "War"
+      "Animation",
+      "Adventure",
+      "Comedy"
     ],
     "actors": [
       {
-        "name": "Ken Watanabe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0913822/"
+        "name": "Owen Wilson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005562/"
       },
       {
-        "name": "Kazunari Ninomiya",
-        "imdb_person_url": "https://www.imdb.com/name/nm0632528/"
+        "name": "Bonnie Hunt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
       },
       {
-        "name": "Tsuyoshi Ihara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0407421/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Achievement in Sound Editing"
-    ],
-    "description": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0498380/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/letters_from_iwo_jima"
-  },
-  {
-    "title": "Flags of Our Fathers",
-    "year": 2006,
-    "director": {
-      "name": "Clint Eastwood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
-    },
-    "production_studio": "Warner Bros., DreamWorks, Amblin Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 135,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 65.9,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Ryan Phillippe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000202/"
-      },
-      {
-        "name": "Jesse Bradford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000969/"
-      },
-      {
-        "name": "Adam Beach",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000882/"
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The life stories of the six men who raised the flag at the Battle of Iwo Jima, a turning point in WWII.",
+    "description": "A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0418689/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/flags_of_our_fathers"
+    "imdb_url": "https://www.imdb.com/title/tt0317219/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cars"
   },
   {
-    "title": "The Queen",
+    "title": "Dreamgirls",
     "year": 2006,
     "director": {
-      "name": "Stephen Frears",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001241/"
+      "name": "Bill Condon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0174317/"
     },
-    "production_studio": "Miramax, Pathé Renn Productions",
+    "production_studio": "DreamWorks",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 123.4,
+    "runtime_minutes": 130,
+    "budget_usd_millions": 80.0,
+    "gross_revenue_usd_millions": 154.8,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Beyoncé Knowles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0461498/"
+      },
+      {
+        "name": "Jamie Foxx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004937/"
+      },
+      {
+        "name": "Jennifer Hudson",
+        "imdb_person_url": "https://www.imdb.com/name/nm1630138/"
+      }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Supporting Actress (Jennifer Hudson)",
+      "Best Sound Mixing"
+    ],
+    "description": "A trio of black female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0443489/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dreamgirls"
+  },
+  {
+    "title": "Apocalypto",
+    "year": 2006,
+    "director": {
+      "name": "Mel Gibson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
+    },
+    "production_studio": "Icon Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 139,
+    "budget_usd_millions": 40.0,
+    "gross_revenue_usd_millions": 120.7,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Rudy Youngblood",
+        "imdb_person_url": "https://www.imdb.com/name/nm2199632/"
+      },
+      {
+        "name": "Dalia Hernández",
+        "imdb_person_url": "https://www.imdb.com/name/nm2315809/"
+      },
+      {
+        "name": "Jonathan Brewer",
+        "imdb_person_url": "https://www.imdb.com/name/nm1083144/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "As the Mayan kingdom faces its decline, a young man is taken on a perilous journey to a world ruled by fear and oppression.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0472043/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/apocalypto"
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "year": 2006,
+    "director": {
+      "name": "Gabriele Muccino",
+      "imdb_person_url": "https://www.imdb.com/name/nm0610811/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 55.0,
+    "gross_revenue_usd_millions": 307.1,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Biography",
@@ -608,27 +745,68 @@
     ],
     "actors": [
       {
-        "name": "Helen Mirren",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000545/"
+        "name": "Will Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
       },
       {
-        "name": "Michael Sheen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
+        "name": "Jaden Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm1354761/"
       },
       {
-        "name": "James Cromwell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000342/"
+        "name": "Thandiwe Newton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0628601/"
       }
     ],
-    "oscars_nominated": 6,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actress in a Leading Role"
-    ],
-    "description": "After the death of Princess Diana, Queen Elizabeth II struggles with her reaction to a sequence of events nobody could have predicted.",
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0436697/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_queen"
+    "imdb_url": "https://www.imdb.com/title/tt0454921/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pursuit_of_happyness"
+  },
+  {
+    "title": "Volver",
+    "year": 2006,
+    "director": {
+      "name": "Pedro Almodóvar",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
+    },
+    "production_studio": "El Deseo",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 11.4,
+    "gross_revenue_usd_millions": 87.2,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Penélope Cruz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004851/"
+      },
+      {
+        "name": "Carmen Maura",
+        "imdb_person_url": "https://www.imdb.com/name/nm0560945/"
+      },
+      {
+        "name": "Lola Dueñas",
+        "imdb_person_url": "https://www.imdb.com/name/nm1135785/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After her death, a mother returns to her home town in order to fix the situations she couldn't resolve during her life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0441909/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/volver"
   },
   {
     "title": "Babel",
@@ -637,15 +815,15 @@
       "name": "Alejandro G. Iñárritu",
       "imdb_person_url": "https://www.imdb.com/name/nm0327944/"
     },
-    "production_studio": "Paramount Vantage, Anonymous Content",
+    "production_studio": "Paramount Vantage",
     "mpaa_rating": "R",
     "runtime_minutes": 143,
-    "budget_usd_millions": 25,
+    "budget_usd_millions": 25.0,
     "gross_revenue_usd_millions": 135.3,
     "ratings": {
-      "imdb": 7.5,
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
       "Drama"
@@ -661,13 +839,13 @@
       },
       {
         "name": "Gael García Bernal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001253/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0305558/"
       }
     ],
     "oscars_nominated": 7,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Achievement in Music Written for Motion Pictures, Original Score"
+      "Best Original Score"
     ],
     "description": "Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families.",
     "afi_ranking": null,
@@ -675,114 +853,24 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/babel"
   },
   {
-    "title": "Dreamgirls",
-    "year": 2006,
-    "director": {
-      "name": "Bill Condon",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001063/"
-    },
-    "production_studio": "DreamWorks, Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 155.4,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Beyoncé",
-        "imdb_person_url": "https://www.imdb.com/name/nm0461498/"
-      },
-      {
-        "name": "Jamie Foxx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004937/"
-      },
-      {
-        "name": "Eddie Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000552/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Performance by an Actress in a Supporting Role",
-      "Best Achievement in Sound Mixing"
-    ],
-    "description": "A trio of black female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0443489/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dreamgirls"
-  },
-  {
-    "title": "Inside Man",
-    "year": 2006,
-    "director": {
-      "name": "Spike Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
-    },
-    "production_studio": "Universal Pictures, Imagine Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 45,
-    "gross_revenue_usd_millions": 184.4,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Denzel Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
-      },
-      {
-        "name": "Clive Owen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001584/"
-      },
-      {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A police detective, a bank robber, and a high-power broker enter into high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0454848/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/inside_man"
-  },
-  {
     "title": "Notes on a Scandal",
     "year": 2006,
     "director": {
       "name": "Richard Eyre",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001198/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0264260/"
     },
-    "production_studio": "Fox Searchlight Pictures, BBC Films",
+    "production_studio": "Fox Searchlight Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 92,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 49.8,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
+      "Crime",
       "Drama",
       "Thriller"
     ],
@@ -797,103 +885,106 @@
       },
       {
         "name": "Bill Nighy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005266/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0631490/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her students. However, the friendship takes a dark turn when the older teacher becomes obsessed with the younger one.",
+    "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with a fifteen-year-old student.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0465551/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/notes_on_a_scandal"
   },
   {
-    "title": "The Pursuit of Happyness",
+    "title": "Inside Man",
     "year": 2006,
     "director": {
-      "name": "Gabriele Muccino",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002167/"
+      "name": "Spike Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
     },
-    "production_studio": "Columbia Pictures, Relativity Media",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 307.1,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Jaden Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm1535523/"
-      },
-      {
-        "name": "Thandiwe Newton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0628601/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0454921/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pursuit_of_happyness"
-  },
-  {
-    "title": "Idiocracy",
-    "year": 2006,
-    "director": {
-      "name": "Mike Judge",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
-    },
-    "production_studio": "20th Century Fox, Ternion Pictures",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 84,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 0.495,
+    "runtime_minutes": 129,
+    "budget_usd_millions": 45.0,
+    "gross_revenue_usd_millions": 184.4,
     "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
+      "Crime",
+      "Drama",
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "Luke Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005561/"
+        "name": "Denzel Washington",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
       },
       {
-        "name": "Maya Rudolph",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005391/"
+        "name": "Clive Owen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0654110/"
       },
       {
-        "name": "Dax Shepard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
+        "name": "Jodie Foster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Private Joe Bauers, the definition of 'average American', is selected by the Pentagon to be the guinea pig for a top-secret hibernation program. Forgotten, he awakes 500 years in the future. He discovers a society so incredibly dumbed down that he's easily the most intelligent person alive.",
+    "description": "A police detective, a bank robber, and a high-power broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0387808/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/idiocracy"
+    "imdb_url": "https://www.imdb.com/title/tt0454848/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/inside_man"
+  },
+  {
+    "title": "Happy Feet",
+    "year": 2006,
+    "director": {
+      "name": "George Miller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004306/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 100.0,
+    "gross_revenue_usd_millions": 384.3,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Elijah Wood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000704/"
+      },
+      {
+        "name": "Brittany Murphy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005261/"
+      },
+      {
+        "name": "Hugh Jackman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0413168/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Animated Feature"
+    ],
+    "description": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0366548/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/happy_feet"
   },
   {
     "title": "Blood Diamond",
@@ -902,15 +993,15 @@
       "name": "Edward Zwick",
       "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
     },
-    "production_studio": "Warner Bros., Bedford Falls Productions",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 143,
-    "budget_usd_millions": 100,
+    "budget_usd_millions": 100.0,
     "gross_revenue_usd_millions": 171.7,
     "ratings": {
       "imdb": 8.0,
       "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
       "Adventure",
@@ -940,21 +1031,64 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blood_diamond"
   },
   {
+    "title": "This Is England",
+    "year": 2006,
+    "director": {
+      "name": "Shane Meadows",
+      "imdb_person_url": "https://www.imdb.com/name/nm0575207/"
+    },
+    "production_studio": "Warp Films",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 5.0,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Thomas Turgoose",
+        "imdb_person_url": "https://www.imdb.com/name/nm2105130/"
+      },
+      {
+        "name": "Stephen Graham",
+        "imdb_person_url": "https://www.imdb.com/name/nm0334318/"
+      },
+      {
+        "name": "Jo Hartley",
+        "imdb_person_url": "https://www.imdb.com/name/nm1483320/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young boy grows up in England in 1983 and comes to join the skinhead subculture.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0480025/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/this_is_england"
+  },
+  {
     "title": "Little Children",
     "year": 2006,
     "director": {
       "name": "Todd Field",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001211/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0276062/"
     },
     "production_studio": "New Line Cinema",
     "mpaa_rating": "R",
     "runtime_minutes": 136,
-    "budget_usd_millions": 26,
+    "budget_usd_millions": 26.0,
     "gross_revenue_usd_millions": 14.8,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Drama",
@@ -977,337 +1111,71 @@
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations.",
+    "description": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations in suburbia.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0404203/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/little_children"
   },
   {
-    "title": "The Lives of Others",
+    "title": "The Fall",
     "year": 2006,
     "director": {
-      "name": "Florian Henckel von Donnersmarck",
-      "imdb_person_url": "https://www.imdb.com/name/nm0377224/"
+      "name": "Tarsem Singh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0802302/"
     },
-    "production_studio": "Bayerischer Rundfunk (BR), Wiedemann & Berg Filmproduktion",
+    "production_studio": "RadicalMedia",
     "mpaa_rating": "R",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 77.3,
+    "runtime_minutes": 117,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 3.7,
     "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "96%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Ulrich Mühe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0617937/"
-      },
-      {
-        "name": "Martina Gedeck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0311496/"
-      },
-      {
-        "name": "Sebastian Koch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0462410/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film of the Year"
-    ],
-    "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0405094/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lives_of_others"
-  },
-  {
-    "title": "Volver",
-    "year": 2006,
-    "director": {
-      "name": "Pedro Almodóvar",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
-    },
-    "production_studio": "El Deseo, Canal+ España",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 9.7,
-    "gross_revenue_usd_millions": 85.6,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Penélope Cruz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004851/"
-      },
-      {
-        "name": "Carmen Maura",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001515/"
-      },
-      {
-        "name": "Lola Dueñas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0240405/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After her death, a mother returns to her home town in order to fix the situations she couldn't resolve during her life.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0441909/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/volver"
-  },
-  {
-    "title": "The Fountain",
-    "year": 2006,
-    "director": {
-      "name": "Darren Aronofsky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004716/"
-    },
-    "production_studio": "Warner Bros., Regency Enterprises",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 16.5,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "52%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Hugh Jackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003964/"
-      },
-      {
-        "name": "Rachel Weisz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001838/"
-      },
-      {
-        "name": "Sean Patrick Thomas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005480/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0414993/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_fountain"
-  },
-  {
-    "title": "Dreamgirls",
-    "year": 2006,
-    "director": {
-      "name": "Bill Condon",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001063/"
-    },
-    "production_studio": "DreamWorks, Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 155.4,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Beyoncé",
-        "imdb_person_url": "https://www.imdb.com/name/nm0461498/"
-      },
-      {
-        "name": "Jamie Foxx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004937/"
-      },
-      {
-        "name": "Eddie Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000552/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Performance by an Actress in a Supporting Role",
-      "Best Achievement in Sound Mixing"
-    ],
-    "description": "A trio of black female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0443489/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dreamgirls"
-  },
-  {
-    "title": "Inside Man",
-    "year": 2006,
-    "director": {
-      "name": "Spike Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
-    },
-    "production_studio": "Universal Pictures, Imagine Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 45,
-    "gross_revenue_usd_millions": 184.4,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "61%",
       "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
+      "Adventure",
+      "Comedy",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Denzel Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
+        "name": "Lee Pace",
+        "imdb_person_url": "https://www.imdb.com/name/nm1195855/"
       },
       {
-        "name": "Clive Owen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001584/"
+        "name": "Catinca Untaru",
+        "imdb_person_url": "https://www.imdb.com/name/nm2322224/"
       },
       {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
+        "name": "Justine Waddell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0905543/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A police detective, a bank robber, and a high-power broker enter into high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
+    "description": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality blurs as the tale advances.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0454848/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/inside_man"
-  },
-  {
-    "title": "Notes on a Scandal",
-    "year": 2006,
-    "director": {
-      "name": "Richard Eyre",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001198/"
-    },
-    "production_studio": "Fox Searchlight Pictures, BBC Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 49.8,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Judi Dench",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001132/"
-      },
-      {
-        "name": "Cate Blanchett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000949/"
-      },
-      {
-        "name": "Bill Nighy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005266/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her students. However, the friendship takes a dark turn when the older teacher becomes obsessed with the younger one.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0465551/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/notes_on_a_scandal"
-  },
-  {
-    "title": "The Pursuit of Happyness",
-    "year": 2006,
-    "director": {
-      "name": "Gabriele Muccino",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002167/"
-    },
-    "production_studio": "Columbia Pictures, Relativity Media",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 307.1,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Jaden Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm1535523/"
-      },
-      {
-        "name": "Thandiwe Newton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0628601/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0454921/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pursuit_of_happyness"
+    "imdb_url": "https://www.imdb.com/title/tt0460791/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_fall_2008"
   },
   {
     "title": "Idiocracy",
     "year": 2006,
     "director": {
       "name": "Mike Judge",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0431911/"
     },
-    "production_studio": "20th Century Fox, Ternion Pictures",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
     "runtime_minutes": 84,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 0.495,
+    "budget_usd_millions": 2.4,
+    "gross_revenue_usd_millions": 0.49,
     "ratings": {
       "imdb": 6.5,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "60%"
     },
     "genres": [
       "Adventure",
@@ -1321,945 +1189,937 @@
       },
       {
         "name": "Maya Rudolph",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005391/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0748973/"
       },
       {
         "name": "Dax Shepard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
+        "imdb_person_url": "https://www.imdb.com/name/nm1009272/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Private Joe Bauers, the definition of 'average American', is selected by the Pentagon to be the guinea pig for a top-secret hibernation program. Forgotten, he awakes 500 years in the future. He discovers a society so incredibly dumbed down that he's easily the most intelligent person alive.",
+    "description": "Private Joe Bauers, a decisively average American, is selected as a guinea pig for a top-secret hibernation program but is forgotten, awakening to a future so incredibly moronic he's easily the most intelligent person alive.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0387808/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/idiocracy"
   },
   {
-    "title": "Blood Diamond",
+    "title": "Monster House",
     "year": 2006,
     "director": {
-      "name": "Edward Zwick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
+      "name": "Gil Kenan",
+      "imdb_person_url": "https://www.imdb.com/name/nm1564533/"
     },
-    "production_studio": "Warner Bros., Bedford Falls Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 143,
-    "budget_usd_millions": 100,
-    "gross_revenue_usd_millions": 171.7,
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 75.0,
+    "gross_revenue_usd_millions": 140.2,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "88%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "63%"
     },
     "genres": [
+      "Animation",
       "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Mitchel Musso",
+        "imdb_person_url": "https://www.imdb.com/name/nm1232790/"
+      },
+      {
+        "name": "Sam Lerner",
+        "imdb_person_url": "https://www.imdb.com/name/nm1245575/"
+      },
+      {
+        "name": "Spencer Locke",
+        "imdb_person_url": "https://www.imdb.com/name/nm1275898/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three teens discover that their neighbor's house is really a living, breathing, scary monster.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0385880/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/monster_house"
+  },
+  {
+    "title": "Paprika",
+    "year": 2006,
+    "director": {
+      "name": "Satoshi Kon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0464804/"
+    },
+    "production_studio": "Madhouse",
+    "mpaa_rating": "R",
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.9,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Animation",
       "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Megumi Hayashibara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0370617/"
+      },
+      {
+        "name": "Tôru Emori",
+        "imdb_person_url": "https://www.imdb.com/name/nm0256654/"
+      },
+      {
+        "name": "Katsunosuke Hori",
+        "imdb_person_url": "https://www.imdb.com/name/nm0394616/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose. Only a young female therapist, Paprika, can stop it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0851578/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/paprika"
+  },
+  {
+    "title": "The Host",
+    "year": 2006,
+    "director": {
+      "name": "Bong Joon Ho",
+      "imdb_person_url": "https://www.imdb.com/name/nm0094214/"
+    },
+    "production_studio": "Chungeorahm Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 89.4,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Song Kang-ho",
+        "imdb_person_url": "https://www.imdb.com/name/nm0814280/"
+      },
+      {
+        "name": "Byun Hee-Bong",
+        "imdb_person_url": "https://www.imdb.com/name/nm0126679/"
+      },
+      {
+        "name": "Park Hae-il",
+        "imdb_person_url": "https://www.imdb.com/name/nm1195150/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A monster emerges from Seoul's Han River and focuses its attention on attacking people. One victim's loving family does what it can to rescue her from its clutches.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0468492/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_host"
+  },
+  {
+    "title": "Talladega Nights: The Ballad of Ricky Bobby",
+    "year": 2006,
+    "director": {
+      "name": "Adam McKay",
+      "imdb_person_url": "https://www.imdb.com/name/nm0570912/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 72.5,
+    "gross_revenue_usd_millions": 163.0,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Will Ferrell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002071/"
+      },
+      {
+        "name": "John C. Reilly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000604/"
+      },
+      {
+        "name": "Sacha Baron Cohen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0056187/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0445934/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/talladega_nights_the_ballad_of_ricky_bobby"
+  },
+  {
+    "title": "X-Men: The Last Stand",
+    "year": 2006,
+    "director": {
+      "name": "Brett Ratner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0711814/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 210.0,
+    "gross_revenue_usd_millions": 459.4,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Patrick Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001772/"
+      },
+      {
+        "name": "Hugh Jackman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0413168/"
+      },
+      {
+        "name": "Halle Berry",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000113/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The human government develops a cure for mutations, and Jean Gray becomes a darker uncontrollable persona called the Phoenix who allies with Magneto, causing escalation into an all-out battle for the X-Men.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0376994/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/x_men_3_the_last_stand"
+  },
+  {
+    "title": "Mission: Impossible III",
+    "year": 2006,
+    "director": {
+      "name": "J.J. Abrams",
+      "imdb_person_url": "https://www.imdb.com/name/nm0009190/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 150.0,
+    "gross_revenue_usd_millions": 397.9,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
       "Thriller"
     ],
     "actors": [
       {
-        "name": "Leonardo DiCaprio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000138/"
+        "name": "Tom Cruise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
       },
       {
-        "name": "Djimon Hounsou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005023/"
+        "name": "Michelle Monaghan",
+        "imdb_person_url": "https://www.imdb.com/name/nm1157358/"
       },
       {
-        "name": "Jennifer Connelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000124/"
+        "name": "Ving Rhames",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000609/"
       }
     ],
-    "oscars_nominated": 5,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.",
+    "description": "IMF agent Ethan Hunt comes into conflict with a dangerous and sadistic arms dealer who threatens his life and his fiancée in response.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0450259/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blood_diamond"
+    "imdb_url": "https://www.imdb.com/title/tt0317919/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mission_impossible_3"
   },
   {
-    "title": "Little Children",
+    "title": "Inland Empire",
     "year": 2006,
     "director": {
-      "name": "Todd Field",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001211/"
+      "name": "David Lynch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
     },
-    "production_studio": "New Line Cinema",
+    "production_studio": "StudioCanal",
     "mpaa_rating": "R",
-    "runtime_minutes": 136,
-    "budget_usd_millions": 26,
-    "gross_revenue_usd_millions": 14.8,
+    "runtime_minutes": 180,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 4.0,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "62%"
     },
     "genres": [
       "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Laura Dern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000368/"
+      },
+      {
+        "name": "Jeremy Irons",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000460/"
+      },
+      {
+        "name": "Justin Theroux",
+        "imdb_person_url": "https://www.imdb.com/name/nm0857620/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "As an actress starts to adopt the persona of her character in a film, her world becomes nightmarish and surreal.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0460829/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/inland_empire"
+  },
+  {
+    "title": "Night at the Museum",
+    "year": 2006,
+    "director": {
+      "name": "Shawn Levy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0506613/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 110.0,
+    "gross_revenue_usd_millions": 574.5,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "43%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Ben Stiller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001774/"
+      },
+      {
+        "name": "Carla Gugino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001303/"
+      },
+      {
+        "name": "Ricky Gervais",
+        "imdb_person_url": "https://www.imdb.com/name/nm0315041/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A newly recruited night security guard at the Museum of Natural History discovers that an ancient curse causes the animals and exhibits on display to come to life and wreak havoc.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0477347/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/night_at_the_museum"
+  },
+  {
+    "title": "Crank",
+    "year": 2006,
+    "director": {
+      "name": "Mark Neveldine",
+      "imdb_person_url": "https://www.imdb.com/name/nm0627250/"
+    },
+    "production_studio": "Lakeshore Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 42.9,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "61%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Jason Statham",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005458/"
+      },
+      {
+        "name": "Amy Smart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005442/"
+      },
+      {
+        "name": "Jose Pablo Cantillo",
+        "imdb_person_url": "https://www.imdb.com/name/nm1354694/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0479884/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crank"
+  },
+  {
+    "title": "Lucky Number Slevin",
+    "year": 2006,
+    "director": {
+      "name": "Paul McGuigan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0570482/"
+    },
+    "production_studio": "The Weinstein Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 27.0,
+    "gross_revenue_usd_millions": 56.3,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "52%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Josh Hartnett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001326/"
+      },
+      {
+        "name": "Ben Kingsley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001426/"
+      },
+      {
+        "name": "Morgan Freeman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's most rival crime bosses: The Rabbi and The Boss.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0425210/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lucky_number_slevin"
+  },
+  {
+    "title": "Half Nelson",
+    "year": 2006,
+    "director": {
+      "name": "Ryan Fleck",
+      "imdb_person_url": "https://www.imdb.com/name/nm1357090/"
+    },
+    "production_studio": "ThinkFilm",
+    "mpaa_rating": "R",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 4.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Ryan Gosling",
+        "imdb_person_url": "https://www.imdb.com/name/nm0331516/"
+      },
+      {
+        "name": "Shareeka Epps",
+        "imdb_person_url": "https://www.imdb.com/name/nm2066129/"
+      },
+      {
+        "name": "Anthony Mackie",
+        "imdb_person_url": "https://www.imdb.com/name/nm1107001/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An inner-city junior high school teacher with a drug habit forms an unlikely friendship with one of his students after she discovers his secret.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0468489/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/half_nelson"
+  },
+  {
+    "title": "Step Up",
+    "year": 2006,
+    "director": {
+      "name": "Anne Fletcher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0281937/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 114.2,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "19%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Channing Tatum",
+        "imdb_person_url": "https://www.imdb.com/name/nm1475594/"
+      },
+      {
+        "name": "Jenna Dewan",
+        "imdb_person_url": "https://www.imdb.com/name/nm1372343/"
+      },
+      {
+        "name": "Damaine Radcliff",
+        "imdb_person_url": "https://www.imdb.com/name/nm1566477/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with an up and coming dancer, Nora.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0462590/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/step_up"
+  },
+  {
+    "title": "Tenacious D in The Pick of Destiny",
+    "year": 2006,
+    "director": {
+      "name": "Liam Lynch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0528381/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 13.9,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "52%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Jack Black",
+        "imdb_person_url": "https://www.imdb.com/name/nm0085312/"
+      },
+      {
+        "name": "Kyle Gass",
+        "imdb_person_url": "https://www.imdb.com/name/nm0309307/"
+      },
+      {
+        "name": "JR Reed",
+        "imdb_person_url": "https://www.imdb.com/name/nm0715500/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "To become the greatest band of all time, two slacker rockers set out on a quest to steal a legendary guitar pick that gives its holders incredible guitar skills.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0365830/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tenacious_d_in_the_pick_of_destiny"
+  },
+  {
+    "title": "Rocky Balboa",
+    "year": 2006,
+    "director": {
+      "name": "Sylvester Stallone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 24.0,
+    "gross_revenue_usd_millions": 155.7,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Sylvester Stallone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
+      },
+      {
+        "name": "Antonio Tarver",
+        "imdb_person_url": "https://www.imdb.com/name/nm2208363/"
+      },
+      {
+        "name": "Milo Ventimiglia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0892651/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Thirty years after the ring of the first bell, Rocky Balboa comes out of retirement and dons his gloves for his final fight against the reigning heavyweight champ Mason 'The Line' Dixon.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0479143/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rocky_balboa"
+  },
+  {
+    "title": "The Devil Wears Prada",
+    "year": 2006,
+    "director": {
+      "name": "David Frankel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0291190/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 326.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anne Hathaway",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004266/"
+      },
+      {
+        "name": "Meryl Streep",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
+      },
+      {
+        "name": "Emily Blunt",
+        "imdb_person_url": "https://www.imdb.com/name/nm1289434/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0458352/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/devil_wears_prada"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "year": 2006,
+    "director": {
+      "name": "Ron Howard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 149,
+    "budget_usd_millions": 125.0,
+    "gross_revenue_usd_millions": 760.0,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "25%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Tom Hanks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
+      },
+      {
+        "name": "Audrey Tautou",
+        "imdb_person_url": "https://www.imdb.com/name/nm0851582/"
+      },
+      {
+        "name": "Jean Reno",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A murder inside the Louvre, and clues in Da Vinci paintings, lead to the discovery of a religious mystery protected by a secret society for two thousand years, which could shake the foundations of Christianity.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0382625/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/da_vinci_code"
+  },
+  {
+    "title": "Superman Returns",
+    "year": 2006,
+    "director": {
+      "name": "Bryan Singer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 154,
+    "budget_usd_millions": 270.0,
+    "gross_revenue_usd_millions": 391.1,
+    "ratings": {
+      "imdb": 6.0,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "52%"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Brandon Routh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0746125/"
+      },
+      {
+        "name": "Kate Bosworth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0098387/"
+      },
+      {
+        "name": "Kevin Spacey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000228/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Superman returns to Earth after spending five years in space examining his homeworld Krypton. But he finds things have changed while he was gone, and he must once again prove himself important to the world.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0348150/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/superman_returns"
+  },
+  {
+    "title": "Click",
+    "year": 2006,
+    "director": {
+      "name": "Frank Coraci",
+      "imdb_person_url": "https://www.imdb.com/name/nm0179094/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 82.5,
+    "gross_revenue_usd_millions": 237.7,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "34%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Adam Sandler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001191/"
+      },
+      {
+        "name": "Kate Beckinsale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000295/"
+      },
+      {
+        "name": "Christopher Walken",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000686/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A workaholic architect finds a universal remote that allows him to fast-forward and rewind to different parts of his life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0389860/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/click"
+  },
+  {
+    "title": "The Holiday",
+    "year": 2006,
+    "director": {
+      "name": "Nancy Meyers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0583600/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 136,
+    "budget_usd_millions": 85.0,
+    "gross_revenue_usd_millions": 205.1,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
       "Romance"
     ],
     "actors": [
+      {
+        "name": "Cameron Diaz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000139/"
+      },
       {
         "name": "Kate Winslet",
         "imdb_person_url": "https://www.imdb.com/name/nm0000701/"
       },
       {
-        "name": "Patrick Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0933940/"
-      },
-      {
-        "name": "Jennifer Connelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000124/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0404203/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/little_children"
-  },
-  {
-    "title": "The Lives of Others",
-    "year": 2006,
-    "director": {
-      "name": "Florian Henckel von Donnersmarck",
-      "imdb_person_url": "https://www.imdb.com/name/nm0377224/"
-    },
-    "production_studio": "Bayerischer Rundfunk (BR), Wiedemann & Berg Filmproduktion",
-    "mpaa_rating": "R",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 77.3,
-    "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "96%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Ulrich Mühe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0617937/"
-      },
-      {
-        "name": "Martina Gedeck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0311496/"
-      },
-      {
-        "name": "Sebastian Koch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0462410/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film of the Year"
-    ],
-    "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0405094/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lives_of_others"
-  },
-  {
-    "title": "Volver",
-    "year": 2006,
-    "director": {
-      "name": "Pedro Almodóvar",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
-    },
-    "production_studio": "El Deseo, Canal+ España",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 9.7,
-    "gross_revenue_usd_millions": 85.6,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Penélope Cruz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004851/"
-      },
-      {
-        "name": "Carmen Maura",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001515/"
-      },
-      {
-        "name": "Lola Dueñas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0240405/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After her death, a mother returns to her home town in order to fix the situations she couldn't resolve during her life.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0441909/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/volver"
-  },
-  {
-    "title": "The Fountain",
-    "year": 2006,
-    "director": {
-      "name": "Darren Aronofsky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004716/"
-    },
-    "production_studio": "Warner Bros., Regency Enterprises",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 16.5,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "52%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Hugh Jackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003964/"
-      },
-      {
-        "name": "Rachel Weisz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001838/"
-      },
-      {
-        "name": "Sean Patrick Thomas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005480/"
+        "name": "Jude Law",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.",
+    "description": "Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0414993/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_fountain"
+    "imdb_url": "https://www.imdb.com/title/tt0457939/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/holiday"
   },
   {
-    "title": "Dreamgirls",
+    "title": "The Good Shepherd",
     "year": 2006,
     "director": {
-      "name": "Bill Condon",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001063/"
+      "name": "Robert De Niro",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
     },
-    "production_studio": "DreamWorks, Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 155.4,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Beyoncé",
-        "imdb_person_url": "https://www.imdb.com/name/nm0461498/"
-      },
-      {
-        "name": "Jamie Foxx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004937/"
-      },
-      {
-        "name": "Eddie Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000552/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Performance by an Actress in a Supporting Role",
-      "Best Achievement in Sound Mixing"
-    ],
-    "description": "A trio of black female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0443489/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dreamgirls"
-  },
-  {
-    "title": "Inside Man",
-    "year": 2006,
-    "director": {
-      "name": "Spike Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
-    },
-    "production_studio": "Universal Pictures, Imagine Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 45,
-    "gross_revenue_usd_millions": 184.4,
+    "runtime_minutes": 167,
+    "budget_usd_millions": 85.0,
+    "gross_revenue_usd_millions": 99.5,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "85%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "55%",
+      "rotten_tomatoes_popcorn": "66%"
     },
     "genres": [
-      "Crime",
       "Drama",
+      "History",
       "Thriller"
     ],
     "actors": [
       {
-        "name": "Denzel Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
+        "name": "Matt Damon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
       },
       {
-        "name": "Clive Owen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001584/"
+        "name": "Angelina Jolie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001401/"
       },
       {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A police detective, a bank robber, and a high-power broker enter into high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0454848/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/inside_man"
-  },
-  {
-    "title": "Notes on a Scandal",
-    "year": 2006,
-    "director": {
-      "name": "Richard Eyre",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001198/"
-    },
-    "production_studio": "Fox Searchlight Pictures, BBC Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 49.8,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Judi Dench",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001132/"
-      },
-      {
-        "name": "Cate Blanchett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000949/"
-      },
-      {
-        "name": "Bill Nighy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005266/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her students. However, the friendship takes a dark turn when the older teacher becomes obsessed with the younger one.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0465551/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/notes_on_a_scandal"
-  },
-  {
-    "title": "The Pursuit of Happyness",
-    "year": 2006,
-    "director": {
-      "name": "Gabriele Muccino",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002167/"
-    },
-    "production_studio": "Columbia Pictures, Relativity Media",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 307.1,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Jaden Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm1535523/"
-      },
-      {
-        "name": "Thandiwe Newton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0628601/"
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+    "description": "The tumultuous early history of the Central Intelligence Agency is viewed through the prism of one man's life.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0454921/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pursuit_of_happyness"
+    "imdb_url": "https://www.imdb.com/title/tt0343737/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/good_shepherd"
   },
   {
-    "title": "Idiocracy",
+    "title": "Perfume: The Story of a Murderer",
     "year": 2006,
     "director": {
-      "name": "Mike Judge",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
+      "name": "Tom Tykwer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0879046/"
     },
-    "production_studio": "20th Century Fox, Ternion Pictures",
+    "production_studio": "Constantin Film",
     "mpaa_rating": "R",
-    "runtime_minutes": 84,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 0.495,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Luke Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005561/"
-      },
-      {
-        "name": "Maya Rudolph",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005391/"
-      },
-      {
-        "name": "Dax Shepard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Private Joe Bauers, the definition of 'average American', is selected by the Pentagon to be the guinea pig for a top-secret hibernation program. Forgotten, he awakes 500 years in the future. He discovers a society so incredibly dumbed down that he's easily the most intelligent person alive.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0387808/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/idiocracy"
-  },
-  {
-    "title": "Blood Diamond",
-    "year": 2006,
-    "director": {
-      "name": "Edward Zwick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
-    },
-    "production_studio": "Warner Bros., Bedford Falls Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 143,
-    "budget_usd_millions": 100,
-    "gross_revenue_usd_millions": 171.7,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Leonardo DiCaprio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000138/"
-      },
-      {
-        "name": "Djimon Hounsou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005023/"
-      },
-      {
-        "name": "Jennifer Connelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000124/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0450259/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blood_diamond"
-  },
-  {
-    "title": "Little Children",
-    "year": 2006,
-    "director": {
-      "name": "Todd Field",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001211/"
-    },
-    "production_studio": "New Line Cinema",
-    "mpaa_rating": "R",
-    "runtime_minutes": 136,
-    "budget_usd_millions": 26,
-    "gross_revenue_usd_millions": 14.8,
+    "runtime_minutes": 147,
+    "budget_usd_millions": 60.0,
+    "gross_revenue_usd_millions": 135.0,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Kate Winslet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000701/"
-      },
-      {
-        "name": "Patrick Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0933940/"
-      },
-      {
-        "name": "Jennifer Connelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000124/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0404203/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/little_children"
-  },
-  {
-    "title": "The Lives of Others",
-    "year": 2006,
-    "director": {
-      "name": "Florian Henckel von Donnersmarck",
-      "imdb_person_url": "https://www.imdb.com/name/nm0377224/"
-    },
-    "production_studio": "Bayerischer Rundfunk (BR), Wiedemann & Berg Filmproduktion",
-    "mpaa_rating": "R",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 77.3,
-    "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "96%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Ulrich Mühe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0617937/"
-      },
-      {
-        "name": "Martina Gedeck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0311496/"
-      },
-      {
-        "name": "Sebastian Koch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0462410/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film of the Year"
-    ],
-    "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0405094/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lives_of_others"
-  },
-  {
-    "title": "Volver",
-    "year": 2006,
-    "director": {
-      "name": "Pedro Almodóvar",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
-    },
-    "production_studio": "El Deseo, Canal+ España",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 9.7,
-    "gross_revenue_usd_millions": 85.6,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Penélope Cruz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004851/"
-      },
-      {
-        "name": "Carmen Maura",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001515/"
-      },
-      {
-        "name": "Lola Dueñas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0240405/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After her death, a mother returns to her home town in order to fix the situations she couldn't resolve during her life.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0441909/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/volver"
-  },
-  {
-    "title": "The Fountain",
-    "year": 2006,
-    "director": {
-      "name": "Darren Aronofsky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004716/"
-    },
-    "production_studio": "Warner Bros., Regency Enterprises",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 16.5,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "52%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Hugh Jackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003964/"
-      },
-      {
-        "name": "Rachel Weisz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001838/"
-      },
-      {
-        "name": "Sean Patrick Thomas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005480/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0414993/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_fountain"
-  },
-  {
-    "title": "Dreamgirls",
-    "year": 2006,
-    "director": {
-      "name": "Bill Condon",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001063/"
-    },
-    "production_studio": "DreamWorks, Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 155.4,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Beyoncé",
-        "imdb_person_url": "https://www.imdb.com/name/nm0461498/"
-      },
-      {
-        "name": "Jamie Foxx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004937/"
-      },
-      {
-        "name": "Eddie Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000552/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Performance by an Actress in a Supporting Role",
-      "Best Achievement in Sound Mixing"
-    ],
-    "description": "A trio of black female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0443489/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dreamgirls"
-  },
-  {
-    "title": "Inside Man",
-    "year": 2006,
-    "director": {
-      "name": "Spike Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
-    },
-    "production_studio": "Universal Pictures, Imagine Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 45,
-    "gross_revenue_usd_millions": 184.4,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "85%"
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "74%"
     },
     "genres": [
       "Crime",
       "Drama",
-      "Thriller"
+      "Fantasy"
     ],
     "actors": [
       {
-        "name": "Denzel Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
+        "name": "Ben Whishaw",
+        "imdb_person_url": "https://www.imdb.com/name/nm0924210/"
       },
       {
-        "name": "Clive Owen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001584/"
+        "name": "Dustin Hoffman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
       },
       {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
+        "name": "Alan Rickman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000614/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A police detective, a bank robber, and a high-power broker enter into high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
+    "description": "Jean-Baptiste Grenouille, born with a superior olfactory sense, creates the world's finest perfume. His work, however, takes a dark turn as he searches for the ultimate scent.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0454848/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/inside_man"
-  },
-  {
-    "title": "Notes on a Scandal",
-    "year": 2006,
-    "director": {
-      "name": "Richard Eyre",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001198/"
-    },
-    "production_studio": "Fox Searchlight Pictures, BBC Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 49.8,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Judi Dench",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001132/"
-      },
-      {
-        "name": "Cate Blanchett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000949/"
-      },
-      {
-        "name": "Bill Nighy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005266/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her students. However, the friendship takes a dark turn when the older teacher becomes obsessed with the younger one.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0465551/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/notes_on_a_scandal"
-  },
-  {
-    "title": "The Pursuit of Happyness",
-    "year": 2006,
-    "director": {
-      "name": "Gabriele Muccino",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002167/"
-    },
-    "production_studio": "Columbia Pictures, Relativity Media",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 307.1,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Jaden Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm1535523/"
-      },
-      {
-        "name": "Thandiwe Newton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0628601/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0454921/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pursuit_of_happyness"
-  },
-  {
-    "title": "Idiocracy",
-    "year": 2006,
-    "director": {
-      "name": "Mike Judge",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
-    },
-    "production_studio": "20th Century Fox, Ternion Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 84,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 0.495,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Luke Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005561/"
-      },
-      {
-        "name": "Maya Rudolph",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005391/"
-      },
-      {
-        "name": "Dax Shepard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Private Joe Bauers, the definition of 'average American', is selected by the Pentagon to be the guinea pig for a top-secret hibernation program. Forgotten, he awakes 500 years in the future. He discovers a society so incredibly dumbed down that he's easily the most intelligent person alive.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0387808/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/idiocracy"
-  },
-  {
-    "title": "Blood Diamond",
-    "year": 2006,
-    "director": {
-      "name": "Edward Zwick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
-    },
-    "production_studio": "Warner Bros., Bedford Falls Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 143,
-    "budget_usd_millions": 100,
-    "gross_revenue_usd_millions": 171.7,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Leonardo DiCaprio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000138/"
-      },
-      {
-        "name": "Djimon Hounsou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005023/"
-      },
-      {
-        "name": "Jennifer Connelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000124/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0450259/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blood_diamond"
+    "imdb_url": "https://www.imdb.com/title/tt0396171/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/perfume_the_story_of_a_murderer"
   }
 ]

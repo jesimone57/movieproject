@@ -1,12 +1,43 @@
 [
   {
+    "title": "An American in Paris",
+    "year": 1951,
+    "director": {
+      "name": "Vincente Minnelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001541/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 2.7,
+    "gross_revenue_usd_millions": 8,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Drama", "Musical", "Romance"],
+    "actors": [
+      { "name": "Gene Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000037/" },
+      { "name": "Leslie Caron", "imdb_person_url": "https://www.imdb.com/name/nm0001989/" },
+      { "name": "Oscar Levant", "imdb_person_url": "https://www.imdb.com/name/nm0505168/" }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 6,
+    "oscars_won_details": ["Best Picture", "Best Writing, Story and Screenplay", "Best Cinematography, Color", "Best Art Direction-Set Decoration, Color", "Best Costume Design, Color", "Best Music, Scoring of a Musical Picture"],
+    "description": "Three friends struggle to find work in Paris. Things become more complicated when two of them fall in love with the same woman.",
+    "afi_ranking": 68,
+    "imdb_url": "https://www.imdb.com/title/tt0043278/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/an_american_in_paris"
+  },
+  {
     "title": "A Streetcar Named Desire",
     "year": 1951,
     "director": {
       "name": "Elia Kazan",
       "imdb_person_url": "https://www.imdb.com/name/nm0001415/"
     },
-    "production_studio": "Charles K. Feldman Group",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG",
     "runtime_minutes": 122,
     "budget_usd_millions": 1.8,
@@ -16,132 +47,81 @@
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Vivien Leigh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000048/"
-      },
-      {
-        "name": "Marlon Brando",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
-      },
-      {
-        "name": "Kim Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0402923/"
-      }
+      { "name": "Vivien Leigh", "imdb_person_url": "https://www.imdb.com/name/nm0000046/" },
+      { "name": "Marlon Brando", "imdb_person_url": "https://www.imdb.com/name/nm0000008/" },
+      { "name": "Kim Hunter", "imdb_person_url": "https://www.imdb.com/name/nm0001375/" }
     ],
     "oscars_nominated": 12,
     "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Actress",
-      "Best Supporting Actor",
-      "Best Supporting Actress",
-      "Best Art Direction-Set Decoration, Black-and-White"
-    ],
-    "description": "Disturbed former schoolteacher Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.",
-    "afi_ranking": 45,
+    "oscars_won_details": ["Best Actress", "Best Supporting Actor", "Best Supporting Actress", "Best Art Direction-Set Decoration, Black-and-White"],
+    "description": "Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.",
+    "afi_ranking": 47,
     "imdb_url": "https://www.imdb.com/title/tt0044081/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_streetcar_named_desire"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/streetcar_named_desire"
   },
   {
     "title": "The African Queen",
     "year": 1951,
     "director": {
       "name": "John Huston",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001380/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
     },
     "production_studio": "Horizon Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 105,
-    "budget_usd_millions": 1,
+    "budget_usd_millions": 1.1,
     "gross_revenue_usd_millions": 10.75,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "88%"
     },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Adventure", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Humphrey Bogart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
-      },
-      {
-        "name": "Katharine Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
-      },
-      {
-        "name": "Robert Morley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0605963/"
-      }
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Katharine Hepburn", "imdb_person_url": "https://www.imdb.com/name/nm0000031/" },
+      { "name": "Robert Morley", "imdb_person_url": "https://www.imdb.com/name/nm0002234/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor"
-    ],
-    "description": "In Africa during WWI, a gin-swilling riverboat captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.",
-    "afi_ranking": 17,
+    "oscars_won_details": ["Best Actor"],
+    "description": "In WWI East Africa, a gin-swilling riverboat captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.",
+    "afi_ranking": 65,
     "imdb_url": "https://www.imdb.com/title/tt0043265/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/african_queen"
   },
   {
-    "title": "An American in Paris",
+    "title": "The Day the Earth Stood Still",
     "year": 1951,
     "director": {
-      "name": "Vincente Minnelli",
-      "imdb_person_url": "https://www.imdb.com/name/nm0591409/"
+      "name": "Robert Wise",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001862/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 2.7,
-    "gross_revenue_usd_millions": 6.8,
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "G",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 1.85,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "82%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Drama",
-      "Musical",
-      "Romance"
-    ],
+    "genres": ["Drama", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Gene Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
-      },
-      {
-        "name": "Leslie Caron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001989/"
-      },
-      {
-        "name": "Oscar Levant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0505166/"
-      }
+      { "name": "Michael Rennie", "imdb_person_url": "https://www.imdb.com/name/nm0719678/" },
+      { "name": "Patricia Neal", "imdb_person_url": "https://www.imdb.com/name/nm0623658/" },
+      { "name": "Hugh Marlowe", "imdb_person_url": "https://www.imdb.com/name/nm0549137/" }
     ],
-    "oscars_nominated": 8,
-    "oscars_won": 6,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Writing, Story and Screenplay",
-      "Best Cinematography, Color",
-      "Best Art Direction-Set Decoration, Color",
-      "Best Costume Design, Color",
-      "Best Music, Scoring of a Musical Picture"
-    ],
-    "description": "An American expatriate painter finds success in Paris and falls for a beautiful French girl, who is engaged to a cabaret singer.",
-    "afi_ranking": 68,
-    "imdb_url": "https://www.imdb.com/title/tt0043278/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/an_american_in_paris"
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An alien lands in Washington, D.C. and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043456/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005371-day_the_earth_stood_still"
   },
   {
     "title": "Strangers on a Train",
@@ -153,161 +133,49 @@
     "production_studio": "Warner Bros.",
     "mpaa_rating": "PG",
     "runtime_minutes": 101,
-    "budget_usd_millions": 1.5,
+    "budget_usd_millions": 1.2,
     "gross_revenue_usd_millions": 7,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_popcorn": "92%"
     },
-    "genres": [
-      "Crime",
-      "Film-Noir",
-      "Thriller"
-    ],
+    "genres": ["Crime", "Film-Noir", "Thriller"],
     "actors": [
-      {
-        "name": "Farley Granger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001289/"
-      },
-      {
-        "name": "Robert Walker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001824/"
-      },
-      {
-        "name": "Ruth Roman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0738942/"
-      }
+      { "name": "Farley Granger", "imdb_person_url": "https://www.imdb.com/name/nm0002110/" },
+      { "name": "Robert Walker", "imdb_person_url": "https://www.imdb.com/name/nm0001826/" },
+      { "name": "Ruth Roman", "imdb_person_url": "https://www.imdb.com/name/nm0004345/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A psychopathic man tries to pressure a tennis star into a murder-for-murder pact.",
-    "afi_ranking": null,
+    "description": "A psychotic socialite confronts a pro tennis star with a theory on how two complete strangers can get away with murder—a theory that he plans to implement.",
+    "afi_ranking": 32,
     "imdb_url": "https://www.imdb.com/title/tt0044079/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/strangers_on_a_train"
-  },
-  {
-    "title": "The Day the Earth Stood Still",
-    "year": 1951,
-    "director": {
-      "name": "Robert Wise",
-      "imdb_person_url": "https://www.imdb.com/name/nm0936404/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "G",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 1.85,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Drama",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Michael Rennie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
-      },
-      {
-        "name": "Patricia Neal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001560/"
-      },
-      {
-        "name": "Hugh Marlowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0549219/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An alien lands and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.",
-    "afi_ranking": 82,
-    "imdb_url": "https://www.imdb.com/title/tt0043456/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/day_the_earth_stood_still"
-  },
-  {
-    "title": "Ace in the Hole",
-    "year": 1951,
-    "director": {
-      "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 1.83,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Kirk Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
-      },
-      {
-        "name": "Jan Sterling",
-        "imdb_person_url": "https://www.imdb.com/name/nm0827515/"
-      },
-      {
-        "name": "Robert Arthur",
-        "imdb_person_url": "https://www.imdb.com/name/nm0037803/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to rekindle his career, but the situation quickly escalates into a media circus.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043338/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ace_in_the_hole"
   },
   {
     "title": "Alice in Wonderland",
     "year": 1951,
     "director": {
-      "name": "Clyde Geronimi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0314488/"
+      "name": "Clyde Geronimi & Wilfred Jackson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0314623/"
     },
     "production_studio": "Walt Disney Productions",
     "mpaa_rating": "G",
     "runtime_minutes": 75,
     "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 5.7,
+    "gross_revenue_usd_millions": 5.6,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "81%",
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "84%",
       "rotten_tomatoes_popcorn": "78%"
     },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Family"
-    ],
+    "genres": ["Animation", "Adventure", "Family"],
     "actors": [
-      {
-        "name": "Kathryn Beaumont",
-        "imdb_person_url": "https://www.imdb.com/name/nm0064607/"
-      },
-      {
-        "name": "Ed Wynn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0943992/"
-      },
-      {
-        "name": "Richard Haydn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0370701/"
-      }
+      { "name": "Kathryn Beaumont", "imdb_person_url": "https://www.imdb.com/name/nm0064604/" },
+      { "name": "Ed Wynn", "imdb_person_url": "https://www.imdb.com/name/nm0002239/" },
+      { "name": "Richard Haydn", "imdb_person_url": "https://www.imdb.com/name/nm0370842/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -315,17 +183,48 @@
     "description": "Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0043274/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/alice_in_wonderland"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000620-alice_in_wonderland"
+  },
+  {
+    "title": "A Place in the Sun",
+    "year": 1951,
+    "director": {
+      "name": "George Stevens",
+      "imdb_person_url": "https://www.imdb.com/name/nm0828412/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 2.3,
+    "gross_revenue_usd_millions": 7,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Montgomery Clift", "imdb_person_url": "https://www.imdb.com/name/nm0001050/" },
+      { "name": "Elizabeth Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0000072/" },
+      { "name": "Shelley Winters", "imdb_person_url": "https://www.imdb.com/name/nm0001859/" }
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 6,
+    "oscars_won_details": ["Best Director", "Best Writing, Screenplay", "Best Cinematography, Black-and-White", "Best Costume Design, Black-and-White", "Best Film Editing", "Best Music, Scoring of a Dramatic or Comedy Picture"],
+    "description": "A poor boy gets a job working for his rich uncle and ends up falling in love with two women.",
+    "afi_ranking": 53,
+    "imdb_url": "https://www.imdb.com/title/tt0043924/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/place_in_the_sun"
   },
   {
     "title": "The Thing from Another World",
     "year": 1951,
     "director": {
       "name": "Christian Nyby",
-      "imdb_person_url": "https://www.imdb.com/name/nm0638531/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0638527/"
     },
     "production_studio": "Winchester Pictures Corporation",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 87,
     "budget_usd_millions": 1.6,
     "gross_revenue_usd_millions": 1.95,
@@ -334,81 +233,205 @@
       "rotten_tomatoes_critic": "87%",
       "rotten_tomatoes_popcorn": "73%"
     },
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
+    "genres": ["Horror", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Margaret Sheridan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0792120/"
-      },
-      {
-        "name": "Kenneth Tobey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0864770/"
-      },
-      {
-        "name": "Robert Cornthwaite",
-        "imdb_person_url": "https://www.imdb.com/name/nm0179927/"
-      }
+      { "name": "Kenneth Tobey", "imdb_person_url": "https://www.imdb.com/name/nm0864907/" },
+      { "name": "Margaret Sheridan", "imdb_person_url": "https://www.imdb.com/name/nm0792213/" },
+      { "name": "James Arness", "imdb_person_url": "https://www.imdb.com/name/nm0000790/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Scientists at an Arctic research station discover a spacecraft buried in the ice and a hostile alien creature frozen within.",
+    "description": "Scientists and American Air Force officials fend off a bloodthirsty alien organism while at a remote arctic outpost.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0044121/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_thing_from_another_world"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thing_from_another_world"
   },
   {
-    "title": "A Place in the Sun",
+    "title": "Quo Vadis",
     "year": 1951,
     "director": {
-      "name": "George Stevens",
-      "imdb_person_url": "https://www.imdb.com/name/nm0828552/"
+      "name": "Mervyn LeRoy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004273/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 171,
+    "budget_usd_millions": 7.6,
+    "gross_revenue_usd_millions": 30,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "actors": [
+      { "name": "Robert Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0001791/" },
+      { "name": "Deborah Kerr", "imdb_person_url": "https://www.imdb.com/name/nm0000039/" },
+      { "name": "Peter Ustinov", "imdb_person_url": "https://www.imdb.com/name/nm0001811/" }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After twenty years, General Marcus Vinicius returns to Rome to find the Emperor Nero, a madman, and the woman he loves, a Christian.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043949/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quo_vadis"
+  },
+  {
+    "title": "Ace in the Hole",
+    "year": 1951,
+    "director": {
+      "name": "Billy Wilder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
     },
     "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 2.3,
-    "gross_revenue_usd_millions": 7,
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 2.8,
     "ratings": {
-      "imdb": 7.7,
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": ["Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Kirk Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0000018/" },
+      { "name": "Jan Sterling", "imdb_person_url": "https://www.imdb.com/name/nm0827525/" },
+      { "name": "Robert Arthur", "imdb_person_url": "https://www.imdb.com/name/nm0037815/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to rekindle his career, but the situation quickly escalates into an out-of-control circus.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043338/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ace_in_the_hole"
+  },
+  {
+    "title": "The Lavender Hill Mob",
+    "year": 1951,
+    "director": {
+      "name": "Charles Crichton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0187805/"
+    },
+    "production_studio": "Ealing Studios",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Comedy", "Crime"],
+    "actors": [
+      { "name": "Alec Guinness", "imdb_person_url": "https://www.imdb.com/name/nm0000027/" },
+      { "name": "Stanley Holloway", "imdb_person_url": "https://www.imdb.com/name/nm0002141/" },
+      { "name": "Sidney James", "imdb_person_url": "https://www.imdb.com/name/nm0416913/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Writing, Story and Screenplay"],
+    "description": "A meek bank clerk who oversees the shipment of bullion joins with an eccentric neighbor to steal gold bars and smuggle them out of the country as miniature Eiffel Towers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044829/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lavender_hill_mob"
+  },
+  {
+    "title": "Scrooge",
+    "year": 1951,
+    "director": {
+      "name": "Brian Desmond Hurst",
+      "imdb_person_url": "https://www.imdb.com/name/nm0403573/"
+    },
+    "production_studio": "Renown Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.6,
+    "ratings": {
+      "imdb": 8.1,
       "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Drama", "Fantasy"],
+    "actors": [
+      { "name": "Alastair Sim", "imdb_person_url": "https://www.imdb.com/name/nm0001738/" },
+      { "name": "Jack Warner", "imdb_person_url": "https://www.imdb.com/name/nm0912493/" },
+      { "name": "Kathleen Harrison", "imdb_person_url": "https://www.imdb.com/name/nm0365682/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Ebenezer Scrooge, a curmudgeonly, miserly businessman, has no time for sentimentality and largely views Christmas as a waste of time. However, this Christmas Eve he will be visited by three spirits who will show him the errors of his ways.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044008/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1018059-christmas_carol"
+  },
+  {
+    "title": "The Man in the White Suit",
+    "year": 1951,
+    "director": {
+      "name": "Alexander Mackendrick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0533322/"
+    },
+    "production_studio": "Ealing Studios",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": 0.8,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Drama", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Montgomery Clift",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001050/"
-      },
-      {
-        "name": "Elizabeth Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
-      },
-      {
-        "name": "Shelley Winters",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001851/"
-      }
+      { "name": "Alec Guinness", "imdb_person_url": "https://www.imdb.com/name/nm0000027/" },
+      { "name": "Joan Greenwood", "imdb_person_url": "https://www.imdb.com/name/nm0339342/" },
+      { "name": "Cecil Parker", "imdb_person_url": "https://www.imdb.com/name/nm0662147/" }
     ],
-    "oscars_nominated": 9,
-    "oscars_won": 6,
-    "oscars_won_details": [
-      "Best Director",
-      "Best Writing, Screenplay",
-      "Best Cinematography, Black-and-White",
-      "Best Costume Design, Black-and-White",
-      "Best Film Editing",
-      "Best Music, Scoring of a Dramatic or Comedy Picture"
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An altruistic chemist invents a fabric which resists wear and stain as well as never needing to be cleaned, but the government and the textile industry try to suppress it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044876/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_in_the_white_suit"
+  },
+  {
+    "title": "Show Boat",
+    "year": 1951,
+    "director": {
+      "name": "George Sidney",
+      "imdb_person_url": "https://www.imdb.com/name/nm0796532/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 2.4,
+    "gross_revenue_usd_millions": 8.6,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Drama", "Family", "Musical"],
+    "actors": [
+      { "name": "Kathryn Grayson", "imdb_person_url": "https://www.imdb.com/name/nm0337377/" },
+      { "name": "Ava Gardner", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "Howard Keel", "imdb_person_url": "https://www.imdb.com/name/nm0444476/" }
     ],
-    "description": "A young man wins a place in high society, but his dark past threatens to destroy everything.",
-    "afi_ranking": 51,
-    "imdb_url": "https://www.imdb.com/title/tt0043924/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_place_in_the_sun"
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The daughter of a riverboat captain falls in love with a charming gambler, but their marriage is threatened by his gambling and her parents' disapproval.",
+    "afi_ranking": 24,
+    "imdb_url": "https://www.imdb.com/title/tt0044030/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1018873-show_boat"
   },
   {
     "title": "Detective Story",
@@ -418,735 +441,1112 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
     },
     "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 103,
-    "budget_usd_millions": 1.4,
-    "gross_revenue_usd_millions": 7,
+    "budget_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 6.8,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "81%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Kirk Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
-      },
-      {
-        "name": "Eleanor Parker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001600/"
-      },
-      {
-        "name": "William Bendix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000908/"
-      }
+      { "name": "Kirk Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0000018/" },
+      { "name": "Eleanor Parker", "imdb_person_url": "https://www.imdb.com/name/nm0662232/" },
+      { "name": "William Bendix", "imdb_person_url": "https://www.imdb.com/name/nm0070647/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A day in the life of a New York City police detective, whose rigid moral code is tested by the criminals he encounters and a secret from his wife's past.",
+    "description": "A fanatical detective finds his moral absolutism challenged when his wife is implicated in an abortionist's business.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0043465/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/detective_story"
-  },
-  {
-    "title": "Quo Vadis",
-    "year": 1951,
-    "director": {
-      "name": "Mervyn LeRoy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0504141/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 171,
-    "budget_usd_millions": 7.6,
-    "gross_revenue_usd_millions": 30,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Robert Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001788/"
-      },
-      {
-        "name": "Deborah Kerr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000039/"
-      },
-      {
-        "name": "Leo Genn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0312814/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In ancient Rome, a Roman commander falls in love with a Christian woman and begins to question the tyrannical rule of the emperor Nero.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043949/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quo_vadis"
-  },
-  {
-    "title": "The Lavender Hill Mob",
-    "year": 1951,
-    "director": {
-      "name": "Charles Crichton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0187848/"
-    },
-    "production_studio": "Ealing Studios",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 81,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Alec Guinness",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000027/"
-      },
-      {
-        "name": "Stanley Holloway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0391211/"
-      },
-      {
-        "name": "Sidney James",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001397/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Story and Screenplay"
-    ],
-    "description": "A meek bank clerk who has been plotting a gold bullion heist for years finds the perfect accomplices.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0044829/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lavender_hill_mob"
-  },
-  {
-    "title": "The Man in the White Suit",
-    "year": 1951,
-    "director": {
-      "name": "Alexander Mackendrick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0533512/"
-    },
-    "production_studio": "Ealing Studios",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 85,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Alec Guinness",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000027/"
-      },
-      {
-        "name": "Joan Greenwood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0339328/"
-      },
-      {
-        "name": "Cecil Parker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0662057/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An idealistic scientist invents a fabric that never gets dirty or wears out, but the textile industry conspires to suppress his invention.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0044876/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_man_in_the_white_suit"
-  },
-  {
-    "title": "A Christmas Carol",
-    "year": 1951,
-    "director": {
-      "name": "Brian Desmond Hurst",
-      "imdb_person_url": "https://www.imdb.com/name/nm0403668/"
-    },
-    "production_studio": "Renown Pictures Corporation",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 86,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Alastair Sim",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001737/"
-      },
-      {
-        "name": "Jack Warner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0912412/"
-      },
-      {
-        "name": "Kathleen Harrison",
-        "imdb_person_url": "https://www.imdb.com/name/nm0365675/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An old bitter miser is given a chance for redemption when he is haunted by three ghosts on Christmas Eve.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0044008/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_christmas_carol_1951"
-  },
-  {
-    "title": "The River",
-    "year": 1951,
-    "director": {
-      "name": "Jean Renoir",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003025/"
-    },
-    "production_studio": "United Artists",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Nora Swinburne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0842426/"
-      },
-      {
-        "name": "Esmond Knight",
-        "imdb_person_url": "https://www.imdb.com/name/nm0460867/"
-      },
-      {
-        "name": "Arthur Shields",
-        "imdb_person_url": "https://www.imdb.com/name/nm0793282/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An English family living in India on the banks of the Ganges River experiences the joys and sorrows of life and love.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043978/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_river"
-  },
-  {
-    "title": "Show Boat",
-    "year": 1951,
-    "director": {
-      "name": "George Sidney",
-      "imdb_person_url": "https://www.imdb.com/name/nm0796683/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 2.3,
-    "gross_revenue_usd_millions": 8.7,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Kathryn Grayson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0337042/"
-      },
-      {
-        "name": "Ava Gardner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001257/"
-      },
-      {
-        "name": "Howard Keel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0444583/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The daughter of a riverboat captain falls in love with a charming gambler, but their fairytale romance is threatened by his addiction.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0044026/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/show_boat_1951"
-  },
-  {
-    "title": "The Prowler",
-    "year": 1951,
-    "director": {
-      "name": "Joseph Losey",
-      "imdb_person_url": "https://www.imdb.com/name/nm0521324/"
-    },
-    "production_studio": "Horizon Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 92,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Van Heflin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001334/"
-      },
-      {
-        "name": "Evelyn Keyes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0450849/"
-      },
-      {
-        "name": "John Maxwell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0561877/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A police officer becomes obsessed with a lonely housewife and conspires with her to murder her wealthy husband.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043938/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_prowler_1951"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005683-detective_story"
   },
   {
     "title": "Royal Wedding",
     "year": 1951,
     "director": {
       "name": "Stanley Donen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002046/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000374/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 93,
     "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 3.8,
+    "gross_revenue_usd_millions": 3.9,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "58%"
     },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Musical", "Romance"],
     "actors": [
-      {
-        "name": "Fred Astaire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
-      },
-      {
-        "name": "Jane Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
-      },
-      {
-        "name": "Peter Lawford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001458/"
-      }
+      { "name": "Fred Astaire", "imdb_person_url": "https://www.imdb.com/name/nm0000001/" },
+      { "name": "Jane Powell", "imdb_person_url": "https://www.imdb.com/name/nm0007225/" },
+      { "name": "Peter Lawford", "imdb_person_url": "https://www.imdb.com/name/nm0492487/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A brother-and-sister dance team find romance in London during the Royal Wedding.",
+    "description": "A brother and sister dance act encounter challenges and romance when invited to London to perform at the time of the Royal Wedding.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043986/",
+    "imdb_url": "https://www.imdb.com/title/tt0043983/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/royal_wedding"
-  },
-  {
-    "title": "Pandora and the Flying Dutchman",
-    "year": 1951,
-    "director": {
-      "name": "Albert Lewin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0507204/"
-    },
-    "production_studio": "Romulus Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "70%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001514/"
-      },
-      {
-        "name": "Ava Gardner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001257/"
-      },
-      {
-        "name": "Nigel Patrick",
-        "imdb_person_url": "https://www.imdb.com/name/nm0665979/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A beautiful and enigmatic woman in a Spanish coastal village becomes involved with the captain of a mysterious yacht, who may be the legendary Flying Dutchman.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043899/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pandora_and_the_flying_dutchman"
-  },
-  {
-    "title": "Decision Before Dawn",
-    "year": 1951,
-    "director": {
-      "name": "Anatole Litvak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0514704/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Richard Basehart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000858/"
-      },
-      {
-        "name": "Gary Merrill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0581203/"
-      },
-      {
-        "name": "Oskar Werner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0921477/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In the closing days of World War II, a German prisoner of war is recruited by the Americans for a dangerous espionage mission.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043459/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/decision_before_dawn"
-  },
-  {
-    "title": "Death of a Salesman",
-    "year": 1951,
-    "director": {
-      "name": "Laslo Benedek",
-      "imdb_person_url": "https://www.imdb.com/name/nm0070188/"
-    },
-    "production_studio": "Stanley Kramer Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 115,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
-      },
-      {
-        "name": "Mildred Dunnock",
-        "imdb_person_url": "https://www.imdb.com/name/nm0242833/"
-      },
-      {
-        "name": "Kevin McCarthy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005213/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An aging, traveling salesman, after a lifetime of chasing the American Dream, is brought to the brink by his professional and personal failures.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043461/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005282-death_of_a_salesman"
-  },
-  {
-    "title": "The Blue Veil",
-    "year": 1951,
-    "director": {
-      "name": "Curtis Bernhardt",
-      "imdb_person_url": "https://www.imdb.com/name/nm0076840/"
-    },
-    "production_studio": "Wald/Krasna Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 2.2,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jane Wyman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Charles Laughton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
-      },
-      {
-        "name": "Joan Blondell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000951/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After her own child dies, a woman dedicates her life to being a nanny for other people's children.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043354/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_blue_veil"
-  },
-  {
-    "title": "The Well",
-    "year": 1951,
-    "director": {
-      "name": "Leo C. Popkin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0691583/"
-    },
-    "production_studio": "Cardinal Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 86,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Richard Rober",
-        "imdb_person_url": "https://www.imdb.com/name/nm0730419/"
-      },
-      {
-        "name": "Barry Kelley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0445974/"
-      },
-      {
-        "name": "Henry Morgan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0604673/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Racial tensions in a small town flare up when a black man is accused of kidnapping a white girl, but the community must come together when the girl falls into a well.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0044208/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_well"
   },
   {
     "title": "The Great Caruso",
     "year": 1951,
     "director": {
       "name": "Richard Thorpe",
-      "imdb_person_url": "https://www.imdb.com/name/nm0861783/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0861695/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 109,
-    "budget_usd_millions": 2.2,
+    "budget_usd_millions": 1.7,
     "gross_revenue_usd_millions": 9.2,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "67%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "63%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Musical"
-    ],
+    "genres": ["Biography", "Drama", "Music"],
     "actors": [
-      {
-        "name": "Mario Lanza",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001449/"
-      },
-      {
-        "name": "Ann Blyth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000956/"
-      },
-      {
-        "name": "Dorothy Kirsten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0457065/"
-      }
+      { "name": "Mario Lanza", "imdb_person_url": "https://www.imdb.com/name/nm0487280/" },
+      { "name": "Ann Blyth", "imdb_person_url": "https://www.imdb.com/name/nm0089966/" },
+      { "name": "Dorothy Kirsten", "imdb_person_url": "https://www.imdb.com/name/nm0457017/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Sound, Recording"
-    ],
-    "description": "The life of the legendary Italian opera tenor Enrico Caruso.",
+    "oscars_won_details": ["Best Sound, Recording"],
+    "description": "A biography of the Italian tenor Enrico Caruso, following his rise from a poor background to international stardom.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043609/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_great_caruso"
+    "imdb_url": "https://www.imdb.com/title/tt0043599/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/great_caruso"
+  },
+  {
+    "title": "The River",
+    "year": 1951,
+    "director": {
+      "name": "Jean Renoir",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
+    },
+    "production_studio": "Oriental International Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Nora Swinburne", "imdb_person_url": "https://www.imdb.com/name/nm0842622/" },
+      { "name": "Esmond Knight", "imdb_person_url": "https://www.imdb.com/name/nm0460900/" },
+      { "name": "Arthur Shields", "imdb_person_url": "https://www.imdb.com/name/nm0793119/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three young women in Bengal, India fall for a soldier who is recovering from the war.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043972/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017644-river"
+  },
+  {
+    "title": "Decision Before Dawn",
+    "year": 1951,
+    "director": {
+      "name": "Anatole Litvak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514829/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama", "War"],
+    "actors": [
+      { "name": "Richard Basehart", "imdb_person_url": "https://www.imdb.com/name/nm0000859/" },
+      { "name": "Gary Merrill", "imdb_person_url": "https://www.imdb.com/name/nm0581281/" },
+      { "name": "Oskar Werner", "imdb_person_url": "https://www.imdb.com/name/nm0921492/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the final days of World War II, a German POW agrees to spy for the Americans to help end the war faster.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043459/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/decision_before_dawn"
+  },
+  {
+    "title": "Captain Horatio Hornblower R.N.",
+    "year": 1951,
+    "director": {
+      "name": "Raoul Walsh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003472/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 5.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "actors": [
+      { "name": "Gregory Peck", "imdb_person_url": "https://www.imdb.com/name/nm0000060/" },
+      { "name": "Virginia Mayo", "imdb_person_url": "https://www.imdb.com/name/nm0562920/" },
+      { "name": "Robert Beatty", "imdb_person_url": "https://www.imdb.com/name/nm0064184/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During the Napoleonic Wars, a British naval captain has adventures in Central American waters.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043379/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/captain_horatio_hornblower"
+  },
+  {
+    "title": "When Worlds Collide",
+    "year": 1951,
+    "director": {
+      "name": "Rudolph Maté",
+      "imdb_person_url": "https://www.imdb.com/name/nm0560237/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": 1.6,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": ["Sci-Fi", "Thriller"],
+    "actors": [
+      { "name": "Richard Derr", "imdb_person_url": "https://www.imdb.com/name/nm0220502/" },
+      { "name": "Barbara Rush", "imdb_person_url": "https://www.imdb.com/name/nm0750640/" },
+      { "name": "Peter Hanson", "imdb_person_url": "https://www.imdb.com/name/nm0361037/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Special Effects"],
+    "description": "As a new star flies toward Earth on a collision course, a small group of survivalists prepare a rocket ship to escape.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044207/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/when_worlds_collide"
+  },
+  {
+    "title": "The Red Badge of Courage",
+    "year": 1951,
+    "director": {
+      "name": "John Huston",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 69,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": ["Drama", "War"],
+    "actors": [
+      { "name": "Audie Murphy", "imdb_person_url": "https://www.imdb.com/name/nm0001559/" },
+      { "name": "Bill Mauldin", "imdb_person_url": "https://www.imdb.com/name/nm0560896/" },
+      { "name": "Douglas Dick", "imdb_person_url": "https://www.imdb.com/name/nm0225271/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young soldier in the Union Army fights fear and cowardice to find his courage during the Civil War.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043961/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/red_badge_of_courage"
+  },
+  {
+    "title": "Pandora and the Flying Dutchman",
+    "year": 1951,
+    "director": {
+      "name": "Albert Lewin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0506780/"
+    },
+    "production_studio": "Romulus Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 1.25,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Drama", "Fantasy", "Mystery"],
+    "actors": [
+      { "name": "James Mason", "imdb_person_url": "https://www.imdb.com/name/nm0000050/" },
+      { "name": "Ava Gardner", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "Nigel Patrick", "imdb_person_url": "https://www.imdb.com/name/nm0665913/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A beautiful singer in 1930s Spain meets a mysterious yachtsman who is actually the Flying Dutchman, doomed to sail the seas for eternity.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043899/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pandora_and_the_flying_dutchman"
+  },
+  {
+    "title": "Westward the Women",
+    "year": 1951,
+    "director": {
+      "name": "William A. Wellman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0919943/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 4.2,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Drama", "Western"],
+    "actors": [
+      { "name": "Robert Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0001791/" },
+      { "name": "Denise Darcel", "imdb_person_url": "https://www.imdb.com/name/nm0201047/" },
+      { "name": "Hope Emerson", "imdb_person_url": "https://www.imdb.com/name/nm0256222/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wagon master leads a wagon train of women from Chicago to California to marry the men of a small town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044205/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/westward_the_women"
+  },
+  {
+    "title": "The Browning Version",
+    "year": 1951,
+    "director": {
+      "name": "Anthony Asquith",
+      "imdb_person_url": "https://www.imdb.com/name/nm0039695/"
+    },
+    "production_studio": "Javelin Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 0.8,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Michael Redgrave", "imdb_person_url": "https://www.imdb.com/name/nm0714887/" },
+      { "name": "Jean Kent", "imdb_person_url": "https://www.imdb.com/name/nm0448764/" },
+      { "name": "Nigel Patrick", "imdb_person_url": "https://www.imdb.com/name/nm0665913/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Forced to retire from an English public school, an unpopular professor must confront the failure of his life and career.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043362/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1003182-browning_version"
+  },
+  {
+    "title": "People Will Talk",
+    "year": 1951,
+    "director": {
+      "name": "Joseph L. Mankiewicz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0542403/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Cary Grant", "imdb_person_url": "https://www.imdb.com/name/nm0000026/" },
+      { "name": "Jeanne Crain", "imdb_person_url": "https://www.imdb.com/name/nm0002022/" },
+      { "name": "Finlay Currie", "imdb_person_url": "https://www.imdb.com/name/nm0192945/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A physician falls in love with a young woman who is pregnant with another man's child, but his past comes back to haunt him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043915/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/people_will_talk"
+  },
+  {
+    "title": "Flying Leathernecks",
+    "year": 1951,
+    "director": {
+      "name": "Nicholas Ray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0712953/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "43%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Action", "Drama", "War"],
+    "actors": [
+      { "name": "John Wayne", "imdb_person_url": "https://www.imdb.com/name/nm0000078/" },
+      { "name": "Robert Ryan", "imdb_person_url": "https://www.imdb.com/name/nm0001692/" },
+      { "name": "Don Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0852277/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Marine Major leads a squadron of pilots during the Battle of Guadalcanal, but his strict disciplinary style causes conflict with his executive officer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043545/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/flying_leathernecks"
+  },
+  {
+    "title": "Rawhide",
+    "year": 1951,
+    "director": {
+      "name": "Henry Hathaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0368871/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Drama", "Western"],
+    "actors": [
+      { "name": "Tyrone Power", "imdb_person_url": "https://www.imdb.com/name/nm0001634/" },
+      { "name": "Susan Hayward", "imdb_person_url": "https://www.imdb.com/name/nm0001333/" },
+      { "name": "Hugh Marlowe", "imdb_person_url": "https://www.imdb.com/name/nm0549137/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Four escaped convicts take a stagecoach station employee and a young woman hostage.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043960/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017259-rawhide"
+  },
+  {
+    "title": "On Moonlight Bay",
+    "year": 1951,
+    "director": {
+      "name": "Roy Del Ruth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0216070/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": ["Comedy", "Family", "Musical"],
+    "actors": [
+      { "name": "Doris Day", "imdb_person_url": "https://www.imdb.com/name/nm0000017/" },
+      { "name": "Gordon MacRae", "imdb_person_url": "https://www.imdb.com/name/nm0534292/" },
+      { "name": "Billy Gray", "imdb_person_url": "https://www.imdb.com/name/nm0336473/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A tomboy falls for the boy next door, but her father disapproves of the romance.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043881/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/on_moonlight_bay"
+  },
+  {
+    "title": "Bellissima",
+    "year": 1951,
+    "director": {
+      "name": "Luchino Visconti",
+      "imdb_person_url": "https://www.imdb.com/name/nm0899604/"
+    },
+    "production_studio": "Bellissima Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 0.1,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Anna Magnani", "imdb_person_url": "https://www.imdb.com/name/nm0536167/" },
+      { "name": "Walter Chiari", "imdb_person_url": "https://www.imdb.com/name/nm0157080/" },
+      { "name": "Tina Apicella", "imdb_person_url": "https://www.imdb.com/name/nm0031973/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A working-class mother in Rome drags her young daughter to Cinecittà to audition for a role in a new film.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043332/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bellissima"
+  },
+  {
+    "title": "Miracle in Milan",
+    "year": 1951,
+    "director": {
+      "name": "Vittorio De Sica",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001126/"
+    },
+    "production_studio": "Produzioni De Sica",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "actors": [
+      { "name": "Francesco Golisano", "imdb_person_url": "https://www.imdb.com/name/nm0326544/" },
+      { "name": "Emma Gramatica", "imdb_person_url": "https://www.imdb.com/name/nm0334502/" },
+      { "name": "Paolo Stoppa", "imdb_person_url": "https://www.imdb.com/name/nm0832232/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An orphan adopts a colony of shantytown dwellers in Milan and protects them from a greedy landowner.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043809/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/miracle_in_milan"
+  },
+  {
+    "title": "Miss Julie",
+    "year": 1951,
+    "director": {
+      "name": "Alf Sjöberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0803649/"
+    },
+    "production_studio": "Sandrew",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Anita Björk", "imdb_person_url": "https://www.imdb.com/name/nm0084939/" },
+      { "name": "Ulf Palme", "imdb_person_url": "https://www.imdb.com/name/nm0657835/" },
+      { "name": "Märta Dorff", "imdb_person_url": "https://www.imdb.com/name/nm0233532/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young noblewoman begins a romance with her father's valet.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043567/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/miss_julie_1951"
+  },
+  {
+    "title": "The Tales of Hoffmann",
+    "year": 1951,
+    "director": {
+      "name": "Michael Powell & Emeric Pressburger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000592/"
+    },
+    "production_studio": "The Archers",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 138,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Fantasy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Moira Shearer", "imdb_person_url": "https://www.imdb.com/name/nm0790475/" },
+      { "name": "Robert Rounseville", "imdb_person_url": "https://www.imdb.com/name/nm0745944/" },
+      { "name": "Ludmilla Tchérina", "imdb_person_url": "https://www.imdb.com/name/nm0853452/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A poet reflects on his three failed romances in this adaptation of Offenbach's opera.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044103/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tales_of_hoffmann"
+  },
+  {
+    "title": "The Desert Fox: The Story of Rommel",
+    "year": 1951,
+    "director": {
+      "name": "Henry Hathaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0368871/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 4.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Biography", "Drama", "War"],
+    "actors": [
+      { "name": "James Mason", "imdb_person_url": "https://www.imdb.com/name/nm0000050/" },
+      { "name": "Cedric Hardwicke", "imdb_person_url": "https://www.imdb.com/name/nm0002126/" },
+      { "name": "Jessica Tandy", "imdb_person_url": "https://www.imdb.com/name/nm0001788/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of Field Marshal Erwin Rommel during the final days of World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043461/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/desert_fox_the_story_of_rommel"
+  },
+  {
+    "title": "The Blue Veil",
+    "year": 1951,
+    "director": {
+      "name": "Curtis Bernhardt",
+      "imdb_person_url": "https://www.imdb.com/name/nm0076767/"
+    },
+    "production_studio": "Wald-Krasna Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Jane Wyman", "imdb_person_url": "https://www.imdb.com/name/nm0001866/" },
+      { "name": "Charles Laughton", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Joan Blondell", "imdb_person_url": "https://www.imdb.com/name/nm0000951/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A war widow devotes her life to caring for other people's children.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043349/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_veil"
+  },
+  {
+    "title": "Death of a Salesman",
+    "year": 1951,
+    "director": {
+      "name": "Laslo Benedek",
+      "imdb_person_url": "https://www.imdb.com/name/nm0070809/"
+    },
+    "production_studio": "Stanley Kramer Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 1.3,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Fredric March", "imdb_person_url": "https://www.imdb.com/name/nm0001506/" },
+      { "name": "Mildred Dunnock", "imdb_person_url": "https://www.imdb.com/name/nm0242889/" },
+      { "name": "Kevin McCarthy", "imdb_person_url": "https://www.imdb.com/name/nm0565199/" }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A traveling salesman loses his job and struggles with his own feelings of worthlessness and his relationship with his sons.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043458/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005495-death_of_a_salesman"
+  },
+  {
+    "title": "Bedtime for Bonzo",
+    "year": 1951,
+    "director": {
+      "name": "Fred de Cordova",
+      "imdb_person_url": "https://www.imdb.com/name/nm0213278/"
+    },
+    "production_studio": "Universal International",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 5.3,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "34%"
+    },
+    "genres": ["Comedy"],
+    "actors": [
+      { "name": "Ronald Reagan", "imdb_person_url": "https://www.imdb.com/name/nm0000205/" },
+      { "name": "Diana Lynn", "imdb_person_url": "https://www.imdb.com/name/nm0528659/" },
+      { "name": "Walter Slezak", "imdb_person_url": "https://www.imdb.com/name/nm0805950/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A psychology professor tries to prove that environment determines personality by raising a chimpanzee as a human child.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043325/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bedtime_for_bonzo"
+  },
+  {
+    "title": "Angels in the Outfield",
+    "year": 1951,
+    "director": {
+      "name": "Clarence Brown",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000984/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "actors": [
+      { "name": "Paul Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0235208/" },
+      { "name": "Janet Leigh", "imdb_person_url": "https://www.imdb.com/name/nm0000492/" },
+      { "name": "Keenan Wynn", "imdb_person_url": "https://www.imdb.com/name/nm0943978/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A grumpy baseball manager gets supernatural help from an angel.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043286/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000970-angels_in_the_outfield"
+  },
+  {
+    "title": "The Enforcer",
+    "year": 1951,
+    "director": {
+      "name": "Bretaigne Windust",
+      "imdb_person_url": "https://www.imdb.com/name/nm0934815/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.3,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Zero Mostel", "imdb_person_url": "https://www.imdb.com/name/nm0609187/" },
+      { "name": "Ted de Corsia", "imdb_person_url": "https://www.imdb.com/name/nm0213034/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A crusading district attorney finally gets a chance to prosecute the head of a Murder, Inc.-style organization.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043500/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1006660-enforcer"
+  },
+  {
+    "title": "Fourteen Hours",
+    "year": 1951,
+    "director": {
+      "name": "Henry Hathaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0368871/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 1.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Drama", "Film-Noir", "Thriller"],
+    "actors": [
+      { "name": "Paul Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0235208/" },
+      { "name": "Richard Basehart", "imdb_person_url": "https://www.imdb.com/name/nm0000859/" },
+      { "name": "Barbara Bel Geddes", "imdb_person_url": "https://www.imdb.com/name/nm0000900/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A police officer tries to talk a suicidal young man down from the ledge of a tall building.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043560/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fourteen_hours"
+  },
+  {
+    "title": "He Ran All the Way",
+    "year": 1951,
+    "director": {
+      "name": "John Berry",
+      "imdb_person_url": "https://www.imdb.com/name/nm0077592/"
+    },
+    "production_studio": "Roberts Production",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 77,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "John Garfield", "imdb_person_url": "https://www.imdb.com/name/nm0002092/" },
+      { "name": "Shelley Winters", "imdb_person_url": "https://www.imdb.com/name/nm0001859/" },
+      { "name": "Wallace Ford", "imdb_person_url": "https://www.imdb.com/name/nm0285929/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A thief on the run takes a family hostage in their own apartment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043625/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/he_ran_all_the_way"
+  },
+  {
+    "title": "The Lemon Drop Kid",
+    "year": 1951,
+    "director": {
+      "name": "Sidney Lanfield",
+      "imdb_person_url": "https://www.imdb.com/name/nm0485756/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Comedy", "Crime", "Romance"],
+    "actors": [
+      { "name": "Bob Hope", "imdb_person_url": "https://www.imdb.com/name/nm0000453/" },
+      { "name": "Marilyn Maxwell", "imdb_person_url": "https://www.imdb.com/name/nm0561762/" },
+      { "name": "Lloyd Nolan", "imdb_person_url": "https://www.imdb.com/name/nm0634323/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A con man has to come up with $10,000 for a gangster by Christmas, or he won't make it to New Year's.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043736/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lemon_drop_kid"
+  },
+  {
+    "title": "The Mating Season",
+    "year": 1951,
+    "director": {
+      "name": "Mitchell Leisen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0500626/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.1,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Gene Tierney", "imdb_person_url": "https://www.imdb.com/name/nm0000074/" },
+      { "name": "John Lund", "imdb_person_url": "https://www.imdb.com/name/nm0526197/" },
+      { "name": "Miriam Hopkins", "imdb_person_url": "https://www.imdb.com/name/nm0394242/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A hamburger stand owner's son marries a socialite, and his mother ends up posing as their cook to stay close to them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043792/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mating_season"
+  },
+  {
+    "title": "The Prowler",
+    "year": 1951,
+    "director": {
+      "name": "Joseph Losey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0521392/"
+    },
+    "production_studio": "Horizon Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Crime", "Film-Noir", "Thriller"],
+    "actors": [
+      { "name": "Van Heflin", "imdb_person_url": "https://www.imdb.com/name/nm0002132/" },
+      { "name": "Evelyn Keyes", "imdb_person_url": "https://www.imdb.com/name/nm0450829/" },
+      { "name": "John Maxwell", "imdb_person_url": "https://www.imdb.com/name/nm0561731/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A police officer obsessively pursues a married woman, leading to a tragic conclusion.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043938/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016835-prowler"
+  },
+  {
+    "title": "Storm Warning",
+    "year": 1951,
+    "director": {
+      "name": "Stuart Heisler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0374747/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": 1.9,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Ginger Rogers", "imdb_person_url": "https://www.imdb.com/name/nm0001677/" },
+      { "name": "Ronald Reagan", "imdb_person_url": "https://www.imdb.com/name/nm0000205/" },
+      { "name": "Doris Day", "imdb_person_url": "https://www.imdb.com/name/nm0000017/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A traveling dress model witnesses the KKK murder a journalist in a Southern town and must decide whether to testify against them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0044078/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1020294-storm_warning"
+  },
+  {
+    "title": "Fixed Bayonets!",
+    "year": 1951,
+    "director": {
+      "name": "Samuel Fuller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002087/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": ["Action", "Drama", "War"],
+    "actors": [
+      { "name": "Richard Basehart", "imdb_person_url": "https://www.imdb.com/name/nm0000859/" },
+      { "name": "Gene Evans", "imdb_person_url": "https://www.imdb.com/name/nm0262768/" },
+      { "name": "Michael O'Shea", "imdb_person_url": "https://www.imdb.com/name/nm0642673/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During the Korean War, a U.S. platoon is tasked with a rear-guard action to cover a retreat, forcing a corporal to take command.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043542/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fixed_bayonets"
   },
   {
     "title": "Across the Wide Missouri",
     "year": 1951,
     "director": {
       "name": "William A. Wellman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0920074/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0919943/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 78,
     "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 2.7,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
-      "imdb": 6.3,
+      "imdb": 6.6,
       "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "51%"
+      "rotten_tomatoes_popcorn": "49%"
     },
-    "genres": [
-      "Western"
-    ],
+    "genres": ["Adventure", "Romance", "Western"],
     "actors": [
-      {
-        "name": "Clark Gable",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
-      },
-      {
-        "name": "Ricardo Montalban",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001544/"
-      },
-      {
-        "name": "John Hodiak",
-        "imdb_person_url": "https://www.imdb.com/name/nm0388419/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In the 1830s, a fur trapper takes a Blackfoot chief's daughter as his wife in order to safely hunt in their territory, but his plans are complicated when he falls in love with her.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043255/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/across_the_wide_missouri"
-  },
-  {
-    "title": "Othello",
-    "year": 1951,
-    "director": {
-      "name": "Orson Welles",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
-    },
-    "production_studio": "Mercury Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Orson Welles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
-      },
-      {
-        "name": "Micheál MacLiammóir",
-        "imdb_person_url": "https://www.imdb.com/name/nm0533512/"
-      },
-      {
-        "name": "Robert Coote",
-        "imdb_person_url": "https://www.imdb.com/name/nm0178652/"
-      }
+      { "name": "Clark Gable", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "Ricardo Montalban", "imdb_person_url": "https://www.imdb.com/name/nm0001544/" },
+      { "name": "John Hodiak", "imdb_person_url": "https://www.imdb.com/name/nm0388156/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The tragic story of a Moorish general who is deceived by his trusted ensign into believing that his wife is unfaithful.",
+    "description": "A trapper in the 1830s Rockies marries a Native American woman to gain access to her tribe's land but eventually falls in love with her.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0043871/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/othello_1952"
+    "imdb_url": "https://www.imdb.com/title/tt0043263/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/across_the_wide_missouri"
+  },
+  {
+    "title": "Double Dynamite",
+    "year": 1951,
+    "director": {
+      "name": "Irving Cummings",
+      "imdb_person_url": "https://www.imdb.com/name/nm0191900/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 1.8,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "33%"
+    },
+    "genres": ["Comedy", "Musical"],
+    "actors": [
+      { "name": "Jane Russell", "imdb_person_url": "https://www.imdb.com/name/nm0001692/" },
+      { "name": "Groucho Marx", "imdb_person_url": "https://www.imdb.com/name/nm0000050/" },
+      { "name": "Frank Sinatra", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bank teller is accused of embezzlement after he wins money gambling and saves a bookie's life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043475/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/double_dynamite"
+  },
+  {
+    "title": "His Kind of Woman",
+    "year": 1951,
+    "director": {
+      "name": "John Farrow",
+      "imdb_person_url": "https://www.imdb.com/name/nm0268477/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Action", "Crime", "Film-Noir"],
+    "actors": [
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" },
+      { "name": "Jane Russell", "imdb_person_url": "https://www.imdb.com/name/nm0001692/" },
+      { "name": "Vincent Price", "imdb_person_url": "https://www.imdb.com/name/nm0001637/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A gambler is deported to Mexico and becomes involved with a singer and a gangster who wants to use his identity.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043643/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/his_kind_of_woman"
+  },
+  {
+    "title": "Cry, the Beloved Country",
+    "year": 1951,
+    "director": {
+      "name": "Zoltan Korda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0466073/"
+    },
+    "production_studio": "London Film Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Canada Lee", "imdb_person_url": "https://www.imdb.com/name/nm0496926/" },
+      { "name": "Charles Carson", "imdb_person_url": "https://www.imdb.com/name/nm0141187/" },
+      { "name": "Sidney Poitier", "imdb_person_url": "https://www.imdb.com/name/nm0001627/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In South Africa, a black minister searches the city for his son, only to find he has killed a white man who was a crusader for racial equality.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0043442/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004975-cry_the_beloved_country"
   }
 ]

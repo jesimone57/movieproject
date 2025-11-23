@@ -6,43 +6,25 @@
       "name": "Steven Spielberg",
       "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "DreamWorks, Paramount Pictures, Amblin Entertainment",
+    "production_studio": "DreamWorks",
     "mpaa_rating": "R",
     "runtime_minutes": 169,
     "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 482.3,
+    "gross_revenue_usd_millions": 481.8,
     "ratings": {
       "imdb": 8.6,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "95%"
     },
-    "genres": [
-      "Drama",
-      "War"
-    ],
+    "genres": ["Drama", "War"],
     "actors": [
-      {
-        "name": "Tom Hanks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
-      },
-      {
-        "name": "Matt Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
-      },
-      {
-        "name": "Tom Sizemore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001744/"
-      }
+      { "name": "Tom Hanks", "imdb_person_url": "https://www.imdb.com/name/nm0000158/" },
+      { "name": "Matt Damon", "imdb_person_url": "https://www.imdb.com/name/nm0000354/" },
+      { "name": "Tom Sizemore", "imdb_person_url": "https://www.imdb.com/name/nm0001744/" }
     ],
     "oscars_nominated": 11,
     "oscars_won": 5,
-    "oscars_won_details": [
-      "Best Director",
-      "Best Cinematography",
-      "Best Sound",
-      "Best Film Editing",
-      "Best Effects, Sound Effects Editing"
-    ],
+    "oscars_won_details": ["Best Director", "Best Cinematography", "Best Film Editing", "Best Sound", "Best Sound Effects Editing"],
     "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
     "afi_ranking": 71,
     "imdb_url": "https://www.imdb.com/title/tt0120815/",
@@ -55,33 +37,21 @@
       "name": "Peter Weir",
       "imdb_person_url": "https://www.imdb.com/name/nm0001837/"
     },
-    "production_studio": "Paramount Pictures, Scott Rudin Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 103,
     "budget_usd_millions": 60,
     "gross_revenue_usd_millions": 264.1,
     "ratings": {
       "imdb": 8.2,
-      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "genres": ["Comedy", "Drama"],
     "actors": [
-      {
-        "name": "Jim Carrey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000120/"
-      },
-      {
-        "name": "Ed Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000438/"
-      },
-      {
-        "name": "Laura Linney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001473/"
-      }
+      { "name": "Jim Carrey", "imdb_person_url": "https://www.imdb.com/name/nm0000120/" },
+      { "name": "Ed Harris", "imdb_person_url": "https://www.imdb.com/name/nm0000438/" },
+      { "name": "Laura Linney", "imdb_person_url": "https://www.imdb.com/name/nm0001473/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
@@ -92,13 +62,75 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/truman_show"
   },
   {
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "director": {
+      "name": "Joel Coen & Ethan Coen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
+    },
+    "production_studio": "PolyGram Filmed Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 46.7,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": ["Comedy", "Crime"],
+    "actors": [
+      { "name": "Jeff Bridges", "imdb_person_url": "https://www.imdb.com/name/nm0000313/" },
+      { "name": "John Goodman", "imdb_person_url": "https://www.imdb.com/name/nm0000422/" },
+      { "name": "Julianne Moore", "imdb_person_url": "https://www.imdb.com/name/nm0000194/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118715/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_lebowski"
+  },
+  {
+    "title": "Shakespeare in Love",
+    "year": 1998,
+    "director": {
+      "name": "John Madden",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001493/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 25,
+    "gross_revenue_usd_millions": 289.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Comedy", "Drama", "History"],
+    "actors": [
+      { "name": "Gwyneth Paltrow", "imdb_person_url": "https://www.imdb.com/name/nm0000569/" },
+      { "name": "Joseph Fiennes", "imdb_person_url": "https://www.imdb.com/name/nm0001212/" },
+      { "name": "Geoffrey Rush", "imdb_person_url": "https://www.imdb.com/name/nm0001691/" }
+    ],
+    "oscars_nominated": 13,
+    "oscars_won": 7,
+    "oscars_won_details": ["Best Picture", "Best Actress", "Best Supporting Actress", "Best Original Screenplay", "Best Art Direction", "Best Costume Design", "Best Original Musical or Comedy Score"],
+    "description": "The world's greatest playwright, William Shakespeare, is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0138097/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shakespeare_in_love"
+  },
+  {
     "title": "American History X",
     "year": 1998,
     "director": {
       "name": "Tony Kaye",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001413/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0443411/"
     },
-    "production_studio": "New Line Cinema, The Turman-Morrissey Company",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "R",
     "runtime_minutes": 119,
     "budget_usd_millions": 20,
@@ -108,218 +140,19 @@
       "rotten_tomatoes_critic": "83%",
       "rotten_tomatoes_popcorn": "96%"
     },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Edward Norton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001570/"
-      },
-      {
-        "name": "Edward Furlong",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000411/"
-      },
-      {
-        "name": "Beverly D'Angelo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000350/"
-      }
+      { "name": "Edward Norton", "imdb_person_url": "https://www.imdb.com/name/nm0001570/" },
+      { "name": "Edward Furlong", "imdb_person_url": "https://www.imdb.com/name/nm0000411/" },
+      { "name": "Beverly D'Angelo", "imdb_person_url": "https://www.imdb.com/name/nm0000350/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former neo-Nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0120586/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_history_x"
-  },
-  {
-    "title": "Shakespeare in Love",
-    "year": 1998,
-    "director": {
-      "name": "John Madden",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002403/"
-    },
-    "production_studio": "Miramax, Universal Pictures, Bedford Falls Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 289.3,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Gwyneth Paltrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000569/"
-      },
-      {
-        "name": "Joseph Fiennes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001212/"
-      },
-      {
-        "name": "Geoffrey Rush",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001691/"
-      }
-    ],
-    "oscars_nominated": 13,
-    "oscars_won": 7,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Actress in a Leading Role",
-      "Best Actress in a Supporting Role",
-      "Best Writing, Screenplay Written Directly for the Screen",
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design",
-      "Best Music, Original Musical or Comedy Score"
-    ],
-    "description": "The world's greatest ever playwright, William Shakespeare, is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120815/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shakespeare_in_love"
-  },
-  {
-    "title": "The Big Lebowski",
-    "year": 1998,
-    "director": {
-      "name": "Joel Coen, Ethan Coen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
-    },
-    "production_studio": "PolyGram Filmed Entertainment, Working Title Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 46.7,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Jeff Bridges",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
-      },
-      {
-        "name": "John Goodman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000422/"
-      },
-      {
-        "name": "Julianne Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Jeff 'The Dude' Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0118715/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_big_lebowski"
-  },
-  {
-    "title": "Life Is Beautiful",
-    "year": 1997,
-    "director": {
-      "name": "Roberto Benigni",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
-    },
-    "production_studio": "Miramax, Melampo Cinematografica",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 230.1,
-    "ratings": {
-      "imdb": 8.6,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "96%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Roberto Benigni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
-      },
-      {
-        "name": "Nicoletta Braschi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000973/"
-      },
-      {
-        "name": "Giorgio Cantarini",
-        "imdb_person_url": "https://www.imdb.com/name/nm0134448/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role",
-      "Best Foreign Language Film",
-      "Best Music, Original Dramatic Score"
-    ],
-    "description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0118799/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1084398-life_is_beautiful"
-  },
-  {
-    "title": "Lock, Stock and Two Smoking Barrels",
-    "year": 1998,
-    "director": {
-      "name": "Guy Ritchie",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005363/"
-    },
-    "production_studio": "SKA Films, The Steve Tisch Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 1.35,
-    "gross_revenue_usd_millions": 28.1,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Jason Flemyng",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002076/"
-      },
-      {
-        "name": "Dexter Fletcher",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001219/"
-      },
-      {
-        "name": "Nick Moran",
-        "imdb_person_url": "https://www.imdb.com/name/nm0602901/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A botched card game in London triggers four friends, thugs, weed-growers, hard-core debt collectors, loan sharks and mobsters to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120735/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lock_stock_and_two_smoking_barrels"
   },
   {
     "title": "Armageddon",
@@ -328,443 +161,36 @@
       "name": "Michael Bay",
       "imdb_person_url": "https://www.imdb.com/name/nm0000881/"
     },
-    "production_studio": "Touchstone Pictures, Jerry Bruckheimer Films",
+    "production_studio": "Touchstone Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 151,
     "budget_usd_millions": 140,
     "gross_revenue_usd_millions": 553.7,
     "ratings": {
       "imdb": 6.7,
-      "rotten_tomatoes_critic": "38%",
+      "rotten_tomatoes_critic": "43%",
       "rotten_tomatoes_popcorn": "73%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Bruce Willis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
-      },
-      {
-        "name": "Billy Bob Thornton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000671/"
-      },
-      {
-        "name": "Ben Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000255/"
-      }
+      { "name": "Bruce Willis", "imdb_person_url": "https://www.imdb.com/name/nm0000246/" },
+      { "name": "Ben Affleck", "imdb_person_url": "https://www.imdb.com/name/nm0000255/" },
+      { "name": "Liv Tyler", "imdb_person_url": "https://www.imdb.com/name/nm0000239/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After discovering that an asteroid the size of Texas is going to impact Earth in less than a month, NASA recruits a misfit team of deep-core drillers to save the planet.",
+    "description": "After discovering that an asteroid the size of Texas is going to impact Earth in less than a month, NASA recruits a misfit team of deep core drillers to save the planet.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0120591/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/armageddon"
   },
   {
-    "title": "The Thin Red Line",
-    "year": 1998,
-    "director": {
-      "name": "Terrence Malick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000517/"
-    },
-    "production_studio": "20th Century Fox, Phoenix Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 170,
-    "budget_usd_millions": 52,
-    "gross_revenue_usd_millions": 98.1,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Sean Penn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
-      },
-      {
-        "name": "Jim Caviezel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001029/"
-      },
-      {
-        "name": "Nick Nolte",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000560/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120863/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thin_red_line"
-  },
-  {
-    "title": "The Parent Trap",
-    "year": 1998,
-    "director": {
-      "name": "Nancy Meyers",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001525/"
-    },
-    "production_studio": "Walt Disney Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 92.1,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Lindsay Lohan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005148/"
-      },
-      {
-        "name": "Dennis Quaid",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000598/"
-      },
-      {
-        "name": "Natasha Richardson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001670/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Identical twins separated at birth and each raised by one of their biological parents, discover each other for the first time at summer camp and make a plan to bring their parents back together.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120783/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1083957-parent_trap"
-  },
-  {
-    "title": "Rushmore",
-    "year": 1998,
-    "director": {
-      "name": "Wes Anderson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000762/"
-    },
-    "production_studio": "Touchstone Pictures, American Empirical Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 19.1,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jason Schwartzman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005403/"
-      },
-      {
-        "name": "Bill Murray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000195/"
-      },
-      {
-        "name": "Olivia Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005541/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The extracurricular king of Rushmore preparatory school is put on academic probation, and then falls in love with a teacher, leading to a war between him and a wealthy industrialist.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0128445/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rushmore"
-  },
-  {
-    "title": "The X Files",
-    "year": 1998,
-    "director": {
-      "name": "Rob Bowman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0101389/"
-    },
-    "production_studio": "20th Century Fox, Ten Thirteen Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 66,
-    "gross_revenue_usd_millions": 189.2,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "66%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "David Duchovny",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000141/"
-      },
-      {
-        "name": "Gillian Anderson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000096/"
-      },
-      {
-        "name": "John Neville",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002166/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Mulder and Scully must fight the government in a conspiracy and find the truth about an alien colonization of Earth.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120902/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/x_files_the_movie"
-  },
-  {
-    "title": "Blade",
-    "year": 1998,
-    "director": {
-      "name": "Stephen Norrington",
-      "imdb_person_url": "https://www.imdb.com/name/nm0635647/"
-    },
-    "production_studio": "New Line Cinema, Marvel Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 45,
-    "gross_revenue_usd_millions": 131.2,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "58%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Action",
-      "Horror",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Wesley Snipes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000648/"
-      },
-      {
-        "name": "Stephen Dorff",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001151/"
-      },
-      {
-        "name": "Kris Kristofferson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001434/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120611/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1083484-blade"
-  },
-  {
-    "title": "Pi",
-    "year": 1998,
-    "director": {
-      "name": "Darren Aronofsky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004716/"
-    },
-    "production_studio": "Protozoa Pictures, Truth and Soul Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 84,
-    "budget_usd_millions": 0.06,
-    "gross_revenue_usd_millions": 3.2,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Sean Gullette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0347851/"
-      },
-      {
-        "name": "Mark Margolis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002199/"
-      },
-      {
-        "name": "Ben Shenkman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0791555/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120784/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pi"
-  },
-  {
-    "title": "Pleasantville",
-    "year": 1998,
-    "director": {
-      "name": "Gary Ross",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002657/"
-    },
-    "production_studio": "New Line Cinema, Larger Than Life Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 60,
-    "gross_revenue_usd_millions": 49.8,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Tobey Maguire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001497/"
-      },
-      {
-        "name": "Jeff Daniels",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001099/"
-      },
-      {
-        "name": "Joan Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000260/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two 1990s teenage siblings find themselves in a 1950s sitcom, where their influence begins to profoundly change that complacent world.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120789/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pleasantville"
-  },
-  {
-    "title": "A Bug's Life",
-    "year": 1998,
-    "director": {
-      "name": "John Lasseter, Andrew Stanton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005124/"
-    },
-    "production_studio": "Pixar Animation Studios, Walt Disney Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 120,
-    "gross_revenue_usd_millions": 363.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Dave Foley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002078/"
-      },
-      {
-        "name": "Kevin Spacey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000228/"
-      },
-      {
-        "name": "Julia Louis-Dreyfus",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000506/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A misfit ant, looking for 'warriors' to save his colony from greedy grasshoppers, recruits a group of bungling circus bugs.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120623/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bugs_life"
-  },
-  {
-    "title": "The Wedding Singer",
-    "year": 1998,
-    "director": {
-      "name": "Frank Coraci",
-      "imdb_person_url": "https://www.imdb.com/name/nm0178978/"
-    },
-    "production_studio": "New Line Cinema, Juno Pix",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 123.3,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Music",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Adam Sandler",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001191/"
-      },
-      {
-        "name": "Drew Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000106/"
-      },
-      {
-        "name": "Christine Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005481/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In 1985, a wedding singer and a waitress are both engaged to the wrong people, but they fall for each other.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120888/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wedding_singer"
-  },
-  {
     "title": "There's Something About Mary",
     "year": 1998,
     "director": {
-      "name": "Bobby Farrelly, Peter Farrelly",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004904/"
+      "name": "Bobby Farrelly & Peter Farrelly",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004909/"
     },
     "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
@@ -774,296 +200,52 @@
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "61%"
+      "rotten_tomatoes_popcorn": "58%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "Cameron Diaz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000139/"
-      },
-      {
-        "name": "Matt Dillon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000369/"
-      },
-      {
-        "name": "Ben Stiller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001774/"
-      }
+      { "name": "Cameron Diaz", "imdb_person_url": "https://www.imdb.com/name/nm0000139/" },
+      { "name": "Matt Dillon", "imdb_person_url": "https://www.imdb.com/name/nm0000369/" },
+      { "name": "Ben Stiller", "imdb_person_url": "https://www.imdb.com/name/nm0001774/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
     "description": "A man gets a chance to meet up with his dream girl from high school, even though his date with her back then was a complete disaster.",
-    "afi_ranking": 27,
+    "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0129387/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/theres_something_about_mary"
   },
   {
-    "title": "Enemy of the State",
+    "title": "Lock, Stock and Two Smoking Barrels",
     "year": 1998,
     "director": {
-      "name": "Tony Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
+      "name": "Guy Ritchie",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005363/"
     },
-    "production_studio": "Touchstone Pictures, Jerry Bruckheimer Films",
+    "production_studio": "PolyGram Filmed Entertainment",
     "mpaa_rating": "R",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 90,
-    "gross_revenue_usd_millions": 250.8,
+    "runtime_minutes": 107,
+    "budget_usd_millions": 1.35,
+    "gross_revenue_usd_millions": 28.1,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
+    "genres": ["Action", "Comedy", "Crime"],
     "actors": [
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
-      },
-      {
-        "name": "Jon Voight",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000685/"
-      }
+      { "name": "Jason Flemyng", "imdb_person_url": "https://www.imdb.com/name/nm0002076/" },
+      { "name": "Dexter Fletcher", "imdb_person_url": "https://www.imdb.com/name/nm0002077/" },
+      { "name": "Jason Statham", "imdb_person_url": "https://www.imdb.com/name/nm0005458/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A lawyer becomes a target by a corrupt politician and his N.S.A. goons when he accidentally receives key evidence to a politically motivated crime.",
+    "description": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120660/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enemy_of_the_state"
-  },
-  {
-    "title": "You've Got Mail",
-    "year": 1998,
-    "director": {
-      "name": "Nora Ephron",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001185/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 65,
-    "gross_revenue_usd_millions": 250.8,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Tom Hanks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
-      },
-      {
-        "name": "Meg Ryan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000212/"
-      },
-      {
-        "name": "Greg Kinnear",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001427/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two business rivals who despise each other in real life unwittingly fall in love over the Internet.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0128853/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/youve_got_mail"
-  },
-  {
-    "title": "Dark City",
-    "year": 1998,
-    "director": {
-      "name": "Alex Proyas",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
-    },
-    "production_studio": "New Line Cinema, Mystery Clock Cinema",
-    "mpaa_rating": "R",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 27,
-    "gross_revenue_usd_millions": 27.2,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Fantasy",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Rufus Sewell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001722/"
-      },
-      {
-        "name": "William Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
-      },
-      {
-        "name": "Kiefer Sutherland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000662/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man struggles with memories of his past, including a wife he cannot remember, in a dark city with no sun, which is run by beings with telekinetic powers who seek the souls of humans.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0118929/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_city"
-  },
-  {
-    "title": "Mulan",
-    "year": 1998,
-    "director": {
-      "name": "Tony Bancroft, Barry Cook",
-      "imdb_person_url": "https://www.imdb.com/name/nm0051944/"
-    },
-    "production_studio": "Walt Disney Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 90,
-    "gross_revenue_usd_millions": 304.3,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Ming-Na Wen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001840/"
-      },
-      {
-        "name": "Eddie Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000552/"
-      },
-      {
-        "name": "BD Wong",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000699/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120762/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mulan"
-  },
-  {
-    "title": "The Mask of Zorro",
-    "year": 1998,
-    "director": {
-      "name": "Martin Campbell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001004/"
-    },
-    "production_studio": "TriStar Pictures, Amblin Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 136,
-    "budget_usd_millions": 95,
-    "gross_revenue_usd_millions": 250.3,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Antonio Banderas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000104/"
-      },
-      {
-        "name": "Anthony Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
-      },
-      {
-        "name": "Catherine Zeta-Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001876/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young thief, seeking revenge over the death of his brother, is trained by the original Zorro and prepares to take on the mantle of the legendary hero.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120746/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mask_of_zorro"
-  },
-  {
-    "title": "Pi",
-    "year": 1998,
-    "director": {
-      "name": "Darren Aronofsky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004716/"
-    },
-    "production_studio": "Protozoa Pictures, Truth and Soul Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 84,
-    "budget_usd_millions": 0.06,
-    "gross_revenue_usd_millions": 3.2,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Sean Gullette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0347851/"
-      },
-      {
-        "name": "Mark Margolis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002199/"
-      },
-      {
-        "name": "Ben Shenkman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0791555/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120784/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pi"
+    "imdb_url": "https://www.imdb.com/title/tt0120735/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lock_stock_and_two_smoking_barrels"
   },
   {
     "title": "Fear and Loathing in Las Vegas",
@@ -1072,34 +254,21 @@
       "name": "Terry Gilliam",
       "imdb_person_url": "https://www.imdb.com/name/nm0000416/"
     },
-    "production_studio": "Universal Pictures, Rhino Films",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 118,
     "budget_usd_millions": 18.5,
-    "gross_revenue_usd_millions": 13.7,
+    "gross_revenue_usd_millions": 10.7,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "51%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Drama"
-    ],
+    "genres": ["Adventure", "Comedy", "Drama"],
     "actors": [
-      {
-        "name": "Johnny Depp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
-      },
-      {
-        "name": "Benicio Del Toro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001125/"
-      },
-      {
-        "name": "Tobey Maguire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001497/"
-      }
+      { "name": "Johnny Depp", "imdb_person_url": "https://www.imdb.com/name/nm0000136/" },
+      { "name": "Benicio Del Toro", "imdb_person_url": "https://www.imdb.com/name/nm0000367/" },
+      { "name": "Tobey Maguire", "imdb_person_url": "https://www.imdb.com/name/nm0000513/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1110,318 +279,261 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fear_and_loathing_in_las_vegas"
   },
   {
-    "title": "Out of Sight",
+    "title": "Rushmore",
     "year": 1998,
     "director": {
-      "name": "Steven Soderbergh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001752/"
+      "name": "Wes Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0027563/"
     },
-    "production_studio": "Universal Pictures, Jersey Films",
+    "production_studio": "Touchstone Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 48,
-    "gross_revenue_usd_millions": 77.7,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "George Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Jennifer Lopez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000182/"
-      },
-      {
-        "name": "Ving Rhames",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000609/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A career bank robber breaks out of jail and shares a moment of mutual attraction with a U.S. Marshal he has kidnapped.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120780/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/out_of_sight"
-  },
-  {
-    "title": "Run Lola Run",
-    "year": 1998,
-    "director": {
-      "name": "Tom Tykwer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002202/"
-    },
-    "production_studio": "X-Filme Creative Pool",
-    "mpaa_rating": "R",
-    "runtime_minutes": 80,
-    "budget_usd_millions": 1.75,
-    "gross_revenue_usd_millions": 14.5,
+    "runtime_minutes": 93,
+    "budget_usd_millions": 9,
+    "gross_revenue_usd_millions": 17.1,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_critic": "90%",
       "rotten_tomatoes_popcorn": "91%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Comedy", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Franka Potente",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001633/"
-      },
-      {
-        "name": "Moritz Bleibtreu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0088210/"
-      },
-      {
-        "name": "Herbert Knaup",
-        "imdb_person_url": "https://www.imdb.com/name/nm0460910/"
-      }
+      { "name": "Jason Schwartzman", "imdb_person_url": "https://www.imdb.com/name/nm0005403/" },
+      { "name": "Bill Murray", "imdb_person_url": "https://www.imdb.com/name/nm0000195/" },
+      { "name": "Olivia Williams", "imdb_person_url": "https://www.imdb.com/name/nm0931404/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After a botched money delivery, a young woman has 20 minutes to come up with 100,000 Deutschmarks.",
+    "description": "The extracurricular king of Rushmore Preparatory School is put on academic probation.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0130827/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/run_lola_run"
+    "imdb_url": "https://www.imdb.com/title/tt0128445/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rushmore"
   },
   {
-    "title": "Rush Hour",
+    "title": "Mulan",
     "year": 1998,
     "director": {
-      "name": "Brett Ratner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002621/"
+      "name": "Tony Bancroft & Barry Cook",
+      "imdb_person_url": "https://www.imdb.com/name/nm0051637/"
     },
-    "production_studio": "New Line Cinema, Roger Birnbaum Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 98,
-    "budget_usd_millions": 33,
-    "gross_revenue_usd_millions": 244.4,
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 90,
+    "gross_revenue_usd_millions": 304.3,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "62%",
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Animation", "Adventure", "Family"],
+    "actors": [
+      { "name": "Ming-Na Wen", "imdb_person_url": "https://www.imdb.com/name/nm0001840/" },
+      { "name": "Eddie Murphy", "imdb_person_url": "https://www.imdb.com/name/nm0000552/" },
+      { "name": "BD Wong", "imdb_person_url": "https://www.imdb.com/name/nm0000699/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120762/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1083225-mulan"
+  },
+  {
+    "title": "A Bug's Life",
+    "year": 1998,
+    "director": {
+      "name": "John Lasseter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005124/"
+    },
+    "production_studio": "Pixar",
+    "mpaa_rating": "G",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 120,
+    "gross_revenue_usd_millions": 363.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Kevin Spacey", "imdb_person_url": "https://www.imdb.com/name/nm0000228/" },
+      { "name": "Dave Foley", "imdb_person_url": "https://www.imdb.com/name/nm0004930/" },
+      { "name": "Julia Louis-Dreyfus", "imdb_person_url": "https://www.imdb.com/name/nm0000506/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A misfit ant, looking for \"warriors\" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120623/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bugs_life"
+  },
+  {
+    "title": "The Thin Red Line",
+    "year": 1998,
+    "director": {
+      "name": "Terrence Malick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000517/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 170,
+    "budget_usd_millions": 52,
+    "gross_revenue_usd_millions": 98.1,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Drama", "War"],
+    "actors": [
+      { "name": "Jim Caviezel", "imdb_person_url": "https://www.imdb.com/name/nm0001029/" },
+      { "name": "Sean Penn", "imdb_person_url": "https://www.imdb.com/name/nm0000576/" },
+      { "name": "Nick Nolte", "imdb_person_url": "https://www.imdb.com/name/nm0000560/" }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120863/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thin_red_line"
+  },
+  {
+    "title": "Blade",
+    "year": 1998,
+    "director": {
+      "name": "Stephen Norrington",
+      "imdb_person_url": "https://www.imdb.com/name/nm0635700/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 45,
+    "gross_revenue_usd_millions": 131.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "58%",
       "rotten_tomatoes_popcorn": "78%"
     },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
+    "genres": ["Action", "Horror", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Jackie Chan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000329/"
-      },
-      {
-        "name": "Chris Tucker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "Ken Leung",
-        "imdb_person_url": "https://www.imdb.com/name/nm0504953/"
-      }
+      { "name": "Wesley Snipes", "imdb_person_url": "https://www.imdb.com/name/nm0000227/" },
+      { "name": "Stephen Dorff", "imdb_person_url": "https://www.imdb.com/name/nm0001151/" },
+      { "name": "Kris Kristofferson", "imdb_person_url": "https://www.imdb.com/name/nm0001434/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+    "description": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120812/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rush_hour"
+    "imdb_url": "https://www.imdb.com/title/tt0120611/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1083484-blade"
   },
   {
-    "title": "The Negotiator",
+    "title": "The Mask of Zorro",
     "year": 1998,
     "director": {
-      "name": "F. Gary Gray",
-      "imdb_person_url": "https://www.imdb.com/name/nm0336620/"
+      "name": "Martin Campbell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0132709/"
     },
-    "production_studio": "Warner Bros., Regency Enterprises",
-    "mpaa_rating": "R",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 88,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Samuel L. Jackson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000168/"
-      },
-      {
-        "name": "Kevin Spacey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000228/"
-      },
-      {
-        "name": "David Morse",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001556/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In a desperate attempt to prove his innocence, a skilled police negotiator accused of corruption and murder takes hostages in a government office to gain the time he needs to find the truth.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120768/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/negotiator"
-  },
-  {
-    "title": "A Simple Plan",
-    "year": 1998,
-    "director": {
-      "name": "Sam Raimi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
-    },
-    "production_studio": "Paramount Pictures, Mutual Film Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 16.3,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Bill Paxton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000200/"
-      },
-      {
-        "name": "Billy Bob Thornton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000671/"
-      },
-      {
-        "name": "Bridget Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Three blue-collar acquaintances come across a crashed plane containing $4.4 million in cash and decide to keep it, but their plan goes horribly wrong.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120324/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_simple_plan"
-  },
-  {
-    "title": "A Civil Action",
-    "year": 1998,
-    "director": {
-      "name": "Steven Zaillian",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001873/"
-    },
-    "production_studio": "Touchstone Pictures, Paramount Pictures",
+    "production_studio": "TriStar Pictures",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 75,
-    "gross_revenue_usd_millions": 56.7,
+    "runtime_minutes": 136,
+    "budget_usd_millions": 95,
+    "gross_revenue_usd_millions": 250.3,
     "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "61%"
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "73%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Action", "Adventure", "Romance"],
     "actors": [
-      {
-        "name": "John Travolta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "Robert Duvall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
-      },
-      {
-        "name": "Tony Shalhoub",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001724/"
-      }
+      { "name": "Antonio Banderas", "imdb_person_url": "https://www.imdb.com/name/nm0000104/" },
+      { "name": "Anthony Hopkins", "imdb_person_url": "https://www.imdb.com/name/nm0000164/" },
+      { "name": "Catherine Zeta-Jones", "imdb_person_url": "https://www.imdb.com/name/nm0001876/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A tenacious lawyer takes on a case involving a polluting tannery.",
+    "description": "A young thief, seeking revenge for the death of his brother, is trained by the once great, but aged Zorro, who also pursues vengeance of his own.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120633/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_civil_action"
+    "imdb_url": "https://www.imdb.com/title/tt0120746/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mask_of_zorro"
   },
   {
-    "title": "Enemy of the State",
+    "title": "Elizabeth",
     "year": 1998,
     "director": {
-      "name": "Tony Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
+      "name": "Shekhar Kapur",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001408/"
     },
-    "production_studio": "Touchstone Pictures, Jerry Bruckheimer Films",
+    "production_studio": "PolyGram Filmed Entertainment",
     "mpaa_rating": "R",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 90,
-    "gross_revenue_usd_millions": 250.8,
+    "runtime_minutes": 124,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 82.1,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
+    "genres": ["Biography", "Drama", "History"],
     "actors": [
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
-      },
-      {
-        "name": "Jon Voight",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000685/"
-      }
+      { "name": "Cate Blanchett", "imdb_person_url": "https://www.imdb.com/name/nm0000949/" },
+      { "name": "Geoffrey Rush", "imdb_person_url": "https://www.imdb.com/name/nm0001691/" },
+      { "name": "Christopher Eccleston", "imdb_person_url": "https://www.imdb.com/name/nm0001172/" }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Makeup"],
+    "description": "The early years of the reign of Elizabeth I of England and her difficult task of learning what is necessary to be a monarch.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0127536/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/elizabeth"
+  },
+  {
+    "title": "Dark City",
+    "year": 1998,
+    "director": {
+      "name": "Alex Proyas",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 27,
+    "gross_revenue_usd_millions": 27.2,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Fantasy", "Mystery", "Sci-Fi"],
+    "actors": [
+      { "name": "Rufus Sewell", "imdb_person_url": "https://www.imdb.com/name/nm0001722/" },
+      { "name": "Kiefer Sutherland", "imdb_person_url": "https://www.imdb.com/name/nm0000662/" },
+      { "name": "Jennifer Connelly", "imdb_person_url": "https://www.imdb.com/name/nm0000124/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A lawyer becomes a target by a corrupt politician and his N.S.A. goons when he accidentally receives key evidence to a politically motivated crime.",
+    "description": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120660/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enemy_of_the_state"
+    "imdb_url": "https://www.imdb.com/title/tt0118929/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_city"
   },
   {
     "title": "Out of Sight",
     "year": 1998,
     "director": {
       "name": "Steven Soderbergh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001752/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000649/"
     },
-    "production_studio": "Universal Pictures, Jersey Films",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 123,
     "budget_usd_millions": 48,
@@ -1429,31 +541,18 @@
     "ratings": {
       "imdb": 7.0,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "74%"
     },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Comedy", "Crime", "Drama"],
     "actors": [
-      {
-        "name": "George Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Jennifer Lopez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000182/"
-      },
-      {
-        "name": "Ving Rhames",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000609/"
-      }
+      { "name": "George Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0000123/" },
+      { "name": "Jennifer Lopez", "imdb_person_url": "https://www.imdb.com/name/nm0000182/" },
+      { "name": "Ving Rhames", "imdb_person_url": "https://www.imdb.com/name/nm0000609/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A career bank robber breaks out of jail and shares a moment of mutual attraction with a U.S. Marshal he has kidnapped.",
+    "description": "A career bank robber breaks out of jail and shares a moment of mutual attraction with a US Marshal he has kidnapped.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0120780/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/out_of_sight"
@@ -1465,7 +564,7 @@
       "name": "John Frankenheimer",
       "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
     },
-    "production_studio": "United Artists, FGM Entertainment",
+    "production_studio": "United Artists",
     "mpaa_rating": "R",
     "runtime_minutes": 122,
     "budget_usd_millions": 55,
@@ -1473,129 +572,307 @@
     "ratings": {
       "imdb": 7.2,
       "rotten_tomatoes_critic": "70%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Action", "Crime", "Thriller"],
     "actors": [
-      {
-        "name": "Robert De Niro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-      },
-      {
-        "name": "Jean Reno",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
-      },
-      {
-        "name": "Natascha McElhone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001532/"
-      }
+      { "name": "Robert De Niro", "imdb_person_url": "https://www.imdb.com/name/nm0000134/" },
+      { "name": "Jean Reno", "imdb_person_url": "https://www.imdb.com/name/nm0000606/" },
+      { "name": "Natascha McElhone", "imdb_person_url": "https://www.imdb.com/name/nm0001527/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A freelancing former U.S. intelligence agent tries to track down a mysterious package that is wanted by the Irish and the Russians.",
+    "description": "A freelancing former U.S. Intelligence Agent tries to track down a mysterious package that is wanted by the Irish and the Russians.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0122690/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ronin"
   },
   {
-    "title": "The Mask of Zorro",
+    "title": "Rounders",
     "year": 1998,
     "director": {
-      "name": "Martin Campbell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001004/"
+      "name": "John Dahl",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001100/"
     },
-    "production_studio": "TriStar Pictures, Amblin Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 136,
-    "budget_usd_millions": 95,
-    "gross_revenue_usd_millions": 250.3,
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 12,
+    "gross_revenue_usd_millions": 22.9,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
+    "genres": ["Crime", "Drama"],
     "actors": [
-      {
-        "name": "Antonio Banderas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000104/"
-      },
-      {
-        "name": "Anthony Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
-      },
-      {
-        "name": "Catherine Zeta-Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001876/"
-      }
+      { "name": "Matt Damon", "imdb_person_url": "https://www.imdb.com/name/nm0000354/" },
+      { "name": "Edward Norton", "imdb_person_url": "https://www.imdb.com/name/nm0001570/" },
+      { "name": "Gretchen Mol", "imdb_person_url": "https://www.imdb.com/name/nm0001543/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young man is a reformed gambler who must return to playing big stakes poker to help a friend pay off loan sharks.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0128442/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rounders"
+  },
+  {
+    "title": "Pleasantville",
+    "year": 1998,
+    "director": {
+      "name": "Gary Ross",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002657/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 60,
+    "gross_revenue_usd_millions": 49.8,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "actors": [
+      { "name": "Tobey Maguire", "imdb_person_url": "https://www.imdb.com/name/nm0000513/" },
+      { "name": "Reese Witherspoon", "imdb_person_url": "https://www.imdb.com/name/nm0000702/" },
+      { "name": "William H. Macy", "imdb_person_url": "https://www.imdb.com/name/nm0000513/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two 1990s teenage siblings find themselves in a 1950s sitcom where their influence begins to profoundly change the complacent world of the show.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120789/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pleasantville"
+  },
+  {
+    "title": "The Wedding Singer",
+    "year": 1998,
+    "director": {
+      "name": "Frank Coraci",
+      "imdb_person_url": "https://www.imdb.com/name/nm0179070/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 18,
+    "gross_revenue_usd_millions": 123.3,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Comedy", "Music", "Romance"],
+    "actors": [
+      { "name": "Adam Sandler", "imdb_person_url": "https://www.imdb.com/name/nm0001191/" },
+      { "name": "Drew Barrymore", "imdb_person_url": "https://www.imdb.com/name/nm0000106/" },
+      { "name": "Christine Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0005480/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Robbie, a singer, and Julia, a waitress, are both engaged, but to the wrong people. Fortune intervenes to help them discover each other.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120888/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wedding_singer"
+  },
+  {
+    "title": "Enemy of the State",
+    "year": 1998,
+    "director": {
+      "name": "Tony Scott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000634/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 132,
+    "budget_usd_millions": 90,
+    "gross_revenue_usd_millions": 250.6,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Action", "Thriller"],
+    "actors": [
+      { "name": "Will Smith", "imdb_person_url": "https://www.imdb.com/name/nm0000226/" },
+      { "name": "Gene Hackman", "imdb_person_url": "https://www.imdb.com/name/nm0000431/" },
+      { "name": "Jon Voight", "imdb_person_url": "https://www.imdb.com/name/nm0000685/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lawyer becomes targeted by a corrupt politician and his N.S.A. goons when he accidentally receives key evidence to a serious politically motivated crime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120660/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enemy_of_the_state"
+  },
+  {
+    "title": "Deep Impact",
+    "year": 1998,
+    "director": {
+      "name": "Mimi Leder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002160/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 75,
+    "gross_revenue_usd_millions": 349.5,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "45%",
+      "rotten_tomatoes_popcorn": "43%"
+    },
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "actors": [
+      { "name": "Robert Duvall", "imdb_person_url": "https://www.imdb.com/name/nm0000377/" },
+      { "name": "Téa Leoni", "imdb_person_url": "https://www.imdb.com/name/nm0000495/" },
+      { "name": "Elijah Wood", "imdb_person_url": "https://www.imdb.com/name/nm0000704/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A comet is discovered to be on a collision course with Earth. As doomsday nears, the human race prepares for the worst.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120647/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/deep_impact"
+  },
+  {
+    "title": "Godzilla",
+    "year": 1998,
+    "director": {
+      "name": "Roland Emmerich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000386/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 139,
+    "budget_usd_millions": 130,
+    "gross_revenue_usd_millions": 379,
+    "ratings": {
+      "imdb": 5.4,
+      "rotten_tomatoes_critic": "15%",
+      "rotten_tomatoes_popcorn": "28%"
+    },
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "actors": [
+      { "name": "Matthew Broderick", "imdb_person_url": "https://www.imdb.com/name/nm0000111/" },
+      { "name": "Jean Reno", "imdb_person_url": "https://www.imdb.com/name/nm0000606/" },
+      { "name": "Maria Pitillo", "imdb_person_url": "https://www.imdb.com/name/nm0005314/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A giant, reptilian monster surfaces, leaving destruction in its wake as it strides into New York City. To stop it, an earthworm scientist, his reporter ex-girlfriend, and other unlikely heroes team up to save their city.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120685/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/godzilla_1998"
+  },
+  {
+    "title": "The Parent Trap",
+    "year": 1998,
+    "director": {
+      "name": "Nancy Meyers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0583600/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 15.5,
+    "gross_revenue_usd_millions": 92.1,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "actors": [
+      { "name": "Lindsay Lohan", "imdb_person_url": "https://www.imdb.com/name/nm0517820/" },
+      { "name": "Dennis Quaid", "imdb_person_url": "https://www.imdb.com/name/nm0000209/" },
+      { "name": "Natasha Richardson", "imdb_person_url": "https://www.imdb.com/name/nm0001669/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Identical twins Hallie and Annie are separated after their parents' divorce. Years later, they discover each other at a summer camp and decide to switch places to reunite their parents.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120783/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1083481-parent_trap"
+  },
+  {
+    "title": "You've Got Mail",
+    "year": 1998,
+    "director": {
+      "name": "Nora Ephron",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001188/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 65,
+    "gross_revenue_usd_millions": 250.8,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Tom Hanks", "imdb_person_url": "https://www.imdb.com/name/nm0000158/" },
+      { "name": "Meg Ryan", "imdb_person_url": "https://www.imdb.com/name/nm0000212/" },
+      { "name": "Greg Kinnear", "imdb_person_url": "https://www.imdb.com/name/nm0000477/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Book superstore magnate Joe Fox and independent book shop owner Kathleen Kelly fall in love in the anonymity of the Internet, both unaware that he's trying to put her out of business.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0128853/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/youve_got_mail"
+  },
+  {
+    "title": "Primary Colors",
+    "year": 1998,
+    "director": {
+      "name": "Mike Nichols",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001566/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 143,
+    "budget_usd_millions": 65,
+    "gross_revenue_usd_millions": 52,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "John Travolta", "imdb_person_url": "https://www.imdb.com/name/nm0000237/" },
+      { "name": "Emma Thompson", "imdb_person_url": "https://www.imdb.com/name/nm0000668/" },
+      { "name": "Kathy Bates", "imdb_person_url": "https://www.imdb.com/name/nm0000291/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young thief, seeking revenge over the death of his brother, is trained by the original Zorro and prepares to take on the mantle of the legendary hero.",
+    "description": "A man joins the political campaign of a smooth-operator candidate for President of the USA.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120746/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mask_of_zorro"
-  },
-  {
-    "title": "Patch Adams",
-    "year": 1998,
-    "director": {
-      "name": "Tom Shadyac",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001723/"
-    },
-    "production_studio": "Universal Pictures, Blue Wolf Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 202.3,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "22%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Robin Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
-      },
-      {
-        "name": "Daniel London",
-        "imdb_person_url": "https://www.imdb.com/name/nm0518742/"
-      },
-      {
-        "name": "Monica Potter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of a heroic man, Hunter 'Patch' Adams, who determined to become a medical doctor because he enjoys helping people. He ventured where no doctor had ventured before, using humor and pathos.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0129290/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/patch_adams"
+    "imdb_url": "https://www.imdb.com/title/tt0119942/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/primary_colors"
   },
   {
     "title": "The Prince of Egypt",
     "year": 1998,
     "director": {
-      "name": "Brenda Chapman, Steve Hickner, Simon Wells",
-      "imdb_person_url": "https://www.imdb.com/name/nm0152317/"
+      "name": "Brenda Chapman & Steve Hickner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0152312/"
     },
     "production_studio": "DreamWorks Animation",
     "mpaa_rating": "PG",
@@ -1604,44 +881,556 @@
     "gross_revenue_usd_millions": 218.6,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_critic": "79%",
       "rotten_tomatoes_popcorn": "80%"
     },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Animation", "Adventure", "Drama"],
     "actors": [
-      {
-        "name": "Val Kilmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000174/"
-      },
-      {
-        "name": "Ralph Fiennes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000146/"
-      },
-      {
-        "name": "Michelle Pfeiffer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
-      }
+      { "name": "Val Kilmer", "imdb_person_url": "https://www.imdb.com/name/nm0000174/" },
+      { "name": "Ralph Fiennes", "imdb_person_url": "https://www.imdb.com/name/nm0000146/" },
+      { "name": "Michelle Pfeiffer", "imdb_person_url": "https://www.imdb.com/name/nm0000201/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song"
-    ],
-    "description": "An Egyptian prince learns of his identity as a Hebrew and his destiny to become the chosen deliverer of his people.",
+    "oscars_won_details": ["Best Music, Original Song"],
+    "description": "Egyptian Prince Moses learns of his identity as a Hebrew and his destiny to become the chosen deliverer of his people.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0120794/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/prince_of_egypt"
+  },
+  {
+    "title": "Antz",
+    "year": 1998,
+    "director": {
+      "name": "Eric Darnell & Tim Johnson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0201602/"
+    },
+    "production_studio": "DreamWorks Animation",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 60,
+    "gross_revenue_usd_millions": 171.8,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "52%"
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Woody Allen", "imdb_person_url": "https://www.imdb.com/name/nm0000095/" },
+      { "name": "Sharon Stone", "imdb_person_url": "https://www.imdb.com/name/nm0000232/" },
+      { "name": "Gene Hackman", "imdb_person_url": "https://www.imdb.com/name/nm0000431/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A rather neurotic ant tries to break from his totalitarian society while trying to win the affection of the princess he loves.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120587/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/antz"
+  },
+  {
+    "title": "City of Angels",
+    "year": 1998,
+    "director": {
+      "name": "Brad Silberling",
+      "imdb_person_url": "https://www.imdb.com/name/nm0797868/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 55,
+    "gross_revenue_usd_millions": 198.7,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "actors": [
+      { "name": "Nicolas Cage", "imdb_person_url": "https://www.imdb.com/name/nm0000115/" },
+      { "name": "Meg Ryan", "imdb_person_url": "https://www.imdb.com/name/nm0000212/" },
+      { "name": "Andre Braugher", "imdb_person_url": "https://www.imdb.com/name/nm0000312/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An angel who guides the souls of the recently deceased to the afterlife falls in love with a doctor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120632/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/city_of_angels"
+  },
+  {
+    "title": "What Dreams May Come",
+    "year": 1998,
+    "director": {
+      "name": "Vincent Ward",
+      "imdb_person_url": "https://www.imdb.com/name/nm0911910/"
+    },
+    "production_studio": "PolyGram Filmed Entertainment",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 85,
+    "gross_revenue_usd_millions": 75.4,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "53%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "actors": [
+      { "name": "Robin Williams", "imdb_person_url": "https://www.imdb.com/name/nm0000245/" },
+      { "name": "Cuba Gooding Jr.", "imdb_person_url": "https://www.imdb.com/name/nm0000421/" },
+      { "name": "Annabella Sciorra", "imdb_person_url": "https://www.imdb.com/name/nm0001715/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Effects, Visual Effects"],
+    "description": "Chris Nielsen dies in an accident, and enters Heaven. But when he finds out that his beloved wife Annie has killed herself out of grief and embarked on a journey to Hell, he embarks on his own journey to save her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120889/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/what_dreams_may_come"
+  },
+  {
+    "title": "Meet Joe Black",
+    "year": 1998,
+    "director": {
+      "name": "Martin Brest",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000976/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 178,
+    "budget_usd_millions": 90,
+    "gross_revenue_usd_millions": 142.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "45%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "actors": [
+      { "name": "Brad Pitt", "imdb_person_url": "https://www.imdb.com/name/nm0000093/" },
+      { "name": "Anthony Hopkins", "imdb_person_url": "https://www.imdb.com/name/nm0000164/" },
+      { "name": "Claire Forlani", "imdb_person_url": "https://www.imdb.com/name/nm0001231/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Death, who takes the form of a young man, asks a media mogul to act as a guide to teach him about life on Earth, and in the process, he falls in love with his guide's daughter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0119738/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/meet_joe_black"
+  },
+  {
+    "title": "Patch Adams",
+    "year": 1998,
+    "director": {
+      "name": "Tom Shadyac",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001724/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 90,
+    "gross_revenue_usd_millions": 202.3,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "21%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Biography", "Comedy", "Drama"],
+    "actors": [
+      { "name": "Robin Williams", "imdb_person_url": "https://www.imdb.com/name/nm0000245/" },
+      { "name": "Daniel London", "imdb_person_url": "https://www.imdb.com/name/nm0518698/" },
+      { "name": "Monica Potter", "imdb_person_url": "https://www.imdb.com/name/nm0005321/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The true story of a heroic man, Hunter \"Patch\" Adams, determined to become a medical doctor because he enjoys helping people. He ventured where no doctor had ventured before, using humor and pathos.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0129290/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/patch_adams"
+  },
+  {
+    "title": "Lethal Weapon 4",
+    "year": 1998,
+    "director": {
+      "name": "Richard Donner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000373/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 140,
+    "gross_revenue_usd_millions": 285.4,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "52%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Action", "Crime", "Thriller"],
+    "actors": [
+      { "name": "Mel Gibson", "imdb_person_url": "https://www.imdb.com/name/nm0000154/" },
+      { "name": "Danny Glover", "imdb_person_url": "https://www.imdb.com/name/nm0000418/" },
+      { "name": "Jet Li", "imdb_person_url": "https://www.imdb.com/name/nm0001472/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "With personal crises and age weighing in on them, LAPD officers Riggs and Murtaugh must contend with deadly Chinese triads that are trying to free their former leaders out of prison and onto American soil.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0122151/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lethal_weapon_4"
+  },
+  {
+    "title": "The Waterboy",
+    "year": 1998,
+    "director": {
+      "name": "Frank Coraci",
+      "imdb_person_url": "https://www.imdb.com/name/nm0179070/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 23,
+    "gross_revenue_usd_millions": 190,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "32%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": ["Comedy", "Sport"],
+    "actors": [
+      { "name": "Adam Sandler", "imdb_person_url": "https://www.imdb.com/name/nm0001191/" },
+      { "name": "Kathy Bates", "imdb_person_url": "https://www.imdb.com/name/nm0000291/" },
+      { "name": "Henry Winkler", "imdb_person_url": "https://www.imdb.com/name/nm0000698/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A college football team's waterboy discovers that he has a unique tackling ability and becomes a member of the team.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120484/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/waterboy"
+  },
+  {
+    "title": "Wild Things",
+    "year": 1998,
+    "director": {
+      "name": "John McNaughton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0573696/"
+    },
+    "production_studio": "Mandalay Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 20,
+    "gross_revenue_usd_millions": 67.2,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Kevin Bacon", "imdb_person_url": "https://www.imdb.com/name/nm0000102/" },
+      { "name": "Neve Campbell", "imdb_person_url": "https://www.imdb.com/name/nm0000118/" },
+      { "name": "Matt Dillon", "imdb_person_url": "https://www.imdb.com/name/nm0000369/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A police detective uncovers a conspiracy behind a case involving a high-school guidance counselor when accusations of rape are made against him by two female students.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120517/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wild_things"
+  },
+  {
+    "title": "Pi",
+    "year": 1998,
+    "director": {
+      "name": "Darren Aronofsky",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004716/"
+    },
+    "production_studio": "Protozoa Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 84,
+    "budget_usd_millions": 0.06,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Drama", "Horror", "Mystery"],
+    "actors": [
+      { "name": "Sean Gullette", "imdb_person_url": "https://www.imdb.com/name/nm0347808/" },
+      { "name": "Mark Margolis", "imdb_person_url": "https://www.imdb.com/name/nm0546797/" },
+      { "name": "Ben Shenkman", "imdb_person_url": "https://www.imdb.com/name/nm0791570/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0138704/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pi"
+  },
+  {
+    "title": "Buffalo '66",
+    "year": 1998,
+    "director": {
+      "name": "Vincent Gallo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000412/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.4,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "actors": [
+      { "name": "Vincent Gallo", "imdb_person_url": "https://www.imdb.com/name/nm0000412/" },
+      { "name": "Christina Ricci", "imdb_person_url": "https://www.imdb.com/name/nm0000207/" },
+      { "name": "Ben Gazzara", "imdb_person_url": "https://www.imdb.com/name/nm0001262/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Billy Brown, fresh out of jail, kidnaps a young woman and forces her to pretend to be his wife when he visits his parents.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118789/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/buffalo_66"
+  },
+  {
+    "title": "A Simple Plan",
+    "year": 1998,
+    "director": {
+      "name": "Sam Raimi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 17,
+    "gross_revenue_usd_millions": 16.3,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Bill Paxton", "imdb_person_url": "https://www.imdb.com/name/nm0000575/" },
+      { "name": "Billy Bob Thornton", "imdb_person_url": "https://www.imdb.com/name/nm0001796/" },
+      { "name": "Bridget Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000402/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three acquaintances find a plane crash and a bag containing over $4 million in cash, and try to keep the money for themselves.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120324/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/simple_plan"
+  },
+  {
+    "title": "Gods and Monsters",
+    "year": 1998,
+    "director": {
+      "name": "Bill Condon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0174374/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 6.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Biography", "Drama"],
+    "actors": [
+      { "name": "Ian McKellen", "imdb_person_url": "https://www.imdb.com/name/nm0005212/" },
+      { "name": "Brendan Fraser", "imdb_person_url": "https://www.imdb.com/name/nm0000409/" },
+      { "name": "Lynn Redgrave", "imdb_person_url": "https://www.imdb.com/name/nm0001655/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Writing, Screenplay Based on Material Previously Produced or Published"],
+    "description": "The last days of Frankenstein director James Whale are explored.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120684/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gods_and_monsters"
+  },
+  {
+    "title": "Happiness",
+    "year": 1998,
+    "director": {
+      "name": "Todd Solondz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005449/"
+    },
+    "production_studio": "Good Machine",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Jane Adams", "imdb_person_url": "https://www.imdb.com/name/nm0011063/" },
+      { "name": "Philip Seymour Hoffman", "imdb_person_url": "https://www.imdb.com/name/nm0000450/" },
+      { "name": "Dylan Baker", "imdb_person_url": "https://www.imdb.com/name/nm0048414/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The lives of several individuals intersect as they try to find happiness and make connections with the people they love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0147612/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/happiness"
+  },
+  {
+    "title": "The Faculty",
+    "year": 1998,
+    "director": {
+      "name": "Robert Rodriguez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
+    },
+    "production_studio": "Dimension Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 40.3,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "56%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": ["Horror", "Mystery", "Sci-Fi"],
+    "actors": [
+      { "name": "Jordana Brewster", "imdb_person_url": "https://www.imdb.com/name/nm0108287/" },
+      { "name": "Clea DuVall", "imdb_person_url": "https://www.imdb.com/name/nm0245112/" },
+      { "name": "Laura Harris", "imdb_person_url": "https://www.imdb.com/name/nm0364978/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Students at Herrington High suspect their teachers are aliens from another planet.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0133751/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/faculty"
+  },
+  {
+    "title": "Small Soldiers",
+    "year": 1998,
+    "director": {
+      "name": "Joe Dante",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001102/"
+    },
+    "production_studio": "DreamWorks",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 40,
+    "gross_revenue_usd_millions": 71.1,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "49%",
+      "rotten_tomatoes_popcorn": "48%"
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Kirsten Dunst", "imdb_person_url": "https://www.imdb.com/name/nm0000379/" },
+      { "name": "Gregory Smith", "imdb_person_url": "https://www.imdb.com/name/nm0808376/" },
+      { "name": "David Cross", "imdb_person_url": "https://www.imdb.com/name/nm0002025/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When missile technology is used to enhance toy action figures, the toys soon begin to take their battle programming too seriously.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0122718/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/small_soldiers"
+  },
+  {
+    "title": "Velvet Goldmine",
+    "year": 1998,
+    "director": {
+      "name": "Todd Haynes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004450/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 7,
+    "gross_revenue_usd_millions": 1,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "61%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Drama", "Music"],
+    "actors": [
+      { "name": "Ewan McGregor", "imdb_person_url": "https://www.imdb.com/name/nm0000191/" },
+      { "name": "Jonathan Rhys Meyers", "imdb_person_url": "https://www.imdb.com/name/nm0001667/" },
+      { "name": "Christian Bale", "imdb_person_url": "https://www.imdb.com/name/nm0000288/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1984, a British journalist investigates the world of 1970s glam rock icon Brian Slade, who was at the peak of his career when he faked his own death.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120879/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/velvet_goldmine"
+  },
+  {
+    "title": "He Got Game",
+    "year": 1998,
+    "director": {
+      "name": "Spike Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 136,
+    "budget_usd_millions": 25,
+    "gross_revenue_usd_millions": 21.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Drama", "Sport"],
+    "actors": [
+      { "name": "Denzel Washington", "imdb_person_url": "https://www.imdb.com/name/nm0000243/" },
+      { "name": "Ray Allen", "imdb_person_url": "https://www.imdb.com/name/nm0020941/" },
+      { "name": "Milla Jovovich", "imdb_person_url": "https://www.imdb.com/name/nm0000170/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A prisoner is granted temporary parole to convince his basketball star son to go to the governor's alma mater.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120690/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/he_got_game"
   },
   {
     "title": "Ever After: A Cinderella Story",
     "year": 1998,
     "director": {
       "name": "Andy Tennant",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002220/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0855027/"
     },
     "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
@@ -1651,77 +1440,113 @@
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "84%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Drew Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000106/"
-      },
-      {
-        "name": "Anjelica Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001378/"
-      },
-      {
-        "name": "Dougray Scott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001712/"
-      }
+      { "name": "Drew Barrymore", "imdb_person_url": "https://www.imdb.com/name/nm0000106/" },
+      { "name": "Anjelica Huston", "imdb_person_url": "https://www.imdb.com/name/nm0001378/" },
+      { "name": "Dougray Scott", "imdb_person_url": "https://www.imdb.com/name/nm0779065/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The classic fairy tale of Cinderella is given a new twist in this romantic drama.",
+    "description": "The Brothers Grimm arrive at the home of a wealthy Grande Dame who speaks of the many legends surrounding the fable of the cinder girl before telling the \"true\" story of her ancestor.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0120631/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ever_after_a_cinderella_story"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ever_after"
   },
   {
-    "title": "Deep Impact",
+    "title": "The Negotiator",
     "year": 1998,
     "director": {
-      "name": "Mimi Leder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005128/"
+      "name": "F. Gary Gray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0336562/"
     },
-    "production_studio": "Paramount Pictures, DreamWorks",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 80,
-    "gross_revenue_usd_millions": 349.5,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 44.5,
     "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "45%",
-      "rotten_tomatoes_popcorn": "41%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "79%"
     },
-    "genres": [
-      "Action",
-      "Drama",
-      "Sci-Fi"
-    ],
+    "genres": ["Action", "Crime", "Drama"],
     "actors": [
-      {
-        "name": "Robert Duvall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
-      },
-      {
-        "name": "Téa Leoni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000495/"
-      },
-      {
-        "name": "Elijah Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000704/"
-      }
+      { "name": "Samuel L. Jackson", "imdb_person_url": "https://www.imdb.com/name/nm0000168/" },
+      { "name": "Kevin Spacey", "imdb_person_url": "https://www.imdb.com/name/nm0000228/" },
+      { "name": "David Morse", "imdb_person_url": "https://www.imdb.com/name/nm0001556/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A comet is discovered to be on a collision course with Earth. As doomsday nears, the human race prepares for the worst.",
+    "description": "In a desperate attempt to prove his innocence, a skilled police negotiator accused of corruption and murder takes hostages in a government office to gain the time he needs to find the truth.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120647/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/deep_impact"
+    "imdb_url": "https://www.imdb.com/title/tt0120768/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/negotiator"
+  },
+  {
+    "title": "Practical Magic",
+    "year": 1998,
+    "director": {
+      "name": "Griffin Dunne",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 75,
+    "gross_revenue_usd_millions": 68.3,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "23%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "actors": [
+      { "name": "Sandra Bullock", "imdb_person_url": "https://www.imdb.com/name/nm0000113/" },
+      { "name": "Nicole Kidman", "imdb_person_url": "https://www.imdb.com/name/nm0000173/" },
+      { "name": "Stockard Channing", "imdb_person_url": "https://www.imdb.com/name/nm0000329/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two witch sisters, raised by their eccentric aunts in a small town, face closed-minded prejudice and a curse that threatens to prevent them from ever finding lasting love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120791/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/practical_magic"
+  },
+  {
+    "title": "Bulworth",
+    "year": 1998,
+    "director": {
+      "name": "Warren Beatty",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000886/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 29.2,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Warren Beatty", "imdb_person_url": "https://www.imdb.com/name/nm0000886/" },
+      { "name": "Halle Berry", "imdb_person_url": "https://www.imdb.com/name/nm0000107/" },
+      { "name": "Kimberly Deauna Adams", "imdb_person_url": "https://www.imdb.com/name/nm0011127/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A suicidal politician puts a contract out on himself and takes the opportunity to be brutally honest with his voters.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118798/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bulworth"
   }
 ]

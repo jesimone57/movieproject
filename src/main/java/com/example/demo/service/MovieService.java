@@ -13,6 +13,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
@@ -129,6 +130,22 @@ public class MovieService {
     public List<Movie> getAllMovies() {
         return filterMovies(null, null, null, null, null,
                 null, null, null, null, null);
+    }
+
+    public List<String> getAllGenres() {
+        // Use streams and lambdas to flatten all movie genres, remove blanks, de-duplicate, and sort
+        return this.movies.stream()
+                .filter(Objects::nonNull)
+                .flatMap(m -> {
+                    List<String> genres = m.getGenres();
+                    return genres == null ? Stream.<String>empty() : genres.stream();
+                })
+                .filter(Objects::nonNull)
+                .map(String::trim)
+                .filter(s -> !s.isEmpty())
+                .distinct()
+                .sorted()
+                .toList();
     }
 
     public List<Movie> getMovieByPartialTitle(String title, String sort) {

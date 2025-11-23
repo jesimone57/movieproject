@@ -1,142 +1,313 @@
 [
   {
-    "title": "Brokeback Mountain",
-    "year": 2005,
-    "director": {
-      "name": "Ang Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
-    },
-    "production_studio": "Focus Features, River Road Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 14,
-    "gross_revenue_usd_millions": 178.1,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "82%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Heath Ledger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005132/"
-      },
-      {
-        "name": "Jake Gyllenhaal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0350453/"
-      },
-      {
-        "name": "Michelle Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005547/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Director",
-      "Best Adapted Screenplay",
-      "Best Original Score"
-    ],
-    "description": "The story of a forbidden and secret relationship between two cowboys, and their lives over the years.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0388795/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/brokeback_mountain"
-  },
-  {
-    "title": "Crash",
-    "year": 2004,
-    "director": {
-      "name": "Paul Haggis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0353685/"
-    },
-    "production_studio": "Lions Gate Films, Bob Yari Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 6.5,
-    "gross_revenue_usd_millions": 98.4,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Don Cheadle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000332/"
-      },
-      {
-        "name": "Sandra Bullock",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000113/"
-      },
-      {
-        "name": "Thandiwe Newton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0628601/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Original Screenplay",
-      "Best Film Editing"
-    ],
-    "description": "Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0375679/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crash"
-  },
-  {
     "title": "Batman Begins",
     "year": 2005,
     "director": {
       "name": "Christopher Nolan",
       "imdb_person_url": "https://www.imdb.com/name/nm0634240/"
     },
-    "production_studio": "Warner Bros., DC Comics",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 140,
     "budget_usd_millions": 150,
-    "gross_revenue_usd_millions": 373.7,
+    "gross_revenue_usd_millions": 371.9,
     "ratings": {
       "imdb": 8.2,
-      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_critic": "84%",
       "rotten_tomatoes_popcorn": "94%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Action", "Crime", "Drama"],
     "actors": [
-      {
-        "name": "Christian Bale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
-      },
-      {
-        "name": "Michael Caine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
-      },
-      {
-        "name": "Ken Watanabe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0913822/"
-      }
+      { "name": "Christian Bale", "imdb_person_url": "https://www.imdb.com/name/nm0000288/" },
+      { "name": "Michael Caine", "imdb_person_url": "https://www.imdb.com/name/nm0000323/" },
+      { "name": "Liam Neeson", "imdb_person_url": "https://www.imdb.com/name/nm0000553/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After training with his mentor, Bruce Wayne begins his fight to free crime-ridden Gotham City from corruption.",
+    "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0372784/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/batman_begins"
+  },
+  {
+    "title": "Brokeback Mountain",
+    "year": 2005,
+    "director": {
+      "name": "Ang Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
+    },
+    "production_studio": "Focus Features",
+    "mpaa_rating": "R",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 14,
+    "gross_revenue_usd_millions": 178.1,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Heath Ledger", "imdb_person_url": "https://www.imdb.com/name/nm0005132/" },
+      { "name": "Jake Gyllenhaal", "imdb_person_url": "https://www.imdb.com/name/nm0350453/" },
+      { "name": "Michelle Williams", "imdb_person_url": "https://www.imdb.com/name/nm0931329/" }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": ["Best Director", "Best Adapted Screenplay", "Best Original Score"],
+    "description": "Ennis and Jack are two shepherds who develop a sexual and emotional relationship. Their relationship becomes complicated when both of them get married to their respective girlfriends.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0388795/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/brokeback_mountain"
+  },
+  {
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "year": 2005,
+    "director": {
+      "name": "George Lucas",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
+    },
+    "production_studio": "Lucasfilm",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 113,
+    "gross_revenue_usd_millions": 868.4,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "actors": [
+      { "name": "Hayden Christensen", "imdb_person_url": "https://www.imdb.com/name/nm0159789/" },
+      { "name": "Ewan McGregor", "imdb_person_url": "https://www.imdb.com/name/nm0000191/" },
+      { "name": "Natalie Portman", "imdb_person_url": "https://www.imdb.com/name/nm0000204/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0121766/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/star_wars_episode_iii_revenge_of_the_sith"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "director": {
+      "name": "Mike Newell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001564/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 157,
+    "budget_usd_millions": 150,
+    "gross_revenue_usd_millions": 896.4,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Adventure", "Family", "Fantasy"],
+    "actors": [
+      { "name": "Daniel Radcliffe", "imdb_person_url": "https://www.imdb.com/name/nm0705356/" },
+      { "name": "Emma Watson", "imdb_person_url": "https://www.imdb.com/name/nm0914612/" },
+      { "name": "Rupert Grint", "imdb_person_url": "https://www.imdb.com/name/nm0342488/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0330373/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harry_potter_and_the_goblet_of_fire"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": 2005,
+    "director": {
+      "name": "Andrew Adamson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0011458/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 143,
+    "budget_usd_millions": 180,
+    "gross_revenue_usd_millions": 745,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": ["Adventure", "Family", "Fantasy"],
+    "actors": [
+      { "name": "Tilda Swinton", "imdb_person_url": "https://www.imdb.com/name/nm0842770/" },
+      { "name": "Georgie Henley", "imdb_person_url": "https://www.imdb.com/name/nm1670137/" },
+      { "name": "William Moseley", "imdb_person_url": "https://www.imdb.com/name/nm1450990/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Makeup"],
+    "description": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0363771/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chronicles_of_narnia_the_lion_the_witch_and_the_wardrobe"
+  },
+  {
+    "title": "King Kong",
+    "year": 2005,
+    "director": {
+      "name": "Peter Jackson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 187,
+    "budget_usd_millions": 207,
+    "gross_revenue_usd_millions": 556.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "actors": [
+      { "name": "Naomi Watts", "imdb_person_url": "https://www.imdb.com/name/nm0915208/" },
+      { "name": "Jack Black", "imdb_person_url": "https://www.imdb.com/name/nm0085312/" },
+      { "name": "Adrien Brody", "imdb_person_url": "https://www.imdb.com/name/nm0004778/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 3,
+    "oscars_won_details": ["Best Sound Editing", "Best Sound Mixing", "Best Visual Effects"],
+    "description": "A greedy film producer assembles a team of moviemakers and employs them for a new location shoot. Is he planning to film a movie, or is there a darker agenda?",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0360717/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/king_kong_2005"
+  },
+  {
+    "title": "V for Vendetta",
+    "year": 2005,
+    "director": {
+      "name": "James McTeigue",
+      "imdb_person_url": "https://www.imdb.com/name/nm0574612/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 132,
+    "budget_usd_millions": 54,
+    "gross_revenue_usd_millions": 132.5,
+    "ratings": {
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": ["Action", "Drama", "Sci-Fi"],
+    "actors": [
+      { "name": "Hugo Weaving", "imdb_person_url": "https://www.imdb.com/name/nm0915989/" },
+      { "name": "Natalie Portman", "imdb_person_url": "https://www.imdb.com/name/nm0000204/" },
+      { "name": "Rupert Graves", "imdb_person_url": "https://www.imdb.com/name/nm0001295/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0434409/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/v_for_vendetta"
+  },
+  {
+    "title": "Sin City",
+    "year": 2005,
+    "director": {
+      "name": "Frank Miller & Robert Rodriguez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
+    },
+    "production_studio": "Dimension Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 40,
+    "gross_revenue_usd_millions": 158.7,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": ["Crime", "Thriller"],
+    "actors": [
+      { "name": "Mickey Rourke", "imdb_person_url": "https://www.imdb.com/name/nm0000619/" },
+      { "name": "Clive Owen", "imdb_person_url": "https://www.imdb.com/name/nm0654110/" },
+      { "name": "Bruce Willis", "imdb_person_url": "https://www.imdb.com/name/nm0000246/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A movie that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0401792/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sin_city"
+  },
+  {
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "director": {
+      "name": "Joe Wright",
+      "imdb_person_url": "https://www.imdb.com/name/nm0942504/"
+    },
+    "production_studio": "Focus Features",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 129,
+    "budget_usd_millions": 28,
+    "gross_revenue_usd_millions": 121.6,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Keira Knightley", "imdb_person_url": "https://www.imdb.com/name/nm0461136/" },
+      { "name": "Matthew Macfadyen", "imdb_person_url": "https://www.imdb.com/name/nm0532193/" },
+      { "name": "Brenda Blethyn", "imdb_person_url": "https://www.imdb.com/name/nm0000950/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0414387/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1153070-pride_and_prejudice"
+  },
+  {
+    "title": "Crash",
+    "year": 2005,
+    "director": {
+      "name": "Paul Haggis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0353673/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 6.5,
+    "gross_revenue_usd_millions": 98.4,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Don Cheadle", "imdb_person_url": "https://www.imdb.com/name/nm0000332/" },
+      { "name": "Sandra Bullock", "imdb_person_url": "https://www.imdb.com/name/nm0000113/" },
+      { "name": "Thandiwe Newton", "imdb_person_url": "https://www.imdb.com/name/nm0628601/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 3,
+    "oscars_won_details": ["Best Picture", "Best Original Screenplay", "Best Film Editing"],
+    "description": "Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0375679/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1144992-crash"
   },
   {
     "title": "Good Night, and Good Luck.",
@@ -145,7 +316,7 @@
       "name": "George Clooney",
       "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
     },
-    "production_studio": "Warner Independent Pictures, 2929 Productions",
+    "production_studio": "Warner Independent Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 93,
     "budget_usd_millions": 7,
@@ -153,26 +324,13 @@
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
+    "genres": ["Biography", "Drama", "History"],
     "actors": [
-      {
-        "name": "David Strathairn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000657/"
-      },
-      {
-        "name": "George Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Patricia Clarkson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001049/"
-      }
+      { "name": "David Strathairn", "imdb_person_url": "https://www.imdb.com/name/nm0000657/" },
+      { "name": "George Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0000123/" },
+      { "name": "Patricia Clarkson", "imdb_person_url": "https://www.imdb.com/name/nm0165101/" }
     ],
     "oscars_nominated": 6,
     "oscars_won": 0,
@@ -189,41 +347,26 @@
       "name": "Bennett Miller",
       "imdb_person_url": "https://www.imdb.com/name/nm0587955/"
     },
-    "production_studio": "Sony Pictures Classics, A-Line Pictures",
+    "production_studio": "United Artists",
     "mpaa_rating": "R",
     "runtime_minutes": 114,
     "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 49.2,
+    "gross_revenue_usd_millions": 49.9,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "80%"
     },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Biography", "Crime", "Drama"],
     "actors": [
-      {
-        "name": "Philip Seymour Hoffman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000450/"
-      },
-      {
-        "name": "Catherine Keener",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001416/"
-      },
-      {
-        "name": "Clifton Collins Jr.",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001069/"
-      }
+      { "name": "Philip Seymour Hoffman", "imdb_person_url": "https://www.imdb.com/name/nm0000450/" },
+      { "name": "Catherine Keener", "imdb_person_url": "https://www.imdb.com/name/nm0001416/" },
+      { "name": "Clifton Collins Jr.", "imdb_person_url": "https://www.imdb.com/name/nm0004834/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actor in a Leading Role"
-    ],
-    "description": "In 1959, Truman Capote learns of the murder of a Kansas family and decides to write a book about the case. While researching for his novel In Cold Blood, Capote forms a relationship with one of the killers, Perry Smith, who is on death row.",
+    "oscars_won_details": ["Best Actor"],
+    "description": "In 1959, Truman Capote learns of the murder of a Kansas family and decides to write a book about the case.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0379725/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/capote"
@@ -235,307 +378,29 @@
       "name": "James Mangold",
       "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
     },
-    "production_studio": "20th Century Fox, Fox 2000 Pictures",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 136,
     "budget_usd_millions": 28,
-    "gross_revenue_usd_millions": 186.8,
+    "gross_revenue_usd_millions": 186.4,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
+    "genres": ["Biography", "Drama", "Music"],
     "actors": [
-      {
-        "name": "Joaquin Phoenix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
-      },
-      {
-        "name": "Reese Witherspoon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000702/"
-      },
-      {
-        "name": "Ginnifer Goodwin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0329481/"
-      }
+      { "name": "Joaquin Phoenix", "imdb_person_url": "https://www.imdb.com/name/nm0001618/" },
+      { "name": "Reese Witherspoon", "imdb_person_url": "https://www.imdb.com/name/nm0000702/" },
+      { "name": "Ginnifer Goodwin", "imdb_person_url": "https://www.imdb.com/name/nm0329481/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actress in a Leading Role"
-    ],
-    "description": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he embarked on his long and turbulent love affair with June Carter.",
+    "oscars_won_details": ["Best Actress"],
+    "description": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0358273/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/walk_the_line"
-  },
-  {
-    "title": "Pride & Prejudice",
-    "year": 2005,
-    "director": {
-      "name": "Joe Wright",
-      "imdb_person_url": "https://www.imdb.com/name/nm0942484/"
-    },
-    "production_studio": "Focus Features, Universal Pictures, StudioCanal",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 28,
-    "gross_revenue_usd_millions": 121.6,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Keira Knightley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0461136/"
-      },
-      {
-        "name": "Matthew Macfadyen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0532193/"
-      },
-      {
-        "name": "Brenda Blethyn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000949/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0414387/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pride_and_prejudice"
-  },
-  {
-    "title": "A History of Violence",
-    "year": 2005,
-    "director": {
-      "name": "David Cronenberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
-    },
-    "production_studio": "New Line Cinema, Media I! Filmproduktion",
-    "mpaa_rating": "R",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 32,
-    "gross_revenue_usd_millions": 60.8,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Viggo Mortensen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001557/"
-      },
-      {
-        "name": "Maria Bello",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000895/"
-      },
-      {
-        "name": "Ed Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000438/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A pillar of a small town's life is caught up in violence when his mysterious past comes back to haunt him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0399146/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/history_of_violence"
-  },
-  {
-    "title": "Syriana",
-    "year": 2005,
-    "director": {
-      "name": "Stephen Gaghan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0300866/"
-    },
-    "production_studio": "Warner Bros., Participant",
-    "mpaa_rating": "R",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 94,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "George Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Matt Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
-      },
-      {
-        "name": "Amanda Peet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001605/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actor in a Supporting Role"
-    ],
-    "description": "A politically charged thriller about the global oil industry, from the perspectives of a CIA operative, an energy analyst, a Washington lawyer, and a young Pakistani man.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0365737/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/syriana"
-  },
-  {
-    "title": "Match Point",
-    "year": 2005,
-    "director": {
-      "name": "Woody Allen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
-    },
-    "production_studio": "DreamWorks, BBC Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 85.3,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
-      "Romance",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Jonathan Rhys Meyers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001667/"
-      },
-      {
-        "name": "Scarlett Johansson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0424060/"
-      },
-      {
-        "name": "Emily Mortimer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005249/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "At a turning point in his life, a former tennis pro falls for a femme-fatale who happens to be dating his friend and soon-to-be brother-in-law.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0416320/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/match_point"
-  },
-  {
-    "title": "V for Vendetta",
-    "year": 2005,
-    "director": {
-      "name": "James McTeigue",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005213/"
-    },
-    "production_studio": "Warner Bros., Virtual Studios",
-    "mpaa_rating": "R",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 54,
-    "gross_revenue_usd_millions": 132.5,
-    "ratings": {
-      "imdb": 8.2,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Hugo Weaving",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001834/"
-      },
-      {
-        "name": "Natalie Portman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
-      },
-      {
-        "name": "Rupert Graves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001293/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of 'V', plots to overthrow it with the help of a young woman.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0434409/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/v_for_vendetta"
-  },
-  {
-    "title": "Sin City",
-    "year": 2005,
-    "director": {
-      "name": "Frank Miller, Robert Rodriguez, Quentin Tarantino",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000540/"
-    },
-    "production_studio": "Dimension Films, Troublemaker Studios",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 158.8,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "78%"
-    },
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Mickey Rourke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000620/"
-      },
-      {
-        "name": "Clive Owen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001584/"
-      },
-      {
-        "name": "Bruce Willis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An exploration of the dark and miserable Basin City, and three of its residents, all of whom are caught up in violent corruption.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0401792/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sin_city"
   },
   {
     "title": "Munich",
@@ -544,7 +409,7 @@
       "name": "Steven Spielberg",
       "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "Universal Pictures, DreamWorks, Amblin Entertainment",
+    "production_studio": "DreamWorks",
     "mpaa_rating": "R",
     "runtime_minutes": 164,
     "budget_usd_millions": 70,
@@ -552,184 +417,123 @@
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
+    "genres": ["Action", "Drama", "History"],
     "actors": [
-      {
-        "name": "Eric Bana",
-        "imdb_person_url": "https://www.imdb.com/name/nm0051509/"
-      },
-      {
-        "name": "Daniel Craig",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001074/"
-      },
-      {
-        "name": "Ciarán Hinds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001354/"
-      }
+      { "name": "Eric Bana", "imdb_person_url": "https://www.imdb.com/name/nm0051509/" },
+      { "name": "Daniel Craig", "imdb_person_url": "https://www.imdb.com/name/nm0185819/" },
+      { "name": "Geoffrey Rush", "imdb_person_url": "https://www.imdb.com/name/nm0001691/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.",
+    "description": "Based on the true story of the Black September aftermath, about the five men chosen to eliminate the people responsible for that fateful day.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0408306/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/munich"
   },
   {
-    "title": "The Constant Gardener",
+    "title": "A History of Violence",
     "year": 2005,
     "director": {
-      "name": "Fernando Meirelles",
-      "imdb_person_url": "https://www.imdb.com/name/nm0576985/"
+      "name": "David Cronenberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
     },
-    "production_studio": "Focus Features, UK Film Council",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 82.5,
+    "runtime_minutes": 96,
+    "budget_usd_millions": 32,
+    "gross_revenue_usd_millions": 61.4,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "76%"
     },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Romance"
-    ],
+    "genres": ["Action", "Crime", "Drama"],
     "actors": [
-      {
-        "name": "Ralph Fiennes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000146/"
-      },
-      {
-        "name": "Rachel Weisz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001838/"
-      },
-      {
-        "name": "Danny Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
-      }
+      { "name": "Viggo Mortensen", "imdb_person_url": "https://www.imdb.com/name/nm0001557/" },
+      { "name": "Maria Bello", "imdb_person_url": "https://www.imdb.com/name/nm0004741/" },
+      { "name": "Ed Harris", "imdb_person_url": "https://www.imdb.com/name/nm0000438/" }
     ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actress in a Supporting Role"
-    ],
-    "description": "A widower is determined to get to the bottom of a potentially explosive secret involving his wife's murder, big business, and corporate corruption.",
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mild-mannered man becomes a local hero through an act of violence, which sets off repercussions that will shake his family to its very core.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0387131/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/constant_gardener"
+    "imdb_url": "https://www.imdb.com/title/tt0399146/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/history_of_violence"
   },
   {
-    "title": "King Kong",
+    "title": "The 40-Year-Old Virgin",
     "year": 2005,
     "director": {
-      "name": "Peter Jackson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
+      "name": "Judd Apatow",
+      "imdb_person_url": "https://www.imdb.com/name/nm0031976/"
     },
-    "production_studio": "Universal Pictures, WingNut Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 187,
-    "budget_usd_millions": 207,
-    "gross_revenue_usd_millions": 556.9,
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 26,
+    "gross_revenue_usd_millions": 177.4,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "50%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "84%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "Naomi Watts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915208/"
-      },
-      {
-        "name": "Jack Black",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000980/"
-      },
-      {
-        "name": "Adrien Brody",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004778/"
-      }
+      { "name": "Steve Carell", "imdb_person_url": "https://www.imdb.com/name/nm0136797/" },
+      { "name": "Catherine Keener", "imdb_person_url": "https://www.imdb.com/name/nm0001416/" },
+      { "name": "Paul Rudd", "imdb_person_url": "https://www.imdb.com/name/nm0749046/" }
     ],
-    "oscars_nominated": 4,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Sound Mixing",
-      "Best Sound Editing",
-      "Best Visual Effects"
-    ],
-    "description": "A greedy film producer assembles a team of filmmakers and sets out for the infamous Skull Island, where they encounter a giant ape.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Goaded by his buddies, a nerdy electronics store employee who's never had sex encounters a possible girlfriend, but his efforts are hampered by the advice he gets.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0360717/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/king_kong"
+    "imdb_url": "https://www.imdb.com/title/tt0405422/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/40_year_old_virgin"
   },
   {
-    "title": "Memoirs of a Geisha",
+    "title": "Wedding Crashers",
     "year": 2005,
     "director": {
-      "name": "Rob Marshall",
-      "imdb_person_url": "https://www.imdb.com/name/nm0551028/"
+      "name": "David Dobkin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0229636/"
     },
-    "production_studio": "Columbia Pictures, DreamWorks, Spyglass Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 145,
-    "budget_usd_millions": 85,
-    "gross_revenue_usd_millions": 162.2,
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 40,
+    "gross_revenue_usd_millions": 288.5,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "35%",
-      "rotten_tomatoes_popcorn": "82%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "70%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "Ziyi Zhang",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
-      },
-      {
-        "name": "Ken Watanabe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0913822/"
-      },
-      {
-        "name": "Michelle Yeoh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000706/"
-      }
+      { "name": "Owen Wilson", "imdb_person_url": "https://www.imdb.com/name/nm0005562/" },
+      { "name": "Vince Vaughn", "imdb_person_url": "https://www.imdb.com/name/nm0000681/" },
+      { "name": "Christopher Walken", "imdb_person_url": "https://www.imdb.com/name/nm0000686/" }
     ],
-    "oscars_nominated": 6,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Cinematography",
-      "Best Art Direction",
-      "Best Costume Design"
-    ],
-    "description": "The story of a young Japanese girl who is sold by her impoverished family to a geisha house.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "John Beckwith and Jeremy Grey, a pair of committed womanizers who sneak into weddings to take advantage of the romantic tinge in the air, find themselves at odds with one another when John meets and falls for Claire Cleary.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0397535/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/memoirs_of_a_geisha"
+    "imdb_url": "https://www.imdb.com/title/tt0396269/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wedding_crashers"
   },
   {
     "title": "Mr. & Mrs. Smith",
     "year": 2005,
     "director": {
       "name": "Doug Liman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001470/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0510731/"
     },
-    "production_studio": "20th Century Fox, Regency Enterprises",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 120,
     "budget_usd_millions": 110,
@@ -739,24 +543,11 @@
       "rotten_tomatoes_critic": "60%",
       "rotten_tomatoes_popcorn": "58%"
     },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Action", "Comedy", "Crime"],
     "actors": [
-      {
-        "name": "Brad Pitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
-      },
-      {
-        "name": "Angelina Jolie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001401/"
-      },
-      {
-        "name": "Vince Vaughn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000681/"
-      }
+      { "name": "Brad Pitt", "imdb_person_url": "https://www.imdb.com/name/nm0000093/" },
+      { "name": "Angelina Jolie", "imdb_person_url": "https://www.imdb.com/name/nm0001401/" },
+      { "name": "Vince Vaughn", "imdb_person_url": "https://www.imdb.com/name/nm0000681/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -764,51 +555,224 @@
     "description": "A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0356910/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mrs_smith"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mr_and_mrs_smith"
   },
   {
-    "title": "War of the Worlds",
+    "title": "Hitch",
     "year": 2005,
     "director": {
-      "name": "Steven Spielberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
+      "name": "Andy Tennant",
+      "imdb_person_url": "https://www.imdb.com/name/nm0855027/"
     },
-    "production_studio": "Paramount Pictures, DreamWorks, Amblin Entertainment",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 132,
-    "gross_revenue_usd_millions": 603.9,
+    "runtime_minutes": 118,
+    "budget_usd_millions": 70,
+    "gross_revenue_usd_millions": 371.6,
     "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "42%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "61%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
-      },
-      {
-        "name": "Dakota Fanning",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001194/"
-      },
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      }
+      { "name": "Will Smith", "imdb_person_url": "https://www.imdb.com/name/nm0000226/" },
+      { "name": "Eva Mendes", "imdb_person_url": "https://www.imdb.com/name/nm0578949/" },
+      { "name": "Kevin James", "imdb_person_url": "https://www.imdb.com/name/nm0416673/" }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An American dockworker must get his estranged children to safety as the planet is attacked by alien tripod fighting machines.",
+    "description": "A smooth-talking man falls for a hardened columnist while helping a shy accountant woo a beautiful heiress.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0407304/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/war_of_the_worlds"
+    "imdb_url": "https://www.imdb.com/title/tt0386588/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hitch"
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "year": 2005,
+    "director": {
+      "name": "Tim Burton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000318/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 150,
+    "gross_revenue_usd_millions": 475,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": ["Adventure", "Comedy", "Family"],
+    "actors": [
+      { "name": "Johnny Depp", "imdb_person_url": "https://www.imdb.com/name/nm0000136/" },
+      { "name": "Freddie Highmore", "imdb_person_url": "https://www.imdb.com/name/nm1212722/" },
+      { "name": "David Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0446303/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0367594/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/charlie_and_the_chocolate_factory"
+  },
+  {
+    "title": "Corpse Bride",
+    "year": 2005,
+    "director": {
+      "name": "Tim Burton & Mike Johnson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000318/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 77,
+    "budget_usd_millions": 40,
+    "gross_revenue_usd_millions": 118.1,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Animation", "Drama", "Family"],
+    "actors": [
+      { "name": "Johnny Depp", "imdb_person_url": "https://www.imdb.com/name/nm0000136/" },
+      { "name": "Helena Bonham Carter", "imdb_person_url": "https://www.imdb.com/name/nm0000307/" },
+      { "name": "Emily Watson", "imdb_person_url": "https://www.imdb.com/name/nm0001833/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0121164/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/corpse_bride"
+  },
+  {
+    "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "year": 2005,
+    "director": {
+      "name": "Steve Box & Nick Park",
+      "imdb_person_url": "https://www.imdb.com/name/nm0099693/"
+    },
+    "production_studio": "Aardman Animations",
+    "mpaa_rating": "G",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 192.6,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Peter Sallis", "imdb_person_url": "https://www.imdb.com/name/nm0758587/" },
+      { "name": "Helena Bonham Carter", "imdb_person_url": "https://www.imdb.com/name/nm0000307/" },
+      { "name": "Ralph Fiennes", "imdb_person_url": "https://www.imdb.com/name/nm0000146/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Animated Feature"],
+    "description": "Wallace and his loyal dog, Gromit, set out to discover the mystery behind the garden sabotage that plagues their village and threatens the annual giant vegetable growing contest.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0312004/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wallace_and_gromit_curse_of_the_were_rabbit"
+  },
+  {
+    "title": "Serenity",
+    "year": 2005,
+    "director": {
+      "name": "Joss Whedon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0923736/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 39,
+    "gross_revenue_usd_millions": 40.4,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "actors": [
+      { "name": "Nathan Fillion", "imdb_person_url": "https://www.imdb.com/name/nm0277213/" },
+      { "name": "Gina Torres", "imdb_person_url": "https://www.imdb.com/name/nm0868379/" },
+      { "name": "Chiwetel Ejiofor", "imdb_person_url": "https://www.imdb.com/name/nm0252230/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0379786/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/serenity"
+  },
+  {
+    "title": "Kiss Kiss Bang Bang",
+    "year": 2005,
+    "director": {
+      "name": "Shane Black",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000948/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 15.8,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Comedy", "Crime", "Mystery"],
+    "actors": [
+      { "name": "Robert Downey Jr.", "imdb_person_url": "https://www.imdb.com/name/nm0000375/" },
+      { "name": "Val Kilmer", "imdb_person_url": "https://www.imdb.com/name/nm0000174/" },
+      { "name": "Michelle Monaghan", "imdb_person_url": "https://www.imdb.com/name/nm1157358/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A murder mystery brings together a private eye, a struggling actress, and a thief masquerading as an actor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0373469/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kiss_kiss_bang_bang"
+  },
+  {
+    "title": "The Squid and the Whale",
+    "year": 2005,
+    "director": {
+      "name": "Noah Baumbach",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000876/"
+    },
+    "production_studio": "Samuel Goldwyn Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 11.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Jesse Eisenberg", "imdb_person_url": "https://www.imdb.com/name/nm0251986/" },
+      { "name": "Jeff Daniels", "imdb_person_url": "https://www.imdb.com/name/nm0001099/" },
+      { "name": "Laura Linney", "imdb_person_url": "https://www.imdb.com/name/nm0001473/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Follows two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0367089/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/squid_and_the_whale"
   },
   {
     "title": "Jarhead",
@@ -817,42 +781,215 @@
       "name": "Sam Mendes",
       "imdb_person_url": "https://www.imdb.com/name/nm0005222/"
     },
-    "production_studio": "Universal Pictures, Red Wagon Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 125,
     "budget_usd_millions": 72,
-    "gross_revenue_usd_millions": 97.1,
+    "gross_revenue_usd_millions": 97,
     "ratings": {
       "imdb": 7.0,
       "rotten_tomatoes_critic": "61%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_popcorn": "62%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "War"
-    ],
+    "genres": ["Biography", "Drama", "War"],
     "actors": [
-      {
-        "name": "Jake Gyllenhaal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0350453/"
-      },
-      {
-        "name": "Scott MacDonald",
-        "imdb_person_url": "https://www.imdb.com/name/nm0531826/"
-      },
-      {
-        "name": "Peter Sarsgaard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001694/"
-      }
+      { "name": "Jake Gyllenhaal", "imdb_person_url": "https://www.imdb.com/name/nm0350453/" },
+      { "name": "Jamie Foxx", "imdb_person_url": "https://www.imdb.com/name/nm0004937/" },
+      { "name": "Peter Sarsgaard", "imdb_person_url": "https://www.imdb.com/name/nm0765597/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A psychological study of a group of young Marines during the Gulf War.",
+    "description": "A psychological study of operations Desert Shield and Desert Storm during the Gulf War. Through the eyes of a U.S. Marine sniper who struggles to cope with boredom, a sense of isolation, and other issues back home.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0418763/",
+    "imdb_url": "https://www.imdb.com/title/tt0417122/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jarhead"
+  },
+  {
+    "title": "Syriana",
+    "year": 2005,
+    "director": {
+      "name": "Stephen Gaghan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0300865/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 94,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Drama", "Thriller"],
+    "actors": [
+      { "name": "George Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0000123/" },
+      { "name": "Matt Damon", "imdb_person_url": "https://www.imdb.com/name/nm0000354/" },
+      { "name": "Amanda Peet", "imdb_person_url": "https://www.imdb.com/name/nm0001605/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actor in a Supporting Role"],
+    "description": "A politically charged epic about the state of the oil industry in the hands of those personally involved and affected by it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0365737/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/syriana"
+  },
+  {
+    "title": "The Constant Gardener",
+    "year": 2005,
+    "director": {
+      "name": "Fernando Meirelles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0576987/"
+    },
+    "production_studio": "Focus Features",
+    "mpaa_rating": "R",
+    "runtime_minutes": 129,
+    "budget_usd_millions": 25,
+    "gross_revenue_usd_millions": 82.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Drama", "Mystery", "Romance"],
+    "actors": [
+      { "name": "Ralph Fiennes", "imdb_person_url": "https://www.imdb.com/name/nm0000146/" },
+      { "name": "Rachel Weisz", "imdb_person_url": "https://www.imdb.com/name/nm0001838/" },
+      { "name": "Hubert Koundé", "imdb_person_url": "https://www.imdb.com/name/nm0468022/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actress in a Supporting Role"],
+    "description": "A widower is determined to get to the bottom of a potentially explosive secret involving his wife's murder, big business, and corporate corruption.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0387131/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/constant_gardener"
+  },
+  {
+    "title": "Hustle & Flow",
+    "year": 2005,
+    "director": {
+      "name": "Craig Brewer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0108228/"
+    },
+    "production_studio": "MTV Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 23.6,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": ["Crime", "Drama", "Music"],
+    "actors": [
+      { "name": "Terrence Howard", "imdb_person_url": "https://www.imdb.com/name/nm0005024/" },
+      { "name": "Ludacris", "imdb_person_url": "https://www.imdb.com/name/nm0117234/" },
+      { "name": "Anthony Anderson", "imdb_person_url": "https://www.imdb.com/name/nm0026364/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Music, Original Song"],
+    "description": "With help from his friends, a Memphis pimp in a mid-life crisis attempts to become a successful hip-hop emcee.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0410097/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hustle_and_flow"
+  },
+  {
+    "title": "Junebug",
+    "year": 2005,
+    "director": {
+      "name": "Phil Morrison",
+      "imdb_person_url": "https://www.imdb.com/name/nm0607277/"
+    },
+    "production_studio": "Sony Pictures Classics",
+    "mpaa_rating": "R",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 3.4,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Amy Adams", "imdb_person_url": "https://www.imdb.com/name/nm0010736/" },
+      { "name": "Embeth Davidtz", "imdb_person_url": "https://www.imdb.com/name/nm0001110/" },
+      { "name": "Alessandro Nivola", "imdb_person_url": "https://www.imdb.com/name/nm0005273/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dealer in \"outsider\" art travels from Chicago to North Carolina to meet her new in-laws, challenging the equilibrium of this middle-class Southern home.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0418773/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/junebug"
+  },
+  {
+    "title": "The New World",
+    "year": 2005,
+    "director": {
+      "name": "Terrence Malick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000517/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 30.5,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "52%"
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "actors": [
+      { "name": "Colin Farrell", "imdb_person_url": "https://www.imdb.com/name/nm0268199/" },
+      { "name": "Q'orianka Kilcher", "imdb_person_url": "https://www.imdb.com/name/nm1090924/" },
+      { "name": "Christopher Plummer", "imdb_person_url": "https://www.imdb.com/name/nm0001626/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas and Captain John Smith.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0402399/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1153606-new_world"
+  },
+  {
+    "title": "Kingdom of Heaven",
+    "year": 2005,
+    "director": {
+      "name": "Ridley Scott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 144,
+    "budget_usd_millions": 130,
+    "gross_revenue_usd_millions": 218.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "39%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "actors": [
+      { "name": "Orlando Bloom", "imdb_person_url": "https://www.imdb.com/name/nm0089217/" },
+      { "name": "Eva Green", "imdb_person_url": "https://www.imdb.com/name/nm1143262/" },
+      { "name": "Liam Neeson", "imdb_person_url": "https://www.imdb.com/name/nm0000553/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Balian of Ibelin travels to Jerusalem during the Crusades of the 12th century, and there he finds himself as the defender of the city and its people.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0320661/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kingdom_of_heaven"
   },
   {
     "title": "Cinderella Man",
@@ -861,7 +998,7 @@
       "name": "Ron Howard",
       "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
     },
-    "production_studio": "Universal Pictures, Miramax, Imagine Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 144,
     "budget_usd_millions": 88,
@@ -871,24 +1008,11 @@
       "rotten_tomatoes_critic": "80%",
       "rotten_tomatoes_popcorn": "91%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
+    "genres": ["Biography", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
-      },
-      {
-        "name": "Renée Zellweger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000250/"
-      },
-      {
-        "name": "Paul Giamatti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0316079/"
-      }
+      { "name": "Russell Crowe", "imdb_person_url": "https://www.imdb.com/name/nm0000128/" },
+      { "name": "Renée Zellweger", "imdb_person_url": "https://www.imdb.com/name/nm0000250/" },
+      { "name": "Paul Giamatti", "imdb_person_url": "https://www.imdb.com/name/nm0316079/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
@@ -899,182 +1023,499 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cinderella_man"
   },
   {
-    "title": "A History of Violence",
+    "title": "Match Point",
     "year": 2005,
     "director": {
-      "name": "David Cronenberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
     },
-    "production_studio": "New Line Cinema, Media I! Filmproduktion",
+    "production_studio": "BBC Films",
     "mpaa_rating": "R",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 32,
-    "gross_revenue_usd_millions": 60.8,
+    "runtime_minutes": 124,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 85.6,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ],
+    "genres": ["Drama", "Romance", "Thriller"],
     "actors": [
-      {
-        "name": "Viggo Mortensen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001557/"
-      },
-      {
-        "name": "Maria Bello",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000895/"
-      },
-      {
-        "name": "Ed Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000438/"
-      }
+      { "name": "Scarlett Johansson", "imdb_person_url": "https://www.imdb.com/name/nm0424060/" },
+      { "name": "Jonathan Rhys Meyers", "imdb_person_url": "https://www.imdb.com/name/nm0001667/" },
+      { "name": "Emily Mortimer", "imdb_person_url": "https://www.imdb.com/name/nm0607865/" }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A pillar of a small town's life is caught up in violence when his mysterious past comes back to haunt him.",
+    "description": "At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0399146/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/history_of_violence"
+    "imdb_url": "https://www.imdb.com/title/tt0416220/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/match_point"
   },
   {
-    "title": "Walk the Line",
+    "title": "The Descent",
     "year": 2005,
     "director": {
-      "name": "James Mangold",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
+      "name": "Neil Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0551076/"
     },
-    "production_studio": "20th Century Fox, Fox 2000 Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 136,
-    "budget_usd_millions": 28,
-    "gross_revenue_usd_millions": 186.8,
+    "production_studio": "Celador Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 57.1,
     "ratings": {
-      "imdb": 7.8,
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": ["Adventure", "Horror", "Thriller"],
+    "actors": [
+      { "name": "Shauna Macdonald", "imdb_person_url": "https://www.imdb.com/name/nm0531939/" },
+      { "name": "Natalie Mendoza", "imdb_person_url": "https://www.imdb.com/name/nm0579241/" },
+      { "name": "Alex Reid", "imdb_person_url": "https://www.imdb.com/name/nm0717153/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A caving expedition goes horribly wrong, as the explorers become trapped and ultimately pursued by a strange breed of predators.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0435625/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/descent"
+  },
+  {
+    "title": "Constantine",
+    "year": 2005,
+    "director": {
+      "name": "Francis Lawrence",
+      "imdb_person_url": "https://www.imdb.com/name/nm0492760/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 100,
+    "gross_revenue_usd_millions": 230.9,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "46%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Action", "Fantasy", "Horror"],
+    "actors": [
+      { "name": "Keanu Reeves", "imdb_person_url": "https://www.imdb.com/name/nm0000206/" },
+      { "name": "Rachel Weisz", "imdb_person_url": "https://www.imdb.com/name/nm0001838/" },
+      { "name": "Djimon Hounsou", "imdb_person_url": "https://www.imdb.com/name/nm0005023/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Supernatural exorcist and demonologist John Constantine helps a policewoman prove her sister's death was not a suicide, but something more.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0121955/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/constantine"
+  },
+  {
+    "title": "Lord of War",
+    "year": 2005,
+    "director": {
+      "name": "Andrew Niccol",
+      "imdb_person_url": "https://www.imdb.com/name/nm0629272/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 72.6,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Crime", "Drama"],
+    "actors": [
+      { "name": "Nicolas Cage", "imdb_person_url": "https://www.imdb.com/name/nm0000115/" },
+      { "name": "Ethan Hawke", "imdb_person_url": "https://www.imdb.com/name/nm0000160/" },
+      { "name": "Jared Leto", "imdb_person_url": "https://www.imdb.com/name/nm0001467/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0399295/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lord_of_war"
+  },
+  {
+    "title": "Thank You for Smoking",
+    "year": 2005,
+    "director": {
+      "name": "Jason Reitman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0718647/"
+    },
+    "production_studio": "Fox Searchlight",
+    "mpaa_rating": "R",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 6.5,
+    "gross_revenue_usd_millions": 39.3,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Aaron Eckhart", "imdb_person_url": "https://www.imdb.com/name/nm0001173/" },
+      { "name": "Cameron Bright", "imdb_person_url": "https://www.imdb.com/name/nm1080974/" },
+      { "name": "Maria Bello", "imdb_person_url": "https://www.imdb.com/name/nm0004741/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Satirical comedy follows the machinations of Big Tobacco's chief spokesman, Nick Naylor, who spins on behalf of cigarettes while trying to remain a role model for his twelve-year-old son.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0427944/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thank_you_for_smoking"
+  },
+  {
+    "title": "Hard Candy",
+    "year": 2005,
+    "director": {
+      "name": "David Slade",
+      "imdb_person_url": "https://www.imdb.com/name/nm1147790/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 0.95,
+    "gross_revenue_usd_millions": 8.3,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama", "Thriller"],
+    "actors": [
+      { "name": "Patrick Wilson", "imdb_person_url": "https://www.imdb.com/name/nm0933940/" },
+      { "name": "Elliot Page", "imdb_person_url": "https://www.imdb.com/name/nm0680983/" },
+      { "name": "Sandra Oh", "imdb_person_url": "https://www.imdb.com/name/nm0644970/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A teenage girl raids a man's home in order to expose him as a pedophile.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0424136/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hard_candy"
+  },
+  {
+    "title": "Brick",
+    "year": 2005,
+    "director": {
+      "name": "Rian Johnson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0426059/"
+    },
+    "production_studio": "Focus Features",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 0.45,
+    "gross_revenue_usd_millions": 3.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "actors": [
+      { "name": "Joseph Gordon-Levitt", "imdb_person_url": "https://www.imdb.com/name/nm0330687/" },
+      { "name": "Lukas Haas", "imdb_person_url": "https://www.imdb.com/name/nm0001305/" },
+      { "name": "Emilie de Ravin", "imdb_person_url": "https://www.imdb.com/name/nm0211087/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0393109/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/brick"
+  },
+  {
+    "title": "Tsotsi",
+    "year": 2005,
+    "director": {
+      "name": "Gavin Hood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004302/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 11.5,
+    "ratings": {
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "82%",
       "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
+    "genres": ["Crime", "Drama"],
     "actors": [
-      {
-        "name": "Joaquin Phoenix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
-      },
-      {
-        "name": "Reese Witherspoon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000702/"
-      },
-      {
-        "name": "Ginnifer Goodwin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0329481/"
-      }
+      { "name": "Presley Chweneyagae", "imdb_person_url": "https://www.imdb.com/name/nm1999355/" },
+      { "name": "Terry Pheto", "imdb_person_url": "https://www.imdb.com/name/nm1999363/" },
+      { "name": "Kenneth Nkosi", "imdb_person_url": "https://www.imdb.com/name/nm1420702/" }
     ],
-    "oscars_nominated": 5,
+    "oscars_nominated": 1,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actress in a Leading Role"
-    ],
-    "description": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he embarked on his long and turbulent love affair with June Carter.",
+    "oscars_won_details": ["Best Foreign Language Film"],
+    "description": "Six days in the violent life of a young Johannesburg gang leader.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0358273/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/walk_the_line"
+    "imdb_url": "https://www.imdb.com/title/tt0468565/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tsotsi"
   },
   {
-    "title": "Munich",
+    "title": "North Country",
     "year": 2005,
     "director": {
-      "name": "Steven Spielberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
+      "name": "Niki Caro",
+      "imdb_person_url": "https://www.imdb.com/name/nm0138917/"
     },
-    "production_studio": "Universal Pictures, DreamWorks, Amblin Entertainment",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
-    "runtime_minutes": 164,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 130.4,
+    "runtime_minutes": 126,
+    "budget_usd_millions": 35,
+    "gross_revenue_usd_millions": 25.2,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Eric Bana",
-        "imdb_person_url": "https://www.imdb.com/name/nm0051509/"
-      },
-      {
-        "name": "Daniel Craig",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001074/"
-      },
-      {
-        "name": "Ciarán Hinds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001354/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0408306/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/munich"
-  },
-  {
-    "title": "Syriana",
-    "year": 2005,
-    "director": {
-      "name": "Stephen Gaghan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0300866/"
-    },
-    "production_studio": "Warner Bros., Participant",
-    "mpaa_rating": "R",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 94,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "George Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Matt Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
-      },
-      {
-        "name": "Amanda Peet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001605/"
-      }
+      { "name": "Charlize Theron", "imdb_person_url": "https://www.imdb.com/name/nm0000232/" },
+      { "name": "Jeremy Renner", "imdb_person_url": "https://www.imdb.com/name/nm0719637/" },
+      { "name": "Frances McDormand", "imdb_person_url": "https://www.imdb.com/name/nm0005200/" }
     ],
     "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actor in a Supporting Role"
-    ],
-    "description": "A politically charged thriller about the global oil industry, from the perspectives of a CIA operative, an energy analyst, a Washington lawyer, and a young Pakistani man.",
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A fictionalized account of the first major successful sexual harassment case in the United States, Jenson v. Eveleth Taconite Co., where a woman who endured a range of abuse while working as a miner filed and won the landmark 1984 lawsuit.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0365737/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/syriana"
+    "imdb_url": "https://www.imdb.com/title/tt0395972/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/north_country"
+  },
+  {
+    "title": "Memoirs of a Geisha",
+    "year": 2005,
+    "director": {
+      "name": "Rob Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0551128/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 145,
+    "budget_usd_millions": 85,
+    "gross_revenue_usd_millions": 162.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "35%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Ziyi Zhang", "imdb_person_url": "https://www.imdb.com/name/nm0955471/" },
+      { "name": "Ken Watanabe", "imdb_person_url": "https://www.imdb.com/name/nm0913822/" },
+      { "name": "Michelle Yeoh", "imdb_person_url": "https://www.imdb.com/name/nm0000706/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 3,
+    "oscars_won_details": ["Best Art Direction", "Best Cinematography", "Best Costume Design"],
+    "description": "Nitta Sayuri reveals how she transcended her fishing-village roots and became one of Japan's most celebrated geishas.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0397535/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/memoirs_of_a_geisha"
+  },
+  {
+    "title": "Madagascar",
+    "year": 2005,
+    "director": {
+      "name": "Eric Darnell & Tom McGrath",
+      "imdb_person_url": "https://www.imdb.com/name/nm0201602/"
+    },
+    "production_studio": "DreamWorks Animation",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 75,
+    "gross_revenue_usd_millions": 542,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "55%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Chris Rock", "imdb_person_url": "https://www.imdb.com/name/nm0001674/" },
+      { "name": "Ben Stiller", "imdb_person_url": "https://www.imdb.com/name/nm0001774/" },
+      { "name": "David Schwimmer", "imdb_person_url": "https://www.imdb.com/name/nm0001710/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0351283/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/madagascar"
+  },
+  {
+    "title": "Grizzly Man",
+    "year": 2005,
+    "director": {
+      "name": "Werner Herzog",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000449/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 0,
+    "gross_revenue_usd_millions": 4,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Documentary", "Biography"],
+    "actors": [
+      { "name": "Timothy Treadwell", "imdb_person_url": "https://www.imdb.com/name/nm1421202/" },
+      { "name": "Werner Herzog", "imdb_person_url": "https://www.imdb.com/name/nm0000449/" },
+      { "name": "Amie Huguenard", "imdb_person_url": "https://www.imdb.com/name/nm1953273/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A devastating and heart-rending take on grizzly bear activists Timothy Treadwell and Amie Huguenard, who were killed in October of 2003 while living among bears in Alaska.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0427312/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grizzly_man"
+  },
+  {
+    "title": "The Proposition",
+    "year": 2005,
+    "director": {
+      "name": "John Hillcoat",
+      "imdb_person_url": "https://www.imdb.com/name/nm0384817/"
+    },
+    "production_studio": "Surefire Film Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Crime", "Drama", "Western"],
+    "actors": [
+      { "name": "Ray Winstone", "imdb_person_url": "https://www.imdb.com/name/nm0935541/" },
+      { "name": "Guy Pearce", "imdb_person_url": "https://www.imdb.com/name/nm0001602/" },
+      { "name": "Emily Watson", "imdb_person_url": "https://www.imdb.com/name/nm0001833/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lawman offers a notorious bushranger a proposition: kill his older brother or they hang his younger brother.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0421238/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/proposition"
+  },
+  {
+    "title": "Broken Flowers",
+    "year": 2005,
+    "director": {
+      "name": "Jim Jarmusch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000464/"
+    },
+    "production_studio": "Focus Features",
+    "mpaa_rating": "R",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 10,
+    "gross_revenue_usd_millions": 47.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Comedy", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Bill Murray", "imdb_person_url": "https://www.imdb.com/name/nm0000195/" },
+      { "name": "Jessica Lange", "imdb_person_url": "https://www.imdb.com/name/nm0000486/" },
+      { "name": "Sharon Stone", "imdb_person_url": "https://www.imdb.com/name/nm0000232/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "As the withdrawn Don Johnston is dumped by his latest girlfriend, he receives an anonymous letter informing him that he has a son who may be looking for him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0412019/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/broken_flowers"
+  },
+  {
+    "title": "Saw II",
+    "year": 2005,
+    "director": {
+      "name": "Darren Lynn Bousman",
+      "imdb_person_url": "https://www.imdb.com/name/nm1517329/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 4,
+    "gross_revenue_usd_millions": 147.7,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "37%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": ["Horror", "Mystery"],
+    "actors": [
+      { "name": "Donnie Wahlberg", "imdb_person_url": "https://www.imdb.com/name/nm0005531/" },
+      { "name": "Beverley Mitchell", "imdb_person_url": "https://www.imdb.com/name/nm0593138/" },
+      { "name": "Tobin Bell", "imdb_person_url": "https://www.imdb.com/name/nm0068551/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A detective and his team must rescue 8 people trapped in a factory by the twisted serial killer known as Jigsaw.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0432348/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/saw_ii"
+  },
+  {
+    "title": "Hostel",
+    "year": 2005,
+    "director": {
+      "name": "Eli Roth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0744834/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 4.8,
+    "gross_revenue_usd_millions": 80.6,
+    "ratings": {
+      "imdb": 5.9,
+      "rotten_tomatoes_critic": "61%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": ["Horror"],
+    "actors": [
+      { "name": "Jay Hernandez", "imdb_person_url": "https://www.imdb.com/name/nm0379611/" },
+      { "name": "Derek Richardson", "imdb_person_url": "https://www.imdb.com/name/nm1139735/" },
+      { "name": "Eythor Gudjonsson", "imdb_person_url": "https://www.imdb.com/name/nm2010495/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three backpackers head to a Slovak city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0450278/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hostel"
   }
 ]

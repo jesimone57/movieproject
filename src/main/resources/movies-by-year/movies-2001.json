@@ -6,47 +6,29 @@
       "name": "Peter Jackson",
       "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
     },
-    "production_studio": "New Line Cinema, WingNut Films",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 178,
     "budget_usd_millions": 93,
     "gross_revenue_usd_millions": 898.2,
     "ratings": {
-      "imdb": 8.9,
+      "imdb": 8.8,
       "rotten_tomatoes_critic": "91%",
       "rotten_tomatoes_popcorn": "95%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Action", "Adventure", "Drama"],
     "actors": [
-      {
-        "name": "Elijah Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000704/"
-      },
-      {
-        "name": "Ian McKellen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005212/"
-      },
-      {
-        "name": "Orlando Bloom",
-        "imdb_person_url": "https://www.imdb.com/name/nm0089217/"
-      }
+      { "name": "Elijah Wood", "imdb_person_url": "https://www.imdb.com/name/nm0000704/" },
+      { "name": "Ian McKellen", "imdb_person_url": "https://www.imdb.com/name/nm0005212/" },
+      { "name": "Viggo Mortensen", "imdb_person_url": "https://www.imdb.com/name/nm0001557/" }
     ],
     "oscars_nominated": 13,
     "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Cinematography",
-      "Best Makeup",
-      "Best Music, Original Score",
-      "Best Effects, Visual Effects"
-    ],
+    "oscars_won_details": ["Best Cinematography", "Best Makeup", "Best Music, Original Score", "Best Visual Effects"],
     "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
     "afi_ranking": 50,
     "imdb_url": "https://www.imdb.com/title/tt0120737/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_fellowship_of_the_ring"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lord_of_the_rings_the_fellowship_of_the_ring"
   },
   {
     "title": "Harry Potter and the Sorcerer's Stone",
@@ -55,34 +37,21 @@
       "name": "Chris Columbus",
       "imdb_person_url": "https://www.imdb.com/name/nm0001060/"
     },
-    "production_studio": "Warner Bros., Heyday Films, 1492 Pictures",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG",
     "runtime_minutes": 152,
     "budget_usd_millions": 125,
-    "gross_revenue_usd_millions": 1023.8,
+    "gross_revenue_usd_millions": 1022,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "81%",
       "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
-    ],
+    "genres": ["Adventure", "Family", "Fantasy"],
     "actors": [
-      {
-        "name": "Daniel Radcliffe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0705356/"
-      },
-      {
-        "name": "Rupert Grint",
-        "imdb_person_url": "https://www.imdb.com/name/nm0342488/"
-      },
-      {
-        "name": "Emma Watson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0914612/"
-      }
+      { "name": "Daniel Radcliffe", "imdb_person_url": "https://www.imdb.com/name/nm0705356/" },
+      { "name": "Rupert Grint", "imdb_person_url": "https://www.imdb.com/name/nm0342488/" },
+      { "name": "Emma Watson", "imdb_person_url": "https://www.imdb.com/name/nm0914612/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
@@ -99,136 +68,88 @@
       "name": "Ron Howard",
       "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
     },
-    "production_studio": "Universal Pictures, DreamWorks, Imagine Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 135,
     "budget_usd_millions": 58,
-    "gross_revenue_usd_millions": 313.5,
+    "gross_revenue_usd_millions": 316.8,
     "ratings": {
       "imdb": 8.2,
       "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "90%"
+      "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
+    "genres": ["Biography", "Drama"],
     "actors": [
-      {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
-      },
-      {
-        "name": "Ed Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000438/"
-      },
-      {
-        "name": "Jennifer Connelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000124/"
-      }
+      { "name": "Russell Crowe", "imdb_person_url": "https://www.imdb.com/name/nm0000128/" },
+      { "name": "Ed Harris", "imdb_person_url": "https://www.imdb.com/name/nm0000438/" },
+      { "name": "Jennifer Connelly", "imdb_person_url": "https://www.imdb.com/name/nm0000124/" }
     ],
     "oscars_nominated": 8,
     "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actress in a Supporting Role",
-      "Best Adapted Screenplay"
-    ],
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Actress in a Supporting Role", "Best Adapted Screenplay"],
     "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
-    "afi_ranking": 93,
+    "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0268978/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beautiful_mind"
   },
   {
-    "title": "Moulin Rouge!",
+    "title": "Spirited Away",
     "year": 2001,
     "director": {
-      "name": "Baz Luhrmann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005166/"
+      "name": "Hayao Miyazaki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0594503/"
     },
-    "production_studio": "20th Century Fox, Bazmark Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 52,
-    "gross_revenue_usd_millions": 179.2,
+    "production_studio": "Studio Ghibli",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 19,
+    "gross_revenue_usd_millions": 395.8,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "89%"
+      "imdb": 8.6,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "96%"
     },
-    "genres": [
-      "Drama",
-      "Musical",
-      "Romance"
-    ],
+    "genres": ["Animation", "Adventure", "Family"],
     "actors": [
-      {
-        "name": "Nicole Kidman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
-      },
-      {
-        "name": "Ewan McGregor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000191/"
-      },
-      {
-        "name": "John Leguizamo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000491/"
-      }
+      { "name": "Daveigh Chase", "imdb_person_url": "https://www.imdb.com/name/nm0153738/" },
+      { "name": "Suzanne Pleshette", "imdb_person_url": "https://www.imdb.com/name/nm0687189/" },
+      { "name": "Miyu Irino", "imdb_person_url": "https://www.imdb.com/name/nm1340935/" }
     ],
-    "oscars_nominated": 8,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design"
-    ],
-    "description": "A poor Bohemian poet in 1890s Paris falls for a beautiful courtesan and nightclub star coveted by a jealous duke.",
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Animated Feature"],
+    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0203009/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/moulin_rouge"
+    "imdb_url": "https://www.imdb.com/title/tt0245429/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spirited_away"
   },
   {
     "title": "Shrek",
     "year": 2001,
     "director": {
-      "name": "Andrew Adamson, Vicky Jenson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0011496/"
+      "name": "Andrew Adamson & Vicky Jenson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0011458/"
     },
-    "production_studio": "DreamWorks Animation, PDI/DreamWorks",
+    "production_studio": "DreamWorks Animation",
     "mpaa_rating": "PG",
     "runtime_minutes": 90,
     "budget_usd_millions": 60,
-    "gross_revenue_usd_millions": 484.4,
+    "gross_revenue_usd_millions": 487.9,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "88%",
       "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "actors": [
-      {
-        "name": "Mike Myers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000196/"
-      },
-      {
-        "name": "Eddie Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000552/"
-      },
-      {
-        "name": "Cameron Diaz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000139/"
-      }
+      { "name": "Mike Myers", "imdb_person_url": "https://www.imdb.com/name/nm0000196/" },
+      { "name": "Eddie Murphy", "imdb_person_url": "https://www.imdb.com/name/nm0000552/" },
+      { "name": "Cameron Diaz", "imdb_person_url": "https://www.imdb.com/name/nm0000139/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Animated Feature"
-    ],
-    "description": "A mean lord exiles fairytale creatures into the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+    "oscars_won_details": ["Best Animated Feature"],
+    "description": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0126029/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shrek"
@@ -237,146 +158,41 @@
     "title": "Monsters, Inc.",
     "year": 2001,
     "director": {
-      "name": "Pete Docter, David Silverman, Lee Unkrich",
+      "name": "Pete Docter",
       "imdb_person_url": "https://www.imdb.com/name/nm0230032/"
     },
-    "production_studio": "Pixar Animation Studios, Walt Disney Pictures",
+    "production_studio": "Pixar",
     "mpaa_rating": "G",
     "runtime_minutes": 92,
     "budget_usd_millions": 115,
-    "gross_revenue_usd_millions": 577.4,
+    "gross_revenue_usd_millions": 579.7,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "actors": [
-      {
-        "name": "John Goodman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000422/"
-      },
-      {
-        "name": "Billy Crystal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000345/"
-      },
-      {
-        "name": "Mary Gibbs",
-        "imdb_person_url": "https://www.imdb.com/name/nm0316678/"
-      }
+      { "name": "Billy Crystal", "imdb_person_url": "https://www.imdb.com/name/nm0000345/" },
+      { "name": "John Goodman", "imdb_person_url": "https://www.imdb.com/name/nm0000422/" },
+      { "name": "Mary Gibbs", "imdb_person_url": "https://www.imdb.com/name/nm0316555/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song"
-    ],
+    "oscars_won_details": ["Best Music, Original Song"],
     "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0198781/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/monsters_inc"
   },
   {
-    "title": "Ocean's Eleven",
-    "year": 2001,
-    "director": {
-      "name": "Steven Soderbergh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001752/"
-    },
-    "production_studio": "Warner Bros., Village Roadshow Pictures, NPV Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 85,
-    "gross_revenue_usd_millions": 450.7,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "George Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Brad Pitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
-      },
-      {
-        "name": "Julia Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0240772/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oceans_eleven"
-  },
-  {
-    "title": "Black Hawk Down",
-    "year": 2001,
-    "director": {
-      "name": "Ridley Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
-    },
-    "production_studio": "Columbia Pictures, Revolution Studios, Jerry Bruckheimer Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 144,
-    "budget_usd_millions": 92,
-    "gross_revenue_usd_millions": 173,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Josh Hartnett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001326/"
-      },
-      {
-        "name": "Ewan McGregor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000191/"
-      },
-      {
-        "name": "Tom Sizemore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001744/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Film Editing",
-      "Best Sound"
-    ],
-    "description": "The story of 160 elite U.S. soldiers who dropped into Mogadishu in October 1993 to capture two top lieutenants of a renegade warlord, but find themselves in a desperate battle with a large force of heavily-armed Somalis.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0265086/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/black_hawk_down"
-  },
-  {
     "title": "Training Day",
     "year": 2001,
     "director": {
       "name": "Antoine Fuqua",
-      "imdb_person_url": "https://www.imdb.com/name/nm0298807/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0299129/"
     },
-    "production_studio": "Warner Bros., Village Roadshow Pictures, Outlaw Productions",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 122,
     "budget_usd_millions": 45,
@@ -384,72 +200,106 @@
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Action", "Crime", "Drama"],
     "actors": [
-      {
-        "name": "Denzel Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
-      },
-      {
-        "name": "Ethan Hawke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000160/"
-      },
-      {
-        "name": "Scott Glenn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001277/"
-      }
+      { "name": "Denzel Washington", "imdb_person_url": "https://www.imdb.com/name/nm0000243/" },
+      { "name": "Ethan Hawke", "imdb_person_url": "https://www.imdb.com/name/nm0000160/" },
+      { "name": "Scott Glenn", "imdb_person_url": "https://www.imdb.com/name/nm0001277/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role"
-    ],
-    "description": "A rookie cop spends his first day as a Los Angeles narcotics officer with a rogue detective who isn't what he appears to be.",
+    "oscars_won_details": ["Best Actor"],
+    "description": "A rookie cop spends his first day as a narcotics officer with a rogue detective who isn't what he appears to be.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0139654/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/training_day"
+  },
+  {
+    "title": "Donnie Darko",
+    "year": 2001,
+    "director": {
+      "name": "Richard Kelly",
+      "imdb_person_url": "https://www.imdb.com/name/nm0446819/"
+    },
+    "production_studio": "Pandora Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 7.5,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "actors": [
+      { "name": "Jake Gyllenhaal", "imdb_person_url": "https://www.imdb.com/name/nm0350453/" },
+      { "name": "Jena Malone", "imdb_person_url": "https://www.imdb.com/name/nm0540441/" },
+      { "name": "Mary McDonnell", "imdb_person_url": "https://www.imdb.com/name/nm0000531/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0246578/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/donnie_darko"
+  },
+  {
+    "title": "Ocean's Eleven",
+    "year": 2001,
+    "director": {
+      "name": "Steven Soderbergh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000649/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 85,
+    "gross_revenue_usd_millions": 450.7,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Crime", "Thriller"],
+    "actors": [
+      { "name": "George Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0000123/" },
+      { "name": "Brad Pitt", "imdb_person_url": "https://www.imdb.com/name/nm0000093/" },
+      { "name": "Julia Roberts", "imdb_person_url": "https://www.imdb.com/name/nm0000210/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Danny Ocean and his ten accomplices plan to rob three Las Vegas casinos simultaneously.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0240772/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oceans_eleven"
   },
   {
     "title": "Mulholland Drive",
     "year": 2001,
     "director": {
       "name": "David Lynch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000187/"
     },
-    "production_studio": "Les Films Alain Sarde, Asymmetrical Productions",
+    "production_studio": "Les Films Alain Sarde",
     "mpaa_rating": "R",
     "runtime_minutes": 147,
     "budget_usd_millions": 15,
     "gross_revenue_usd_millions": 20.1,
     "ratings": {
       "imdb": 7.9,
-      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_critic": "85%",
       "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
+    "genres": ["Drama", "Mystery", "Thriller"],
     "actors": [
-      {
-        "name": "Naomi Watts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915208/"
-      },
-      {
-        "name": "Laura Harring",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005001/"
-      },
-      {
-        "name": "Justin Theroux",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005491/"
-      }
+      { "name": "Naomi Watts", "imdb_person_url": "https://www.imdb.com/name/nm0915208/" },
+      { "name": "Laura Harring", "imdb_person_url": "https://www.imdb.com/name/nm0005010/" },
+      { "name": "Justin Theroux", "imdb_person_url": "https://www.imdb.com/name/nm0857620/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -466,33 +316,21 @@
       "name": "Jean-Pierre Jeunet",
       "imdb_person_url": "https://www.imdb.com/name/nm0000466/"
     },
-    "production_studio": "Claudie Ossard Productions, UGC",
+    "production_studio": "Claudie Ossard Productions",
     "mpaa_rating": "R",
     "runtime_minutes": 122,
     "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 173.9,
+    "gross_revenue_usd_millions": 174.1,
     "ratings": {
       "imdb": 8.3,
       "rotten_tomatoes_critic": "89%",
       "rotten_tomatoes_popcorn": "95%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "Audrey Tautou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0851582/"
-      },
-      {
-        "name": "Mathieu Kassovitz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001410/"
-      },
-      {
-        "name": "Jamel Debbouze",
-        "imdb_person_url": "https://www.imdb.com/name/nm0213275/"
-      }
+      { "name": "Audrey Tautou", "imdb_person_url": "https://www.imdb.com/name/nm0851582/" },
+      { "name": "Mathieu Kassovitz", "imdb_person_url": "https://www.imdb.com/name/nm0440913/" },
+      { "name": "Rufus", "imdb_person_url": "https://www.imdb.com/name/nm0749333/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 0,
@@ -503,364 +341,75 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/amelie"
   },
   {
-    "title": "Spirited Away",
+    "title": "Moulin Rouge!",
     "year": 2001,
     "director": {
-      "name": "Hayao Miyazaki",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005251/"
+      "name": "Baz Luhrmann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0525303/"
     },
-    "production_studio": "Studio Ghibli, Tokuma Shoten",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 395.6,
-    "ratings": {
-      "imdb": 8.6,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "96%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Rumi Hiiragi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0382023/"
-      },
-      {
-        "name": "Miyu Irino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0410886/"
-      },
-      {
-        "name": "Mari Natsuki",
-        "imdb_person_url": "https://www.imdb.com/name/nm0622262/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Animated Feature"
-    ],
-    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0245429/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spirited_away"
-  },
-  {
-    "title": "Donnie Darko",
-    "year": 2001,
-    "director": {
-      "name": "Richard Kelly",
-      "imdb_person_url": "https://www.imdb.com/name/nm0446827/"
-    },
-    "production_studio": "Pandora Cinema, Flower Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 4.5,
-    "gross_revenue_usd_millions": 7.5,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Jake Gyllenhaal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0350453/"
-      },
-      {
-        "name": "Jena Malone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005180/"
-      },
-      {
-        "name": "Mary McDonnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001521/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0246578/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/donnie_darko"
-  },
-  {
-    "title": "The Royal Tenenbaums",
-    "year": 2001,
-    "director": {
-      "name": "Wes Anderson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000762/"
-    },
-    "production_studio": "Touchstone Pictures, American Empirical Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 21,
-    "gross_revenue_usd_millions": 71.4,
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 179.2,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_critic": "76%",
       "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "genres": ["Drama", "Musical", "Romance"],
     "actors": [
-      {
-        "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
-      },
-      {
-        "name": "Anjelica Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001378/"
-      },
-      {
-        "name": "Gwyneth Paltrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000569/"
-      }
+      { "name": "Nicole Kidman", "imdb_person_url": "https://www.imdb.com/name/nm0000173/" },
+      { "name": "Ewan McGregor", "imdb_person_url": "https://www.imdb.com/name/nm0000191/" },
+      { "name": "John Leguizamo", "imdb_person_url": "https://www.imdb.com/name/nm0000491/" }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The eccentric members of a dysfunctional family reluctantly gather under the same roof for various reasons.",
+    "oscars_nominated": 8,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Art Direction", "Best Costume Design"],
+    "description": "A poet falls for a beautiful courtesan whom a jealous duke covets.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0265666/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/royal_tenenbaums"
+    "imdb_url": "https://www.imdb.com/title/tt0203009/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/moulin_rouge_2001"
   },
   {
-    "title": "A.I. Artificial Intelligence",
+    "title": "Black Hawk Down",
     "year": 2001,
     "director": {
-      "name": "Steven Spielberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
+      "name": "Ridley Scott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
     },
-    "production_studio": "Warner Bros., DreamWorks, Amblin Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 146,
-    "budget_usd_millions": 100,
-    "gross_revenue_usd_millions": 235.9,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Haley Joel Osment",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005286/"
-      },
-      {
-        "name": "Jude Law",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
-      },
-      {
-        "name": "Frances O'Connor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005273/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A highly advanced robotic boy longs to become 'real' so that he can regain the love of his human mother.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0212720/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ai_artificial_intelligence"
-  },
-  {
-    "title": "Zoolander",
-    "year": 2001,
-    "director": {
-      "name": "Ben Stiller",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001774/"
-    },
-    "production_studio": "Paramount Pictures, Village Roadshow Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 90,
-    "budget_usd_millions": 28,
-    "gross_revenue_usd_millions": 60.8,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Ben Stiller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001774/"
-      },
-      {
-        "name": "Owen Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005562/"
-      },
-      {
-        "name": "Christine Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005481/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "At the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0196229/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zoolander"
-  },
-  {
-    "title": "Gosford Park",
-    "year": 2001,
-    "director": {
-      "name": "Robert Altman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
-    },
-    "production_studio": "USA Films, Capitol Films, Sandcastle 5 Productions",
+    "production_studio": "Revolution Studios",
     "mpaa_rating": "R",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 19.8,
-    "gross_revenue_usd_millions": 87.8,
+    "runtime_minutes": 144,
+    "budget_usd_millions": 92,
+    "gross_revenue_usd_millions": 172.9,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "88%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Mystery"
-    ],
+    "genres": ["Action", "Drama", "History"],
     "actors": [
-      {
-        "name": "Maggie Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001749/"
-      },
-      {
-        "name": "Michael Gambon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002091/"
-      },
-      {
-        "name": "Kristin Scott Thomas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000218/"
-      }
+      { "name": "Josh Hartnett", "imdb_person_url": "https://www.imdb.com/name/nm0001326/" },
+      { "name": "Ewan McGregor", "imdb_person_url": "https://www.imdb.com/name/nm0000191/" },
+      { "name": "Tom Sizemore", "imdb_person_url": "https://www.imdb.com/name/nm0001744/" }
     ],
-    "oscars_nominated": 7,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Screenplay Written Directly for the Screen"
-    ],
-    "description": "The lives of upstairs masters and downstairs servants at a fancy hunting resort in 1932. And then a murder occurs.",
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Film Editing", "Best Sound"],
+    "description": "The story of 160 elite U.S. soldiers who dropped into Mogadishu in October 1993 to capture two top lieutenants of a renegade warlord, but found themselves in a desperate battle with a large force of heavily armed Somalis.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0280707/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gosford_park"
-  },
-  {
-    "title": "In the Bedroom",
-    "year": 2001,
-    "director": {
-      "name": "Todd Field",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001211/"
-    },
-    "production_studio": "Good Machine, GreeneStreet Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 131,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 44.8,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tom Wilkinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0929489/"
-      },
-      {
-        "name": "Sissy Spacek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000647/"
-      },
-      {
-        "name": "Nick Stahl",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001763/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A New England couple's college-age son has a love affair with an older woman, a single mother with two children. When the woman's estranged husband murders their son, the couple's already-strained marriage is pushed to the breaking point.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0247425/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_the_bedroom"
-  },
-  {
-    "title": "Ali",
-    "year": 2001,
-    "director": {
-      "name": "Michael Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
-    },
-    "production_studio": "Columbia Pictures, Overbrook Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 157,
-    "budget_usd_millions": 107,
-    "gross_revenue_usd_millions": 87.7,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "68%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Jamie Foxx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004937/"
-      },
-      {
-        "name": "Jon Voight",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000685/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A biography of sports legend Muhammad Ali, focusing on his triumphs and controversies between 1964 and 1974.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0248667/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ali"
+    "imdb_url": "https://www.imdb.com/title/tt0265086/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/black_hawk_down"
   },
   {
     "title": "The Fast and the Furious",
     "year": 2001,
     "director": {
       "name": "Rob Cohen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001053/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0169706/"
     },
-    "production_studio": "Universal Pictures, Mediastream Film",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 106,
     "budget_usd_millions": 38,
@@ -868,26 +417,13 @@
     "ratings": {
       "imdb": 6.8,
       "rotten_tomatoes_critic": "54%",
-      "rotten_tomatoes_popcorn": "73%"
+      "rotten_tomatoes_popcorn": "74%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Action", "Crime", "Thriller"],
     "actors": [
-      {
-        "name": "Vin Diesel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004874/"
-      },
-      {
-        "name": "Paul Walker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0908094/"
-      },
-      {
-        "name": "Michelle Rodriguez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005378/"
-      }
+      { "name": "Vin Diesel", "imdb_person_url": "https://www.imdb.com/name/nm0004874/" },
+      { "name": "Paul Walker", "imdb_person_url": "https://www.imdb.com/name/nm0908094/" },
+      { "name": "Michelle Rodriguez", "imdb_person_url": "https://www.imdb.com/name/nm0735442/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -898,13 +434,106 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fast_and_the_furious"
   },
   {
+    "title": "Legally Blonde",
+    "year": 2001,
+    "director": {
+      "name": "Robert Luketic",
+      "imdb_person_url": "https://www.imdb.com/name/nm0525676/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 18,
+    "gross_revenue_usd_millions": 141.7,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Reese Witherspoon", "imdb_person_url": "https://www.imdb.com/name/nm0000702/" },
+      { "name": "Luke Wilson", "imdb_person_url": "https://www.imdb.com/name/nm0005561/" },
+      { "name": "Selma Blair", "imdb_person_url": "https://www.imdb.com/name/nm0000947/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Elle Woods, a fashionable sorority queen, is dumped by her boyfriend. She decides to follow him to law school to get him back and, once there, learns she has more to offer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0250494/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/legally_blonde"
+  },
+  {
+    "title": "Zoolander",
+    "year": 2001,
+    "director": {
+      "name": "Ben Stiller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001774/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 28,
+    "gross_revenue_usd_millions": 60.8,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Comedy"],
+    "actors": [
+      { "name": "Ben Stiller", "imdb_person_url": "https://www.imdb.com/name/nm0001774/" },
+      { "name": "Owen Wilson", "imdb_person_url": "https://www.imdb.com/name/nm0005562/" },
+      { "name": "Will Ferrell", "imdb_person_url": "https://www.imdb.com/name/nm0002071/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "At the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0198781/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zoolander"
+  },
+  {
+    "title": "The Royal Tenenbaums",
+    "year": 2001,
+    "director": {
+      "name": "Wes Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0027563/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 21,
+    "gross_revenue_usd_millions": 71.4,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Gene Hackman", "imdb_person_url": "https://www.imdb.com/name/nm0000431/" },
+      { "name": "Gwyneth Paltrow", "imdb_person_url": "https://www.imdb.com/name/nm0000569/" },
+      { "name": "Anjelica Huston", "imdb_person_url": "https://www.imdb.com/name/nm0001378/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The eccentric members of a dysfunctional family reluctantly gather under the same roof for various reasons.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0265666/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/royal_tenenbaums"
+  },
+  {
     "title": "Bridget Jones's Diary",
     "year": 2001,
     "director": {
       "name": "Sharon Maguire",
-      "imdb_person_url": "https://www.imdb.com/name/nm0536484/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0536648/"
     },
-    "production_studio": "Miramax, StudioCanal, Working Title Films",
+    "production_studio": "Working Title Films",
     "mpaa_rating": "R",
     "runtime_minutes": 97,
     "budget_usd_millions": 25,
@@ -912,290 +541,137 @@
     "ratings": {
       "imdb": 6.8,
       "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "81%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Renée Zellweger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000250/"
-      },
-      {
-        "name": "Colin Firth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000147/"
-      },
-      {
-        "name": "Hugh Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000424/"
-      }
+      { "name": "Renée Zellweger", "imdb_person_url": "https://www.imdb.com/name/nm0000250/" },
+      { "name": "Colin Firth", "imdb_person_url": "https://www.imdb.com/name/nm0000147/" },
+      { "name": "Hugh Grant", "imdb_person_url": "https://www.imdb.com/name/nm0000157/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A British woman is determined to improve herself while she looks for love in a year in which she keeps a personal diary.",
+    "description": "Bridget Jones is determined to improve herself while she looks for love in a year in which she keeps a personal diary.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0243155/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bridget_joness_diary"
-  },
-  {
-    "title": "Legally Blonde",
-    "year": 2001,
-    "director": {
-      "name": "Robert Luketic",
-      "imdb_person_url": "https://www.imdb.com/name/nm0525547/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer, Type A Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 141.8,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Reese Witherspoon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000702/"
-      },
-      {
-        "name": "Luke Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005561/"
-      },
-      {
-        "name": "Selma Blair",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004757/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Elle Woods, a fashionable sorority queen, is dumped by her boyfriend. She decides to follow him to law school, where she figures out that there is more to her than just looks.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0250494/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/legally_blonde"
-  },
-  {
-    "title": "Wet Hot American Summer",
-    "year": 2001,
-    "director": {
-      "name": "David Wain",
-      "imdb_person_url": "https://www.imdb.com/name/nm0906401/"
-    },
-    "production_studio": "USA Films, Eureka Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 1.8,
-    "gross_revenue_usd_millions": 0.3,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "38%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Janeane Garofalo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000413/"
-      },
-      {
-        "name": "David Hyde Pierce",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
-      },
-      {
-        "name": "Paul Rudd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001682/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Set on the last day of camp, in the hot summer of 1981, a group of counselors try to complete their unfinished business before the day ends.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0243655/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wet_hot_american_summer"
   },
   {
     "title": "The Others",
     "year": 2001,
     "director": {
       "name": "Alejandro Amenábar",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000741/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0024648/"
     },
-    "production_studio": "Miramax, Cruise/Wagner Productions",
+    "production_studio": "Dimension Films",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 104,
+    "runtime_minutes": 101,
     "budget_usd_millions": 17,
     "gross_revenue_usd_millions": 209.9,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
+    "genres": ["Horror", "Mystery", "Thriller"],
     "actors": [
-      {
-        "name": "Nicole Kidman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
-      },
-      {
-        "name": "Christopher Eccleston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001172/"
-      },
-      {
-        "name": "Fionnula Flanagan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001219/"
-      }
+      { "name": "Nicole Kidman", "imdb_person_url": "https://www.imdb.com/name/nm0000173/" },
+      { "name": "Christopher Eccleston", "imdb_person_url": "https://www.imdb.com/name/nm0001172/" },
+      { "name": "Fionnula Flanagan", "imdb_person_url": "https://www.imdb.com/name/nm0001216/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In 1945, a woman who lives in a darkened old house with her two photosensitive children becomes convinced that her family home is haunted.",
+    "description": "A woman who lives in her darkened old family house with her two photosensitive children becomes convinced that the home is haunted.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0230600/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1109257-others"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/others"
   },
   {
-    "title": "Lara Croft: Tomb Raider",
+    "title": "Y Tu Mamá También",
     "year": 2001,
     "director": {
-      "name": "Simon West",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001842/"
+      "name": "Alfonso Cuarón",
+      "imdb_person_url": "https://www.imdb.com/name/nm0190859/"
     },
-    "production_studio": "Paramount Pictures, Mutual Film Company",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 115,
-    "gross_revenue_usd_millions": 274.7,
+    "production_studio": "Producciones Anhelo",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 5,
+    "gross_revenue_usd_millions": 33.6,
     "ratings": {
-      "imdb": 5.7,
-      "rotten_tomatoes_critic": "20%",
-      "rotten_tomatoes_popcorn": "46%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "88%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Angelina Jolie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001401/"
-      },
-      {
-        "name": "Jon Voight",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000685/"
-      },
-      {
-        "name": "Iain Glen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0322515/"
-      }
+      { "name": "Maribel Verdú", "imdb_person_url": "https://www.imdb.com/name/nm0893941/" },
+      { "name": "Gael García Bernal", "imdb_person_url": "https://www.imdb.com/name/nm0305558/" },
+      { "name": "Diego Luna", "imdb_person_url": "https://www.imdb.com/name/nm0526019/" }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Video game adventurer Lara Croft comes to life in a movie where she races against time and villains to recover powerful ancient artifacts.",
+    "description": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0146316/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lara_croft_tomb_raider"
+    "imdb_url": "https://www.imdb.com/title/tt0245574/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/y_tu_mama_tambien"
   },
   {
-    "title": "Pearl Harbor",
+    "title": "Gosford Park",
     "year": 2001,
     "director": {
-      "name": "Michael Bay",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000881/"
+      "name": "Robert Altman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
     },
-    "production_studio": "Touchstone Pictures, Jerry Bruckheimer Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 183,
-    "budget_usd_millions": 140,
-    "gross_revenue_usd_millions": 449.2,
+    "production_studio": "USA Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 137,
+    "budget_usd_millions": 19.8,
+    "gross_revenue_usd_millions": 87.8,
     "ratings": {
-      "imdb": 5.9,
-      "rotten_tomatoes_critic": "24%",
-      "rotten_tomatoes_popcorn": "66%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "78%"
     },
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
+    "genres": ["Comedy", "Drama", "Mystery"],
     "actors": [
-      {
-        "name": "Ben Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000255/"
-      },
-      {
-        "name": "Josh Hartnett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001326/"
-      },
-      {
-        "name": "Kate Beckinsale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000295/"
-      }
+      { "name": "Maggie Smith", "imdb_person_url": "https://www.imdb.com/name/nm0001749/" },
+      { "name": "Ryan Phillippe", "imdb_person_url": "https://www.imdb.com/name/nm0005310/" },
+      { "name": "Michael Gambon", "imdb_person_url": "https://www.imdb.com/name/nm0002091/" }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 7,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Sound Editing"
-    ],
-    "description": "A tale of war and romance mixed in with history. The story follows two lifelong friends and a beautiful nurse who are caught up in the horror of an infamous Sunday morning in 1941.",
+    "oscars_won_details": ["Best Original Screenplay"],
+    "description": "Set in the 1930s, a group of pretentious rich and famous together with their servants gather for a shooting weekend at an English country house. A murder occurs, and a police inspector investigates.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0213149/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pearl_harbor"
+    "imdb_url": "https://www.imdb.com/title/tt0280707/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gosford_park"
   },
   {
     "title": "Vanilla Sky",
     "year": 2001,
     "director": {
       "name": "Cameron Crowe",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001081/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001082/"
     },
-    "production_studio": "Paramount Pictures, Cruise/Wagner Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 136,
     "budget_usd_millions": 68,
     "gross_revenue_usd_millions": 203.4,
     "ratings": {
       "imdb": 6.9,
-      "rotten_tomatoes_critic": "42%",
+      "rotten_tomatoes_critic": "43%",
       "rotten_tomatoes_popcorn": "72%"
     },
-    "genres": [
-      "Fantasy",
-      "Mystery",
-      "Romance"
-    ],
+    "genres": ["Fantasy", "Mystery", "Romance"],
     "actors": [
-      {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
-      },
-      {
-        "name": "Penélope Cruz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004851/"
-      },
-      {
-        "name": "Cameron Diaz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000139/"
-      }
+      { "name": "Tom Cruise", "imdb_person_url": "https://www.imdb.com/name/nm0000129/" },
+      { "name": "Penélope Cruz", "imdb_person_url": "https://www.imdb.com/name/nm0004851/" },
+      { "name": "Cameron Diaz", "imdb_person_url": "https://www.imdb.com/name/nm0000139/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -1206,303 +682,151 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/vanilla_sky"
   },
   {
-    "title": "Ocean's Eleven",
+    "title": "A.I. Artificial Intelligence",
     "year": 2001,
     "director": {
-      "name": "Steven Soderbergh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001752/"
+      "name": "Steven Spielberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "Warner Bros., Village Roadshow Pictures, NPV Entertainment",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 85,
-    "gross_revenue_usd_millions": 450.7,
+    "runtime_minutes": 146,
+    "budget_usd_millions": 100,
+    "gross_revenue_usd_millions": 235.9,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "64%"
     },
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Drama", "Sci-Fi"],
     "actors": [
-      {
-        "name": "George Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Brad Pitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
-      },
-      {
-        "name": "Julia Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
-      }
+      { "name": "Haley Joel Osment", "imdb_person_url": "https://www.imdb.com/name/nm0005286/" },
+      { "name": "Jude Law", "imdb_person_url": "https://www.imdb.com/name/nm0000179/" },
+      { "name": "Frances O'Connor", "imdb_person_url": "https://www.imdb.com/name/nm0640324/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A highly advanced robotic boy longs to become \"real\" so that he can regain the love of his human mother.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0212720/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ai_artificial_intelligence"
+  },
+  {
+    "title": "Pearl Harbor",
+    "year": 2001,
+    "director": {
+      "name": "Michael Bay",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000881/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 183,
+    "budget_usd_millions": 140,
+    "gross_revenue_usd_millions": 449.2,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "24%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": ["Action", "Drama", "History"],
+    "actors": [
+      { "name": "Ben Affleck", "imdb_person_url": "https://www.imdb.com/name/nm0000255/" },
+      { "name": "Kate Beckinsale", "imdb_person_url": "https://www.imdb.com/name/nm0000295/" },
+      { "name": "Josh Hartnett", "imdb_person_url": "https://www.imdb.com/name/nm0001326/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Sound Editing"],
+    "description": "A tale of war and romance mixed in with history. The story follows two lifelong friends and a beautiful nurse who are caught up in the horror of an infamous Sunday morning in 1941.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0213149/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1108376-pearl_harbor"
+  },
+  {
+    "title": "Hannibal",
+    "year": 2001,
+    "director": {
+      "name": "Ridley Scott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "R",
+    "runtime_minutes": 131,
+    "budget_usd_millions": 87,
+    "gross_revenue_usd_millions": 351.6,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "39%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Anthony Hopkins", "imdb_person_url": "https://www.imdb.com/name/nm0000164/" },
+      { "name": "Julianne Moore", "imdb_person_url": "https://www.imdb.com/name/nm0000194/" },
+      { "name": "Gary Oldman", "imdb_person_url": "https://www.imdb.com/name/nm0000198/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.",
+    "description": "Living in exile, Dr. Hannibal Lecter tries to reconnect with now disgraced F.B.I. Agent Clarice Starling, and finds himself a target for revenge from a powerful victim.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0240772/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oceans_eleven"
-  },
-  {
-    "title": "Jimmy Neutron: Boy Genius",
-    "year": 2001,
-    "director": {
-      "name": "John A. Davis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0204739/"
-    },
-    "production_studio": "Paramount Pictures, Nickelodeon Movies",
-    "mpaa_rating": "G",
-    "runtime_minutes": 82,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 103,
-    "ratings": {
-      "imdb": 6.0,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure"
-    ],
-    "actors": [
-      {
-        "name": "Debi Derryberry",
-        "imdb_person_url": "https://www.imdb.com/name/nm0220623/"
-      },
-      {
-        "name": "Rob Paulsen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002146/"
-      },
-      {
-        "name": "Megan Cavanagh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0147913/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An eight-year-old boy genius and his friends must rescue their parents from an alien race.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0268397/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jimmy_neutron_boy_genius"
-  },
-  {
-    "title": "The Princess Diaries",
-    "year": 2001,
-    "director": {
-      "name": "Garry Marshall",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005190/"
-    },
-    "production_studio": "Walt Disney Pictures, BrownHouse Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 26,
-    "gross_revenue_usd_millions": 165.3,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "49%",
-      "rotten_tomatoes_popcorn": "68%"
-    },
-    "genres": [
-      "Comedy",
-      "Family",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Julie Andrews",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000267/"
-      },
-      {
-        "name": "Anne Hathaway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004266/"
-      },
-      {
-        "name": "Hector Elizondo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001185/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Mia Thermopolis has just found out that she is the heir apparent to the throne of Genovia. With her friends Lilly and Michael Moscovitz in tow, she tries to navigate through the rest of her sixteenth year.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0247638/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/princess_diaries"
-  },
-  {
-    "title": "Spy Kids",
-    "year": 2001,
-    "director": {
-      "name": "Robert Rodriguez",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
-    },
-    "production_studio": "Dimension Films, Troublemaker Studios",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 147.9,
-    "ratings": {
-      "imdb": 5.6,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "46%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Alexa PenaVega",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005518/"
-      },
-      {
-        "name": "Daryl Sabara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0754530/"
-      },
-      {
-        "name": "Antonio Banderas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000104/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The children of secret-agent parents must save them from danger.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0227538/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spy_kids"
+    "imdb_url": "https://www.imdb.com/title/tt0212985/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hannibal"
   },
   {
     "title": "Rush Hour 2",
     "year": 2001,
     "director": {
       "name": "Brett Ratner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002621/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0711840/"
     },
-    "production_studio": "New Line Cinema, Roger Birnbaum Productions",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 90,
     "budget_usd_millions": 90,
     "gross_revenue_usd_millions": 347.3,
     "ratings": {
-      "imdb": 6.7,
+      "imdb": 6.6,
       "rotten_tomatoes_critic": "51%",
-      "rotten_tomatoes_popcorn": "73%"
+      "rotten_tomatoes_popcorn": "74%"
     },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
+    "genres": ["Action", "Comedy", "Crime"],
     "actors": [
-      {
-        "name": "Jackie Chan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000329/"
-      },
-      {
-        "name": "Chris Tucker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "John Lone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
-      }
+      { "name": "Jackie Chan", "imdb_person_url": "https://www.imdb.com/name/nm0000329/" },
+      { "name": "Chris Tucker", "imdb_person_url": "https://www.imdb.com/name/nm0000676/" },
+      { "name": "John Lone", "imdb_person_url": "https://www.imdb.com/name/nm0001479/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
     "description": "Carter and Lee head to Hong Kong for a vacation, but become embroiled in a counterfeit money scam.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0266915/",
+    "imdb_url": "https://www.imdb.com/title/tt0206267/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rush_hour_2"
-  },
-  {
-    "title": "Jurassic Park III",
-    "year": 2001,
-    "director": {
-      "name": "Joe Johnston",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002653/"
-    },
-    "production_studio": "Universal Pictures, Amblin Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 93,
-    "gross_revenue_usd_millions": 368.8,
-    "ratings": {
-      "imdb": 5.9,
-      "rotten_tomatoes_critic": "49%",
-      "rotten_tomatoes_popcorn": "36%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Sam Neill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000554/"
-      },
-      {
-        "name": "William H. Macy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000513/"
-      },
-      {
-        "name": "Téa Leoni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000495/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A decidedly odd couple with ulterior motives convince Dr. Alan Grant to go to Isla Sorna, resulting in an unexpected landing and startling new discoveries.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0163025/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jurassic_park_3"
   },
   {
     "title": "The Mummy Returns",
     "year": 2001,
     "director": {
       "name": "Stephen Sommers",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001755/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0814015/"
     },
-    "production_studio": "Universal Pictures, Alphaville Films",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 130,
     "budget_usd_millions": 98,
     "gross_revenue_usd_millions": 435,
     "ratings": {
       "imdb": 6.4,
-      "rotten_tomatoes_critic": "47%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_critic": "46%",
+      "rotten_tomatoes_popcorn": "63%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
+    "genres": ["Action", "Adventure", "Fantasy"],
     "actors": [
-      {
-        "name": "Brendan Fraser",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000409/"
-      },
-      {
-        "name": "Rachel Weisz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001838/"
-      },
-      {
-        "name": "John Hannah",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001314/"
-      }
+      { "name": "Brendan Fraser", "imdb_person_url": "https://www.imdb.com/name/nm0000409/" },
+      { "name": "Rachel Weisz", "imdb_person_url": "https://www.imdb.com/name/nm0001838/" },
+      { "name": "John Hannah", "imdb_person_url": "https://www.imdb.com/name/nm0001314/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1513,136 +837,716 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mummy_returns"
   },
   {
-    "title": "I Am Sam",
+    "title": "Spy Kids",
     "year": 2001,
     "director": {
-      "name": "Jessie Nelson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0625725/"
+      "name": "Robert Rodriguez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
     },
-    "production_studio": "New Line Cinema, The Bedford Falls Company",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 97.8,
+    "production_studio": "Dimension Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 35,
+    "gross_revenue_usd_millions": 147.9,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "35%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 5.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "46%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Action", "Adventure", "Comedy"],
     "actors": [
-      {
-        "name": "Sean Penn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
-      },
-      {
-        "name": "Michelle Pfeiffer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
-      },
-      {
-        "name": "Dakota Fanning",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001194/"
-      }
+      { "name": "Alexa PenaVega", "imdb_person_url": "https://www.imdb.com/name/nm0891786/" },
+      { "name": "Daryl Sabara", "imdb_person_url": "https://www.imdb.com/name/nm0754478/" },
+      { "name": "Antonio Banderas", "imdb_person_url": "https://www.imdb.com/name/nm0000104/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The children of secret-agent parents must save them from danger.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0227538/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spy_kids"
+  },
+  {
+    "title": "The Princess Diaries",
+    "year": 2001,
+    "director": {
+      "name": "Garry Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005190/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 26,
+    "gross_revenue_usd_millions": 165.3,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "49%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": ["Comedy", "Family", "Romance"],
+    "actors": [
+      { "name": "Julie Andrews", "imdb_person_url": "https://www.imdb.com/name/nm0000267/" },
+      { "name": "Anne Hathaway", "imdb_person_url": "https://www.imdb.com/name/nm0004266/" },
+      { "name": "Hector Elizondo", "imdb_person_url": "https://www.imdb.com/name/nm0001185/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Mia Thermopolis has just found out that she is the heir apparent to the throne of Genovia. With her friends and family, she must navigate through the problems of being a princess.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0247638/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/princess_diaries"
+  },
+  {
+    "title": "Wet Hot American Summer",
+    "year": 2001,
+    "director": {
+      "name": "David Wain",
+      "imdb_person_url": "https://www.imdb.com/name/nm0906433/"
+    },
+    "production_studio": "Eureka Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 0.3,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "38%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Janeane Garofalo", "imdb_person_url": "https://www.imdb.com/name/nm0001257/" },
+      { "name": "David Hyde Pierce", "imdb_person_url": "https://www.imdb.com/name/nm0001621/" },
+      { "name": "Paul Rudd", "imdb_person_url": "https://www.imdb.com/name/nm0749046/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Set on the last day of camp, in the hot summer of 1981, a group of counselors try to complete their unfinished business before the day ends.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0243655/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wet_hot_american_summer"
+  },
+  {
+    "title": "Ghost World",
+    "year": 2001,
+    "director": {
+      "name": "Terry Zwigoff",
+      "imdb_person_url": "https://www.imdb.com/name/nm0959042/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "R",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 7,
+    "gross_revenue_usd_millions": 8.7,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Steve Buscemi", "imdb_person_url": "https://www.imdb.com/name/nm0000114/" },
+      { "name": "Thora Birch", "imdb_person_url": "https://www.imdb.com/name/nm0000301/" },
+      { "name": "Scarlett Johansson", "imdb_person_url": "https://www.imdb.com/name/nm0424060/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A mentally handicapped man fights for custody of his 7-year-old daughter and in the process teaches his cold-hearted lawyer the value of love and family.",
+    "description": "With only the plan of moving in together after high school, two unusually devious friends seek direction in life.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0277027/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_am_sam"
+    "imdb_url": "https://www.imdb.com/title/tt0189584/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ghost_world"
+  },
+  {
+    "title": "Super Troopers",
+    "year": 2001,
+    "director": {
+      "name": "Jay Chandrasekhar",
+      "imdb_person_url": "https://www.imdb.com/name/nm0151428/"
+    },
+    "production_studio": "Fox Searchlight",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 23.2,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "36%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": ["Comedy", "Crime", "Mystery"],
+    "actors": [
+      { "name": "Jay Chandrasekhar", "imdb_person_url": "https://www.imdb.com/name/nm0151428/" },
+      { "name": "Kevin Heffernan", "imdb_person_url": "https://www.imdb.com/name/nm0373548/" },
+      { "name": "Steve Lemme", "imdb_person_url": "https://www.imdb.com/name/nm0501439/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Five bored, occasionally high and always ineffective Vermont state troopers must prove their worth to the governor or lose their jobs.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0247745/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/super_troopers"
+  },
+  {
+    "title": "Lara Croft: Tomb Raider",
+    "year": 2001,
+    "director": {
+      "name": "Simon West",
+      "imdb_person_url": "https://www.imdb.com/name/nm0922345/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 115,
+    "gross_revenue_usd_millions": 274.7,
+    "ratings": {
+      "imdb": 5.7,
+      "rotten_tomatoes_critic": "20%",
+      "rotten_tomatoes_popcorn": "47%"
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "actors": [
+      { "name": "Angelina Jolie", "imdb_person_url": "https://www.imdb.com/name/nm0001401/" },
+      { "name": "Jon Voight", "imdb_person_url": "https://www.imdb.com/name/nm0000685/" },
+      { "name": "Iain Glen", "imdb_person_url": "https://www.imdb.com/name/nm0322127/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Video game adventurer Lara Croft comes to life in a movie where she races against time and villains to recover powerful ancient artifacts.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0146316/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lara_croft_tomb_raider"
+  },
+  {
+    "title": "From Hell",
+    "year": 2001,
+    "director": {
+      "name": "Albert Hughes & Allen Hughes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0399883/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 35,
+    "gross_revenue_usd_millions": 74.6,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Johnny Depp", "imdb_person_url": "https://www.imdb.com/name/nm0000136/" },
+      { "name": "Heather Graham", "imdb_person_url": "https://www.imdb.com/name/nm0001287/" },
+      { "name": "Ian Holm", "imdb_person_url": "https://www.imdb.com/name/nm0000453/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In Victorian Era London, a troubled clairvoyant police detective investigates the murders by Jack the Ripper.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120681/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/from_hell"
+  },
+  {
+    "title": "Sexy Beast",
+    "year": 2001,
+    "director": {
+      "name": "Jonathan Glazer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0322213/"
+    },
+    "production_studio": "Recorded Picture Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 4,
+    "gross_revenue_usd_millions": 10.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Ray Winstone", "imdb_person_url": "https://www.imdb.com/name/nm0935541/" },
+      { "name": "Ben Kingsley", "imdb_person_url": "https://www.imdb.com/name/nm0001426/" },
+      { "name": "Ian McShane", "imdb_person_url": "https://www.imdb.com/name/nm0574534/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Brutal gangster Don Logan recruits 'retired' safecracker Gal for one last job, but it goes badly for both of them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0203119/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sexy_beast"
+  },
+  {
+    "title": "The Man Who Wasn't There",
+    "year": 2001,
+    "director": {
+      "name": "Joel Coen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
+    },
+    "production_studio": "Working Title Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 20,
+    "gross_revenue_usd_millions": 18.9,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Crime", "Drama"],
+    "actors": [
+      { "name": "Billy Bob Thornton", "imdb_person_url": "https://www.imdb.com/name/nm0001796/" },
+      { "name": "Frances McDormand", "imdb_person_url": "https://www.imdb.com/name/nm0005200/" },
+      { "name": "Scarlett Johansson", "imdb_person_url": "https://www.imdb.com/name/nm0424060/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A laconic, chain-smoking barber blackmails his wife's boss and lover for money to invest in dry cleaning, but his plan goes terribly wrong.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0243133/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_who_wasnt_there"
+  },
+  {
+    "title": "In the Bedroom",
+    "year": 2001,
+    "director": {
+      "name": "Todd Field",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000397/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 130,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 44.8,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Crime", "Drama"],
+    "actors": [
+      { "name": "Tom Wilkinson", "imdb_person_url": "https://www.imdb.com/name/nm0929489/" },
+      { "name": "Sissy Spacek", "imdb_person_url": "https://www.imdb.com/name/nm0000651/" },
+      { "name": "Marisa Tomei", "imdb_person_url": "https://www.imdb.com/name/nm0000673/" }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A New England couple's college-aged son dates an older woman who has two children and an unwelcome ex-husband.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0247425/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_the_bedroom"
   },
   {
     "title": "Monster's Ball",
     "year": 2001,
     "director": {
       "name": "Marc Forster",
-      "imdb_person_url": "https://www.imdb.com/name/nm0286828/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0286975/"
     },
-    "production_studio": "Lions Gate Films, Lee Daniels Entertainment",
+    "production_studio": "Lions Gate Films",
     "mpaa_rating": "R",
-    "runtime_minutes": 112,
+    "runtime_minutes": 111,
     "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 45,
+    "gross_revenue_usd_millions": 44.9,
     "ratings": {
       "imdb": 7.0,
       "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "74%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Billy Bob Thornton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000671/"
-      },
-      {
-        "name": "Halle Berry",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000932/"
-      },
-      {
-        "name": "Taylor Simpson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0801031/"
-      }
+      { "name": "Billy Bob Thornton", "imdb_person_url": "https://www.imdb.com/name/nm0001796/" },
+      { "name": "Halle Berry", "imdb_person_url": "https://www.imdb.com/name/nm0000107/" },
+      { "name": "Heath Ledger", "imdb_person_url": "https://www.imdb.com/name/nm0005132/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "After a family tragedy, a racist prison guard re-examines his attitudes while falling in love with the African-American wife of the last prisoner he executed.",
+    "oscars_won_details": ["Best Actress in a Leading Role"],
+    "description": "After a family tragedy, a racist prison guard reexamines his attitudes while falling in love with the African American wife of the last prisoner he executed.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0285742/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/monsters_ball"
   },
   {
-    "title": "Gosford Park",
+    "title": "Ali",
     "year": 2001,
     "director": {
-      "name": "Robert Altman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
+      "name": "Michael Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
     },
-    "production_studio": "USA Films, Capitol Films, Sandcastle 5 Productions",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 19.8,
-    "gross_revenue_usd_millions": 87.8,
+    "runtime_minutes": 157,
+    "budget_usd_millions": 107,
+    "gross_revenue_usd_millions": 87.7,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "68%",
+      "rotten_tomatoes_popcorn": "69%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Mystery"
-    ],
+    "genres": ["Biography", "Drama", "Sport"],
     "actors": [
-      {
-        "name": "Maggie Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001749/"
-      },
-      {
-        "name": "Michael Gambon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002091/"
-      },
-      {
-        "name": "Kristin Scott Thomas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000218/"
-      }
+      { "name": "Will Smith", "imdb_person_url": "https://www.imdb.com/name/nm0000226/" },
+      { "name": "Jamie Foxx", "imdb_person_url": "https://www.imdb.com/name/nm0004937/" },
+      { "name": "Jon Voight", "imdb_person_url": "https://www.imdb.com/name/nm0000685/" }
     ],
-    "oscars_nominated": 7,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Screenplay Written Directly for the Screen"
-    ],
-    "description": "The lives of upstairs masters and downstairs servants at a fancy hunting resort in 1932. And then a murder occurs.",
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A biography of sports legend Muhammad Ali, focusing on his triumphs and controversies between 1964 and 1974.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0280707/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gosford_park"
+    "imdb_url": "https://www.imdb.com/title/tt0248667/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ali"
+  },
+  {
+    "title": "Hedwig and the Angry Inch",
+    "year": 2001,
+    "director": {
+      "name": "John Cameron Mitchell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0593463/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 3.6,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": ["Comedy", "Drama", "Music"],
+    "actors": [
+      { "name": "John Cameron Mitchell", "imdb_person_url": "https://www.imdb.com/name/nm0593463/" },
+      { "name": "Miriam Shor", "imdb_person_url": "https://www.imdb.com/name/nm0794914/" },
+      { "name": "Stephen Trask", "imdb_person_url": "https://www.imdb.com/name/nm0871134/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A gender-queer punk-rock singer from East Berlin tours the U.S. with her band as she tells her life story and follows the former lover/band-mate who stole her songs.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0248845/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hedwig_and_the_angry_inch"
+  },
+  {
+    "title": "Waking Life",
+    "year": 2001,
+    "director": {
+      "name": "Richard Linklater",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
+    },
+    "production_studio": "Fox Searchlight",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Animation", "Drama", "Fantasy"],
+    "actors": [
+      { "name": "Ethan Hawke", "imdb_person_url": "https://www.imdb.com/name/nm0000160/" },
+      { "name": "Trevor Jack Brooks", "imdb_person_url": "https://www.imdb.com/name/nm0111651/" },
+      { "name": "Julie Delpy", "imdb_person_url": "https://www.imdb.com/name/nm0000365/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0243017/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/waking_life"
+  },
+  {
+    "title": "Shaolin Soccer",
+    "year": 2001,
+    "director": {
+      "name": "Stephen Chow",
+      "imdb_person_url": "https://www.imdb.com/name/nm0159507/"
+    },
+    "production_studio": "Star Overseas",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 10,
+    "gross_revenue_usd_millions": 42.8,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Action", "Comedy", "Sport"],
+    "actors": [
+      { "name": "Stephen Chow", "imdb_person_url": "https://www.imdb.com/name/nm0159507/" },
+      { "name": "Zhao Wei", "imdb_person_url": "https://www.imdb.com/name/nm0955525/" },
+      { "name": "Ng Man-tat", "imdb_person_url": "https://www.imdb.com/name/nm0628851/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0286112/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shaolin_soccer"
+  },
+  {
+    "title": "Lagaan: Once Upon a Time in India",
+    "year": 2001,
+    "director": {
+      "name": "Ashutosh Gowariker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0332958/"
+    },
+    "production_studio": "Aamir Khan Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 224,
+    "budget_usd_millions": 5,
+    "gross_revenue_usd_millions": 13,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": ["Drama", "Musical", "Sport"],
+    "actors": [
+      { "name": "Aamir Khan", "imdb_person_url": "https://www.imdb.com/name/nm0000265/" },
+      { "name": "Raghubir Yadav", "imdb_person_url": "https://www.imdb.com/name/nm0944799/" },
+      { "name": "Gracy Singh", "imdb_person_url": "https://www.imdb.com/name/nm0802138/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0169102/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lagaan_once_upon_a_time_in_india"
+  },
+  {
+    "title": "Jeepers Creepers",
+    "year": 2001,
+    "director": {
+      "name": "Victor Salva",
+      "imdb_person_url": "https://www.imdb.com/name/nm0759147/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "R",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 10,
+    "gross_revenue_usd_millions": 59.2,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "46%",
+      "rotten_tomatoes_popcorn": "48%"
+    },
+    "genres": ["Horror", "Mystery"],
+    "actors": [
+      { "name": "Gina Philips", "imdb_person_url": "https://www.imdb.com/name/nm0680426/" },
+      { "name": "Justin Long", "imdb_person_url": "https://www.imdb.com/name/nm0004171/" },
+      { "name": "Jonathan Breck", "imdb_person_url": "https://www.imdb.com/name/nm0106563/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A brother and sister driving home through isolated countryside for spring break encounter a flesh-eating creature which is on the last day of its ritualistic eating spree.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0263488/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jeepers_creepers"
+  },
+  {
+    "title": "Jay and Silent Bob Strike Back",
+    "year": 2001,
+    "director": {
+      "name": "Kevin Smith",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
+    },
+    "production_studio": "Dimension Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 22,
+    "gross_revenue_usd_millions": 33.8,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "52%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Comedy"],
+    "actors": [
+      { "name": "Jason Mewes", "imdb_person_url": "https://www.imdb.com/name/nm0582921/" },
+      { "name": "Kevin Smith", "imdb_person_url": "https://www.imdb.com/name/nm0000032/" },
+      { "name": "Ben Affleck", "imdb_person_url": "https://www.imdb.com/name/nm0000255/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The comic duo Jay and Silent Bob strike back when they discover that a movie is being made based on the Bluntman and Chronic comic book, and they aren't getting any of the profits.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0261392/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jay_and_silent_bob_strike_back"
+  },
+  {
+    "title": "Evolution",
+    "year": 2001,
+    "director": {
+      "name": "Ivan Reitman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
+    },
+    "production_studio": "DreamWorks",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 80,
+    "gross_revenue_usd_millions": 98.4,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "43%",
+      "rotten_tomatoes_popcorn": "48%"
+    },
+    "genres": ["Comedy", "Sci-Fi"],
+    "actors": [
+      { "name": "David Duchovny", "imdb_person_url": "https://www.imdb.com/name/nm0000141/" },
+      { "name": "Orlando Jones", "imdb_person_url": "https://www.imdb.com/name/nm0428931/" },
+      { "name": "Julianne Moore", "imdb_person_url": "https://www.imdb.com/name/nm0000194/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A fire-fighting cadet, two college professors, and a geeky government scientist work against an alien organism that has been rapidly evolving since its arrival on Earth via a meteor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0251075/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/evolution"
+  },
+  {
+    "title": "Not Another Teen Movie",
+    "year": 2001,
+    "director": {
+      "name": "Joel Gallen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0302732/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 66.5,
+    "ratings": {
+      "imdb": 5.7,
+      "rotten_tomatoes_critic": "29%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": ["Comedy"],
+    "actors": [
+      { "name": "Chyler Leigh", "imdb_person_url": "https://www.imdb.com/name/nm0500220/" },
+      { "name": "Chris Evans", "imdb_person_url": "https://www.imdb.com/name/nm0262635/" },
+      { "name": "Jaime Pressly", "imdb_person_url": "https://www.imdb.com/name/nm0005326/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A spoof on the teen movie genre, where a popular jock bets that he can turn an unconventional girl into the prom queen.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0277371/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/not_another_teen_movie"
+  },
+  {
+    "title": "Behind Enemy Lines",
+    "year": 2001,
+    "director": {
+      "name": "John Moore",
+      "imdb_person_url": "https://www.imdb.com/name/nm0601374/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 40,
+    "gross_revenue_usd_millions": 91.8,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "37%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": ["Action", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Gene Hackman", "imdb_person_url": "https://www.imdb.com/name/nm0000431/" },
+      { "name": "Owen Wilson", "imdb_person_url": "https://www.imdb.com/name/nm0005562/" },
+      { "name": "Gabriel Macht", "imdb_person_url": "https://www.imdb.com/name/nm0532683/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Naval aviator is shot down over enemy territory in Bosnia and must survive while being hunted by a ruthless tracker, as his commanding officer fights to launch a rescue mission.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0159273/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/behind_enemy_lines"
+  },
+  {
+    "title": "K-PAX",
+    "year": 2001,
+    "director": {
+      "name": "Iain Softley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0812226/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 68,
+    "gross_revenue_usd_millions": 65,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "42%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Drama", "Sci-Fi"],
+    "actors": [
+      { "name": "Kevin Spacey", "imdb_person_url": "https://www.imdb.com/name/nm0000228/" },
+      { "name": "Jeff Bridges", "imdb_person_url": "https://www.imdb.com/name/nm0000313/" },
+      { "name": "Mary McCormack", "imdb_person_url": "https://www.imdb.com/name/nm0005203/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Prot claims to be from the planet K-PAX. His psychiatrist tries to help him, only to begin to doubt his own explanations.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0206389/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/k_pax"
+  },
+  {
+    "title": "Serendipity",
+    "year": 2001,
+    "director": {
+      "name": "Peter Chelsom",
+      "imdb_person_url": "https://www.imdb.com/name/nm0155389/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 28,
+    "gross_revenue_usd_millions": 77.5,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "59%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "John Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0000131/" },
+      { "name": "Kate Beckinsale", "imdb_person_url": "https://www.imdb.com/name/nm0000295/" },
+      { "name": "Jeremy Piven", "imdb_person_url": "https://www.imdb.com/name/nm0005315/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A couple search for each other years after the night they first met, fell in love, and separated, convinced that one day they'd end up together.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0240890/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/serendipity"
   }
 ]

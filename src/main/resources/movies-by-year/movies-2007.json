@@ -3,13 +3,13 @@
     "title": "No Country for Old Men",
     "year": 2007,
     "director": {
-      "name": "Joel Coen, Ethan Coen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
+      "name": "Ethan Coen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001053/"
     },
-    "production_studio": "Miramax, Paramount Vantage, Scott Rudin Productions",
+    "production_studio": "Miramax",
     "mpaa_rating": "R",
     "runtime_minutes": 122,
-    "budget_usd_millions": 25,
+    "budget_usd_millions": 25.0,
     "gross_revenue_usd_millions": 171.6,
     "ratings": {
       "imdb": 8.2,
@@ -32,15 +32,15 @@
       },
       {
         "name": "Josh Brolin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000982/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000314/"
       }
     ],
     "oscars_nominated": 8,
     "oscars_won": 4,
     "oscars_won_details": [
-      "Best Motion Picture of the Year",
-      "Best Performance by an Actor in a Supporting Role",
+      "Best Picture",
       "Best Director",
+      "Best Supporting Actor (Javier Bardem)",
       "Best Adapted Screenplay"
     ],
     "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
@@ -55,10 +55,10 @@
       "name": "Paul Thomas Anderson",
       "imdb_person_url": "https://www.imdb.com/name/nm0000759/"
     },
-    "production_studio": "Paramount Vantage, Miramax",
+    "production_studio": "Paramount Vantage",
     "mpaa_rating": "R",
     "runtime_minutes": 158,
-    "budget_usd_millions": 25,
+    "budget_usd_millions": 25.0,
     "gross_revenue_usd_millions": 76.2,
     "ratings": {
       "imdb": 8.2,
@@ -71,7 +71,7 @@
     "actors": [
       {
         "name": "Daniel Day-Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000358/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
       },
       {
         "name": "Paul Dano",
@@ -85,75 +85,30 @@
     "oscars_nominated": 8,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Performance by an Actor in a Leading Role",
-      "Best Achievement in Cinematography"
+      "Best Actor (Daniel Day-Lewis)",
+      "Best Cinematography"
     ],
-    "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "description": "A story of family, religion, hatred, oil, and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0469494/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/there_will_be_blood"
-  },
-  {
-    "title": "Juno",
-    "year": 2007,
-    "director": {
-      "name": "Jason Reitman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0718646/"
-    },
-    "production_studio": "Fox Searchlight Pictures, Mandate Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 7.5,
-    "gross_revenue_usd_millions": 231.4,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Elliot Page",
-        "imdb_person_url": "https://www.imdb.com/name/nm0680983/"
-      },
-      {
-        "name": "Michael Cera",
-        "imdb_person_url": "https://www.imdb.com/name/nm0148418/"
-      },
-      {
-        "name": "Jennifer Garner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004950/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Original Screenplay"
-    ],
-    "description": "Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding her unborn child.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0467406/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/juno"
   },
   {
     "title": "Atonement",
     "year": 2007,
     "director": {
       "name": "Joe Wright",
-      "imdb_person_url": "https://www.imdb.com/name/nm0942484/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0942504/"
     },
-    "production_studio": "Focus Features, Working Title Films",
+    "production_studio": "Working Title Films",
     "mpaa_rating": "R",
     "runtime_minutes": 123,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 129.3,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 131.0,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Drama",
@@ -179,10 +134,332 @@
     "oscars_won_details": [
       "Best Original Score"
     ],
-    "description": "Thirteen-year-old Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+    "description": "Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0783233/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/atonement"
+  },
+  {
+    "title": "Michael Clayton",
+    "year": 2007,
+    "director": {
+      "name": "Tony Gilroy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0319682/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 92.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "George Clooney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
+      },
+      {
+        "name": "Tilda Swinton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0842770/"
+      },
+      {
+        "name": "Tom Wilkinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0929489/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actress (Tilda Swinton)"
+    ],
+    "description": "A law firm brings in its 'fixer' to remedy the situation after a lawyer has a breakdown while representing a chemical company that he knows is guilty in a multibillion-dollar class action suit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0465538/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/michael_clayton"
+  },
+  {
+    "title": "Juno",
+    "year": 2007,
+    "director": {
+      "name": "Jason Reitman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0718646/"
+    },
+    "production_studio": "Fox Searchlight Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 7.5,
+    "gross_revenue_usd_millions": 231.4,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Elliot Page",
+        "imdb_person_url": "https://www.imdb.com/name/nm0680983/"
+      },
+      {
+        "name": "Michael Cera",
+        "imdb_person_url": "https://www.imdb.com/name/nm0148418/"
+      },
+      {
+        "name": "Jennifer Garner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004950/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Original Screenplay"
+    ],
+    "description": "Faced with an unplanned pregnancy, an offbeat young woman makes an unusual decision regarding the unborn child.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0467406/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/juno"
+  },
+  {
+    "title": "Ratatouille",
+    "year": 2007,
+    "director": {
+      "name": "Brad Bird",
+      "imdb_person_url": "https://www.imdb.com/name/nm0083348/"
+    },
+    "production_studio": "Pixar Animation Studios",
+    "mpaa_rating": "G",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 150.0,
+    "gross_revenue_usd_millions": 623.7,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Patton Oswalt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0652663/"
+      },
+      {
+        "name": "Ian Holm",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
+      },
+      {
+        "name": "Lou Romano",
+        "imdb_person_url": "https://www.imdb.com/name/nm1103118/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Animated Feature"
+    ],
+    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0382932/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ratatouille"
+  },
+  {
+    "title": "The Bourne Ultimatum",
+    "year": 2007,
+    "director": {
+      "name": "Paul Greengrass",
+      "imdb_person_url": "https://www.imdb.com/name/nm0339030/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 110.0,
+    "gross_revenue_usd_millions": 444.1,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Matt Damon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
+      },
+      {
+        "name": "Julia Stiles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005466/"
+      },
+      {
+        "name": "David Strathairn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000657/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Film Editing",
+      "Best Sound Mixing",
+      "Best Sound Editing"
+    ],
+    "description": "Jason Bourne dodges a new CIA official and his agents from a new assassination program while searching for the origins of his life as a trained killer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0440963/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bourne_ultimatum"
+  },
+  {
+    "title": "La Vie en Rose",
+    "year": 2007,
+    "director": {
+      "name": "Olivier Dahan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0196860/"
+    },
+    "production_studio": "Légende Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 87.6,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Marion Cotillard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0182839/"
+      },
+      {
+        "name": "Sylvie Testud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0856534/"
+      },
+      {
+        "name": "Pascal Greggory",
+        "imdb_person_url": "https://www.imdb.com/name/nm0339603/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actress (Marion Cotillard)",
+      "Best Makeup"
+    ],
+    "description": "Biopic of the iconic French singer Édith Piaf. Raised by her grandmother in a brothel, she was discovered while singing on a street corner at the age of 19.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0460505/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_vie_en_rose"
+  },
+  {
+    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "year": 2007,
+    "director": {
+      "name": "Tim Burton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000318/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 50.0,
+    "gross_revenue_usd_millions": 152.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Johnny Depp",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000307/"
+      },
+      {
+        "name": "Alan Rickman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000614/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Art Direction"
+    ],
+    "description": "The infamous story of Benjamin Barker, a.k.a. Sweeney Todd, who sets up a barber shop in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0463947/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sweeney_todd_the_demon_barber_of_fleet_street_2007"
+  },
+  {
+    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "year": 2007,
+    "director": {
+      "name": "Andrew Dominik",
+      "imdb_person_url": "https://www.imdb.com/name/nm0231436/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 160,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 15.0,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Brad Pitt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
+      },
+      {
+        "name": "Casey Affleck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000729/"
+      },
+      {
+        "name": "Sam Shepard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Robert Ford, who's idolized Jesse James since childhood, tries hard to join the reforming gang of the Missouri outlaw, but gradually becomes resentful of the bandit leader.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0443680/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/assassination_of_jesse_james_by_the_coward_robert_ford"
   },
   {
     "title": "Zodiac",
@@ -191,15 +468,15 @@
       "name": "David Fincher",
       "imdb_person_url": "https://www.imdb.com/name/nm0000399/"
     },
-    "production_studio": "Warner Bros., Paramount Pictures",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 157,
-    "budget_usd_millions": 65,
-    "gross_revenue_usd_millions": 84.8,
+    "budget_usd_millions": 65.0,
+    "gross_revenue_usd_millions": 84.7,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
       "Crime",
@@ -235,15 +512,15 @@
       "name": "Sean Penn",
       "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
     },
-    "production_studio": "Paramount Vantage, River Road Entertainment",
+    "production_studio": "Paramount Vantage",
     "mpaa_rating": "R",
     "runtime_minutes": 148,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 56.8,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 56.6,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "90%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Adventure",
@@ -253,7 +530,7 @@
     "actors": [
       {
         "name": "Emile Hirsch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0386472/"
       },
       {
         "name": "Vince Vaughn",
@@ -273,83 +550,37 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/into_the_wild"
   },
   {
-    "title": "Michael Clayton",
-    "year": 2007,
-    "director": {
-      "name": "Tony Gilroy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0319779/"
-    },
-    "production_studio": "Warner Bros., Castle Rock Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 93,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "George Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Tilda Swinton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001784/"
-      },
-      {
-        "name": "Tom Wilkinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0929489/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actress in a Supporting Role"
-    ],
-    "description": "A 'fixer' at a top-tier New York law firm has a crisis of conscience when he discovers a cover-up.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0465551/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/michael_clayton"
-  },
-  {
     "title": "Superbad",
     "year": 2007,
     "director": {
       "name": "Greg Mottola",
-      "imdb_person_url": "https://www.imdb.com/name/nm0609376/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0609558/"
     },
-    "production_studio": "Columbia Pictures, Apatow Productions",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 113,
-    "budget_usd_millions": 20,
+    "budget_usd_millions": 20.0,
     "gross_revenue_usd_millions": 170.8,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Comedy"
     ],
     "actors": [
       {
-        "name": "Jonah Hill",
-        "imdb_person_url": "https://www.imdb.com/name/nm1706767/"
-      },
-      {
         "name": "Michael Cera",
         "imdb_person_url": "https://www.imdb.com/name/nm0148418/"
       },
       {
+        "name": "Jonah Hill",
+        "imdb_person_url": "https://www.imdb.com/name/nm1706767/"
+      },
+      {
         "name": "Christopher Mintz-Plasse",
-        "imdb_person_url": "https://www.imdb.com/name/nm2612268/"
+        "imdb_person_url": "https://www.imdb.com/name/nm2395586/"
       }
     ],
     "oscars_nominated": 0,
@@ -361,198 +592,104 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/superbad"
   },
   {
-    "title": "The Bourne Ultimatum",
+    "title": "Hot Fuzz",
     "year": 2007,
     "director": {
-      "name": "Paul Greengrass",
-      "imdb_person_url": "https://www.imdb.com/name/nm0339023/"
+      "name": "Edgar Wright",
+      "imdb_person_url": "https://www.imdb.com/name/nm0942367/"
     },
-    "production_studio": "Universal Pictures, The Kennedy/Marshall Company",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 110,
-    "gross_revenue_usd_millions": 444.1,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Action",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Matt Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
-      },
-      {
-        "name": "Edgar Ramírez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0709282/"
-      },
-      {
-        "name": "Joan Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000260/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Film Editing",
-      "Best Sound Mixing",
-      "Best Sound Editing"
-    ],
-    "description": "Jason Bourne dodges a ruthless C.I.A. official and his agents from a new assassination program while searching for the origins of his life as a trained killer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0440963/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bourne_ultimatum"
-  },
-  {
-    "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-    "year": 2007,
-    "director": {
-      "name": "Tim Burton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000318/"
-    },
-    "production_studio": "DreamWorks, Warner Bros.",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 153.4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Johnny Depp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
-      },
-      {
-        "name": "Helena Bonham Carter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000307/"
-      },
-      {
-        "name": "Alan Rickman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000614/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Achievement in Art Direction"
-    ],
-    "description": "The infamous story of Benjamin Barker, a.k.a Sweeney Todd, who sets up a barber shop down in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0408236/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sweeney_todd_the_demon_barber_of_fleet_street"
-  },
-  {
-    "title": "American Gangster",
-    "year": 2007,
-    "director": {
-      "name": "Ridley Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
-    },
-    "production_studio": "Universal Pictures, Imagine Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 157,
-    "budget_usd_millions": 100,
-    "gross_revenue_usd_millions": 266.5,
+    "runtime_minutes": 121,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 80.7,
     "ratings": {
       "imdb": 7.8,
-      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_critic": "91%",
       "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Denzel Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
-      },
-      {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
-      },
-      {
-        "name": "Chiwetel Ejiofor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0252230/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0765429/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_gangster"
-  },
-  {
-    "title": "I Am Legend",
-    "year": 2007,
-    "director": {
-      "name": "Francis Lawrence",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001454/"
-    },
-    "production_studio": "Warner Bros., Village Roadshow Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 150,
-    "gross_revenue_usd_millions": 585.4,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "68%",
-      "rotten_tomatoes_popcorn": "68%"
-    },
-    "genres": [
       "Action",
-      "Drama",
-      "Horror"
+      "Comedy",
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
+        "name": "Simon Pegg",
+        "imdb_person_url": "https://www.imdb.com/name/nm0670364/"
       },
       {
-        "name": "Alice Braga",
-        "imdb_person_url": "https://www.imdb.com/name/nm0103797/"
+        "name": "Nick Frost",
+        "imdb_person_url": "https://www.imdb.com/name/nm0296545/"
       },
       {
-        "name": "Charlie Tahan",
-        "imdb_person_url": "https://www.imdb.com/name/nm2253071/"
+        "name": "Martin Freeman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0293509/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+    "description": "A skilled London police officer is transferred to a small town with a dark secret.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0480249/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_am_legend"
+    "imdb_url": "https://www.imdb.com/title/tt0425112/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hot_fuzz"
+  },
+  {
+    "title": "Enchanted",
+    "year": 2007,
+    "director": {
+      "name": "Kevin Lima",
+      "imdb_person_url": "https://www.imdb.com/name/nm0510647/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 85.0,
+    "gross_revenue_usd_millions": 340.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Amy Adams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0010736/"
+      },
+      {
+        "name": "Susan Sarandon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
+      },
+      {
+        "name": "James Marsden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005188/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil queen, where she falls in love with a lawyer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0461770/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enchanted"
   },
   {
     "title": "300",
-    "year": 2006,
+    "year": 2007,
     "director": {
       "name": "Zack Snyder",
       "imdb_person_url": "https://www.imdb.com/name/nm0811583/"
     },
-    "production_studio": "Warner Bros., Legendary Pictures",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 117,
-    "budget_usd_millions": 65,
+    "budget_usd_millions": 65.0,
     "gross_revenue_usd_millions": 456.1,
     "ratings": {
       "imdb": 7.6,
@@ -570,7 +707,7 @@
       },
       {
         "name": "Lena Headey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005004/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0372176/"
       },
       {
         "name": "David Wenham",
@@ -586,94 +723,48 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/300"
   },
   {
-    "title": "Ratatouille",
+    "title": "I Am Legend",
     "year": 2007,
     "director": {
-      "name": "Brad Bird, Jan Pinkava",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000946/"
+      "name": "Francis Lawrence",
+      "imdb_person_url": "https://www.imdb.com/name/nm0492738/"
     },
-    "production_studio": "Pixar Animation Studios, Walt Disney Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 150,
-    "gross_revenue_usd_millions": 623.7,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 150.0,
+    "gross_revenue_usd_millions": 585.3,
     "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "87%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "68%",
+      "rotten_tomatoes_popcorn": "68%"
     },
     "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Patton Oswalt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0652663/"
-      },
-      {
-        "name": "Ian Holm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
-      },
-      {
-        "name": "Lou Romano",
-        "imdb_person_url": "https://www.imdb.com/name/nm0739180/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Animated Feature Film of the Year"
-    ],
-    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0382932/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ratatouille"
-  },
-  {
-    "title": "Knocked Up",
-    "year": 2007,
-    "director": {
-      "name": "Judd Apatow",
-      "imdb_person_url": "https://www.imdb.com/name/nm0031976/"
-    },
-    "production_studio": "Universal Pictures, Apatow Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 219,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
+      "Action",
       "Drama",
-      "Romance"
+      "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "Seth Rogen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0736622/"
+        "name": "Will Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
       },
       {
-        "name": "Katherine Heigl",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001337/"
+        "name": "Alice Braga",
+        "imdb_person_url": "https://www.imdb.com/name/nm0103818/"
       },
       {
-        "name": "Paul Rudd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001682/"
+        "name": "Charlie Tahan",
+        "imdb_person_url": "https://www.imdb.com/name/nm2253071/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "For fun-loving party animal Ben Stone, the last thing he ever expected was for his one-night stand to show up on his doorstep eight weeks later to tell him she's pregnant.",
+    "description": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0478311/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/knocked_up"
+    "imdb_url": "https://www.imdb.com/title/tt0480249/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_am_legend"
   },
   {
     "title": "Transformers",
@@ -682,10 +773,10 @@
       "name": "Michael Bay",
       "imdb_person_url": "https://www.imdb.com/name/nm0000881/"
     },
-    "production_studio": "Paramount Pictures, DreamWorks, Hasbro",
+    "production_studio": "DreamWorks",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 144,
-    "budget_usd_millions": 150,
+    "budget_usd_millions": 150.0,
     "gross_revenue_usd_millions": 709.7,
     "ratings": {
       "imdb": 7.0,
@@ -720,137 +811,487 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/transformers_the_movie"
   },
   {
-    "title": "The Simpsons Movie",
+    "title": "Harry Potter and the Order of the Phoenix",
     "year": 2007,
     "director": {
-      "name": "David Silverman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0798886/"
+      "name": "David Yates",
+      "imdb_person_url": "https://www.imdb.com/name/nm0946734/"
     },
-    "production_studio": "20th Century Fox, Gracie Films",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 87,
-    "budget_usd_millions": 75,
-    "gross_revenue_usd_millions": 536.4,
+    "runtime_minutes": 138,
+    "budget_usd_millions": 150.0,
+    "gross_revenue_usd_millions": 942.0,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "79%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
-      "Animation",
+      "Action",
       "Adventure",
-      "Comedy"
+      "Family"
     ],
     "actors": [
       {
-        "name": "Dan Castellaneta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001026/"
+        "name": "Daniel Radcliffe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0705356/"
       },
       {
-        "name": "Julie Kavner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001413/"
+        "name": "Emma Watson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0914612/"
       },
       {
-        "name": "Nancy Cartwright",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004813/"
+        "name": "Rupert Grint",
+        "imdb_person_url": "https://www.imdb.com/name/nm0342488/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "description": "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0462538/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_simpsons_movie"
+    "imdb_url": "https://www.imdb.com/title/tt0373889/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harry_potter_and_the_order_of_the_phoenix"
   },
   {
-    "title": "300",
-    "year": 2006,
+    "title": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
     "director": {
-      "name": "Zack Snyder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0811583/"
+      "name": "Gore Verbinski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0893659/"
     },
-    "production_studio": "Warner Bros., Legendary Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 65,
-    "gross_revenue_usd_millions": 456.1,
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 169,
+    "budget_usd_millions": 300.0,
+    "gross_revenue_usd_millions": 963.4,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "61%",
-      "rotten_tomatoes_popcorn": "89%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "44%",
+      "rotten_tomatoes_popcorn": "72%"
     },
     "genres": [
       "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Johnny Depp",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
+      },
+      {
+        "name": "Orlando Bloom",
+        "imdb_person_url": "https://www.imdb.com/name/nm0089217/"
+      },
+      {
+        "name": "Keira Knightley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0461136/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0449088/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pirates_of_the_caribbean_at_worlds_end"
+  },
+  {
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "director": {
+      "name": "Sam Raimi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 139,
+    "budget_usd_millions": 258.0,
+    "gross_revenue_usd_millions": 894.9,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Tobey Maguire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000513/"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000392/"
+      },
+      {
+        "name": "Topher Grace",
+        "imdb_person_url": "https://www.imdb.com/name/nm0333410/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0413300/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spiderman_3"
+  },
+  {
+    "title": "American Gangster",
+    "year": 2007,
+    "director": {
+      "name": "Ridley Scott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 157,
+    "budget_usd_millions": 100.0,
+    "gross_revenue_usd_millions": 266.5,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Gerard Butler",
-        "imdb_person_url": "https://www.imdb.com/name/nm0124930/"
+        "name": "Denzel Washington",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
       },
       {
-        "name": "Lena Headey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005004/"
+        "name": "Russell Crowe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
       },
       {
-        "name": "David Wenham",
-        "imdb_person_url": "https://www.imdb.com/name/nm0920992/"
+        "name": "Chiwetel Ejiofor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0252230/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0765429/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_gangster"
+  },
+  {
+    "title": "Gone Baby Gone",
+    "year": 2007,
+    "director": {
+      "name": "Ben Affleck",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000255/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 19.0,
+    "gross_revenue_usd_millions": 34.6,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Morgan Freeman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
+      },
+      {
+        "name": "Ed Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000438/"
+      },
+      {
+        "name": "Casey Affleck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000729/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two Boston area detectives investigate a little girl's kidnapping, which ultimately turns into a crisis both professionally and personally.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0452623/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gone_baby_gone"
+  },
+  {
+    "title": "Eastern Promises",
+    "year": 2007,
+    "director": {
+      "name": "David Cronenberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
+    },
+    "production_studio": "Focus Features",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 56.1,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Naomi Watts",
+        "imdb_person_url": "https://www.imdb.com/name/nm0915208/"
+      },
+      {
+        "name": "Viggo Mortensen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001557/"
+      },
+      {
+        "name": "Armin Mueller-Stahl",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001556/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A teenager who dies during childbirth leaves clues in her diary that could tie her child to a rape involving a violent Russian mob family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0765443/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eastern_promises"
+  },
+  {
+    "title": "3:10 to Yuma",
+    "year": 2007,
+    "director": {
+      "name": "James Mangold",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
+    },
+    "production_studio": "Lionsgate",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 55.0,
+    "gross_revenue_usd_millions": 70.0,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Russell Crowe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
+      },
+      {
+        "name": "Christian Bale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
+      },
+      {
+        "name": "Ben Foster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004936/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0381849/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/310_to_yuma"
+  },
+  {
+    "title": "Before the Devil Knows You're Dead",
+    "year": 2007,
+    "director": {
+      "name": "Sidney Lumet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+    },
+    "production_studio": "Capitol Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 25.0,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Philip Seymour Hoffman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000450/"
+      },
+      {
+        "name": "Ethan Hawke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000160/"
+      },
+      {
+        "name": "Albert Finney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001215/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
+    "description": "When two brothers organize the robbery of their parents' jewelry store the job goes horribly wrong, triggering a series of events that sends them, their father and one brother's wife hurtling towards a shattering climax.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0416449/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/300"
+    "imdb_url": "https://www.imdb.com/title/tt0292963/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/before_the_devil_knows_youre_dead"
   },
   {
-    "title": "Ratatouille",
+    "title": "Sunshine",
     "year": 2007,
     "director": {
-      "name": "Brad Bird, Jan Pinkava",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000946/"
+      "name": "Danny Boyle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000965/"
     },
-    "production_studio": "Pixar Animation Studios, Walt Disney Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 150,
-    "gross_revenue_usd_millions": 623.7,
+    "production_studio": "Fox Searchlight Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 40.0,
+    "gross_revenue_usd_millions": 32.0,
     "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "87%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
+      "Sci-Fi",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Patton Oswalt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0652663/"
+        "name": "Cillian Murphy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0614165/"
       },
       {
-        "name": "Ian Holm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
+        "name": "Rose Byrne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0126284/"
       },
       {
-        "name": "Lou Romano",
-        "imdb_person_url": "https://www.imdb.com/name/nm0739180/"
+        "name": "Chris Evans",
+        "imdb_person_url": "https://www.imdb.com/name/nm0262635/"
       }
     ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Animated Feature Film of the Year"
-    ],
-    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0382932/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ratatouille"
+    "imdb_url": "https://www.imdb.com/title/tt0448134/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sunshine"
+  },
+  {
+    "title": "Stardust",
+    "year": 2007,
+    "director": {
+      "name": "Matthew Vaughn",
+      "imdb_person_url": "https://www.imdb.com/name/nm0891216/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 70.0,
+    "gross_revenue_usd_millions": 137.0,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Charlie Cox",
+        "imdb_person_url": "https://www.imdb.com/name/nm1214435/"
+      },
+      {
+        "name": "Claire Danes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001100/"
+      },
+      {
+        "name": "Sienna Miller",
+        "imdb_person_url": "https://www.imdb.com/name/nm1092227/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0486655/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stardust"
+  },
+  {
+    "title": "Hairspray",
+    "year": 2007,
+    "director": {
+      "name": "Adam Shankman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0788184/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 75.0,
+    "gross_revenue_usd_millions": 202.5,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "John Travolta",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
+      },
+      {
+        "name": "Queen Latifah",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001451/"
+      },
+      {
+        "name": "Nikki Blonsky",
+        "imdb_person_url": "https://www.imdb.com/name/nm2393664/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0427327/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hairspray_2007"
   },
   {
     "title": "Knocked Up",
@@ -859,19 +1300,18 @@
       "name": "Judd Apatow",
       "imdb_person_url": "https://www.imdb.com/name/nm0031976/"
     },
-    "production_studio": "Universal Pictures, Apatow Productions",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 129,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 219,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 219.1,
     "ratings": {
       "imdb": 6.9,
       "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Comedy",
-      "Drama",
       "Romance"
     ],
     "actors": [
@@ -885,7 +1325,7 @@
       },
       {
         "name": "Paul Rudd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001682/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0748620/"
       }
     ],
     "oscars_nominated": 0,
@@ -897,331 +1337,65 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/knocked_up"
   },
   {
-    "title": "The Last King of Scotland",
-    "year": 2006,
+    "title": "The Mist",
+    "year": 2007,
     "director": {
-      "name": "Kevin Macdonald",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001494/"
+      "name": "Frank Darabont",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001104/"
     },
-    "production_studio": "Fox Searchlight Pictures, Film4 Productions",
+    "production_studio": "Dimension Films",
     "mpaa_rating": "R",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 48.4,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Forest Whitaker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
-      },
-      {
-        "name": "James McAvoy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0564215/"
-      },
-      {
-        "name": "Kerry Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004897/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actor in a Leading Role"
-    ],
-    "description": "Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen by his personal physician during the 1970s.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0455590/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_king_of_scotland"
-  },
-  {
-    "title": "The Assassination of Jesse James by the Coward Robert Ford",
-    "year": 2007,
-    "director": {
-      "name": "Andrew Dominik",
-      "imdb_person_url": "https://www.imdb.com/name/nm0232230/"
-    },
-    "production_studio": "Warner Bros., Plan B Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 160,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 15,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Brad Pitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
-      },
-      {
-        "name": "Casey Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000729/"
-      },
-      {
-        "name": "Sam Shepard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Robert Ford, who's idolized Jesse James since childhood, tries hard to join the resurgent gang of the Missouri outlaw, but gradually becomes resentful of the bandit leader.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0443680/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/assassination_of_jesse_james_by_the_coward_robert_ford"
-  },
-  {
-    "title": "Across the Universe",
-    "year": 2007,
-    "director": {
-      "name": "Julie Taymor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005481/"
-    },
-    "production_studio": "Columbia Pictures, Revolution Studios",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 29.4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "54%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Evan Rachel Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001859/"
-      },
-      {
-        "name": "Jim Sturgess",
-        "imdb_person_url": "https://www.imdb.com/name/nm0836343/"
-      },
-      {
-        "name": "Joe Anderson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0027953/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The music of the Beatles and the Vietnam War form the backdrop for the romance between an upper-class American girl and a poor Liverpudlian artist.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0445922/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/across_the_universe"
-  },
-  {
-    "title": "3:10 to Yuma",
-    "year": 2007,
-    "director": {
-      "name": "James Mangold",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
-    },
-    "production_studio": "Lions Gate Films, Relativity Media",
-    "mpaa_rating": "R",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 71.2,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
-      },
-      {
-        "name": "Christian Bale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
-      },
-      {
-        "name": "Ben Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004936/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0381849/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/3_10_to_yuma"
-  },
-  {
-    "title": "Enchanted",
-    "year": 2007,
-    "director": {
-      "name": "Kevin Lima",
-      "imdb_person_url": "https://www.imdb.com/name/nm0509760/"
-    },
-    "production_studio": "Walt Disney Pictures, Josephson Entertainment",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 85,
-    "gross_revenue_usd_millions": 340.5,
+    "runtime_minutes": 126,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 57.3,
     "ratings": {
       "imdb": 7.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
-      "Animation",
-      "Comedy",
-      "Family"
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Amy Adams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0010736/"
+        "name": "Thomas Jane",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005048/"
       },
       {
-        "name": "Patrick Dempsey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
+        "name": "Marcia Gay Harden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005002/"
       },
       {
-        "name": "James Marsden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005188/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil Queen, where she falls in love with a lawyer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0461770/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enchanted"
-  },
-  {
-    "title": "Hairspray",
-    "year": 2007,
-    "director": {
-      "name": "Adam Shankman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005430/"
-    },
-    "production_studio": "New Line Cinema, Ingenious Film Partners",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 75,
-    "gross_revenue_usd_millions": 203.5,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "John Travolta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "Michelle Pfeiffer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
-      },
-      {
-        "name": "Christopher Walken",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000686/"
+        "name": "Laurie Holden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0390229/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
+    "description": "A freak storm unleashes a species of bloodthirsty creatures on a small town, where a small band of citizens hole up in a supermarket and fight for their lives.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0427327/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hairspray"
-  },
-  {
-    "title": "Gone Baby Gone",
-    "year": 2007,
-    "director": {
-      "name": "Ben Affleck",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000255/"
-    },
-    "production_studio": "Miramax, The Ladd Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 34.6,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Casey Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000729/"
-      },
-      {
-        "name": "Michelle Monaghan",
-        "imdb_person_url": "https://www.imdb.com/name/nm1157358/"
-      },
-      {
-        "name": "Morgan Freeman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two Boston-area private investigators search for a little girl who's been abducted from a shabby Boston neighborhood.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0452623/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gone_baby_gone"
+    "imdb_url": "https://www.imdb.com/title/tt0884328/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mist"
   },
   {
     "title": "The Simpsons Movie",
     "year": 2007,
     "director": {
       "name": "David Silverman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0798886/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0798899/"
     },
-    "production_studio": "20th Century Fox, Gracie Films",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 87,
-    "budget_usd_millions": 75,
+    "budget_usd_millions": 75.0,
     "gross_revenue_usd_millions": 536.4,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "79%"
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
       "Animation",
@@ -1231,7 +1405,7 @@
     "actors": [
       {
         "name": "Dan Castellaneta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001026/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0144657/"
       },
       {
         "name": "Julie Kavner",
@@ -1245,473 +1419,115 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "description": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0462538/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_simpsons_movie"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/simpsons_movie"
   },
   {
-    "title": "Ratatouille",
+    "title": "Persepolis",
     "year": 2007,
     "director": {
-      "name": "Brad Bird, Jan Pinkava",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000946/"
+      "name": "Marjane Satrapi",
+      "imdb_person_url": "https://www.imdb.com/name/nm1231351/"
     },
-    "production_studio": "Pixar Animation Studios, Walt Disney Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 150,
-    "gross_revenue_usd_millions": 623.7,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Patton Oswalt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0652663/"
-      },
-      {
-        "name": "Ian Holm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
-      },
-      {
-        "name": "Lou Romano",
-        "imdb_person_url": "https://www.imdb.com/name/nm0739180/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Animated Feature Film of the Year"
-    ],
-    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0382932/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ratatouille"
-  },
-  {
-    "title": "The Last King of Scotland",
-    "year": 2006,
-    "director": {
-      "name": "Kevin Macdonald",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001494/"
-    },
-    "production_studio": "Fox Searchlight Pictures, Film4 Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 48.4,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Forest Whitaker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
-      },
-      {
-        "name": "James McAvoy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0564215/"
-      },
-      {
-        "name": "Kerry Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004897/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actor in a Leading Role"
-    ],
-    "description": "Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen by his personal physician during the 1970s.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0455590/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_king_of_scotland"
-  },
-  {
-    "title": "The Assassination of Jesse James by the Coward Robert Ford",
-    "year": 2007,
-    "director": {
-      "name": "Andrew Dominik",
-      "imdb_person_url": "https://www.imdb.com/name/nm0232230/"
-    },
-    "production_studio": "Warner Bros., Plan B Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 160,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 15,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Brad Pitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
-      },
-      {
-        "name": "Casey Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000729/"
-      },
-      {
-        "name": "Sam Shepard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Robert Ford, who's idolized Jesse James since childhood, tries hard to join the resurgent gang of the Missouri outlaw, but gradually becomes resentful of the bandit leader.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0443680/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/assassination_of_jesse_james_by_the_coward_robert_ford"
-  },
-  {
-    "title": "Across the Universe",
-    "year": 2007,
-    "director": {
-      "name": "Julie Taymor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005481/"
-    },
-    "production_studio": "Columbia Pictures, Revolution Studios",
+    "production_studio": "2.4.7. Films",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 29.4,
+    "runtime_minutes": 96,
+    "budget_usd_millions": 7.3,
+    "gross_revenue_usd_millions": 22.7,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "54%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
-      "Drama",
-      "Fantasy",
-      "Musical"
+      "Animation",
+      "Biography",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Evan Rachel Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001859/"
+        "name": "Chiara Mastroianni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0557895/"
       },
       {
-        "name": "Jim Sturgess",
-        "imdb_person_url": "https://www.imdb.com/name/nm0836343/"
+        "name": "Catherine Deneuve",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000363/"
       },
       {
-        "name": "Joe Anderson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0027953/"
+        "name": "Gena Rowlands",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000619/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The music of the Beatles and the Vietnam War form the backdrop for the romance between an upper-class American girl and a poor Liverpudlian artist.",
+    "description": "A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0445922/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/across_the_universe"
+    "imdb_url": "https://www.imdb.com/title/tt0808417/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/persepolis"
   },
   {
-    "title": "3:10 to Yuma",
+    "title": "The Orphanage",
     "year": 2007,
     "director": {
-      "name": "James Mangold",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
+      "name": "J.A. Bayona",
+      "imdb_person_url": "https://www.imdb.com/name/nm1378633/"
     },
-    "production_studio": "Lions Gate Films, Relativity Media",
+    "production_studio": "Rodar y Rodar",
     "mpaa_rating": "R",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 71.2,
+    "runtime_minutes": 105,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 78.6,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "87%",
       "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
-      },
-      {
-        "name": "Christian Bale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
-      },
-      {
-        "name": "Ben Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004936/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0381849/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/3_10_to_yuma"
-  },
-  {
-    "title": "Enchanted",
-    "year": 2007,
-    "director": {
-      "name": "Kevin Lima",
-      "imdb_person_url": "https://www.imdb.com/name/nm0509760/"
-    },
-    "production_studio": "Walt Disney Pictures, Josephson Entertainment",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 85,
-    "gross_revenue_usd_millions": 340.5,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Amy Adams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0010736/"
-      },
-      {
-        "name": "Patrick Dempsey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
-      },
-      {
-        "name": "James Marsden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005188/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil Queen, where she falls in love with a lawyer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0461770/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enchanted"
-  },
-  {
-    "title": "Hairspray",
-    "year": 2007,
-    "director": {
-      "name": "Adam Shankman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005430/"
-    },
-    "production_studio": "New Line Cinema, Ingenious Film Partners",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 75,
-    "gross_revenue_usd_millions": 203.5,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Comedy",
       "Drama",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "John Travolta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "Michelle Pfeiffer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
-      },
-      {
-        "name": "Christopher Walken",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000686/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0427327/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hairspray"
-  },
-  {
-    "title": "Gone Baby Gone",
-    "year": 2007,
-    "director": {
-      "name": "Ben Affleck",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000255/"
-    },
-    "production_studio": "Miramax, The Ladd Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 34.6,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
+      "Horror",
       "Mystery"
     ],
     "actors": [
       {
-        "name": "Casey Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000729/"
+        "name": "Belén Rueda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0749055/"
       },
       {
-        "name": "Michelle Monaghan",
-        "imdb_person_url": "https://www.imdb.com/name/nm1157358/"
+        "name": "Fernando Cayo",
+        "imdb_person_url": "https://www.imdb.com/name/nm1107088/"
       },
       {
-        "name": "Morgan Freeman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two Boston-area private investigators search for a little girl who's been abducted from a shabby Boston neighborhood.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0452623/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gone_baby_gone"
-  },
-  {
-    "title": "The Simpsons Movie",
-    "year": 2007,
-    "director": {
-      "name": "David Silverman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0798886/"
-    },
-    "production_studio": "20th Century Fox, Gracie Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 87,
-    "budget_usd_millions": 75,
-    "gross_revenue_usd_millions": 536.4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Dan Castellaneta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001026/"
-      },
-      {
-        "name": "Julie Kavner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001413/"
-      },
-      {
-        "name": "Nancy Cartwright",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004813/"
+        "name": "Roger Príncep",
+        "imdb_person_url": "https://www.imdb.com/name/nm2356009/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After Homer pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "description": "A woman brings her family back to her childhood home, which used to be an orphanage for handicapped children. Before long, her son starts to communicate with a new invisible friend.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0462538/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_simpsons_movie"
+    "imdb_url": "https://www.imdb.com/title/tt0464141/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/orfanato"
   },
   {
-    "title": "Ratatouille",
+    "title": "Lars and the Real Girl",
     "year": 2007,
     "director": {
-      "name": "Brad Bird, Jan Pinkava",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000946/"
+      "name": "Craig Gillespie",
+      "imdb_person_url": "https://www.imdb.com/name/nm0318897/"
     },
-    "production_studio": "Pixar Animation Studios, Walt Disney Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 150,
-    "gross_revenue_usd_millions": 623.7,
+    "production_studio": "Sidney Kimmel Entertainment",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 11.2,
     "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Patton Oswalt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0652663/"
-      },
-      {
-        "name": "Ian Holm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
-      },
-      {
-        "name": "Lou Romano",
-        "imdb_person_url": "https://www.imdb.com/name/nm0739180/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Animated Feature Film of the Year"
-    ],
-    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0382932/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ratatouille"
-  },
-  {
-    "title": "Knocked Up",
-    "year": 2007,
-    "director": {
-      "name": "Judd Apatow",
-      "imdb_person_url": "https://www.imdb.com/name/nm0031976/"
-    },
-    "production_studio": "Universal Pictures, Apatow Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 219,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Comedy",
@@ -1720,220 +1536,439 @@
     ],
     "actors": [
       {
-        "name": "Seth Rogen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0736622/"
+        "name": "Ryan Gosling",
+        "imdb_person_url": "https://www.imdb.com/name/nm0331516/"
       },
       {
-        "name": "Katherine Heigl",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001337/"
+        "name": "Emily Mortimer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0607865/"
       },
       {
-        "name": "Paul Rudd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001682/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "For fun-loving party animal Ben Stone, the last thing he ever expected was for his one-night stand to show up on his doorstep eight weeks later to tell him she's pregnant.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0478311/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/knocked_up"
-  },
-  {
-    "title": "The Last King of Scotland",
-    "year": 2006,
-    "director": {
-      "name": "Kevin Macdonald",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001494/"
-    },
-    "production_studio": "Fox Searchlight Pictures, Film4 Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 48.4,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Forest Whitaker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
-      },
-      {
-        "name": "James McAvoy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0564215/"
-      },
-      {
-        "name": "Kerry Washington",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004897/"
+        "name": "Paul Schneider",
+        "imdb_person_url": "https://www.imdb.com/name/nm0773973/"
       }
     ],
     "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Performance by an Actor in a Leading Role"
-    ],
-    "description": "Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen by his personal physician during the 1970s.",
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A delusional young man strikes up an unconventional relationship with a doll he finds on the Internet.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0455590/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_king_of_scotland"
+    "imdb_url": "https://www.imdb.com/title/tt0805564/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lars_and_the_real_girl"
   },
   {
-    "title": "The Assassination of Jesse James by the Coward Robert Ford",
+    "title": "Charlie Wilson's War",
     "year": 2007,
     "director": {
-      "name": "Andrew Dominik",
-      "imdb_person_url": "https://www.imdb.com/name/nm0232230/"
+      "name": "Mike Nichols",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001566/"
     },
-    "production_studio": "Warner Bros., Plan B Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 160,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 15,
+    "runtime_minutes": 102,
+    "budget_usd_millions": 75.0,
+    "gross_revenue_usd_millions": 119.0,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
       "Biography",
-      "Crime",
+      "Comedy",
       "Drama"
     ],
     "actors": [
+      {
+        "name": "Tom Hanks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
+      },
+      {
+        "name": "Julia Roberts",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000450/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A drama based on a Texas congressman Charlie Wilson's covert dealings in Afghanistan, where he assisted the Mujahideen rebels in their war with the Soviets.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0472062/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/charlie_wilsons_war"
+  },
+  {
+    "title": "Ocean's Thirteen",
+    "year": 2007,
+    "director": {
+      "name": "Steven Soderbergh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000649/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 85.0,
+    "gross_revenue_usd_millions": 311.3,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "George Clooney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
+      },
       {
         "name": "Brad Pitt",
         "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
       },
       {
-        "name": "Casey Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000729/"
-      },
-      {
-        "name": "Sam Shepard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
+        "name": "Matt Damon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Robert Ford, who's idolized Jesse James since childhood, tries hard to join the resurgent gang of the Missouri outlaw, but gradually becomes resentful of the bandit leader.",
+    "description": "Danny Ocean rounds up the boys for a third heist after casino owner Willy Bank double-crosses one of the original eleven, Reuben Tishkoff.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0443680/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/assassination_of_jesse_james_by_the_coward_robert_ford"
+    "imdb_url": "https://www.imdb.com/title/tt0496806/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oceans_thirteen"
   },
   {
-    "title": "Across the Universe",
+    "title": "Live Free or Die Hard",
     "year": 2007,
     "director": {
-      "name": "Julie Taymor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005481/"
+      "name": "Len Wiseman",
+      "imdb_person_url": "https://www.imdb.com/name/nm1053873/"
     },
-    "production_studio": "Columbia Pictures, Revolution Studios",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 29.4,
+    "runtime_minutes": 128,
+    "budget_usd_millions": 110.0,
+    "gross_revenue_usd_millions": 388.2,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "54%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Evan Rachel Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001859/"
-      },
-      {
-        "name": "Jim Sturgess",
-        "imdb_person_url": "https://www.imdb.com/name/nm0836343/"
-      },
-      {
-        "name": "Joe Anderson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0027953/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The music of the Beatles and the Vietnam War form the backdrop for the romance between an upper-class American girl and a poor Liverpudlian artist.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0445922/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/across_the_universe"
-  },
-  {
-    "title": "3:10 to Yuma",
-    "year": 2007,
-    "director": {
-      "name": "James Mangold",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
-    },
-    "production_studio": "Lions Gate Films, Relativity Media",
-    "mpaa_rating": "R",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 55,
-    "gross_revenue_usd_millions": 71.2,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "82%",
       "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Action",
-      "Crime",
-      "Drama"
+      "Adventure",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
+        "name": "Bruce Willis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
       },
       {
-        "name": "Christian Bale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
+        "name": "Justin Long",
+        "imdb_person_url": "https://www.imdb.com/name/nm0519031/"
       },
       {
-        "name": "Ben Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004936/"
+        "name": "Timothy Olyphant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0648249/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.",
+    "description": "John McClane and a young hacker join forces to take down master cyber-terrorist Thomas Gabriel in Washington D.C.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0381849/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/3_10_to_yuma"
+    "imdb_url": "https://www.imdb.com/title/tt0337978/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/live_free_or_die_hard"
   },
   {
-    "title": "Enchanted",
+    "title": "Bridge to Terabithia",
     "year": 2007,
     "director": {
-      "name": "Kevin Lima",
-      "imdb_person_url": "https://www.imdb.com/name/nm0509760/"
+      "name": "Gabor Csupo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0190822/"
     },
-    "production_studio": "Walt Disney Pictures, Josephson Entertainment",
+    "production_studio": "Walt Disney Pictures",
     "mpaa_rating": "PG",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 85,
-    "gross_revenue_usd_millions": 340.5,
+    "runtime_minutes": 96,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 137.6,
     "ratings": {
       "imdb": 7.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Josh Hutcherson",
+        "imdb_person_url": "https://www.imdb.com/name/nm1242688/"
+      },
+      {
+        "name": "AnnaSophia Robb",
+        "imdb_person_url": "https://www.imdb.com/name/nm1455681/"
+      },
+      {
+        "name": "Zooey Deschanel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0221043/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A preteen's life turns upside down when he befriends the new girl in school and they imagine a whole new fantasy world to escape reality.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0398808/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bridge_to_terabithia"
+  },
+  {
+    "title": "Death Proof",
+    "year": 2007,
+    "director": {
+      "name": "Quentin Tarantino",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000233/"
+    },
+    "production_studio": "Dimension Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 31.1,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "66%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Kurt Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
+      },
+      {
+        "name": "Zoë Bell",
+        "imdb_person_url": "https://www.imdb.com/name/nm1088052/"
+      },
+      {
+        "name": "Rosario Dawson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0206257/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his 'death proof' cars to execute his murderous plans.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt1028528/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grindhouse_death_proof"
+  },
+  {
+    "title": "Planet Terror",
+    "year": 2007,
+    "director": {
+      "name": "Robert Rodriguez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
+    },
+    "production_studio": "Dimension Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 23.0,
+    "gross_revenue_usd_millions": 10.9,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Rose McGowan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000535/"
+      },
+      {
+        "name": "Freddy Rodríguez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0735329/"
+      },
+      {
+        "name": "Josh Brolin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000314/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After an experimental bio-weapon is released, turning thousands into zombie-like creatures, it's up to a rag-tag group of survivors to stop the infected and those behind its release.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt1077258/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/planet_terror"
+  },
+  {
+    "title": "Once",
+    "year": 2007,
+    "director": {
+      "name": "John Carney",
+      "imdb_person_url": "https://www.imdb.com/name/nm0138819/"
+    },
+    "production_studio": "Summit Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.15,
+    "gross_revenue_usd_millions": 20.7,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Glen Hansard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0360927/"
+      },
+      {
+        "name": "Markéta Irglová",
+        "imdb_person_url": "https://www.imdb.com/name/nm2461715/"
+      },
+      {
+        "name": "Hugh Walsh",
+        "imdb_person_url": "https://www.imdb.com/name/nm2539082/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Original Song (Falling Slowly)"
+    ],
+    "description": "A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0907657/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/once"
+  },
+  {
+    "title": "Beowulf",
+    "year": 2007,
+    "director": {
+      "name": "Robert Zemeckis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 150.0,
+    "gross_revenue_usd_millions": 196.4,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation"
+    ],
+    "actors": [
+      {
+        "name": "Ray Winstone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0935653/"
+      },
+      {
+        "name": "Crispin Glover",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000417/"
+      },
+      {
+        "name": "Angelina Jolie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001401/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The warrior Beowulf must fight and defeat the monster Grendel, who is terrorizing Denmark, and later, Grendel's mother, who begins killing out of revenge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0442933/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beowulf"
+  },
+  {
+    "title": "Meet the Robinsons",
+    "year": 2007,
+    "director": {
+      "name": "Stephen J. Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0027464/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 150.0,
+    "gross_revenue_usd_millions": 169.3,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Daniel Hansen",
+        "imdb_person_url": "https://www.imdb.com/name/nm1267501/"
+      },
+      {
+        "name": "Wesley Singerman",
+        "imdb_person_url": "https://www.imdb.com/name/nm1453437/"
+      },
+      {
+        "name": "Angela Bassett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000291/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Lewis is a brilliant inventor who meets a mysterious stranger named Wilbur Robinson, whisking Lewis away in a time machine and together they team up to track down the Bowler Hat Guy in a showdown that ends with an unexpected twist of fate.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0438488/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/meet_the_robinsons"
+  },
+  {
+    "title": "Surf's Up",
+    "year": 2007,
+    "director": {
+      "name": "Ash Brannon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0105182/"
+    },
+    "production_studio": "Sony Pictures Animation",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 100.0,
+    "gross_revenue_usd_millions": 149.0,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Animation",
@@ -1942,68 +1977,240 @@
     ],
     "actors": [
       {
-        "name": "Amy Adams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0010736/"
+        "name": "Shia LaBeouf",
+        "imdb_person_url": "https://www.imdb.com/name/nm0479471/"
       },
       {
-        "name": "Patrick Dempsey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
+        "name": "Jeff Bridges",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
       },
       {
-        "name": "James Marsden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005188/"
+        "name": "Zooey Deschanel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0221043/"
       }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil Queen, where she falls in love with a lawyer.",
+    "description": "A behind-the-scenes look at the annual Penguin World Surfing Championship, and its newest participant, up-and-comer Cody Maverick.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0461770/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enchanted"
+    "imdb_url": "https://www.imdb.com/title/tt0423294/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/surfs_up"
   },
   {
-    "title": "Hairspray",
+    "title": "Lust, Caution",
     "year": 2007,
     "director": {
-      "name": "Adam Shankman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005430/"
+      "name": "Ang Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
     },
-    "production_studio": "New Line Cinema, Ingenious Film Partners",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 75,
-    "gross_revenue_usd_millions": 203.5,
+    "production_studio": "Focus Features",
+    "mpaa_rating": "NC-17",
+    "runtime_minutes": 157,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 67.1,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
-      "Comedy",
       "Drama",
-      "Family"
+      "History",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "John Travolta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
+        "name": "Tony Leung Chiu-wai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0496187/"
       },
       {
-        "name": "Michelle Pfeiffer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000201/"
+        "name": "Tang Wei",
+        "imdb_person_url": "https://www.imdb.com/name/nm2322705/"
       },
       {
-        "name": "Christopher Walken",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000686/"
+        "name": "Joan Chen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001040/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
+    "description": "During World War II era, a young woman, Wang Jiazhi, gets swept up in a dangerous game of emotional intrigue with a powerful political figure, Mr. Yee.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0427327/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hairspray"
+    "imdb_url": "https://www.imdb.com/title/tt0808357/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lust_caution"
+  },
+  {
+    "title": "4 Months, 3 Weeks and 2 Days",
+    "year": 2007,
+    "director": {
+      "name": "Cristian Mungiu",
+      "imdb_person_url": "https://www.imdb.com/name/nm0612816/"
+    },
+    "production_studio": "Mobra Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 10.1,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anamaria Marinca",
+        "imdb_person_url": "https://www.imdb.com/name/nm1660458/"
+      },
+      {
+        "name": "Laura Vasiliu",
+        "imdb_person_url": "https://www.imdb.com/name/nm1202737/"
+      },
+      {
+        "name": "Vlad Ivanov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0412085/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman assists her friend in arranging an illegal abortion in 1980s Romania.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt1032846/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/4_months_3_weeks_and_2_days"
+  },
+  {
+    "title": "The Diving Bell and the Butterfly",
+    "year": 2007,
+    "director": {
+      "name": "Julian Schnabel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0773638/"
+    },
+    "production_studio": "Pathé Renn Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 112,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 19.9,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Mathieu Amalric",
+        "imdb_person_url": "https://www.imdb.com/name/nm0023868/"
+      },
+      {
+        "name": "Emmanuelle Seigner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0782574/"
+      },
+      {
+        "name": "Marie-Josée Croze",
+        "imdb_person_url": "https://www.imdb.com/name/nm0189573/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The true story of Elle editor Jean-Dominique Bauby who suffers a stroke and has to live with an almost totally paralyzed body; only his left eye isn't paralyzed.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0401383/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/diving_bell_and_the_butterfly"
+  },
+  {
+    "title": "I'm Not There",
+    "year": 2007,
+    "director": {
+      "name": "Todd Haynes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001333/"
+    },
+    "production_studio": "Killer Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 11.7,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Christian Bale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
+      },
+      {
+        "name": "Cate Blanchett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000949/"
+      },
+      {
+        "name": "Heath Ledger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005132/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Ruminations on the life of Bob Dylan, where six characters embody a different aspect of the musician's life and work.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0405508/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/im_not_there"
+  },
+  {
+    "title": "Walk Hard: The Dewey Cox Story",
+    "year": 2007,
+    "director": {
+      "name": "Jake Kasdan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0440458/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 20.6,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "John C. Reilly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000604/"
+      },
+      {
+        "name": "Jenna Fischer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0278979/"
+      },
+      {
+        "name": "Tim Meadows",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005218/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Singer Dewey Cox overcomes adversity to become a musical legend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0841046/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/walk_hard_the_dewey_cox_story"
   }
 ]

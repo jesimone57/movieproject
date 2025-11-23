@@ -4,48 +4,31 @@
     "year": 1947,
     "director": {
       "name": "George Seaton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0780491/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0780792/"
     },
     "production_studio": "20th Century Fox",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 96,
     "budget_usd_millions": 0.63,
-    "gross_revenue_usd_millions": 2.7,
+    "gross_revenue_usd_millions": 3.15,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "94%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
+    "genres": ["Comedy", "Drama", "Family"],
     "actors": [
-      {
-        "name": "Edmund Gwenn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002112/"
-      },
-      {
-        "name": "Maureen O'Hara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000058/"
-      },
-      {
-        "name": "John Payne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0668275/"
-      }
+      { "name": "Edmund Gwenn", "imdb_person_url": "https://www.imdb.com/name/nm0002119/" },
+      { "name": "Maureen O'Hara", "imdb_person_url": "https://www.imdb.com/name/nm0000058/" },
+      { "name": "John Payne", "imdb_person_url": "https://www.imdb.com/name/nm0668360/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Supporting Actor",
-      "Best Writing, Original Story",
-      "Best Writing, Screenplay"
-    ],
-    "description": "After a divorced New York mother hires a nice old man to play Santa Claus at Macy's, she is startled by his claim to be the genuine article.",
-    "afi_ranking": null,
+    "oscars_won_details": ["Best Actor in a Supporting Role", "Best Writing, Original Story", "Best Writing, Screenplay"],
+    "description": "When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.",
+    "afi_ranking": 9,
     "imdb_url": "https://www.imdb.com/title/tt0039628/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/miracle_on_34th_street"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013970-miracle_on_34th_street"
   },
   {
     "title": "Out of the Past",
@@ -55,33 +38,20 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0869664/"
     },
     "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Passed",
+    "mpaa_rating": "Not Rated",
     "runtime_minutes": 97,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 2.1,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": 1.5,
     "ratings": {
       "imdb": 8.0,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Robert Mitchum",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
-      },
-      {
-        "name": "Jane Greer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002115/"
-      },
-      {
-        "name": "Kirk Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
-      }
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" },
+      { "name": "Jane Greer", "imdb_person_url": "https://www.imdb.com/name/nm0001295/" },
+      { "name": "Kirk Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0000018/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -99,88 +69,28 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0001415/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 118,
     "budget_usd_millions": 2,
     "gross_revenue_usd_millions": 7.8,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "79%"
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "69%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
-      },
-      {
-        "name": "Dorothy McGuire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001524/"
-      },
-      {
-        "name": "John Garfield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002092/"
-      }
+      { "name": "Gregory Peck", "imdb_person_url": "https://www.imdb.com/name/nm0000060/" },
+      { "name": "Dorothy McGuire", "imdb_person_url": "https://www.imdb.com/name/nm0570219/" },
+      { "name": "John Garfield", "imdb_person_url": "https://www.imdb.com/name/nm0002092/" }
     ],
     "oscars_nominated": 8,
     "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Supporting Actress"
-    ],
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Actress in a Supporting Role"],
     "description": "A reporter pretends to be Jewish in order to cover a story on anti-Semitism, and personally discovers the true depths of bigotry and hatred.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0039416/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gentlemans_agreement"
-  },
-  {
-    "title": "The Ghost and Mrs. Muir",
-    "year": 1947,
-    "director": {
-      "name": "Joseph L. Mankiewicz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0542403/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 1.9,
-    "gross_revenue_usd_millions": 3,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Gene Tierney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000074/"
-      },
-      {
-        "name": "Rex Harrison",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
-      },
-      {
-        "name": "George Sanders",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001695/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In 1900s England, a young widow finds her seaside cottage is haunted and forms a unique relationship with the ghost.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039420/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_ghost_and_mrs_muir"
   },
   {
     "title": "The Lady from Shanghai",
@@ -193,528 +103,118 @@
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 87,
     "budget_usd_millions": 2.3,
-    "gross_revenue_usd_millions": null,
+    "gross_revenue_usd_millions": 1.5,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "78%"
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Rita Hayworth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000028/"
-      },
-      {
-        "name": "Orson Welles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
-      },
-      {
-        "name": "Everett Sloane",
-        "imdb_person_url": "https://www.imdb.com/name/nm0806085/"
-      }
+      { "name": "Rita Hayworth", "imdb_person_url": "https://www.imdb.com/name/nm0000030/" },
+      { "name": "Orson Welles", "imdb_person_url": "https://www.imdb.com/name/nm0000080/" },
+      { "name": "Everett Sloane", "imdb_person_url": "https://www.imdb.com/name/nm0805997/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Fascinated by the beauty of a mysterious woman, a smitten man joins her and her husband on their yacht, but their cruise is not as idyllic as it seems.",
+    "description": "Fascinated by a gorgeous woman, a seaman becomes a pawn in a complex murder plot.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040525/",
+    "imdb_url": "https://www.imdb.com/title/tt0039545/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lady_from_shanghai"
   },
   {
-    "title": "The Bachelor and the Bobby-Soxer",
+    "title": "The Ghost and Mrs. Muir",
     "year": 1947,
     "director": {
-      "name": "Irving Reis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0718361/"
+      "name": "Joseph L. Mankiewicz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0542403/"
     },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 5.5,
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Drama", "Fantasy", "Romance"],
     "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Myrna Loy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
-      },
-      {
-        "name": "Shirley Temple",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000073/"
-      }
+      { "name": "Gene Tierney", "imdb_person_url": "https://www.imdb.com/name/nm0000074/" },
+      { "name": "Rex Harrison", "imdb_person_url": "https://www.imdb.com/name/nm0001322/" },
+      { "name": "George Sanders", "imdb_person_url": "https://www.imdb.com/name/nm0001695/" }
     ],
     "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Original Screenplay"
-    ],
-    "description": "A teenage girl's crush on a suave bachelor artist gets him in hot water with her judge sister, who orders him to date the girl until her infatuation wears off.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039169/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_bachelor_and_the_bobbysoxer"
-  },
-  {
-    "title": "Life with Father",
-    "year": 1947,
-    "director": {
-      "name": "Michael Curtiz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 4.7,
-    "gross_revenue_usd_millions": 6,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "William Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
-      },
-      {
-        "name": "Irene Dunne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002050/"
-      },
-      {
-        "name": "Elizabeth Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
-      }
-    ],
-    "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A loving but eccentric New York City family in the 1880s is ruled by the iron will of their patriarch, but his wife's quiet determination usually wins the day.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039566/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/life_with_father"
+    "description": "A young widow forms a unique relationship with the ghost of a seaman and writes a best seller based on his experiences.",
+    "afi_ranking": 73,
+    "imdb_url": "https://www.imdb.com/title/tt0039420/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ghost_and_mrs_muir"
   },
   {
-    "title": "Crossfire",
+    "title": "Black Narcissus",
     "year": 1947,
     "director": {
-      "name": "Edward Dmytryk",
-      "imdb_person_url": "https://www.imdb.com/name/nm0228839/"
+      "name": "Michael Powell & Emeric Pressburger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000592/"
     },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 86,
-    "budget_usd_millions": 0.6,
-    "gross_revenue_usd_millions": 2.5,
+    "production_studio": "The Archers",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 1.5,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Robert Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Robert Mitchum",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
-      },
-      {
-        "name": "Robert Ryan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A police detective investigates the murder of a Jewish man, with a group of demobilized soldiers as the prime suspects.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039286/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crossfire"
-  },
-  {
-    "title": "The Farmer's Daughter",
-    "year": 1947,
-    "director": {
-      "name": "H.C. Potter",
-      "imdb_person_url": "https://www.imdb.com/name/nm0693214/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": 3.7,
-    "ratings": {
-      "imdb": 7.1,
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Loretta Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Joseph Cotten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
-      },
-      {
-        "name": "Ethel Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000863/"
-      }
+      { "name": "Deborah Kerr", "imdb_person_url": "https://www.imdb.com/name/nm0000039/" },
+      { "name": "David Farrar", "imdb_person_url": "https://www.imdb.com/name/nm0268115/" },
+      { "name": "Flora Robson", "imdb_person_url": "https://www.imdb.com/name/nm0733463/" }
     ],
     "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress"
-    ],
-    "description": "A determined young Swedish-American woman leaves her family's farm to become a nurse, but ends up working as a maid for a congressman, and her political savvy soon shines through.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039369/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_farmers_daughter"
-  },
-  {
-    "title": "Body and Soul",
-    "year": 1947,
-    "director": {
-      "name": "Robert Rossen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0744047/"
-    },
-    "production_studio": "Enterprise Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 4.7,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Drama",
-      "Film-Noir",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "John Garfield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002092/"
-      },
-      {
-        "name": "Lilli Palmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0658425/"
-      },
-      {
-        "name": "Hazel Brooks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0112018/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Film Editing"
-    ],
-    "description": "A young boxer rises through the ranks, but his success comes at a great moral cost.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039204/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/body_and_soul"
-  },
-  {
-    "title": "A Double Life",
-    "year": 1947,
-    "director": {
-      "name": "George Cukor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
-    },
-    "production_studio": "Kanin Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 104,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.5,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "75%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
-      },
-      {
-        "name": "Signe Hasso",
-        "imdb_person_url": "https://www.imdb.com/name/nm0368541/"
-      },
-      {
-        "name": "Edmond O'Brien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0639649/"
-      }
-    ],
-    "oscars_nominated": 4,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor",
-      "Best Music, Scoring of a Dramatic or Comedy Picture"
-    ],
-    "description": "An actor's life is dangerously influenced by the roles he plays, especially when he takes on the part of Othello.",
+    "oscars_won_details": ["Best Cinematography, Color", "Best Art Direction-Set Decoration, Color"],
+    "description": "A group of nuns struggle to establish a convent in the Himalayas, while isolation, extreme weather, altitude, and culture clashes all conspire to drive the well-intentioned missionaries mad.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039335/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_double_life"
+    "imdb_url": "https://www.imdb.com/title/tt0039192/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/black_narcissus"
   },
   {
     "title": "The Bishop's Wife",
     "year": 1947,
     "director": {
       "name": "Henry Koster",
-      "imdb_person_url": "https://www.imdb.com/name/nm0467336/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0467475/"
     },
-    "production_studio": "Samuel Goldwyn Company",
+    "production_studio": "The Samuel Goldwyn Company",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 109,
-    "budget_usd_millions": 2.6,
-    "gross_revenue_usd_millions": 10,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "85%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
+    "genres": ["Comedy", "Drama", "Fantasy"],
     "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Loretta Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "David Niven",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000057/"
-      }
+      { "name": "Cary Grant", "imdb_person_url": "https://www.imdb.com/name/nm0000026/" },
+      { "name": "Loretta Young", "imdb_person_url": "https://www.imdb.com/name/nm0000082/" },
+      { "name": "David Niven", "imdb_person_url": "https://www.imdb.com/name/nm0000057/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Sound, Recording"
-    ],
-    "description": "An angel in human form enters the life of a bishop and his wife to help them in their quest for a new cathedral.",
+    "oscars_won_details": ["Best Sound, Recording"],
+    "description": "A debonair angel comes to Earth to help an Episcopalian bishop and his wife in their quest to raise money for the new church.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0039190/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_bishops_wife"
-  },
-  {
-    "title": "Dark Passage",
-    "year": 1947,
-    "director": {
-      "name": "Delmer Daves",
-      "imdb_person_url": "https://www.imdb.com/name/nm0202287/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 3.4,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Film-Noir",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Humphrey Bogart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
-      },
-      {
-        "name": "Lauren Bacall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000002/"
-      },
-      {
-        "name": "Bruce Bennett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0071627/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man convicted of murdering his wife escapes from prison and works with a woman to try and prove his innocence.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039302/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_passage"
-  },
-  {
-    "title": "The Secret Life of Walter Mitty",
-    "year": 1947,
-    "director": {
-      "name": "Norman Z. McLeod",
-      "imdb_person_url": "https://www.imdb.com/name/nm0572855/"
-    },
-    "production_studio": "Samuel Goldwyn Company",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 3.1,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "68%"
-    },
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Danny Kaye",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001414/"
-      },
-      {
-        "name": "Virginia Mayo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005202/"
-      },
-      {
-        "name": "Boris Karloff",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A timid magazine proofreader who escapes his mundane life by daydreaming of being a hero gets mixed up in a real-life adventure.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039808/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_secret_life_of_walter_mitty"
-  },
-  {
-    "title": "The Paradine Case",
-    "year": 1947,
-    "director": {
-      "name": "Alfred Hitchcock",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
-    },
-    "production_studio": "Vanguard Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 4.25,
-    "gross_revenue_usd_millions": 2.1,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "45%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
-      },
-      {
-        "name": "Ann Todd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0865191/"
-      },
-      {
-        "name": "Charles Laughton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A happily married London barrister falls in love with the accused poisoner he is defending.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039694/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_paradine_case"
-  },
-  {
-    "title": "Odd Man Out",
-    "year": 1947,
-    "director": {
-      "name": "Carol Reed",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001657/"
-    },
-    "production_studio": "Two Cities Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 116,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001514/"
-      },
-      {
-        "name": "Robert Newton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0628675/"
-      },
-      {
-        "name": "Cyril Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002032/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The leader of an illegal Irish nationalist organization is wounded in a botched robbery and must evade the police.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039677/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/odd_man_out"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bishops_wife"
   },
   {
     "title": "Monsieur Verdoux",
@@ -724,86 +224,803 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
     },
     "production_studio": "Charles Chaplin Productions",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 124,
     "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 1.5,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "88%"
     },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Comedy", "Crime", "Drama"],
     "actors": [
-      {
-        "name": "Charles Chaplin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
-      },
-      {
-        "name": "Mady Correll",
-        "imdb_person_url": "https://www.imdb.com/name/nm0180424/"
-      },
-      {
-        "name": "Allison Roddan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0734491/"
-      }
+      { "name": "Charles Chaplin", "imdb_person_url": "https://www.imdb.com/name/nm0000122/" },
+      { "name": "Mady Correll", "imdb_person_url": "https://www.imdb.com/name/nm0180871/" },
+      { "name": "Allison Roddan", "imdb_person_url": "https://www.imdb.com/name/nm0734427/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former bank clerk marries and murders rich widows to support his family.",
+    "description": "A suave but cynical man supports his family by marrying and murdering rich women for their money, but the job has some occupational hazards.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0039631/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/monsieur_verdoux"
   },
   {
-    "title": "Black Narcissus",
+    "title": "Crossfire",
     "year": 1947,
     "director": {
-      "name": "Michael Powell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002019/"
+      "name": "Edward Dmytryk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0229425/"
     },
-    "production_studio": "The Archers",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 101,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.3,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "71%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Deborah Kerr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000039/"
-      },
-      {
-        "name": "Sabu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001689/"
-      },
-      {
-        "name": "David Farrar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0268153/"
-      }
+      { "name": "Robert Young", "imdb_person_url": "https://www.imdb.com/name/nm0950062/" },
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" },
+      { "name": "Robert Ryan", "imdb_person_url": "https://www.imdb.com/name/nm0001692/" }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man is murdered, apparently by one of a group of soldiers who had just left the bar. Police investigate, cutting through the soldiers' alibis.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039286/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crossfire"
+  },
+  {
+    "title": "Dark Passage",
+    "year": 1947,
+    "director": {
+      "name": "Delmer Daves",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202606/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 3.3,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Film-Noir", "Thriller"],
+    "actors": [
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Lauren Bacall", "imdb_person_url": "https://www.imdb.com/name/nm0000004/" },
+      { "name": "Bruce Bennett", "imdb_person_url": "https://www.imdb.com/name/nm0071642/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man convicted of murdering his wife escapes from prison and works with a woman to prove his innocence.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039302/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_passage"
+  },
+  {
+    "title": "Kiss of Death",
+    "year": 1947,
+    "director": {
+      "name": "Henry Hathaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0368871/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 1.6,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Victor Mature", "imdb_person_url": "https://www.imdb.com/name/nm0560559/" },
+      { "name": "Brian Donlevy", "imdb_person_url": "https://www.imdb.com/name/nm0232576/" },
+      { "name": "Richard Widmark", "imdb_person_url": "https://www.imdb.com/name/nm0001847/" }
     ],
     "oscars_nominated": 2,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Cinematography, Color",
-      "Best Art Direction-Set Decoration, Color"
-    ],
-    "description": "A group of Anglican nuns in a remote Himalayan convent find their faith and self-discipline tested by the harsh environment and the presence of a cynical British agent.",
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ex-con tries to go straight, but a psychotic mobster stalks him and his family.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039192/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/black_narcissus"
+    "imdb_url": "https://www.imdb.com/title/tt0039535/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011639-kiss_of_death"
+  },
+  {
+    "title": "Nightmare Alley",
+    "year": 1947,
+    "director": {
+      "name": "Edmund Goulding",
+      "imdb_person_url": "https://www.imdb.com/name/nm0332394/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 1.3,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Drama", "Film-Noir", "Thriller"],
+    "actors": [
+      { "name": "Tyrone Power", "imdb_person_url": "https://www.imdb.com/name/nm0001634/" },
+      { "name": "Joan Blondell", "imdb_person_url": "https://www.imdb.com/name/nm0000951/" },
+      { "name": "Coleen Gray", "imdb_person_url": "https://www.imdb.com/name/nm0336538/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The rise and fall of a manipulative carnival mentalist whose ambition leads him to con a wealthy industrialist.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039661/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015129-nightmare_alley"
+  },
+  {
+    "title": "Body and Soul",
+    "year": 1947,
+    "director": {
+      "name": "Robert Rossen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0744035/"
+    },
+    "production_studio": "Enterprise Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 4.7,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Drama", "Film-Noir", "Sport"],
+    "actors": [
+      { "name": "John Garfield", "imdb_person_url": "https://www.imdb.com/name/nm0002092/" },
+      { "name": "Lilli Palmer", "imdb_person_url": "https://www.imdb.com/name/nm0658339/" },
+      { "name": "Hazel Brooks", "imdb_person_url": "https://www.imdb.com/name/nm0112011/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Film Editing"],
+    "description": "An ambitious young boxer fights his way to the top of the heap but finds he has lost his humanity along the way.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039195/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002810-body_and_soul"
+  },
+  {
+    "title": "Brute Force",
+    "year": 1947,
+    "director": {
+      "name": "Jules Dassin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202088/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Hume Cronyn", "imdb_person_url": "https://www.imdb.com/name/nm0001078/" },
+      { "name": "Charles Bickford", "imdb_person_url": "https://www.imdb.com/name/nm0000937/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Tough, bitter prisoners in a crowded jail are pushed to the breaking point by a sadistic, power-hungry captain of the guards.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039224/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/brute_force"
+  },
+  {
+    "title": "Odd Man Out",
+    "year": 1947,
+    "director": {
+      "name": "Carol Reed",
+      "imdb_person_url": "https://www.imdb.com/name/nm0715343/"
+    },
+    "production_studio": "Two Cities Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "James Mason", "imdb_person_url": "https://www.imdb.com/name/nm0000050/" },
+      { "name": "Robert Newton", "imdb_person_url": "https://www.imdb.com/name/nm0628580/" },
+      { "name": "Cyril Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0193637/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wounded Irish nationalist leader attempts to evade police in Belfast after a failed robbery.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039677/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/odd_man_out"
+  },
+  {
+    "title": "The Bachelor and the Bobby-Soxer",
+    "year": 1947,
+    "director": {
+      "name": "Irving Reis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0718315/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 5.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Cary Grant", "imdb_person_url": "https://www.imdb.com/name/nm0000026/" },
+      { "name": "Myrna Loy", "imdb_person_url": "https://www.imdb.com/name/nm0001485/" },
+      { "name": "Shirley Temple", "imdb_person_url": "https://www.imdb.com/name/nm0000073/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Writing, Original Screenplay"],
+    "description": "A high school girl falls for a playboy artist who is brought before a judge - her older sister.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039169/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bachelor_and_the_bobby_soxer"
+  },
+  {
+    "title": "Life with Father",
+    "year": 1947,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 6.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": ["Comedy", "Family"],
+    "actors": [
+      { "name": "William Powell", "imdb_person_url": "https://www.imdb.com/name/nm0001635/" },
+      { "name": "Irene Dunne", "imdb_person_url": "https://www.imdb.com/name/nm0002052/" },
+      { "name": "Elizabeth Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0000072/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A strait-laced turn-of-the-century father presides over a family of boys and the mother who really rules the roost.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039566/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/life_with_father"
+  },
+  {
+    "title": "A Double Life",
+    "year": 1947,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002030/"
+    },
+    "production_studio": "Kanin Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Ronald Colman", "imdb_person_url": "https://www.imdb.com/name/nm0173054/" },
+      { "name": "Signe Hasso", "imdb_person_url": "https://www.imdb.com/name/nm0368579/" },
+      { "name": "Edmond O'Brien", "imdb_person_url": "https://www.imdb.com/name/nm0639542/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Actor", "Best Music, Scoring of a Dramatic or Comedy Picture"],
+    "description": "An actor whose mind is affected by the characters he plays commits murder while playing Othello.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039335/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/double_life"
+  },
+  {
+    "title": "The Farmer's Daughter",
+    "year": 1947,
+    "director": {
+      "name": "H.C. Potter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0693275/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Loretta Young", "imdb_person_url": "https://www.imdb.com/name/nm0000082/" },
+      { "name": "Joseph Cotten", "imdb_person_url": "https://www.imdb.com/name/nm0001070/" },
+      { "name": "Ethel Barrymore", "imdb_person_url": "https://www.imdb.com/name/nm0000856/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actress"],
+    "description": "A Swedish-American farm girl goes to the city, finds work as a maid in a Congressman's home, and eventually runs for Congress herself.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039370/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/farmers_daughter"
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "year": 1947,
+    "director": {
+      "name": "Norman Z. McLeod",
+      "imdb_person_url": "https://www.imdb.com/name/nm0572232/"
+    },
+    "production_studio": "The Samuel Goldwyn Company",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 4,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": ["Comedy", "Fantasy", "Romance"],
+    "actors": [
+      { "name": "Danny Kaye", "imdb_person_url": "https://www.imdb.com/name/nm0001413/" },
+      { "name": "Virginia Mayo", "imdb_person_url": "https://www.imdb.com/name/nm0562920/" },
+      { "name": "Boris Karloff", "imdb_person_url": "https://www.imdb.com/name/nm0000472/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A timid daydreamer gets mixed up in a real-life spy drama while imagining himself as a hero in various scenarios.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039808/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1018538-secret_life_of_walter_mitty"
+  },
+  {
+    "title": "Forever Amber",
+    "year": 1947,
+    "director": {
+      "name": "Otto Preminger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0695938/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 138,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 8,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "38%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Linda Darnell", "imdb_person_url": "https://www.imdb.com/name/nm0001105/" },
+      { "name": "Cornel Wilde", "imdb_person_url": "https://www.imdb.com/name/nm0928446/" },
+      { "name": "George Sanders", "imdb_person_url": "https://www.imdb.com/name/nm0001695/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 17th-century England, Amber St. Clare uses her wits and beauty to climb the social ladder, but she cannot have the one man she truly loves.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039390/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/forever_amber"
+  },
+  {
+    "title": "Angel and the Badman",
+    "year": 1947,
+    "director": {
+      "name": "James Edward Grant",
+      "imdb_person_url": "https://www.imdb.com/name/nm0335452/"
+    },
+    "production_studio": "John Wayne Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 0.75,
+    "gross_revenue_usd_millions": 2.7,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Romance", "Western"],
+    "actors": [
+      { "name": "John Wayne", "imdb_person_url": "https://www.imdb.com/name/nm0000078/" },
+      { "name": "Gail Russell", "imdb_person_url": "https://www.imdb.com/name/nm0751159/" },
+      { "name": "Harry Carey", "imdb_person_url": "https://www.imdb.com/name/nm0136961/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wounded gunfighter is nursed back to health by a Quaker girl and her family, and his way of life is influenced by their peaceful nature.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039155/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/angel_and_the_badman"
+  },
+  {
+    "title": "Dead Reckoning",
+    "year": 1947,
+    "director": {
+      "name": "John Cromwell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0188669/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Lizabeth Scott", "imdb_person_url": "https://www.imdb.com/name/nm0779547/" },
+      { "name": "Morris Carnovsky", "imdb_person_url": "https://www.imdb.com/name/nm0138797/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A paratrooper captain investigates the disappearance of his comrade and falls for a femme fatale with a dark past.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039305/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_reckoning"
+  },
+  {
+    "title": "Ride the Pink Horse",
+    "year": 1947,
+    "director": {
+      "name": "Robert Montgomery",
+      "imdb_person_url": "https://www.imdb.com/name/nm0599923/"
+    },
+    "production_studio": "Universal International Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Robert Montgomery", "imdb_person_url": "https://www.imdb.com/name/nm0599923/" },
+      { "name": "Thomas Gomez", "imdb_person_url": "https://www.imdb.com/name/nm0326955/" },
+      { "name": "Wanda Hendrix", "imdb_person_url": "https://www.imdb.com/name/nm0376771/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A blackmailer goes to a small New Mexico border town during fiesta to confront a gangster who killed his friend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039767/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ride_the_pink_horse"
+  },
+  {
+    "title": "T-Men",
+    "year": 1947,
+    "director": {
+      "name": "Anthony Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002975/"
+    },
+    "production_studio": "Eagle-Lion Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.45,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Dennis O'Keefe", "imdb_person_url": "https://www.imdb.com/name/nm0641457/" },
+      { "name": "Mary Meade", "imdb_person_url": "https://www.imdb.com/name/nm0575000/" },
+      { "name": "Alfred Ryder", "imdb_person_url": "https://www.imdb.com/name/nm0753069/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "U.S. Treasury agents infiltrate a counterfeiting ring, putting their lives on the line to bust the operation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039881/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/t_men"
+  },
+  {
+    "title": "Born to Kill",
+    "year": 1947,
+    "director": {
+      "name": "Robert Wise",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001862/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Claire Trevor", "imdb_person_url": "https://www.imdb.com/name/nm0001799/" },
+      { "name": "Lawrence Tierney", "imdb_person_url": "https://www.imdb.com/name/nm0002216/" },
+      { "name": "Walter Slezak", "imdb_person_url": "https://www.imdb.com/name/nm0805950/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A calculating divorcee risks her chances at wealth and security with a man she suspects is a murderer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039212/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002907-born_to_kill"
+  },
+  {
+    "title": "The Paradine Case",
+    "year": 1947,
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
+    "production_studio": "Vanguard Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 3.3,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "43%"
+    },
+    "genres": ["Crime", "Drama", "Romance"],
+    "actors": [
+      { "name": "Gregory Peck", "imdb_person_url": "https://www.imdb.com/name/nm0000060/" },
+      { "name": "Ann Todd", "imdb_person_url": "https://www.imdb.com/name/nm0865109/" },
+      { "name": "Charles Laughton", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A happily married London barrister falls in love with the accused poisoner he is defending.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039694/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/paradine_case"
+  },
+  {
+    "title": "Road to Rio",
+    "year": 1947,
+    "director": {
+      "name": "Norman Z. McLeod",
+      "imdb_person_url": "https://www.imdb.com/name/nm0572232/"
+    },
+    "production_studio": "Bing Crosby Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": ["Adventure", "Comedy", "Musical"],
+    "actors": [
+      { "name": "Bing Crosby", "imdb_person_url": "https://www.imdb.com/name/nm0001078/" },
+      { "name": "Bob Hope", "imdb_person_url": "https://www.imdb.com/name/nm0000453/" },
+      { "name": "Dorothy Lamour", "imdb_person_url": "https://www.imdb.com/name/nm0001444/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two stowaways on a ship to Brazil have to rescue a woman who has been hypnotized into a marriage plot.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039776/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/road_to_rio"
+  },
+  {
+    "title": "Captain from Castile",
+    "year": 1947,
+    "director": {
+      "name": "Henry King",
+      "imdb_person_url": "https://www.imdb.com/name/nm0454778/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 6,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": ["Adventure", "Drama", "History"],
+    "actors": [
+      { "name": "Tyrone Power", "imdb_person_url": "https://www.imdb.com/name/nm0001634/" },
+      { "name": "Jean Peters", "imdb_person_url": "https://www.imdb.com/name/nm0676492/" },
+      { "name": "Cesar Romero", "imdb_person_url": "https://www.imdb.com/name/nm0001680/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young Spanish officer flees the Inquisition and joins Cortez's expedition to the New World.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039243/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/captain_from_castile"
+  },
+  {
+    "title": "Green Dolphin Street",
+    "year": 1947,
+    "director": {
+      "name": "Victor Saville",
+      "imdb_person_url": "https://www.imdb.com/name/nm0767767/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 141,
+    "budget_usd_millions": 4.4,
+    "gross_revenue_usd_millions": 8.8,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "33%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Lana Turner", "imdb_person_url": "https://www.imdb.com/name/nm0001805/" },
+      { "name": "Van Heflin", "imdb_person_url": "https://www.imdb.com/name/nm0002132/" },
+      { "name": "Donna Reed", "imdb_person_url": "https://www.imdb.com/name/nm0000064/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Special Effects"],
+    "description": "Two sisters compete for the same man, who accidentally proposes to the wrong one due to a slip of the pen.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039437/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/green_dolphin_street"
+  },
+  {
+    "title": "Possessed",
+    "year": 1947,
+    "director": {
+      "name": "Curtis Bernhardt",
+      "imdb_person_url": "https://www.imdb.com/name/nm0076767/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 3,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Joan Crawford", "imdb_person_url": "https://www.imdb.com/name/nm0001076/" },
+      { "name": "Van Heflin", "imdb_person_url": "https://www.imdb.com/name/nm0002132/" },
+      { "name": "Raymond Massey", "imdb_person_url": "https://www.imdb.com/name/nm0002281/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman's obsession with her former lover leads her down a dark path of mental instability and tragedy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039725/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016569-possessed"
+  },
+  {
+    "title": "The Egg and I",
+    "year": 1947,
+    "director": {
+      "name": "Chester Erskine",
+      "imdb_person_url": "https://www.imdb.com/name/nm0259875/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 1.9,
+    "gross_revenue_usd_millions": 5.5,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Claudette Colbert", "imdb_person_url": "https://www.imdb.com/name/nm0001055/" },
+      { "name": "Fred MacMurray", "imdb_person_url": "https://www.imdb.com/name/nm0534045/" },
+      { "name": "Marjorie Main", "imdb_person_url": "https://www.imdb.com/name/nm0537689/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A city couple moves to a dilapidated farm to start a new life raising chickens, but they struggle with the challenges of rural living.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039349/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_egg_and_i"
+  },
+  {
+    "title": "Boomerang!",
+    "year": 1947,
+    "director": {
+      "name": "Elia Kazan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001415/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Dana Andrews", "imdb_person_url": "https://www.imdb.com/name/nm0000762/" },
+      { "name": "Jane Wyatt", "imdb_person_url": "https://www.imdb.com/name/nm0943553/" },
+      { "name": "Lee J. Cobb", "imdb_person_url": "https://www.imdb.com/name/nm0002011/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A prosecutor is convinced of the innocence of a man accused of murdering a priest, despite public pressure to convict.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039207/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boomerang"
   },
   {
     "title": "The Fugitive",
@@ -813,300 +1030,523 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
     },
     "production_studio": "Argosy Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 104,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 2.3,
+    "gross_revenue_usd_millions": 1.5,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "54%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "55%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Dolores del Rio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003154/"
-      },
-      {
-        "name": "Pedro Armendáriz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000788/"
-      }
+      { "name": "Henry Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000020/" },
+      { "name": "Dolores del Rio", "imdb_person_url": "https://www.imdb.com/name/nm0002038/" },
+      { "name": "Pedro Armendáriz", "imdb_person_url": "https://www.imdb.com/name/nm0000785/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Catholic priest on the run in a Latin American country where religion is outlawed.",
+    "description": "A revolutionary priest flees to a country where religion is outlawed, pursued by a lieutenant determined to eradicate the church.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039396/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_fugitive_1947"
+    "imdb_url": "https://www.imdb.com/title/tt0039404/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008002-fugitive"
   },
   {
-    "title": "Brute Force",
+    "title": "Pursued",
     "year": 1947,
     "director": {
-      "name": "Jules Dassin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0202111/"
+      "name": "Raoul Walsh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003472/"
     },
-    "production_studio": "Mark Hellinger Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 98,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 2.2,
+    "production_studio": "United States Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 3.3,
     "ratings": {
-      "imdb": 7.6,
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_popcorn": "69%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Drama", "Western", "Film-Noir"],
     "actors": [
-      {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      },
-      {
-        "name": "Hume Cronyn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001080/"
-      },
-      {
-        "name": "Charles Bickford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000936/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A group of prisoners in a brutal penitentiary plot an escape, led by a tough inmate and opposed by a sadistic guard.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039230/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/brute_force"
-  },
-  {
-    "title": "Nightmare Alley",
-    "year": 1947,
-    "director": {
-      "name": "Edmund Goulding",
-      "imdb_person_url": "https://www.imdb.com/name/nm0332630/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Tyrone Power",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000061/"
-      },
-      {
-        "name": "Joan Blondell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000951/"
-      },
-      {
-        "name": "Coleen Gray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0336585/"
-      }
+      { "name": "Teresa Wright", "imdb_person_url": "https://www.imdb.com/name/nm0942852/" },
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" },
+      { "name": "Judith Anderson", "imdb_person_url": "https://www.imdb.com/name/nm0026944/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An ambitious carny with a talent for manipulating people and a knack for the bizarre rises to the top of the spiritualist racket, but his own dark past may be his undoing.",
+    "description": "A cowboy is haunted by repressed childhood memories and a family feud that threatens his life and happiness.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039661/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nightmare_alley_1947"
+    "imdb_url": "https://www.imdb.com/title/tt0039740/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pursued"
   },
   {
     "title": "Mourning Becomes Electra",
     "year": 1947,
     "director": {
       "name": "Dudley Nichols",
-      "imdb_person_url": "https://www.imdb.com/name/nm0629559/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0629579/"
     },
     "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 159,
     "budget_usd_millions": 2.3,
-    "gross_revenue_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 0.6,
     "ratings": {
-      "imdb": 6.8,
+      "imdb": 6.4,
       "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "56%"
+      "rotten_tomatoes_popcorn": "38%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Rosalind Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
-      },
-      {
-        "name": "Michael Redgrave",
-        "imdb_person_url": "https://www.imdb.com/name/nm0714819/"
-      },
-      {
-        "name": "Raymond Massey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002221/"
-      }
+      { "name": "Rosalind Russell", "imdb_person_url": "https://www.imdb.com/name/nm0751426/" },
+      { "name": "Michael Redgrave", "imdb_person_url": "https://www.imdb.com/name/nm0714887/" },
+      { "name": "Raymond Massey", "imdb_person_url": "https://www.imdb.com/name/nm0002281/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A New England family is torn apart by incest, murder, and revenge in the aftermath of the American Civil War.",
+    "description": "After the Civil War, a New England family is torn apart by adultery, murder, and revenge.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0039634/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mourning_becomes_electra"
+  },
+  {
+    "title": "Good News",
+    "year": 1947,
+    "director": {
+      "name": "Charles Walters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0910200/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 3.3,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Comedy", "Musical", "Sport"],
+    "actors": [
+      { "name": "June Allyson", "imdb_person_url": "https://www.imdb.com/name/nm0000742/" },
+      { "name": "Peter Lawford", "imdb_person_url": "https://www.imdb.com/name/nm0492487/" },
+      { "name": "Patricia Marshall", "imdb_person_url": "https://www.imdb.com/name/nm0551109/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A college football hero falls for a studious girl after she agrees to help him pass his classes so he can play in the big game.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039429/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008669-good_news"
+  },
+  {
+    "title": "It Happened on 5th Avenue",
+    "year": 1947,
+    "director": {
+      "name": "Roy Del Ruth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0216070/"
+    },
+    "production_studio": "Allied Artists",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 1.9,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Don DeFore", "imdb_person_url": "https://www.imdb.com/name/nm0214530/" },
+      { "name": "Ann Harding", "imdb_person_url": "https://www.imdb.com/name/nm0362196/" },
+      { "name": "Charles Ruggles", "imdb_person_url": "https://www.imdb.com/name/nm0749462/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two homeless men move into a mansion while the owners are away for the winter, and they are soon joined by the owner's daughter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039501/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/it_happened_on_fifth_avenue"
+  },
+  {
+    "title": "Brighton Rock",
+    "year": 1947,
+    "director": {
+      "name": "John Boulting",
+      "imdb_person_url": "https://www.imdb.com/name/nm0099603/"
+    },
+    "production_studio": "Associated British Picture Corporation",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Richard Attenborough", "imdb_person_url": "https://www.imdb.com/name/nm0000277/" },
+      { "name": "Hermione Baddeley", "imdb_person_url": "https://www.imdb.com/name/nm0045976/" },
+      { "name": "William Hartnell", "imdb_person_url": "https://www.imdb.com/name/nm0367162/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A ruthless teenage gangster commits murder and marries a witness to keep her quiet, but his downfall is inevitable.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039220/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1003094-brighton_rock"
+  },
+  {
+    "title": "Quai des Orfèvres",
+    "year": 1947,
+    "director": {
+      "name": "Henri-Georges Clouzot",
+      "imdb_person_url": "https://www.imdb.com/name/nm0167204/"
+    },
+    "production_studio": "Majestic Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Louis Jouvet", "imdb_person_url": "https://www.imdb.com/name/nm0431173/" },
+      { "name": "Simone Renant", "imdb_person_url": "https://www.imdb.com/name/nm0719052/" },
+      { "name": "Bernard Blier", "imdb_person_url": "https://www.imdb.com/name/nm0088357/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A singer and her jealous husband become suspects in the murder of a lecherous film producer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039739/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quai_des_orfevres"
+  },
+  {
+    "title": "Lured",
+    "year": 1947,
+    "director": {
+      "name": "Douglas Sirk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0802862/"
+    },
+    "production_studio": "Oakmont Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 1.8,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Crime", "Film-Noir", "Mystery"],
+    "actors": [
+      { "name": "George Sanders", "imdb_person_url": "https://www.imdb.com/name/nm0001695/" },
+      { "name": "Lucille Ball", "imdb_person_url": "https://www.imdb.com/name/nm0000840/" },
+      { "name": "Charles Coburn", "imdb_person_url": "https://www.imdb.com/name/nm0002013/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American taxi dancer in London acts as bait for Scotland Yard to catch a serial killer who finds victims through personal ads.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039589/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lured"
+  },
+  {
+    "title": "Lady in the Lake",
+    "year": 1947,
+    "director": {
+      "name": "Robert Montgomery",
+      "imdb_person_url": "https://www.imdb.com/name/nm0599923/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 1.8,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": ["Crime", "Film-Noir", "Mystery"],
+    "actors": [
+      { "name": "Robert Montgomery", "imdb_person_url": "https://www.imdb.com/name/nm0599923/" },
+      { "name": "Audrey Totter", "imdb_person_url": "https://www.imdb.com/name/nm0869425/" },
+      { "name": "Lloyd Nolan", "imdb_person_url": "https://www.imdb.com/name/nm0634323/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Detective Philip Marlowe is hired to find a missing woman, but the case turns into a murder investigation seen entirely from his perspective.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039545/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lady_in_the_lake"
+  },
+  {
+    "title": "Unconquered",
+    "year": 1947,
+    "director": {
+      "name": "Cecil B. DeMille",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000364/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 146,
+    "budget_usd_millions": 4.4,
+    "gross_revenue_usd_millions": 6.1,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "48%"
+    },
+    "genres": ["Adventure", "Drama", "History"],
+    "actors": [
+      { "name": "Gary Cooper", "imdb_person_url": "https://www.imdb.com/name/nm0000011/" },
+      { "name": "Paulette Goddard", "imdb_person_url": "https://www.imdb.com/name/nm0002104/" },
+      { "name": "Howard Da Silva", "imdb_person_url": "https://www.imdb.com/name/nm0196245/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A story of love and war in pre-revolutionary America, as settlers and soldiers face Native American uprisings.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039931/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/unconquered"
+  },
+  {
+    "title": "Daisy Kenyon",
+    "year": 1947,
+    "director": {
+      "name": "Otto Preminger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0695938/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.85,
+    "gross_revenue_usd_millions": 1.75,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Joan Crawford", "imdb_person_url": "https://www.imdb.com/name/nm0001076/" },
+      { "name": "Dana Andrews", "imdb_person_url": "https://www.imdb.com/name/nm0000762/" },
+      { "name": "Henry Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000020/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A commercial artist is caught in a love triangle between a married lawyer and a war veteran.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039294/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/daisy_kenyon"
+  },
+  {
+    "title": "Desert Fury",
+    "year": 1947,
+    "director": {
+      "name": "Lewis Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0020761/"
+    },
+    "production_studio": "Hal Wallis Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "49%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Lizabeth Scott", "imdb_person_url": "https://www.imdb.com/name/nm0779547/" },
+      { "name": "John Hodiak", "imdb_person_url": "https://www.imdb.com/name/nm0388156/" },
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A rebellious daughter returns to her casino-owner mother's Nevada town and falls for a racketeer with a dark past.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039314/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/desert_fury"
+  },
+  {
+    "title": "Down to Earth",
+    "year": 1947,
+    "director": {
+      "name": "Alexander Hall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0355281/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "47%"
+    },
+    "genres": ["Comedy", "Fantasy", "Musical"],
+    "actors": [
+      { "name": "Rita Hayworth", "imdb_person_url": "https://www.imdb.com/name/nm0000030/" },
+      { "name": "Larry Parks", "imdb_person_url": "https://www.imdb.com/name/nm0662972/" },
+      { "name": "Marc Platt", "imdb_person_url": "https://www.imdb.com/name/nm0686890/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The muse Terpsichore comes down to Earth to help a Broadway producer stage a play about the Greek muses.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039338/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/down_to_earth"
+  },
+  {
+    "title": "Golden Earrings",
+    "year": 1947,
+    "director": {
+      "name": "Mitchell Leisen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0500626/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 4,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": ["Adventure", "Romance", "War"],
+    "actors": [
+      { "name": "Ray Milland", "imdb_person_url": "https://www.imdb.com/name/nm0001537/" },
+      { "name": "Marlene Dietrich", "imdb_person_url": "https://www.imdb.com/name/nm0000017/" },
+      { "name": "Murvyn Vye", "imdb_person_url": "https://www.imdb.com/name/nm0904422/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A British spy in Nazi Germany is helped by a gypsy woman to escape and complete his mission.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039428/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/golden_earrings"
   },
   {
     "title": "The Macomber Affair",
     "year": 1947,
     "director": {
       "name": "Zoltan Korda",
-      "imdb_person_url": "https://www.imdb.com/name/nm0466181/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0466073/"
     },
     "production_studio": "United Artists",
-    "mpaa_rating": "Passed",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 89,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 2.1,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
       "imdb": 6.9,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "55%"
     },
-    "genres": [
-      "Adventure",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Adventure", "Drama"],
     "actors": [
-      {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
-      },
-      {
-        "name": "Joan Bennett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
-      },
-      {
-        "name": "Robert Preston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0696481/"
-      }
+      { "name": "Gregory Peck", "imdb_person_url": "https://www.imdb.com/name/nm0000060/" },
+      { "name": "Joan Bennett", "imdb_person_url": "https://www.imdb.com/name/nm0071826/" },
+      { "name": "Robert Preston", "imdb_person_url": "https://www.imdb.com/name/nm0696481/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "On a big-game safari in Africa, a married couple's relationship is complicated by the presence of a professional hunter.",
+    "description": "A wealthy American husband, his wife, and a professional hunter go on a safari in Africa, where tensions rise and lead to tragedy.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0039591/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_macomber_affair"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/macomber_affair"
   },
   {
-    "title": "Johnny O'Clock",
+    "title": "Framed",
     "year": 1947,
     "director": {
-      "name": "Robert Rossen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0744047/"
+      "name": "Richard Wallace",
+      "imdb_person_url": "https://www.imdb.com/name/nm0908835/"
     },
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 95,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "runtime_minutes": 82,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.1,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "55%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "67%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Dick Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
-      },
-      {
-        "name": "Evelyn Keyes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0450849/"
-      },
-      {
-        "name": "Lee J. Cobb",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002011/"
-      }
+      { "name": "Glenn Ford", "imdb_person_url": "https://www.imdb.com/name/nm0001229/" },
+      { "name": "Janis Carter", "imdb_person_url": "https://www.imdb.com/name/nm0141690/" },
+      { "name": "Barry Sullivan", "imdb_person_url": "https://www.imdb.com/name/nm0837984/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A junior partner in a gambling joint is suspected of murdering a crooked cop.",
+    "description": "An unemployed mining engineer is targeted by a femme fatale for a frame-up involving embezzlement and murder.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039511/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/johnny_oclock"
+    "imdb_url": "https://www.imdb.com/title/tt0039392/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1007819-framed"
   },
   {
-    "title": "Forever Amber",
+    "title": "The Long Night",
     "year": 1947,
     "director": {
-      "name": "Otto Preminger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      "name": "Anatole Litvak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514829/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "RKO Radio Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 138,
-    "budget_usd_millions": 6.5,
-    "gross_revenue_usd_millions": 8,
+    "runtime_minutes": 101,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 1.8,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "20%",
-      "rotten_tomatoes_popcorn": "41%"
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "60%"
     },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "History"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Linda Darnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001103/"
-      },
-      {
-        "name": "Cornel Wilde",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
-      },
-      {
-        "name": "Richard Greene",
-        "imdb_person_url": "https://www.imdb.com/name/nm0338870/"
-      }
+      { "name": "Henry Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000020/" },
+      { "name": "Barbara Bel Geddes", "imdb_person_url": "https://www.imdb.com/name/nm0000900/" },
+      { "name": "Vincent Price", "imdb_person_url": "https://www.imdb.com/name/nm0001637/" }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An ambitious woman rises from poverty to become the mistress of King Charles II of England.",
+    "description": "A returning veteran kills a man and barricades himself in his apartment, recalling the events that led to the shooting.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039391/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/forever_amber"
+    "imdb_url": "https://www.imdb.com/title/tt0039578/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/long_night"
   }
 ]

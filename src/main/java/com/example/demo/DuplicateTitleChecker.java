@@ -22,7 +22,7 @@ public class DuplicateTitleChecker {
             movieService = new MovieService(filename);
             checkForDuplicateTitles(movieService, filename);
         }
-        for (int i = 1900; i <= 1920;  i+=10) {
+        for (int i = 1890; i <= 1920;  i+=10) {
             String filename = folder + "movies-" + i + "s.json";
             logger.info("Duplicates checking for resource file " + filename);
 

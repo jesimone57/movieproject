@@ -10,38 +10,23 @@
     "mpaa_rating": "PG",
     "runtime_minutes": 130,
     "budget_usd_millions": 3.18,
-    "gross_revenue_usd_millions": 6.3,
+    "gross_revenue_usd_millions": 3.3,
     "ratings": {
       "imdb": 8.6,
       "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "95%"
     },
-    "genres": [
-      "Drama",
-      "Family",
-      "Fantasy"
-    ],
+    "genres": ["Drama", "Family", "Fantasy"],
     "actors": [
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      },
-      {
-        "name": "Donna Reed",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001656/"
-      },
-      {
-        "name": "Lionel Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000865/"
-      }
+      { "name": "James Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Donna Reed", "imdb_person_url": "https://www.imdb.com/name/nm0000064/" },
+      { "name": "Lionel Barrymore", "imdb_person_url": "https://www.imdb.com/name/nm0000859/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Technical Achievement Award"
-    ],
+    "oscars_won_details": ["Technical Achievement Award (for the development of a new method of simulating falling snow)"],
     "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
-    "afi_ranking": 11,
+    "afi_ranking": 20,
     "imdb_url": "https://www.imdb.com/title/tt0038650/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/its_a_wonderful_life"
   },
@@ -52,51 +37,29 @@
       "name": "William Wyler",
       "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
     },
-    "production_studio": "Samuel Goldwyn Company",
-    "mpaa_rating": "Passed",
+    "production_studio": "Samuel Goldwyn Productions",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 170,
     "budget_usd_millions": 2.1,
-    "gross_revenue_usd_millions": 23.65,
+    "gross_revenue_usd_millions": 23.7,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Drama",
-      "Romance",
-      "War"
-    ],
+    "genres": ["Drama", "Romance", "War"],
     "actors": [
-      {
-        "name": "Myrna Loy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
-      },
-      {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
-      },
-      {
-        "name": "Dana Andrews",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000762/"
-      }
+      { "name": "Fredric March", "imdb_person_url": "https://www.imdb.com/name/nm0001506/" },
+      { "name": "Dana Andrews", "imdb_person_url": "https://www.imdb.com/name/nm0000762/" },
+      { "name": "Myrna Loy", "imdb_person_url": "https://www.imdb.com/name/nm0001485/" }
     ],
     "oscars_nominated": 8,
-    "oscars_won": 8,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor",
-      "Best Supporting Actor",
-      "Best Writing, Screenplay",
-      "Best Film Editing",
-      "Best Music, Scoring of a Dramatic or Comedy Picture",
-      "Honorary Award"
-    ],
-    "description": "Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.",
+    "oscars_won": 7,
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Screenplay", "Best Film Editing", "Best Music, Scoring of a Dramatic or Comedy Picture"],
+    "description": "Three World War II veterans return home to small-town America to discover that they and their families have changed.",
     "afi_ranking": 37,
-    "imdb_url": "https://www.imdb.com/title/tt0036868/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_best_years_of_our_lives"
+    "imdb_url": "https://www.imdb.com/title/tt0038350/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/best_years_of_our_lives"
   },
   {
     "title": "Notorious",
@@ -109,36 +72,23 @@
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 102,
     "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 10.5,
+    "gross_revenue_usd_millions": 24.5,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "91%"
     },
-    "genres": [
-      "Drama",
-      "Film-Noir",
-      "Romance"
-    ],
+    "genres": ["Drama", "Film-Noir", "Romance"],
     "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Ingrid Bergman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
-      },
-      {
-        "name": "Claude Rains",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
-      }
+      { "name": "Cary Grant", "imdb_person_url": "https://www.imdb.com/name/nm0000026/" },
+      { "name": "Ingrid Bergman", "imdb_person_url": "https://www.imdb.com/name/nm0000006/" },
+      { "name": "Claude Rains", "imdb_person_url": "https://www.imdb.com/name/nm0001647/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
     "description": "A woman is asked to spy on a group of Nazi friends in South America. How far will she have to go to ingratiate herself with them?",
-    "afi_ranking": null,
+    "afi_ranking": 38,
     "imdb_url": "https://www.imdb.com/title/tt0038787/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/notorious"
   },
@@ -150,33 +100,20 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
     },
     "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 114,
     "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 3.75,
+    "gross_revenue_usd_millions": 4.9,
     "ratings": {
       "imdb": 7.9,
-      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "91%"
     },
-    "genres": [
-      "Crime",
-      "Film-Noir",
-      "Mystery"
-    ],
+    "genres": ["Crime", "Film-Noir", "Mystery"],
     "actors": [
-      {
-        "name": "Humphrey Bogart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
-      },
-      {
-        "name": "Lauren Bacall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000002/"
-      },
-      {
-        "name": "John Ridgely",
-        "imdb_person_url": "https://www.imdb.com/name/nm0725916/"
-      }
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Lauren Bacall", "imdb_person_url": "https://www.imdb.com/name/nm0000004/" },
+      { "name": "John Ridgely", "imdb_person_url": "https://www.imdb.com/name/nm0725942/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -184,7 +121,38 @@
     "description": "Private detective Philip Marlowe is hired by a wealthy family. Before the complex case is over, he's seen murder, blackmail, and what might be love.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0038355/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_big_sleep"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002352-big_sleep"
+  },
+  {
+    "title": "Gilda",
+    "year": 1946,
+    "director": {
+      "name": "Charles Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0896520/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Drama", "Film-Noir", "Romance"],
+    "actors": [
+      { "name": "Rita Hayworth", "imdb_person_url": "https://www.imdb.com/name/nm0000030/" },
+      { "name": "Glenn Ford", "imdb_person_url": "https://www.imdb.com/name/nm0001229/" },
+      { "name": "George Macready", "imdb_person_url": "https://www.imdb.com/name/nm0534314/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sinister boss and his right-hand man get into a power struggle when the boss's beautiful and mysterious new wife arrives.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038559/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gilda"
   },
   {
     "title": "Great Expectations",
@@ -194,132 +162,59 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000180/"
     },
     "production_studio": "Cineguild",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 118,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 5.4,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "88%"
     },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Mystery"
-    ],
+    "genres": ["Adventure", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "John Mills",
-        "imdb_person_url": "https://www.imdb.com/name/nm0589999/"
-      },
-      {
-        "name": "Valerie Hobson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0389659/"
-      },
-      {
-        "name": "Tony Wager",
-        "imdb_person_url": "https://www.imdb.com/name/nm0906114/"
-      }
+      { "name": "John Mills", "imdb_person_url": "https://www.imdb.com/name/nm0001538/" },
+      { "name": "Valerie Hobson", "imdb_person_url": "https://www.imdb.com/name/nm0387663/" },
+      { "name": "Tony Wager", "imdb_person_url": "https://www.imdb.com/name/nm0905677/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Cinematography, Black-and-White",
-      "Best Art Direction-Interior Decoration, Black-and-White"
-    ],
+    "oscars_won_details": ["Best Cinematography, Black-and-White", "Best Art Direction-Set Decoration, Black-and-White"],
     "description": "A humble orphan suddenly becomes a gentleman with the help of an unknown benefactor.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0038574/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/great_expectations"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008844-great_expectations"
   },
   {
-    "title": "Gilda",
+    "title": "A Matter of Life and Death",
     "year": 1946,
     "director": {
-      "name": "Charles Vidor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0896434/"
+      "name": "Michael Powell & Emeric Pressburger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000592/"
     },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 3.75,
+    "production_studio": "The Archers",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "87%"
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Drama",
-      "Film-Noir",
-      "Romance"
-    ],
+    "genres": ["Drama", "Fantasy", "Romance"],
     "actors": [
-      {
-        "name": "Rita Hayworth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000028/"
-      },
-      {
-        "name": "Glenn Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001233/"
-      },
-      {
-        "name": "George Macready",
-        "imdb_person_url": "https://www.imdb.com/name/nm0534241/"
-      }
+      { "name": "David Niven", "imdb_person_url": "https://www.imdb.com/name/nm0000057/" },
+      { "name": "Kim Hunter", "imdb_person_url": "https://www.imdb.com/name/nm0001375/" },
+      { "name": "Roger Livesey", "imdb_person_url": "https://www.imdb.com/name/nm0515273/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A small-time gambler is hired to work for a casino owner, but his situation becomes complicated when he learns his old flame is the new boss's wife.",
+    "description": "A British wartime aviator who cheats death must argue for his life before a celestial court.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0038559/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gilda"
-  },
-  {
-    "title": "The Killers",
-    "year": 1946,
-    "director": {
-      "name": "Robert Siodmak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0802501/"
-    },
-    "production_studio": "Mark Hellinger Productions",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 0.88,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      },
-      {
-        "name": "Ava Gardner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001257/"
-      },
-      {
-        "name": "Edmond O'Brien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0639649/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An insurance investigator's trail of a dead former boxer who was murdered for a life-insurance policy leads him into a world of corruption and deceit.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0038669/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011537-killers"
+    "imdb_url": "https://www.imdb.com/title/tt0038733/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stairway_to_heaven_1946"
   },
   {
     "title": "My Darling Clementine",
@@ -329,221 +224,214 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 97,
     "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 4.5,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Western"
-    ],
+    "genres": ["Drama", "Western"],
     "actors": [
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Linda Darnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001103/"
-      },
-      {
-        "name": "Victor Mature",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001514/"
-      }
+      { "name": "Henry Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000020/" },
+      { "name": "Linda Darnell", "imdb_person_url": "https://www.imdb.com/name/nm0001105/" },
+      { "name": "Victor Mature", "imdb_person_url": "https://www.imdb.com/name/nm0560559/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Wyatt Earp and his brothers move to Tombstone, Arizona, and events lead up to the famous gunfight at the O.K. Corral.",
+    "description": "Wyatt Earp and his brothers arrive in Tombstone and become involved in a feud with the Clanton family.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0038762/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_darling_clementine"
+  },
+  {
+    "title": "Beauty and the Beast",
+    "year": 1946,
+    "director": {
+      "name": "Jean Cocteau",
+      "imdb_person_url": "https://www.imdb.com/name/nm0168619/"
+    },
+    "production_studio": "DisCina",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "actors": [
+      { "name": "Jean Marais", "imdb_person_url": "https://www.imdb.com/name/nm0544786/" },
+      { "name": "Josette Day", "imdb_person_url": "https://www.imdb.com/name/nm0206479/" },
+      { "name": "Mila Parély", "imdb_person_url": "https://www.imdb.com/name/nm0664164/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A beautiful young woman takes her father's place as the prisoner of a mysterious beast, who wishes to marry her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038348/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beauty_and_the_beast_1946"
   },
   {
     "title": "The Postman Always Rings Twice",
     "year": 1946,
     "director": {
       "name": "Tay Garnett",
-      "imdb_person_url": "https://www.imdb.com/name/nm0307828/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0307787/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 113,
-    "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 4,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 5,
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "89%",
       "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Lana Turner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001804/"
-      },
-      {
-        "name": "John Garfield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002092/"
-      },
-      {
-        "name": "Cecil Kellaway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0445540/"
-      }
+      { "name": "Lana Turner", "imdb_person_url": "https://www.imdb.com/name/nm0001805/" },
+      { "name": "John Garfield", "imdb_person_url": "https://www.imdb.com/name/nm0002092/" },
+      { "name": "Cecil Kellaway", "imdb_person_url": "https://www.imdb.com/name/nm0002162/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A drifter and a married woman conspire to murder her husband, but their plan goes awry.",
+    "description": "A drifter enters the life of a unhappy wife and they plot to kill her husband.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0038854/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016528-postman_always_rings_twice"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016579-postman_always_rings_twice"
   },
   {
-    "title": "A Matter of Life and Death",
+    "title": "The Killers",
     "year": 1946,
     "director": {
-      "name": "Michael Powell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002019/"
+      "name": "Robert Siodmak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004666/"
     },
-    "production_studio": "The Archers",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 104,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 0.87,
+    "gross_revenue_usd_millions": 3,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "90%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "David Niven",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000057/"
-      },
-      {
-        "name": "Kim Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0402923/"
-      },
-      {
-        "name": "Robert Coote",
-        "imdb_person_url": "https://www.imdb.com/name/nm0178652/"
-      }
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Ava Gardner", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "Edmond O'Brien", "imdb_person_url": "https://www.imdb.com/name/nm0639542/" }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A British WWII bomber pilot who cheats death must argue for his life in a celestial court.",
+    "description": "Hit men kill an unresisting victim, and an insurance investigator uncovers the man's past, which involves a femme fatale and a heist.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0038733/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_matter_of_life_and_death"
+    "imdb_url": "https://www.imdb.com/title/tt0038669/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011573-killers"
   },
   {
     "title": "The Yearling",
     "year": 1946,
     "director": {
       "name": "Clarence Brown",
-      "imdb_person_url": "https://www.imdb.com/name/nm0113337/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000984/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "G",
     "runtime_minutes": 128,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 7.5,
+    "budget_usd_millions": 3.8,
+    "gross_revenue_usd_millions": 7.6,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "75%"
     },
-    "genres": [
-      "Drama",
-      "Family",
-      "Western"
-    ],
+    "genres": ["Drama", "Family", "Western"],
     "actors": [
-      {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
-      },
-      {
-        "name": "Jane Wyman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Claude Jarman Jr.",
-        "imdb_person_url": "https://www.imdb.com/name/nm0418659/"
-      }
+      { "name": "Gregory Peck", "imdb_person_url": "https://www.imdb.com/name/nm0000060/" },
+      { "name": "Jane Wyman", "imdb_person_url": "https://www.imdb.com/name/nm0001866/" },
+      { "name": "Claude Jarman Jr.", "imdb_person_url": "https://www.imdb.com/name/nm0418732/" }
     ],
     "oscars_nominated": 7,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Art Direction-Interior Decoration, Color",
-      "Best Cinematography, Color"
-    ],
-    "description": "A young boy in post-Civil War Florida adopts a fawn as a pet, but the animal's wild nature causes problems for the family.",
+    "oscars_won_details": ["Best Cinematography, Color", "Best Art Direction-Interior Decoration, Color"],
+    "description": "A boy persuades his parents to allow him to adopt a young deer, but the animal's destruction of the family's crops creates serious problems.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0039111/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_yearling"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/yearling"
+  },
+  {
+    "title": "Duel in the Sun",
+    "year": 1946,
+    "director": {
+      "name": "King Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002230/"
+    },
+    "production_studio": "Vanguard Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 129,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 20.4,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Drama", "Romance", "Western"],
+    "actors": [
+      { "name": "Jennifer Jones", "imdb_person_url": "https://www.imdb.com/name/nm0428353/" },
+      { "name": "Joseph Cotten", "imdb_person_url": "https://www.imdb.com/name/nm0001070/" },
+      { "name": "Gregory Peck", "imdb_person_url": "https://www.imdb.com/name/nm0000060/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A half-Native American girl becomes the center of a bitter rivalry between two brothers in Texas.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038499/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/duel_in_the_sun"
   },
   {
     "title": "The Razor's Edge",
     "year": 1946,
     "director": {
       "name": "Edmund Goulding",
-      "imdb_person_url": "https://www.imdb.com/name/nm0332630/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0332394/"
     },
     "production_studio": "20th Century Fox",
     "mpaa_rating": "Passed",
     "runtime_minutes": 145,
-    "budget_usd_millions": 3,
+    "budget_usd_millions": 4,
     "gross_revenue_usd_millions": 5,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Tyrone Power",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000061/"
-      },
-      {
-        "name": "Gene Tierney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000074/"
-      },
-      {
-        "name": "John Payne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0668275/"
-      }
+      { "name": "Tyrone Power", "imdb_person_url": "https://www.imdb.com/name/nm0001634/" },
+      { "name": "Gene Tierney", "imdb_person_url": "https://www.imdb.com/name/nm0000074/" },
+      { "name": "John Payne", "imdb_person_url": "https://www.imdb.com/name/nm0668360/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Supporting Actress"
-    ],
-    "description": "An American pilot traumatized by his experiences in World War I embarks on a spiritual journey, leaving his fiancée and a life of wealth behind.",
+    "oscars_won_details": ["Best Actress in a Supporting Role"],
+    "description": "An adventurous young man goes off to find himself and loses his fiancée to a more conventional man.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0038873/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_razors_edge"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017273-razors_edge"
   },
   {
     "title": "The Stranger",
@@ -559,27 +447,14 @@
     "gross_revenue_usd_millions": 3.2,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "78%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Edward G. Robinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000062/"
-      },
-      {
-        "name": "Loretta Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Orson Welles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
-      }
+      { "name": "Edward G. Robinson", "imdb_person_url": "https://www.imdb.com/name/nm0000065/" },
+      { "name": "Loretta Young", "imdb_person_url": "https://www.imdb.com/name/nm0000082/" },
+      { "name": "Orson Welles", "imdb_person_url": "https://www.imdb.com/name/nm0000080/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -587,51 +462,100 @@
     "description": "An investigator from the War Crimes Commission travels to Connecticut to find an infamous Nazi.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0038991/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the-stranger"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stranger"
   },
   {
-    "title": "Duel in the Sun",
+    "title": "Paisan",
     "year": 1946,
     "director": {
-      "name": "King Vidor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0896542/"
+      "name": "Roberto Rossellini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0744031/"
     },
-    "production_studio": "Selznick International Pictures",
+    "production_studio": "Organizzazione Film Internazionali (OFI)",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 144,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 20.4,
+    "runtime_minutes": 126,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 0.8,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Drama",
-      "Romance",
-      "Western"
-    ],
+    "genres": ["Drama", "War"],
     "actors": [
-      {
-        "name": "Jennifer Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
-      },
-      {
-        "name": "Joseph Cotten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
-      },
-      {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
-      }
+      { "name": "Carmela Sazio", "imdb_person_url": "https://www.imdb.com/name/nm0768549/" },
+      { "name": "Robert Van Loon", "imdb_person_url": "https://www.imdb.com/name/nm0887387/" },
+      { "name": "Benjamin Emanuel", "imdb_person_url": "https://www.imdb.com/name/nm0256043/" }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A half-Native American woman's presence in a wealthy Texas family creates tensions that lead to tragedy.",
+    "description": "Six vignettes follow the Allied invasion of Italy from Sicily to the northern marshes.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0038511/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/duel_in_the_sun"
+    "imdb_url": "https://www.imdb.com/title/tt0038823/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/paisan"
+  },
+  {
+    "title": "Shoeshine",
+    "year": 1946,
+    "director": {
+      "name": "Vittorio De Sica",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001126/"
+    },
+    "production_studio": "Società Cooperativa Alfa Cinematografica",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 0.1,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Franco Interlenghi", "imdb_person_url": "https://www.imdb.com/name/nm0409409/" },
+      { "name": "Rinaldo Smordoni", "imdb_person_url": "https://www.imdb.com/name/nm0810555/" },
+      { "name": "Annielo Mele", "imdb_person_url": "https://www.imdb.com/name/nm0577511/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Honorary Award (Best Foreign Language Film)"],
+    "description": "Two friends try to earn enough money to buy a horse, but they get involved in the black market.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038913/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shoeshine"
+  },
+  {
+    "title": "The Spiral Staircase",
+    "year": 1946,
+    "director": {
+      "name": "Robert Siodmak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004666/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama", "Film-Noir", "Horror"],
+    "actors": [
+      { "name": "Dorothy McGuire", "imdb_person_url": "https://www.imdb.com/name/nm0570219/" },
+      { "name": "George Brent", "imdb_person_url": "https://www.imdb.com/name/nm0107574/" },
+      { "name": "Ethel Barrymore", "imdb_person_url": "https://www.imdb.com/name/nm0000856/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A serial killer targets women with disabilities, and a mute servant girl in a gothic mansion may be next.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038984/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spiral_staircase"
   },
   {
     "title": "Humoresque",
@@ -646,487 +570,983 @@
     "budget_usd_millions": 2.1,
     "gross_revenue_usd_millions": 3.4,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "78%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "75%"
     },
-    "genres": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
+    "genres": ["Drama", "Music", "Romance"],
     "actors": [
-      {
-        "name": "Joan Crawford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001076/"
-      },
-      {
-        "name": "John Garfield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002092/"
-      },
-      {
-        "name": "Oscar Levant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0505166/"
-      }
+      { "name": "Joan Crawford", "imdb_person_url": "https://www.imdb.com/name/nm0001076/" },
+      { "name": "John Garfield", "imdb_person_url": "https://www.imdb.com/name/nm0002092/" },
+      { "name": "Oscar Levant", "imdb_person_url": "https://www.imdb.com/name/nm0505168/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A talented, but poor, violinist is taken under the wing of a wealthy, alcoholic socialite.",
+    "description": "A talented violinist rises from humble beginnings but his personal life suffers as he becomes involved with a wealthy patroness.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0038629/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/humoresque"
+    "imdb_url": "https://www.imdb.com/title/tt0038628/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010182-humoresque"
   },
   {
     "title": "The Jolson Story",
     "year": 1946,
     "director": {
       "name": "Alfred E. Green",
-      "imdb_person_url": "https://www.imdb.com/name/nm0337582/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0337598/"
     },
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 128,
     "budget_usd_millions": 2.8,
-    "gross_revenue_usd_millions": 7.6,
+    "gross_revenue_usd_millions": 8,
     "ratings": {
       "imdb": 7.1,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "67%"
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "71%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
+    "genres": ["Biography", "Drama", "Music"],
     "actors": [
-      {
-        "name": "Larry Parks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0664273/"
-      },
-      {
-        "name": "Evelyn Keyes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0450849/"
-      },
-      {
-        "name": "William Demarest",
-        "imdb_person_url": "https://www.imdb.com/name/nm0218258/"
-      }
+      { "name": "Larry Parks", "imdb_person_url": "https://www.imdb.com/name/nm0662972/" },
+      { "name": "Evelyn Keyes", "imdb_person_url": "https://www.imdb.com/name/nm0450829/" },
+      { "name": "William Demarest", "imdb_person_url": "https://www.imdb.com/name/nm0218253/" }
     ],
     "oscars_nominated": 6,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Sound, Recording",
-      "Best Music, Scoring of a Musical Picture"
-    ],
-    "description": "The story of the life of the great entertainer, Al Jolson.",
+    "oscars_won_details": ["Best Sound, Recording", "Best Music, Scoring of a Musical Picture"],
+    "description": "The life story of singer Al Jolson, starring Larry Parks with songs dubbed by Jolson himself.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0038661/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_jolson_story"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jolson_story"
   },
   {
     "title": "Anna and the King of Siam",
     "year": 1946,
     "director": {
       "name": "John Cromwell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0188683/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0188669/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 128,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.3,
+    "budget_usd_millions": 2.2,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
       "imdb": 7.0,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "73%"
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "63%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Biography", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Irene Dunne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002050/"
-      },
-      {
-        "name": "Rex Harrison",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
-      },
-      {
-        "name": "Linda Darnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001103/"
-      }
+      { "name": "Irene Dunne", "imdb_person_url": "https://www.imdb.com/name/nm0002052/" },
+      { "name": "Rex Harrison", "imdb_person_url": "https://www.imdb.com/name/nm0001322/" },
+      { "name": "Linda Darnell", "imdb_person_url": "https://www.imdb.com/name/nm0001105/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Art Direction-Interior Decoration, Black-and-White",
-      "Best Cinematography, Black-and-White"
-    ],
-    "description": "A British governess goes to Siam to be a teacher for the royal court in the 1860s.",
+    "oscars_won_details": ["Best Cinematography, Black-and-White", "Best Art Direction-Interior Decoration, Black-and-White"],
+    "description": "An English widow travels to Siam to become governess to the children of the King, and finds herself clashing with his traditions.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0038303/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/anna_and_the_king_of_siam"
+  },
+  {
+    "title": "The Blue Dahlia",
+    "year": 1946,
+    "director": {
+      "name": "George Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0550882/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.75,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Crime", "Film-Noir", "Mystery"],
+    "actors": [
+      { "name": "Alan Ladd", "imdb_person_url": "https://www.imdb.com/name/nm0000042/" },
+      { "name": "Veronica Lake", "imdb_person_url": "https://www.imdb.com/name/nm0000043/" },
+      { "name": "William Bendix", "imdb_person_url": "https://www.imdb.com/name/nm0070647/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ex-bomber pilot suspected of murdering his unfaithful wife hunts down the real killer with the help of a sympathetic stranger.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038369/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_dahlia"
   },
   {
     "title": "The Harvey Girls",
     "year": 1946,
     "director": {
       "name": "George Sidney",
-      "imdb_person_url": "https://www.imdb.com/name/nm0796683/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0796532/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 102,
     "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 5.2,
+    "gross_revenue_usd_millions": 5.1,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "74%"
     },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Western"
-    ],
+    "genres": ["Comedy", "Musical", "Western"],
     "actors": [
-      {
-        "name": "Judy Garland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000023/"
-      },
-      {
-        "name": "John Hodiak",
-        "imdb_person_url": "https://www.imdb.com/name/nm0388419/"
-      },
-      {
-        "name": "Ray Bolger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001961/"
-      }
+      { "name": "Judy Garland", "imdb_person_url": "https://www.imdb.com/name/nm0000023/" },
+      { "name": "John Hodiak", "imdb_person_url": "https://www.imdb.com/name/nm0388156/" },
+      { "name": "Ray Bolger", "imdb_person_url": "https://www.imdb.com/name/nm0001961/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song"
-    ],
-    "description": "A group of waitresses in a frontier town in the 1890s must contend with the local saloon owner and his dance-hall girls.",
+    "oscars_won_details": ["Best Original Song"],
+    "description": "A group of waitresses travels west to open a Harvey House restaurant, facing opposition from the local saloon owner.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0038596/",
+    "imdb_url": "https://www.imdb.com/title/tt0038589/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harvey_girls"
   },
   {
-    "title": "Black Narcissus",
-    "year": 1947,
+    "title": "Cluny Brown",
+    "year": 1946,
     "director": {
-      "name": "Michael Powell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002019/"
+      "name": "Ernst Lubitsch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000507/"
     },
-    "production_studio": "The Archers",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 101,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.2,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "Deborah Kerr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000039/"
-      },
-      {
-        "name": "Sabu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001689/"
-      },
-      {
-        "name": "David Farrar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0268153/"
-      }
+      { "name": "Charles Boyer", "imdb_person_url": "https://www.imdb.com/name/nm0000964/" },
+      { "name": "Jennifer Jones", "imdb_person_url": "https://www.imdb.com/name/nm0428353/" },
+      { "name": "Peter Lawford", "imdb_person_url": "https://www.imdb.com/name/nm0492487/" }
     ],
-    "oscars_nominated": 2,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Cinematography, Color",
-      "Best Art Direction-Set Decoration, Color"
-    ],
-    "description": "A group of Anglican nuns in a remote Himalayan convent find their faith and self-discipline tested by the harsh environment and the presence of a cynical British agent.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A plumber's niece with a penchant for plumbing and a Czech refugee writer meet in England just before WWII and shake up high society.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039192/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/black_narcissus"
+    "imdb_url": "https://www.imdb.com/title/tt0038420/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cluny_brown"
   },
   {
-    "title": "The Bachelor and the Bobby-Soxer",
-    "year": 1947,
+    "title": "Dragonwyck",
+    "year": 1946,
     "director": {
-      "name": "Irving Reis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0718361/"
+      "name": "Joseph L. Mankiewicz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0542403/"
     },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 5.5,
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 1.9,
+    "gross_revenue_usd_millions": 3,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "67%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Drama", "Mystery", "Romance"],
     "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Myrna Loy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
-      },
-      {
-        "name": "Shirley Temple",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000073/"
-      }
+      { "name": "Gene Tierney", "imdb_person_url": "https://www.imdb.com/name/nm0000074/" },
+      { "name": "Vincent Price", "imdb_person_url": "https://www.imdb.com/name/nm0001637/" },
+      { "name": "Walter Huston", "imdb_person_url": "https://www.imdb.com/name/nm0404158/" }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Original Screenplay"
-    ],
-    "description": "A teenage girl's crush on a suave bachelor artist gets him in hot water with her judge sister, who orders him to date the girl until her infatuation wears off.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A simple country girl marries a wealthy distant cousin, but discovers dark secrets in his Hudson River estate.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039169/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_bachelor_and_the_bobbysoxer"
+    "imdb_url": "https://www.imdb.com/title/tt0038492/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dragonwyck"
   },
   {
-    "title": "Life with Father",
-    "year": 1947,
+    "title": "A Night in Casablanca",
+    "year": 1946,
     "director": {
-      "name": "Michael Curtiz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
+      "name": "Archie Mayo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0562927/"
     },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 4.7,
-    "gross_revenue_usd_millions": 6,
+    "production_studio": "United Artists",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 1.5,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "79%"
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Comedy"
-    ],
+    "genres": ["Comedy", "Crime"],
     "actors": [
-      {
-        "name": "William Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
-      },
-      {
-        "name": "Irene Dunne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002050/"
-      },
-      {
-        "name": "Elizabeth Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
-      }
+      { "name": "Groucho Marx", "imdb_person_url": "https://www.imdb.com/name/nm0000050/" },
+      { "name": "Harpo Marx", "imdb_person_url": "https://www.imdb.com/name/nm0000523/" },
+      { "name": "Chico Marx", "imdb_person_url": "https://www.imdb.com/name/nm0000524/" }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A loving but eccentric New York City family in the 1880s is ruled by the iron will of their patriarch, but his wife's quiet determination usually wins the day.",
+    "description": "The Marx Brothers wreak havoc in a post-war Casablanca hotel where Nazis are trying to reclaim stolen treasure.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039566/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/life_with_father"
+    "imdb_url": "https://www.imdb.com/title/tt0038778/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/night_in_casablanca"
   },
   {
-    "title": "Crossfire",
-    "year": 1947,
+    "title": "Green for Danger",
+    "year": 1946,
     "director": {
-      "name": "Edward Dmytryk",
-      "imdb_person_url": "https://www.imdb.com/name/nm0228839/"
+      "name": "Sidney Gilliat",
+      "imdb_person_url": "https://www.imdb.com/name/nm0319176/"
+    },
+    "production_studio": "Individual Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 1,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Alastair Sim", "imdb_person_url": "https://www.imdb.com/name/nm0001738/" },
+      { "name": "Sally Gray", "imdb_person_url": "https://www.imdb.com/name/nm0336934/" },
+      { "name": "Trevor Howard", "imdb_person_url": "https://www.imdb.com/name/nm0001366/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During WWII, a British rural hospital becomes the setting for murder on the operating table, investigated by the eccentric Inspector Cockrill.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038577/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/green_for_danger"
+  },
+  {
+    "title": "Bedlam",
+    "year": 1946,
+    "director": {
+      "name": "Mark Robson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0733482/"
     },
     "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 86,
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 79,
+    "budget_usd_millions": 0.35,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": ["Drama", "Horror", "Thriller"],
+    "actors": [
+      { "name": "Boris Karloff", "imdb_person_url": "https://www.imdb.com/name/nm0000472/" },
+      { "name": "Anna Lee", "imdb_person_url": "https://www.imdb.com/name/nm0002216/" },
+      { "name": "Billy House", "imdb_person_url": "https://www.imdb.com/name/nm0396628/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 18th-century London, the sadistic asylum master commits a sane woman to the asylum to silence her criticism.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038345/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bedlam"
+  },
+  {
+    "title": "Three Strangers",
+    "year": 1946,
+    "director": {
+      "name": "Jean Negulesco",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624535/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
     "budget_usd_millions": 0.6,
-    "gross_revenue_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 1.8,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "73%"
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "74%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Robert Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Robert Mitchum",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
-      },
-      {
-        "name": "Robert Ryan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
-      }
+      { "name": "Sydney Greenstreet", "imdb_person_url": "https://www.imdb.com/name/nm0002113/" },
+      { "name": "Geraldine Fitzgerald", "imdb_person_url": "https://www.imdb.com/name/nm0280227/" },
+      { "name": "Peter Lorre", "imdb_person_url": "https://www.imdb.com/name/nm0000048/" }
     ],
-    "oscars_nominated": 5,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A police detective investigates the murder of a Jewish man, with a group of demobilized soldiers as the prime suspects.",
+    "description": "Three strangers share a sweepstakes ticket and a strange idol, but greed and fate intervene.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039286/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crossfire"
+    "imdb_url": "https://www.imdb.com/title/tt0039032/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_strangers"
   },
   {
-    "title": "The Farmer's Daughter",
-    "year": 1947,
+    "title": "The Dark Mirror",
+    "year": 1946,
     "director": {
-      "name": "H.C. Potter",
-      "imdb_person_url": "https://www.imdb.com/name/nm0693214/"
+      "name": "Robert Siodmak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004666/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Drama", "Film-Noir", "Thriller"],
+    "actors": [
+      { "name": "Olivia de Havilland", "imdb_person_url": "https://www.imdb.com/name/nm0000014/" },
+      { "name": "Lew Ayres", "imdb_person_url": "https://www.imdb.com/name/nm0000819/" },
+      { "name": "Thomas Mitchell", "imdb_person_url": "https://www.imdb.com/name/nm0593761/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A doctor falls in love with one of two identical twin sisters, one of whom is a murderer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038453/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_mirror"
+  },
+  {
+    "title": "The Locket",
+    "year": 1946,
+    "director": {
+      "name": "John Brahm",
+      "imdb_person_url": "https://www.imdb.com/name/nm0103975/"
     },
     "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": 3.7,
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 1.1,
     "ratings": {
       "imdb": 7.1,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "52%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Loretta Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Joseph Cotten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
-      },
-      {
-        "name": "Ethel Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000863/"
-      }
+      { "name": "Laraine Day", "imdb_person_url": "https://www.imdb.com/name/nm0206489/" },
+      { "name": "Brian Aherne", "imdb_person_url": "https://www.imdb.com/name/nm0013887/" },
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" }
     ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress"
-    ],
-    "description": "A determined young Swedish-American woman leaves her family's farm to become a nurse, but ends up working as a maid for a congressman, and her political savvy soon shines through.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman's past comes back to haunt her on her wedding day, revealing a history of kleptomania and deceit.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039369/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_farmers_daughter"
+    "imdb_url": "https://www.imdb.com/title/tt0038700/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/locket"
   },
   {
-    "title": "Body and Soul",
-    "year": 1947,
+    "title": "The Strange Love of Martha Ivers",
+    "year": 1946,
     "director": {
-      "name": "Robert Rossen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0744047/"
+      "name": "Lewis Milestone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0587227/"
     },
-    "production_studio": "Enterprise Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 4.7,
+    "production_studio": "Hal Wallis Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
-      "imdb": 7.5,
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "79%"
+      "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Drama",
-      "Film-Noir",
-      "Sport"
-    ],
+    "genres": ["Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "John Garfield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002092/"
-      },
-      {
-        "name": "Lilli Palmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0658425/"
-      },
-      {
-        "name": "Hazel Brooks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0112018/"
-      }
+      { "name": "Barbara Stanwyck", "imdb_person_url": "https://www.imdb.com/name/nm0001766/" },
+      { "name": "Van Heflin", "imdb_person_url": "https://www.imdb.com/name/nm0002132/" },
+      { "name": "Lizabeth Scott", "imdb_person_url": "https://www.imdb.com/name/nm0779547/" }
     ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Film Editing"
-    ],
-    "description": "A young boxer rises through the ranks, but his success comes at a great moral cost.",
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three childhood friends are bound together by a terrible secret, which resurfaces when one of them returns to town.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039204/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/body_and_soul"
+    "imdb_url": "https://www.imdb.com/title/tt0038988/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/strange_love_of_martha_ivers"
   },
   {
-    "title": "A Double Life",
-    "year": 1947,
+    "title": "Canyon Passage",
+    "year": 1946,
     "director": {
-      "name": "George Cukor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
+      "name": "Jacques Tourneur",
+      "imdb_person_url": "https://www.imdb.com/name/nm0869664/"
     },
-    "production_studio": "Kanin Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 104,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.5,
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 2.6,
+    "gross_revenue_usd_millions": 5,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "52%"
+    },
+    "genres": ["Western"],
+    "actors": [
+      { "name": "Dana Andrews", "imdb_person_url": "https://www.imdb.com/name/nm0000762/" },
+      { "name": "Brian Donlevy", "imdb_person_url": "https://www.imdb.com/name/nm0232576/" },
+      { "name": "Susan Hayward", "imdb_person_url": "https://www.imdb.com/name/nm0001333/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A merchant in 1856 Oregon balances business, romance, and Indian uprisings.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038396/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/canyon_passage"
+  },
+  {
+    "title": "A Stolen Life",
+    "year": 1946,
+    "director": {
+      "name": "Curtis Bernhardt",
+      "imdb_person_url": "https://www.imdb.com/name/nm0076767/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Bette Davis", "imdb_person_url": "https://www.imdb.com/name/nm0000012/" },
+      { "name": "Glenn Ford", "imdb_person_url": "https://www.imdb.com/name/nm0001229/" },
+      { "name": "Dane Clark", "imdb_person_url": "https://www.imdb.com/name/nm0163836/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A twin sister takes her deceased sister's place to win the man they both loved.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038986/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stolen_life"
+  },
+  {
+    "title": "Road to Utopia",
+    "year": 1946,
+    "director": {
+      "name": "Hal Walker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0907802/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 4.5,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "75%"
+      "rotten_tomatoes_popcorn": "79%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Adventure", "Comedy", "Family"],
     "actors": [
-      {
-        "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
-      },
-      {
-        "name": "Signe Hasso",
-        "imdb_person_url": "https://www.imdb.com/name/nm0368541/"
-      },
-      {
-        "name": "Edmond O'Brien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0639649/"
-      }
+      { "name": "Bing Crosby", "imdb_person_url": "https://www.imdb.com/name/nm0001078/" },
+      { "name": "Bob Hope", "imdb_person_url": "https://www.imdb.com/name/nm0000453/" },
+      { "name": "Dorothy Lamour", "imdb_person_url": "https://www.imdb.com/name/nm0001444/" }
     ],
-    "oscars_nominated": 4,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor",
-      "Best Music, Scoring of a Dramatic or Comedy Picture"
-    ],
-    "description": "An actor's life is dangerously influenced by the roles he plays, especially when he takes on the part of Othello.",
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two con men find a map to a gold mine in Alaska and steal it.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0039335/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_double_life"
+    "imdb_url": "https://www.imdb.com/title/tt0038887/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/road_to_utopia"
+  },
+  {
+    "title": "Deception",
+    "year": 1946,
+    "director": {
+      "name": "Irving Rapper",
+      "imdb_person_url": "https://www.imdb.com/name/nm0710902/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 2.2,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": ["Crime", "Drama", "Music"],
+    "actors": [
+      { "name": "Bette Davis", "imdb_person_url": "https://www.imdb.com/name/nm0000012/" },
+      { "name": "Paul Henreid", "imdb_person_url": "https://www.imdb.com/name/nm0002134/" },
+      { "name": "Claude Rains", "imdb_person_url": "https://www.imdb.com/name/nm0001647/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pianist tries to hide her past relationship with a famous composer from her new husband, a cellist.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038461/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005499-deception"
+  },
+  {
+    "title": "Ziegfeld Follies",
+    "year": 1946,
+    "director": {
+      "name": "Vincente Minnelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001541/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 3.2,
+    "gross_revenue_usd_millions": 5.3,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": ["Comedy", "Musical"],
+    "actors": [
+      { "name": "William Powell", "imdb_person_url": "https://www.imdb.com/name/nm0001635/" },
+      { "name": "Judy Garland", "imdb_person_url": "https://www.imdb.com/name/nm0000023/" },
+      { "name": "Fred Astaire", "imdb_person_url": "https://www.imdb.com/name/nm0000001/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The late Florenz Ziegfeld looks down from heaven and stages a new revue with MGMs top talent.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039116/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ziegfeld_follies"
+  },
+  {
+    "title": "Till the Clouds Roll By",
+    "year": 1946,
+    "director": {
+      "name": "Richard Whorf",
+      "imdb_person_url": "https://www.imdb.com/name/nm0924315/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 132,
+    "budget_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 6.7,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "45%"
+    },
+    "genres": ["Biography", "Musical"],
+    "actors": [
+      { "name": "Robert Walker", "imdb_person_url": "https://www.imdb.com/name/nm0001826/" },
+      { "name": "Judy Garland", "imdb_person_url": "https://www.imdb.com/name/nm0000023/" },
+      { "name": "Frank Sinatra", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A musical biography of composer Jerome Kern, featuring many of his famous songs.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039035/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/till_the_clouds_roll_by"
+  },
+  {
+    "title": "Two Sisters from Boston",
+    "year": 1946,
+    "director": {
+      "name": "Henry Koster",
+      "imdb_person_url": "https://www.imdb.com/name/nm0467475/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 4.4,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": ["Comedy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Kathryn Grayson", "imdb_person_url": "https://www.imdb.com/name/nm0337377/" },
+      { "name": "June Allyson", "imdb_person_url": "https://www.imdb.com/name/nm0000742/" },
+      { "name": "Lauritz Melchior", "imdb_person_url": "https://www.imdb.com/name/nm0577447/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A proper Bostonian girl shocks her family by singing in a New York saloon.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039057/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/two_sisters_from_boston"
+  },
+  {
+    "title": "Blue Skies",
+    "year": 1946,
+    "director": {
+      "name": "Stuart Heisler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0374747/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 5.7,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": ["Comedy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Bing Crosby", "imdb_person_url": "https://www.imdb.com/name/nm0001078/" },
+      { "name": "Fred Astaire", "imdb_person_url": "https://www.imdb.com/name/nm0000001/" },
+      { "name": "Joan Caulfield", "imdb_person_url": "https://www.imdb.com/name/nm0146518/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dancer and a singer compete for the love of a showgirl over many years.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038368/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002673-blue_skies"
+  },
+  {
+    "title": "Monsieur Beaucaire",
+    "year": 1946,
+    "director": {
+      "name": "George Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0550882/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Bob Hope", "imdb_person_url": "https://www.imdb.com/name/nm0000453/" },
+      { "name": "Joan Caulfield", "imdb_person_url": "https://www.imdb.com/name/nm0146518/" },
+      { "name": "Patric Knowles", "imdb_person_url": "https://www.imdb.com/name/nm0461554/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A barber in the court of Louis XV is forced to impersonate a nobleman to escape punishment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038749/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/monsieur_beaucaire"
+  },
+  {
+    "title": "The Kid from Brooklyn",
+    "year": 1946,
+    "director": {
+      "name": "Norman Z. McLeod",
+      "imdb_person_url": "https://www.imdb.com/name/nm0572232/"
+    },
+    "production_studio": "Samuel Goldwyn Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 3,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Comedy", "Musical"],
+    "actors": [
+      { "name": "Danny Kaye", "imdb_person_url": "https://www.imdb.com/name/nm0001413/" },
+      { "name": "Virginia Mayo", "imdb_person_url": "https://www.imdb.com/name/nm0562920/" },
+      { "name": "Vera-Ellen", "imdb_person_url": "https://www.imdb.com/name/nm0893559/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A timid milkman accidentally knocks out a boxing champion and becomes a prizefighter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038667/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kid_from_brooklyn"
+  },
+  {
+    "title": "The Diary of a Chambermaid",
+    "year": 1946,
+    "director": {
+      "name": "Jean Renoir",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
+    },
+    "production_studio": "Camden Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Paulette Goddard", "imdb_person_url": "https://www.imdb.com/name/nm0002104/" },
+      { "name": "Burgess Meredith", "imdb_person_url": "https://www.imdb.com/name/nm0001533/" },
+      { "name": "Hurd Hatfield", "imdb_person_url": "https://www.imdb.com/name/nm0368853/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A newly hired chambermaid in 19th-century France gets involved in the intrigues of the wealthy Lanlaire family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038475/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005790-diary_of_a_chambermaid"
+  },
+  {
+    "title": "The Verdict",
+    "year": 1946,
+    "director": {
+      "name": "Don Siegel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0797095/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Sydney Greenstreet", "imdb_person_url": "https://www.imdb.com/name/nm0002113/" },
+      { "name": "Peter Lorre", "imdb_person_url": "https://www.imdb.com/name/nm0000048/" },
+      { "name": "Joan Lorring", "imdb_person_url": "https://www.imdb.com/name/nm0521174/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Scotland Yard superintendent is forced to resign after an innocent man is hanged, but he tries to clear his name.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039060/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1022815-verdict"
+  },
+  {
+    "title": "Tomorrow Is Forever",
+    "year": 1946,
+    "director": {
+      "name": "Irving Pichel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0681638/"
+    },
+    "production_studio": "International Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Claudette Colbert", "imdb_person_url": "https://www.imdb.com/name/nm0001055/" },
+      { "name": "Orson Welles", "imdb_person_url": "https://www.imdb.com/name/nm0000080/" },
+      { "name": "George Brent", "imdb_person_url": "https://www.imdb.com/name/nm0107574/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man presumed dead in World War I returns home 20 years later to find his wife remarried.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039042/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tomorrow_is_forever"
+  },
+  {
+    "title": "Sister Kenny",
+    "year": 1946,
+    "director": {
+      "name": "Dudley Nichols",
+      "imdb_person_url": "https://www.imdb.com/name/nm0629579/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Biography", "Drama"],
+    "actors": [
+      { "name": "Rosalind Russell", "imdb_person_url": "https://www.imdb.com/name/nm0751426/" },
+      { "name": "Alexander Knox", "imdb_person_url": "https://www.imdb.com/name/nm0461595/" },
+      { "name": "Dean Jagger", "imdb_person_url": "https://www.imdb.com/name/nm0415594/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of Sister Elizabeth Kenny, an Australian nurse who fought to gain recognition for her treatment for polio.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038947/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sister_kenny"
+  },
+  {
+    "title": "Somewhere in the Night",
+    "year": 1946,
+    "director": {
+      "name": "Joseph L. Mankiewicz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0542403/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "52%"
+    },
+    "genres": ["Crime", "Film-Noir", "Mystery"],
+    "actors": [
+      { "name": "John Hodiak", "imdb_person_url": "https://www.imdb.com/name/nm0388156/" },
+      { "name": "Nancy Guild", "imdb_person_url": "https://www.imdb.com/name/nm0346897/" },
+      { "name": "Lloyd Nolan", "imdb_person_url": "https://www.imdb.com/name/nm0634323/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An amnesiac war veteran tries to discover his identity and gets mixed up with criminals.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038965/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/somewhere_in_the_night"
+  },
+  {
+    "title": "Black Angel",
+    "year": 1946,
+    "director": {
+      "name": "Roy William Neill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624764/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": ["Film-Noir", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Dan Duryea", "imdb_person_url": "https://www.imdb.com/name/nm0002052/" },
+      { "name": "June Vincent", "imdb_person_url": "https://www.imdb.com/name/nm0898688/" },
+      { "name": "Peter Lorre", "imdb_person_url": "https://www.imdb.com/name/nm0000048/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman tries to clear her husband of a murder charge by finding the real killer with the help of the victim's alcoholic husband.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038360/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002483-black_angel"
+  },
+  {
+    "title": "The Chase",
+    "year": 1946,
+    "director": {
+      "name": "Arthur Ripley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0728005/"
+    },
+    "production_studio": "Nero Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "49%"
+    },
+    "genres": ["Film-Noir", "Thriller"],
+    "actors": [
+      { "name": "Robert Cummings", "imdb_person_url": "https://www.imdb.com/name/nm0191954/" },
+      { "name": "Michèle Morgan", "imdb_person_url": "https://www.imdb.com/name/nm0604908/" },
+      { "name": "Steve Cochran", "imdb_person_url": "https://www.imdb.com/name/nm0168219/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A drifting veteran becomes the chauffeur for a Miami gangster and falls for his wife, leading to a desperate flight.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0038411/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004026-chase"
+  },
+  {
+    "title": "Undercurrent",
+    "year": 1946,
+    "director": {
+      "name": "Vincente Minnelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001541/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 4.3,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "46%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Katharine Hepburn", "imdb_person_url": "https://www.imdb.com/name/nm0000031/" },
+      { "name": "Robert Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0001791/" },
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman begins to suspect that her new husband may have murdered his missing brother.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0039059/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/undercurrent"
   }
 ]

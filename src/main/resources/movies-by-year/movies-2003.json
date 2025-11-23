@@ -6,63 +6,38 @@
       "name": "Peter Jackson",
       "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
     },
-    "production_studio": "New Line Cinema, WingNut Films",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 201,
     "budget_usd_millions": 94,
-    "gross_revenue_usd_millions": 1146,
+    "gross_revenue_usd_millions": 1147,
     "ratings": {
       "imdb": 9.0,
-      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_critic": "93%",
       "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Action", "Adventure", "Drama"],
     "actors": [
-      {
-        "name": "Elijah Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000704/"
-      },
-      {
-        "name": "Viggo Mortensen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001557/"
-      },
-      {
-        "name": "Ian McKellen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005212/"
-      }
+      { "name": "Elijah Wood", "imdb_person_url": "https://www.imdb.com/name/nm0000704/" },
+      { "name": "Viggo Mortensen", "imdb_person_url": "https://www.imdb.com/name/nm0001557/" },
+      { "name": "Ian McKellen", "imdb_person_url": "https://www.imdb.com/name/nm0005212/" }
     ],
     "oscars_nominated": 11,
     "oscars_won": 11,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Writing, Adapted Screenplay",
-      "Best Film Editing",
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design",
-      "Best Makeup",
-      "Best Music, Original Score",
-      "Best Music, Original Song",
-      "Best Sound Mixing",
-      "Best Visual Effects"
-    ],
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Adapted Screenplay", "Best Film Editing", "Best Art Direction", "Best Costume Design", "Best Makeup", "Best Original Score", "Best Original Song", "Best Sound Mixing", "Best Visual Effects"],
     "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-    "afi_ranking": null,
+    "afi_ranking": 50,
     "imdb_url": "https://www.imdb.com/title/tt0167260/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_return_of_the_king"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lord_of_the_rings_the_return_of_the_king"
   },
   {
     "title": "Finding Nemo",
     "year": 2003,
     "director": {
-      "name": "Andrew Stanton, Lee Unkrich",
+      "name": "Andrew Stanton",
       "imdb_person_url": "https://www.imdb.com/name/nm0004056/"
     },
-    "production_studio": "Pixar Animation Studios, Walt Disney Pictures",
+    "production_studio": "Pixar",
     "mpaa_rating": "G",
     "runtime_minutes": 100,
     "budget_usd_millions": 94,
@@ -72,32 +47,17 @@
       "rotten_tomatoes_critic": "99%",
       "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "actors": [
-      {
-        "name": "Albert Brooks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000978/"
-      },
-      {
-        "name": "Ellen DeGeneres",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001122/"
-      },
-      {
-        "name": "Alexander Gould",
-        "imdb_person_url": "https://www.imdb.com/name/nm0332152/"
-      }
+      { "name": "Albert Brooks", "imdb_person_url": "https://www.imdb.com/name/nm0000983/" },
+      { "name": "Ellen DeGeneres", "imdb_person_url": "https://www.imdb.com/name/nm0001122/" },
+      { "name": "Alexander Gould", "imdb_person_url": "https://www.imdb.com/name/nm1074260/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Animated Feature"
-    ],
+    "oscars_won_details": ["Best Animated Feature"],
     "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
-    "afi_ranking": 10,
+    "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0266543/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/finding_nemo"
   },
@@ -106,9 +66,9 @@
     "year": 2003,
     "director": {
       "name": "Gore Verbinski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005529/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0893659/"
     },
-    "production_studio": "Walt Disney Pictures, Jerry Bruckheimer Films",
+    "production_studio": "Walt Disney Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 143,
     "budget_usd_millions": 140,
@@ -118,29 +78,16 @@
       "rotten_tomatoes_critic": "80%",
       "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
+    "genres": ["Action", "Adventure", "Fantasy"],
     "actors": [
-      {
-        "name": "Johnny Depp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
-      },
-      {
-        "name": "Geoffrey Rush",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001691/"
-      },
-      {
-        "name": "Orlando Bloom",
-        "imdb_person_url": "https://www.imdb.com/name/nm0089217/"
-      }
+      { "name": "Johnny Depp", "imdb_person_url": "https://www.imdb.com/name/nm0000136/" },
+      { "name": "Geoffrey Rush", "imdb_person_url": "https://www.imdb.com/name/nm0001691/" },
+      { "name": "Orlando Bloom", "imdb_person_url": "https://www.imdb.com/name/nm0089217/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Blacksmith Will Turner teams up with eccentric pirate 'Captain' Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0325980/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pirates_of_the_caribbean_the_curse_of_the_black_pearl"
@@ -152,7 +99,7 @@
       "name": "Sofia Coppola",
       "imdb_person_url": "https://www.imdb.com/name/nm0001068/"
     },
-    "production_studio": "Focus Features, American Zoetrope",
+    "production_studio": "Focus Features",
     "mpaa_rating": "R",
     "runtime_minutes": 102,
     "budget_usd_millions": 4,
@@ -160,126 +107,21 @@
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "85%"
     },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "genres": ["Comedy", "Drama"],
     "actors": [
-      {
-        "name": "Bill Murray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000195/"
-      },
-      {
-        "name": "Scarlett Johansson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0424060/"
-      },
-      {
-        "name": "Giovanni Ribisi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000610/"
-      }
+      { "name": "Bill Murray", "imdb_person_url": "https://www.imdb.com/name/nm0000195/" },
+      { "name": "Scarlett Johansson", "imdb_person_url": "https://www.imdb.com/name/nm0424060/" },
+      { "name": "Giovanni Ribisi", "imdb_person_url": "https://www.imdb.com/name/nm0000610/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Original Screenplay"
-    ],
+    "oscars_won_details": ["Best Original Screenplay"],
     "description": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0335266/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lost_in_translation"
-  },
-  {
-    "title": "Mystic River",
-    "year": 2003,
-    "director": {
-      "name": "Clint Eastwood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
-    },
-    "production_studio": "Warner Bros., Village Roadshow Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 138,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 156.8,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Sean Penn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
-      },
-      {
-        "name": "Tim Robbins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
-      },
-      {
-        "name": "Kevin Bacon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000102/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role",
-      "Best Actor in a Supporting Role"
-    ],
-    "description": "The lives of three men who were childhood friends are shattered when one of them has a family tragedy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0327056/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mystic_river"
-  },
-  {
-    "title": "Oldboy",
-    "year": 2003,
-    "director": {
-      "name": "Park Chan-wook",
-      "imdb_person_url": "https://www.imdb.com/name/nm0661791/"
-    },
-    "production_studio": "Show East, Egg Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 15,
-    "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "94%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Choi Min-sik",
-        "imdb_person_url": "https://www.imdb.com/name/nm0158856/"
-      },
-      {
-        "name": "Yoo Ji-tae",
-        "imdb_person_url": "https://www.imdb.com/name/nm0950888/"
-      },
-      {
-        "name": "Kang Hye-jung",
-        "imdb_person_url": "https://www.imdb.com/name/nm0437637/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0364569/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oldboy"
   },
   {
     "title": "Kill Bill: Vol. 1",
@@ -288,7 +130,7 @@
       "name": "Quentin Tarantino",
       "imdb_person_url": "https://www.imdb.com/name/nm0000233/"
     },
-    "production_studio": "Miramax, A Band Apart",
+    "production_studio": "Miramax",
     "mpaa_rating": "R",
     "runtime_minutes": 111,
     "budget_usd_millions": 30,
@@ -298,24 +140,11 @@
       "rotten_tomatoes_critic": "85%",
       "rotten_tomatoes_popcorn": "81%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Action", "Crime", "Thriller"],
     "actors": [
-      {
-        "name": "Uma Thurman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000235/"
-      },
-      {
-        "name": "David Carradine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001018/"
-      },
-      {
-        "name": "Daryl Hannah",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000435/"
-      }
+      { "name": "Uma Thurman", "imdb_person_url": "https://www.imdb.com/name/nm0000235/" },
+      { "name": "Lucy Liu", "imdb_person_url": "https://www.imdb.com/name/nm0005154/" },
+      { "name": "Vivica A. Fox", "imdb_person_url": "https://www.imdb.com/name/nm0000407/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -326,40 +155,120 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kill_bill_vol_1"
   },
   {
+    "title": "Mystic River",
+    "year": 2003,
+    "director": {
+      "name": "Clint Eastwood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 138,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 156.6,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Sean Penn", "imdb_person_url": "https://www.imdb.com/name/nm0000576/" },
+      { "name": "Tim Robbins", "imdb_person_url": "https://www.imdb.com/name/nm0000219/" },
+      { "name": "Kevin Bacon", "imdb_person_url": "https://www.imdb.com/name/nm0000102/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Actor", "Best Supporting Actor"],
+    "description": "The lives of three men who were childhood friends are shattered when one of them has a family tragedy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0321584/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mystic_river"
+  },
+  {
+    "title": "Oldboy",
+    "year": 2003,
+    "director": {
+      "name": "Park Chan-wook",
+      "imdb_person_url": "https://www.imdb.com/name/nm0661791/"
+    },
+    "production_studio": "Show East",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 15,
+    "ratings": {
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Choi Min-sik", "imdb_person_url": "https://www.imdb.com/name/nm0158856/" },
+      { "name": "Yoo Ji-tae", "imdb_person_url": "https://www.imdb.com/name/nm0948439/" },
+      { "name": "Kang Hye-jeong", "imdb_person_url": "https://www.imdb.com/name/nm1352979/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0364569/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oldboy"
+  },
+  {
+    "title": "Big Fish",
+    "year": 2003,
+    "director": {
+      "name": "Tim Burton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000318/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 70,
+    "gross_revenue_usd_millions": 122.9,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "actors": [
+      { "name": "Ewan McGregor", "imdb_person_url": "https://www.imdb.com/name/nm0000191/" },
+      { "name": "Albert Finney", "imdb_person_url": "https://www.imdb.com/name/nm0001215/" },
+      { "name": "Billy Crudup", "imdb_person_url": "https://www.imdb.com/name/nm0001083/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A frustrated son tries to determine the fact from fiction in his dying father's life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0319061/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1127787-big_fish"
+  },
+  {
     "title": "Love Actually",
     "year": 2003,
     "director": {
       "name": "Richard Curtis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001089/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0193485/"
     },
-    "production_studio": "Universal Pictures, Working Title Films, DNA Films",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 135,
     "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 248,
+    "gross_revenue_usd_millions": 244.9,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_critic": "65%",
       "rotten_tomatoes_popcorn": "72%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Hugh Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000424/"
-      },
-      {
-        "name": "Martine McCutcheon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0565293/"
-      },
-      {
-        "name": "Liam Neeson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000553/"
-      }
+      { "name": "Hugh Grant", "imdb_person_url": "https://www.imdb.com/name/nm0000157/" },
+      { "name": "Martine McCutcheon", "imdb_person_url": "https://www.imdb.com/name/nm0567255/" },
+      { "name": "Liam Neeson", "imdb_person_url": "https://www.imdb.com/name/nm0000553/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -376,133 +285,29 @@
       "name": "Jon Favreau",
       "imdb_person_url": "https://www.imdb.com/name/nm0269463/"
     },
-    "production_studio": "New Line Cinema, Guy Walks Into a Bar Productions",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "PG",
     "runtime_minutes": 97,
     "budget_usd_millions": 33,
-    "gross_revenue_usd_millions": 223.3,
+    "gross_revenue_usd_millions": 223.9,
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "86%",
       "rotten_tomatoes_popcorn": "79%"
     },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Family"
-    ],
+    "genres": ["Adventure", "Comedy", "Family"],
     "actors": [
-      {
-        "name": "Will Ferrell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002071/"
-      },
-      {
-        "name": "James Caan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
-      },
-      {
-        "name": "Zooey Deschanel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0221046/"
-      }
+      { "name": "Will Ferrell", "imdb_person_url": "https://www.imdb.com/name/nm0002071/" },
+      { "name": "James Caan", "imdb_person_url": "https://www.imdb.com/name/nm0001001/" },
+      { "name": "Bob Newhart", "imdb_person_url": "https://www.imdb.com/name/nm0627878/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Raised as an oversized elf, a human travels from the North Pole to NYC to meet his biological father who doesn't know he exists and is in desperate need of some Christmas spirit.",
+    "description": "Raised as an oversized elf, Buddy travels from the North Pole to New York City to meet his biological father, Walter Hobbs, who doesn't know he exists and is in desperate need of some Christmas spirit.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0319343/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/elf"
-  },
-  {
-    "title": "Master and Commander: The Far Side of the World",
-    "year": 2003,
-    "director": {
-      "name": "Peter Weir",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001837/"
-    },
-    "production_studio": "20th Century Fox, Miramax, Universal Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 138,
-    "budget_usd_millions": 150,
-    "gross_revenue_usd_millions": 212,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
-      },
-      {
-        "name": "Paul Bettany",
-        "imdb_person_url": "https://www.imdb.com/name/nm0079273/"
-      },
-      {
-        "name": "Billy Boyd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0101710/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Cinematography",
-      "Best Sound Editing"
-    ],
-    "description": "During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0311113/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/master_and_commander_the_far_side_of_the_world"
-  },
-  {
-    "title": "Big Fish",
-    "year": 2003,
-    "director": {
-      "name": "Tim Burton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000318/"
-    },
-    "production_studio": "Columbia Pictures, The Zanuck Company",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 123.2,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Ewan McGregor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000191/"
-      },
-      {
-        "name": "Albert Finney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001215/"
-      },
-      {
-        "name": "Billy Crudup",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001082/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A frustrated son tries to determine the fact from fiction in his dying father's life.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0319061/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_fish"
   },
   {
     "title": "School of Rock",
@@ -511,7 +316,7 @@
       "name": "Richard Linklater",
       "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
     },
-    "production_studio": "Paramount Pictures, Scott Rudin Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 109,
     "budget_usd_millions": 35,
@@ -519,25 +324,13 @@
     "ratings": {
       "imdb": 7.2,
       "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_popcorn": "64%"
     },
-    "genres": [
-      "Comedy",
-      "Music"
-    ],
+    "genres": ["Comedy", "Music"],
     "actors": [
-      {
-        "name": "Jack Black",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000980/"
-      },
-      {
-        "name": "Mike White",
-        "imdb_person_url": "https://www.imdb.com/name/nm0925234/"
-      },
-      {
-        "name": "Joan Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000349/"
-      }
+      { "name": "Jack Black", "imdb_person_url": "https://www.imdb.com/name/nm0085312/" },
+      { "name": "Mike White", "imdb_person_url": "https://www.imdb.com/name/nm0925234/" },
+      { "name": "Joan Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0000349/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -548,82 +341,27 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/school_of_rock"
   },
   {
-    "title": "X2: X-Men United",
-    "year": 2003,
-    "director": {
-      "name": "Bryan Singer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
-    },
-    "production_studio": "20th Century Fox, Marvel Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 110,
-    "gross_revenue_usd_millions": 407.7,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Patrick Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001772/"
-      },
-      {
-        "name": "Hugh Jackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003964/"
-      },
-      {
-        "name": "Ian McKellen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005212/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The X-Men band together to find a mutant assassin who has made an attempt on the President's life, while the Mutant Academy is attacked by military forces.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0290334/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/x2_xmen_united"
-  },
-  {
     "title": "The Last Samurai",
     "year": 2003,
     "director": {
       "name": "Edward Zwick",
       "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
     },
-    "production_studio": "Warner Bros., The Bedford Falls Company",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 154,
     "budget_usd_millions": 140,
-    "gross_revenue_usd_millions": 456.8,
+    "gross_revenue_usd_millions": 454.6,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "66%",
       "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Action",
-      "Drama"
-    ],
+    "genres": ["Action", "Drama", "War"],
     "actors": [
-      {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
-      },
-      {
-        "name": "Ken Watanabe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0913822/"
-      },
-      {
-        "name": "Billy Connolly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001063/"
-      }
+      { "name": "Tom Cruise", "imdb_person_url": "https://www.imdb.com/name/nm0000129/" },
+      { "name": "Ken Watanabe", "imdb_person_url": "https://www.imdb.com/name/nm0913822/" },
+      { "name": "Billy Connolly", "imdb_person_url": "https://www.imdb.com/name/nm0175262/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
@@ -634,57 +372,137 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_samurai"
   },
   {
-    "title": "Something's Gotta Give",
+    "title": "Master and Commander: The Far Side of the World",
     "year": 2003,
     "director": {
-      "name": "Nancy Meyers",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001525/"
+      "name": "Peter Weir",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001837/"
     },
-    "production_studio": "Columbia Pictures, Warner Bros.",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 80,
-    "gross_revenue_usd_millions": 266.7,
+    "runtime_minutes": 138,
+    "budget_usd_millions": 150,
+    "gross_revenue_usd_millions": 211.6,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "72%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "80%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Action", "Adventure", "Drama"],
     "actors": [
-      {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
-      },
-      {
-        "name": "Diane Keaton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000473/"
-      },
-      {
-        "name": "Keanu Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
-      }
+      { "name": "Russell Crowe", "imdb_person_url": "https://www.imdb.com/name/nm0000128/" },
+      { "name": "Paul Bettany", "imdb_person_url": "https://www.imdb.com/name/nm0079273/" },
+      { "name": "Billy Boyd", "imdb_person_url": "https://www.imdb.com/name/nm0101825/" }
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Cinematography", "Best Sound Editing"],
+    "description": "During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0311113/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/master_and_commander_the_far_side_of_the_world"
+  },
+  {
+    "title": "Monster",
+    "year": 2003,
+    "director": {
+      "name": "Patty Jenkins",
+      "imdb_person_url": "https://www.imdb.com/name/nm0420941/"
+    },
+    "production_studio": "Newmarket Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 8,
+    "gross_revenue_usd_millions": 64.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Biography", "Crime", "Drama"],
+    "actors": [
+      { "name": "Charlize Theron", "imdb_person_url": "https://www.imdb.com/name/nm0000232/" },
+      { "name": "Christina Ricci", "imdb_person_url": "https://www.imdb.com/name/nm0000207/" },
+      { "name": "Bruce Dern", "imdb_person_url": "https://www.imdb.com/name/nm0001136/" }
     ],
     "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actress"],
+    "description": "Based on the life of Aileen Wuornos, a Daytona Beach prostitute who became a serial killer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0340855/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1127932-monster"
+  },
+  {
+    "title": "X2: X-Men United",
+    "year": 2003,
+    "director": {
+      "name": "Bryan Singer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 110,
+    "gross_revenue_usd_millions": 407.7,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "actors": [
+      { "name": "Patrick Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0001772/" },
+      { "name": "Hugh Jackman", "imdb_person_url": "https://www.imdb.com/name/nm0413168/" },
+      { "name": "Ian McKellen", "imdb_person_url": "https://www.imdb.com/name/nm0005212/" }
+    ],
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A swinger in his 60s finds love with the mother of his young girlfriend.",
+    "description": "When anti-mutant colonel William Stryker kidnaps Professor X and attacks his school, the X-Men must ally with their archenemy Magneto to stop him.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0337741/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/somethings_gotta_give"
+    "imdb_url": "https://www.imdb.com/title/tt0290334/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/x2_xmen_united"
+  },
+  {
+    "title": "Memories of Murder",
+    "year": 2003,
+    "director": {
+      "name": "Bong Joon Ho",
+      "imdb_person_url": "https://www.imdb.com/name/nm0094432/"
+    },
+    "production_studio": "CJ Entertainment",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 131,
+    "budget_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Kang-ho Song", "imdb_person_url": "https://www.imdb.com/name/nm0814709/" },
+      { "name": "Kim Sang-kyung", "imdb_person_url": "https://www.imdb.com/name/nm1046447/" },
+      { "name": "Roe-ha Kim", "imdb_person_url": "https://www.imdb.com/name/nm1045589/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0353969/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/memories_of_murder_2003"
   },
   {
     "title": "Cold Mountain",
     "year": 2003,
     "director": {
       "name": "Anthony Minghella",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005235/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0005237/"
     },
-    "production_studio": "Miramax, Mirage Enterprises",
+    "production_studio": "Miramax",
     "mpaa_rating": "R",
     "runtime_minutes": 154,
     "budget_usd_millions": 79,
@@ -692,80 +510,21 @@
     "ratings": {
       "imdb": 7.2,
       "rotten_tomatoes_critic": "70%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "History"
-    ],
+    "genres": ["Adventure", "Drama", "History"],
     "actors": [
-      {
-        "name": "Jude Law",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
-      },
-      {
-        "name": "Nicole Kidman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
-      },
-      {
-        "name": "Renée Zellweger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000250/"
-      }
+      { "name": "Jude Law", "imdb_person_url": "https://www.imdb.com/name/nm0000179/" },
+      { "name": "Nicole Kidman", "imdb_person_url": "https://www.imdb.com/name/nm0000173/" },
+      { "name": "Renée Zellweger", "imdb_person_url": "https://www.imdb.com/name/nm0000250/" }
     ],
     "oscars_nominated": 7,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role"
-    ],
-    "description": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to his sweetheart.",
+    "oscars_won_details": ["Best Actress in a Supporting Role"],
+    "description": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0159365/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cold_mountain"
-  },
-  {
-    "title": "Seabiscuit",
-    "year": 2003,
-    "director": {
-      "name": "Gary Ross",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002657/"
-    },
-    "production_studio": "Universal Pictures, DreamWorks, Spyglass Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 140,
-    "budget_usd_millions": 87,
-    "gross_revenue_usd_millions": 148.3,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
-      "History",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Tobey Maguire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001497/"
-      },
-      {
-        "name": "Jeff Bridges",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
-      },
-      {
-        "name": "Chris Cooper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001069/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "True story of the undersized Depression-era racehorse whose victories lifted the spirits of the nation.",
-    "afi_ranking": 50,
-    "imdb_url": "https://www.imdb.com/title/tt0329575/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seabiscuit"
   },
   {
     "title": "21 Grams",
@@ -774,7 +533,7 @@
       "name": "Alejandro G. Iñárritu",
       "imdb_person_url": "https://www.imdb.com/name/nm0327944/"
     },
-    "production_studio": "Focus Features, This is That Productions",
+    "production_studio": "Focus Features",
     "mpaa_rating": "R",
     "runtime_minutes": 124,
     "budget_usd_millions": 20,
@@ -782,26 +541,13 @@
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "85%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
+    "genres": ["Crime", "Drama", "Thriller"],
     "actors": [
-      {
-        "name": "Sean Penn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
-      },
-      {
-        "name": "Naomi Watts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915208/"
-      },
-      {
-        "name": "Benicio Del Toro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001125/"
-      }
+      { "name": "Sean Penn", "imdb_person_url": "https://www.imdb.com/name/nm0000576/" },
+      { "name": "Benicio Del Toro", "imdb_person_url": "https://www.imdb.com/name/nm0000367/" },
+      { "name": "Naomi Watts", "imdb_person_url": "https://www.imdb.com/name/nm0915208/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
@@ -812,86 +558,151 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/21_grams"
   },
   {
-    "title": "Monster",
+    "title": "Seabiscuit",
     "year": 2003,
     "director": {
-      "name": "Patty Jenkins",
-      "imdb_person_url": "https://www.imdb.com/name/nm0420941/"
+      "name": "Gary Ross",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002657/"
     },
-    "production_studio": "Newmarket Films, Media 8 Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 109,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 64.2,
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 87,
+    "gross_revenue_usd_millions": 148.3,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "76%"
     },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Drama", "History", "Sport"],
     "actors": [
-      {
-        "name": "Charlize Theron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000234/"
-      },
-      {
-        "name": "Christina Ricci",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000207/"
-      },
-      {
-        "name": "Bruce Dern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
-      }
+      { "name": "Tobey Maguire", "imdb_person_url": "https://www.imdb.com/name/nm0000513/" },
+      { "name": "Jeff Bridges", "imdb_person_url": "https://www.imdb.com/name/nm0000313/" },
+      { "name": "Elizabeth Banks", "imdb_person_url": "https://www.imdb.com/name/nm0006669/" }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "True story of the undersized Depression-era racehorse whose victories lifted not only the spirits of the team behind it but also those of their nation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0329575/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seabiscuit"
+  },
+  {
+    "title": "American Splendor",
+    "year": 2003,
+    "director": {
+      "name": "Shari Springer Berman & Robert Pulcini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0075867/"
+    },
+    "production_studio": "HBO Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 8.7,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Biography", "Comedy", "Drama"],
+    "actors": [
+      { "name": "Paul Giamatti", "imdb_person_url": "https://www.imdb.com/name/nm0316079/" },
+      { "name": "Hope Davis", "imdb_person_url": "https://www.imdb.com/name/nm0204706/" },
+      { "name": "Judah Friedlander", "imdb_person_url": "https://www.imdb.com/name/nm0295103/" }
     ],
     "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "Based on the life of Aileen Wuornos, a Daytona Beach prostitute who became a serial killer.",
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An original mix of fiction and reality illuminates the life of comic book hero everyman Harvey Pekar.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0340855/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/monster"
+    "imdb_url": "https://www.imdb.com/title/tt0305206/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_splendor"
+  },
+  {
+    "title": "The Station Agent",
+    "year": 2003,
+    "director": {
+      "name": "Tom McCarthy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565336/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 8.7,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Peter Dinklage", "imdb_person_url": "https://www.imdb.com/name/nm0227759/" },
+      { "name": "Patricia Clarkson", "imdb_person_url": "https://www.imdb.com/name/nm0165101/" },
+      { "name": "Bobby Cannavale", "imdb_person_url": "https://www.imdb.com/name/nm0134072/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0340377/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/station_agent"
+  },
+  {
+    "title": "Thirteen",
+    "year": 2003,
+    "director": {
+      "name": "Catherine Hardwicke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0362564/"
+    },
+    "production_studio": "Fox Searchlight",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 10.1,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Evan Rachel Wood", "imdb_person_url": "https://www.imdb.com/name/nm0939697/" },
+      { "name": "Holly Hunter", "imdb_person_url": "https://www.imdb.com/name/nm0000456/" },
+      { "name": "Nikki Reed", "imdb_person_url": "https://www.imdb.com/name/nm1011851/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A thirteen-year-old girl's relationship with her mother is put to the test as she discovers drugs, sex, and petty crime in the company of her cool but troubled best friend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0328538/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thirteen"
   },
   {
     "title": "Bad Santa",
     "year": 2003,
     "director": {
       "name": "Terry Zwigoff",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0959042/"
     },
-    "production_studio": "Dimension Films, Columbia Pictures",
+    "production_studio": "Dimension Films",
     "mpaa_rating": "R",
-    "runtime_minutes": 92,
+    "runtime_minutes": 91,
     "budget_usd_millions": 23,
     "gross_revenue_usd_millions": 76.5,
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "75%"
     },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Comedy", "Crime", "Drama"],
     "actors": [
-      {
-        "name": "Billy Bob Thornton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000671/"
-      },
-      {
-        "name": "Bernie Mac",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005170/"
-      },
-      {
-        "name": "Lauren Graham",
-        "imdb_person_url": "https://www.imdb.com/name/nm0334179/"
-      }
+      { "name": "Billy Bob Thornton", "imdb_person_url": "https://www.imdb.com/name/nm0001796/" },
+      { "name": "Bernie Mac", "imdb_person_url": "https://www.imdb.com/name/nm0005170/" },
+      { "name": "Lauren Graham", "imdb_person_url": "https://www.imdb.com/name/nm0334153/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -902,39 +713,244 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_santa"
   },
   {
+    "title": "The Room",
+    "year": 2003,
+    "director": {
+      "name": "Tommy Wiseau",
+      "imdb_person_url": "https://www.imdb.com/name/nm1382072/"
+    },
+    "production_studio": "Wiseau-Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 0.002,
+    "ratings": {
+      "imdb": 3.6,
+      "rotten_tomatoes_critic": "26%",
+      "rotten_tomatoes_popcorn": "46%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Tommy Wiseau", "imdb_person_url": "https://www.imdb.com/name/nm1382072/" },
+      { "name": "Greg Sestero", "imdb_person_url": "https://www.imdb.com/name/nm1411648/" },
+      { "name": "Juliette Danielle", "imdb_person_url": "https://www.imdb.com/name/nm1413250/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiancée, Lisa. One day, inexplicably, she gets bored with him and decides to seduce his best friend, Mark. From there, nothing will be the same again.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0368226/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_room"
+  },
+  {
+    "title": "Dogville",
+    "year": 2003,
+    "director": {
+      "name": "Lars von Trier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000240/"
+    },
+    "production_studio": "Zentropa Entertainments",
+    "mpaa_rating": "R",
+    "runtime_minutes": 178,
+    "budget_usd_millions": 10,
+    "gross_revenue_usd_millions": 16.7,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Crime", "Drama"],
+    "actors": [
+      { "name": "Nicole Kidman", "imdb_person_url": "https://www.imdb.com/name/nm0000173/" },
+      { "name": "Paul Bettany", "imdb_person_url": "https://www.imdb.com/name/nm0079273/" },
+      { "name": "Lauren Bacall", "imdb_person_url": "https://www.imdb.com/name/nm0000004/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman on the run from the mob is reluctantly accepted in a small Colorado town. In exchange, she agrees to work for them. As a search visits the town, she finds out that their support has a price.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0276919/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dogville"
+  },
+  {
+    "title": "Elephant",
+    "year": 2003,
+    "director": {
+      "name": "Gus Van Sant",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
+    },
+    "production_studio": "HBO Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 10,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Elias McConnell", "imdb_person_url": "https://www.imdb.com/name/nm1366329/" },
+      { "name": "Alex Frost", "imdb_person_url": "https://www.imdb.com/name/nm1366313/" },
+      { "name": "Eric Deulen", "imdb_person_url": "https://www.imdb.com/name/nm1366317/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0330243/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/elephant"
+  },
+  {
+    "title": "The Dreamers",
+    "year": 2003,
+    "director": {
+      "name": "Bernardo Bertolucci",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000934/"
+    },
+    "production_studio": "Recorded Picture Company",
+    "mpaa_rating": "NC-17",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 25.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Michael Pitt", "imdb_person_url": "https://www.imdb.com/name/nm0685856/" },
+      { "name": "Louis Garrel", "imdb_person_url": "https://www.imdb.com/name/nm0308096/" },
+      { "name": "Eva Green", "imdb_person_url": "https://www.imdb.com/name/nm1143262/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young American studying in Paris in 1968 strikes up a friendship with a French brother and sister. Set against the background of the '68 Paris student riots.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0309987/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dreamers"
+  },
+  {
+    "title": "Shattered Glass",
+    "year": 2003,
+    "director": {
+      "name": "Billy Ray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0712755/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 2.9,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "actors": [
+      { "name": "Hayden Christensen", "imdb_person_url": "https://www.imdb.com/name/nm0159789/" },
+      { "name": "Peter Sarsgaard", "imdb_person_url": "https://www.imdb.com/name/nm0765597/" },
+      { "name": "Chloë Sevigny", "imdb_person_url": "https://www.imdb.com/name/nm0001721/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of a young journalist who fell from grace when it was discovered he fabricated over half of his articles from the publication The New Republic.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0323944/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shattered_glass"
+  },
+  {
+    "title": "House of Sand and Fog",
+    "year": 2003,
+    "director": {
+      "name": "Vadim Perelman",
+      "imdb_person_url": "https://www.imdb.com/name/nm1283520/"
+    },
+    "production_studio": "DreamWorks",
+    "mpaa_rating": "R",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 16.5,
+    "gross_revenue_usd_millions": 16.9,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Crime", "Drama"],
+    "actors": [
+      { "name": "Jennifer Connelly", "imdb_person_url": "https://www.imdb.com/name/nm0000124/" },
+      { "name": "Ben Kingsley", "imdb_person_url": "https://www.imdb.com/name/nm0001426/" },
+      { "name": "Ron Eldard", "imdb_person_url": "https://www.imdb.com/name/nm0253117/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An abandoned wife is evicted from her house and starts a tragic conflict with her house's new owners.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0315983/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/house_of_sand_and_fog"
+  },
+  {
+    "title": "Bruce Almighty",
+    "year": 2003,
+    "director": {
+      "name": "Tom Shadyac",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001724/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 81,
+    "gross_revenue_usd_millions": 484.6,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "48%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Comedy", "Fantasy"],
+    "actors": [
+      { "name": "Jim Carrey", "imdb_person_url": "https://www.imdb.com/name/nm0000120/" },
+      { "name": "Jennifer Aniston", "imdb_person_url": "https://www.imdb.com/name/nm0000098/" },
+      { "name": "Morgan Freeman", "imdb_person_url": "https://www.imdb.com/name/nm0000151/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A guy who complains about God too often is given almighty powers to teach him how difficult it is to run the world.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0315327/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bruce_almighty"
+  },
+  {
     "title": "The Matrix Reloaded",
     "year": 2003,
     "director": {
-      "name": "Lana Wachowski, Lilly Wachowski",
+      "name": "Lana Wachowski & Lilly Wachowski",
       "imdb_person_url": "https://www.imdb.com/name/nm0905154/"
     },
-    "production_studio": "Warner Bros., Village Roadshow Pictures",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 138,
     "budget_usd_millions": 150,
     "gross_revenue_usd_millions": 741.8,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "72%"
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "60%"
     },
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
+    "genres": ["Action", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Keanu Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
-      },
-      {
-        "name": "Laurence Fishburne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000401/"
-      },
-      {
-        "name": "Carrie-Anne Moss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005251/"
-      }
+      { "name": "Keanu Reeves", "imdb_person_url": "https://www.imdb.com/name/nm0000206/" },
+      { "name": "Laurence Fishburne", "imdb_person_url": "https://www.imdb.com/name/nm0000401/" },
+      { "name": "Carrie-Anne Moss", "imdb_person_url": "https://www.imdb.com/name/nm0005251/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -945,692 +961,27 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/matrix_reloaded"
   },
   {
-    "title": "The Matrix Revolutions",
-    "year": 2003,
-    "director": {
-      "name": "Lana Wachowski, Lilly Wachowski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0905154/"
-    },
-    "production_studio": "Warner Bros., Village Roadshow Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 150,
-    "gross_revenue_usd_millions": 427.3,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "36%",
-      "rotten_tomatoes_popcorn": "60%"
-    },
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Keanu Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
-      },
-      {
-        "name": "Laurence Fishburne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000401/"
-      },
-      {
-        "name": "Carrie-Anne Moss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005251/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0242653/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/matrix_revolutions"
-  },
-  {
-    "title": "X2: X-Men United",
-    "year": 2003,
-    "director": {
-      "name": "Bryan Singer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
-    },
-    "production_studio": "20th Century Fox, Marvel Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 110,
-    "gross_revenue_usd_millions": 407.7,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Patrick Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001772/"
-      },
-      {
-        "name": "Hugh Jackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003964/"
-      },
-      {
-        "name": "Ian McKellen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005212/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The X-Men band together to find a mutant assassin who has made an attempt on the President's life, while the Mutant Academy is attacked by military forces.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0290334/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/x2_xmen_united"
-  },
-  {
-    "title": "Something's Gotta Give",
-    "year": 2003,
-    "director": {
-      "name": "Nancy Meyers",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001525/"
-    },
-    "production_studio": "Columbia Pictures, Warner Bros.",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 80,
-    "gross_revenue_usd_millions": 266.7,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "72%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
-      },
-      {
-        "name": "Diane Keaton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000473/"
-      },
-      {
-        "name": "Keanu Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A swinger in his 60s finds love with the mother of his young girlfriend.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0337741/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/somethings_gotta_give"
-  },
-  {
-    "title": "Cold Mountain",
-    "year": 2003,
-    "director": {
-      "name": "Anthony Minghella",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005235/"
-    },
-    "production_studio": "Miramax, Mirage Enterprises",
-    "mpaa_rating": "R",
-    "runtime_minutes": 154,
-    "budget_usd_millions": 79,
-    "gross_revenue_usd_millions": 173,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "70%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Jude Law",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
-      },
-      {
-        "name": "Nicole Kidman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
-      },
-      {
-        "name": "Renée Zellweger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000250/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role"
-    ],
-    "description": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to his sweetheart.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0159365/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cold_mountain"
-  },
-  {
-    "title": "House of Sand and Fog",
-    "year": 2003,
-    "director": {
-      "name": "Vadim Perelman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0673070/"
-    },
-    "production_studio": "DreamWorks, Cobalt Media Group",
-    "mpaa_rating": "R",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 16.5,
-    "gross_revenue_usd_millions": 16.9,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jennifer Connelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000124/"
-      },
-      {
-        "name": "Ben Kingsley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001426/"
-      },
-      {
-        "name": "Ron Eldard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001182/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An abandoned wife is evicted from her house and starts a tragic conflict with the new owners.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0259711/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/house_of_sand_and_fog"
-  },
-  {
-    "title": "The Cooler",
-    "year": 2003,
-    "director": {
-      "name": "Wayne Kramer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0469831/"
-    },
-    "production_studio": "Gryphon Films, Dog Pond",
-    "mpaa_rating": "R",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 10.6,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "William H. Macy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000513/"
-      },
-      {
-        "name": "Maria Bello",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000895/"
-      },
-      {
-        "name": "Alec Baldwin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000285/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In an old-school Las Vegas casino, its top gambling jinx breaks his curse when he falls in love, much to his boss's consternation.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0318374/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cooler"
-  },
-  {
-    "title": "In America",
-    "year": 2003,
-    "director": {
-      "name": "Jim Sheridan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
-    },
-    "production_studio": "Fox Searchlight Pictures, Hell's Kitchen Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 25.7,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Paddy Considine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0175916/"
-      },
-      {
-        "name": "Samantha Morton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001553/"
-      },
-      {
-        "name": "Sarah Bolger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0092962/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An Irish immigrant family adjusts to life in the mean streets of Hell's Kitchen, New York City.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0298845/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_america"
-  },
-  {
-    "title": "The Triplets of Belleville",
-    "year": 2003,
-    "director": {
-      "name": "Sylvain Chomet",
-      "imdb_person_url": "https://www.imdb.com/name/nm0158857/"
-    },
-    "production_studio": "Les Armateurs, Production Champion",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 80,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 14.7,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Michèle Caucheteux",
-        "imdb_person_url": "https://www.imdb.com/name/nm0146338/"
-      },
-      {
-        "name": "Jean-Claude Donda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0232845/"
-      },
-      {
-        "name": "Michel Robin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0732158/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved dog team up with the Belleville Sisters--an aged song-and-dance team from the days of Fred Astaire--to rescue him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0286244/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_triplets_of_belleville"
-  },
-  {
-    "title": "Matchstick Men",
-    "year": 2003,
-    "director": {
-      "name": "Ridley Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
-    },
-    "production_studio": "Warner Bros., ImageMovers",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 62,
-    "gross_revenue_usd_millions": 65.6,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Nicolas Cage",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000115/"
-      },
-      {
-        "name": "Sam Rockwell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005377/"
-      },
-      {
-        "name": "Alison Lohman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0517852/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A con man with an obsessive-compulsive disorder finds his life thrown into turmoil when he discovers he has a teenage daughter.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0325805/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/matchstick_men"
-  },
-  {
-    "title": "Freaky Friday",
-    "year": 2003,
-    "director": {
-      "name": "Mark Waters",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003055/"
-    },
-    "production_studio": "Walt Disney Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 26,
-    "gross_revenue_usd_millions": 160.8,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Jamie Lee Curtis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000130/"
-      },
-      {
-        "name": "Lindsay Lohan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005148/"
-      },
-      {
-        "name": "Mark Harmon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001319/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An overworked mother and her daughter do not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0322330/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/freaky_friday"
-  },
-  {
-    "title": "Identity",
-    "year": 2003,
-    "director": {
-      "name": "James Mangold",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
-    },
-    "production_studio": "Columbia Pictures, Konrad Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 90,
-    "budget_usd_millions": 28,
-    "gross_revenue_usd_millions": 90.2,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "John Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000131/"
-      },
-      {
-        "name": "Ray Liotta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000501/"
-      },
-      {
-        "name": "Amanda Peet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001605/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Stranded at a desolate Nevada motel during a nasty rain storm, ten strangers become acquainted with each other when they realize that they're being killed off one by one.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0309698/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/identity"
-  },
-  {
-    "title": "American Splendor",
-    "year": 2003,
-    "director": {
-      "name": "Shari Springer Berman, Robert Pulcini",
-      "imdb_person_url": "https://www.imdb.com/name/nm0075727/"
-    },
-    "production_studio": "HBO Films, Good Machine",
-    "mpaa_rating": "R",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 8.7,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Paul Giamatti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0316079/"
-      },
-      {
-        "name": "Shari Springer Berman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0075727/"
-      },
-      {
-        "name": "Harvey Pekar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0670984/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of Harvey Pekar, a file clerk at a VA hospital in Cleveland who becomes a cult comic book author.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0305206/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_splendor"
-  },
-  {
-    "title": "The Station Agent",
-    "year": 2003,
-    "director": {
-      "name": "Tom McCarthy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
-    },
-    "production_studio": "Miramax, SenArt Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 8.7,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Peter Dinklage",
-        "imdb_person_url": "https://www.imdb.com/name/nm0227759/"
-      },
-      {
-        "name": "Patricia Clarkson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001049/"
-      },
-      {
-        "name": "Bobby Cannavale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0134072/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to find himself reluctantly drawn into the lives of his neighbors.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0340377/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_station_agent"
-  },
-  {
-    "title": "Terminator 3: Rise of the Machines",
-    "year": 2003,
-    "director": {
-      "name": "Jonathan Mostow",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001550/"
-    },
-    "production_studio": "Warner Bros., Columbia Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 109,
-    "budget_usd_millions": 200,
-    "gross_revenue_usd_millions": 433.4,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "46%"
-    },
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Arnold Schwarzenegger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000216/"
-      },
-      {
-        "name": "Nick Stahl",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001763/"
-      },
-      {
-        "name": "Claire Danes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000132/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0181852/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/terminator_3_rise_of_the_machines"
-  },
-  {
-    "title": "Underworld",
-    "year": 2003,
-    "director": {
-      "name": "Len Wiseman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0936334/"
-    },
-    "production_studio": "Screen Gems, Lakeshore Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 95.7,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "31%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Kate Beckinsale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000295/"
-      },
-      {
-        "name": "Scott Speedman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005450/"
-      },
-      {
-        "name": "Michael Sheen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005423/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Selene, a vampire warrior, is entrenched in a conflict between vampires and werewolves, while falling in love with Michael, a human who is sought by werewolves for unknown reasons.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0320691/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/underworld"
-  },
-  {
     "title": "The Italian Job",
     "year": 2003,
     "director": {
       "name": "F. Gary Gray",
-      "imdb_person_url": "https://www.imdb.com/name/nm0336620/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0336562/"
     },
-    "production_studio": "Paramount Pictures, De Line Pictures",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 111,
     "budget_usd_millions": 60,
     "gross_revenue_usd_millions": 176.1,
     "ratings": {
       "imdb": 7.0,
-      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_critic": "73%",
       "rotten_tomatoes_popcorn": "80%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Action", "Crime", "Thriller"],
     "actors": [
-      {
-        "name": "Mark Wahlberg",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000242/"
-      },
-      {
-        "name": "Charlize Theron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000234/"
-      },
-      {
-        "name": "Donald Sutherland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
-      }
+      { "name": "Donald Sutherland", "imdb_person_url": "https://www.imdb.com/name/nm0000661/" },
+      { "name": "Mark Wahlberg", "imdb_person_url": "https://www.imdb.com/name/nm0001823/" },
+      { "name": "Edward Norton", "imdb_person_url": "https://www.imdb.com/name/nm0001570/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1641,310 +992,66 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/italian_job"
   },
   {
-    "title": "Once Upon a Time in Mexico",
+    "title": "Underworld",
     "year": 2003,
     "director": {
-      "name": "Robert Rodriguez",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
+      "name": "Len Wiseman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0936432/"
     },
-    "production_studio": "Columbia Pictures, Dimension Films",
+    "production_studio": "Screen Gems",
     "mpaa_rating": "R",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 29,
-    "gross_revenue_usd_millions": 98.8,
+    "runtime_minutes": 121,
+    "budget_usd_millions": 22,
+    "gross_revenue_usd_millions": 95.7,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "66%",
-      "rotten_tomatoes_popcorn": "61%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "31%",
+      "rotten_tomatoes_popcorn": "79%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Action", "Fantasy", "Thriller"],
     "actors": [
-      {
-        "name": "Antonio Banderas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000104/"
-      },
-      {
-        "name": "Salma Hayek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000161/"
-      },
-      {
-        "name": "Johnny Depp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
-      }
+      { "name": "Kate Beckinsale", "imdb_person_url": "https://www.imdb.com/name/nm0000295/" },
+      { "name": "Scott Speedman", "imdb_person_url": "https://www.imdb.com/name/nm0005454/" },
+      { "name": "Michael Sheen", "imdb_person_url": "https://www.imdb.com/name/nm0790688/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Hitman 'El Mariachi' becomes involved in international espionage involving a corrupt CIA agent and a psychotic Mexican drug lord.",
+    "description": "Selene, a vampire warrior, is entrenched in a conflict between vampires and werewolves, while she falls in love with Michael, a human who is sought by werewolves for unknown reasons.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0285823/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/once_upon_a_time_in_mexico"
+    "imdb_url": "https://www.imdb.com/title/tt0320691/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/underworld"
   },
   {
-    "title": "Bad Boys II",
+    "title": "Identity",
     "year": 2003,
     "director": {
-      "name": "Michael Bay",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000881/"
+      "name": "James Mangold",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
     },
-    "production_studio": "Columbia Pictures, Don Simpson/Jerry Bruckheimer Films",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 147,
-    "budget_usd_millions": 130,
-    "gross_revenue_usd_millions": 273.3,
+    "runtime_minutes": 90,
+    "budget_usd_millions": 28,
+    "gross_revenue_usd_millions": 90.3,
     "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "24%",
-      "rotten_tomatoes_popcorn": "78%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "75%"
     },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
+    "genres": ["Mystery", "Thriller"],
     "actors": [
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Martin Lawrence",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001454/"
-      },
-      {
-        "name": "Jordi Mollà",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005239/"
-      }
+      { "name": "John Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0000131/" },
+      { "name": "Ray Liotta", "imdb_person_url": "https://www.imdb.com/name/nm0000501/" },
+      { "name": "Amanda Peet", "imdb_person_url": "https://www.imdb.com/name/nm0001605/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two loose-cannon narcotics cops investigate the flow of ecstasy into Miami.",
+    "description": "Stranded at a desolate Nevada motel during a nasty rainstorm, ten strangers become acquainted with each other when they realize that they're being killed off one by one.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0172156/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_boys_2"
-  },
-  {
-    "title": "Thirteen",
-    "year": 2003,
-    "director": {
-      "name": "Catherine Hardwicke",
-      "imdb_person_url": "https://www.imdb.com/name/nm0362547/"
-    },
-    "production_studio": "Fox Searchlight Pictures, Working Title Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 10.2,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Holly Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
-      },
-      {
-        "name": "Evan Rachel Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001859/"
-      },
-      {
-        "name": "Nikki Reed",
-        "imdb_person_url": "https://www.imdb.com/name/nm0715799/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A thirteen-year-old girl's relationship with her mother is put to the test as she discovers drugs, sex, and petty crime.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0328538/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thirteen"
-  },
-  {
-    "title": "The Barbarian Invasions",
-    "year": 2003,
-    "director": {
-      "name": "Denys Arcand",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000782/"
-    },
-    "production_studio": "Cinémaginaire, Astral Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 26.8,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Rémy Girard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0320826/"
-      },
-      {
-        "name": "Stéphane Rousseau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0745584/"
-      },
-      {
-        "name": "Dorothée Berryman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0077592/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "A man who is dying of cancer is reunited with his estranged son and a group of his old friends.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0338135/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_barbarian_invasions"
-  },
-  {
-    "title": "Intolerable Cruelty",
-    "year": 2003,
-    "director": {
-      "name": "Joel Coen, Ethan Coen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
-    },
-    "production_studio": "Universal Pictures, Imagine Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 60,
-    "gross_revenue_usd_millions": 120.8,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "George Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
-      },
-      {
-        "name": "Catherine Zeta-Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001876/"
-      },
-      {
-        "name": "Billy Bob Thornton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000671/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A successful divorce attorney finds his life turned upside down when he falls for a beautiful but manipulative woman.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0138524/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/intolerable_cruelty"
-  },
-  {
-    "title": "Shattered Glass",
-    "year": 2003,
-    "director": {
-      "name": "Billy Ray",
-      "imdb_person_url": "https://www.imdb.com/name/nm0712753/"
-    },
-    "production_studio": "Lions Gate Films, Cruise/Wagner Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 2.9,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Hayden Christensen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001041/"
-      },
-      {
-        "name": "Peter Sarsgaard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001694/"
-      },
-      {
-        "name": "Chloë Sevigny",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001721/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of Stephen Glass, a young journalist who fabricated a series of stories for The New Republic.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0268380/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shattered_glass"
-  },
-  {
-    "title": "Pieces of April",
-    "year": 2003,
-    "director": {
-      "name": "Peter Hedges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0373240/"
-    },
-    "production_studio": "United Artists, InDigEnt",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 80,
-    "budget_usd_millions": 0.3,
-    "gross_revenue_usd_millions": 3.2,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Katie Holmes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
-      },
-      {
-        "name": "Patricia Clarkson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001049/"
-      },
-      {
-        "name": "Derek Luke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0525547/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young woman who has been estranged from her family invites them to her small New York City apartment for Thanksgiving dinner.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0311648/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pieces_of_april"
+    "imdb_url": "https://www.imdb.com/title/tt0309698/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/identity"
   },
   {
     "title": "Open Range",
@@ -1953,7 +1060,7 @@
       "name": "Kevin Costner",
       "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
     },
-    "production_studio": "Touchstone Pictures, Cobalt Media Group",
+    "production_studio": "Touchstone Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 139,
     "budget_usd_millions": 22,
@@ -1961,26 +1068,13 @@
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Action",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Action", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Kevin Costner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
-      },
-      {
-        "name": "Robert Duvall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
-      },
-      {
-        "name": "Annette Bening",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000906/"
-      }
+      { "name": "Kevin Costner", "imdb_person_url": "https://www.imdb.com/name/nm0000126/" },
+      { "name": "Robert Duvall", "imdb_person_url": "https://www.imdb.com/name/nm0000377/" },
+      { "name": "Annette Bening", "imdb_person_url": "https://www.imdb.com/name/nm0000906/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1991,91 +1085,466 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/open_range"
   },
   {
-    "title": "Touching the Void",
+    "title": "Something's Gotta Give",
     "year": 2003,
     "director": {
-      "name": "Kevin Macdonald",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001494/"
+      "name": "Nancy Meyers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0583600/"
     },
-    "production_studio": "Film4 Productions, Darlow Smithson Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 13.9,
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 80,
+    "gross_revenue_usd_millions": 266.7,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "67%"
     },
-    "genres": [
-      "Documentary",
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Comedy", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Simon Yates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0946914/"
-      },
-      {
-        "name": "Joe Simpson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0801031/"
-      },
-      {
-        "name": "Brendan Mackey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0533232/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of two young climbers who attempt to reach the summit of Siula Grande in Peru in 1985.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0379557/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/touching_the_void"
-  },
-  {
-    "title": "Capturing the Friedmans",
-    "year": 2003,
-    "director": {
-      "name": "Andrew Jarecki",
-      "imdb_person_url": "https://www.imdb.com/name/nm0418422/"
-    },
-    "production_studio": "HBO Documentary Films, Magnolia Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 0.2,
-    "gross_revenue_usd_millions": 3.1,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Documentary",
-      "Biography",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Arnold Friedman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0295287/"
-      },
-      {
-        "name": "Elaine Friedman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0295287/"
-      },
-      {
-        "name": "David Friedman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0295287/"
-      }
+      { "name": "Jack Nicholson", "imdb_person_url": "https://www.imdb.com/name/nm0000197/" },
+      { "name": "Diane Keaton", "imdb_person_url": "https://www.imdb.com/name/nm0000473/" },
+      { "name": "Keanu Reeves", "imdb_person_url": "https://www.imdb.com/name/nm0000206/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A documentary that examines the strange case of a Long Island family who were accused of child molestation in the 1980s.",
+    "description": "A swinger on the cusp of being an elderly person with a taste for young women falls in love with an accomplished woman closer to his age.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0342172/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/capturing_the_friedmans"
+    "imdb_url": "https://www.imdb.com/title/tt0337741/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/somethings_gotta_give"
+  },
+  {
+    "title": "Matchstick Men",
+    "year": 2003,
+    "director": {
+      "name": "Ridley Scott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 62,
+    "gross_revenue_usd_millions": 65.6,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "actors": [
+      { "name": "Nicolas Cage", "imdb_person_url": "https://www.imdb.com/name/nm0000115/" },
+      { "name": "Alison Lohman", "imdb_person_url": "https://www.imdb.com/name/nm0517868/" },
+      { "name": "Sam Rockwell", "imdb_person_url": "https://www.imdb.com/name/nm0005377/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A phobic con artist and his protégé are on the verge of pulling off a lucrative swindle when the former's teenage daughter arrives unexpectedly.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0325805/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/matchstick_men"
+  },
+  {
+    "title": "Secondhand Lions",
+    "year": 2003,
+    "director": {
+      "name": "Tim McCanlies",
+      "imdb_person_url": "https://www.imdb.com/name/nm0564964/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 77.3,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "actors": [
+      { "name": "Haley Joel Osment", "imdb_person_url": "https://www.imdb.com/name/nm0005286/" },
+      { "name": "Michael Caine", "imdb_person_url": "https://www.imdb.com/name/nm0000323/" },
+      { "name": "Robert Duvall", "imdb_person_url": "https://www.imdb.com/name/nm0000377/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A shy, young boy is sent by his irresponsible mother to spend the summer with his wealthy, eccentric uncles in Texas.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0327137/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/secondhand_lions"
+  },
+  {
+    "title": "Girl with a Pearl Earring",
+    "year": 2003,
+    "director": {
+      "name": "Peter Webber",
+      "imdb_person_url": "https://www.imdb.com/name/nm0916427/"
+    },
+    "production_studio": "Archer Street Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 12,
+    "gross_revenue_usd_millions": 31.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Biography", "Drama", "Romance"],
+    "actors": [
+      { "name": "Scarlett Johansson", "imdb_person_url": "https://www.imdb.com/name/nm0424060/" },
+      { "name": "Colin Firth", "imdb_person_url": "https://www.imdb.com/name/nm0000147/" },
+      { "name": "Tom Wilkinson", "imdb_person_url": "https://www.imdb.com/name/nm0929489/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young peasant maid working in the house of painter Johannes Vermeer becomes his talented assistant and the model for one of his most famous works.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0335119/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/girl_with_a_pearl_earring"
+  },
+  {
+    "title": "Holes",
+    "year": 2003,
+    "director": {
+      "name": "Andrew Davis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001112/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 20,
+    "gross_revenue_usd_millions": 71.4,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "actors": [
+      { "name": "Shia LaBeouf", "imdb_person_url": "https://www.imdb.com/name/nm0479471/" },
+      { "name": "Sigourney Weaver", "imdb_person_url": "https://www.imdb.com/name/nm0000244/" },
+      { "name": "Jon Voight", "imdb_person_url": "https://www.imdb.com/name/nm0000685/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wrongfully convicted boy is sent to a brutal desert detention camp where he joins the job of digging holes for some mysterious reason.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0311289/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/holes"
+  },
+  {
+    "title": "Freaky Friday",
+    "year": 2003,
+    "director": {
+      "name": "Mark Waters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0914114/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 20,
+    "gross_revenue_usd_millions": 160.8,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "actors": [
+      { "name": "Jamie Lee Curtis", "imdb_person_url": "https://www.imdb.com/name/nm0000130/" },
+      { "name": "Lindsay Lohan", "imdb_person_url": "https://www.imdb.com/name/nm0517820/" },
+      { "name": "Mark Harmon", "imdb_person_url": "https://www.imdb.com/name/nm0001318/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An overworked mother and her daughter do not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0322330/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/freaky_friday"
+  },
+  {
+    "title": "Peter Pan",
+    "year": 2003,
+    "director": {
+      "name": "P.J. Hogan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0389592/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 100,
+    "gross_revenue_usd_millions": 122,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Adventure", "Family", "Fantasy"],
+    "actors": [
+      { "name": "Jeremy Sumpter", "imdb_person_url": "https://www.imdb.com/name/nm0838911/" },
+      { "name": "Jason Isaacs", "imdb_person_url": "https://www.imdb.com/name/nm0005042/" },
+      { "name": "Olivia Williams", "imdb_person_url": "https://www.imdb.com/name/nm0931404/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Darling family children receive a visit from Peter Pan, who takes them to Never Never Land where an ongoing war with the evil Pirate Captain Hook is taking place.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0316396/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1128568-peter_pan"
+  },
+  {
+    "title": "Terminator 3: Rise of the Machines",
+    "year": 2003,
+    "director": {
+      "name": "Jonathan Mostow",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005252/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 200,
+    "gross_revenue_usd_millions": 433.4,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "46%"
+    },
+    "genres": ["Action", "Sci-Fi"],
+    "actors": [
+      { "name": "Arnold Schwarzenegger", "imdb_person_url": "https://www.imdb.com/name/nm0000216/" },
+      { "name": "Nick Stahl", "imdb_person_url": "https://www.imdb.com/name/nm0001763/" },
+      { "name": "Claire Danes", "imdb_person_url": "https://www.imdb.com/name/nm0000132/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0181852/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/terminator_3_rise_of_the_machines"
+  },
+  {
+    "title": "Bad Boys II",
+    "year": 2003,
+    "director": {
+      "name": "Michael Bay",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000881/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 147,
+    "budget_usd_millions": 130,
+    "gross_revenue_usd_millions": 273.3,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "23%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "actors": [
+      { "name": "Will Smith", "imdb_person_url": "https://www.imdb.com/name/nm0000226/" },
+      { "name": "Martin Lawrence", "imdb_person_url": "https://www.imdb.com/name/nm0001454/" },
+      { "name": "Gabrielle Union", "imdb_person_url": "https://www.imdb.com/name/nm0005517/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two loose-cannon narcotics cops investigate the flow of ecstasy into Florida from a Cuban drug cartel.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0172156/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_boys_ii"
+  },
+  {
+    "title": "Once Upon a Time in Mexico",
+    "year": 2003,
+    "director": {
+      "name": "Robert Rodriguez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 29,
+    "gross_revenue_usd_millions": 98.2,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "66%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": ["Action", "Thriller"],
+    "actors": [
+      { "name": "Antonio Banderas", "imdb_person_url": "https://www.imdb.com/name/nm0000104/" },
+      { "name": "Salma Hayek", "imdb_person_url": "https://www.imdb.com/name/nm0000161/" },
+      { "name": "Johnny Depp", "imdb_person_url": "https://www.imdb.com/name/nm0000136/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Hitman \"El Mariachi\" becomes involved in international espionage involving a psychotic CIA agent and a corrupt Mexican general.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0285823/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/once_upon_a_time_in_mexico"
+  },
+  {
+    "title": "The Triplets of Belleville",
+    "year": 2003,
+    "director": {
+      "name": "Sylvain Chomet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0159026/"
+    },
+    "production_studio": "Sony Pictures Classics",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 8,
+    "gross_revenue_usd_millions": 14.8,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": ["Animation", "Comedy", "Drama"],
+    "actors": [
+      { "name": "Michèle Caucheteux", "imdb_person_url": "https://www.imdb.com/name/nm0146418/" },
+      { "name": "Jean-Claude Donda", "imdb_person_url": "https://www.imdb.com/name/nm0232343/" },
+      { "name": "Michel Robin", "imdb_person_url": "https://www.imdb.com/name/nm0732213/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters--an aged song-and-dance team from the days of Fred Astaire--to rescue him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0355295/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/triplets_of_belleville"
+  },
+  {
+    "title": "Swimming Pool",
+    "year": 2003,
+    "director": {
+      "name": "François Ozon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002286/"
+    },
+    "production_studio": "Fidélité Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 7.8,
+    "gross_revenue_usd_millions": 22.4,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Charlotte Rampling", "imdb_person_url": "https://www.imdb.com/name/nm0001648/" },
+      { "name": "Ludivine Sagnier", "imdb_person_url": "https://www.imdb.com/name/nm0756204/" },
+      { "name": "Charles Dance", "imdb_person_url": "https://www.imdb.com/name/nm0001097/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A British mystery author visits her publisher's home in the South of France, where her interaction with his unusual daughter sets off some touchy dynamics.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0324133/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/swimming_pool"
+  },
+  {
+    "title": "A Mighty Wind",
+    "year": 2003,
+    "director": {
+      "name": "Christopher Guest",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001302/"
+    },
+    "production_studio": "Castle Rock Entertainment",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 18.8,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": ["Comedy", "Music"],
+    "actors": [
+      { "name": "Christopher Guest", "imdb_person_url": "https://www.imdb.com/name/nm0001302/" },
+      { "name": "Eugene Levy", "imdb_person_url": "https://www.imdb.com/name/nm0506405/" },
+      { "name": "Michael McKean", "imdb_person_url": "https://www.imdb.com/name/nm0571106/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Mockumentary captures the reunion of 1960s folk trio the Folksmen as they prepare for a show at The Town Hall to memorialize a recently deceased concert promoter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0310281/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mighty_wind"
+  },
+  {
+    "title": "The Fog of War: Eleven Lessons from the Life of Robert S. McNamara",
+    "year": 2003,
+    "director": {
+      "name": "Errol Morris",
+      "imdb_person_url": "https://www.imdb.com/name/nm0606519/"
+    },
+    "production_studio": "Sony Pictures Classics",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 4.9,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": ["Documentary", "History", "War"],
+    "actors": [
+      { "name": "Robert McNamara", "imdb_person_url": "https://www.imdb.com/name/nm0573755/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Documentary Feature"],
+    "description": "The story of America as seen through the eyes of the former Secretary of Defense, under President John F. Kennedy and President Lyndon B. Johnson, Robert S. McNamara.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0317910/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fog_of_war"
+  },
+  {
+    "title": "Spring, Summer, Fall, Winter... and Spring",
+    "year": 2003,
+    "director": {
+      "name": "Kim Ki-duk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0453420/"
+    },
+    "production_studio": "LJ Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 9.5,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Ki-duk Kim", "imdb_person_url": "https://www.imdb.com/name/nm0453420/" },
+      { "name": "Yeong-su Oh", "imdb_person_url": "https://www.imdb.com/name/nm1429382/" },
+      { "name": "Jong-ho Kim", "imdb_person_url": "https://www.imdb.com/name/nm1597952/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A boy is raised by a Buddhist monk on an isolated floating temple where the years pass like the seasons.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0374546/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spring_summer_fall_winter_and_spring"
   }
 ]

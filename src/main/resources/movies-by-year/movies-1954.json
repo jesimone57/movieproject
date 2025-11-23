@@ -7,46 +7,24 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0001415/"
     },
     "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 108,
-    "budget_usd_millions": 0.91,
+    "budget_usd_millions": 0.9,
     "gross_revenue_usd_millions": 9.6,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "99%",
-      "rotten_tomatoes_popcorn": "93%"
+      "rotten_tomatoes_popcorn": "95%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
+    "genres": ["Crime", "Drama", "Thriller"],
     "actors": [
-      {
-        "name": "Marlon Brando",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
-      },
-      {
-        "name": "Karl Malden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
-      },
-      {
-        "name": "Lee J. Cobb",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002011/"
-      }
+      { "name": "Marlon Brando", "imdb_person_url": "https://www.imdb.com/name/nm0000008/" },
+      { "name": "Karl Malden", "imdb_person_url": "https://www.imdb.com/name/nm0001500/" },
+      { "name": "Eva Marie Saint", "imdb_person_url": "https://www.imdb.com/name/nm0001693/" }
     ],
     "oscars_nominated": 12,
     "oscars_won": 8,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor",
-      "Best Supporting Actress",
-      "Best Writing, Story and Screenplay",
-      "Best Cinematography, Black-and-White",
-      "Best Art Direction-Set Decoration, Black-and-White",
-      "Best Film Editing"
-    ],
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actress", "Best Story and Screenplay", "Best Cinematography, Black-and-White", "Best Art Direction-Set Decoration, Black-and-White", "Best Film Editing"],
     "description": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
     "afi_ranking": 8,
     "imdb_url": "https://www.imdb.com/title/tt0047296/",
@@ -63,34 +41,22 @@
     "mpaa_rating": "PG",
     "runtime_minutes": 112,
     "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 37,
+    "gross_revenue_usd_millions": 36.8,
     "ratings": {
       "imdb": 8.5,
       "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "95%"
     },
-    "genres": [
-      "Mystery",
-      "Thriller"
-    ],
+    "genres": ["Mystery", "Thriller"],
     "actors": [
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      },
-      {
-        "name": "Grace Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000038/"
-      },
-      {
-        "name": "Wendell Corey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0179788/"
-      }
+      { "name": "James Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Grace Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000038/" },
+      { "name": "Thelma Ritter", "imdb_person_url": "https://www.imdb.com/name/nm0728818/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window and becomes convinced one of them has committed murder.",
+    "description": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder.",
     "afi_ranking": 42,
     "imdb_url": "https://www.imdb.com/title/tt0047396/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rear_window"
@@ -103,40 +69,59 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000041/"
     },
     "production_studio": "Toho",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Unrated",
     "runtime_minutes": 207,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 0.27,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 2.3,
     "ratings": {
       "imdb": 8.6,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "97%"
     },
-    "genres": [
-      "Action",
-      "Drama"
-    ],
+    "genres": ["Action", "Drama"],
     "actors": [
-      {
-        "name": "Toshiro Mifune",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001536/"
-      },
-      {
-        "name": "Takashi Shimura",
-        "imdb_person_url": "https://www.imdb.com/name/nm0793739/"
-      },
-      {
-        "name": "Keiko Tsushima",
-        "imdb_person_url": "https://www.imdb.com/name/nm0875416/"
-      }
+      { "name": "Toshirô Mifune", "imdb_person_url": "https://www.imdb.com/name/nm0001536/" },
+      { "name": "Takashi Shimura", "imdb_person_url": "https://www.imdb.com/name/nm0793752/" },
+      { "name": "Keiko Tsushima", "imdb_person_url": "https://www.imdb.com/name/nm0875494/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+    "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six others to join him.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0047478/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_samurai_1956"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_samurai"
+  },
+  {
+    "title": "Godzilla",
+    "year": 1954,
+    "director": {
+      "name": "Ishirô Honda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0393094/"
+    },
+    "production_studio": "Toho",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "actors": [
+      { "name": "Takashi Shimura", "imdb_person_url": "https://www.imdb.com/name/nm0793752/" },
+      { "name": "Akihiko Hirata", "imdb_person_url": "https://www.imdb.com/name/nm0386262/" },
+      { "name": "Momoko Kôchi", "imdb_person_url": "https://www.imdb.com/name/nm0476939/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047034/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/godzilla"
   },
   {
     "title": "Dial M for Murder",
@@ -152,131 +137,60 @@
     "gross_revenue_usd_millions": 6,
     "ratings": {
       "imdb": 8.2,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "92%"
     },
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Crime", "Thriller"],
     "actors": [
-      {
-        "name": "Ray Milland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001537/"
-      },
-      {
-        "name": "Grace Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000038/"
-      },
-      {
-        "name": "Robert Cummings",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
-      }
+      { "name": "Ray Milland", "imdb_person_url": "https://www.imdb.com/name/nm0001537/" },
+      { "name": "Grace Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000038/" },
+      { "name": "Robert Cummings", "imdb_person_url": "https://www.imdb.com/name/nm0191954/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former tennis star plots the murder of his own wife after discovering she is having an affair, but his perfect crime goes awry.",
-    "afi_ranking": null,
+    "description": "A tennis player frames his unfaithful wife for first-degree murder after she inadvertently hinders his plan to kill her.",
+    "afi_ranking": 48,
     "imdb_url": "https://www.imdb.com/title/tt0046912/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dial_m_for_murder"
-  },
-  {
-    "title": "A Star Is Born",
-    "year": 1954,
-    "director": {
-      "name": "George Cukor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 176,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 6.1,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Judy Garland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000023/"
-      },
-      {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001514/"
-      },
-      {
-        "name": "Jack Carson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0141258/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A film star helps a young singer and actress find fame, even as age and alcoholism send his own career into a downward spiral.",
-    "afi_ranking": 43,
-    "imdb_url": "https://www.imdb.com/title/tt0047522/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019632-star_is_born"
   },
   {
     "title": "Sabrina",
     "year": 1954,
     "director": {
       "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
     },
     "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 113,
-    "budget_usd_millions": 2.24,
+    "budget_usd_millions": 2.2,
     "gross_revenue_usd_millions": 10,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Humphrey Bogart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
-      },
-      {
-        "name": "Audrey Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
-      },
-      {
-        "name": "William Holden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
-      }
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Audrey Hepburn", "imdb_person_url": "https://www.imdb.com/name/nm0000030/" },
+      { "name": "William Holden", "imdb_person_url": "https://www.imdb.com/name/nm0000454/" }
     ],
     "oscars_nominated": 6,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Costume Design, Black-and-White"
-    ],
-    "description": "A chauffeur's daughter returns from Paris after two years and captures the hearts of two wealthy brothers.",
-    "afi_ranking": null,
+    "oscars_won_details": ["Best Costume Design, Black-and-White"],
+    "description": "A playboy becomes interested in the daughter of his family's chauffeur, but it's his more serious brother who would be the better man for her.",
+    "afi_ranking": 54,
     "imdb_url": "https://www.imdb.com/title/tt0047437/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sabrina"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1018047-sabrina"
   },
   {
     "title": "20,000 Leagues Under the Sea",
     "year": 1954,
     "director": {
       "name": "Richard Fleischer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0281692/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001220/"
     },
     "production_studio": "Walt Disney Productions",
     "mpaa_rating": "G",
@@ -285,178 +199,122 @@
     "gross_revenue_usd_millions": 28.2,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "79%"
     },
-    "genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
-    ],
+    "genres": ["Adventure", "Drama", "Family"],
     "actors": [
-      {
-        "name": "Kirk Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
-      },
-      {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001514/"
-      },
-      {
-        "name": "Paul Lukas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0525624/"
-      }
+      { "name": "Kirk Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0000018/" },
+      { "name": "James Mason", "imdb_person_url": "https://www.imdb.com/name/nm0000050/" },
+      { "name": "Paul Lukas", "imdb_person_url": "https://www.imdb.com/name/nm0525525/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Art Direction-Set Decoration, Color",
-      "Best Special Effects"
-    ],
+    "oscars_won_details": ["Best Art Direction-Set Decoration, Color", "Best Special Effects"],
     "description": "A ship sent to investigate a wave of mysterious sinkings encounters the advanced submarine, the Nautilus, commanded by Captain Nemo.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0046672/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/20000_leagues_under_the_sea"
   },
   {
+    "title": "A Star Is Born",
+    "year": 1954,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002030/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 154,
+    "budget_usd_millions": 5,
+    "gross_revenue_usd_millions": 14.9,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama", "Musical", "Romance"],
+    "actors": [
+      { "name": "Judy Garland", "imdb_person_url": "https://www.imdb.com/name/nm0000023/" },
+      { "name": "James Mason", "imdb_person_url": "https://www.imdb.com/name/nm0000050/" },
+      { "name": "Jack Carson", "imdb_person_url": "https://www.imdb.com/name/nm0002004/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A movie star helps a young singer and actress find fame, even as age and alcoholism send his own career into a downward spiral.",
+    "afi_ranking": 43,
+    "imdb_url": "https://www.imdb.com/title/tt0047522/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019822-star_is_born"
+  },
+  {
     "title": "The Caine Mutiny",
     "year": 1954,
     "director": {
       "name": "Edward Dmytryk",
-      "imdb_person_url": "https://www.imdb.com/name/nm0228839/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0229425/"
     },
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 124,
     "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 8.7,
+    "gross_revenue_usd_millions": 21.8,
     "ratings": {
       "imdb": 7.7,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "87%"
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Drama",
-      "War"
-    ],
+    "genres": ["Drama", "War"],
     "actors": [
-      {
-        "name": "Humphrey Bogart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
-      },
-      {
-        "name": "José Ferrer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002069/"
-      },
-      {
-        "name": "Van Johnson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002621/"
-      }
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "José Ferrer", "imdb_person_url": "https://www.imdb.com/name/nm0001207/" },
+      { "name": "Van Johnson", "imdb_person_url": "https://www.imdb.com/name/nm0001403/" }
     ],
     "oscars_nominated": 7,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When a U.S. Naval captain shows signs of mental instability that jeopardizes the ship and crew, the first officer relieves him of command and faces court martial for mutiny.",
+    "description": "When a U.S. Naval captain shows signs of mental instability that jeopardizes the ship, the first officer relieves him of command and faces court martial for mutiny.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0046816/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/caine_mutiny"
   },
   {
-    "title": "La Strada",
+    "title": "Seven Brides for Seven Brothers",
     "year": 1954,
     "director": {
-      "name": "Federico Fellini",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000019/"
+      "name": "Stanley Donen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000374/"
     },
-    "production_studio": "Ponti-De Laurentiis Cinematografica",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 108,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "MGM",
+    "mpaa_rating": "G",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 9.4,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "94%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "85%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Comedy", "Drama", "Musical"],
     "actors": [
-      {
-        "name": "Anthony Quinn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000063/"
-      },
-      {
-        "name": "Giulietta Masina",
-        "imdb_person_url": "https://www.imdb.com/name/nm0556280/"
-      },
-      {
-        "name": "Richard Basehart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000858/"
-      }
+      { "name": "Jane Powell", "imdb_person_url": "https://www.imdb.com/name/nm0007225/" },
+      { "name": "Howard Keel", "imdb_person_url": "https://www.imdb.com/name/nm0444476/" },
+      { "name": "Jeff Richards", "imdb_person_url": "https://www.imdb.com/name/nm0724139/" }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 5,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "A carefree young woman is sold to a traveling entertainer, consequently enduring physical and emotional pain along the way.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047528/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_strada"
-  },
-  {
-    "title": "The Country Girl",
-    "year": 1954,
-    "director": {
-      "name": "George Seaton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0780491/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 104,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 6.7,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Bing Crosby",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001080/"
-      },
-      {
-        "name": "Grace Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000038/"
-      },
-      {
-        "name": "William Holden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actress",
-      "Best Writing, Screenplay"
-    ],
-    "description": "A director offers a washed-up alcoholic actor a chance to make a comeback, but his self-destructive behavior and his long-suffering wife threaten the production.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0046874/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_country_girl"
+    "oscars_won_details": ["Best Music, Scoring of a Musical Picture"],
+    "description": "In 1850 Oregon, when a backwoodsman brings a wife home to his farm, his six brothers decide that they want to get married, too.",
+    "afi_ranking": 21,
+    "imdb_url": "https://www.imdb.com/title/tt0047472/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_brides_for_seven_brothers"
   },
   {
     "title": "White Christmas",
     "year": 1954,
     "director": {
       "name": "Michael Curtiz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Not Rated",
@@ -466,26 +324,13 @@
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "88%"
     },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Musical", "Romance"],
     "actors": [
-      {
-        "name": "Bing Crosby",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001080/"
-      },
-      {
-        "name": "Danny Kaye",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001414/"
-      },
-      {
-        "name": "Rosemary Clooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0167143/"
-      }
+      { "name": "Bing Crosby", "imdb_person_url": "https://www.imdb.com/name/nm0001078/" },
+      { "name": "Danny Kaye", "imdb_person_url": "https://www.imdb.com/name/nm0001413/" },
+      { "name": "Rosemary Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0002012/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -496,85 +341,27 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white_christmas"
   },
   {
-    "title": "The Glenn Miller Story",
-    "year": 1954,
-    "director": {
-      "name": "Anthony Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001503/"
-    },
-    "production_studio": "Universal International Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 1.4,
-    "gross_revenue_usd_millions": 7.6,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      },
-      {
-        "name": "June Allyson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000742/"
-      },
-      {
-        "name": "Harry Morgan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0604673/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Sound, Recording"
-    ],
-    "description": "The story of the life and career of the famous American big-band trombonist and composer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047030/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_glenn_miller_story"
-  },
-  {
     "title": "Creature from the Black Lagoon",
     "year": 1954,
     "director": {
       "name": "Jack Arnold",
-      "imdb_person_url": "https://www.imdb.com/name/nm0036402/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0036484/"
     },
-    "production_studio": "Universal International Pictures",
+    "production_studio": "Universal International",
     "mpaa_rating": "G",
     "runtime_minutes": 79,
-    "budget_usd_millions": 0.5,
+    "budget_usd_millions": 0.65,
     "gross_revenue_usd_millions": 1.3,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "67%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "72%"
     },
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
+    "genres": ["Adventure", "Horror", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Richard Carlson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0137882/"
-      },
-      {
-        "name": "Julie Adams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0011036/"
-      },
-      {
-        "name": "Richard Denning",
-        "imdb_person_url": "https://www.imdb.com/name/nm0219412/"
-      }
+      { "name": "Richard Carlson", "imdb_person_url": "https://www.imdb.com/name/nm0137994/" },
+      { "name": "Julie Adams", "imdb_person_url": "https://www.imdb.com/name/nm0011096/" },
+      { "name": "Richard Denning", "imdb_person_url": "https://www.imdb.com/name/nm0219340/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -585,83 +372,337 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/creature_from_the_black_lagoon"
   },
   {
-    "title": "Godzilla",
+    "title": "La Strada",
     "year": 1954,
     "director": {
-      "name": "Ishirô Honda",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002143/"
+      "name": "Federico Fellini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000019/"
     },
-    "production_studio": "Toho",
+    "production_studio": "Ponti-De Laurentiis",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 0.55,
-    "gross_revenue_usd_millions": 2.25,
+    "runtime_minutes": 108,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "94%"
     },
-    "genres": [
-      "Action",
-      "Horror",
-      "Sci-Fi"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Akira Takarada",
-        "imdb_person_url": "https://www.imdb.com/name/nm0847253/"
-      },
-      {
-        "name": "Momoko Kôchi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0478051/"
-      },
-      {
-        "name": "Akihiko Hirata",
-        "imdb_person_url": "https://www.imdb.com/name/nm0386221/"
-      }
+      { "name": "Anthony Quinn", "imdb_person_url": "https://www.imdb.com/name/nm0000063/" },
+      { "name": "Giulietta Masina", "imdb_person_url": "https://www.imdb.com/name/nm0556339/" },
+      { "name": "Richard Basehart", "imdb_person_url": "https://www.imdb.com/name/nm0000859/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Foreign Language Film"],
+    "description": "A care-free girl is sold to a traveling entertainer, consequently enduring physical and emotional pain along the way.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047528/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_strada"
+  },
+  {
+    "title": "The Country Girl",
+    "year": 1954,
+    "director": {
+      "name": "George Seaton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0780792/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 6.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": ["Drama", "Music"],
+    "actors": [
+      { "name": "Bing Crosby", "imdb_person_url": "https://www.imdb.com/name/nm0001078/" },
+      { "name": "Grace Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000038/" },
+      { "name": "William Holden", "imdb_person_url": "https://www.imdb.com/name/nm0000454/" }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Actress", "Best Writing, Screenplay"],
+    "description": "A director hires an alcoholic has-been and finds himself falling for the actor's suffering wife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046874/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/country_girl"
+  },
+  {
+    "title": "Three Coins in the Fountain",
+    "year": 1954,
+    "director": {
+      "name": "Jean Negulesco",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624535/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 12,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Clifton Webb", "imdb_person_url": "https://www.imdb.com/name/nm0001836/" },
+      { "name": "Dorothy McGuire", "imdb_person_url": "https://www.imdb.com/name/nm0570219/" },
+      { "name": "Jean Peters", "imdb_person_url": "https://www.imdb.com/name/nm0676492/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Cinematography, Color", "Best Music, Original Song"],
+    "description": "Three American women working in Rome, Italy, share a spacious apartment and the desire to find love and marriage, each throwing a coin in the fountain to wish for it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047580/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_coins_in_the_fountain"
+  },
+  {
+    "title": "The High and the Mighty",
+    "year": 1954,
+    "director": {
+      "name": "William A. Wellman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0919943/"
+    },
+    "production_studio": "Wayne-Fellows Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 147,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 8.5,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": ["Action", "Drama"],
+    "actors": [
+      { "name": "John Wayne", "imdb_person_url": "https://www.imdb.com/name/nm0000078/" },
+      { "name": "Claire Trevor", "imdb_person_url": "https://www.imdb.com/name/nm0001799/" },
+      { "name": "Laraine Day", "imdb_person_url": "https://www.imdb.com/name/nm0206489/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Music, Scoring of a Dramatic or Comedy Picture"],
+    "description": "When a commercial airliner develops engine trouble, the diverse group of passengers and crew must face their pasts and potential futures.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047086/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/high_and_the_mighty"
+  },
+  {
+    "title": "Magnificent Obsession",
+    "year": 1954,
+    "director": {
+      "name": "Douglas Sirk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0802862/"
+    },
+    "production_studio": "Universal International",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 5.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Jane Wyman", "imdb_person_url": "https://www.imdb.com/name/nm0001866/" },
+      { "name": "Rock Hudson", "imdb_person_url": "https://www.imdb.com/name/nm0001371/" },
+      { "name": "Agnes Moorehead", "imdb_person_url": "https://www.imdb.com/name/nm0001547/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A reckless playboy inadvertently causes the blindness of a doctor's widow, then studies to become a surgeon to restore her sight.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047204/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/magnificent_obsession"
+  },
+  {
+    "title": "The Barefoot Contessa",
+    "year": 1954,
+    "director": {
+      "name": "Joseph L. Mankiewicz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0542403/"
+    },
+    "production_studio": "Figaro",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 3.7,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Ava Gardner", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "Edmond O'Brien", "imdb_person_url": "https://www.imdb.com/name/nm0639542/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actor in a Supporting Role"],
+    "description": "At the funeral of a Spanish dancer turned Hollywood star, a director recalls how he discovered her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046754/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/barefoot_contessa"
+  },
+  {
+    "title": "Johnny Guitar",
+    "year": 1954,
+    "director": {
+      "name": "Nicholas Ray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0712953/"
+    },
+    "production_studio": "Republic Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Drama", "Western"],
+    "actors": [
+      { "name": "Joan Crawford", "imdb_person_url": "https://www.imdb.com/name/nm0001076/" },
+      { "name": "Sterling Hayden", "imdb_person_url": "https://www.imdb.com/name/nm0001330/" },
+      { "name": "Mercedes McCambridge", "imdb_person_url": "https://www.imdb.com/name/nm0564720/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.",
+    "description": "A strong-willed saloon owner clashes with the local townspeople and a rival bank owner, fueling a confrontation that involves a mysterious guitar-playing gunman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047034/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gojira"
+    "imdb_url": "https://www.imdb.com/title/tt0047181/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/johnny_guitar"
+  },
+  {
+    "title": "River of No Return",
+    "year": 1954,
+    "director": {
+      "name": "Otto Preminger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0695938/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 4.3,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Action", "Adventure", "Western"],
+    "actors": [
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" },
+      { "name": "Marilyn Monroe", "imdb_person_url": "https://www.imdb.com/name/nm0000054/" },
+      { "name": "Rory Calhoun", "imdb_person_url": "https://www.imdb.com/name/nm0001983/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A farmer and his son rescue a saloon singer and a gambler from a raft, only to have the gambler steal their horse and gun, leaving them to survive the river and Indians.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047417/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/river_of_no_return"
+  },
+  {
+    "title": "Vera Cruz",
+    "year": 1954,
+    "director": {
+      "name": "Robert Aldrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
+    },
+    "production_studio": "Hecht-Lancaster Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 11,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": ["Adventure", "Western"],
+    "actors": [
+      { "name": "Gary Cooper", "imdb_person_url": "https://www.imdb.com/name/nm0000011/" },
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Denise Darcel", "imdb_person_url": "https://www.imdb.com/name/nm0201047/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During the Mexican Rebellion of 1866, an unsavory group of American adventurers are hired to escort a countess to Vera Cruz.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047647/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/vera_cruz"
+  },
+  {
+    "title": "Carmen Jones",
+    "year": 1954,
+    "director": {
+      "name": "Otto Preminger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0695938/"
+    },
+    "production_studio": "Carlisle Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 0.75,
+    "gross_revenue_usd_millions": 9.8,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Drama", "Musical", "Romance"],
+    "actors": [
+      { "name": "Harry Belafonte", "imdb_person_url": "https://www.imdb.com/name/nm0000902/" },
+      { "name": "Dorothy Dandridge", "imdb_person_url": "https://www.imdb.com/name/nm0199244/" },
+      { "name": "Pearl Bailey", "imdb_person_url": "https://www.imdb.com/name/nm0047436/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A contemporary adaptation of Bizet's opera Carmen, featuring an all-black cast.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046828/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/carmen_jones"
   },
   {
     "title": "Them!",
     "year": 1954,
     "director": {
       "name": "Gordon Douglas",
-      "imdb_person_url": "https://www.imdb.com/name/nm0235140/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0235079/"
     },
     "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 94,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.2,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": 2,
     "ratings": {
-      "imdb": 7.1,
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "73%"
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
+    "genres": ["Horror", "Sci-Fi"],
     "actors": [
-      {
-        "name": "James Whitmore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001842/"
-      },
-      {
-        "name": "Edmund Gwenn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002112/"
-      },
-      {
-        "name": "Joan Weldon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0919934/"
-      }
+      { "name": "James Whitmore", "imdb_person_url": "https://www.imdb.com/name/nm0926171/" },
+      { "name": "Edmund Gwenn", "imdb_person_url": "https://www.imdb.com/name/nm0002119/" },
+      { "name": "Joan Weldon", "imdb_person_url": "https://www.imdb.com/name/nm0919743/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -672,439 +713,839 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/them"
   },
   {
-    "title": "Seven Brides for Seven Brothers",
-    "year": 1954,
-    "director": {
-      "name": "Stanley Donen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002046/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "G",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 9.4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Jane Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
-      },
-      {
-        "name": "Howard Keel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0444583/"
-      },
-      {
-        "name": "Jeff Richards",
-        "imdb_person_url": "https://www.imdb.com/name/nm0724131/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Scoring of a Musical Picture"
-    ],
-    "description": "In 1850 Oregon, a backwoodsman brings a wife home to his farm, and his six brothers decide that they want to get married too.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047472/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_brides_for_seven_brothers"
-  },
-  {
-    "title": "Carmen Jones",
-    "year": 1954,
-    "director": {
-      "name": "Otto Preminger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
-    },
-    "production_studio": "Carlyle Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 0.75,
-    "gross_revenue_usd_millions": 2.7,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Drama",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Dorothy Dandridge",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
-      },
-      {
-        "name": "Harry Belafonte",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000896/"
-      },
-      {
-        "name": "Olga James",
-        "imdb_person_url": "https://www.imdb.com/name/nm0416551/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A soldier falls for a seductive factory worker, but their tempestuous romance leads to tragedy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0046828/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/carmen_jones"
-  },
-  {
-    "title": "Three Coins in the Fountain",
-    "year": 1954,
-    "director": {
-      "name": "Jean Negulesco",
-      "imdb_person_url": "https://www.imdb.com/name/nm0624535/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 8,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "46%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Clifton Webb",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915841/"
-      },
-      {
-        "name": "Dorothy McGuire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001524/"
-      },
-      {
-        "name": "Jean Peters",
-        "imdb_person_url": "https://www.imdb.com/name/nm0676527/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Cinematography, Color",
-      "Best Music, Original Song"
-    ],
-    "description": "Three American women working in Rome make a pact to find husbands by throwing coins in the Trevi Fountain.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047580/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_coins_in_the_fountain"
-  },
-  {
-    "title": "Magnificent Obsession",
-    "year": 1954,
-    "director": {
-      "name": "Douglas Sirk",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003058/"
-    },
-    "production_studio": "Universal International Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 108,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 5.2,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Jane Wyman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Rock Hudson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001369/"
-      },
-      {
-        "name": "Barbara Rush",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001690/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A reckless playboy's actions inadvertently lead to the death of a renowned surgeon and the blinding of the surgeon's wife, whom he then tries to help anonymously.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047211/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/magnificent_obsession"
-  },
-  {
-    "title": "The High and the Mighty",
-    "year": 1954,
-    "director": {
-      "name": "William A. Wellman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0920074/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 147,
-    "budget_usd_millions": 1.45,
-    "gross_revenue_usd_millions": 8.5,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "John Wayne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
-      },
-      {
-        "name": "Claire Trevor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0872429/"
-      },
-      {
-        "name": "Laraine Day",
-        "imdb_person_url": "https://www.imdb.com/name/nm0206771/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Scoring of a Dramatic or Comedy Picture"
-    ],
-    "description": "When a commercial airliner develops engine trouble on a trans-Pacific flight, the passengers and crew must face the prospect of a crash landing.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047086/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_high_and_the_mighty"
-  },
-  {
     "title": "Brigadoon",
     "year": 1954,
     "director": {
       "name": "Vincente Minnelli",
-      "imdb_person_url": "https://www.imdb.com/name/nm0591409/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001541/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "G",
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 108,
-    "budget_usd_millions": 2.35,
-    "gross_revenue_usd_millions": 3.4,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "68%",
+      "rotten_tomatoes_popcorn": "57%"
     },
-    "genres": [
-      "Fantasy",
-      "Musical",
-      "Romance"
-    ],
+    "genres": ["Fantasy", "Musical", "Romance"],
     "actors": [
-      {
-        "name": "Gene Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
-      },
-      {
-        "name": "Van Johnson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002621/"
-      },
-      {
-        "name": "Cyd Charisse",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001037/"
-      }
+      { "name": "Gene Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000037/" },
+      { "name": "Van Johnson", "imdb_person_url": "https://www.imdb.com/name/nm0001403/" },
+      { "name": "Cyd Charisse", "imdb_person_url": "https://www.imdb.com/name/nm0001998/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two Americans on a hunting trip in Scotland discover a magical village that appears for only one day every 100 years.",
+    "description": "Two Americans on a hunting trip in Scotland become lost and discover a small village that appears only once every 100 years.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0046807/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/brigadoon"
+  },
+  {
+    "title": "The Glenn Miller Story",
+    "year": 1954,
+    "director": {
+      "name": "Anthony Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002975/"
+    },
+    "production_studio": "Universal International",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 7.7,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Biography", "Drama", "Music"],
+    "actors": [
+      { "name": "James Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "June Allyson", "imdb_person_url": "https://www.imdb.com/name/nm0000742/" },
+      { "name": "Harry Morgan", "imdb_person_url": "https://www.imdb.com/name/nm0604702/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Sound, Recording"],
+    "description": "Biographical film about the band leader Glenn Miller, following his rise to fame and untimely death.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047030/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/glenn_miller_story"
   },
   {
     "title": "Executive Suite",
     "year": 1954,
     "director": {
       "name": "Robert Wise",
-      "imdb_person_url": "https://www.imdb.com/name/nm0936404/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001862/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 104,
-    "budget_usd_millions": 1.25,
-    "gross_revenue_usd_millions": 3.7,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.7,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "75%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "William Holden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
-      },
-      {
-        "name": "June Allyson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000742/"
-      },
-      {
-        "name": "Barbara Stanwyck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001761/"
-      }
+      { "name": "William Holden", "imdb_person_url": "https://www.imdb.com/name/nm0000454/" },
+      { "name": "June Allyson", "imdb_person_url": "https://www.imdb.com/name/nm0000742/" },
+      { "name": "Barbara Stanwyck", "imdb_person_url": "https://www.imdb.com/name/nm0001766/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The president of a major corporation dies suddenly, and the board of directors must choose his successor.",
+    "description": "When the president of a major furniture company dies unexpectedly, a boardroom power struggle ensues to name his successor.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0046963/",
+    "imdb_url": "https://www.imdb.com/title/tt0046935/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/executive_suite"
+  },
+  {
+    "title": "Broken Lance",
+    "year": 1954,
+    "director": {
+      "name": "Edward Dmytryk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0229425/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 3.8,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Western"],
+    "actors": [
+      { "name": "Spencer Tracy", "imdb_person_url": "https://www.imdb.com/name/nm0000075/" },
+      { "name": "Robert Wagner", "imdb_person_url": "https://www.imdb.com/name/nm0001822/" },
+      { "name": "Jean Peters", "imdb_person_url": "https://www.imdb.com/name/nm0676492/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Writing, Motion Picture Story"],
+    "description": "A cattle baron struggles to keep his empire together as his three sons compete for his approval.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046808/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/broken_lance"
+  },
+  {
+    "title": "The Bridges at Toko-Ri",
+    "year": 1954,
+    "director": {
+      "name": "Mark Robson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0733482/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 5.5,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Drama", "Romance", "War"],
+    "actors": [
+      { "name": "William Holden", "imdb_person_url": "https://www.imdb.com/name/nm0000454/" },
+      { "name": "Grace Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000038/" },
+      { "name": "Fredric March", "imdb_person_url": "https://www.imdb.com/name/nm0001506/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Effects, Special Effects"],
+    "description": "A lawyer and World War II veteran is recalled to service to fly bombers in the Korean War.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046806/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bridges_at_toko_ri"
   },
   {
     "title": "Sansho the Bailiff",
     "year": 1954,
     "director": {
       "name": "Kenji Mizoguchi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003056/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0594659/"
     },
-    "production_studio": "Daiei",
+    "production_studio": "Daiei Studios",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 124,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 0.1,
     "ratings": {
-      "imdb": 8.3,
+      "imdb": 8.4,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
+      "rotten_tomatoes_popcorn": "92%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Kinuyo Tanaka",
-        "imdb_person_url": "https://www.imdb.com/name/nm0849023/"
-      },
-      {
-        "name": "Yoshiaki Hanayagi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0359307/"
-      },
-      {
-        "name": "Kyôko Kagawa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0434862/"
-      }
+      { "name": "Kinuyo Tanaka", "imdb_person_url": "https://www.imdb.com/name/nm0849011/" },
+      { "name": "Yoshiaki Hanayagi", "imdb_person_url": "https://www.imdb.com/name/nm0359272/" },
+      { "name": "Kyôko Kagawa", "imdb_person_url": "https://www.imdb.com/name/nm0434570/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In medieval Japan, a compassionate governor is exiled, and his family is torn apart. His children grow up as slaves, but they never forget their father's teachings.",
+    "description": "In medieval Japan, a compassionate governor is sent into exile. His wife and children try to join him, but are separated, and the children grow up amid suffering and oppression.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0047445/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sansho_the_bailiff"
   },
   {
-    "title": "Johnny Guitar",
+    "title": "Journey to Italy",
     "year": 1954,
     "director": {
-      "name": "Nicholas Ray",
-      "imdb_person_url": "https://www.imdb.com/name/nm0712948/"
+      "name": "Roberto Rossellini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0744031/"
     },
-    "production_studio": "Republic Pictures",
+    "production_studio": "Sveva Film",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 0.7,
-    "gross_revenue_usd_millions": 2.5,
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 0.5,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "84%"
     },
-    "genres": [
-      "Drama",
-      "Western"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Joan Crawford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001076/"
-      },
-      {
-        "name": "Sterling Hayden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001332/"
-      },
-      {
-        "name": "Mercedes McCambridge",
-        "imdb_person_url": "https://www.imdb.com/name/nm0565241/"
-      }
+      { "name": "Ingrid Bergman", "imdb_person_url": "https://www.imdb.com/name/nm0000006/" },
+      { "name": "George Sanders", "imdb_person_url": "https://www.imdb.com/name/nm0001695/" },
+      { "name": "Maria Mauban", "imdb_person_url": "https://www.imdb.com/name/nm0560829/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A strong-willed saloon owner is wrongly suspected of a crime and must contend with a jealous, lynch-mob-leading rival.",
+    "description": "An unhappily married couple attempts to find direction in their lives while visiting Naples.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047136/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/johnny_guitar"
+    "imdb_url": "https://www.imdb.com/title/tt0047677/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/journey_to_italy"
   },
   {
     "title": "Animal Farm",
     "year": 1954,
     "director": {
-      "name": "Joy Batchelor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0060855/"
+      "name": "Joy Batchelor & John Halas",
+      "imdb_person_url": "https://www.imdb.com/name/nm0060697/"
     },
-    "production_studio": "Halas and Batchelor",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Halas & Batchelor",
+    "mpaa_rating": "G",
     "runtime_minutes": 72,
     "budget_usd_millions": 0.3,
-    "gross_revenue_usd_millions": null,
+    "gross_revenue_usd_millions": 0.2,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "72%"
     },
-    "genres": [
-      "Animation",
-      "Drama"
-    ],
+    "genres": ["Animation", "Drama"],
     "actors": [
-      {
-        "name": "Gordon Heath",
-        "imdb_person_url": "https://www.imdb.com/name/nm0372671/"
-      },
-      {
-        "name": "Maurice Denham",
-        "imdb_person_url": "https://www.imdb.com/name/nm0219018/"
-      }
+      { "name": "Gordon Heath", "imdb_person_url": "https://www.imdb.com/name/nm0372631/" },
+      { "name": "Maurice Denham", "imdb_person_url": "https://www.imdb.com/name/nm0219023/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A group of farm animals rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy.",
+    "description": "A successful farmyard revolution by the resident animals vs. the farmer goes horribly wrong as the victors create a new tyranny among themselves.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047834/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000994-animal_farm"
+    "imdb_url": "https://www.imdb.com/title/tt0046712/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000973-animal_farm"
+  },
+  {
+    "title": "The Far Country",
+    "year": 1954,
+    "director": {
+      "name": "Anthony Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002975/"
+    },
+    "production_studio": "Universal International",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": ["Western"],
+    "actors": [
+      { "name": "James Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Ruth Roman", "imdb_person_url": "https://www.imdb.com/name/nm0004345/" },
+      { "name": "Corinne Calvet", "imdb_person_url": "https://www.imdb.com/name/nm0130876/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A self-minded adventurer locks horns with a crooked lawman while driving cattle to Dawson.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046966/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/far_country"
+  },
+  {
+    "title": "Apache",
+    "year": 1954,
+    "director": {
+      "name": "Robert Aldrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
+    },
+    "production_studio": "Hecht-Lancaster Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 6,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "46%"
+    },
+    "genres": ["Drama", "Western"],
+    "actors": [
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Jean Peters", "imdb_person_url": "https://www.imdb.com/name/nm0676492/" },
+      { "name": "John McIntire", "imdb_person_url": "https://www.imdb.com/name/nm0570564/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After the Apache Indians have surrendered to the US Army, one of them, Massai, refuses to accept defeat and wages a one-man war against the US.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046719/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1001089-apache"
+  },
+  {
+    "title": "Garden of Evil",
+    "year": 1954,
+    "director": {
+      "name": "Henry Hathaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0368871/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 3.1,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "actors": [
+      { "name": "Gary Cooper", "imdb_person_url": "https://www.imdb.com/name/nm0000011/" },
+      { "name": "Susan Hayward", "imdb_person_url": "https://www.imdb.com/name/nm0001333/" },
+      { "name": "Richard Widmark", "imdb_person_url": "https://www.imdb.com/name/nm0001847/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three American soldiers of fortune are hired by a woman to rescue her husband, trapped in a gold mine in Indian territory.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047013/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/garden_of_evil"
+  },
+  {
+    "title": "Suddenly",
+    "year": 1954,
+    "director": {
+      "name": "Lewis Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0020761/"
+    },
+    "production_studio": "Libra Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 77,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 1.4,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Frank Sinatra", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Sterling Hayden", "imdb_person_url": "https://www.imdb.com/name/nm0001330/" },
+      { "name": "James Gleason", "imdb_person_url": "https://www.imdb.com/name/nm0322367/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-town family is held hostage by assassins planning to kill the President of the United States.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047542/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/suddenly"
+  },
+  {
+    "title": "It Should Happen to You",
+    "year": 1954,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002030/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Judy Holliday", "imdb_person_url": "https://www.imdb.com/name/nm0002141/" },
+      { "name": "Peter Lawford", "imdb_person_url": "https://www.imdb.com/name/nm0492487/" },
+      { "name": "Jack Lemmon", "imdb_person_url": "https://www.imdb.com/name/nm0000493/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman determined to make a name for herself buys a billboard in Columbus Circle, attracting the attention of a documentary filmmaker and a soap tycoon.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047138/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/it_should_happen_to_you"
+  },
+  {
+    "title": "Hobson's Choice",
+    "year": 1954,
+    "director": {
+      "name": "David Lean",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000180/"
+    },
+    "production_studio": "London Film Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Charles Laughton", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "John Mills", "imdb_person_url": "https://www.imdb.com/name/nm0001538/" },
+      { "name": "Brenda de Banzie", "imdb_person_url": "https://www.imdb.com/name/nm0213027/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A tyrannical bootmaker gets his comeuppance when his eldest daughter marries his best workman and sets up a rival shop.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047094/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hobsons_choice"
+  },
+  {
+    "title": "Touchez Pas au Grisbi",
+    "year": 1954,
+    "director": {
+      "name": "Jacques Becker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0065460/"
+    },
+    "production_studio": "Del Duca Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Jean Gabin", "imdb_person_url": "https://www.imdb.com/name/nm0002089/" },
+      { "name": "René Dary", "imdb_person_url": "https://www.imdb.com/name/nm0202222/" },
+      { "name": "Dora Doll", "imdb_person_url": "https://www.imdb.com/name/nm0231075/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An aging gangster pulls off a massive gold heist, but things get complicated when a rival gang finds out.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047599/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/touchez_pas_au_grisbi"
+  },
+  {
+    "title": "The Last Time I Saw Paris",
+    "year": 1954,
+    "director": {
+      "name": "Richard Brooks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0112213/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 3.7,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "45%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Elizabeth Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0000072/" },
+      { "name": "Van Johnson", "imdb_person_url": "https://www.imdb.com/name/nm0001403/" },
+      { "name": "Walter Pidgeon", "imdb_person_url": "https://www.imdb.com/name/nm0000584/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A writer recalls his romance with a beautiful American girl in post-WWII Paris.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047162/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_time_i_saw_paris"
+  },
+  {
+    "title": "Human Desire",
+    "year": 1954,
+    "director": {
+      "name": "Fritz Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000485/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Glenn Ford", "imdb_person_url": "https://www.imdb.com/name/nm0001229/" },
+      { "name": "Gloria Grahame", "imdb_person_url": "https://www.imdb.com/name/nm0002108/" },
+      { "name": "Broderick Crawford", "imdb_person_url": "https://www.imdb.com/name/nm0001075/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Korean War vet returns to his railroad job and falls in love with the wife of a coworker who is a murderer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047099/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/human_desire"
+  },
+  {
+    "title": "Salt of the Earth",
+    "year": 1954,
+    "director": {
+      "name": "Herbert J. Biberman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0081390/"
+    },
+    "production_studio": "Independent Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 0.25,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Drama", "History"],
+    "actors": [
+      { "name": "Will Geer", "imdb_person_url": "https://www.imdb.com/name/nm0311671/" },
+      { "name": "David Wolfe", "imdb_person_url": "https://www.imdb.com/name/nm0937733/" },
+      { "name": "Mervin Williams", "imdb_person_url": "https://www.imdb.com/name/nm0931304/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Mexican-American miners strike for equal wages and conditions, but they are forced to overcome not just the company, but their own prejudices.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047443/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/salt_of_the_earth"
+  },
+  {
+    "title": "The Silver Chalice",
+    "year": 1954,
+    "director": {
+      "name": "Victor Saville",
+      "imdb_person_url": "https://www.imdb.com/name/nm0767767/"
+    },
+    "production_studio": "Victor Saville Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 142,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 12,
+    "ratings": {
+      "imdb": 5.1,
+      "rotten_tomatoes_critic": "20%",
+      "rotten_tomatoes_popcorn": "33%"
+    },
+    "genres": ["Drama", "History", "Romance"],
+    "actors": [
+      { "name": "Virginia Mayo", "imdb_person_url": "https://www.imdb.com/name/nm0562920/" },
+      { "name": "Pier Angeli", "imdb_person_url": "https://www.imdb.com/name/nm0029645/" },
+      { "name": "Jack Palance", "imdb_person_url": "https://www.imdb.com/name/nm0001590/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Greek artisan is commissioned by the Apostle Luke to cast the cup of Christ in silver and sculpt around its rim the faces of the disciples and Jesus himself.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047494/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/silver_chalice"
+  },
+  {
+    "title": "Phffft",
+    "year": 1954,
+    "director": {
+      "name": "Mark Robson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0733482/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Judy Holliday", "imdb_person_url": "https://www.imdb.com/name/nm0002141/" },
+      { "name": "Jack Lemmon", "imdb_person_url": "https://www.imdb.com/name/nm0000493/" },
+      { "name": "Jack Carson", "imdb_person_url": "https://www.imdb.com/name/nm0002004/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lawyer and a writer divorce, only to find they were happier married.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047350/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/phffft"
+  },
+  {
+    "title": "Riot in Cell Block 11",
+    "year": 1954,
+    "director": {
+      "name": "Don Siegel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0797095/"
+    },
+    "production_studio": "Allied Artists",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 0.27,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Neville Brand", "imdb_person_url": "https://www.imdb.com/name/nm0104500/" },
+      { "name": "Emile Meyer", "imdb_person_url": "https://www.imdb.com/name/nm0583162/" },
+      { "name": "Frank Faylen", "imdb_person_url": "https://www.imdb.com/name/nm0269706/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A riot breaks out in a prison, instigated by an inmate protesting the brutal conditions.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047413/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/riot_in_cell_block_11"
+  },
+  {
+    "title": "Drive a Crooked Road",
+    "year": 1954,
+    "director": {
+      "name": "Richard Quine",
+      "imdb_person_url": "https://www.imdb.com/name/nm0703706/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Mickey Rooney", "imdb_person_url": "https://www.imdb.com/name/nm0001682/" },
+      { "name": "Dianne Foster", "imdb_person_url": "https://www.imdb.com/name/nm0287772/" },
+      { "name": "Kevin McCarthy", "imdb_person_url": "https://www.imdb.com/name/nm0565199/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lonely mechanic and racing car driver dreams of racing in the big European races, but gets involved with a gang of bank robbers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046927/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/drive_a_crooked_road"
+  },
+  {
+    "title": "Crime Wave",
+    "year": 1954,
+    "director": {
+      "name": "André De Toth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0211938/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 73,
+    "budget_usd_millions": 0.35,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Sterling Hayden", "imdb_person_url": "https://www.imdb.com/name/nm0001330/" },
+      { "name": "Gene Nelson", "imdb_person_url": "https://www.imdb.com/name/nm0625382/" },
+      { "name": "Phyllis Kirk", "imdb_person_url": "https://www.imdb.com/name/nm0456539/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ex-con tries to go straight but gets pulled back into the criminal life when old cellmates escape from San Quentin.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046882/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004925-crime_wave"
+  },
+  {
+    "title": "The Long, Long Trailer",
+    "year": 1954,
+    "director": {
+      "name": "Vincente Minnelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001541/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 4.6,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Lucille Ball", "imdb_person_url": "https://www.imdb.com/name/nm0000840/" },
+      { "name": "Desi Arnaz", "imdb_person_url": "https://www.imdb.com/name/nm0000789/" },
+      { "name": "Marjorie Main", "imdb_person_url": "https://www.imdb.com/name/nm0537689/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Nicky and Tacy are going to be married. Nicky wants to save money for a house, but Tacy dreams of a trailer. After the wedding, they tow their home to a honeymoon in the Colorado mountains.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047191/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/long_long_trailer"
+  },
+  {
+    "title": "Susan Slept Here",
+    "year": 1954,
+    "director": {
+      "name": "Frank Tashlin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0850895/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Dick Powell", "imdb_person_url": "https://www.imdb.com/name/nm0694090/" },
+      { "name": "Debbie Reynolds", "imdb_person_url": "https://www.imdb.com/name/nm0001666/" },
+      { "name": "Anne Francis", "imdb_person_url": "https://www.imdb.com/name/nm0004282/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A screenwriter takes in a delinquent teenager to research a script, but complications ensue when they start to develop feelings for each other.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047553/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/susan_slept_here"
+  },
+  {
+    "title": "Demetrius and the Gladiators",
+    "year": 1954,
+    "director": {
+      "name": "Delmer Daves",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202606/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 1.95,
+    "gross_revenue_usd_millions": 4.25,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Action", "Drama", "History"],
+    "actors": [
+      { "name": "Victor Mature", "imdb_person_url": "https://www.imdb.com/name/nm0560559/" },
+      { "name": "Susan Hayward", "imdb_person_url": "https://www.imdb.com/name/nm0001333/" },
+      { "name": "Michael Rennie", "imdb_person_url": "https://www.imdb.com/name/nm0719678/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Christian slave is forced to fight in the Roman arena as a gladiator and finds his faith tested.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0046899/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/demetrius_and_the_gladiators"
+  },
+  {
+    "title": "King Richard and the Crusaders",
+    "year": 1954,
+    "director": {
+      "name": "David Butler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0124890/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 2.7,
+    "ratings": {
+      "imdb": 5.6,
+      "rotten_tomatoes_critic": "25%",
+      "rotten_tomatoes_popcorn": "33%"
+    },
+    "genres": ["Adventure", "History", "Romance"],
+    "actors": [
+      { "name": "Rex Harrison", "imdb_person_url": "https://www.imdb.com/name/nm0001322/" },
+      { "name": "Virginia Mayo", "imdb_person_url": "https://www.imdb.com/name/nm0562920/" },
+      { "name": "George Sanders", "imdb_person_url": "https://www.imdb.com/name/nm0001695/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During the Third Crusade, King Richard the Lionheart faces treachery in his camp and battles Saladin for control of the Holy Land.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047150/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/king_richard_and_the_crusaders"
   }
 ]

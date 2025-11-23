@@ -6,136 +6,56 @@
       "name": "Peter Jackson",
       "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
     },
-    "production_studio": "New Line Cinema, WingNut Films",
+    "production_studio": "New Line Cinema",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 179,
     "budget_usd_millions": 94,
-    "gross_revenue_usd_millions": 947.5,
+    "gross_revenue_usd_millions": 947.9,
     "ratings": {
       "imdb": 8.8,
       "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "95%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Action", "Adventure", "Drama"],
     "actors": [
-      {
-        "name": "Elijah Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000704/"
-      },
-      {
-        "name": "Ian McKellen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005212/"
-      },
-      {
-        "name": "Viggo Mortensen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001557/"
-      }
+      { "name": "Elijah Wood", "imdb_person_url": "https://www.imdb.com/name/nm0000704/" },
+      { "name": "Ian McKellen", "imdb_person_url": "https://www.imdb.com/name/nm0005212/" },
+      { "name": "Viggo Mortensen", "imdb_person_url": "https://www.imdb.com/name/nm0001557/" }
     ],
     "oscars_nominated": 6,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Sound Editing",
-      "Best Visual Effects"
-    ],
+    "oscars_won_details": ["Best Sound Editing", "Best Visual Effects"],
     "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0167261/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_two_towers"
-  },
-  {
-    "title": "Spider-Man",
-    "year": 2002,
-    "director": {
-      "name": "Sam Raimi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
-    },
-    "production_studio": "Columbia Pictures, Marvel Enterprises",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 139,
-    "gross_revenue_usd_millions": 825,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "67%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Tobey Maguire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001497/"
-      },
-      {
-        "name": "Kirsten Dunst",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000379/"
-      },
-      {
-        "name": "Willem Dafoe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0145487/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spiderman"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lord_of_the_rings_the_two_towers"
   },
   {
     "title": "Chicago",
     "year": 2002,
     "director": {
       "name": "Rob Marshall",
-      "imdb_person_url": "https://www.imdb.com/name/nm0551028/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0551128/"
     },
-    "production_studio": "Miramax, The Producers Circle",
+    "production_studio": "Miramax",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 113,
     "budget_usd_millions": 45,
     "gross_revenue_usd_millions": 306.8,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_critic": "86%",
       "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Musical"
-    ],
+    "genres": ["Comedy", "Crime", "Musical"],
     "actors": [
-      {
-        "name": "Renée Zellweger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000250/"
-      },
-      {
-        "name": "Catherine Zeta-Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001876/"
-      },
-      {
-        "name": "Richard Gere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
-      }
+      { "name": "Renée Zellweger", "imdb_person_url": "https://www.imdb.com/name/nm0000250/" },
+      { "name": "Catherine Zeta-Jones", "imdb_person_url": "https://www.imdb.com/name/nm0001876/" },
+      { "name": "Richard Gere", "imdb_person_url": "https://www.imdb.com/name/nm0000152/" }
     ],
     "oscars_nominated": 13,
     "oscars_won": 6,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Actress in a Supporting Role",
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design",
-      "Best Sound",
-      "Best Film Editing"
-    ],
+    "oscars_won_details": ["Best Picture", "Best Actress in a Supporting Role", "Best Art Direction", "Best Costume Design", "Best Film Editing", "Best Sound"],
     "description": "Two death-row murderesses develop a fierce rivalry while competing for publicity, celebrity, and a sleazy lawyer's attention.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0299658/",
@@ -148,7 +68,7 @@
       "name": "Roman Polanski",
       "imdb_person_url": "https://www.imdb.com/name/nm0000591/"
     },
-    "production_studio": "R.P. Productions, Studio Babelsberg",
+    "production_studio": "R.P. Productions",
     "mpaa_rating": "R",
     "runtime_minutes": 150,
     "budget_usd_millions": 35,
@@ -158,88 +78,59 @@
       "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "96%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
+    "genres": ["Biography", "Drama", "Music"],
     "actors": [
-      {
-        "name": "Adrien Brody",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004778/"
-      },
-      {
-        "name": "Thomas Kretschmann",
-        "imdb_person_url": "https://www.imdb.com/name/nm0470981/"
-      },
-      {
-        "name": "Frank Finlay",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002075/"
-      }
+      { "name": "Adrien Brody", "imdb_person_url": "https://www.imdb.com/name/nm0004778/" },
+      { "name": "Thomas Kretschmann", "imdb_person_url": "https://www.imdb.com/name/nm0470864/" },
+      { "name": "Frank Finlay", "imdb_person_url": "https://www.imdb.com/name/nm0278025/" }
     ],
     "oscars_nominated": 7,
     "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Director",
-      "Best Actor in a Leading Role",
-      "Best Adapted Screenplay"
-    ],
+    "oscars_won_details": ["Best Director", "Best Actor", "Best Adapted Screenplay"],
     "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0253474/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_pianist"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pianist"
   },
   {
-    "title": "Gangs of New York",
+    "title": "Spider-Man",
     "year": 2002,
     "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+      "name": "Sam Raimi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
     },
-    "production_studio": "Miramax, Touchstone Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 167,
-    "budget_usd_millions": 100,
-    "gross_revenue_usd_millions": 193.8,
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 139,
+    "gross_revenue_usd_millions": 825,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "67%"
     },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Leonardo DiCaprio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000138/"
-      },
-      {
-        "name": "Cameron Diaz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000139/"
-      },
-      {
-        "name": "Daniel Day-Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000358/"
-      }
+      { "name": "Tobey Maguire", "imdb_person_url": "https://www.imdb.com/name/nm0000513/" },
+      { "name": "Kirsten Dunst", "imdb_person_url": "https://www.imdb.com/name/nm0000379/" },
+      { "name": "Willem Dafoe", "imdb_person_url": "https://www.imdb.com/name/nm0000353/" }
     ],
-    "oscars_nominated": 10,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In 1862, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father's killer.",
+    "description": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0217505/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gangs_of_new_york"
+    "imdb_url": "https://www.imdb.com/title/tt0145487/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spiderman"
   },
   {
     "title": "City of God",
     "year": 2002,
     "director": {
-      "name": "Fernando Meirelles, Kátia Lund",
-      "imdb_person_url": "https://www.imdb.com/name/nm0576985/"
+      "name": "Fernando Meirelles & Kátia Lund",
+      "imdb_person_url": "https://www.imdb.com/name/nm0576987/"
     },
-    "production_studio": "O2 Filmes, VideoFilmes",
+    "production_studio": "O2 Filmes",
     "mpaa_rating": "R",
     "runtime_minutes": 130,
     "budget_usd_millions": 3.3,
@@ -249,23 +140,11 @@
       "rotten_tomatoes_critic": "91%",
       "rotten_tomatoes_popcorn": "97%"
     },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Crime", "Drama"],
     "actors": [
-      {
-        "name": "Alexandre Rodrigues",
-        "imdb_person_url": "https://www.imdb.com/name/nm0737358/"
-      },
-      {
-        "name": "Leandro Firmino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0278912/"
-      },
-      {
-        "name": "Phellipe Haagensen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0351933/"
-      }
+      { "name": "Alexandre Rodrigues", "imdb_person_url": "https://www.imdb.com/name/nm1185040/" },
+      { "name": "Leandro Firmino", "imdb_person_url": "https://www.imdb.com/name/nm1185086/" },
+      { "name": "Matheus Nachtergaele", "imdb_person_url": "https://www.imdb.com/name/nm0618728/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
@@ -276,40 +155,89 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/city_of_god"
   },
   {
+    "title": "Gangs of New York",
+    "year": 2002,
+    "director": {
+      "name": "Martin Scorsese",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 167,
+    "budget_usd_millions": 100,
+    "gross_revenue_usd_millions": 193.8,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Crime", "Drama"],
+    "actors": [
+      { "name": "Leonardo DiCaprio", "imdb_person_url": "https://www.imdb.com/name/nm0000138/" },
+      { "name": "Daniel Day-Lewis", "imdb_person_url": "https://www.imdb.com/name/nm0000134/" },
+      { "name": "Cameron Diaz", "imdb_person_url": "https://www.imdb.com/name/nm0000139/" }
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1862, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father's killer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0217505/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gangs_of_new_york"
+  },
+  {
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "director": {
+      "name": "Steven Spielberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
+    },
+    "production_studio": "DreamWorks",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 141,
+    "budget_usd_millions": 52,
+    "gross_revenue_usd_millions": 352.1,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Biography", "Crime", "Drama"],
+    "actors": [
+      { "name": "Leonardo DiCaprio", "imdb_person_url": "https://www.imdb.com/name/nm0000138/" },
+      { "name": "Tom Hanks", "imdb_person_url": "https://www.imdb.com/name/nm0000158/" },
+      { "name": "Christopher Walken", "imdb_person_url": "https://www.imdb.com/name/nm0000686/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0264464/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/catch_me_if_you_can"
+  },
+  {
     "title": "Minority Report",
     "year": 2002,
     "director": {
       "name": "Steven Spielberg",
       "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "20th Century Fox, DreamWorks",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 145,
     "budget_usd_millions": 102,
     "gross_revenue_usd_millions": 358.4,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "90%",
       "rotten_tomatoes_popcorn": "80%"
     },
-    "genres": [
-      "Action",
-      "Crime",
-      "Mystery"
-    ],
+    "genres": ["Action", "Crime", "Mystery"],
     "actors": [
-      {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
-      },
-      {
-        "name": "Colin Farrell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0268199/"
-      },
-      {
-        "name": "Samantha Morton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001553/"
-      }
+      { "name": "Tom Cruise", "imdb_person_url": "https://www.imdb.com/name/nm0000129/" },
+      { "name": "Colin Farrell", "imdb_person_url": "https://www.imdb.com/name/nm0268199/" },
+      { "name": "Samantha Morton", "imdb_person_url": "https://www.imdb.com/name/nm0608090/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -324,133 +252,62 @@
     "year": 2002,
     "director": {
       "name": "Doug Liman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001470/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0510731/"
     },
-    "production_studio": "Universal Pictures, The Kennedy/Marshall Company",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 119,
     "budget_usd_millions": 60,
     "gross_revenue_usd_millions": 214,
     "ratings": {
-      "imdb": 7.8,
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "84%",
       "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Action",
-      "Mystery",
-      "Thriller"
-    ],
+    "genres": ["Action", "Mystery", "Thriller"],
     "actors": [
-      {
-        "name": "Matt Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
-      },
-      {
-        "name": "Franka Potente",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001633/"
-      },
-      {
-        "name": "Chris Cooper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001069/"
-      }
+      { "name": "Matt Damon", "imdb_person_url": "https://www.imdb.com/name/nm0000354/" },
+      { "name": "Franka Potente", "imdb_person_url": "https://www.imdb.com/name/nm0001631/" },
+      { "name": "Chris Cooper", "imdb_person_url": "https://www.imdb.com/name/nm0001069/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before he races to elude assassins and recover his memory.",
+    "description": "A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0258463/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bourne_identity"
   },
   {
-    "title": "The Hours",
+    "title": "Star Wars: Episode II - Attack of the Clones",
     "year": 2002,
     "director": {
-      "name": "Stephen Daldry",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001095/"
+      "name": "George Lucas",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
     },
-    "production_studio": "Paramount Pictures, Miramax",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 108.8,
+    "production_studio": "Lucasfilm",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 142,
+    "budget_usd_millions": 115,
+    "gross_revenue_usd_millions": 653.8,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "56%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Action", "Adventure", "Fantasy"],
     "actors": [
-      {
-        "name": "Meryl Streep",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
-      },
-      {
-        "name": "Nicole Kidman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
-      },
-      {
-        "name": "Julianne Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
-      }
+      { "name": "Hayden Christensen", "imdb_person_url": "https://www.imdb.com/name/nm0159789/" },
+      { "name": "Natalie Portman", "imdb_person_url": "https://www.imdb.com/name/nm0000204/" },
+      { "name": "Ewan McGregor", "imdb_person_url": "https://www.imdb.com/name/nm0000191/" }
     ],
-    "oscars_nominated": 9,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "The story of how the novel 'Mrs. Dalloway' affects three generations of women, all of whom, in one way or another, have had to deal with suicide in their lives.",
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Ten years after meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0274558/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_hours"
-  },
-  {
-    "title": "Adaptation.",
-    "year": 2002,
-    "director": {
-      "name": "Spike Jonze",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005069/"
-    },
-    "production_studio": "Columbia Pictures, Intermedia",
-    "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 32.8,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Nicolas Cage",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000115/"
-      },
-      {
-        "name": "Meryl Streep",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
-      },
-      {
-        "name": "Chris Cooper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001069/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role"
-    ],
-    "description": "A lovelorn screenwriter becomes desperate as he tries and fails to adapt 'The Orchid Thief' by Susan Orlean for the screen.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0268126/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/adaptation"
+    "imdb_url": "https://www.imdb.com/title/tt0121765/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/star_wars_episode_ii_attack_of_the_clones"
   },
   {
     "title": "Harry Potter and the Chamber of Secrets",
@@ -459,34 +316,21 @@
       "name": "Chris Columbus",
       "imdb_person_url": "https://www.imdb.com/name/nm0001060/"
     },
-    "production_studio": "Warner Bros., 1492 Pictures, Heyday Films",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "PG",
     "runtime_minutes": 161,
     "budget_usd_millions": 100,
-    "gross_revenue_usd_millions": 879.8,
+    "gross_revenue_usd_millions": 879,
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "82%",
       "rotten_tomatoes_popcorn": "80%"
     },
-    "genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
-    ],
+    "genres": ["Adventure", "Family", "Fantasy"],
     "actors": [
-      {
-        "name": "Daniel Radcliffe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0705356/"
-      },
-      {
-        "name": "Rupert Grint",
-        "imdb_person_url": "https://www.imdb.com/name/nm0342488/"
-      },
-      {
-        "name": "Emma Watson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0914612/"
-      }
+      { "name": "Daniel Radcliffe", "imdb_person_url": "https://www.imdb.com/name/nm0705356/" },
+      { "name": "Rupert Grint", "imdb_person_url": "https://www.imdb.com/name/nm0342488/" },
+      { "name": "Emma Watson", "imdb_person_url": "https://www.imdb.com/name/nm0914612/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -497,144 +341,13 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harry_potter_and_the_chamber_of_secrets"
   },
   {
-    "title": "Catch Me If You Can",
-    "year": 2002,
-    "director": {
-      "name": "Steven Spielberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
-    },
-    "production_studio": "DreamWorks, Amblin Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 141,
-    "budget_usd_millions": 52,
-    "gross_revenue_usd_millions": 352.1,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Leonardo DiCaprio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000138/"
-      },
-      {
-        "name": "Tom Hanks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
-      },
-      {
-        "name": "Christopher Walken",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000686/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0264464/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/catch_me_if_you_can"
-  },
-  {
-    "title": "The Ring",
-    "year": 2002,
-    "director": {
-      "name": "Gore Verbinski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005529/"
-    },
-    "production_studio": "DreamWorks, Parkes/MacDonald Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 48,
-    "gross_revenue_usd_millions": 249.3,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "47%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Naomi Watts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915208/"
-      },
-      {
-        "name": "Martin Henderson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0376483/"
-      },
-      {
-        "name": "Brian Cox",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004051/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0298130/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_ring"
-  },
-  {
-    "title": "Signs",
-    "year": 2002,
-    "director": {
-      "name": "M. Night Shyamalan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0796117/"
-    },
-    "production_studio": "Touchstone Pictures, Blinding Edge Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 72,
-    "gross_revenue_usd_millions": 408.2,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Mel Gibson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
-      },
-      {
-        "name": "Joaquin Phoenix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
-      },
-      {
-        "name": "Rory Culkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0191410/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A former priest living with his family on a farm finds mysterious crop circles in his fields, which suggests something more frightening to come.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0286106/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/signs"
-  },
-  {
     "title": "My Big Fat Greek Wedding",
     "year": 2002,
     "director": {
       "name": "Joel Zwick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0959005/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0958883/"
     },
-    "production_studio": "Gold Circle Films, HBO, Playtone",
+    "production_studio": "Gold Circle Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 95,
     "budget_usd_millions": 5,
@@ -642,26 +355,13 @@
     "ratings": {
       "imdb": 6.6,
       "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "68%"
+      "rotten_tomatoes_popcorn": "73%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "Nia Vardalos",
-        "imdb_person_url": "https://www.imdb.com/name/nm0889326/"
-      },
-      {
-        "name": "John Corbett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0179173/"
-      },
-      {
-        "name": "Michael Constantine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0175895/"
-      }
+      { "name": "Nia Vardalos", "imdb_person_url": "https://www.imdb.com/name/nm0889522/" },
+      { "name": "John Corbett", "imdb_person_url": "https://www.imdb.com/name/nm0179173/" },
+      { "name": "Michael Constantine", "imdb_person_url": "https://www.imdb.com/name/nm0176073/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
@@ -672,190 +372,13 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_big_fat_greek_wedding"
   },
   {
-    "title": "About Schmidt",
-    "year": 2002,
-    "director": {
-      "name": "Alexander Payne",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001598/"
-    },
-    "production_studio": "New Line Cinema, Avery Pix",
-    "mpaa_rating": "R",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 105.8,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
-      },
-      {
-        "name": "Kathy Bates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000870/"
-      },
-      {
-        "name": "Hope Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001111/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man who has just retired and lost his wife goes on a journey to his daughter's wedding, and along the way he learns some things about himself.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0257360/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/about_schmidt"
-  },
-  {
-    "title": "Punch-Drunk Love",
-    "year": 2002,
-    "director": {
-      "name": "Paul Thomas Anderson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000759/"
-    },
-    "production_studio": "New Line Cinema, Revolution Studios",
-    "mpaa_rating": "R",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 24.7,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Adam Sandler",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001191/"
-      },
-      {
-        "name": "Emily Watson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001833/"
-      },
-      {
-        "name": "Philip Seymour Hoffman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000450/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A socially inept and anxiety-ridden man finds love and a new sense of purpose when he meets a mysterious woman.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0272338/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/punch_drunk_love"
-  },
-  {
-    "title": "28 Days Later",
-    "year": 2002,
-    "director": {
-      "name": "Danny Boyle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000965/"
-    },
-    "production_studio": "DNA Films, Fox Searchlight Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 84.7,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Cillian Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0614165/"
-      },
-      {
-        "name": "Naomie Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0365140/"
-      },
-      {
-        "name": "Christopher Eccleston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001172/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0289043/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/28_days_later"
-  },
-  {
-    "title": "Road to Perdition",
-    "year": 2002,
-    "director": {
-      "name": "Sam Mendes",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005222/"
-    },
-    "production_studio": "DreamWorks, 20th Century Fox, The Zanuck Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 80,
-    "gross_revenue_usd_millions": 181,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Tom Hanks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
-      },
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Jude Law",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Cinematography"
-    ],
-    "description": "A mob enforcer's son witnesses a murder, forcing him and his father to take to the road, and his father down a path of redemption and revenge.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0257044/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/road_to_perdition"
-  },
-  {
     "title": "Ice Age",
     "year": 2002,
     "director": {
-      "name": "Chris Wedge, Carlos Saldanha",
-      "imdb_person_url": "https://www.imdb.com/name/nm0917228/"
+      "name": "Chris Wedge",
+      "imdb_person_url": "https://www.imdb.com/name/nm0917148/"
     },
-    "production_studio": "20th Century Fox, Blue Sky Studios",
+    "production_studio": "Blue Sky Studios",
     "mpaa_rating": "PG",
     "runtime_minutes": 81,
     "budget_usd_millions": 59,
@@ -863,310 +386,28 @@
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "actors": [
-      {
-        "name": "Ray Romano",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001681/"
-      },
-      {
-        "name": "John Leguizamo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000491/"
-      },
-      {
-        "name": "Denis Leary",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001459/"
-      }
+      { "name": "Ray Romano", "imdb_person_url": "https://www.imdb.com/name/nm0005380/" },
+      { "name": "John Leguizamo", "imdb_person_url": "https://www.imdb.com/name/nm0000491/" },
+      { "name": "Denis Leary", "imdb_person_url": "https://www.imdb.com/name/nm0001459/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A woolly mammoth, a saber-toothed tiger, and a sloth team up to return a human baby to its tribe.",
+    "description": "Set during the Ice Age, a sabertooth tiger, a sloth, and a woolly mammoth find a lost human infant, and they try to return him to his tribe.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0268380/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ice_age"
   },
   {
-    "title": "Frida",
-    "year": 2002,
-    "director": {
-      "name": "Julie Taymor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005481/"
-    },
-    "production_studio": "Miramax, Ventanarosa",
-    "mpaa_rating": "R",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 56.3,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Salma Hayek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000161/"
-      },
-      {
-        "name": "Alfred Molina",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000547/"
-      },
-      {
-        "name": "Geoffrey Rush",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001691/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Makeup",
-      "Best Music, Original Score"
-    ],
-    "description": "A biography of the life of the surrealist Mexican artist Frida Kahlo.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120679/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/frida"
-  },
-  {
-    "title": "Hero",
-    "year": 2002,
-    "director": {
-      "name": "Yimou Zhang",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000084/"
-    },
-    "production_studio": "Beijing New Picture Film Co., Elite Group Enterprises",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 31,
-    "gross_revenue_usd_millions": 177.4,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jet Li",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001472/"
-      },
-      {
-        "name": "Tony Leung Chiu-wai",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001044/"
-      },
-      {
-        "name": "Maggie Cheung",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001041/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A defense officer, Nameless, was summoned by the King of Qin regarding his success of defeating three assassins.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0299977/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hero"
-  },
-  {
-    "title": "About a Boy",
-    "year": 2002,
-    "director": {
-      "name": "Chris Weitz, Paul Weitz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002825/"
-    },
-    "production_studio": "Universal Pictures, StudioCanal, Tribeca Productions",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 130.5,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Hugh Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000424/"
-      },
-      {
-        "name": "Nicholas Hoult",
-        "imdb_person_url": "https://www.imdb.com/name/nm0396558/"
-      },
-      {
-        "name": "Toni Collette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001057/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A cynical, immature young man is taught how to act like a grown-up by a little boy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0276751/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/about_a_boy"
-  },
-  {
-    "title": "Insomnia",
-    "year": 2002,
-    "director": {
-      "name": "Christopher Nolan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0634240/"
-    },
-    "production_studio": "Warner Bros., Alcon Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 46,
-    "gross_revenue_usd_millions": 113.8,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Robin Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
-      },
-      {
-        "name": "Hilary Swank",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005476/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0278504/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/insomnia"
-  },
-  {
-    "title": "Panic Room",
-    "year": 2002,
-    "director": {
-      "name": "David Fincher",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000399/"
-    },
-    "production_studio": "Columbia Pictures, Hofflund/Polone",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 48,
-    "gross_revenue_usd_millions": 197.1,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
-      },
-      {
-        "name": "Kristen Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0829576/"
-      },
-      {
-        "name": "Forest Whitaker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A mother and her diabetic daughter take refuge in their newly-purchased house's safe room when three men break-in, searching for a missing fortune.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0258000/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/panic_room"
-  },
-  {
-    "title": "Talk to Her",
-    "year": 2002,
-    "director": {
-      "name": "Pedro Almodóvar",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
-    },
-    "production_studio": "El Deseo, Sony Pictures Classics",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 52,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Javier Cámara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001004/"
-      },
-      {
-        "name": "Darío Grandinetti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0334816/"
-      },
-      {
-        "name": "Leonor Watling",
-        "imdb_person_url": "https://www.imdb.com/name/nm0914283/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Original Screenplay"
-    ],
-    "description": "Two men share an odd friendship while they care for two women who are both in deep comas.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0287467/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/talk_to_her"
-  },
-  {
     "title": "Lilo & Stitch",
     "year": 2002,
     "director": {
-      "name": "Chris Sanders, Dean DeBlois",
-      "imdb_person_url": "https://www.imdb.com/name/nm0761498/"
+      "name": "Dean DeBlois & Chris Sanders",
+      "imdb_person_url": "https://www.imdb.com/name/nm0213467/"
     },
     "production_studio": "Walt Disney Pictures",
     "mpaa_rating": "PG",
@@ -1176,213 +417,21 @@
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "79%"
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "actors": [
-      {
-        "name": "Daveigh Chase",
-        "imdb_person_url": "https://www.imdb.com/name/nm0153738/"
-      },
-      {
-        "name": "Chris Sanders",
-        "imdb_person_url": "https://www.imdb.com/name/nm0761498/"
-      },
-      {
-        "name": "Tia Carrere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000119/"
-      }
+      { "name": "Daveigh Chase", "imdb_person_url": "https://www.imdb.com/name/nm0153738/" },
+      { "name": "Chris Sanders", "imdb_person_url": "https://www.imdb.com/name/nm0761536/" },
+      { "name": "Tia Carrere", "imdb_person_url": "https://www.imdb.com/name/nm0000120/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young and parentless girl adopts a 'dog' from the local pound, completely unaware that it's a dangerous fugitive from an alien world.",
+    "description": "A young girl adopts a dog from the local pound, completely unaware that it's supposedly a dangerous scientific experiment taking refuge on Earth and hiding from its creator and those who see it as a menace.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0275847/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lilo_and_stitch"
-  },
-  {
-    "title": "Spirited Away",
-    "year": 2001,
-    "director": {
-      "name": "Hayao Miyazaki",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005251/"
-    },
-    "production_studio": "Studio Ghibli, Tokuma Shoten",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 395.6,
-    "ratings": {
-      "imdb": 8.6,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "96%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Rumi Hiiragi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0382023/"
-      },
-      {
-        "name": "Miyu Irino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0410886/"
-      },
-      {
-        "name": "Mari Natsuki",
-        "imdb_person_url": "https://www.imdb.com/name/nm0622262/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Animated Feature"
-    ],
-    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0245429/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spirited_away"
-  },
-  {
-    "title": "Bowling for Columbine",
-    "year": 2002,
-    "director": {
-      "name": "Michael Moore",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003554/"
-    },
-    "production_studio": "United Artists, Alliance Atlantis Communications",
-    "mpaa_rating": "R",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 58,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Documentary",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Michael Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003554/"
-      },
-      {
-        "name": "Charlton Heston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
-      },
-      {
-        "name": "Marilyn Manson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001504/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Documentary, Features"
-    ],
-    "description": "Filmmaker Michael Moore explores the roots of America's predilection for gun violence.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0310793/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bowling_for_columbine"
-  },
-  {
-    "title": "The Count of Monte Cristo",
-    "year": 2002,
-    "director": {
-      "name": "Kevin Reynolds",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002171/"
-    },
-    "production_studio": "Touchstone Pictures, Spyglass Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 131,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 75.4,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jim Caviezel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001029/"
-      },
-      {
-        "name": "Guy Pearce",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001602/"
-      },
-      {
-        "name": "Richard Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young man, falsely imprisoned by his jealous 'friend,' escapes and uses a hidden treasure to exact his revenge.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0245844/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/count_of_monte_cristo"
-  },
-  {
-    "title": "About Schmidt",
-    "year": 2002,
-    "director": {
-      "name": "Alexander Payne",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001598/"
-    },
-    "production_studio": "New Line Cinema, Avery Pix",
-    "mpaa_rating": "R",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 105.8,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
-      },
-      {
-        "name": "Kathy Bates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000870/"
-      },
-      {
-        "name": "Hope Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001111/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man who has just retired and lost his wife goes on a journey to his daughter's wedding, and along the way he learns some things about himself.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0257360/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/about_schmidt"
   },
   {
     "title": "Signs",
@@ -1391,7 +440,7 @@
       "name": "M. Night Shyamalan",
       "imdb_person_url": "https://www.imdb.com/name/nm0796117/"
     },
-    "production_studio": "Touchstone Pictures, Blinding Edge Pictures",
+    "production_studio": "Touchstone Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 106,
     "budget_usd_millions": 72,
@@ -1399,78 +448,52 @@
     "ratings": {
       "imdb": 6.8,
       "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "61%"
+      "rotten_tomatoes_popcorn": "67%"
     },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi"
-    ],
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Mel Gibson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
-      },
-      {
-        "name": "Joaquin Phoenix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
-      },
-      {
-        "name": "Rory Culkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0191410/"
-      }
+      { "name": "Mel Gibson", "imdb_person_url": "https://www.imdb.com/name/nm0000154/" },
+      { "name": "Joaquin Phoenix", "imdb_person_url": "https://www.imdb.com/name/nm0001618/" },
+      { "name": "Rory Culkin", "imdb_person_url": "https://www.imdb.com/name/nm0191520/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former priest living with his family on a farm finds mysterious crop circles in his fields, which suggests something more frightening to come.",
+    "description": "A widowed former reverend living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something more frightening to come.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0286106/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/signs"
   },
   {
-    "title": "Punch-Drunk Love",
+    "title": "The Ring",
     "year": 2002,
     "director": {
-      "name": "Paul Thomas Anderson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000759/"
+      "name": "Gore Verbinski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0893659/"
     },
-    "production_studio": "New Line Cinema, Revolution Studios",
-    "mpaa_rating": "R",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 24.7,
+    "production_studio": "DreamWorks",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 48,
+    "gross_revenue_usd_millions": 249.3,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "48%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Horror", "Mystery"],
     "actors": [
-      {
-        "name": "Adam Sandler",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001191/"
-      },
-      {
-        "name": "Emily Watson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001833/"
-      },
-      {
-        "name": "Philip Seymour Hoffman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000450/"
-      }
+      { "name": "Naomi Watts", "imdb_person_url": "https://www.imdb.com/name/nm0915208/" },
+      { "name": "Martin Henderson", "imdb_person_url": "https://www.imdb.com/name/nm0376516/" },
+      { "name": "Brian Cox", "imdb_person_url": "https://www.imdb.com/name/nm0004051/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A socially inept and anxiety-ridden man finds love and a new sense of purpose when he meets a mysterious woman.",
+    "description": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0272338/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/punch_drunk_love"
+    "imdb_url": "https://www.imdb.com/title/tt0298130/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ring"
   },
   {
     "title": "28 Days Later",
@@ -1479,34 +502,21 @@
       "name": "Danny Boyle",
       "imdb_person_url": "https://www.imdb.com/name/nm0000965/"
     },
-    "production_studio": "DNA Films, Fox Searchlight Pictures",
+    "production_studio": "DNA Films",
     "mpaa_rating": "R",
     "runtime_minutes": 113,
     "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 84.7,
+    "gross_revenue_usd_millions": 82.7,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "87%",
       "rotten_tomatoes_popcorn": "85%"
     },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Sci-Fi"
-    ],
+    "genres": ["Drama", "Horror", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Cillian Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0614165/"
-      },
-      {
-        "name": "Naomie Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0365140/"
-      },
-      {
-        "name": "Christopher Eccleston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001172/"
-      }
+      { "name": "Cillian Murphy", "imdb_person_url": "https://www.imdb.com/name/nm0614165/" },
+      { "name": "Naomie Harris", "imdb_person_url": "https://www.imdb.com/name/nm0365095/" },
+      { "name": "Christopher Eccleston", "imdb_person_url": "https://www.imdb.com/name/nm0001172/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -1517,13 +527,44 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/28_days_later"
   },
   {
+    "title": "8 Mile",
+    "year": 2002,
+    "director": {
+      "name": "Curtis Hanson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002125/"
+    },
+    "production_studio": "Imagine Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 41,
+    "gross_revenue_usd_millions": 242.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": ["Drama", "Music"],
+    "actors": [
+      { "name": "Eminem", "imdb_person_url": "https://www.imdb.com/name/nm0004896/" },
+      { "name": "Brittany Murphy", "imdb_person_url": "https://www.imdb.com/name/nm0005261/" },
+      { "name": "Kim Basinger", "imdb_person_url": "https://www.imdb.com/name/nm0000106/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Music, Original Song"],
+    "description": "A young rapper, struggling with every aspect of his life, wants to make it big but his friends and foes make this odyssey of rap harder than it may seem.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0298203/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/8_mile"
+  },
+  {
     "title": "Road to Perdition",
     "year": 2002,
     "director": {
       "name": "Sam Mendes",
       "imdb_person_url": "https://www.imdb.com/name/nm0005222/"
     },
-    "production_studio": "DreamWorks, 20th Century Fox, The Zanuck Company",
+    "production_studio": "DreamWorks",
     "mpaa_rating": "R",
     "runtime_minutes": 117,
     "budget_usd_millions": 80,
@@ -1533,78 +574,267 @@
       "rotten_tomatoes_critic": "81%",
       "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
+    "genres": ["Crime", "Drama", "Thriller"],
     "actors": [
-      {
-        "name": "Tom Hanks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
-      },
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Jude Law",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
-      }
+      { "name": "Tom Hanks", "imdb_person_url": "https://www.imdb.com/name/nm0000158/" },
+      { "name": "Paul Newman", "imdb_person_url": "https://www.imdb.com/name/nm0000056/" },
+      { "name": "Jude Law", "imdb_person_url": "https://www.imdb.com/name/nm0000179/" }
     ],
     "oscars_nominated": 6,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Cinematography"
-    ],
+    "oscars_won_details": ["Best Cinematography"],
     "description": "A mob enforcer's son witnesses a murder, forcing him and his father to take to the road, and his father down a path of redemption and revenge.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0257044/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/road_to_perdition"
   },
   {
-    "title": "The Count of Monte Cristo",
+    "title": "Adaptation.",
     "year": 2002,
     "director": {
-      "name": "Kevin Reynolds",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002171/"
+      "name": "Spike Jonze",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005069/"
     },
-    "production_studio": "Touchstone Pictures, Spyglass Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 131,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 75.4,
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 19,
+    "gross_revenue_usd_millions": 32.8,
     "ratings": {
       "imdb": 7.7,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "84%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Comedy", "Drama"],
     "actors": [
-      {
-        "name": "Jim Caviezel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001029/"
-      },
-      {
-        "name": "Guy Pearce",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001602/"
-      },
-      {
-        "name": "Richard Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
-      }
+      { "name": "Nicolas Cage", "imdb_person_url": "https://www.imdb.com/name/nm0000115/" },
+      { "name": "Meryl Streep", "imdb_person_url": "https://www.imdb.com/name/nm0000658/" },
+      { "name": "Chris Cooper", "imdb_person_url": "https://www.imdb.com/name/nm0001069/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actor in a Supporting Role"],
+    "description": "A lovelorn screenwriter becomes desperate as he tries and fails to adapt 'The Orchid Thief' by Susan Orlean for the screen.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0268126/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/adaptation"
+  },
+  {
+    "title": "The Hours",
+    "year": 2002,
+    "director": {
+      "name": "Stephen Daldry",
+      "imdb_person_url": "https://www.imdb.com/name/nm0197630/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 25,
+    "gross_revenue_usd_millions": 108.8,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Meryl Streep", "imdb_person_url": "https://www.imdb.com/name/nm0000658/" },
+      { "name": "Julianne Moore", "imdb_person_url": "https://www.imdb.com/name/nm0000194/" },
+      { "name": "Nicole Kidman", "imdb_person_url": "https://www.imdb.com/name/nm0000173/" }
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actress"],
+    "description": "The story of how the novel \"Mrs. Dalloway\" affects three generations of women, all of whom, in one way or another, have had to deal with suicide in their lives.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0274558/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hours"
+  },
+  {
+    "title": "About Schmidt",
+    "year": 2002,
+    "director": {
+      "name": "Alexander Payne",
+      "imdb_person_url": "https://www.imdb.com/name/nm0668247/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 105.8,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Jack Nicholson", "imdb_person_url": "https://www.imdb.com/name/nm0000197/" },
+      { "name": "Hope Davis", "imdb_person_url": "https://www.imdb.com/name/nm0204706/" },
+      { "name": "Dermot Mulroney", "imdb_person_url": "https://www.imdb.com/name/nm0000551/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man, upon retirement, embarks on a journey to his estranged daughter's wedding only to discover more about himself and life than he ever expected.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0257360/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/about_schmidt"
+  },
+  {
+    "title": "Far from Heaven",
+    "year": 2002,
+    "director": {
+      "name": "Todd Haynes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004450/"
+    },
+    "production_studio": "Focus Features",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 13.5,
+    "gross_revenue_usd_millions": 29,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Julianne Moore", "imdb_person_url": "https://www.imdb.com/name/nm0000194/" },
+      { "name": "Dennis Quaid", "imdb_person_url": "https://www.imdb.com/name/nm0000209/" },
+      { "name": "Dennis Haysbert", "imdb_person_url": "https://www.imdb.com/name/nm0371660/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1950s Connecticut, a housewife faces a marital crisis and mounting racial tensions in the outside world.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0297884/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/far_from_heaven"
+  },
+  {
+    "title": "Frida",
+    "year": 2002,
+    "director": {
+      "name": "Julie Taymor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0853380/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 12,
+    "gross_revenue_usd_millions": 56.3,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Biography", "Drama", "Romance"],
+    "actors": [
+      { "name": "Salma Hayek", "imdb_person_url": "https://www.imdb.com/name/nm0000161/" },
+      { "name": "Alfred Molina", "imdb_person_url": "https://www.imdb.com/name/nm0000547/" },
+      { "name": "Geoffrey Rush", "imdb_person_url": "https://www.imdb.com/name/nm0001691/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Makeup", "Best Original Score"],
+    "description": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120679/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/frida"
+  },
+  {
+    "title": "Talk to Her",
+    "year": 2002,
+    "director": {
+      "name": "Pedro Almodóvar",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
+    },
+    "production_studio": "El Deseo",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 10,
+    "gross_revenue_usd_millions": 51,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": ["Drama", "Mystery", "Romance"],
+    "actors": [
+      { "name": "Rosario Flores", "imdb_person_url": "https://www.imdb.com/name/nm0282933/" },
+      { "name": "Javier Cámara", "imdb_person_url": "https://www.imdb.com/name/nm0194007/" },
+      { "name": "Darío Grandinetti", "imdb_person_url": "https://www.imdb.com/name/nm0334870/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Original Screenplay"],
+    "description": "Two men share an odd friendship while caring for two women who are both in deep comas.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0287467/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/talk_to_her"
+  },
+  {
+    "title": "Punch-Drunk Love",
+    "year": 2002,
+    "director": {
+      "name": "Paul Thomas Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000759/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 25,
+    "gross_revenue_usd_millions": 24.7,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Adam Sandler", "imdb_person_url": "https://www.imdb.com/name/nm0001191/" },
+      { "name": "Emily Watson", "imdb_person_url": "https://www.imdb.com/name/nm0001833/" },
+      { "name": "Philip Seymour Hoffman", "imdb_person_url": "https://www.imdb.com/name/nm0000450/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young man, falsely imprisoned by his jealous 'friend,' escapes and uses a hidden treasure to exact his revenge.",
+    "description": "A psychologically troubled novelty supplier is nudged towards a romance with an English woman, all the while being extorted by a phone-sex line run by a crooked mattress salesman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0245844/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/count_of_monte_cristo"
+    "imdb_url": "https://www.imdb.com/title/tt0272338/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/punchdrunk_love"
+  },
+  {
+    "title": "Insomnia",
+    "year": 2002,
+    "director": {
+      "name": "Christopher Nolan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0634240/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 46,
+    "gross_revenue_usd_millions": 113.7,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Al Pacino", "imdb_person_url": "https://www.imdb.com/name/nm0000199/" },
+      { "name": "Robin Williams", "imdb_person_url": "https://www.imdb.com/name/nm0000245/" },
+      { "name": "Hilary Swank", "imdb_person_url": "https://www.imdb.com/name/nm0005476/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0278504/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1114154-insomnia"
   },
   {
     "title": "Panic Room",
@@ -1613,85 +843,710 @@
       "name": "David Fincher",
       "imdb_person_url": "https://www.imdb.com/name/nm0000399/"
     },
-    "production_studio": "Columbia Pictures, Hofflund/Polone",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 112,
     "budget_usd_millions": 48,
-    "gross_revenue_usd_millions": 197.1,
+    "gross_revenue_usd_millions": 196.4,
     "ratings": {
       "imdb": 6.8,
       "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_popcorn": "63%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
+    "genres": ["Crime", "Drama", "Thriller"],
     "actors": [
-      {
-        "name": "Jodie Foster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000149/"
-      },
-      {
-        "name": "Kristen Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0829576/"
-      },
-      {
-        "name": "Forest Whitaker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
-      }
+      { "name": "Jodie Foster", "imdb_person_url": "https://www.imdb.com/name/nm0000149/" },
+      { "name": "Kristen Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0829576/" },
+      { "name": "Forest Whitaker", "imdb_person_url": "https://www.imdb.com/name/nm0001845/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A mother and her diabetic daughter take refuge in their newly-purchased house's safe room when three men break-in, searching for a missing fortune.",
+    "description": "A divorced woman and her diabetic daughter take refuge in their newly-purchased house's safe room when three men break-in, searching for a missing fortune.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0258000/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/panic_room"
   },
   {
-    "title": "Lilo & Stitch",
+    "title": "Men in Black II",
     "year": 2002,
     "director": {
-      "name": "Chris Sanders, Dean DeBlois",
-      "imdb_person_url": "https://www.imdb.com/name/nm0761498/"
+      "name": "Barry Sonnenfeld",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001756/"
     },
-    "production_studio": "Walt Disney Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 85,
-    "budget_usd_millions": 80,
-    "gross_revenue_usd_millions": 273.1,
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 140,
+    "gross_revenue_usd_millions": 441.8,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "38%",
+      "rotten_tomatoes_popcorn": "45%"
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Tommy Lee Jones", "imdb_person_url": "https://www.imdb.com/name/nm0000169/" },
+      { "name": "Will Smith", "imdb_person_url": "https://www.imdb.com/name/nm0000226/" },
+      { "name": "Rip Torn", "imdb_person_url": "https://www.imdb.com/name/nm0001800/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Agent J needs help so he is sent to find Agent K and restore his memory.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120912/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/men_in_black_ii"
+  },
+  {
+    "title": "Austin Powers in Goldmember",
+    "year": 2002,
+    "director": {
+      "name": "Jay Roach",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005372/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 63,
+    "gross_revenue_usd_millions": 296.7,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "53%",
+      "rotten_tomatoes_popcorn": "42%"
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Mike Myers", "imdb_person_url": "https://www.imdb.com/name/nm0000196/" },
+      { "name": "Beyoncé", "imdb_person_url": "https://www.imdb.com/name/nm0461498/" },
+      { "name": "Seth Green", "imdb_person_url": "https://www.imdb.com/name/nm0001293/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Upon learning that his father has been kidnapped, Austin Powers must travel to 1975 and defeat the brilliantly comedic villain Goldmember.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0295178/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/austin_powers_in_goldmember"
+  },
+  {
+    "title": "Die Another Day",
+    "year": 2002,
+    "director": {
+      "name": "Lee Tamahori",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001788/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 133,
+    "budget_usd_millions": 142,
+    "gross_revenue_usd_millions": 431.9,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "55%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": ["Action", "Adventure", "Thriller"],
+    "actors": [
+      { "name": "Pierce Brosnan", "imdb_person_url": "https://www.imdb.com/name/nm0000112/" },
+      { "name": "Halle Berry", "imdb_person_url": "https://www.imdb.com/name/nm0000107/" },
+      { "name": "Rosamund Pike", "imdb_person_url": "https://www.imdb.com/name/nm0683253/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "James Bond is sent to investigate the connection between a North Korean terrorist and a diamond mogul, who is funding the development of an international space weapon.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0246460/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/die_another_day"
+  },
+  {
+    "title": "Blade II",
+    "year": 2002,
+    "director": {
+      "name": "Guillermo del Toro",
+      "imdb_person_url": "https://www.imdb.com/name/nm0868219/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 54,
+    "gross_revenue_usd_millions": 155,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": ["Action", "Horror", "Sci-Fi"],
+    "actors": [
+      { "name": "Wesley Snipes", "imdb_person_url": "https://www.imdb.com/name/nm0000227/" },
+      { "name": "Kris Kristofferson", "imdb_person_url": "https://www.imdb.com/name/nm0001434/" },
+      { "name": "Ron Perlman", "imdb_person_url": "https://www.imdb.com/name/nm0000579/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Blade forms an uneasy alliance with the Vampire Council in order to combat the Reapers, who are feeding on vampires.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0187738/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blade_ii"
+  },
+  {
+    "title": "Red Dragon",
+    "year": 2002,
+    "director": {
+      "name": "Brett Ratner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0711840/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 78,
+    "gross_revenue_usd_millions": 209.1,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Anthony Hopkins", "imdb_person_url": "https://www.imdb.com/name/nm0000164/" },
+      { "name": "Edward Norton", "imdb_person_url": "https://www.imdb.com/name/nm0001570/" },
+      { "name": "Ralph Fiennes", "imdb_person_url": "https://www.imdb.com/name/nm0000146/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A retired FBI agent with psychological gifts is assigned to help track down \"The Tooth Fairy\", a mysterious serial killer. Aiding him is imprisoned forensic psychiatrist Dr. Hannibal \"The Cannibal\" Lecter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0289765/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/red_dragon"
+  },
+  {
+    "title": "One Hour Photo",
+    "year": 2002,
+    "director": {
+      "name": "Mark Romanek",
+      "imdb_person_url": "https://www.imdb.com/name/nm0738837/"
+    },
+    "production_studio": "Fox Searchlight",
+    "mpaa_rating": "R",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 12,
+    "gross_revenue_usd_millions": 52.2,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": ["Drama", "Thriller"],
+    "actors": [
+      { "name": "Robin Williams", "imdb_person_url": "https://www.imdb.com/name/nm0000245/" },
+      { "name": "Connie Nielsen", "imdb_person_url": "https://www.imdb.com/name/nm0001567/" },
+      { "name": "Michael Vartan", "imdb_person_url": "https://www.imdb.com/name/nm0890232/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mentally unstable photo developer targets an upper-middle-class family after his obsession with them becomes more dangerous than anyone could imagine.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0265459/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/one_hour_photo"
+  },
+  {
+    "title": "Phone Booth",
+    "year": 2002,
+    "director": {
+      "name": "Joel Schumacher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001708/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 13,
+    "gross_revenue_usd_millions": 97.8,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": ["Crime", "Thriller"],
+    "actors": [
+      { "name": "Colin Farrell", "imdb_person_url": "https://www.imdb.com/name/nm0268199/" },
+      { "name": "Kiefer Sutherland", "imdb_person_url": "https://www.imdb.com/name/nm0000662/" },
+      { "name": "Forest Whitaker", "imdb_person_url": "https://www.imdb.com/name/nm0001845/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Publicist Stuart Shepard finds himself trapped in a phone booth, pinned down by an extortionist's sniper rifle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0242827/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/phone_booth"
+  },
+  {
+    "title": "Equilibrium",
+    "year": 2002,
+    "director": {
+      "name": "Kurt Wimmer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0934483/"
+    },
+    "production_studio": "Dimension Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 20,
+    "gross_revenue_usd_millions": 5.3,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "79%"
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "81%"
     },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
+    "genres": ["Action", "Drama", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Daveigh Chase",
-        "imdb_person_url": "https://www.imdb.com/name/nm0153738/"
-      },
-      {
-        "name": "Chris Sanders",
-        "imdb_person_url": "https://www.imdb.com/name/nm0761498/"
-      },
-      {
-        "name": "Tia Carrere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000119/"
-      }
+      { "name": "Christian Bale", "imdb_person_url": "https://www.imdb.com/name/nm0000288/" },
+      { "name": "Sean Bean", "imdb_person_url": "https://www.imdb.com/name/nm0000293/" },
+      { "name": "Emily Watson", "imdb_person_url": "https://www.imdb.com/name/nm0001833/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In an oppressive future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system and state.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0238380/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/equilibrium"
+  },
+  {
+    "title": "Resident Evil",
+    "year": 2002,
+    "director": {
+      "name": "Paul W.S. Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0027271/"
+    },
+    "production_studio": "Screen Gems",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 33,
+    "gross_revenue_usd_millions": 103,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "35%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Action", "Horror", "Sci-Fi"],
+    "actors": [
+      { "name": "Milla Jovovich", "imdb_person_url": "https://www.imdb.com/name/nm0000170/" },
+      { "name": "Michelle Rodriguez", "imdb_person_url": "https://www.imdb.com/name/nm0735442/" },
+      { "name": "Ryan McCluskey", "imdb_person_url": "https://www.imdb.com/name/nm0566064/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120804/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/resident_evil"
+  },
+  {
+    "title": "25th Hour",
+    "year": 2002,
+    "director": {
+      "name": "Spike Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 5,
+    "gross_revenue_usd_millions": 23.9,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Edward Norton", "imdb_person_url": "https://www.imdb.com/name/nm0001570/" },
+      { "name": "Barry Pepper", "imdb_person_url": "https://www.imdb.com/name/nm0001608/" },
+      { "name": "Philip Seymour Hoffman", "imdb_person_url": "https://www.imdb.com/name/nm0000450/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0307901/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/25th_hour"
+  },
+  {
+    "title": "Confessions of a Dangerous Mind",
+    "year": 2002,
+    "director": {
+      "name": "George Clooney",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000123/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 33,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Biography", "Comedy", "Crime"],
+    "actors": [
+      { "name": "Sam Rockwell", "imdb_person_url": "https://www.imdb.com/name/nm0005377/" },
+      { "name": "Drew Barrymore", "imdb_person_url": "https://www.imdb.com/name/nm0000106/" },
+      { "name": "George Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0000123/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An adaptation of the cult memoir of game show impresario Chuck Barris, in which he purports to have been a C.I.A. hitman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0270288/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/confessions_of_a_dangerous_mind"
+  },
+  {
+    "title": "The Quiet American",
+    "year": 2002,
+    "director": {
+      "name": "Phillip Noyce",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001571/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 27.7,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Drama", "Romance", "Thriller"],
+    "actors": [
+      { "name": "Michael Caine", "imdb_person_url": "https://www.imdb.com/name/nm0000323/" },
+      { "name": "Brendan Fraser", "imdb_person_url": "https://www.imdb.com/name/nm0000409/" },
+      { "name": "Do Thi Hai Yen", "imdb_person_url": "https://www.imdb.com/name/nm1023746/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young and parentless girl adopts a 'dog' from the local pound, completely unaware that it's a dangerous fugitive from an alien world.",
+    "description": "An older British reporter vies with a young U.S. doctor for the affections of a beautiful Vietnamese woman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0275847/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lilo_and_stitch"
+    "imdb_url": "https://www.imdb.com/title/tt0258068/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quiet_american"
+  },
+  {
+    "title": "Unfaithful",
+    "year": 2002,
+    "director": {
+      "name": "Adrian Lyne",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000510/"
+    },
+    "production_studio": "Fox 2000 Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 119.1,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": ["Drama", "Romance", "Thriller"],
+    "actors": [
+      { "name": "Richard Gere", "imdb_person_url": "https://www.imdb.com/name/nm0000152/" },
+      { "name": "Diane Lane", "imdb_person_url": "https://www.imdb.com/name/nm0000483/" },
+      { "name": "Olivier Martinez", "imdb_person_url": "https://www.imdb.com/name/nm0553648/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A New York suburban couple's marriage goes dangerously awry when the wife indulges in an adulterous fling.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0250797/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/unfaithful"
+  },
+  {
+    "title": "Secretary",
+    "year": 2002,
+    "director": {
+      "name": "Steven Shainberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0787597/"
+    },
+    "production_studio": "Lions Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 4,
+    "gross_revenue_usd_millions": 9.3,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "James Spader", "imdb_person_url": "https://www.imdb.com/name/nm0000652/" },
+      { "name": "Maggie Gyllenhaal", "imdb_person_url": "https://www.imdb.com/name/nm0350454/" },
+      { "name": "Jeremy Davies", "imdb_person_url": "https://www.imdb.com/name/nm0001111/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0274812/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/secretary"
+  },
+  {
+    "title": "Rabbit-Proof Fence",
+    "year": 2002,
+    "director": {
+      "name": "Phillip Noyce",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001571/"
+    },
+    "production_studio": "Rumbalara Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 16.2,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Adventure", "Biography", "Drama"],
+    "actors": [
+      { "name": "Everlyn Sampi", "imdb_person_url": "https://www.imdb.com/name/nm1087056/" },
+      { "name": "Tianna Sansbury", "imdb_person_url": "https://www.imdb.com/name/nm1106270/" },
+      { "name": "Kenneth Branagh", "imdb_person_url": "https://www.imdb.com/name/nm0000110/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1931, three aboriginal girls escape after being plucked from their homes to be trained as domestic staff and set off on a trek across the Outback.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0252444/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rabbitproof_fence"
+  },
+  {
+    "title": "Whale Rider",
+    "year": 2002,
+    "director": {
+      "name": "Niki Caro",
+      "imdb_person_url": "https://www.imdb.com/name/nm0138917/"
+    },
+    "production_studio": "South Pacific Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 6.5,
+    "gross_revenue_usd_millions": 41.4,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Drama", "Family"],
+    "actors": [
+      { "name": "Keisha Castle-Hughes", "imdb_person_url": "https://www.imdb.com/name/nm1236169/" },
+      { "name": "Rawiri Paratene", "imdb_person_url": "https://www.imdb.com/name/nm0660991/" },
+      { "name": "Vicky Haughton", "imdb_person_url": "https://www.imdb.com/name/nm0369347/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A contemporary story of love, rejection and triumph as a young Maori girl fights to fulfill a destiny her grandfather refuses to recognize.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0298228/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whale_rider"
+  },
+  {
+    "title": "Bend It Like Beckham",
+    "year": 2002,
+    "director": {
+      "name": "Gurinder Chadha",
+      "imdb_person_url": "https://www.imdb.com/name/nm0149447/"
+    },
+    "production_studio": "Kintop Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 76.6,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Parminder Nagra", "imdb_person_url": "https://www.imdb.com/name/nm0619406/" },
+      { "name": "Keira Knightley", "imdb_person_url": "https://www.imdb.com/name/nm0461136/" },
+      { "name": "Jonathan Rhys Meyers", "imdb_person_url": "https://www.imdb.com/name/nm0001667/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two ambitious girls, despite their parents' wishes, have their hearts set on careers in professional football.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0286499/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bend_it_like_beckham"
+  },
+  {
+    "title": "Infernal Affairs",
+    "year": 2002,
+    "director": {
+      "name": "Andrew Lau & Alan Mak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0490514/"
+    },
+    "production_studio": "Media Asia Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 6.4,
+    "gross_revenue_usd_millions": 8.7,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "actors": [
+      { "name": "Andy Lau", "imdb_person_url": "https://www.imdb.com/name/nm0001450/" },
+      { "name": "Tony Leung Chiu-wai", "imdb_person_url": "https://www.imdb.com/name/nm0496213/" },
+      { "name": "Anthony Chau-Sang Wong", "imdb_person_url": "https://www.imdb.com/name/nm0938834/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0338564/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/infernal_affairs"
+  },
+  {
+    "title": "Hero",
+    "year": 2002,
+    "director": {
+      "name": "Yimou Zhang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0955443/"
+    },
+    "production_studio": "Beijing New Picture Film",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 31,
+    "gross_revenue_usd_millions": 177.4,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Action", "Adventure", "History"],
+    "actors": [
+      { "name": "Jet Li", "imdb_person_url": "https://www.imdb.com/name/nm0001472/" },
+      { "name": "Tony Leung Chiu-wai", "imdb_person_url": "https://www.imdb.com/name/nm0496213/" },
+      { "name": "Maggie Cheung", "imdb_person_url": "https://www.imdb.com/name/nm0001041/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A defense officer, Nameless, is summoned by the King of Qin regarding his success of terminating three warriors.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0299977/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hero"
+  },
+  {
+    "title": "Bowling for Columbine",
+    "year": 2002,
+    "director": {
+      "name": "Michael Moore",
+      "imdb_person_url": "https://www.imdb.com/name/nm0601600/"
+    },
+    "production_studio": "Alliance Atlantis",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 4,
+    "gross_revenue_usd_millions": 58,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Documentary", "Crime", "Drama"],
+    "actors": [
+      { "name": "Michael Moore", "imdb_person_url": "https://www.imdb.com/name/nm0601600/" },
+      { "name": "Charlton Heston", "imdb_person_url": "https://www.imdb.com/name/nm0000032/" },
+      { "name": "Marilyn Manson", "imdb_person_url": "https://www.imdb.com/name/nm0001504/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Documentary Feature"],
+    "description": "Filmmaker Michael Moore explores the roots of America's predilection for gun violence.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0310793/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bowling_for_columbine"
+  },
+  {
+    "title": "Jackass: The Movie",
+    "year": 2002,
+    "director": {
+      "name": "Jeff Tremaine",
+      "imdb_person_url": "https://www.imdb.com/name/nm0871920/"
+    },
+    "production_studio": "MTV Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 5,
+    "gross_revenue_usd_millions": 79.5,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "49%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": ["Documentary", "Action", "Comedy"],
+    "actors": [
+      { "name": "Johnny Knoxville", "imdb_person_url": "https://www.imdb.com/name/nm0461700/" },
+      { "name": "Bam Margera", "imdb_person_url": "https://www.imdb.com/name/nm0546609/" },
+      { "name": "Steve-O", "imdb_person_url": "https://www.imdb.com/name/nm0828177/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0322802/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jackass_the_movie"
+  },
+  {
+    "title": "Solaris",
+    "year": 2002,
+    "director": {
+      "name": "Steven Soderbergh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000649/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 47,
+    "gross_revenue_usd_millions": 30,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "66%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": ["Drama", "Mystery", "Romance"],
+    "actors": [
+      { "name": "George Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0000123/" },
+      { "name": "Natascha McElhone", "imdb_person_url": "https://www.imdb.com/name/nm0001527/" },
+      { "name": "Viola Davis", "imdb_person_url": "https://www.imdb.com/name/nm0205626/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0307479/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1117358-solaris"
   }
 ]

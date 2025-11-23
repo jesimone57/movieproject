@@ -1,49 +1,63 @@
 [
   {
+    "title": "American Beauty",
+    "year": 1999,
+    "director": {
+      "name": "Sam Mendes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005222/"
+    },
+    "production_studio": "DreamWorks",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 356.3,
+    "ratings": {
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Kevin Spacey", "imdb_person_url": "https://www.imdb.com/name/nm0000228/" },
+      { "name": "Annette Bening", "imdb_person_url": "https://www.imdb.com/name/nm0000906/" },
+      { "name": "Thora Birch", "imdb_person_url": "https://www.imdb.com/name/nm0000301/" }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 5,
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Actor", "Best Original Screenplay", "Best Cinematography"],
+    "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0169547/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_beauty"
+  },
+  {
     "title": "The Matrix",
     "year": 1999,
     "director": {
-      "name": "Lana Wachowski, Lilly Wachowski",
+      "name": "Lana Wachowski & Lilly Wachowski",
       "imdb_person_url": "https://www.imdb.com/name/nm0905154/"
     },
-    "production_studio": "Warner Bros., Village Roadshow Pictures, Groucho II Film Partnership",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 136,
     "budget_usd_millions": 63,
-    "gross_revenue_usd_millions": 467.2,
+    "gross_revenue_usd_millions": 463.5,
     "ratings": {
       "imdb": 8.7,
-      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_critic": "88%",
       "rotten_tomatoes_popcorn": "85%"
     },
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
+    "genres": ["Action", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Keanu Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
-      },
-      {
-        "name": "Laurence Fishburne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000401/"
-      },
-      {
-        "name": "Carrie-Anne Moss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005251/"
-      }
+      { "name": "Keanu Reeves", "imdb_person_url": "https://www.imdb.com/name/nm0000206/" },
+      { "name": "Laurence Fishburne", "imdb_person_url": "https://www.imdb.com/name/nm0000401/" },
+      { "name": "Carrie-Anne Moss", "imdb_person_url": "https://www.imdb.com/name/nm0005251/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Film Editing",
-      "Best Sound",
-      "Best Sound Effects Editing",
-      "Best Visual Effects"
-    ],
+    "oscars_won_details": ["Best Film Editing", "Best Sound", "Best Sound Effects Editing", "Best Visual Effects"],
     "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-    "afi_ranking": 66,
+    "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0133093/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/matrix"
   },
@@ -54,88 +68,29 @@
       "name": "David Fincher",
       "imdb_person_url": "https://www.imdb.com/name/nm0000399/"
     },
-    "production_studio": "20th Century Fox, Fox 2000 Pictures, Regency Enterprises",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
     "runtime_minutes": 139,
     "budget_usd_millions": 63,
     "gross_revenue_usd_millions": 101.2,
     "ratings": {
       "imdb": 8.8,
-      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_critic": "79%",
       "rotten_tomatoes_popcorn": "96%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Brad Pitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
-      },
-      {
-        "name": "Edward Norton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001570/"
-      },
-      {
-        "name": "Helena Bonham Carter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000307/"
-      }
+      { "name": "Brad Pitt", "imdb_person_url": "https://www.imdb.com/name/nm0000093/" },
+      { "name": "Edward Norton", "imdb_person_url": "https://www.imdb.com/name/nm0001570/" },
+      { "name": "Helena Bonham Carter", "imdb_person_url": "https://www.imdb.com/name/nm0000307/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more.",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0137523/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fight_club"
-  },
-  {
-    "title": "American Beauty",
-    "year": 1999,
-    "director": {
-      "name": "Sam Mendes",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005222/"
-    },
-    "production_studio": "DreamWorks, Jinks/Cohen Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 356.3,
-    "ratings": {
-      "imdb": 8.3,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Kevin Spacey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000228/"
-      },
-      {
-        "name": "Annette Bening",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000906/"
-      },
-      {
-        "name": "Thora Birch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000301/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 5,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor in a Leading Role",
-      "Best Writing, Screenplay Written Directly for the Screen",
-      "Best Cinematography"
-    ],
-    "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0169547/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_beauty"
   },
   {
     "title": "The Sixth Sense",
@@ -144,7 +99,7 @@
       "name": "M. Night Shyamalan",
       "imdb_person_url": "https://www.imdb.com/name/nm0796117/"
     },
-    "production_studio": "Hollywood Pictures, Spyglass Entertainment",
+    "production_studio": "Hollywood Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 107,
     "budget_usd_millions": 40,
@@ -154,29 +109,16 @@
       "rotten_tomatoes_critic": "86%",
       "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery"
-    ],
+    "genres": ["Drama", "Mystery", "Thriller"],
     "actors": [
-      {
-        "name": "Bruce Willis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
-      },
-      {
-        "name": "Haley Joel Osment",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005286/"
-      },
-      {
-        "name": "Toni Collette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001057/"
-      }
+      { "name": "Bruce Willis", "imdb_person_url": "https://www.imdb.com/name/nm0000246/" },
+      { "name": "Haley Joel Osment", "imdb_person_url": "https://www.imdb.com/name/nm0005286/" },
+      { "name": "Toni Collette", "imdb_person_url": "https://www.imdb.com/name/nm0001057/" }
     ],
     "oscars_nominated": 6,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A boy who communicates with spirits that don't know they're dead seeks the help of a disheartened child psychologist.",
+    "description": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
     "afi_ranking": 89,
     "imdb_url": "https://www.imdb.com/title/tt0167404/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sixth_sense"
@@ -188,7 +130,7 @@
       "name": "Frank Darabont",
       "imdb_person_url": "https://www.imdb.com/name/nm0001104/"
     },
-    "production_studio": "Warner Bros., Castle Rock Entertainment",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 189,
     "budget_usd_millions": 60,
@@ -198,24 +140,11 @@
       "rotten_tomatoes_critic": "79%",
       "rotten_tomatoes_popcorn": "94%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Fantasy"
-    ],
+    "genres": ["Crime", "Drama", "Fantasy"],
     "actors": [
-      {
-        "name": "Tom Hanks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
-      },
-      {
-        "name": "Michael Clarke Duncan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0003817/"
-      },
-      {
-        "name": "David Morse",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001556/"
-      }
+      { "name": "Tom Hanks", "imdb_person_url": "https://www.imdb.com/name/nm0000158/" },
+      { "name": "Michael Clarke Duncan", "imdb_person_url": "https://www.imdb.com/name/nm0004887/" },
+      { "name": "David Morse", "imdb_person_url": "https://www.imdb.com/name/nm0001556/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
@@ -226,55 +155,13 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/green_mile"
   },
   {
-    "title": "Magnolia",
-    "year": 1999,
-    "director": {
-      "name": "Paul Thomas Anderson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000759/"
-    },
-    "production_studio": "New Line Cinema, Ghoulardi Film Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 188,
-    "budget_usd_millions": 37,
-    "gross_revenue_usd_millions": 48.5,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
-      },
-      {
-        "name": "Jason Robards",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
-      },
-      {
-        "name": "Julianne Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An epic mosaic of interconnected characters in search of love, forgiveness, and meaning in the San Fernando Valley.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0175880/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/magnolia"
-  },
-  {
     "title": "Toy Story 2",
     "year": 1999,
     "director": {
-      "name": "John Lasseter, Ash Brannon, Lee Unkrich",
+      "name": "John Lasseter",
       "imdb_person_url": "https://www.imdb.com/name/nm0005124/"
     },
-    "production_studio": "Pixar Animation Studios, Walt Disney Pictures",
+    "production_studio": "Pixar",
     "mpaa_rating": "G",
     "runtime_minutes": 92,
     "budget_usd_millions": 90,
@@ -282,34 +169,52 @@
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "actors": [
-      {
-        "name": "Tom Hanks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
-      },
-      {
-        "name": "Tim Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000741/"
-      },
-      {
-        "name": "Joan Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000349/"
-      }
+      { "name": "Tom Hanks", "imdb_person_url": "https://www.imdb.com/name/nm0000158/" },
+      { "name": "Tim Allen", "imdb_person_url": "https://www.imdb.com/name/nm0000741/" },
+      { "name": "Joan Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0000349/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save him.",
+    "description": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save him before he becomes a museum property.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0120363/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/toy_story_2"
+  },
+  {
+    "title": "Magnolia",
+    "year": 1999,
+    "director": {
+      "name": "Paul Thomas Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000759/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 188,
+    "budget_usd_millions": 37,
+    "gross_revenue_usd_millions": 48.5,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Tom Cruise", "imdb_person_url": "https://www.imdb.com/name/nm0000129/" },
+      { "name": "Philip Seymour Hoffman", "imdb_person_url": "https://www.imdb.com/name/nm0000450/" },
+      { "name": "Julianne Moore", "imdb_person_url": "https://www.imdb.com/name/nm0000194/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An epic mosaic of interrelated characters in search of love, forgiveness, and meaning in the San Fernando Valley.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0175880/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/magnolia"
   },
   {
     "title": "Being John Malkovich",
@@ -318,34 +223,21 @@
       "name": "Spike Jonze",
       "imdb_person_url": "https://www.imdb.com/name/nm0005069/"
     },
-    "production_studio": "Gramercy Pictures, Propaganda Films",
+    "production_studio": "Gramercy Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 113,
     "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 23.1,
+    "gross_revenue_usd_millions": 22.9,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "87%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
+    "genres": ["Comedy", "Drama", "Fantasy"],
     "actors": [
-      {
-        "name": "John Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000131/"
-      },
-      {
-        "name": "Cameron Diaz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000139/"
-      },
-      {
-        "name": "Catherine Keener",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001416/"
-      }
+      { "name": "John Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0000131/" },
+      { "name": "Cameron Diaz", "imdb_person_url": "https://www.imdb.com/name/nm0000139/" },
+      { "name": "Catherine Keener", "imdb_person_url": "https://www.imdb.com/name/nm0001416/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
@@ -356,55 +248,104 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/being_john_malkovich"
   },
   {
+    "title": "Eyes Wide Shut",
+    "year": 1999,
+    "director": {
+      "name": "Stanley Kubrick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000040/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 159,
+    "budget_usd_millions": 65,
+    "gross_revenue_usd_millions": 162,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Drama", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Tom Cruise", "imdb_person_url": "https://www.imdb.com/name/nm0000129/" },
+      { "name": "Nicole Kidman", "imdb_person_url": "https://www.imdb.com/name/nm0000173/" },
+      { "name": "Sydney Pollack", "imdb_person_url": "https://www.imdb.com/name/nm0001628/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A New York City doctor embarks on a harrowing, night-long odyssey of sexual and moral discovery after his wife admits she once almost cheated on him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120663/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eyes_wide_shut"
+  },
+  {
     "title": "The Insider",
     "year": 1999,
     "director": {
       "name": "Michael Mann",
       "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
     },
-    "production_studio": "Touchstone Pictures, Mann/Roth Productions",
+    "production_studio": "Touchstone Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 157,
-    "budget_usd_millions": 90,
-    "gross_revenue_usd_millions": 60.3,
+    "budget_usd_millions": 68,
+    "gross_revenue_usd_millions": 60.2,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Thriller"
-    ],
+    "genres": ["Biography", "Drama", "Thriller"],
     "actors": [
-      {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
-      },
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Christopher Plummer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001626/"
-      }
+      { "name": "Russell Crowe", "imdb_person_url": "https://www.imdb.com/name/nm0000128/" },
+      { "name": "Al Pacino", "imdb_person_url": "https://www.imdb.com/name/nm0000199/" },
+      { "name": "Christopher Plummer", "imdb_person_url": "https://www.imdb.com/name/nm0001626/" }
     ],
     "oscars_nominated": 7,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A research chemist comes under personal and professional attack when he decides to appear in a '60 Minutes' exposé on Big Tobacco.",
+    "description": "A research chemist comes under personal and professional attack when he decides to appear in a '60 Minutes' expose on Big Tobacco.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0140352/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/insider"
+  },
+  {
+    "title": "The Talented Mr. Ripley",
+    "year": 1999,
+    "director": {
+      "name": "Anthony Minghella",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005237/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 139,
+    "budget_usd_millions": 40,
+    "gross_revenue_usd_millions": 128.8,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Matt Damon", "imdb_person_url": "https://www.imdb.com/name/nm0000354/" },
+      { "name": "Gwyneth Paltrow", "imdb_person_url": "https://www.imdb.com/name/nm0000569/" },
+      { "name": "Jude Law", "imdb_person_url": "https://www.imdb.com/name/nm0000179/" }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In late 1950s New York, a young underachiever is sent to Italy to retrieve a rich and spoiled millionaire playboy, but when the mission fails, he takes extreme measures.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0134119/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/talented_mr_ripley"
   },
   {
     "title": "Office Space",
     "year": 1999,
     "director": {
       "name": "Mike Judge",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0431911/"
     },
     "production_studio": "20th Century Fox",
     "mpaa_rating": "R",
@@ -416,22 +357,11 @@
       "rotten_tomatoes_critic": "80%",
       "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Comedy"
-    ],
+    "genres": ["Comedy"],
     "actors": [
-      {
-        "name": "Ron Livingston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0515273/"
-      },
-      {
-        "name": "Jennifer Aniston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000098/"
-      },
-      {
-        "name": "David Herman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0379110/"
-      }
+      { "name": "Ron Livingston", "imdb_person_url": "https://www.imdb.com/name/nm0515296/" },
+      { "name": "Jennifer Aniston", "imdb_person_url": "https://www.imdb.com/name/nm0000098/" },
+      { "name": "Gary Cole", "imdb_person_url": "https://www.imdb.com/name/nm0170550/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -442,215 +372,27 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/office_space"
   },
   {
-    "title": "The Blair Witch Project",
-    "year": 1999,
-    "director": {
-      "name": "Daniel Myrick, Eduardo Sánchez",
-      "imdb_person_url": "https://www.imdb.com/name/nm0617228/"
-    },
-    "production_studio": "Haxan Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 81,
-    "budget_usd_millions": 0.06,
-    "gross_revenue_usd_millions": 248.6,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Heather Donahue",
-        "imdb_person_url": "https://www.imdb.com/name/nm0231907/"
-      },
-      {
-        "name": "Michael C. Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0931238/"
-      },
-      {
-        "name": "Joshua Leonard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005141/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0185937/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blair_witch_project"
-  },
-  {
-    "title": "Eyes Wide Shut",
-    "year": 1999,
-    "director": {
-      "name": "Stanley Kubrick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000040/"
-    },
-    "production_studio": "Warner Bros., Stanley Kubrick Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 159,
-    "budget_usd_millions": 65,
-    "gross_revenue_usd_millions": 162.1,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
-      },
-      {
-        "name": "Nicole Kidman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
-      },
-      {
-        "name": "Madison Eginton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0250669/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A New York City doctor embarks on a bizarre, night-long odyssey of sexual and moral discovery after his wife reveals a painful secret to him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120663/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eyes_wide_shut"
-  },
-  {
-    "title": "The Mummy",
-    "year": 1999,
-    "director": {
-      "name": "Stephen Sommers",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001755/"
-    },
-    "production_studio": "Universal Pictures, Alphaville Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 80,
-    "gross_revenue_usd_millions": 416.4,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "61%",
-      "rotten_tomatoes_popcorn": "75%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Brendan Fraser",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000409/"
-      },
-      {
-        "name": "Rachel Weisz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001838/"
-      },
-      {
-        "name": "John Hannah",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001314/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0120616/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mummy"
-  },
-  {
-    "title": "Notting Hill",
-    "year": 1999,
-    "director": {
-      "name": "Roger Michell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0585090/"
-    },
-    "production_studio": "PolyGram Filmed Entertainment, Working Title Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 42,
-    "gross_revenue_usd_millions": 363.9,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Hugh Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000424/"
-      },
-      {
-        "name": "Julia Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
-      },
-      {
-        "name": "Richard McCabe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0564344/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The life of a simple bookshop owner changes when he meets the most famous film star in the world.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0125439/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/notting_hill"
-  },
-  {
     "title": "The Iron Giant",
     "year": 1999,
     "director": {
       "name": "Brad Bird",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000946/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0083348/"
     },
-    "production_studio": "Warner Bros. Feature Animation",
+    "production_studio": "Warner Bros. Animation",
     "mpaa_rating": "PG",
     "runtime_minutes": 86,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 31.3,
+    "budget_usd_millions": 50,
+    "gross_revenue_usd_millions": 23.3,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure"
-    ],
+    "genres": ["Animation", "Action", "Adventure"],
     "actors": [
-      {
-        "name": "Eli Marienthal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0547184/"
-      },
-      {
-        "name": "Vin Diesel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004874/"
-      },
-      {
-        "name": "Jennifer Aniston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000098/"
-      }
+      { "name": "Eli Marienthal", "imdb_person_url": "https://www.imdb.com/name/nm0547295/" },
+      { "name": "Vin Diesel", "imdb_person_url": "https://www.imdb.com/name/nm0004874/" },
+      { "name": "Jennifer Aniston", "imdb_person_url": "https://www.imdb.com/name/nm0000098/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -661,11 +403,352 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/iron_giant"
   },
   {
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "year": 1999,
+    "director": {
+      "name": "George Lucas",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
+    },
+    "production_studio": "Lucasfilm",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 136,
+    "budget_usd_millions": 115,
+    "gross_revenue_usd_millions": 1027,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "52%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "actors": [
+      { "name": "Liam Neeson", "imdb_person_url": "https://www.imdb.com/name/nm0000553/" },
+      { "name": "Ewan McGregor", "imdb_person_url": "https://www.imdb.com/name/nm0000191/" },
+      { "name": "Natalie Portman", "imdb_person_url": "https://www.imdb.com/name/nm0000204/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120915/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/star_wars_episode_i_the_phantom_menace"
+  },
+  {
+    "title": "The Mummy",
+    "year": 1999,
+    "director": {
+      "name": "Stephen Sommers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0814015/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 80,
+    "gross_revenue_usd_millions": 415.9,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "actors": [
+      { "name": "Brendan Fraser", "imdb_person_url": "https://www.imdb.com/name/nm0000409/" },
+      { "name": "Rachel Weisz", "imdb_person_url": "https://www.imdb.com/name/nm0001838/" },
+      { "name": "John Hannah", "imdb_person_url": "https://www.imdb.com/name/nm0001314/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120616/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1087270-mummy"
+  },
+  {
+    "title": "Girl, Interrupted",
+    "year": 1999,
+    "director": {
+      "name": "James Mangold",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003506/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 40,
+    "gross_revenue_usd_millions": 48.3,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "53%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Biography", "Drama"],
+    "actors": [
+      { "name": "Winona Ryder", "imdb_person_url": "https://www.imdb.com/name/nm0000213/" },
+      { "name": "Angelina Jolie", "imdb_person_url": "https://www.imdb.com/name/nm0001401/" },
+      { "name": "Brittany Murphy", "imdb_person_url": "https://www.imdb.com/name/nm0005261/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actress in a Supporting Role"],
+    "description": "Based on writer Susanna Kaysen's account of her 18-month stay at a mental hospital in the late 1960s.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0138444/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/girl_interrupted"
+  },
+  {
+    "title": "Notting Hill",
+    "year": 1999,
+    "director": {
+      "name": "Roger Michell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0584988/"
+    },
+    "production_studio": "Polygram Filmed Entertainment",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 42,
+    "gross_revenue_usd_millions": 363.8,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Julia Roberts", "imdb_person_url": "https://www.imdb.com/name/nm0000210/" },
+      { "name": "Hugh Grant", "imdb_person_url": "https://www.imdb.com/name/nm0000157/" },
+      { "name": "Rhys Ifans", "imdb_person_url": "https://www.imdb.com/name/nm0406975/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The life of a simple bookshop owner changes when he meets the most famous film star in the world.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0125439/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/notting_hill"
+  },
+  {
+    "title": "Boys Don't Cry",
+    "year": 1999,
+    "director": {
+      "name": "Kimberly Peirce",
+      "imdb_person_url": "https://www.imdb.com/name/nm0670461/"
+    },
+    "production_studio": "Fox Searchlight",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 20.7,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Biography", "Crime", "Drama"],
+    "actors": [
+      { "name": "Hilary Swank", "imdb_person_url": "https://www.imdb.com/name/nm0005476/" },
+      { "name": "Chloë Sevigny", "imdb_person_url": "https://www.imdb.com/name/nm0001721/" },
+      { "name": "Peter Sarsgaard", "imdb_person_url": "https://www.imdb.com/name/nm0765597/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actress in a Leading Role"],
+    "description": "A young man named Brandon Teena navigates love, life, and being transgender in rural Nebraska.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0171804/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boys_dont_cry"
+  },
+  {
+    "title": "Election",
+    "year": 1999,
+    "director": {
+      "name": "Alexander Payne",
+      "imdb_person_url": "https://www.imdb.com/name/nm0668247/"
+    },
+    "production_studio": "MTV Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 25,
+    "gross_revenue_usd_millions": 14.9,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Matthew Broderick", "imdb_person_url": "https://www.imdb.com/name/nm0000111/" },
+      { "name": "Reese Witherspoon", "imdb_person_url": "https://www.imdb.com/name/nm0000702/" },
+      { "name": "Chris Klein", "imdb_person_url": "https://www.imdb.com/name/nm0005098/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A high school teacher's personal life unravels as he actively works to sabotage a high-achieving student's campaign for student body president.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0126886/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/election"
+  },
+  {
+    "title": "The Blair Witch Project",
+    "year": 1999,
+    "director": {
+      "name": "Daniel Myrick & Eduardo Sánchez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0617128/"
+    },
+    "production_studio": "Haxan Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 0.06,
+    "gross_revenue_usd_millions": 248.6,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Horror", "Mystery"],
+    "actors": [
+      { "name": "Heather Donahue", "imdb_person_url": "https://www.imdb.com/name/nm0232004/" },
+      { "name": "Joshua Leonard", "imdb_person_url": "https://www.imdb.com/name/nm0502673/" },
+      { "name": "Michael C. Williams", "imdb_person_url": "https://www.imdb.com/name/nm0931307/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0185937/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blair_witch_project"
+  },
+  {
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "year": 1999,
+    "director": {
+      "name": "Jay Roach",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005372/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 33,
+    "gross_revenue_usd_millions": 312,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "53%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Mike Myers", "imdb_person_url": "https://www.imdb.com/name/nm0000196/" },
+      { "name": "Heather Graham", "imdb_person_url": "https://www.imdb.com/name/nm0001287/" },
+      { "name": "Michael York", "imdb_person_url": "https://www.imdb.com/name/nm0001868/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Dr. Evil travels back in time to 1969 and steals Austin Powers's 'mojo', prompting Austin to return to the swinging sixties to retrieve it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0145660/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/austin_powers_the_spy_who_shagged_me"
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "year": 1999,
+    "director": {
+      "name": "Gil Junger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0432646/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 30,
+    "gross_revenue_usd_millions": 53.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Heath Ledger", "imdb_person_url": "https://www.imdb.com/name/nm0005132/" },
+      { "name": "Julia Stiles", "imdb_person_url": "https://www.imdb.com/name/nm0005466/" },
+      { "name": "Joseph Gordon-Levitt", "imdb_person_url": "https://www.imdb.com/name/nm0330687/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pretty, popular teenager can't go out on a date until her ill-tempered older sister does.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0147800/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/10_things_i_hate_about_you"
+  },
+  {
+    "title": "Cruel Intentions",
+    "year": 1999,
+    "director": {
+      "name": "Roger Kumble",
+      "imdb_person_url": "https://www.imdb.com/name/nm0474951/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 10.5,
+    "gross_revenue_usd_millions": 75.9,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "54%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Sarah Michelle Gellar", "imdb_person_url": "https://www.imdb.com/name/nm0001264/" },
+      { "name": "Ryan Phillippe", "imdb_person_url": "https://www.imdb.com/name/nm0005310/" },
+      { "name": "Reese Witherspoon", "imdb_person_url": "https://www.imdb.com/name/nm0000702/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two vicious step-siblings of an elite Manhattan prep school make a wager: to deflower the new headmaster's daughter before the start of term.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0139134/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cruel_intentions"
+  },
+  {
+    "title": "The Virgin Suicides",
+    "year": 1999,
+    "director": {
+      "name": "Sofia Coppola",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001068/"
+    },
+    "production_studio": "American Zoetrope",
+    "mpaa_rating": "R",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 10.4,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Kirsten Dunst", "imdb_person_url": "https://www.imdb.com/name/nm0000379/" },
+      { "name": "Josh Hartnett", "imdb_person_url": "https://www.imdb.com/name/nm0001326/" },
+      { "name": "James Woods", "imdb_person_url": "https://www.imdb.com/name/nm0000249/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0159097/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/virgin_suicides"
+  },
+  {
     "title": "Galaxy Quest",
     "year": 1999,
     "director": {
       "name": "Dean Parisot",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001597/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0661664/"
     },
     "production_studio": "DreamWorks",
     "mpaa_rating": "PG",
@@ -675,26 +758,13 @@
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "78%"
     },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
+    "genres": ["Adventure", "Comedy", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Tim Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000741/"
-      },
-      {
-        "name": "Sigourney Weaver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000244/"
-      },
-      {
-        "name": "Alan Rickman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000614/"
-      }
+      { "name": "Tim Allen", "imdb_person_url": "https://www.imdb.com/name/nm0000741/" },
+      { "name": "Sigourney Weaver", "imdb_person_url": "https://www.imdb.com/name/nm0000244/" },
+      { "name": "Alan Rickman", "imdb_person_url": "https://www.imdb.com/name/nm0000614/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -705,13 +775,261 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/galaxy_quest"
   },
   {
+    "title": "Tarzan",
+    "year": 1999,
+    "director": {
+      "name": "Chris Buck & Kevin Lima",
+      "imdb_person_url": "https://www.imdb.com/name/nm0118338/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 130,
+    "gross_revenue_usd_millions": 448.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Animation", "Adventure", "Family"],
+    "actors": [
+      { "name": "Tony Goldwyn", "imdb_person_url": "https://www.imdb.com/name/nm0001282/" },
+      { "name": "Minnie Driver", "imdb_person_url": "https://www.imdb.com/name/nm0000378/" },
+      { "name": "Glenn Close", "imdb_person_url": "https://www.imdb.com/name/nm0000335/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Music, Original Song"],
+    "description": "A man raised by gorillas must decide where he really belongs when he discovers he is a human.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120855/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tarzan"
+  },
+  {
+    "title": "South Park: Bigger, Longer & Uncut",
+    "year": 1999,
+    "director": {
+      "name": "Trey Parker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005295/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 21,
+    "gross_revenue_usd_millions": 83.1,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Animation", "Comedy", "Musical"],
+    "actors": [
+      { "name": "Trey Parker", "imdb_person_url": "https://www.imdb.com/name/nm0005295/" },
+      { "name": "Matt Stone", "imdb_person_url": "https://www.imdb.com/name/nm0832041/" },
+      { "name": "Mary Kay Bergman", "imdb_person_url": "https://www.imdb.com/name/nm0074820/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When the four boys see an R-rated movie featuring Canadians Terrance and Phillip, they are pronounced 'corrupted', and their parents pressure the United States to wage war against Canada.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0158983/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/south_park_bigger_longer_and_uncut"
+  },
+  {
+    "title": "Sleepy Hollow",
+    "year": 1999,
+    "director": {
+      "name": "Tim Burton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000318/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 100,
+    "gross_revenue_usd_millions": 206.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Fantasy", "Horror", "Mystery"],
+    "actors": [
+      { "name": "Johnny Depp", "imdb_person_url": "https://www.imdb.com/name/nm0000136/" },
+      { "name": "Christina Ricci", "imdb_person_url": "https://www.imdb.com/name/nm0000207/" },
+      { "name": "Miranda Richardson", "imdb_person_url": "https://www.imdb.com/name/nm0001669/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Art Direction-Set Decoration"],
+    "description": "Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of three people, with the culprit being the legendary apparition, the Headless Horseman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0162661/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sleepy_hollow"
+  },
+  {
+    "title": "Man on the Moon",
+    "year": 1999,
+    "director": {
+      "name": "Milos Forman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001231/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 82,
+    "gross_revenue_usd_millions": 47.4,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Biography", "Comedy", "Drama"],
+    "actors": [
+      { "name": "Jim Carrey", "imdb_person_url": "https://www.imdb.com/name/nm0000120/" },
+      { "name": "Danny DeVito", "imdb_person_url": "https://www.imdb.com/name/nm0000362/" },
+      { "name": "Courtney Love", "imdb_person_url": "https://www.imdb.com/name/nm0000504/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A biographical film about the late comedian Andy Kaufman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0125664/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_on_the_moon"
+  },
+  {
+    "title": "All About My Mother",
+    "year": 1999,
+    "director": {
+      "name": "Pedro Almodóvar",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
+    },
+    "production_studio": "El Deseo",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 67.9,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Cecilia Roth", "imdb_person_url": "https://www.imdb.com/name/nm0744836/" },
+      { "name": "Marisa Paredes", "imdb_person_url": "https://www.imdb.com/name/nm0661159/" },
+      { "name": "Penélope Cruz", "imdb_person_url": "https://www.imdb.com/name/nm0004851/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Foreign Language Film"],
+    "description": "A grieving mother travels to Barcelona to find her son's father, a transgender woman named Lola.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0185125/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/all_about_my_mother"
+  },
+  {
+    "title": "Three Kings",
+    "year": 1999,
+    "director": {
+      "name": "David O. Russell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0751102/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 48,
+    "gross_revenue_usd_millions": 107.7,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "George Clooney", "imdb_person_url": "https://www.imdb.com/name/nm0000123/" },
+      { "name": "Mark Wahlberg", "imdb_person_url": "https://www.imdb.com/name/nm0001823/" },
+      { "name": "Ice Cube", "imdb_person_url": "https://www.imdb.com/name/nm0001084/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the aftermath of the Persian Gulf War, four soldiers set out to steal gold that was stolen from Kuwait, but they discover people who desperately need their help.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120188/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_kings"
+  },
+  {
+    "title": "Dogma",
+    "year": 1999,
+    "director": {
+      "name": "Kevin Smith",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
+    },
+    "production_studio": "View Askew Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 130,
+    "budget_usd_millions": 10,
+    "gross_revenue_usd_millions": 44,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Adventure", "Comedy", "Fantasy"],
+    "actors": [
+      { "name": "Ben Affleck", "imdb_person_url": "https://www.imdb.com/name/nm0000255/" },
+      { "name": "Matt Damon", "imdb_person_url": "https://www.imdb.com/name/nm0000354/" },
+      { "name": "Linda Fiorentino", "imdb_person_url": "https://www.imdb.com/name/nm0000400/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to re-enter heaven.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120655/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dogma"
+  },
+  {
+    "title": "The Cider House Rules",
+    "year": 1999,
+    "director": {
+      "name": "Lasse Hallström",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002120/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 24,
+    "gross_revenue_usd_millions": 88.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Tobey Maguire", "imdb_person_url": "https://www.imdb.com/name/nm0000513/" },
+      { "name": "Charlize Theron", "imdb_person_url": "https://www.imdb.com/name/nm0000232/" },
+      { "name": "Michael Caine", "imdb_person_url": "https://www.imdb.com/name/nm0000323/" }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Actor in a Supporting Role", "Best Screenplay, Based on Material Previously Produced or Published"],
+    "description": "A compassionate young man, raised in an orphanage and trained to be a doctor there, decides to leave to see the world.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0124315/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cider_house_rules"
+  },
+  {
     "title": "American Pie",
     "year": 1999,
     "director": {
-      "name": "Paul Weitz, Chris Weitz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002825/"
+      "name": "Paul Weitz & Chris Weitz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0919385/"
     },
-    "production_studio": "Universal Pictures, Summit Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 95,
     "budget_usd_millions": 11,
@@ -719,24 +1037,13 @@
     "ratings": {
       "imdb": 7.0,
       "rotten_tomatoes_critic": "61%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_popcorn": "61%"
     },
-    "genres": [
-      "Comedy"
-    ],
+    "genres": ["Comedy"],
     "actors": [
-      {
-        "name": "Jason Biggs",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004755/"
-      },
-      {
-        "name": "Chris Klein",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
-      },
-      {
-        "name": "Thomas Ian Nicholas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001569/"
-      }
+      { "name": "Jason Biggs", "imdb_person_url": "https://www.imdb.com/name/nm0004755/" },
+      { "name": "Chris Klein", "imdb_person_url": "https://www.imdb.com/name/nm0005098/" },
+      { "name": "Seann William Scott", "imdb_person_url": "https://www.imdb.com/name/nm0005405/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -747,534 +1054,499 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_pie"
   },
   {
-    "title": "The Talented Mr. Ripley",
+    "title": "Big Daddy",
     "year": 1999,
     "director": {
-      "name": "Anthony Minghella",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005235/"
+      "name": "Dennis Dugan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0240826/"
     },
-    "production_studio": "Miramax, Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 128.8,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Matt Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
-      },
-      {
-        "name": "Gwyneth Paltrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000569/"
-      },
-      {
-        "name": "Jude Law",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In late 1950s New York, Tom Ripley, a young underachiever, is sent to Italy to retrieve a rich and spoiled millionaire playboy, named Dickie Greenleaf. But when the errand fails, Ripley takes extreme measures.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0134119/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/talented_mr_ripley"
-  },
-  {
-    "title": "Runaway Bride",
-    "year": 1999,
-    "director": {
-      "name": "Garry Marshall",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005190/"
-    },
-    "production_studio": "Paramount Pictures, Touchstone Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 70,
-    "gross_revenue_usd_millions": 309.5,
-    "ratings": {
-      "imdb": 5.6,
-      "rotten_tomatoes_critic": "46%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Julia Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
-      },
-      {
-        "name": "Richard Gere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
-      },
-      {
-        "name": "Joan Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000349/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A reporter is assigned to write a story about a woman who has left a string of fiancés at the altar.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0163187/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/runaway_bride"
-  },
-  {
-    "title": "The World Is Not Enough",
-    "year": 1999,
-    "director": {
-      "name": "Michael Apted",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000776/"
-    },
-    "production_studio": "Eon Productions, Metro-Goldwyn-Mayer",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 135,
-    "gross_revenue_usd_millions": 361.8,
+    "runtime_minutes": 93,
+    "budget_usd_millions": 34,
+    "gross_revenue_usd_millions": 234.8,
     "ratings": {
       "imdb": 6.4,
-      "rotten_tomatoes_critic": "52%",
-      "rotten_tomatoes_popcorn": "51%"
+      "rotten_tomatoes_critic": "39%",
+      "rotten_tomatoes_popcorn": "75%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
+    "genres": ["Comedy", "Drama"],
     "actors": [
-      {
-        "name": "Pierce Brosnan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000112/"
-      },
-      {
-        "name": "Sophie Marceau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000521/"
-      },
-      {
-        "name": "Robert Carlyle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001015/"
-      }
+      { "name": "Adam Sandler", "imdb_person_url": "https://www.imdb.com/name/nm0001191/" },
+      { "name": "Joey Lauren Adams", "imdb_person_url": "https://www.imdb.com/name/nm0000725/" },
+      { "name": "Jon Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0005467/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "James Bond uncovers a nuclear plot when he protects an oil heiress from her former kidnapper, an international terrorist who can't feel pain.",
+    "description": "A lazy law school grad adopts a kid to impress his girlfriend, but everything doesn't go as planned and he becomes the unlikely foster father.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0143145/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/world_is_not_enough"
+    "imdb_url": "https://www.imdb.com/title/tt0142342/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_daddy"
   },
   {
-    "title": "Election",
+    "title": "Deep Blue Sea",
     "year": 1999,
     "director": {
-      "name": "Alexander Payne",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001598/"
+      "name": "Renny Harlin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001317/"
     },
-    "production_studio": "Paramount Pictures, MTV Films",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 17.2,
+    "runtime_minutes": 105,
+    "budget_usd_millions": 60,
+    "gross_revenue_usd_millions": 164.6,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "92%",
+      "imdb": 5.9,
+      "rotten_tomatoes_critic": "59%",
+      "rotten_tomatoes_popcorn": "39%"
+    },
+    "genres": ["Action", "Horror", "Sci-Fi"],
+    "actors": [
+      { "name": "Thomas Jane", "imdb_person_url": "https://www.imdb.com/name/nm0005048/" },
+      { "name": "Saffron Burrows", "imdb_person_url": "https://www.imdb.com/name/nm0004787/" },
+      { "name": "Samuel L. Jackson", "imdb_person_url": "https://www.imdb.com/name/nm0000168/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Searching for a cure to Alzheimer's disease, a group of scientists on an isolated research facility become the prey, as a trio of intelligent sharks fight back.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0149261/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/deep_blue_sea"
+  },
+  {
+    "title": "Run Lola Run",
+    "year": 1999,
+    "director": {
+      "name": "Tom Tykwer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0878756/"
+    },
+    "production_studio": "X-Filme Creative Pool",
+    "mpaa_rating": "R",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 22.9,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": ["Action", "Crime", "Thriller"],
+    "actors": [
+      { "name": "Franka Potente", "imdb_person_url": "https://www.imdb.com/name/nm0001631/" },
+      { "name": "Moritz Bleibtreu", "imdb_person_url": "https://www.imdb.com/name/nm0000950/" },
+      { "name": "Herbert Knaup", "imdb_person_url": "https://www.imdb.com/name/nm0460165/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0130827/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/run_lola_run"
+  },
+  {
+    "title": "The Boondock Saints",
+    "year": 1999,
+    "director": {
+      "name": "Troy Duffy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0240646/"
+    },
+    "production_studio": "Franchise Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 0.03,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "28%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": ["Action", "Crime", "Thriller"],
+    "actors": [
+      { "name": "Willem Dafoe", "imdb_person_url": "https://www.imdb.com/name/nm0000353/" },
+      { "name": "Sean Patrick Flanery", "imdb_person_url": "https://www.imdb.com/name/nm0001218/" },
+      { "name": "Norman Reedus", "imdb_person_url": "https://www.imdb.com/name/nm0005342/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two Irish Catholic brothers become vigilantes and wipe out Boston's criminal underworld in the name of God.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0144117/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boondock_saints"
+  },
+  {
+    "title": "Audition",
+    "year": 1999,
+    "director": {
+      "name": "Takashi Miike",
+      "imdb_person_url": "https://www.imdb.com/name/nm0586174/"
+    },
+    "production_studio": "Omega Project",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 0.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Drama", "Horror", "Mystery"],
+    "actors": [
+      { "name": "Ryo Ishibashi", "imdb_person_url": "https://www.imdb.com/name/nm0410892/" },
+      { "name": "Eihi Shiina", "imdb_person_url": "https://www.imdb.com/name/nm0793120/" },
+      { "name": "Tetsu Sawaki", "imdb_person_url": "https://www.imdb.com/name/nm0767971/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A widower takes an offer to screen girls at a special audition, looking for a new wife. The one he fancies is not who she appears to be.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0235198/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/audition"
+  },
+  {
+    "title": "Ghost Dog: The Way of the Samurai",
+    "year": 1999,
+    "director": {
+      "name": "Jim Jarmusch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000464/"
+    },
+    "production_studio": "Plywood Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 9.4,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "actors": [
+      { "name": "Forest Whitaker", "imdb_person_url": "https://www.imdb.com/name/nm0001845/" },
+      { "name": "Henry Silva", "imdb_person_url": "https://www.imdb.com/name/nm0798320/" },
+      { "name": "John Tormey", "imdb_person_url": "https://www.imdb.com/name/nm0868084/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An African-American Mafia hit man who models himself after the samurai of old finds himself targeted for death by the mob.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0165798/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ghost_dog_the_way_of_the_samurai"
+  },
+  {
+    "title": "Any Given Sunday",
+    "year": 1999,
+    "director": {
+      "name": "Oliver Stone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 162,
+    "budget_usd_millions": 55,
+    "gross_revenue_usd_millions": 100.2,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "52%",
       "rotten_tomatoes_popcorn": "76%"
     },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "genres": ["Drama", "Sport"],
     "actors": [
-      {
-        "name": "Matthew Broderick",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000111/"
-      },
-      {
-        "name": "Reese Witherspoon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000702/"
-      },
-      {
-        "name": "Chris Klein",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
-      }
+      { "name": "Al Pacino", "imdb_person_url": "https://www.imdb.com/name/nm0000199/" },
+      { "name": "Dennis Quaid", "imdb_person_url": "https://www.imdb.com/name/nm0000209/" },
+      { "name": "Cameron Diaz", "imdb_person_url": "https://www.imdb.com/name/nm0000139/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A behind-the-scenes look at the life-and-death struggles of modern-day gladiators and those who lead them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0146838/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/any_given_sunday"
+  },
+  {
+    "title": "Bringing Out the Dead",
+    "year": 1999,
+    "director": {
+      "name": "Martin Scorsese",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 55,
+    "gross_revenue_usd_millions": 16.8,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Drama", "Thriller"],
+    "actors": [
+      { "name": "Nicolas Cage", "imdb_person_url": "https://www.imdb.com/name/nm0000115/" },
+      { "name": "Patricia Arquette", "imdb_person_url": "https://www.imdb.com/name/nm0000096/" },
+      { "name": "John Goodman", "imdb_person_url": "https://www.imdb.com/name/nm0000422/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Haunted by the patients he failed to save, an ambulance paramedic fights to maintain his sanity over three turbulent nights in New York City.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0163988/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bringing_out_the_dead"
+  },
+  {
+    "title": "The Straight Story",
+    "year": 1999,
+    "director": {
+      "name": "David Lynch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000187/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 10,
+    "gross_revenue_usd_millions": 6.2,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": ["Biography", "Drama"],
+    "actors": [
+      { "name": "Richard Farnsworth", "imdb_person_url": "https://www.imdb.com/name/nm0002070/" },
+      { "name": "Sissy Spacek", "imdb_person_url": "https://www.imdb.com/name/nm0000651/" },
+      { "name": "Harry Dean Stanton", "imdb_person_url": "https://www.imdb.com/name/nm0001765/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A high school teacher's personal life becomes complicated as he works with students during the school elections, particularly with an obsessive overachiever.",
+    "description": "An old man makes a long journey by tractor to mend his relationship with an ill brother.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0126886/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/election"
+    "imdb_url": "https://www.imdb.com/title/tt0166896/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/straight_story"
   },
   {
     "title": "Topsy-Turvy",
     "year": 1999,
     "director": {
       "name": "Mike Leigh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001459/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0005139/"
     },
-    "production_studio": "Thin Man Films, October Films",
+    "production_studio": "Thin Man Films",
     "mpaa_rating": "R",
     "runtime_minutes": 160,
     "budget_usd_millions": 20,
     "gross_revenue_usd_millions": 6.2,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "78%"
     },
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Drama"
-    ],
+    "genres": ["Biography", "Comedy", "Drama"],
     "actors": [
-      {
-        "name": "Jim Broadbent",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000980/"
-      },
-      {
-        "name": "Allan Corduner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0179183/"
-      },
-      {
-        "name": "Lesley Manville",
-        "imdb_person_url": "https://www.imdb.com/name/nm0544334/"
-      }
+      { "name": "Jim Broadbent", "imdb_person_url": "https://www.imdb.com/name/nm0000978/" },
+      { "name": "Allan Corduner", "imdb_person_url": "https://www.imdb.com/name/nm0179653/" },
+      { "name": "Timothy Spall", "imdb_person_url": "https://www.imdb.com/name/nm0001758/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Costume Design",
-      "Best Makeup"
-    ],
-    "description": "The story of the 15-month period in 1884 and 1885 when Gilbert and Sullivan's partnership was strained, and they wrote their masterpiece, 'The Mikado'.",
+    "oscars_won_details": ["Best Costume Design", "Best Makeup"],
+    "description": "A dramatization of the relationship between Gilbert and Sullivan and their dispute that led to the writing of 'The Mikado'.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0151568/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/topsy_turvy"
   },
   {
-    "title": "10 Things I Hate About You",
+    "title": "Sweet and Lowdown",
     "year": 1999,
     "director": {
-      "name": "Gil Junger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0432241/"
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
     },
-    "production_studio": "Touchstone Pictures, Mad Chance",
+    "production_studio": "Sony Pictures Classics",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 53.5,
+    "runtime_minutes": 95,
+    "budget_usd_millions": 29,
+    "gross_revenue_usd_millions": 4.2,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "78%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Drama", "Music"],
     "actors": [
-      {
-        "name": "Heath Ledger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005132/"
-      },
-      {
-        "name": "Julia Stiles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001768/"
-      },
-      {
-        "name": "Joseph Gordon-Levitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0330687/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0147800/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/10_things_i_hate_about_you"
-  },
-  {
-    "title": "Boys Don't Cry",
-    "year": 1999,
-    "director": {
-      "name": "Kimberly Peirce",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001608/"
-    },
-    "production_studio": "Fox Searchlight Pictures, Killer Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 20.7,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Hilary Swank",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005476/"
-      },
-      {
-        "name": "Chloë Sevigny",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001721/"
-      },
-      {
-        "name": "Peter Sarsgaard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001694/"
-      }
+      { "name": "Sean Penn", "imdb_person_url": "https://www.imdb.com/name/nm0000576/" },
+      { "name": "Samantha Morton", "imdb_person_url": "https://www.imdb.com/name/nm0608090/" },
+      { "name": "Uma Thurman", "imdb_person_url": "https://www.imdb.com/name/nm0000235/" }
     ],
     "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "The true story of a young transgender man who is the victim of a brutal hate crime in rural Nebraska.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0171804/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boys_dont_cry"
-  },
-  {
-    "title": "The Talented Mr. Ripley",
-    "year": 1999,
-    "director": {
-      "name": "Anthony Minghella",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005235/"
-    },
-    "production_studio": "Miramax, Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 139,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 128.8,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Matt Damon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000354/"
-      },
-      {
-        "name": "Gwyneth Paltrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000569/"
-      },
-      {
-        "name": "Jude Law",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000179/"
-      }
-    ],
-    "oscars_nominated": 5,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In late 1950s New York, Tom Ripley, a young underachiever, is sent to Italy to retrieve a rich and spoiled millionaire playboy, named Dickie Greenleaf. But when the errand fails, Ripley takes extreme measures.",
+    "description": "In the 1930s, jazz guitarist Emmet Ray idolizes Django Reinhardt, faces gangsters, and falls in love with a mute woman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0134119/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/talented_mr_ripley"
+    "imdb_url": "https://www.imdb.com/title/tt0158371/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sweet_and_lowdown"
   },
   {
-    "title": "The Insider",
+    "title": "Go",
     "year": 1999,
     "director": {
-      "name": "Michael Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
+      "name": "Doug Liman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0510731/"
     },
-    "production_studio": "Touchstone Pictures, Mann/Roth Productions",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 157,
-    "budget_usd_millions": 90,
-    "gross_revenue_usd_millions": 60.3,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Russell Crowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
-      },
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Christopher Plummer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001626/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A research chemist comes under personal and professional attack when he decides to appear in a '60 Minutes' exposé on Big Tobacco.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0140352/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/insider"
-  },
-  {
-    "title": "The Cider House Rules",
-    "year": 1999,
-    "director": {
-      "name": "Lasse Hallström",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001311/"
-    },
-    "production_studio": "Miramax, FilmColony",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 24,
-    "gross_revenue_usd_millions": 88.5,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Tobey Maguire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001497/"
-      },
-      {
-        "name": "Charlize Theron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000234/"
-      },
-      {
-        "name": "Michael Caine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role",
-      "Best Writing, Screenplay Based on Material Previously Produced or Published"
-    ],
-    "description": "A compassionate young man, raised in an orphanage and trained to be a doctor there, decides to leave to see the world.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0124315/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cider_house_rules"
-  },
-  {
-    "title": "Galaxy Quest",
-    "year": 1999,
-    "director": {
-      "name": "Dean Parisot",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001597/"
-    },
-    "production_studio": "DreamWorks",
-    "mpaa_rating": "PG",
     "runtime_minutes": 102,
-    "budget_usd_millions": 45,
-    "gross_revenue_usd_millions": 90.7,
+    "budget_usd_millions": 20,
+    "gross_revenue_usd_millions": 28.5,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "89%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
+    "genres": ["Comedy", "Crime"],
     "actors": [
-      {
-        "name": "Tim Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000741/"
-      },
-      {
-        "name": "Sigourney Weaver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000244/"
-      },
-      {
-        "name": "Alan Rickman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000614/"
-      }
+      { "name": "Sarah Polley", "imdb_person_url": "https://www.imdb.com/name/nm0001632/" },
+      { "name": "Jay Mohr", "imdb_person_url": "https://www.imdb.com/name/nm0001542/" },
+      { "name": "Scott Wolf", "imdb_person_url": "https://www.imdb.com/name/nm0005565/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.",
+    "description": "The aftermath of a drug deal gone wrong is told from three different perspectives.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0177789/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/galaxy_quest"
+    "imdb_url": "https://www.imdb.com/title/tt0139239/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1090096-go"
   },
   {
-    "title": "Office Space",
+    "title": "eXistenZ",
     "year": 1999,
     "director": {
-      "name": "Mike Judge",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
+      "name": "David Cronenberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Dimension Films",
     "mpaa_rating": "R",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 12.2,
+    "runtime_minutes": 97,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 2.8,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "70%"
     },
-    "genres": [
-      "Comedy"
-    ],
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
     "actors": [
-      {
-        "name": "Ron Livingston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0515273/"
-      },
-      {
-        "name": "Jennifer Aniston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000098/"
-      },
-      {
-        "name": "David Herman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0379110/"
-      }
+      { "name": "Jude Law", "imdb_person_url": "https://www.imdb.com/name/nm0000179/" },
+      { "name": "Jennifer Jason Leigh", "imdb_person_url": "https://www.imdb.com/name/nm0000492/" },
+      { "name": "Ian Holm", "imdb_person_url": "https://www.imdb.com/name/nm0000453/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Three company workers who hate their jobs decide to rebel against their greedy boss.",
+    "description": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0151804/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/office_space"
+    "imdb_url": "https://www.imdb.com/title/tt0120907/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/existenz"
+  },
+  {
+    "title": "Titus",
+    "year": 1999,
+    "director": {
+      "name": "Julie Taymor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0853380/"
+    },
+    "production_studio": "Fox Searchlight",
+    "mpaa_rating": "R",
+    "runtime_minutes": 162,
+    "budget_usd_millions": 25,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "68%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Drama", "History", "Thriller"],
+    "actors": [
+      { "name": "Anthony Hopkins", "imdb_person_url": "https://www.imdb.com/name/nm0000164/" },
+      { "name": "Jessica Lange", "imdb_person_url": "https://www.imdb.com/name/nm0000486/" },
+      { "name": "Alan Cumming", "imdb_person_url": "https://www.imdb.com/name/nm0001086/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Titus Andronicus returns from war to find his life turned upside down by a vengeful queen and the corruption of Rome.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120866/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/titus"
+  },
+  {
+    "title": "Bowfinger",
+    "year": 1999,
+    "director": {
+      "name": "Frank Oz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000568/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 55,
+    "gross_revenue_usd_millions": 98.6,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "48%"
+    },
+    "genres": ["Comedy"],
+    "actors": [
+      { "name": "Steve Martin", "imdb_person_url": "https://www.imdb.com/name/nm0000188/" },
+      { "name": "Eddie Murphy", "imdb_person_url": "https://www.imdb.com/name/nm0000552/" },
+      { "name": "Heather Graham", "imdb_person_url": "https://www.imdb.com/name/nm0001287/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A desperate movie producer attempts to film a blockbuster without the lead actor knowing he is in the movie.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0120612/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bowfinger"
+  },
+  {
+    "title": "Ratcatcher",
+    "year": 1999,
+    "director": {
+      "name": "Lynne Ramsay",
+      "imdb_person_url": "https://www.imdb.com/name/nm0708730/"
+    },
+    "production_studio": "BBC Films",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 0.6,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "William Eadie", "imdb_person_url": "https://www.imdb.com/name/nm0247053/" },
+      { "name": "Tommy Flanagan", "imdb_person_url": "https://www.imdb.com/name/nm0281167/" },
+      { "name": "Mandy Matthews", "imdb_person_url": "https://www.imdb.com/name/nm0560104/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A 12-year-old boy growing up in a Glasgow housing project during the garbage strike of the 1970s harbors a dark secret.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0191397/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ratcatcher"
   }
 ]

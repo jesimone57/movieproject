@@ -1,10 +1,41 @@
 [
   {
+    "title": "Marty",
+    "year": 1955,
+    "director": {
+      "name": "Delbert Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0542706/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.34,
+    "gross_revenue_usd_millions": 3,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Ernest Borgnine", "imdb_person_url": "https://www.imdb.com/name/nm0000308/" },
+      { "name": "Betsy Blair", "imdb_person_url": "https://www.imdb.com/name/nm0086208/" },
+      { "name": "Esther Minciotti", "imdb_person_url": "https://www.imdb.com/name/nm0591066/" }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 4,
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Actor", "Best Writing, Screenplay"],
+    "description": "A middle-aged butcher and a school teacher who have given up on the idea of love meet at a dance and fall for each other.",
+    "afi_ranking": 64,
+    "imdb_url": "https://www.imdb.com/title/tt0048356/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013426-marty"
+  },
+  {
     "title": "Rebel Without a Cause",
     "year": 1955,
     "director": {
       "name": "Nicholas Ray",
-      "imdb_person_url": "https://www.imdb.com/name/nm0712948/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0712953/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "PG-13",
@@ -12,170 +43,23 @@
     "budget_usd_millions": 1.5,
     "gross_revenue_usd_millions": 4.5,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "89%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "88%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "James Dean",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000015/"
-      },
-      {
-        "name": "Natalie Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000079/"
-      },
-      {
-        "name": "Sal Mineo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001538/"
-      }
+      { "name": "James Dean", "imdb_person_url": "https://www.imdb.com/name/nm0000015/" },
+      { "name": "Natalie Wood", "imdb_person_url": "https://www.imdb.com/name/nm0000081/" },
+      { "name": "Sal Mineo", "imdb_person_url": "https://www.imdb.com/name/nm0001538/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
     "description": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies.",
     "afi_ranking": 59,
-    "imdb_url": "https://www.imdb.com/title/tt0048545/",
+    "imdb_url": "https://www.imdb.com/title/tt0048552/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rebel_without_a_cause"
-  },
-  {
-    "title": "The Night of the Hunter",
-    "year": 1955,
-    "director": {
-      "name": "Charles Laughton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
-    },
-    "production_studio": "United Artists",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 0.79,
-    "gross_revenue_usd_millions": 0.65,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Robert Mitchum",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
-      },
-      {
-        "name": "Shelley Winters",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001851/"
-      },
-      {
-        "name": "Lillian Gish",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001273/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid $10,000 he'd stolen in a robbery.",
-    "afi_ranking": 34,
-    "imdb_url": "https://www.imdb.com/title/tt0048424/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_night_of_the_hunter"
-  },
-  {
-    "title": "Marty",
-    "year": 1955,
-    "director": {
-      "name": "Delbert Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0542697/"
-    },
-    "production_studio": "United Artists",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 90,
-    "budget_usd_millions": 0.34,
-    "gross_revenue_usd_millions": 3,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Ernest Borgnine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000308/"
-      },
-      {
-        "name": "Betsy Blair",
-        "imdb_person_url": "https://www.imdb.com/name/nm0086273/"
-      },
-      {
-        "name": "Esther Minciotti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0591295/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor",
-      "Best Writing, Screenplay"
-    ],
-    "description": "A middle-aged butcher from the Bronx and a lonely school teacher meet at a dance and unexpectedly fall in love.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048356/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/marty"
-  },
-  {
-    "title": "Lady and the Tramp",
-    "year": 1955,
-    "director": {
-      "name": "Clyde Geronimi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0314488/"
-    },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 76,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 93.6,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Barbara Luddy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0524855/"
-      },
-      {
-        "name": "Larry Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0731089/"
-      },
-      {
-        "name": "Peggy Lee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0498007/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The romantic tale of a sheltered uptown Cocker Spaniel dog and a streetwise downtown Mutt.",
-    "afi_ranking": 95,
-    "imdb_url": "https://www.imdb.com/title/tt0048280/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lady_and_the_tramp"
   },
   {
     "title": "East of Eden",
@@ -186,37 +70,24 @@
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "PG",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 2.9,
+    "runtime_minutes": 115,
+    "budget_usd_millions": 1.8,
     "gross_revenue_usd_millions": 5,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "88%",
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "James Dean",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000015/"
-      },
-      {
-        "name": "Raymond Massey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002221/"
-      },
-      {
-        "name": "Julie Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
-      }
+      { "name": "James Dean", "imdb_person_url": "https://www.imdb.com/name/nm0000015/" },
+      { "name": "Raymond Massey", "imdb_person_url": "https://www.imdb.com/name/nm0002281/" },
+      { "name": "Julie Harris", "imdb_person_url": "https://www.imdb.com/name/nm0364893/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Supporting Actress"
-    ],
-    "description": "A wayward young man struggles to earn the affection of his deeply religious father while competing against his favored brother.",
+    "oscars_won_details": ["Best Actress in a Supporting Role"],
+    "description": "A willful young man vies for the love of his religious father and reconciles with his estranged mother.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0048028/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/east_of_eden"
@@ -226,133 +97,31 @@
     "year": 1955,
     "director": {
       "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 105,
     "budget_usd_millions": 1.8,
-    "gross_revenue_usd_millions": 8,
+    "gross_revenue_usd_millions": 12,
     "ratings": {
       "imdb": 7.1,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "75%"
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "81%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "Marilyn Monroe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000054/"
-      },
-      {
-        "name": "Tom Ewell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0263611/"
-      },
-      {
-        "name": "Evelyn Keyes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0450849/"
-      }
+      { "name": "Marilyn Monroe", "imdb_person_url": "https://www.imdb.com/name/nm0000054/" },
+      { "name": "Tom Ewell", "imdb_person_url": "https://www.imdb.com/name/nm0263888/" },
+      { "name": "Evelyn Keyes", "imdb_person_url": "https://www.imdb.com/name/nm0450829/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When his family goes away for the summer, a hitherto faithful husband with an overactive imagination is tempted by a beautiful new neighbor.",
-    "afi_ranking": null,
+    "description": "A faithful husband is tempted by a beautiful neighbor who moves in upstairs while his family is away for the summer.",
+    "afi_ranking": 51,
     "imdb_url": "https://www.imdb.com/title/tt0048605/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_year_itch"
-  },
-  {
-    "title": "Pather Panchali",
-    "year": 1955,
-    "director": {
-      "name": "Satyajit Ray",
-      "imdb_person_url": "https://www.imdb.com/name/nm0006249/"
-    },
-    "production_studio": "Government of West Bengal",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 0.03,
-    "gross_revenue_usd_millions": 0.1,
-    "ratings": {
-      "imdb": 8.2,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Kanu Bannerjee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052513/"
-      },
-      {
-        "name": "Karuna Bannerjee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052515/"
-      },
-      {
-        "name": "Subir Banerjee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052528/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The life of a young boy named Apu and his impoverished family in rural Bengal.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048473/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pather_panchali"
-  },
-  {
-    "title": "The Rose Tattoo",
-    "year": 1955,
-    "director": {
-      "name": "Daniel Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0542697/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 8,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Anna Magnani",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001495/"
-      },
-      {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      },
-      {
-        "name": "Marisa Pavan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0667957/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actress",
-      "Best Art Direction-Set Decoration, Black-and-White",
-      "Best Cinematography, Black-and-White"
-    ],
-    "description": "A Sicilian-American widow finds new love and learns the truth about her late husband.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048563/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_rose_tattoo"
   },
   {
     "title": "To Catch a Thief",
@@ -368,174 +137,53 @@
     "gross_revenue_usd_millions": 8.75,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Mystery",
-      "Romance",
-      "Thriller"
-    ],
+    "genres": ["Mystery", "Romance", "Thriller"],
     "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Grace Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000038/"
-      },
-      {
-        "name": "Jessie Royce Landis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0484739/"
-      }
+      { "name": "Cary Grant", "imdb_person_url": "https://www.imdb.com/name/nm0000026/" },
+      { "name": "Grace Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000038/" },
+      { "name": "Jessie Royce Landis", "imdb_person_url": "https://www.imdb.com/name/nm0484822/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Cinematography, Color"
-    ],
-    "description": "A retired jewel thief sets out to prove his innocence after he is suspected of a new series of burglaries on the French Riviera.",
+    "oscars_won_details": ["Best Cinematography, Color"],
+    "description": "A retired jewel thief sets out to prove his innocence after being suspected of returning to his former occupation.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0048728/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/to_catch_a_thief"
   },
   {
-    "title": "Mister Roberts",
+    "title": "The Night of the Hunter",
     "year": 1955,
     "director": {
-      "name": "John Ford",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+      "name": "Charles Laughton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000044/"
     },
-    "production_studio": "Warner Bros.",
+    "production_studio": "United Artists",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 21.2,
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 0.795,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "War"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "James Cagney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000010/"
-      },
-      {
-        "name": "William Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
-      }
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" },
+      { "name": "Shelley Winters", "imdb_person_url": "https://www.imdb.com/name/nm0001859/" },
+      { "name": "Lillian Gish", "imdb_person_url": "https://www.imdb.com/name/nm0001274/" }
     ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Supporting Actor"
-    ],
-    "description": "An idealistic young officer on a cargo ship in the Pacific during World War II clashes with his tyrannical captain.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048380/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mister_roberts"
-  },
-  {
-    "title": "Oklahoma!",
-    "year": 1955,
-    "director": {
-      "name": "Fred Zinnemann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
-    },
-    "production_studio": "Magna Theatre Corporation",
-    "mpaa_rating": "G",
-    "runtime_minutes": 145,
-    "budget_usd_millions": 6.8,
-    "gross_revenue_usd_millions": 7.1,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Musical",
-      "Romance",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Gordon MacRae",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001501/"
-      },
-      {
-        "name": "Gloria Grahame",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001288/"
-      },
-      {
-        "name": "Shirley Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001428/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Sound, Recording",
-      "Best Music, Scoring of a Musical Picture"
-    ],
-    "description": "In Oklahoma, several farmers, cowboys and a traveling salesman compete for the romantic favors of various local ladies.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048446/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oklahoma"
-  },
-  {
-    "title": "Bad Day at Black Rock",
-    "year": 1955,
-    "director": {
-      "name": "John Sturges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0836321/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 81,
-    "budget_usd_millions": 1.3,
-    "gross_revenue_usd_millions": 2.3,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Spencer Tracy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
-      },
-      {
-        "name": "Robert Ryan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
-      },
-      {
-        "name": "Anne Francis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001227/"
-      }
-    ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A one-armed stranger's arrival in a remote desert town after World War II uncovers a dark secret.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047849/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_day_at_black_rock"
+    "description": "A self-proclaimed preacher marries a gullible widow whose young children know where their late father hid $10,000 in stolen loot.",
+    "afi_ranking": 34,
+    "imdb_url": "https://www.imdb.com/title/tt0048424/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/night_of_the_hunter"
   },
   {
     "title": "Guys and Dolls",
@@ -544,215 +192,618 @@
       "name": "Joseph L. Mankiewicz",
       "imdb_person_url": "https://www.imdb.com/name/nm0542403/"
     },
-    "production_studio": "Samuel Goldwyn Company",
+    "production_studio": "MGM",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 150,
     "budget_usd_millions": 5.5,
-    "gross_revenue_usd_millions": 13.1,
+    "gross_revenue_usd_millions": 13,
     "ratings": {
-      "imdb": 7.2,
+      "imdb": 7.1,
       "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "83%"
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Musical"
-    ],
+    "genres": ["Comedy", "Crime", "Musical"],
     "actors": [
-      {
-        "name": "Marlon Brando",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
-      },
-      {
-        "name": "Jean Simmons",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001732/"
-      },
-      {
-        "name": "Frank Sinatra",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000069/"
-      }
+      { "name": "Marlon Brando", "imdb_person_url": "https://www.imdb.com/name/nm0000008/" },
+      { "name": "Jean Simmons", "imdb_person_url": "https://www.imdb.com/name/nm0001739/" },
+      { "name": "Frank Sinatra", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A gambler is challenged to take a cold female missionary to Havana, but they fall for each other, and the bet has a hidden motive to finance a crap game.",
-    "afi_ranking": null,
+    "description": "A gambler is challenged to take a cold female missionary to Havana, but they fall for each other, and the bet has a hidden motive to finance a craps game.",
+    "afi_ranking": 23,
     "imdb_url": "https://www.imdb.com/title/tt0048140/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/guys_and_dolls"
+  },
+  {
+    "title": "Lady and the Tramp",
+    "year": 1955,
+    "director": {
+      "name": "Clyde Geronimi & Wilfred Jackson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0314623/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 76,
+    "budget_usd_millions": 4,
+    "gross_revenue_usd_millions": 93.6,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "actors": [
+      { "name": "Barbara Luddy", "imdb_person_url": "https://www.imdb.com/name/nm0524857/" },
+      { "name": "Larry Roberts", "imdb_person_url": "https://www.imdb.com/name/nm0731315/" },
+      { "name": "Peggy Lee", "imdb_person_url": "https://www.imdb.com/name/nm0498007/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The romantic tale of a sheltered uptown Cocker Spaniel dog and a streetwise downtown Mutt.",
+    "afi_ranking": 95,
+    "imdb_url": "https://www.imdb.com/title/tt0048280/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lady_and_the_tramp"
+  },
+  {
+    "title": "Picnic",
+    "year": 1955,
+    "director": {
+      "name": "Joshua Logan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0517603/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 6.2,
+    "gross_revenue_usd_millions": 9.3,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "William Holden", "imdb_person_url": "https://www.imdb.com/name/nm0000454/" },
+      { "name": "Kim Novak", "imdb_person_url": "https://www.imdb.com/name/nm0001571/" },
+      { "name": "Rosalind Russell", "imdb_person_url": "https://www.imdb.com/name/nm0751426/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Art Direction-Set Decoration, Color", "Best Film Editing"],
+    "description": "A drifter's arrival in a small Kansas town on Labor Day disrupts the lives of its residents.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048491/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016289-picnic"
+  },
+  {
+    "title": "The Man with the Golden Arm",
+    "year": 1955,
+    "director": {
+      "name": "Otto Preminger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0695938/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 4.35,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Frank Sinatra", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Kim Novak", "imdb_person_url": "https://www.imdb.com/name/nm0001571/" },
+      { "name": "Eleanor Parker", "imdb_person_url": "https://www.imdb.com/name/nm0662232/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A junkie must face his true self to kick his drug addiction.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048342/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_with_the_golden_arm"
+  },
+  {
+    "title": "Mister Roberts",
+    "year": 1955,
+    "director": {
+      "name": "John Ford & Mervyn LeRoy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 2.3,
+    "gross_revenue_usd_millions": 21.2,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": ["Comedy", "Drama", "War"],
+    "actors": [
+      { "name": "Henry Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000020/" },
+      { "name": "James Cagney", "imdb_person_url": "https://www.imdb.com/name/nm0000009/" },
+      { "name": "William Powell", "imdb_person_url": "https://www.imdb.com/name/nm0001635/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actor in a Supporting Role"],
+    "description": "In the waning days of World War II, the cargo officer of a naval supply ship chafes at being stuck behind the lines while his friends are fighting.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048380/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mister_roberts"
+  },
+  {
+    "title": "Bad Day at Black Rock",
+    "year": 1955,
+    "director": {
+      "name": "John Sturges",
+      "imdb_person_url": "https://www.imdb.com/name/nm0836328/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 3.8,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Spencer Tracy", "imdb_person_url": "https://www.imdb.com/name/nm0000075/" },
+      { "name": "Robert Ryan", "imdb_person_url": "https://www.imdb.com/name/nm0001692/" },
+      { "name": "Anne Francis", "imdb_person_url": "https://www.imdb.com/name/nm0004282/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A one-armed stranger comes to a tiny town possessed by a terrible past they want to keep secret.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047849/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_day_at_black_rock"
   },
   {
     "title": "Blackboard Jungle",
     "year": 1955,
     "director": {
       "name": "Richard Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0112158/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0112213/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 101,
     "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 8.1,
+    "gross_revenue_usd_millions": 8,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "80%"
     },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Glenn Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001233/"
-      },
-      {
-        "name": "Anne Francis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001227/"
-      },
-      {
-        "name": "Louis Calhern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0129731/"
-      }
+      { "name": "Glenn Ford", "imdb_person_url": "https://www.imdb.com/name/nm0001229/" },
+      { "name": "Anne Francis", "imdb_person_url": "https://www.imdb.com/name/nm0004282/" },
+      { "name": "Sidney Poitier", "imdb_person_url": "https://www.imdb.com/name/nm0001627/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An idealistic teacher faces a classroom of rebellious, inner-city teenagers.",
+    "description": "A new English teacher at a violent, unruly inner-city school is determined to do his job, despite resistance from both students and faculty.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0047885/",
+    "imdb_url": "https://www.imdb.com/title/tt0047884/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blackboard_jungle"
   },
   {
-    "title": "Ordet",
+    "title": "Oklahoma!",
     "year": 1955,
     "director": {
-      "name": "Carl Theodor Dreyer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002052/"
+      "name": "Fred Zinnemann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0957037/"
     },
-    "production_studio": "Palladium",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 126,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "Magna Theatre Corporation",
+    "mpaa_rating": "G",
+    "runtime_minutes": 145,
+    "budget_usd_millions": 6.8,
+    "gross_revenue_usd_millions": 7.1,
     "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "69%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Comedy", "Drama", "Musical"],
     "actors": [
-      {
-        "name": "Henrik Malberg",
-        "imdb_person_url": "https://www.imdb.com/name/nm0539139/"
-      },
-      {
-        "name": "Emil Hass Christensen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0368367/"
-      },
-      {
-        "name": "Preben Lerdorff Rye",
-        "imdb_person_url": "https://www.imdb.com/name/nm0753443/"
-      }
+      { "name": "Gordon MacRae", "imdb_person_url": "https://www.imdb.com/name/nm0534292/" },
+      { "name": "Shirley Jones", "imdb_person_url": "https://www.imdb.com/name/nm0001409/" },
+      { "name": "Gloria Grahame", "imdb_person_url": "https://www.imdb.com/name/nm0002108/" }
     ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The lives of a devout Danish farming family are thrown into turmoil when one of the sons goes insane, believing he is Jesus Christ.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048452/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ordet"
-  },
-  {
-    "title": "Les Diaboliques",
-    "year": 1955,
-    "director": {
-      "name": "Henri-Georges Clouzot",
-      "imdb_person_url": "https://www.imdb.com/name/nm0167232/"
-    },
-    "production_studio": "Filmsonor",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 117,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Simone Signoret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001738/"
-      },
-      {
-        "name": "Véra Clouzot",
-        "imdb_person_url": "https://www.imdb.com/name/nm0167232/"
-      },
-      {
-        "name": "Paul Meurisse",
-        "imdb_person_url": "https://www.imdb.com/name/nm0582692/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The wife and mistress of a cruel schoolmaster conspire to murder him, but their plan takes a supernatural turn.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0046911/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/diabolique"
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Sound, Recording", "Best Music, Scoring of a Musical Picture"],
+    "description": "In the Oklahoma territory at the turn of the twentieth century, two young cowboys vie with an evil ranch hand and a traveling peddler for the hearts of the women they love.",
+    "afi_ranking": 66,
+    "imdb_url": "https://www.imdb.com/title/tt0048445/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015442-oklahoma"
   },
   {
     "title": "Kiss Me Deadly",
     "year": 1955,
     "director": {
       "name": "Robert Aldrich",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000735/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
     },
-    "production_studio": "Parklane Pictures",
+    "production_studio": "United Artists",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 106,
-    "budget_usd_millions": 0.425,
-    "gross_revenue_usd_millions": 0.726,
+    "budget_usd_millions": 0.41,
+    "gross_revenue_usd_millions": 0.72,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Crime",
-      "Film-Noir",
-      "Mystery"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Ralph Meeker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0576135/"
-      },
-      {
-        "name": "Albert Dekker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0215329/"
-      },
-      {
-        "name": "Paul Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0829807/"
-      }
+      { "name": "Ralph Meeker", "imdb_person_url": "https://www.imdb.com/name/nm0576166/" },
+      { "name": "Albert Dekker", "imdb_person_url": "https://www.imdb.com/name/nm0002039/" },
+      { "name": "Paul Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0829716/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A brutish private eye stumbles upon a conspiracy of epic proportions while investigating a murder.",
+    "description": "A doomed female hitchhiker pulls Mike Hammer into a deadly whirlpool of intrigue, revolving around a mysterious \"great whatsit\".",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0048261/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kiss_me_deadly"
+  },
+  {
+    "title": "Summertime",
+    "year": 1955,
+    "director": {
+      "name": "David Lean",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000180/"
+    },
+    "production_studio": "Lopert Pictures Corporation",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Katharine Hepburn", "imdb_person_url": "https://www.imdb.com/name/nm0000031/" },
+      { "name": "Rossano Brazzi", "imdb_person_url": "https://www.imdb.com/name/nm0106359/" },
+      { "name": "Isa Miranda", "imdb_person_url": "https://www.imdb.com/name/nm0592135/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American spinster's dream of romance finally becomes a bittersweet reality when she meets a handsome-but-married Italian man while vacationing in Venice.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048673/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/summertime"
+  },
+  {
+    "title": "The Rose Tattoo",
+    "year": 1955,
+    "director": {
+      "name": "Daniel Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0542705/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 4.2,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Anna Magnani", "imdb_person_url": "https://www.imdb.com/name/nm0536167/" },
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Marisa Pavan", "imdb_person_url": "https://www.imdb.com/name/nm0667542/" }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": ["Best Actress", "Best Cinematography", "Best Art Direction"],
+    "description": "After her truck driver husband dies, a dressmaker in Louisiana withdraws from the world, until she meets another truck driver who reminds her of her late husband.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048563/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rose_tattoo"
+  },
+  {
+    "title": "Love Is a Many-Splendored Thing",
+    "year": 1955,
+    "director": {
+      "name": "Henry King",
+      "imdb_person_url": "https://www.imdb.com/name/nm0454778/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 8,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Biography", "Drama", "Romance"],
+    "actors": [
+      { "name": "William Holden", "imdb_person_url": "https://www.imdb.com/name/nm0000454/" },
+      { "name": "Jennifer Jones", "imdb_person_url": "https://www.imdb.com/name/nm0428353/" },
+      { "name": "Torin Thatcher", "imdb_person_url": "https://www.imdb.com/name/nm0857163/" }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": ["Best Costume Design", "Best Original Song", "Best Music, Scoring of a Dramatic or Comedy Picture"],
+    "description": "A widowed Eurasian doctor falls in love with a married American correspondent in Hong Kong during China's Civil War.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048316/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/love_is_a_many_splendored_thing"
+  },
+  {
+    "title": "Diabolique",
+    "year": 1955,
+    "director": {
+      "name": "Henri-Georges Clouzot",
+      "imdb_person_url": "https://www.imdb.com/name/nm0167204/"
+    },
+    "production_studio": "Vera Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": ["Crime", "Drama", "Horror"],
+    "actors": [
+      { "name": "Simone Signoret", "imdb_person_url": "https://www.imdb.com/name/nm0797531/" },
+      { "name": "Véra Clouzot", "imdb_person_url": "https://www.imdb.com/name/nm0167207/" },
+      { "name": "Paul Meurisse", "imdb_person_url": "https://www.imdb.com/name/nm0582892/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The wife and mistress of a loathsome school principal hatch a plot to kill him, but after they drown him in a bathtub, his body disappears.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048021/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/diabolique"
+  },
+  {
+    "title": "Rififi",
+    "year": 1955,
+    "director": {
+      "name": "Jules Dassin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202088/"
+    },
+    "production_studio": "Pathé Consortium Cinéma",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Jean Servais", "imdb_person_url": "https://www.imdb.com/name/nm0785751/" },
+      { "name": "Carl Möhner", "imdb_person_url": "https://www.imdb.com/name/nm0617952/" },
+      { "name": "Robert Manuel", "imdb_person_url": "https://www.imdb.com/name/nm0544303/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Four men plan a technically complex jewel heist, but human frailty threatens to doom the plan.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048021/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rififi"
+  },
+  {
+    "title": "Ordet",
+    "year": 1955,
+    "director": {
+      "name": "Carl Theodor Dreyer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002048/"
+    },
+    "production_studio": "Palladium Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 0.1,
+    "ratings": {
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Hanne Agesen", "imdb_person_url": "https://www.imdb.com/name/nm0012973/" },
+      { "name": "Henrik Malberg", "imdb_person_url": "https://www.imdb.com/name/nm0539069/" },
+      { "name": "Emil Hass Christensen", "imdb_person_url": "https://www.imdb.com/name/nm0159820/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A family of farmers in western Denmark is torn apart by faith, religion, and love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048452/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ordet"
+  },
+  {
+    "title": "Pather Panchali",
+    "year": 1955,
+    "director": {
+      "name": "Satyajit Ray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001654/"
+    },
+    "production_studio": "Government of West Bengal",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 0.03,
+    "gross_revenue_usd_millions": 0.1,
+    "ratings": {
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Kanu Bannerjee", "imdb_person_url": "https://www.imdb.com/name/nm0052306/" },
+      { "name": "Karuna Bannerjee", "imdb_person_url": "https://www.imdb.com/name/nm0052288/" },
+      { "name": "Subir Banerjee", "imdb_person_url": "https://www.imdb.com/name/nm0051812/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048473/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pather_panchali"
+  },
+  {
+    "title": "Smiles of a Summer Night",
+    "year": 1955,
+    "director": {
+      "name": "Ingmar Bergman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
+    },
+    "production_studio": "Svensk Filmindustri",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 0.1,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Ulla Jacobsson", "imdb_person_url": "https://www.imdb.com/name/nm0414957/" },
+      { "name": "Eva Dahlbeck", "imdb_person_url": "https://www.imdb.com/name/nm0196855/" },
+      { "name": "Harriet Andersson", "imdb_person_url": "https://www.imdb.com/name/nm0027698/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In turn-of-the-century Sweden, four couples meet at a country estate, and a comedy of manners ensues.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048641/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/smiles_of_a_summer_night"
+  },
+  {
+    "title": "All That Heaven Allows",
+    "year": 1955,
+    "director": {
+      "name": "Douglas Sirk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0802862/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 3,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Jane Wyman", "imdb_person_url": "https://www.imdb.com/name/nm0001866/" },
+      { "name": "Rock Hudson", "imdb_person_url": "https://www.imdb.com/name/nm0001371/" },
+      { "name": "Agnes Moorehead", "imdb_person_url": "https://www.imdb.com/name/nm0001547/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An upper-class widow falls in love with a much younger, down-to-earth nurseryman, much to the disapproval of her children and criticism of her country club peers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047811/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/all_that_heaven_allows"
+  },
+  {
+    "title": "The Trouble with Harry",
+    "year": 1955,
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Comedy", "Mystery"],
+    "actors": [
+      { "name": "John Forsythe", "imdb_person_url": "https://www.imdb.com/name/nm0001234/" },
+      { "name": "Shirley MacLaine", "imdb_person_url": "https://www.imdb.com/name/nm0000512/" },
+      { "name": "Edmund Gwenn", "imdb_person_url": "https://www.imdb.com/name/nm0002119/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The trouble with Harry is that he's dead, and everyone seems to have a different idea of what needs to be done with his body.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048751/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/trouble_with_harry"
+  },
+  {
+    "title": "The Ladykillers",
+    "year": 1955,
+    "director": {
+      "name": "Alexander Mackendrick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0533322/"
+    },
+    "production_studio": "Ealing Studios",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 3,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": ["Comedy", "Crime"],
+    "actors": [
+      { "name": "Alec Guinness", "imdb_person_url": "https://www.imdb.com/name/nm0000027/" },
+      { "name": "Cecil Parker", "imdb_person_url": "https://www.imdb.com/name/nm0662147/" },
+      { "name": "Herbert Lom", "imdb_person_url": "https://www.imdb.com/name/nm0001478/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Five oddball criminals planning a bank robbery rent rooms from an octogenarian widow under the pretext that they are classical musicians.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048281/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ladykillers"
   },
   {
     "title": "Richard III",
@@ -764,81 +815,88 @@
     "production_studio": "London Film Productions",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 161,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 2.6,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "77%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
+    "genres": ["Biography", "Drama", "History"],
     "actors": [
-      {
-        "name": "Laurence Olivier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
-      },
-      {
-        "name": "Cedric Hardwicke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002127/"
-      },
-      {
-        "name": "Ralph Richardson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001667/"
-      }
+      { "name": "Laurence Olivier", "imdb_person_url": "https://www.imdb.com/name/nm0000059/" },
+      { "name": "Cedric Hardwicke", "imdb_person_url": "https://www.imdb.com/name/nm0002126/" },
+      { "name": "Ralph Richardson", "imdb_person_url": "https://www.imdb.com/name/nm0002136/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Shakespeare's story of the evil king's bloody reign and his quest for power.",
+    "description": "Richard, Duke of Gloucester, stops at nothing to become the King of England.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0049674/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017596-richard_iii"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017538-richard_iii"
   },
   {
-    "title": "The Man with the Golden Arm",
+    "title": "Lola Montès",
     "year": 1955,
     "director": {
-      "name": "Otto Preminger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      "name": "Max Ophüls",
+      "imdb_person_url": "https://www.imdb.com/name/nm0006218/"
     },
-    "production_studio": "Otto Preminger Films",
+    "production_studio": "Gamma Films",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 4.1,
+    "runtime_minutes": 110,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 0.5,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "76%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Biography", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Frank Sinatra",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000069/"
-      },
-      {
-        "name": "Eleanor Parker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001600/"
-      },
-      {
-        "name": "Kim Novak",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001571/"
-      }
+      { "name": "Martine Carol", "imdb_person_url": "https://www.imdb.com/name/nm0138979/" },
+      { "name": "Peter Ustinov", "imdb_person_url": "https://www.imdb.com/name/nm0001811/" },
+      { "name": "Anton Walbrook", "imdb_person_url": "https://www.imdb.com/name/nm0906973/" }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A heroin addict and professional card dealer struggles to stay clean and deal with his manipulative, wheelchair-bound wife.",
+    "description": "The life of the famous dancer and courtesan Lola Montès is told in a circus setting.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048347/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_man_with_the_golden_arm"
+    "imdb_url": "https://www.imdb.com/title/tt0048308/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lola_montes"
+  },
+  {
+    "title": "The Big Knife",
+    "year": 1955,
+    "director": {
+      "name": "Robert Aldrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Drama", "Film-Noir", "Thriller"],
+    "actors": [
+      { "name": "Jack Palance", "imdb_person_url": "https://www.imdb.com/name/nm0001590/" },
+      { "name": "Ida Lupino", "imdb_person_url": "https://www.imdb.com/name/nm0526946/" },
+      { "name": "Wendell Corey", "imdb_person_url": "https://www.imdb.com/name/nm0179836/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A popular Hollywood actor is blackmailed by a studio boss into renewing his contract under threat of exposing a past crime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047879/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_knife"
   },
   {
     "title": "The Desperate Hours",
@@ -848,267 +906,647 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
     },
     "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Passed",
+    "mpaa_rating": "Not Rated",
     "runtime_minutes": 112,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 2.4,
+    "gross_revenue_usd_millions": 4.5,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Crime", "Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Humphrey Bogart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
-      },
-      {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
-      },
-      {
-        "name": "Arthur Kennedy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0448023/"
-      }
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Fredric March", "imdb_person_url": "https://www.imdb.com/name/nm0001506/" },
+      { "name": "Arthur Kennedy", "imdb_person_url": "https://www.imdb.com/name/nm0001421/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Three escaped convicts take a suburban family hostage.",
+    "description": "Three escaped convicts take a suburban family hostage in their own home.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0047985/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_desperate_hours"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/desperate_hours"
   },
   {
-    "title": "The Court Jester",
+    "title": "It's Always Fair Weather",
     "year": 1955,
     "director": {
-      "name": "Melvin Frank",
-      "imdb_person_url": "https://www.imdb.com/name/nm0290947/"
+      "name": "Stanley Donen & Gene Kelly",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000374/"
     },
-    "production_studio": "Dena Enterprises",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 101,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 2.2,
+    "budget_usd_millions": 2.2,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "91%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "69%"
     },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Family"
-    ],
+    "genres": ["Comedy", "Drama", "Musical"],
     "actors": [
-      {
-        "name": "Danny Kaye",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001414/"
-      },
-      {
-        "name": "Glynis Johns",
-        "imdb_person_url": "https://www.imdb.com/name/nm0424078/"
-      },
-      {
-        "name": "Basil Rathbone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
-      }
+      { "name": "Gene Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000037/" },
+      { "name": "Dan Dailey", "imdb_person_url": "https://www.imdb.com/name/nm0197289/" },
+      { "name": "Cyd Charisse", "imdb_person_url": "https://www.imdb.com/name/nm0001998/" }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Honorary Award"
-    ],
-    "description": "A carnival performer impersonates the court jester as part of a plot against an evil ruler who has overthrown the rightful king.",
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three World War II buddies agree to meet in ten years, but when the reunion happens, they discover they have nothing in common.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049096/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_court_jester"
+    "imdb_url": "https://www.imdb.com/title/tt0048216/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/its_always_fair_weather"
   },
   {
-    "title": "The Dam Busters",
+    "title": "Tarantula",
     "year": 1955,
     "director": {
-      "name": "Michael Anderson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0027157/"
+      "name": "Jack Arnold",
+      "imdb_person_url": "https://www.imdb.com/name/nm0036484/"
     },
-    "production_studio": "Associated British Picture Corporation",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 124,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "Universal International Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 1.1,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "56%"
     },
-    "genres": [
-      "Drama",
-      "History",
-      "War"
-    ],
+    "genres": ["Horror", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Richard Todd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001799/"
-      },
-      {
-        "name": "Michael Redgrave",
-        "imdb_person_url": "https://www.imdb.com/name/nm0714819/"
-      },
-      {
-        "name": "Ursula Jeans",
-        "imdb_person_url": "https://www.imdb.com/name/nm0419918/"
-      }
+      { "name": "John Agar", "imdb_person_url": "https://www.imdb.com/name/nm0012900/" },
+      { "name": "Mara Corday", "imdb_person_url": "https://www.imdb.com/name/nm0179400/" },
+      { "name": "Leo G. Carroll", "imdb_person_url": "https://www.imdb.com/name/nm0002000/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A spider escapes from an isolated desert laboratory and grows to gigantic proportions, wreaking havoc on the local town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048696/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1020879-tarantula"
+  },
+  {
+    "title": "This Island Earth",
+    "year": 1955,
+    "director": {
+      "name": "Joseph M. Newman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0628142/"
+    },
+    "production_studio": "Universal International Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 5.8,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "48%"
+    },
+    "genres": ["Sci-Fi", "Horror"],
+    "actors": [
+      { "name": "Jeff Morrow", "imdb_person_url": "https://www.imdb.com/name/nm0607679/" },
+      { "name": "Faith Domergue", "imdb_person_url": "https://www.imdb.com/name/nm0231380/" },
+      { "name": "Rex Reason", "imdb_person_url": "https://www.imdb.com/name/nm0714110/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Aliens come to Earth seeking scientists to help them in their war.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048718/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/this_island_earth"
+  },
+  {
+    "title": "Moonfleet",
+    "year": 1955,
+    "director": {
+      "name": "Fritz Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000485/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Adventure", "Drama"],
+    "actors": [
+      { "name": "Stewart Granger", "imdb_person_url": "https://www.imdb.com/name/nm0001291/" },
+      { "name": "George Sanders", "imdb_person_url": "https://www.imdb.com/name/nm0001695/" },
+      { "name": "Joan Greenwood", "imdb_person_url": "https://www.imdb.com/name/nm0339342/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young boy discovers that the mentor he loves is a smuggler.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048387/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/moonfleet"
+  },
+  {
+    "title": "The Long Gray Line",
+    "year": 1955,
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 138,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 5.7,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": ["Biography", "Comedy", "Drama"],
+    "actors": [
+      { "name": "Tyrone Power", "imdb_person_url": "https://www.imdb.com/name/nm0001634/" },
+      { "name": "Maureen O'Hara", "imdb_person_url": "https://www.imdb.com/name/nm0000058/" },
+      { "name": "Robert Francis", "imdb_person_url": "https://www.imdb.com/name/nm0290306/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Marty Maher, an Irish immigrant, becomes a non-commissioned officer and athletic instructor at West Point.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048312/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/long_gray_line"
+  },
+  {
+    "title": "Strategic Air Command",
+    "year": 1955,
+    "director": {
+      "name": "Anthony Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002975/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 6.5,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": ["Action", "Drama", "War"],
+    "actors": [
+      { "name": "James Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "June Allyson", "imdb_person_url": "https://www.imdb.com/name/nm0000742/" },
+      { "name": "Frank Lovejoy", "imdb_person_url": "https://www.imdb.com/name/nm0522457/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of the British Royal Air Force's mission to destroy three dams in Germany's Ruhr Valley during World War II.",
+    "description": "A professional baseball player is recalled to military service to fly B-36 and B-47 bombers for the Strategic Air Command.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0046882/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_dam_busters"
+    "imdb_url": "https://www.imdb.com/title/tt0048667/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/strategic_air_command"
+  },
+  {
+    "title": "To Hell and Back",
+    "year": 1955,
+    "director": {
+      "name": "Jesse Hibbs",
+      "imdb_person_url": "https://www.imdb.com/name/nm0382533/"
+    },
+    "production_studio": "Universal International Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 9.7,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Action", "Biography", "Drama"],
+    "actors": [
+      { "name": "Audie Murphy", "imdb_person_url": "https://www.imdb.com/name/nm0001559/" },
+      { "name": "Marshall Thompson", "imdb_person_url": "https://www.imdb.com/name/nm0860477/" },
+      { "name": "Charles Drake", "imdb_person_url": "https://www.imdb.com/name/nm0236869/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The true story of Audie Murphy, the most decorated soldier in U.S. history, who plays himself in this biographical war film.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048729/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/to_hell_and_back"
+  },
+  {
+    "title": "The Man from Laramie",
+    "year": 1955,
+    "director": {
+      "name": "Anthony Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002975/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 3.3,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Western"],
+    "actors": [
+      { "name": "James Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Arthur Kennedy", "imdb_person_url": "https://www.imdb.com/name/nm0001421/" },
+      { "name": "Donald Crisp", "imdb_person_url": "https://www.imdb.com/name/nm0187936/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A stranger defies the local cattle baron and his sadistic son by working for one of their oldest rivals.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048340/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_from_laramie"
+  },
+  {
+    "title": "Violent Saturday",
+    "year": 1955,
+    "director": {
+      "name": "Richard Fleischer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001220/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.95,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Victor Mature", "imdb_person_url": "https://www.imdb.com/name/nm0560559/" },
+      { "name": "Richard Egan", "imdb_person_url": "https://www.imdb.com/name/nm0250733/" },
+      { "name": "Stephen McNally", "imdb_person_url": "https://www.imdb.com/name/nm0573632/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three men plot to rob a bank in a small mining town, while the lives of the townspeople intersect.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048785/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/violent_saturday"
+  },
+  {
+    "title": "The Big Combo",
+    "year": 1955,
+    "director": {
+      "name": "Joseph H. Lewis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0507388/"
+    },
+    "production_studio": "Theodora Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Cornel Wilde", "imdb_person_url": "https://www.imdb.com/name/nm0928446/" },
+      { "name": "Richard Conte", "imdb_person_url": "https://www.imdb.com/name/nm0176142/" },
+      { "name": "Brian Donlevy", "imdb_person_url": "https://www.imdb.com/name/nm0232576/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A police lieutenant goes after a powerful mob boss, obsessively trying to get something on him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0047878/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_combo"
+  },
+  {
+    "title": "Killer's Kiss",
+    "year": 1955,
+    "director": {
+      "name": "Stanley Kubrick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000040/"
+    },
+    "production_studio": "Minotaur Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 67,
+    "budget_usd_millions": 0.04,
+    "gross_revenue_usd_millions": 0.2,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Frank Silvera", "imdb_person_url": "https://www.imdb.com/name/nm0798890/" },
+      { "name": "Jamie Smith", "imdb_person_url": "https://www.imdb.com/name/nm0808611/" },
+      { "name": "Irene Kane", "imdb_person_url": "https://www.imdb.com/name/nm0437333/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A washed-up boxer protects a dancer from her rapacious boss, leading to a confrontation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048254/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/killers_kiss"
+  },
+  {
+    "title": "The Phenix City Story",
+    "year": 1955,
+    "director": {
+      "name": "Phil Karlson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0439645/"
+    },
+    "production_studio": "Allied Artists",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "John McIntire", "imdb_person_url": "https://www.imdb.com/name/nm0570564/" },
+      { "name": "Richard Kiley", "imdb_person_url": "https://www.imdb.com/name/nm0452969/" },
+      { "name": "Kathryn Grant", "imdb_person_url": "https://www.imdb.com/name/nm0187269/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A prosecutor tries to clean up a vice-ridden Alabama town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048488/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/phenix_city_story"
   },
   {
     "title": "I'll Cry Tomorrow",
     "year": 1955,
     "director": {
       "name": "Daniel Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0542697/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0542705/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 117,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 6.5,
+    "budget_usd_millions": 2.3,
+    "gross_revenue_usd_millions": 7.7,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "68%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
+    "genres": ["Biography", "Drama"],
     "actors": [
-      {
-        "name": "Susan Hayward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001333/"
-      },
-      {
-        "name": "Richard Conte",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002015/"
-      },
-      {
-        "name": "Eddie Albert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000734/"
-      }
+      { "name": "Susan Hayward", "imdb_person_url": "https://www.imdb.com/name/nm0001333/" },
+      { "name": "Richard Conte", "imdb_person_url": "https://www.imdb.com/name/nm0176142/" },
+      { "name": "Eddie Albert", "imdb_person_url": "https://www.imdb.com/name/nm0000734/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Costume Design, Black-and-White"
-    ],
-    "description": "The story of singer Lillian Roth's battle with alcoholism.",
+    "oscars_won_details": ["Best Costume Design, Black-and-White"],
+    "description": "The biography of Lillian Roth, a Broadway star who descends into alcoholism after the death of her fiancé.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048201/",
+    "imdb_url": "https://www.imdb.com/title/tt0048191/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ill_cry_tomorrow"
   },
   {
-    "title": "Summertime",
+    "title": "Love Me or Leave Me",
     "year": 1955,
     "director": {
-      "name": "David Lean",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000180/"
+      "name": "Charles Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0896520/"
     },
-    "production_studio": "London Film Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 2,
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 2.6,
+    "gross_revenue_usd_millions": 6.6,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Biography", "Drama", "Music"],
     "actors": [
-      {
-        "name": "Katharine Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
-      },
-      {
-        "name": "Rossano Brazzi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000966/"
-      },
-      {
-        "name": "Isa Miranda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0591409/"
-      }
+      { "name": "Doris Day", "imdb_person_url": "https://www.imdb.com/name/nm0000017/" },
+      { "name": "James Cagney", "imdb_person_url": "https://www.imdb.com/name/nm0000009/" },
+      { "name": "Cameron Mitchell", "imdb_person_url": "https://www.imdb.com/name/nm0593192/" }
     ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A lonely American spinster on vacation in Venice finds romance with a handsome Italian shopkeeper.",
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Writing, Motion Picture Story"],
+    "description": "The story of Ruth Etting, a singer who rises from a taxi dancer to movie star with the help of a gangster.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048673/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/summertime"
+    "imdb_url": "https://www.imdb.com/title/tt0048317/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/love_me_or_leave_me"
   },
   {
-    "title": "Love Is a Many-Splendored Thing",
+    "title": "We're No Angels",
     "year": 1955,
     "director": {
-      "name": "Henry King",
-      "imdb_person_url": "https://www.imdb.com/name/nm0454766/"
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 6.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Comedy", "Crime"],
+    "actors": [
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Aldo Ray", "imdb_person_url": "https://www.imdb.com/name/nm0712739/" },
+      { "name": "Peter Ustinov", "imdb_person_url": "https://www.imdb.com/name/nm0001811/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three convicts escape from Devil's Island and hide out in the home of a kindly shopkeeper and his family, whom they decide to help.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048800/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1023319-were_no_angels"
+  },
+  {
+    "title": "The Tender Trap",
+    "year": 1955,
+    "director": {
+      "name": "Charles Walters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0910200/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Comedy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Frank Sinatra", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Debbie Reynolds", "imdb_person_url": "https://www.imdb.com/name/nm0001666/" },
+      { "name": "David Wayne", "imdb_person_url": "https://www.imdb.com/name/nm0915544/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A womanizing theatrical agent finds himself falling for a young actress who wants marriage and a career.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048705/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tender_trap"
+  },
+  {
+    "title": "Samurai II: Duel at Ichijoji Temple",
+    "year": 1955,
+    "director": {
+      "name": "Hiroshi Inagaki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0408339/"
+    },
+    "production_studio": "Toho",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 0.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Action", "Drama", "History"],
+    "actors": [
+      { "name": "Toshirô Mifune", "imdb_person_url": "https://www.imdb.com/name/nm0001536/" },
+      { "name": "Kôji Tsuruta", "imdb_person_url": "https://www.imdb.com/name/nm0875471/" },
+      { "name": "Kaoru Yachigusa", "imdb_person_url": "https://www.imdb.com/name/nm0944786/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Musashi Miyamoto returns to Kyoto after years of isolation and training to challenge the Yoshioka School.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048835/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/samurai_2_duel_at_ichijoji_temple"
+  },
+  {
+    "title": "Floating Clouds",
+    "year": 1955,
+    "director": {
+      "name": "Mikio Naruse",
+      "imdb_person_url": "https://www.imdb.com/name/nm0621569/"
+    },
+    "production_studio": "Toho",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 0.1,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Hideko Takamine", "imdb_person_url": "https://www.imdb.com/name/nm0847334/" },
+      { "name": "Masayuki Mori", "imdb_person_url": "https://www.imdb.com/name/nm0605286/" },
+      { "name": "Mariko Okada", "imdb_person_url": "https://www.imdb.com/name/nm0644870/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A married forester meets a young woman in Indochina during WWII, and they continue their affair back in Japan, where they face poverty and despair.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048758/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/floating_clouds"
+  },
+  {
+    "title": "Daddy Long Legs",
+    "year": 1955,
+    "director": {
+      "name": "Jean Negulesco",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624535/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 1.35,
-    "gross_revenue_usd_millions": 4,
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 3.2,
+    "gross_revenue_usd_millions": 7.5,
     "ratings": {
       "imdb": 6.8,
-      "rotten_tomatoes_critic": "47%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "72%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Musical", "Romance"],
     "actors": [
-      {
-        "name": "William Holden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
-      },
-      {
-        "name": "Jennifer Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
-      },
-      {
-        "name": "Torin Thatcher",
-        "imdb_person_url": "https://www.imdb.com/name/nm0857106/"
-      }
+      { "name": "Fred Astaire", "imdb_person_url": "https://www.imdb.com/name/nm0000001/" },
+      { "name": "Leslie Caron", "imdb_person_url": "https://www.imdb.com/name/nm0001989/" },
+      { "name": "Terry Moore", "imdb_person_url": "https://www.imdb.com/name/nm0601941/" }
     ],
-    "oscars_nominated": 8,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Costume Design, Color",
-      "Best Music, Original Song",
-      "Best Music, Scoring of a Dramatic or Comedy Picture"
-    ],
-    "description": "A Eurasian doctor and an American journalist fall in love in Hong Kong during the Korean War.",
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wealthy American supports an 18-year-old French orphan girl through college, anonymously.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048316/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/love_is_a_manysplendored_thing"
+    "imdb_url": "https://www.imdb.com/title/tt0047969/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/daddy_long_legs"
+  },
+  {
+    "title": "The Quatermass Xperiment",
+    "year": 1955,
+    "director": {
+      "name": "Val Guest",
+      "imdb_person_url": "https://www.imdb.com/name/nm0346435/"
+    },
+    "production_studio": "Hammer Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 82,
+    "budget_usd_millions": 0.042,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": ["Horror", "Sci-Fi"],
+    "actors": [
+      { "name": "Brian Donlevy", "imdb_person_url": "https://www.imdb.com/name/nm0232576/" },
+      { "name": "Jack Warner", "imdb_person_url": "https://www.imdb.com/name/nm0912493/" },
+      { "name": "Margia Dean", "imdb_person_url": "https://www.imdb.com/name/nm0213878/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three astronauts are launched into space, but when the ship returns, only one is still aboard, and he has been infected by an alien organism.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048530/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quatermass_xperiment"
   }
 ]

@@ -4,45 +4,124 @@
     "year": 1956,
     "director": {
       "name": "Cecil B. DeMille",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000364/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "G",
     "runtime_minutes": 220,
     "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 65.5,
+    "gross_revenue_usd_millions": 122.7,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_popcorn": "85%"
     },
-    "genres": [
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Adventure", "Drama", "Fantasy"],
     "actors": [
-      {
-        "name": "Charlton Heston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
-      },
-      {
-        "name": "Yul Brynner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000989/"
-      },
-      {
-        "name": "Anne Baxter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000882/"
-      }
+      { "name": "Charlton Heston", "imdb_person_url": "https://www.imdb.com/name/nm0000032/" },
+      { "name": "Yul Brynner", "imdb_person_url": "https://www.imdb.com/name/nm0000987/" },
+      { "name": "Anne Baxter", "imdb_person_url": "https://www.imdb.com/name/nm0000882/" }
     ],
     "oscars_nominated": 7,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Effects, Special Effects"
-    ],
-    "description": "The Egyptian Prince, Moses, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people.",
-    "afi_ranking": 79,
+    "oscars_won_details": ["Best Special Effects"],
+    "description": "Moses, an Egyptian Prince, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people.",
+    "afi_ranking": 10,
     "imdb_url": "https://www.imdb.com/title/tt0049833/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_ten_commandments"
+  },
+  {
+    "title": "Around the World in 80 Days",
+    "year": 1956,
+    "director": {
+      "name": "Michael Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0027153/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "G",
+    "runtime_minutes": 175,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 42,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": ["Adventure", "Comedy", "Family"],
+    "actors": [
+      { "name": "David Niven", "imdb_person_url": "https://www.imdb.com/name/nm0000057/" },
+      { "name": "Cantinflas", "imdb_person_url": "https://www.imdb.com/name/nm0134553/" },
+      { "name": "Shirley MacLaine", "imdb_person_url": "https://www.imdb.com/name/nm0000512/" }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 5,
+    "oscars_won_details": ["Best Picture", "Best Writing, Screenplay Adapted", "Best Cinematography, Color", "Best Film Editing", "Best Music, Scoring of a Dramatic or Comedy Picture"],
+    "description": "A Victorian Englishman bets that with the new steamships and railways he can circumnavigate the globe in eighty days.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048960/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/around_the_world_in_80_days"
+  },
+  {
+    "title": "Giant",
+    "year": 1956,
+    "director": {
+      "name": "George Stevens",
+      "imdb_person_url": "https://www.imdb.com/name/nm0828412/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "G",
+    "runtime_minutes": 201,
+    "budget_usd_millions": 5.4,
+    "gross_revenue_usd_millions": 39,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Drama", "Western"],
+    "actors": [
+      { "name": "Elizabeth Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0000072/" },
+      { "name": "Rock Hudson", "imdb_person_url": "https://www.imdb.com/name/nm0001371/" },
+      { "name": "James Dean", "imdb_person_url": "https://www.imdb.com/name/nm0000015/" }
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Director"],
+    "description": "Sprawling epic covering the life of a Texas cattle rancher and his family and their rivalry with a cowboy and eventual oil tycoon.",
+    "afi_ranking": 82,
+    "imdb_url": "https://www.imdb.com/title/tt0049261/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/giant"
+  },
+  {
+    "title": "The King and I",
+    "year": 1956,
+    "director": {
+      "name": "Walter Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0485969/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "G",
+    "runtime_minutes": 133,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 21.3,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Biography", "Drama", "Musical"],
+    "actors": [
+      { "name": "Yul Brynner", "imdb_person_url": "https://www.imdb.com/name/nm0000987/" },
+      { "name": "Deborah Kerr", "imdb_person_url": "https://www.imdb.com/name/nm0000039/" },
+      { "name": "Rita Moreno", "imdb_person_url": "https://www.imdb.com/name/nm0001551/" }
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 5,
+    "oscars_won_details": ["Best Actor", "Best Art Direction-Set Decoration, Color", "Best Costume Design, Color", "Best Sound, Recording", "Best Music, Scoring of a Musical Picture"],
+    "description": "A widow accepts a job as a live-in governess to the King of Siam's children.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049408/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/king_and_i"
   },
   {
     "title": "The Searchers",
@@ -55,93 +134,35 @@
     "mpaa_rating": "Passed",
     "runtime_minutes": 119,
     "budget_usd_millions": 3.75,
-    "gross_revenue_usd_millions": 4.9,
+    "gross_revenue_usd_millions": 4.8,
     "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "90%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "88%"
     },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Western"
-    ],
+    "genres": ["Adventure", "Drama", "Western"],
     "actors": [
-      {
-        "name": "John Wayne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
-      },
-      {
-        "name": "Jeffrey Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001374/"
-      },
-      {
-        "name": "Vera Miles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001533/"
-      }
+      { "name": "John Wayne", "imdb_person_url": "https://www.imdb.com/name/nm0000078/" },
+      { "name": "Jeffrey Hunter", "imdb_person_url": "https://www.imdb.com/name/nm0001374/" },
+      { "name": "Vera Miles", "imdb_person_url": "https://www.imdb.com/name/nm0587255/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An American Civil War veteran embarks on a years-long journey to rescue his niece from the Comanches after the rest of his brother's family is massacred in a raid.",
+    "description": "An American Civil War veteran embarks on a journey to rescue his niece from the Comanches.",
     "afi_ranking": 12,
     "imdb_url": "https://www.imdb.com/title/tt0049730/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_searchers"
-  },
-  {
-    "title": "Giant",
-    "year": 1956,
-    "director": {
-      "name": "George Stevens",
-      "imdb_person_url": "https://www.imdb.com/name/nm0828552/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "G",
-    "runtime_minutes": 201,
-    "budget_usd_millions": 5.4,
-    "gross_revenue_usd_millions": 30,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Elizabeth Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
-      },
-      {
-        "name": "Rock Hudson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001369/"
-      },
-      {
-        "name": "James Dean",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000015/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Director"
-    ],
-    "description": "Sprawling epic covering the life of a Texas cattle rancher and his family and associates.",
-    "afi_ranking": 82,
-    "imdb_url": "https://www.imdb.com/title/tt0049261/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/giant"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/searchers"
   },
   {
     "title": "Invasion of the Body Snatchers",
     "year": 1956,
     "director": {
       "name": "Don Siegel",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001737/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0797095/"
     },
-    "production_studio": "Allied Artists Pictures",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Allied Artists",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 80,
     "budget_usd_millions": 0.38,
     "gross_revenue_usd_millions": 3,
@@ -150,176 +171,329 @@
       "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Sci-Fi"
-    ],
+    "genres": ["Drama", "Horror", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Kevin McCarthy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005213/"
-      },
-      {
-        "name": "Dana Wynter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004093/"
-      },
-      {
-        "name": "Larry Gates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0309328/"
-      }
+      { "name": "Kevin McCarthy", "imdb_person_url": "https://www.imdb.com/name/nm0565199/" },
+      { "name": "Dana Wynter", "imdb_person_url": "https://www.imdb.com/name/nm0944077/" },
+      { "name": "Larry Gates", "imdb_person_url": "https://www.imdb.com/name/nm0309590/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
     "description": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
-    "afi_ranking": null,
+    "afi_ranking": 47,
     "imdb_url": "https://www.imdb.com/title/tt0049366/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/invasion_of_the_body_snatchers_1956"
-  },
-  {
-    "title": "The King and I",
-    "year": 1956,
-    "director": {
-      "name": "Walter Lang",
-      "imdb_person_url": "https://www.imdb.com/name/nm0485897/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "G",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 4.6,
-    "gross_revenue_usd_millions": 21.3,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Deborah Kerr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000039/"
-      },
-      {
-        "name": "Yul Brynner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000989/"
-      },
-      {
-        "name": "Rita Moreno",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001549/"
-      }
-    ],
-    "oscars_nominated": 9,
-    "oscars_won": 5,
-    "oscars_won_details": [
-      "Best Actor",
-      "Best Art Direction-Set Decoration, Color",
-      "Best Costume Design, Color",
-      "Best Sound, Recording",
-      "Best Music, Scoring of a Musical Picture"
-    ],
-    "description": "A widow accepts a job as a live-in governess to the King of Siam's children.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049408/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011571-king_and_i"
-  },
-  {
-    "title": "Around the World in 80 Days",
-    "year": 1956,
-    "director": {
-      "name": "Michael Anderson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0027157/"
-    },
-    "production_studio": "Michael Todd Company",
-    "mpaa_rating": "G",
-    "runtime_minutes": 182,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 42,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "64%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "David Niven",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000057/"
-      },
-      {
-        "name": "Cantinflas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001011/"
-      },
-      {
-        "name": "Shirley MacLaine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000511/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 5,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Writing, Best Screenplay - Adapted",
-      "Best Cinematography, Color",
-      "Best Film Editing",
-      "Best Music, Scoring of a Dramatic or Comedy Picture"
-    ],
-    "description": "A Victorian Englishman bets that with the new steamships and railways he can circumnavigate the globe in eighty days.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048960/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/around_the_world_in_80_days"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010678-invasion_of_the_body_snatchers"
   },
   {
     "title": "Forbidden Planet",
     "year": 1956,
     "director": {
       "name": "Fred M. Wilcox",
-      "imdb_person_url": "https://www.imdb.com/name/nm0928173/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0928193/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "MGM",
     "mpaa_rating": "G",
     "runtime_minutes": 98,
     "budget_usd_millions": 1.9,
-    "gross_revenue_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 2.7,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "82%"
+      "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "actors": [
-      {
-        "name": "Walter Pidgeon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0682057/"
-      },
-      {
-        "name": "Anne Francis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001227/"
-      },
-      {
-        "name": "Leslie Nielsen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000558/"
-      }
+      { "name": "Walter Pidgeon", "imdb_person_url": "https://www.imdb.com/name/nm0000584/" },
+      { "name": "Anne Francis", "imdb_person_url": "https://www.imdb.com/name/nm0004282/" },
+      { "name": "Leslie Nielsen", "imdb_person_url": "https://www.imdb.com/name/nm0000558/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A starship crew travels to a distant planet to investigate the fate of an earlier expedition, only to find a mysterious and powerful force at play.",
+    "description": "A starship crew goes to investigate the silence of a planet's colony only to find two survivors and a deadly secret that one of them has.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0049223/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/forbidden_planet"
+  },
+  {
+    "title": "Written on the Wind",
+    "year": 1956,
+    "director": {
+      "name": "Douglas Sirk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0802862/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 5.7,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Rock Hudson", "imdb_person_url": "https://www.imdb.com/name/nm0001371/" },
+      { "name": "Lauren Bacall", "imdb_person_url": "https://www.imdb.com/name/nm0000004/" },
+      { "name": "Robert Stack", "imdb_person_url": "https://www.imdb.com/name/nm0821041/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actress in a Supporting Role"],
+    "description": "A dipsomaniac playboy and his nymphomaniac sister destroy the lives of the people around them in this Technicolor melodrama.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049966/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/written_on_the_wind"
+  },
+  {
+    "title": "The Killing",
+    "year": 1956,
+    "director": {
+      "name": "Stanley Kubrick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000040/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.32,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Sterling Hayden", "imdb_person_url": "https://www.imdb.com/name/nm0001330/" },
+      { "name": "Coleen Gray", "imdb_person_url": "https://www.imdb.com/name/nm0336538/" },
+      { "name": "Vince Edwards", "imdb_person_url": "https://www.imdb.com/name/nm0250436/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A career criminal recruits a team of small-time crooks to pull off one last big heist at a racetrack.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049406/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/killing"
+  },
+  {
+    "title": "Bigger Than Life",
+    "year": 1956,
+    "director": {
+      "name": "Nicholas Ray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0712953/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "James Mason", "imdb_person_url": "https://www.imdb.com/name/nm0000050/" },
+      { "name": "Barbara Rush", "imdb_person_url": "https://www.imdb.com/name/nm0750640/" },
+      { "name": "Walter Matthau", "imdb_person_url": "https://www.imdb.com/name/nm0000527/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A seriously ill school teacher becomes dependent on a miracle drug that begins to affect his sanity.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049010/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bigger_than_life"
+  },
+  {
+    "title": "Baby Doll",
+    "year": 1956,
+    "director": {
+      "name": "Elia Kazan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001415/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 2.3,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Karl Malden", "imdb_person_url": "https://www.imdb.com/name/nm0001500/" },
+      { "name": "Carroll Baker", "imdb_person_url": "https://www.imdb.com/name/nm0000833/" },
+      { "name": "Eli Wallach", "imdb_person_url": "https://www.imdb.com/name/nm0908919/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A child bride holds her husband at bay while a rival cotton gin owner tries to seduce her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048973/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/baby_doll"
+  },
+  {
+    "title": "Lust for Life",
+    "year": 1956,
+    "director": {
+      "name": "Vincente Minnelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001541/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 3.3,
+    "gross_revenue_usd_millions": 4.2,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Biography", "Drama"],
+    "actors": [
+      { "name": "Kirk Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0000018/" },
+      { "name": "Anthony Quinn", "imdb_person_url": "https://www.imdb.com/name/nm0000063/" },
+      { "name": "James Donald", "imdb_person_url": "https://www.imdb.com/name/nm0231983/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actor in a Supporting Role"],
+    "description": "The life of brilliant but tortured artist Vincent van Gogh.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049456/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lust_for_life"
+  },
+  {
+    "title": "Friendly Persuasion",
+    "year": 1956,
+    "director": {
+      "name": "William Wyler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
+    },
+    "production_studio": "Allied Artists",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 137,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 8,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Drama", "War", "Western"],
+    "actors": [
+      { "name": "Gary Cooper", "imdb_person_url": "https://www.imdb.com/name/nm0000011/" },
+      { "name": "Dorothy McGuire", "imdb_person_url": "https://www.imdb.com/name/nm0570219/" },
+      { "name": "Anthony Perkins", "imdb_person_url": "https://www.imdb.com/name/nm0000578/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A peaceful Quaker family is forced to deal with the violence of the Civil War.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049233/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/friendly_persuasion"
+  },
+  {
+    "title": "Anastasia",
+    "year": 1956,
+    "director": {
+      "name": "Anatole Litvak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514829/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "G",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 9,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "actors": [
+      { "name": "Ingrid Bergman", "imdb_person_url": "https://www.imdb.com/name/nm0000006/" },
+      { "name": "Yul Brynner", "imdb_person_url": "https://www.imdb.com/name/nm0000987/" },
+      { "name": "Helen Hayes", "imdb_person_url": "https://www.imdb.com/name/nm0002130/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actress"],
+    "description": "An opportunistic Russian businessman tries to pass an impostor as the Grand Duchess Anastasia.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048947/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000923-anastasia"
+  },
+  {
+    "title": "Bus Stop",
+    "year": 1956,
+    "director": {
+      "name": "Joshua Logan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0517603/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 2.2,
+    "gross_revenue_usd_millions": 7.3,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Marilyn Monroe", "imdb_person_url": "https://www.imdb.com/name/nm0000054/" },
+      { "name": "Don Murray", "imdb_person_url": "https://www.imdb.com/name/nm0614912/" },
+      { "name": "Arthur O'Connell", "imdb_person_url": "https://www.imdb.com/name/nm0640032/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A naive but stubborn cowboy falls in love with a saloon singer and tries to take her away to his ranch in Montana.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049038/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1003319-bus_stop"
+  },
+  {
+    "title": "High Society",
+    "year": 1956,
+    "director": {
+      "name": "Charles Walters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0910200/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 2.7,
+    "gross_revenue_usd_millions": 13,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Comedy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Bing Crosby", "imdb_person_url": "https://www.imdb.com/name/nm0001078/" },
+      { "name": "Grace Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000038/" },
+      { "name": "Frank Sinatra", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A spoiled heiress, Tracy Lord, must choose between three men: her ex-husband, a famous jazz musician, and a reporter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049314/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009624-high_society"
   },
   {
     "title": "The Man Who Knew Too Much",
@@ -336,344 +510,21 @@
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "85%"
+      "rotten_tomatoes_popcorn": "81%"
     },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
+    "genres": ["Drama", "Thriller"],
     "actors": [
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      },
-      {
-        "name": "Doris Day",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000015/"
-      },
-      {
-        "name": "Brenda de Banzie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0213123/"
-      }
+      { "name": "James Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Doris Day", "imdb_person_url": "https://www.imdb.com/name/nm0000017/" },
+      { "name": "Brenda de Banzie", "imdb_person_url": "https://www.imdb.com/name/nm0213027/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song"
-    ],
-    "description": "A family vacationing in Morocco accidentally stumbles upon an assassination plot and their son is kidnapped to ensure their silence.",
+    "oscars_won_details": ["Best Music, Original Song"],
+    "description": "An American family vacationing in Morocco stumbles onto an assassination plot and the conspirators are determined to prevent them from interfering.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0049470/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013112-man_who_knew_too_much"
-  },
-  {
-    "title": "Anastasia",
-    "year": 1956,
-    "director": {
-      "name": "Anatole Litvak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0514704/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 3.52,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Ingrid Bergman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
-      },
-      {
-        "name": "Yul Brynner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000989/"
-      },
-      {
-        "name": "Helen Hayes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001331/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress"
-    ],
-    "description": "A group of Russian exiles in Paris plot to collect a huge inheritance by grooming a destitute amnesiac to pose as the Grand Duchess Anastasia.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048947/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/anastasia_1956"
-  },
-  {
-    "title": "The Killing",
-    "year": 1956,
-    "director": {
-      "name": "Stanley Kubrick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000040/"
-    },
-    "production_studio": "Harris-Kubrick Pictures Corporation",
-    "mpaa_rating": "Approved",
-    "runtime_minutes": 85,
-    "budget_usd_millions": 0.32,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Sterling Hayden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001332/"
-      },
-      {
-        "name": "Coleen Gray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0336585/"
-      },
-      {
-        "name": "Vince Edwards",
-        "imdb_person_url": "https://www.imdb.com/name/nm0250392/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A career criminal gathers a team to pull off a daring racetrack heist.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049406/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/killing"
-  },
-  {
-    "title": "Aparajito",
-    "year": 1956,
-    "director": {
-      "name": "Satyajit Ray",
-      "imdb_person_url": "https://www.imdb.com/name/nm0006249/"
-    },
-    "production_studio": "Epic Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 110,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.2,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Pinaki Sengupta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0784011/"
-      },
-      {
-        "name": "Smaran Ghosal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0315758/"
-      },
-      {
-        "name": "Kanu Bannerjee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052513/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Apu and his family move to a village, but his father's health deteriorates, and Apu must start working. He excels in his studies and gets a scholarship to go to Kolkata, leaving his lonely mother behind.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048956/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/aparajito_the_unvanquished"
-  },
-  {
-    "title": "Lust for Life",
-    "year": 1956,
-    "director": {
-      "name": "Vincente Minnelli",
-      "imdb_person_url": "https://www.imdb.com/name/nm0591409/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 3.4,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Kirk Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
-      },
-      {
-        "name": "Anthony Quinn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000063/"
-      },
-      {
-        "name": "James Donald",
-        "imdb_person_url": "https://www.imdb.com/name/nm0232049/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Supporting Actor"
-    ],
-    "description": "The story of the life of Dutch painter Vincent van Gogh.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049456/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lust_for_life"
-  },
-  {
-    "title": "High Society",
-    "year": 1956,
-    "director": {
-      "name": "Charles Walters",
-      "imdb_person_url": "https://www.imdb.com/name/nm0910231/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 111,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 13,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Bing Crosby",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001080/"
-      },
-      {
-        "name": "Grace Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000038/"
-      },
-      {
-        "name": "Frank Sinatra",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000069/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A wealthy socialite's wedding plans are complicated by the simultaneous arrival of her ex-husband and a tabloid magazine journalist.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049314/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009809-high_society"
-  },
-  {
-    "title": "Moby Dick",
-    "year": 1956,
-    "director": {
-      "name": "John Huston",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001380/"
-    },
-    "production_studio": "Moulin Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 4.5,
-    "gross_revenue_usd_millions": 10.4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
-      },
-      {
-        "name": "Richard Basehart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000858/"
-      },
-      {
-        "name": "Leo Genn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0312814/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The sole survivor of a lost whaling ship relates the tale of his captain's self-destructive obsession to hunt the white whale, Moby Dick.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049513/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013936-moby_dick"
-  },
-  {
-    "title": "Bus Stop",
-    "year": 1956,
-    "director": {
-      "name": "Joshua Logan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0517594/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 4.25,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Marilyn Monroe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000054/"
-      },
-      {
-        "name": "Don Murray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0615132/"
-      },
-      {
-        "name": "Arthur O'Connell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0640060/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A naive but stubborn cowboy falls in love with a saloon singer and tries to force her to marry him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049038/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bus_stop"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013247-man_who_knew_too_much"
   },
   {
     "title": "The Wrong Man",
@@ -683,84 +534,462 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
     },
     "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 105,
     "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 2,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "83%"
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Vera Miles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001533/"
-      },
-      {
-        "name": "Anthony Quayle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002103/"
-      }
+      { "name": "Henry Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000020/" },
+      { "name": "Vera Miles", "imdb_person_url": "https://www.imdb.com/name/nm0587255/" },
+      { "name": "Anthony Quayle", "imdb_person_url": "https://www.imdb.com/name/nm0703032/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A musician is wrongly accused of a series of robberies, and his wife's mental health deteriorates as he tries to prove his innocence.",
+    "description": "A musician is mistaken for a vicious robber, and his wife's mental state deteriorates as his world collapses.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050017/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_wrong_man"
+    "imdb_url": "https://www.imdb.com/title/tt0051207/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wrong_man"
   },
   {
-    "title": "Friendly Persuasion",
+    "title": "War and Peace",
     "year": 1956,
     "director": {
-      "name": "William Wyler",
-      "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
+      "name": "King Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002230/"
     },
-    "production_studio": "Allied Artists Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 8,
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 208,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 6.25,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "55%"
     },
-    "genres": [
-      "Drama",
-      "Romance",
-      "War"
-    ],
+    "genres": ["Drama", "Romance", "War"],
     "actors": [
-      {
-        "name": "Gary Cooper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
-      },
-      {
-        "name": "Dorothy McGuire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001524/"
-      },
-      {
-        "name": "Anthony Perkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000578/"
-      }
+      { "name": "Audrey Hepburn", "imdb_person_url": "https://www.imdb.com/name/nm0000030/" },
+      { "name": "Henry Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000020/" },
+      { "name": "Mel Ferrer", "imdb_person_url": "https://www.imdb.com/name/nm0002072/" }
     ],
-    "oscars_nominated": 6,
+    "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A family of Quakers in Indiana during the Civil War must reconcile their pacifist beliefs with the reality of the conflict.",
+    "description": "Napoleon's tumultuous relations with Russia, including his disastrous 1812 invasion, serve as the backdrop for the tangled personal lives of two aristocratic families.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049233/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/friendly_persuasion"
+    "imdb_url": "https://www.imdb.com/title/tt0049934/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1022935-war_and_peace"
+  },
+  {
+    "title": "Moby Dick",
+    "year": 1956,
+    "director": {
+      "name": "John Huston",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 5.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": ["Adventure", "Drama"],
+    "actors": [
+      { "name": "Gregory Peck", "imdb_person_url": "https://www.imdb.com/name/nm0000060/" },
+      { "name": "Richard Basehart", "imdb_person_url": "https://www.imdb.com/name/nm0000859/" },
+      { "name": "Leo Genn", "imdb_person_url": "https://www.imdb.com/name/nm0312903/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The sole survivor of a lost whaling ship relates the tale of his captain's self-destructive obsession to hunt the white whale, Moby Dick.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049513/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1014017-moby_dick"
+  },
+  {
+    "title": "The Bad Seed",
+    "year": 1956,
+    "director": {
+      "name": "Mervyn LeRoy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004273/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 129,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 4.1,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Drama", "Horror", "Thriller"],
+    "actors": [
+      { "name": "Nancy Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0446709/" },
+      { "name": "Patty McCormack", "imdb_person_url": "https://www.imdb.com/name/nm0565623/" },
+      { "name": "Henry Jones", "imdb_person_url": "https://www.imdb.com/name/nm0428197/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A housewife suspects that her seemingly perfect eight-year-old daughter is a heartless killer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048977/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_seed"
+  },
+  {
+    "title": "Tea and Sympathy",
+    "year": 1956,
+    "director": {
+      "name": "Vincente Minnelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001541/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 3.75,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Deborah Kerr", "imdb_person_url": "https://www.imdb.com/name/nm0000039/" },
+      { "name": "John Kerr", "imdb_person_url": "https://www.imdb.com/name/nm0449723/" },
+      { "name": "Leif Erickson", "imdb_person_url": "https://www.imdb.com/name/nm0259119/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sensitive young student at a boarding school is bullied for not being 'manly' enough, but finds understanding from the housemaster's wife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049830/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tea_and_sympathy"
+  },
+  {
+    "title": "Carousel",
+    "year": 1956,
+    "director": {
+      "name": "Henry King",
+      "imdb_person_url": "https://www.imdb.com/name/nm0454778/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 3.4,
+    "gross_revenue_usd_millions": 3.75,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Drama", "Fantasy", "Musical"],
+    "actors": [
+      { "name": "Gordon MacRae", "imdb_person_url": "https://www.imdb.com/name/nm0534292/" },
+      { "name": "Shirley Jones", "imdb_person_url": "https://www.imdb.com/name/nm0001409/" },
+      { "name": "Cameron Mitchell", "imdb_person_url": "https://www.imdb.com/name/nm0593192/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A carnival barker returns from heaven to make amends to his wife and daughter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049055/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1003636-carousel"
+  },
+  {
+    "title": "Trapeze",
+    "year": 1956,
+    "director": {
+      "name": "Carol Reed",
+      "imdb_person_url": "https://www.imdb.com/name/nm0715343/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 4,
+    "gross_revenue_usd_millions": 7.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Tony Curtis", "imdb_person_url": "https://www.imdb.com/name/nm0000348/" },
+      { "name": "Gina Lollobrigida", "imdb_person_url": "https://www.imdb.com/name/nm0518178/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A crippled former aerialist mentors a young man to achieve the triple somersault on the trapeze.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049875/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/trapeze"
+  },
+  {
+    "title": "The Rainmaker",
+    "year": 1956,
+    "director": {
+      "name": "Joseph Anthony",
+      "imdb_person_url": "https://www.imdb.com/name/nm0030901/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 6,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": ["Romance", "Western"],
+    "actors": [
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Katharine Hepburn", "imdb_person_url": "https://www.imdb.com/name/nm0000031/" },
+      { "name": "Wendell Corey", "imdb_person_url": "https://www.imdb.com/name/nm0179836/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During the Depression era, a con man brings hope and romance to a spinster in a drought-stricken western town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049653/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017120-rainmaker"
+  },
+  {
+    "title": "The Teahouse of the August Moon",
+    "year": 1956,
+    "director": {
+      "name": "Daniel Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0542705/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 3.8,
+    "gross_revenue_usd_millions": 8.9,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Marlon Brando", "imdb_person_url": "https://www.imdb.com/name/nm0000008/" },
+      { "name": "Glenn Ford", "imdb_person_url": "https://www.imdb.com/name/nm0001229/" },
+      { "name": "Machiko Kyô", "imdb_person_url": "https://www.imdb.com/name/nm0477490/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In post-WWII Japan, an American captain is sent to an Okinawan village to teach the natives democracy, but they teach him a thing or two instead.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049830/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/teahouse_of_the_august_moon"
+  },
+  {
+    "title": "The Eddy Duchin Story",
+    "year": 1956,
+    "director": {
+      "name": "George Sidney",
+      "imdb_person_url": "https://www.imdb.com/name/nm0796532/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 2.6,
+    "gross_revenue_usd_millions": 5.3,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Biography", "Drama", "Music"],
+    "actors": [
+      { "name": "Tyrone Power", "imdb_person_url": "https://www.imdb.com/name/nm0001634/" },
+      { "name": "Kim Novak", "imdb_person_url": "https://www.imdb.com/name/nm0001571/" },
+      { "name": "Victoria Shaw", "imdb_person_url": "https://www.imdb.com/name/nm0789997/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The tragic life of pianist and bandleader Eddy Duchin, who rose to fame in the 1930s.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049176/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eddy_duchin_story"
+  },
+  {
+    "title": "Somebody Up There Likes Me",
+    "year": 1956,
+    "director": {
+      "name": "Robert Wise",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001862/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 3.3,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Biography", "Drama", "Sport"],
+    "actors": [
+      { "name": "Paul Newman", "imdb_person_url": "https://www.imdb.com/name/nm0000056/" },
+      { "name": "Pier Angeli", "imdb_person_url": "https://www.imdb.com/name/nm0029645/" },
+      { "name": "Everett Sloane", "imdb_person_url": "https://www.imdb.com/name/nm0805997/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Cinematography, Black-and-White", "Best Art Direction-Set Decoration, Black-and-White"],
+    "description": "The story of Rocky Graziano's rise from a juvenile delinquent to Middleweight Champion of the World.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049778/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/somebody_up_there_likes_me"
+  },
+  {
+    "title": "The Solid Gold Cadillac",
+    "year": 1956,
+    "director": {
+      "name": "Richard Quine",
+      "imdb_person_url": "https://www.imdb.com/name/nm0703706/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Judy Holliday", "imdb_person_url": "https://www.imdb.com/name/nm0002141/" },
+      { "name": "Paul Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0235208/" },
+      { "name": "Fred Clark", "imdb_person_url": "https://www.imdb.com/name/nm0163946/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Costume Design, Black-and-White"],
+    "description": "A minority stockholder in a large corporation manages to overturn the corrupt board of directors.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049777/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/solid_gold_cadillac"
+  },
+  {
+    "title": "The Girl Can't Help It",
+    "year": 1956,
+    "director": {
+      "name": "Frank Tashlin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0850895/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 6.25,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": ["Comedy", "Music", "Musical"],
+    "actors": [
+      { "name": "Tom Ewell", "imdb_person_url": "https://www.imdb.com/name/nm0263888/" },
+      { "name": "Jayne Mansfield", "imdb_person_url": "https://www.imdb.com/name/nm0542471/" },
+      { "name": "Edmond O'Brien", "imdb_person_url": "https://www.imdb.com/name/nm0639542/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A gangster hires a press agent to make his girlfriend a singing star, but the agent falls in love with her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049263/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/girl_cant_help_it"
+  },
+  {
+    "title": "Love Me Tender",
+    "year": 1956,
+    "director": {
+      "name": "Robert D. Webb",
+      "imdb_person_url": "https://www.imdb.com/name/nm0916262/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": ["Drama", "Musical", "Western"],
+    "actors": [
+      { "name": "Richard Egan", "imdb_person_url": "https://www.imdb.com/name/nm0250733/" },
+      { "name": "Debra Paget", "imdb_person_url": "https://www.imdb.com/name/nm0656437/" },
+      { "name": "Elvis Presley", "imdb_person_url": "https://www.imdb.com/name/nm0000062/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Confederate team is ordered to rob a Union payroll train but the war ends just after the robbery. They take the money and hide out.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049452/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/love_me_tender"
+  },
+  {
+    "title": "The Harder They Fall",
+    "year": 1956,
+    "director": {
+      "name": "Mark Robson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0733482/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Drama", "Film-Noir", "Sport"],
+    "actors": [
+      { "name": "Humphrey Bogart", "imdb_person_url": "https://www.imdb.com/name/nm0000007/" },
+      { "name": "Rod Steiger", "imdb_person_url": "https://www.imdb.com/name/nm0001768/" },
+      { "name": "Jan Sterling", "imdb_person_url": "https://www.imdb.com/name/nm0827525/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A down-on-his-luck sportswriter is hired by a shady promoter to promote a giant but talentless boxer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049291/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harder_they_fall"
   },
   {
     "title": "A Man Escaped",
@@ -775,344 +1004,518 @@
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 8.2,
+      "imdb": 8.3,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "92%"
     },
-    "genres": [
-      "Drama",
-      "Thriller",
-      "War"
-    ],
+    "genres": ["Drama", "Thriller", "War"],
     "actors": [
-      {
-        "name": "François Leterrier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0504780/"
-      },
-      {
-        "name": "Charles Le Clainche",
-        "imdb_person_url": "https://www.imdb.com/name/nm0494191/"
-      },
-      {
-        "name": "Maurice Beerblock",
-        "imdb_person_url": "https://www.imdb.com/name/nm0066533/"
-      }
+      { "name": "François Leterrier", "imdb_person_url": "https://www.imdb.com/name/nm0504637/" },
+      { "name": "Charles Le Clainche", "imdb_person_url": "https://www.imdb.com/name/nm0494237/" },
+      { "name": "Maurice Beerblock", "imdb_person_url": "https://www.imdb.com/name/nm0066472/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A captured French Resistance fighter plots his escape from a Nazi prison.",
+    "description": "A French Resistance activist is imprisoned by the Nazis and devotes his waking hours to planning an elaborate escape.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0049902/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_man_escaped"
   },
   {
-    "title": "War and Peace",
+    "title": "Bob le Flambeur",
     "year": 1956,
     "director": {
-      "name": "King Vidor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0896542/"
+      "name": "Jean-Pierre Melville",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001530/"
     },
-    "production_studio": "Ponti-De Laurentiis Cinematografica",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 208,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 12.5,
+    "production_studio": "Organisation Générale Cinématographique",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.7,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "47%",
-      "rotten_tomatoes_popcorn": "56%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "91%"
     },
-    "genres": [
-      "Drama",
-      "Romance",
-      "War"
-    ],
+    "genres": ["Crime", "Drama", "Thriller"],
     "actors": [
-      {
-        "name": "Audrey Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
-      },
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Mel Ferrer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001203/"
-      }
+      { "name": "Roger Duchesne", "imdb_person_url": "https://www.imdb.com/name/nm0239855/" },
+      { "name": "Isabelle Corey", "imdb_person_url": "https://www.imdb.com/name/nm0179805/" },
+      { "name": "Daniel Cauchy", "imdb_person_url": "https://www.imdb.com/name/nm0146426/" }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Napoleon's tumultuous relations with Russia including his disastrous 1812 invasion serve as the backdrop for the tangled personal lives of two aristocratic families.",
+    "description": "An old gangster and gambler plans to rob a casino in Deauville.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049934/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/war_and_peace_1956"
+    "imdb_url": "https://www.imdb.com/title/tt0049017/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bob_le_flambeur"
   },
   {
-    "title": "Bigger Than Life",
+    "title": "Aparajito",
     "year": 1956,
     "director": {
-      "name": "Nicholas Ray",
-      "imdb_person_url": "https://www.imdb.com/name/nm0712948/"
+      "name": "Satyajit Ray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001654/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Epic",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 95,
+    "runtime_minutes": 110,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001514/"
-      },
-      {
-        "name": "Barbara Rush",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001690/"
-      },
-      {
-        "name": "Walter Matthau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000527/"
-      }
+      { "name": "Pinaki Sen Gupta", "imdb_person_url": "https://www.imdb.com/name/nm0784128/" },
+      { "name": "Smaran Ghosal", "imdb_person_url": "https://www.imdb.com/name/nm0315938/" },
+      { "name": "Karuna Bannerjee", "imdb_person_url": "https://www.imdb.com/name/nm0052288/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A schoolteacher's life is turned upside down when an experimental drug causes him to have a psychotic breakdown.",
+    "description": "Apu and his family move from their village in Bengal to Varanasi.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049010/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bigger_than_life"
+    "imdb_url": "https://www.imdb.com/title/tt0048956/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_unvanquished"
   },
   {
-    "title": "Written on the Wind",
+    "title": "The Burmese Harp",
     "year": 1956,
     "director": {
-      "name": "Douglas Sirk",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003058/"
+      "name": "Kon Ichikawa",
+      "imdb_person_url": "https://www.imdb.com/name/nm0406683/"
     },
-    "production_studio": "Universal International Pictures",
+    "production_studio": "Nikkatsu",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 99,
+    "runtime_minutes": 116,
     "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 5.7,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "90%"
     },
-    "genres": [
-      "Drama",
-      "Film-Noir",
-      "Romance"
-    ],
+    "genres": ["Drama", "Music", "War"],
     "actors": [
-      {
-        "name": "Rock Hudson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001369/"
-      },
-      {
-        "name": "Lauren Bacall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000002/"
-      },
-      {
-        "name": "Robert Stack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0821041/"
-      }
+      { "name": "Rentarô Mikuni", "imdb_person_url": "https://www.imdb.com/name/nm0586638/" },
+      { "name": "Shôji Yasui", "imdb_person_url": "https://www.imdb.com/name/nm0946620/" },
+      { "name": "Tatsuya Mihashi", "imdb_person_url": "https://www.imdb.com/name/nm0586123/" }
     ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Supporting Actress"
-    ],
-    "description": "The self-destructive behavior of a Texas oil family's children threatens to tear the family apart.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050013/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/written_on_the_wind"
-  },
-  {
-    "title": "The Man in the Gray Flannel Suit",
-    "year": 1956,
-    "director": {
-      "name": "Nunnally Johnson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0425574/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 153,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 4,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Romance",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
-      },
-      {
-        "name": "Jennifer Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
-      },
-      {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
-      }
-    ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A World War II veteran struggles to balance the demands of his suburban family life with his high-pressure job in New York City.",
+    "description": "In the closing days of WWII, a Japanese soldier fails to get his countrymen to surrender to overwhelming force and adopts the lifestyle of a Buddhist monk.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049474/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_man_in_the_gray_flannel_suit"
+    "imdb_url": "https://www.imdb.com/title/tt0049012/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/burmese_harp"
   },
   {
-    "title": "The Bad Seed",
+    "title": "Seven Men from Now",
     "year": 1956,
     "director": {
-      "name": "Mervyn LeRoy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0504141/"
+      "name": "Budd Boetticher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0091329/"
     },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 4.1,
+    "production_studio": "Batjac Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 0.65,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "84%"
     },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Thriller"
-    ],
+    "genres": ["Western"],
     "actors": [
-      {
-        "name": "Nancy Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0446487/"
-      },
-      {
-        "name": "Patty McCormack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0566427/"
-      },
-      {
-        "name": "Henry Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0428220/"
-      }
+      { "name": "Randolph Scott", "imdb_person_url": "https://www.imdb.com/name/nm0000218/" },
+      { "name": "Gail Russell", "imdb_person_url": "https://www.imdb.com/name/nm0751159/" },
+      { "name": "Lee Marvin", "imdb_person_url": "https://www.imdb.com/name/nm0001511/" }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A mother begins to suspect that her angelic-looking daughter is a murderer.",
+    "description": "A former sheriff blames himself for his wife's death during a Wells Fargo robbery and vows to track down and kill the seven men responsible.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048977/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_bad_seed"
+    "imdb_url": "https://www.imdb.com/title/tt0049743/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_men_from_now"
   },
   {
-    "title": "Baby Doll",
+    "title": "Jubal",
     "year": 1956,
     "director": {
-      "name": "Elia Kazan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001415/"
+      "name": "Delmer Daves",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202606/"
     },
-    "production_studio": "Newtown Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 2.3,
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 101,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
       "imdb": 7.1,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "73%"
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "67%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Western"],
     "actors": [
-      {
-        "name": "Karl Malden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
-      },
-      {
-        "name": "Carroll Baker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000831/"
-      },
-      {
-        "name": "Eli Wallach",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001827/"
-      }
+      { "name": "Glenn Ford", "imdb_person_url": "https://www.imdb.com/name/nm0001229/" },
+      { "name": "Ernest Borgnine", "imdb_person_url": "https://www.imdb.com/name/nm0000308/" },
+      { "name": "Rod Steiger", "imdb_person_url": "https://www.imdb.com/name/nm0001768/" }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A middle-aged cotton gin owner's marriage to his child bride is threatened when a business rival arrives in their small Mississippi town.",
+    "description": "A Wyoming rancher's wife takes a liking to a new cowhand, which causes trouble with the ranch foreman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0048973/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/baby_doll"
+    "imdb_url": "https://www.imdb.com/title/tt0048233/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jubal"
   },
   {
-    "title": "Somebody Up There Likes Me",
+    "title": "Attack",
+    "year": 1956,
+    "director": {
+      "name": "Robert Aldrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
+    },
+    "production_studio": "The Associates & Aldrich Company",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Action", "Drama", "War"],
+    "actors": [
+      { "name": "Jack Palance", "imdb_person_url": "https://www.imdb.com/name/nm0001590/" },
+      { "name": "Eddie Albert", "imdb_person_url": "https://www.imdb.com/name/nm0000734/" },
+      { "name": "Lee Marvin", "imdb_person_url": "https://www.imdb.com/name/nm0001511/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A coward command officer causes the death of his men and the destruction of his unit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048965/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1001329-attack"
+  },
+  {
+    "title": "Patterns",
+    "year": 1956,
+    "director": {
+      "name": "Fielder Cook",
+      "imdb_person_url": "https://www.imdb.com/name/nm0177045/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Van Heflin", "imdb_person_url": "https://www.imdb.com/name/nm0002132/" },
+      { "name": "Everett Sloane", "imdb_person_url": "https://www.imdb.com/name/nm0805997/" },
+      { "name": "Ed Begley", "imdb_person_url": "https://www.imdb.com/name/nm0000893/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Fred Staples is recruited by a ruthless CEO to eventually replace a beloved but aging vice president, leading to a moral conflict.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049601/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/patterns"
+  },
+  {
+    "title": "While the City Sleeps",
+    "year": 1956,
+    "director": {
+      "name": "Fritz Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000485/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Dana Andrews", "imdb_person_url": "https://www.imdb.com/name/nm0000762/" },
+      { "name": "Rhonda Fleming", "imdb_person_url": "https://www.imdb.com/name/nm0002076/" },
+      { "name": "George Sanders", "imdb_person_url": "https://www.imdb.com/name/nm0001695/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Reporters compete to catch the \"Lipstick Killer\" while power plays ensue at a newspaper conglomerate.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049949/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/while_the_city_sleeps"
+  },
+  {
+    "title": "Beyond a Reasonable Doubt",
+    "year": 1956,
+    "director": {
+      "name": "Fritz Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000485/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 0.57,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Dana Andrews", "imdb_person_url": "https://www.imdb.com/name/nm0000762/" },
+      { "name": "Joan Fontaine", "imdb_person_url": "https://www.imdb.com/name/nm0000403/" },
+      { "name": "Sidney Blackmer", "imdb_person_url": "https://www.imdb.com/name/nm0085772/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A writer attempts to prove the inadequacies of circumstantial evidence by framing himself for a murder.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049002/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beyond_a_reasonable_doubt"
+  },
+  {
+    "title": "The Catered Affair",
+    "year": 1956,
+    "director": {
+      "name": "Richard Brooks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0112213/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 2.7,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Bette Davis", "imdb_person_url": "https://www.imdb.com/name/nm0000012/" },
+      { "name": "Ernest Borgnine", "imdb_person_url": "https://www.imdb.com/name/nm0000308/" },
+      { "name": "Debbie Reynolds", "imdb_person_url": "https://www.imdb.com/name/nm0001666/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An Irish cabby in the Bronx watches his wife go overboard planning their daughter's wedding.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049061/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/catered_affair"
+  },
+  {
+    "title": "The Swan",
+    "year": 1956,
+    "director": {
+      "name": "Charles Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0896520/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "G",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 3.7,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Grace Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000038/" },
+      { "name": "Alec Guinness", "imdb_person_url": "https://www.imdb.com/name/nm0000027/" },
+      { "name": "Louis Jourdan", "imdb_person_url": "https://www.imdb.com/name/nm0431152/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A princess is urged by her mother to marry her cousin, a crown prince, but she is attracted to the family tutor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049815/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1029414-swan"
+  },
+  {
+    "title": "Earth vs. the Flying Saucers",
+    "year": 1956,
+    "director": {
+      "name": "Fred F. Sears",
+      "imdb_person_url": "https://www.imdb.com/name/nm0780719/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.15,
+    "gross_revenue_usd_millions": 1.25,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Horror", "Sci-Fi"],
+    "actors": [
+      { "name": "Hugh Marlowe", "imdb_person_url": "https://www.imdb.com/name/nm0549137/" },
+      { "name": "Joan Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0852595/" },
+      { "name": "Donald Curtis", "imdb_person_url": "https://www.imdb.com/name/nm0193311/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Extraterrestrials in flying saucers contact a scientist as part of a plan to enslave the inhabitants of Earth.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049169/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/earth_vs_the_flying_saucers"
+  },
+  {
+    "title": "1984",
+    "year": 1956,
+    "director": {
+      "name": "Michael Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0027153/"
+    },
+    "production_studio": "Holiday Film Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.35,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "actors": [
+      { "name": "Edmond O'Brien", "imdb_person_url": "https://www.imdb.com/name/nm0639542/" },
+      { "name": "Michael Redgrave", "imdb_person_url": "https://www.imdb.com/name/nm0714887/" },
+      { "name": "Jan Sterling", "imdb_person_url": "https://www.imdb.com/name/nm0827525/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a totalitarian future society, a man whose daily work is rewriting history tries to rebel by falling in love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0048918/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000008-1984"
+  },
+  {
+    "title": "Battle of the River Plate",
+    "year": 1956,
+    "director": {
+      "name": "Michael Powell & Emeric Pressburger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000592/"
+    },
+    "production_studio": "The Archers",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": ["Action", "Drama", "War"],
+    "actors": [
+      { "name": "John Gregson", "imdb_person_url": "https://www.imdb.com/name/nm0339775/" },
+      { "name": "Anthony Quayle", "imdb_person_url": "https://www.imdb.com/name/nm0703032/" },
+      { "name": "Peter Finch", "imdb_person_url": "https://www.imdb.com/name/nm0002075/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the early months of World War II, the British Navy hunts down the powerful German battleship Graf Spee.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049018/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pursuit_of_the_graf_spee"
+  },
+  {
+    "title": "Helen of Troy",
     "year": 1956,
     "director": {
       "name": "Robert Wise",
-      "imdb_person_url": "https://www.imdb.com/name/nm0936404/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001862/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 1.9,
-    "gross_revenue_usd_millions": 3.3,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 14,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "45%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Sport"
-    ],
+    "genres": ["Adventure", "History", "Romance"],
     "actors": [
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Pier Angeli",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000760/"
-      },
-      {
-        "name": "Everett Sloane",
-        "imdb_person_url": "https://www.imdb.com/name/nm0806085/"
-      }
+      { "name": "Rossana Podestà", "imdb_person_url": "https://www.imdb.com/name/nm0688043/" },
+      { "name": "Jacques Sernas", "imdb_person_url": "https://www.imdb.com/name/nm0785293/" },
+      { "name": "Stanley Baker", "imdb_person_url": "https://www.imdb.com/name/nm0048940/" }
     ],
-    "oscars_nominated": 3,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Art Direction-Set Decoration, Black-and-White",
-      "Best Cinematography, Black-and-White"
-    ],
-    "description": "The story of boxer Rocky Graziano's rise from a troubled youth to the middleweight champion of the world.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The classic story of the Spartan queen whose elopement with the Prince of Troy sparks a decade-long war.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0049778/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/somebody_up_there_likes_me"
+    "imdb_url": "https://www.imdb.com/title/tt0049301/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009438-helen_of_troy"
+  },
+  {
+    "title": "A Kiss Before Dying",
+    "year": 1956,
+    "director": {
+      "name": "Gerd Oswald",
+      "imdb_person_url": "https://www.imdb.com/name/nm0652599/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 0.95,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "Robert Wagner", "imdb_person_url": "https://www.imdb.com/name/nm0001822/" },
+      { "name": "Jeffrey Hunter", "imdb_person_url": "https://www.imdb.com/name/nm0001374/" },
+      { "name": "Virginia Leith", "imdb_person_url": "https://www.imdb.com/name/nm0500654/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A ruthless college student resorts to murder in an attempt to marry an heiress.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0049414/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_kiss_before_dying"
   }
 ]
