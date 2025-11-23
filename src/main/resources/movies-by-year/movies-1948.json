@@ -4,17 +4,17 @@
     "year": 1948,
     "director": {
       "name": "John Huston",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001380/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "Passed",
     "runtime_minutes": 126,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 5,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 4.1,
     "ratings": {
       "imdb": 8.2,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
       "Adventure",
@@ -28,11 +28,11 @@
       },
       {
         "name": "Walter Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002151/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0404158/"
       },
       {
         "name": "Tim Holt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0392336/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0392542/"
       }
     ],
     "oscars_nominated": 4,
@@ -40,68 +40,24 @@
     "oscars_won_details": [
       "Best Director",
       "Best Supporting Actor",
-      "Best Writing, Screenplay"
+      "Best Screenplay"
     ],
     "description": "Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
-    "afi_ranking": 30,
+    "afi_ranking": 38,
     "imdb_url": "https://www.imdb.com/title/tt0040897/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/treasure_of_the_sierra_madre"
-  },
-  {
-    "title": "Bicycle Thieves",
-    "year": 1948,
-    "director": {
-      "name": "Vittorio De Sica",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001127/"
-    },
-    "production_studio": "Produzioni De Sica",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 0.133,
-    "gross_revenue_usd_millions": 0.4,
-    "ratings": {
-      "imdb": 8.3,
-      "rotten_tomatoes_critic": "99%",
-      "rotten_tomatoes_popcorn": "95%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Lamberto Maggiorani",
-        "imdb_person_url": "https://www.imdb.com/name/nm0535948/"
-      },
-      {
-        "name": "Enzo Staiola",
-        "imdb_person_url": "https://www.imdb.com/name/nm0821588/"
-      },
-      {
-        "name": "Lianella Carell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0136817/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Honorary Award"
-    ],
-    "description": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to support his family.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040522/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_bicycle_thief"
   },
   {
     "title": "The Red Shoes",
     "year": 1948,
     "director": {
-      "name": "Michael Powell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002019/"
+      "name": "Michael Powell & Emeric Pressburger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000592/"
     },
     "production_studio": "The Archers",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 135,
-    "budget_usd_millions": 0.6,
+    "runtime_minutes": 133,
+    "budget_usd_millions": 2,
     "gross_revenue_usd_millions": 5,
     "ratings": {
       "imdb": 8.1,
@@ -115,16 +71,16 @@
     ],
     "actors": [
       {
+        "name": "Moira Shearer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0790475/"
+      },
+      {
         "name": "Anton Walbrook",
-        "imdb_person_url": "https://www.imdb.com/name/nm0907246/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0906973/"
       },
       {
         "name": "Marius Goring",
-        "imdb_person_url": "https://www.imdb.com/name/nm0330910/"
-      },
-      {
-        "name": "Moira Shearer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0790452/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0330924/"
       }
     ],
     "oscars_nominated": 5,
@@ -133,54 +89,10 @@
       "Best Art Direction-Set Decoration, Color",
       "Best Music, Scoring of a Dramatic or Comedy Picture"
     ],
-    "description": "A young ballerina is torn between the man she loves and her pursuit to become a prima ballerina.",
+    "description": "A young ballet dancer is torn between the man she loves and her pursuit to become a prima ballerina.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040721/",
+    "imdb_url": "https://www.imdb.com/title/tt0040725/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_red_shoes"
-  },
-  {
-    "title": "Rope",
-    "year": 1948,
-    "director": {
-      "name": "Alfred Hitchcock",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 80,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": 2,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      },
-      {
-        "name": "John Dall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0198129/"
-      },
-      {
-        "name": "Farley Granger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001289/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two men attempt to prove they committed the perfect crime by hosting a dinner party after strangling a former classmate and hiding his body in a chest.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040746/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rope"
   },
   {
     "title": "Hamlet",
@@ -190,14 +102,14 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
     },
     "production_studio": "Two Cities Films",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 155,
     "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 4.1,
+    "gross_revenue_usd_millions": 3.25,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "82%"
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "75%"
     },
     "genres": [
       "Drama"
@@ -209,11 +121,11 @@
       },
       {
         "name": "Jean Simmons",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001732/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001739/"
       },
       {
-        "name": "John Laurie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0491417/"
+        "name": "Eileen Herlie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0379089/"
       }
     ],
     "oscars_nominated": 7,
@@ -224,27 +136,159 @@
       "Best Art Direction-Set Decoration, Black-and-White",
       "Best Costume Design, Black-and-White"
     ],
-    "description": "Prince Hamlet struggles over whether or not he should kill his uncle, whom he suspects has murdered his father, the former king.",
+    "description": "Prince Hamlet struggles over whether or not he should kill his uncle, whom he suspects has murdered his father, the former King.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0040416/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hamlet-1948"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009184-hamlet"
+  },
+  {
+    "title": "Bicycle Thieves",
+    "year": 1948,
+    "director": {
+      "name": "Vittorio De Sica",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001126/"
+    },
+    "production_studio": "Produzioni De Sica",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 0.13,
+    "gross_revenue_usd_millions": 0.4,
+    "ratings": {
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Lamberto Maggiorani",
+        "imdb_person_url": "https://www.imdb.com/name/nm0535994/"
+      },
+      {
+        "name": "Enzo Staiola",
+        "imdb_person_url": "https://www.imdb.com/name/nm0821641/"
+      },
+      {
+        "name": "Lianella Carell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0136850/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Honorary Award (Best Foreign Language Film)"
+    ],
+    "description": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040522/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bicycle_thieves"
+  },
+  {
+    "title": "Red River",
+    "year": 1948,
+    "director": {
+      "name": "Howard Hawks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
+    },
+    "production_studio": "Monterey Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 133,
+    "budget_usd_millions": 2.7,
+    "gross_revenue_usd_millions": 9,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Montgomery Clift",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001050/"
+      },
+      {
+        "name": "Joanne Dru",
+        "imdb_person_url": "https://www.imdb.com/name/nm0238445/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A rebellious young man and his tyrannical foster father fall out during a cattle drive from Texas to Missouri.",
+    "afi_ranking": 59,
+    "imdb_url": "https://www.imdb.com/title/tt0040724/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/red_river"
+  },
+  {
+    "title": "Rope",
+    "year": 1948,
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
+    "production_studio": "Transatlantic Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.7,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      },
+      {
+        "name": "John Dall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0197979/"
+      },
+      {
+        "name": "Farley Granger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0335042/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two men try to convince themselves they've committed the perfect murder by hosting a dinner party after strangling a former classmate to death.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040746/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rope"
   },
   {
     "title": "Key Largo",
     "year": 1948,
     "director": {
       "name": "John Huston",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001380/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
     },
     "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 100,
-    "budget_usd_millions": 1.4,
+    "budget_usd_millions": 1.8,
     "gross_revenue_usd_millions": 3.3,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Action",
@@ -258,11 +302,11 @@
       },
       {
         "name": "Edward G. Robinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000062/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
       },
       {
         "name": "Lauren Bacall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000002/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000004/"
       }
     ],
     "oscars_nominated": 1,
@@ -270,71 +314,71 @@
     "oscars_won_details": [
       "Best Supporting Actress"
     ],
-    "description": "A man visits his war buddy's family hotel and finds a gangster running things. As a hurricane approaches, the two end up confronting each other.",
+    "description": "A man visits his old friend's hotel and finds a gangster running things. As a hurricane approaches, the two end up confronting each other.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0040506/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/key_largo"
   },
   {
-    "title": "Red River",
+    "title": "Johnny Belinda",
     "year": 1948,
     "director": {
-      "name": "Howard Hawks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
+      "name": "Jean Negulesco",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624535/"
     },
-    "production_studio": "Monterey Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 2.7,
-    "gross_revenue_usd_millions": 4.5,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 7,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
-      "Action",
-      "Adventure",
-      "Romance"
+      "Drama"
     ],
     "actors": [
       {
-        "name": "John Wayne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+        "name": "Jane Wyman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001866/"
       },
       {
-        "name": "Montgomery Clift",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001050/"
+        "name": "Lew Ayres",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000819/"
       },
       {
-        "name": "Joanne Dru",
-        "imdb_person_url": "https://www.imdb.com/name/nm0238541/"
+        "name": "Charles Bickford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000937/"
       }
     ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A rancher leads a massive cattle drive from Texas to Missouri, but his tyrannical leadership causes a mutiny.",
+    "oscars_nominated": 12,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress"
+    ],
+    "description": "A kind doctor volunteers to tutor a deaf-mute woman, but scandal starts to swirl when his pupil is raped and falls pregnant.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040724/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/red_river"
+    "imdb_url": "https://www.imdb.com/title/tt0040495/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/johnny_belinda"
   },
   {
     "title": "The Snake Pit",
     "year": 1948,
     "director": {
       "name": "Anatole Litvak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0514704/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0514829/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 108,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 4.3,
+    "budget_usd_millions": 3.8,
+    "gross_revenue_usd_millions": 10,
     "ratings": {
-      "imdb": 7.5,
+      "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "82%"
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
       "Drama",
@@ -347,11 +391,11 @@
       },
       {
         "name": "Mark Stevens",
-        "imdb_person_url": "https://www.imdb.com/name/nm0828751/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0827182/"
       },
       {
         "name": "Leo Genn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0312814/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0312903/"
       }
     ],
     "oscars_nominated": 6,
@@ -359,98 +403,57 @@
     "oscars_won_details": [
       "Best Sound, Recording"
     ],
-    "description": "A young woman in a mental institution struggles to remember how she got there.",
+    "description": "A detailed chronicle that tells the story of a woman who finds herself in an insane asylum and cannot remember how she got there.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0040806/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_snake_pit"
   },
   {
-    "title": "Sorry, Wrong Number",
+    "title": "The Naked City",
     "year": 1948,
     "director": {
-      "name": "Anatole Litvak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0514704/"
+      "name": "Jules Dassin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202088/"
     },
-    "production_studio": "Hal Wallis Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "Universal International",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 2.4,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "74%"
     },
     "genres": [
+      "Crime",
       "Drama",
-      "Film-Noir",
-      "Mystery"
+      "Film-Noir"
     ],
     "actors": [
       {
-        "name": "Barbara Stanwyck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001761/"
+        "name": "Barry Fitzgerald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002076/"
       },
       {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
+        "name": "Howard Duff",
+        "imdb_person_url": "https://www.imdb.com/name/nm0240405/"
       },
       {
-        "name": "Ann Richards",
-        "imdb_person_url": "https://www.imdb.com/name/nm0724131/"
+        "name": "Dorothy Hart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0366244/"
       }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A bedridden woman overhears a murder plot on the phone and frantically tries to prevent it.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040816/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sorry_wrong_number"
-  },
-  {
-    "title": "Johnny Belinda",
-    "year": 1948,
-    "director": {
-      "name": "Jean Negulesco",
-      "imdb_person_url": "https://www.imdb.com/name/nm0624535/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 1.9,
-    "gross_revenue_usd_millions": 4.1,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jane Wyman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Lew Ayres",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000835/"
-      },
-      {
-        "name": "Charles Bickford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000936/"
-      }
-    ],
-    "oscars_nominated": 12,
-    "oscars_won": 1,
+    "oscars_nominated": 3,
+    "oscars_won": 2,
     "oscars_won_details": [
-      "Best Actress"
+      "Best Cinematography, Black-and-White",
+      "Best Film Editing"
     ],
-    "description": "A doctor in a small Nova Scotia town helps a deaf-mute woman, who is misunderstood by the community, learn to communicate.",
+    "description": "Police investigate the murder of a young woman in New York City.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040496/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/johnny_belinda"
+    "imdb_url": "https://www.imdb.com/title/tt0040636/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/naked_city"
   },
   {
     "title": "Fort Apache",
@@ -460,14 +463,14 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
     },
     "production_studio": "Argosy Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 125,
-    "budget_usd_millions": 2.8,
-    "gross_revenue_usd_millions": 4.2,
+    "budget_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 3,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Western"
@@ -489,77 +492,122 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A stubborn cavalry commander, resentful of his new post, clashes with a more experienced captain and endangers his command with his arrogance.",
+    "description": "At Fort Apache, an honorable and veteran war captain finds conflict when his regime is placed under the command of a young, glory hungry lieutenant colonel with no respect for the local Indian tribe.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0040366/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fort_apache"
   },
   {
-    "title": "The Naked City",
+    "title": "The Search",
     "year": 1948,
     "director": {
-      "name": "Jules Dassin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0202111/"
+      "name": "Fred Zinnemann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0957037/"
     },
-    "production_studio": "Mark Hellinger Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 0.67,
-    "gross_revenue_usd_millions": 2.5,
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.3,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "78%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
-      "Crime",
       "Drama",
-      "Film-Noir"
+      "War"
     ],
     "actors": [
       {
-        "name": "Barry Fitzgerald",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002075/"
+        "name": "Montgomery Clift",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001050/"
       },
       {
-        "name": "Howard Duff",
-        "imdb_person_url": "https://www.imdb.com/name/nm0240391/"
+        "name": "Aline MacMahon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0533869/"
       },
       {
-        "name": "Dorothy Hart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0366299/"
+        "name": "Ivan Jandl",
+        "imdb_person_url": "https://www.imdb.com/name/nm0417320/"
       }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 4,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Cinematography, Black-and-White",
-      "Best Film Editing"
+      "Best Writing, Motion Picture Story",
+      "Juvenile Award"
     ],
-    "description": "A police procedural following two detectives as they investigate a model's murder in New York City.",
+    "description": "An American soldier in post-war Germany helps a lost Czech boy find his mother.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040636/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_naked_city"
+    "imdb_url": "https://www.imdb.com/title/tt0040760/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1018491-search"
+  },
+  {
+    "title": "Joan of Arc",
+    "year": 1948,
+    "director": {
+      "name": "Victor Fleming",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001221/"
+    },
+    "production_studio": "Sierra Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 145,
+    "budget_usd_millions": 4.6,
+    "gross_revenue_usd_millions": 6,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "45%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Ingrid Bergman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
+      },
+      {
+        "name": "José Ferrer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001207/"
+      },
+      {
+        "name": "Francis L. Sullivan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0838082/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Cinematography, Color",
+      "Best Costume Design, Color"
+    ],
+    "description": "The story of the 15th-century French peasant girl who led the French army against the British.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040491/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011066-joan_of_arc"
   },
   {
     "title": "Easter Parade",
     "year": 1948,
     "director": {
       "name": "Charles Walters",
-      "imdb_person_url": "https://www.imdb.com/name/nm0910231/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0910200/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 107,
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 103,
     "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 6.1,
+    "gross_revenue_usd_millions": 6.8,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
-      "Comedy",
       "Musical",
       "Romance"
     ],
@@ -574,7 +622,7 @@
       },
       {
         "name": "Peter Lawford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001458/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0492487/"
       }
     ],
     "oscars_nominated": 1,
@@ -582,27 +630,769 @@
     "oscars_won_details": [
       "Best Music, Scoring of a Musical Picture"
     ],
-    "description": "A nightclub performer hires a chorus girl as his new partner to make his former partner jealous, but he falls in love with her.",
+    "description": "A nightclub performer hires a naive chorus girl to become his new partner to make his former partner jealous and prove he can make a star out of anyone.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0040308/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/easter_parade"
+  },
+  {
+    "title": "The Fallen Idol",
+    "year": 1948,
+    "director": {
+      "name": "Carol Reed",
+      "imdb_person_url": "https://www.imdb.com/name/nm0715343/"
+    },
+    "production_studio": "London Film Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 2.1,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Ralph Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002136/"
+      },
+      {
+        "name": "Michèle Morgan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0604908/"
+      },
+      {
+        "name": "Bobby Henrey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0377692/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A diplomat's son creates a web of lies to protect the butler he idolizes, who is suspected of murdering his wife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040338/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fallen_idol"
+  },
+  {
+    "title": "The Paleface",
+    "year": 1948,
+    "director": {
+      "name": "Norman Z. McLeod",
+      "imdb_person_url": "https://www.imdb.com/name/nm0572232/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Bob Hope",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
+      },
+      {
+        "name": "Jane Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
+      },
+      {
+        "name": "Robert Armstrong",
+        "imdb_person_url": "https://www.imdb.com/name/nm0035874/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song"
+    ],
+    "description": "Calamity Jane is sent to find out who is smuggling rifles to the Indians and winds up married to a hapless dentist as part of her cover.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040679/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_paleface"
+  },
+  {
+    "title": "A Foreign Affair",
+    "year": 1948,
+    "director": {
+      "name": "Billy Wilder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000791/"
+      },
+      {
+        "name": "Marlene Dietrich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+      },
+      {
+        "name": "John Lund",
+        "imdb_person_url": "https://www.imdb.com/name/nm0526197/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A congressional committee visits occupied Berlin to investigate G.I. morale, where a strait-laced congresswoman gets involved in a love triangle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040367/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_foreign_affair"
+  },
+  {
+    "title": "Letter from an Unknown Woman",
+    "year": 1948,
+    "director": {
+      "name": "Max Ophüls",
+      "imdb_person_url": "https://www.imdb.com/name/nm0006218/"
+    },
+    "production_studio": "Universal International",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Joan Fontaine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000403/"
+      },
+      {
+        "name": "Louis Jourdan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0431152/"
+      },
+      {
+        "name": "Mady Christians",
+        "imdb_person_url": "https://www.imdb.com/name/nm0160257/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pianist receives a letter from a woman he has known his whole life but never truly noticed.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040536/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/letter_from_an_unknown_woman"
+  },
+  {
+    "title": "Sitting Pretty",
+    "year": 1948,
+    "director": {
+      "name": "Walter Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0485969/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 84,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 4.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Robert Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950062/"
+      },
+      {
+        "name": "Maureen O'Hara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000058/"
+      },
+      {
+        "name": "Clifton Webb",
+        "imdb_person_url": "https://www.imdb.com/name/nm0916073/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mysterious man is hired as a babysitter by a struggling couple, but he has a secret agenda.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040795/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sitting_pretty"
+  },
+  {
+    "title": "Sorry, Wrong Number",
+    "year": 1948,
+    "director": {
+      "name": "Anatole Litvak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514829/"
+    },
+    "production_studio": "Hal Wallis Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.85,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Film-Noir",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Barbara Stanwyck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001766/"
+      },
+      {
+        "name": "Burt Lancaster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000044/"
+      },
+      {
+        "name": "Ann Richards",
+        "imdb_person_url": "https://www.imdb.com/name/nm0723954/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bedridden woman accidentally overhears a murder plot on the telephone, but cannot get anyone to believe her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040827/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sorry_wrong_number"
+  },
+  {
+    "title": "I Remember Mama",
+    "year": 1948,
+    "director": {
+      "name": "George Stevens",
+      "imdb_person_url": "https://www.imdb.com/name/nm0828412/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 3.07,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Irene Dunne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002052/"
+      },
+      {
+        "name": "Barbara Bel Geddes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000900/"
+      },
+      {
+        "name": "Oscar Homolka",
+        "imdb_person_url": "https://www.imdb.com/name/nm0392929/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Norwegian immigrant family in San Francisco in the 1910s is held together by their wise and loving mother.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040458/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_remember_mama"
+  },
+  {
+    "title": "Mr. Blandings Builds His Dream House",
+    "year": 1948,
+    "director": {
+      "name": "H.C. Potter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0693275/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 2.2,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Myrna Loy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
+      },
+      {
+        "name": "Melvyn Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002049/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Manhattan family moves to the country and buys a dilapidated farmhouse, leading to a series of comedic renovation disasters.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040613/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mr_blandings_builds_his_dream_house"
+  },
+  {
+    "title": "Abbott and Costello Meet Frankenstein",
+    "year": 1948,
+    "director": {
+      "name": "Charles Barton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0059094/"
+    },
+    "production_studio": "Universal International",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Bud Abbott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000715/"
+      },
+      {
+        "name": "Lou Costello",
+        "imdb_person_url": "https://www.imdb.com/name/nm0182579/"
+      },
+      {
+        "name": "Lon Chaney Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0151606/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two freight handlers encounter Dracula, the Frankenstein Monster, and the Wolf Man.",
+    "afi_ranking": 56,
+    "imdb_url": "https://www.imdb.com/title/tt0040068/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/abbott_and_costello_meet_frankenstein"
+  },
+  {
+    "title": "The Three Musketeers",
+    "year": 1948,
+    "director": {
+      "name": "George Sidney",
+      "imdb_person_url": "https://www.imdb.com/name/nm0796532/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 8.4,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Lana Turner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001805/"
+      },
+      {
+        "name": "Gene Kelly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
+      },
+      {
+        "name": "June Allyson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000742/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "D'Artagnan and his Musketeer friends Athos, Porthos, and Aramis fight to protect the King of France and his Queen from the machinations of Cardinal Richelieu.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040876/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_three_musketeers_1948"
+  },
+  {
+    "title": "3 Godfathers",
+    "year": 1948,
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
+    "production_studio": "Argosy Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Pedro Armendáriz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000785/"
+      },
+      {
+        "name": "Harry Carey Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0136968/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three outlaws on the run discover a dying woman and her baby. They swear to save the child and risk their freedom to do so.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040875/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/3_godfathers"
+  },
+  {
+    "title": "State of the Union",
+    "year": 1948,
+    "director": {
+      "name": "Frank Capra",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+    },
+    "production_studio": "Liberty Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 2.4,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Spencer Tracy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
+      },
+      {
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
+      },
+      {
+        "name": "Van Johnson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An aircraft tycoon is urged to run for President, but he finds that he has to compromise his principles and his marriage.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040834/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/state_of_the_union"
+  },
+  {
+    "title": "Force of Evil",
+    "year": 1948,
+    "director": {
+      "name": "Abraham Polonsky",
+      "imdb_person_url": "https://www.imdb.com/name/nm0689753/"
+    },
+    "production_studio": "The Enterprise Studios",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "John Garfield",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002092/"
+      },
+      {
+        "name": "Thomas Gomez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0326955/"
+      },
+      {
+        "name": "Marie Windsor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0934809/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An unethical lawyer tries to protect his older brother from a gangster who is taking over the numbers racket.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040366/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/force_of_evil"
+  },
+  {
+    "title": "They Live by Night",
+    "year": 1948,
+    "director": {
+      "name": "Nicholas Ray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0712953/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 0.4,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Cathy O'Donnell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0640945/"
+      },
+      {
+        "name": "Farley Granger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0335042/"
+      },
+      {
+        "name": "Howard Da Silva",
+        "imdb_person_url": "https://www.imdb.com/name/nm0196245/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An escaped convict and a young woman fall in love and try to live a normal life while on the run from the law.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040874/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/they_live_by_night"
+  },
+  {
+    "title": "Unfaithfully Yours",
+    "year": 1948,
+    "director": {
+      "name": "Preston Sturges",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001785/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 1.3,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Rex Harrison",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
+      },
+      {
+        "name": "Linda Darnell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001105/"
+      },
+      {
+        "name": "Rudy Vallee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0884940/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A famous conductor suspects his wife of infidelity and fantasizes about three different ways to handle the situation during a concert.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040919/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/unfaithfully_yours"
+  },
+  {
+    "title": "Oliver Twist",
+    "year": 1948,
+    "director": {
+      "name": "David Lean",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000180/"
+    },
+    "production_studio": "Cineguild",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robert Newton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0628580/"
+      },
+      {
+        "name": "Alec Guinness",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000027/"
+      },
+      {
+        "name": "Kay Walsh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0909731/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An orphan boy in London is taken in by a gang of thieves led by the treacherous Fagin.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040666/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015662-oliver_twist"
+  },
+  {
+    "title": "The Big Clock",
+    "year": 1948,
+    "director": {
+      "name": "John Farrow",
+      "imdb_person_url": "https://www.imdb.com/name/nm0268477/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Ray Milland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001537/"
+      },
+      {
+        "name": "Charles Laughton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000044/"
+      },
+      {
+        "name": "Maureen O'Sullivan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0642803/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A magazine editor is framed for a murder committed by his powerful boss and must solve the crime himself while avoiding capture.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040160/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_big_clock"
   },
   {
     "title": "The Pirate",
     "year": 1948,
     "director": {
       "name": "Vincente Minnelli",
-      "imdb_person_url": "https://www.imdb.com/name/nm0591409/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001541/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 102,
     "budget_usd_millions": 3.7,
     "gross_revenue_usd_millions": 2.9,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "64%"
     },
     "genres": [
       "Adventure",
@@ -620,249 +1410,77 @@
       },
       {
         "name": "Walter Slezak",
-        "imdb_person_url": "https://www.imdb.com/name/nm0805790/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0805950/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young woman, engaged to a stuffy older man, fantasizes about a notorious pirate. A traveling actor impersonates the pirate to win her love.",
+    "description": "A girl is engaged to the local rich man, but meanwhile she has dreams about the legendary pirate Macoco. A traveling singer falls in love with her and to impress her he poses as the pirate.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0040694/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pirate"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_pirate"
   },
   {
-    "title": "I Remember Mama",
+    "title": "Yellow Sky",
     "year": 1948,
     "director": {
-      "name": "George Stevens",
-      "imdb_person_url": "https://www.imdb.com/name/nm0828552/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 3.1,
-    "gross_revenue_usd_millions": 3.7,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Irene Dunne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002050/"
-      },
-      {
-        "name": "Barbara Bel Geddes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000894/"
-      },
-      {
-        "name": "Oskar Homolka",
-        "imdb_person_url": "https://www.imdb.com/name/nm0392945/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A Norwegian immigrant family in San Francisco in the early 20th century is held together by their loving and self-sacrificing mother.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040461/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_remember_mama"
-  },
-  {
-    "title": "Unfaithfully Yours",
-    "year": 1948,
-    "director": {
-      "name": "Preston Sturges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002545/"
+      "name": "William A. Wellman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0919943/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 105,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Rex Harrison",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
-      },
-      {
-        "name": "Linda Darnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001103/"
-      },
-      {
-        "name": "Barbara Lawrence",
-        "imdb_person_url": "https://www.imdb.com/name/nm0492823/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A symphony conductor's jealousy and suspicions about his wife's fidelity lead him to imagine three different scenarios for dealing with the situation, each inspired by the music he is conducting.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040921/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/unfaithfully_yours"
-  },
-  {
-    "title": "State of the Union",
-    "year": 1948,
-    "director": {
-      "name": "Frank Capra",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
-    },
-    "production_studio": "Liberty Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 2.6,
-    "gross_revenue_usd_millions": 5.2,
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 3.2,
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
-      "Comedy",
+      "Crime",
       "Drama",
-      "Romance"
+      "Western"
     ],
     "actors": [
       {
-        "name": "Spencer Tracy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
+        "name": "Gregory Peck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
       },
       {
-        "name": "Katharine Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
+        "name": "Anne Baxter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000882/"
       },
       {
-        "name": "Van Johnson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002621/"
+        "name": "Richard Widmark",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001847/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An idealistic industrialist is urged to run for president, but he is torn between his principles and the compromises of politics.",
+    "description": "A gang of bank robbers hides out in a ghost town where they encounter an old prospector and his tomboy granddaughter.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040828/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/state_of_the_union"
+    "imdb_url": "https://www.imdb.com/title/tt0040978/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/yellow_sky"
   },
   {
-    "title": "The Lady from Shanghai",
+    "title": "Macbeth",
     "year": 1948,
     "director": {
       "name": "Orson Welles",
       "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
     },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 87,
-    "budget_usd_millions": 2.3,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "Mercury Productions",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 0.5,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "78%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Rita Hayworth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000028/"
-      },
-      {
-        "name": "Orson Welles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
-      },
-      {
-        "name": "Everett Sloane",
-        "imdb_person_url": "https://www.imdb.com/name/nm0806085/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Fascinated by the beauty of a mysterious woman, a smitten man joins her and her husband on their yacht, but their cruise is not as idyllic as it seems.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040525/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lady_from_shanghai"
-  },
-  {
-    "title": "Letter from an Unknown Woman",
-    "year": 1948,
-    "director": {
-      "name": "Max Ophüls",
-      "imdb_person_url": "https://www.imdb.com/name/nm0649244/"
-    },
-    "production_studio": "Universal International Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 86,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Joan Fontaine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
-      },
-      {
-        "name": "Louis Jourdan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0431142/"
-      },
-      {
-        "name": "Mady Christians",
-        "imdb_person_url": "https://www.imdb.com/name/nm0160241/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "On the eve of a duel, a concert pianist receives a letter from a woman he cannot remember, who tells him the story of their tragic love affair.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040536/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/letter_from_an_unknown_woman"
-  },
-  {
-    "title": "The Search",
-    "year": 1948,
-    "director": {
-      "name": "Fred Zinnemann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 105,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "71%"
     },
     "genres": [
       "Drama",
@@ -870,179 +1488,42 @@
     ],
     "actors": [
       {
-        "name": "Montgomery Clift",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001050/"
+        "name": "Orson Welles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
       },
       {
-        "name": "Aline MacMahon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0534062/"
+        "name": "Jeanette Nolan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0634300/"
       },
       {
-        "name": "Jarmila Novotna",
-        "imdb_person_url": "https://www.imdb.com/name/nm0637300/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Story"
-    ],
-    "description": "In postwar Germany, an American soldier helps a lost Czech boy find his mother.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040765/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_search"
-  },
-  {
-    "title": "Force of Evil",
-    "year": 1948,
-    "director": {
-      "name": "Abraham Polonsky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0690188/"
-    },
-    "production_studio": "Enterprise Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 78,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "John Garfield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002092/"
-      },
-      {
-        "name": "Beatrice Pearson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0669229/"
-      },
-      {
-        "name": "Thomas Gomez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0326827/"
+        "name": "Dan O'Herlihy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641469/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A lawyer for a powerful mobster gets his idealistic older brother involved in the numbers racket.",
+    "description": "A Scottish lord becomes convinced by a trio of witches that he will become the next King of Scotland, and his ambitious wife supports him in his plans of seizing power.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040366/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/force_of_evil"
-  },
-  {
-    "title": "Adventures of Don Juan",
-    "year": 1948,
-    "director": {
-      "name": "Vincent Sherman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0792576/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 4.7,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "67%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Errol Flynn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Viveca Lindfors",
-        "imdb_person_url": "https://www.imdb.com/name/nm0512019/"
-      },
-      {
-        "name": "Robert Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0235140/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Costume Design, Color"
-    ],
-    "description": "The legendary lover Don Juan is sent to the court of Spain to serve the queen, but his reputation precedes him, and he finds himself in the middle of court intrigue.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040076/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/adventures_of_don_juan"
-  },
-  {
-    "title": "The Paleface",
-    "year": 1948,
-    "director": {
-      "name": "Norman Z. McLeod",
-      "imdb_person_url": "https://www.imdb.com/name/nm0572855/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 4.5,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Comedy",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Bob Hope",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001362/"
-      },
-      {
-        "name": "Jane Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001691/"
-      },
-      {
-        "name": "Robert Armstrong",
-        "imdb_person_url": "https://www.imdb.com/name/nm0035848/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song"
-    ],
-    "description": "A bumbling dentist and a sharpshooting cowgirl get mixed up with outlaws and Indians in the Old West.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040673/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_paleface"
+    "imdb_url": "https://www.imdb.com/title/tt0040558/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012939-macbeth"
   },
   {
     "title": "Portrait of Jennie",
     "year": 1948,
     "director": {
       "name": "William Dieterle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0226189/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0002043/"
     },
-    "production_studio": "The Selznick Studio",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Vanguard Films",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 86,
-    "budget_usd_millions": 4.1,
+    "budget_usd_millions": 4,
     "gross_revenue_usd_millions": 1.5,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Drama",
@@ -1052,15 +1533,15 @@
     "actors": [
       {
         "name": "Jennifer Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0428353/"
       },
       {
         "name": "Joseph Cotten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001070/"
       },
       {
         "name": "Ethel Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000863/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000856/"
       }
     ],
     "oscars_nominated": 2,
@@ -1068,32 +1549,597 @@
     "oscars_won_details": [
       "Best Special Effects"
     ],
-    "description": "A struggling artist meets a mysterious young woman who becomes his muse, but her appearances are fleeting and seem to defy time.",
+    "description": "A struggling artist meets a mysterious young girl in Central Park who seems to age rapidly every time they meet.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040698/",
+    "imdb_url": "https://www.imdb.com/title/tt0040705/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/portrait_of_jennie"
   },
   {
-    "title": "Joan of Arc",
+    "title": "He Walked by Night",
     "year": 1948,
     "director": {
-      "name": "Victor Fleming",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002078/"
+      "name": "Alfred L. Werker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0921300/"
     },
-    "production_studio": "Sierra Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 145,
-    "budget_usd_millions": 4.6,
-    "gross_revenue_usd_millions": 4.1,
+    "production_studio": "Eagle-Lion Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 79,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 1.4,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "47%",
-      "rotten_tomatoes_popcorn": "49%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "74%"
     },
     "genres": [
-      "Biography",
+      "Crime",
+      "Film-Noir",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Richard Basehart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000859/"
+      },
+      {
+        "name": "Scott Brady",
+        "imdb_person_url": "https://www.imdb.com/name/nm0103718/"
+      },
+      {
+        "name": "Roy Roberts",
+        "imdb_person_url": "https://www.imdb.com/name/nm0731559/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A brilliant but psychopathic criminal evades the police in Los Angeles, using the storm drain system as his hideout.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040422/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/he_walked_by_night"
+  },
+  {
+    "title": "Raw Deal",
+    "year": 1948,
+    "director": {
+      "name": "Anthony Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002975/"
+    },
+    "production_studio": "Reliance Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 79,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": 1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Crime",
+      "Film-Noir",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Dennis O'Keefe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641457/"
+      },
+      {
+        "name": "Claire Trevor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001799/"
+      },
+      {
+        "name": "Marsha Hunt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001372/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An escaped convict tries to flee the country with his girlfriend and a hostage, while being pursued by the mob.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040720/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017254-raw_deal"
+  },
+  {
+    "title": "Moonrise",
+    "year": 1948,
+    "director": {
+      "name": "Frank Borzage",
+      "imdb_person_url": "https://www.imdb.com/name/nm0097632/"
+    },
+    "production_studio": "Republic Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": 1,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Crime",
       "Drama",
-      "History"
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Dane Clark",
+        "imdb_person_url": "https://www.imdb.com/name/nm0163836/"
+      },
+      {
+        "name": "Gail Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0751159/" },
+      {
+        "name": "Ethel Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000856/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man haunted by his father's criminal past accidentally kills a bully in a fight and tries to hide his crime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040609/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/moonrise"
+  },
+  {
+    "title": "Call Northside 777",
+    "year": 1948,
+    "director": {
+      "name": "Henry Hathaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0368871/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 1.9,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      },
+      {
+        "name": "Richard Conte",
+        "imdb_person_url": "https://www.imdb.com/name/nm0176142/"
+      },
+      {
+        "name": "Lee J. Cobb",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002011/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A reporter investigates a decade-old murder case to prove the innocence of a convicted man.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040202/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/call_northside_777"
+  },
+  {
+    "title": "Cry of the City",
+    "year": 1948,
+    "director": {
+      "name": "Robert Siodmak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004666/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Victor Mature",
+        "imdb_person_url": "https://www.imdb.com/name/nm0560559/"
+      },
+      {
+        "name": "Richard Conte",
+        "imdb_person_url": "https://www.imdb.com/name/nm0176142/"
+      },
+      {
+        "name": "Fred Clark",
+        "imdb_person_url": "https://www.imdb.com/name/nm0163946/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A cop chases a criminal he grew up with through the streets of New York City.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040259/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cry_of_the_city"
+  },
+  {
+    "title": "The Boy with Green Hair",
+    "year": 1948,
+    "director": {
+      "name": "Joseph Losey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0521392/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 82,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 0.4,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "48%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Pat O'Brien",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002286/"
+      },
+      {
+        "name": "Robert Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
+      },
+      {
+        "name": "Barbara Hale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0354853/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A war orphan wakes up one morning with green hair and becomes an outcast in his small town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040184/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boy_with_green_hair"
+  },
+  {
+    "title": "Pitfall",
+    "year": 1948,
+    "director": {
+      "name": "André De Toth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0211938/"
+    },
+    "production_studio": "Regal Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Dick Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0694090/"
+      },
+      {
+        "name": "Lizabeth Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0779547/"
+      },
+      {
+        "name": "Jane Wyatt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0943553/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bored insurance agent has an affair with a client's girlfriend, leading to a web of blackmail and murder.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040695/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016378-pitfall"
+  },
+  {
+    "title": "Germany Year Zero",
+    "year": 1948,
+    "director": {
+      "name": "Roberto Rossellini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0744031/"
+    },
+    "production_studio": "Tevere Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 0.11,
+    "gross_revenue_usd_millions": 0.4,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Edmund Moeschke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0595572/"
+      },
+      {
+        "name": "Ernst Pittschau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0686064/"
+      },
+      {
+        "name": "Ingetraud Hinze",
+        "imdb_person_url": "https://www.imdb.com/name/nm0386072/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young boy in post-war Berlin tries to support his family in the ruins of the city.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040352/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/germany_year_zero"
+  },
+  {
+    "title": "Drunken Angel",
+    "year": 1948,
+    "director": {
+      "name": "Akira Kurosawa",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000041/"
+    },
+    "production_studio": "Toho",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Takashi Shimura",
+        "imdb_person_url": "https://www.imdb.com/name/nm0793752/"
+      },
+      {
+        "name": "Toshirô Mifune",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001536/"
+      },
+      {
+        "name": "Reisaburô Yamamoto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0945474/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An alcoholic doctor forms an unlikely friendship with a young yakuza gangster who has tuberculosis.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040983/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/drunken_angel"
+  },
+  {
+    "title": "Spring in a Small Town",
+    "year": 1948,
+    "director": {
+      "name": "Mu Fei",
+      "imdb_person_url": "https://www.imdb.com/name/nm0270419/"
+    },
+    "production_studio": "Wenhua Film Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 0.05,
+    "gross_revenue_usd_millions": 0.2,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Wei Li",
+        "imdb_person_url": "https://www.imdb.com/name/nm0508595/"
+      },
+      {
+        "name": "Wei Wei",
+        "imdb_person_url": "https://www.imdb.com/name/nm0917678/"
+      },
+      {
+        "name": "Yu Shi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0793059/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lonely wife in a small town finds her feelings reawakened when her husband's friend comes to visit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040954/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spring_in_a_small_town"
+  },
+  {
+    "title": "The Winslow Boy",
+    "year": 1948,
+    "director": {
+      "name": "Anthony Asquith",
+      "imdb_person_url": "https://www.imdb.com/name/nm0039695/"
+    },
+    "production_studio": "London Film Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robert Donat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002045/"
+      },
+      {
+        "name": "Cedric Hardwicke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002126/"
+      },
+      {
+        "name": "Margaret Leighton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0500387/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A father fights to clear his son's name after he is expelled from naval college for stealing a postal order.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040969/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/winslow_boy"
+  },
+  {
+    "title": "Command Decision",
+    "year": 1948,
+    "director": {
+      "name": "Sam Wood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939994/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 2.4,
+    "gross_revenue_usd_millions": 3.6,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Clark Gable",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
+      },
+      {
+        "name": "Walter Pidgeon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000584/"
+      },
+      {
+        "name": "Van Johnson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A general faces political pressure and personal turmoil while commanding a bomber squadron in World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040242/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/command_decision"
+  },
+  {
+    "title": "Apartment for Peggy",
+    "year": 1948,
+    "director": {
+      "name": "George Seaton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0780792/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jeanne Crain",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002022/"
+      },
+      {
+        "name": "William Holden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000454/"
+      },
+      {
+        "name": "Edmund Gwenn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002119/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A retired professor takes in a young couple, a pregnant wife and a GI student husband, and finds new meaning in life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040102/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/apartment_for_peggy"
+  },
+  {
+    "title": "Arch of Triumph",
+    "year": 1948,
+    "director": {
+      "name": "Lewis Milestone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0587227/"
+    },
+    "production_studio": "Enterprise Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 4,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "33%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
     ],
     "actors": [
       {
@@ -1101,24 +2147,151 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
       },
       {
-        "name": "José Ferrer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002069/"
+        "name": "Charles Boyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000964/"
       },
       {
-        "name": "Francis L. Sullivan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0838115/"
+        "name": "Charles Laughton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000044/"
       }
     ],
-    "oscars_nominated": 7,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Cinematography, Color",
-      "Best Costume Design, Color",
-      "Honorary Award"
-    ],
-    "description": "The story of Joan of Arc, the French peasant girl who led the French army to victory over the English in the Hundred Years' War.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A refugee doctor in Paris before WWII falls in love with a woman while trying to evade deportation.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0040491/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/joan_of_arc_1948"
+    "imdb_url": "https://www.imdb.com/title/tt0040105/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/arch_of_triumph"
+  },
+  {
+    "title": "Romance on the High Seas",
+    "year": 1948,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jack Carson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002004/"
+      },
+      {
+        "name": "Janis Paige",
+        "imdb_person_url": "https://www.imdb.com/name/nm0656705/"
+      },
+      {
+        "name": "Doris Day",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman sends a singer on a cruise in her place to spy on her husband, but complications ensue when the husband hires a detective to spy on her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040745/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/romance_on_the_high_seas"
+  },
+  {
+    "title": "Words and Music",
+    "year": 1948,
+    "director": {
+      "name": "Norman Taurog",
+      "imdb_person_url": "https://www.imdb.com/name/nm0851601/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 4.6,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Judy Garland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000023/"
+      },
+      {
+        "name": "Mickey Rooney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001682/"
+      },
+      {
+        "name": "Gene Kelly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A biography of the songwriting partnership of Richard Rodgers and Lorenz Hart.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040976/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/words_and_music"
+  },
+  {
+    "title": "The Time of Your Life",
+    "year": 1948,
+    "director": {
+      "name": "H.C. Potter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0693275/"
+    },
+    "production_studio": "Cagney Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
+      },
+      {
+        "name": "William Bendix",
+        "imdb_person_url": "https://www.imdb.com/name/nm0070647/"
+      },
+      {
+        "name": "Wayne Morris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0607006/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wealthy man whiles away his days in a San Francisco bar, observing and helping the various characters who come in.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0040880/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/time_of_your_life"
   }
 ]
