@@ -4,16 +4,16 @@
     "year": 1930,
     "director": {
       "name": "Lewis Milestone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0587271/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0587246/"
     },
     "production_studio": "Universal Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 152,
     "budget_usd_millions": 1.25,
-    "gross_revenue_usd_millions": 3,
+    "gross_revenue_usd_millions": 3.0,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
@@ -22,16 +22,16 @@
     ],
     "actors": [
       {
-        "name": "Louis Wolheim",
-        "imdb_person_url": "https://www.imdb.com/name/nm0938473/"
+        "name": "Lew Ayres",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000820/"
       },
       {
-        "name": "Lew Ayres",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000835/"
+        "name": "Louis Wolheim",
+        "imdb_person_url": "https://www.imdb.com/name/nm0938367/"
       },
       {
         "name": "John Wray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0942079/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0942026/"
       }
     ],
     "oscars_nominated": 4,
@@ -40,27 +40,27 @@
       "Best Picture",
       "Best Director"
     ],
-    "description": "A German youth eagerly enters World War I, but his enthusiasm wanes as he faces the realities of war.",
+    "description": "A young soldier faces profound disillusionment in the soul-destroying horror of World War I.",
     "afi_ranking": 54,
     "imdb_url": "https://www.imdb.com/title/tt0020629/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000679-all_quiet_on_the_western_front"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000642-all_quiet_on_the_western_front"
   },
   {
     "title": "The Blue Angel",
     "year": 1930,
     "director": {
       "name": "Josef von Sternberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0903212/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0003432/"
     },
     "production_studio": "UFA",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 104,
-    "budget_usd_millions": 0.5,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.7,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "87%"
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Drama",
@@ -77,13 +77,13 @@
       },
       {
         "name": "Kurt Gerron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0314777/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0314716/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An esteemed professor's life descends into chaos after he falls in love with a cabaret singer.",
+    "description": "An unworldly professor falls in love with a cabaret singer and becomes the humorless clown in her show.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0020697/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_blue_angel"
@@ -93,17 +93,17 @@
     "year": 1930,
     "director": {
       "name": "Victor Heerman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0373516/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0373481/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 97,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 1.4,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
       "Comedy",
@@ -116,37 +116,80 @@
       },
       {
         "name": "Harpo Marx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0555621/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0005193/"
       },
       {
         "name": "Chico Marx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0555611/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0005192/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A valuable painting is stolen during a party in honor of the famous African explorer Captain Spaulding.",
-    "afi_ranking": null,
+    "description": "Mayhem ensues when Captain Spaulding, the African explorer, attends a society party to unveil a valuable painting.",
+    "afi_ranking": 73,
     "imdb_url": "https://www.imdb.com/title/tt0020640/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/animal_crackers"
+  },
+  {
+    "title": "Hell's Angels",
+    "year": 1930,
+    "director": {
+      "name": "Howard Hughes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0400652/"
+    },
+    "production_studio": "The Caddo Company",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 3.95,
+    "gross_revenue_usd_millions": 8.0,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Ben Lyon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0528883/"
+      },
+      {
+        "name": "Jean Harlow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001318/"
+      },
+      {
+        "name": "James Hall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0355677/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Brothers Monte and Ray leave Oxford to join the Royal Flying Corps. Ray loves Helen; Helen loves Monte; but Monte loves a blonde named Jean.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020960/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hells_angels"
   },
   {
     "title": "Morocco",
     "year": 1930,
     "director": {
       "name": "Josef von Sternberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0903212/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0003432/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 92,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": 1.2,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "59%"
     },
     "genres": [
       "Drama",
@@ -163,14 +206,14 @@
       },
       {
         "name": "Adolphe Menjou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0579634/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0579639/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A cabaret singer and a Legionnaire fall in love, but their relationship is complicated by the indefinite nature of his military commitment.",
-    "afi_ranking": null,
+    "description": "A cabaret singer and a Legionnaire fall in love, but their relationship is complicated by the appearance of a wealthy man who wants her for himself.",
+    "afi_ranking": 83,
     "imdb_url": "https://www.imdb.com/title/tt0021156/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/morocco"
   },
@@ -179,17 +222,17 @@
     "year": 1930,
     "director": {
       "name": "George W. Hill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0384239/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0384297/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
     "runtime_minutes": 87,
-    "budget_usd_millions": 0.48,
-    "gross_revenue_usd_millions": 1.7,
+    "budget_usd_millions": 0.38,
+    "gross_revenue_usd_millions": 2.3,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "64%"
     },
     "genres": [
       "Crime",
@@ -199,15 +242,15 @@
     "actors": [
       {
         "name": "Chester Morris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0606410/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0606423/"
       },
       {
         "name": "Wallace Beery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000903/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000892/"
       },
       {
-        "name": "Lewis Stone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0832168/"
+        "name": "Robert Montgomery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0599910/"
       }
     ],
     "oscars_nominated": 4,
@@ -216,27 +259,27 @@
       "Best Writing, Achievement",
       "Best Sound, Recording"
     ],
-    "description": "A naive young man is sent to a brutal prison where he is taken under the wing of two hardened convicts.",
+    "description": "A drunk-driving conviction lands a man in an overcrowded prison where he gets caught in the middle of a planned inmate riot.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0020686/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_big_house"
+    "imdb_url": "https://www.imdb.com/title/tt0020683/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_house"
   },
   {
     "title": "Anna Christie",
     "year": 1930,
     "director": {
       "name": "Clarence Brown",
-      "imdb_person_url": "https://www.imdb.com/name/nm0113337/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0113252/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
     "runtime_minutes": 89,
-    "budget_usd_millions": 0.376,
+    "budget_usd_millions": 0.37,
     "gross_revenue_usd_millions": 1.5,
     "ratings": {
-      "imdb": 7.1,
+      "imdb": 6.7,
       "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "74%"
+      "rotten_tomatoes_popcorn": "53%"
     },
     "genres": [
       "Drama",
@@ -245,21 +288,21 @@
     "actors": [
       {
         "name": "Greta Garbo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001256/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
       },
       {
         "name": "Charles Bickford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000936/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001948/"
       },
       {
         "name": "George F. Marion",
-        "imdb_person_url": "https://www.imdb.com/name/nm0547796/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0547777/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former prostitute reunites with her estranged father and falls in love with a sailor, but her past threatens her chances at happiness.",
+    "description": "A former prostitute falls in love, but has difficulty escaping her past.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0020641/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/anna_christie"
@@ -269,17 +312,17 @@
     "year": 1930,
     "director": {
       "name": "Robert Z. Leonard",
-      "imdb_person_url": "https://www.imdb.com/name/nm0502758/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0502741/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
     "runtime_minutes": 84,
-    "budget_usd_millions": 0.385,
-    "gross_revenue_usd_millions": 1.3,
+    "budget_usd_millions": 0.34,
+    "gross_revenue_usd_millions": 1.2,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "59%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "48%"
     },
     "genres": [
       "Drama",
@@ -288,26 +331,200 @@
     "actors": [
       {
         "name": "Norma Shearer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0790452/"
       },
       {
         "name": "Chester Morris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0606410/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0606423/"
       },
       {
-        "name": "Robert Montgomery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0599910/"
+        "name": "Conrad Nagel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0619243/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Actress"
+      "Best Actress (Norma Shearer)"
     ],
-    "description": "A woman whose husband has had an affair decides to have one of her own, which leads to a crisis in their marriage.",
+    "description": "After discovering her husband has been unfaithful, a wife decides to beat him at his own game.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0020827/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_divorcee"
+  },
+  {
+    "title": "Min and Bill",
+    "year": 1930,
+    "director": {
+      "name": "George W. Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0384297/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 66,
+    "budget_usd_millions": 0.38,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Marie Dressler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0237597/"
+      },
+      {
+        "name": "Wallace Beery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000892/"
+      },
+      {
+        "name": "Dorothy Jordan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0430034/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress (Marie Dressler)"
+    ],
+    "description": "A waterfront innkeeper protects her adopted daughter from her biological mother and truant officers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021148/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/min_and_bill"
+  },
+  {
+    "title": "Murder!",
+    "year": 1930,
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
+    "production_studio": "British International Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "42%"
+    },
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Herbert Marshall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0550913/"
+      },
+      {
+        "name": "Norah Baring",
+        "imdb_person_url": "https://www.imdb.com/name/nm0054650/"
+      },
+      {
+        "name": "Phyllis Konstam",
+        "imdb_person_url": "https://www.imdb.com/name/nm0465336/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A juror in a murder case, convinced that the accused woman is innocent, sets out to find the real killer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021165/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/murder"
+  },
+  {
+    "title": "City Girl",
+    "year": 1930,
+    "director": {
+      "name": "F.W. Murnau",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003639/"
+    },
+    "production_studio": "Fox Film Corporation",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 88,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Charles Farrell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0268197/"
+      },
+      {
+        "name": "Mary Duncan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0242043/"
+      },
+      {
+        "name": "David Torrence",
+        "imdb_person_url": "https://www.imdb.com/name/nm0868455/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A farmer's son travels to the city and falls in love with a waitress, but his father disapproves of the match.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020768/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/city_girl"
+  },
+  {
+    "title": "Earth",
+    "year": 1930,
+    "director": {
+      "name": "Alexander Dovzhenko",
+      "imdb_person_url": "https://www.imdb.com/name/nm0235621/"
+    },
+    "production_studio": "VUFKU",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 75,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Stepan Shkurat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0795754/"
+      },
+      {
+        "name": "Semyon Svashenko",
+        "imdb_person_url": "https://www.imdb.com/name/nm0840916/"
+      },
+      {
+        "name": "Yuliya Solntseva",
+        "imdb_person_url": "https://www.imdb.com/name/nm0813197/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The process of collectivization and the hostility of kulak landowners is depicted through the eyes of Ukrainian farmers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021571/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1028380-earth"
   },
   {
     "title": "L'Age d'Or",
@@ -317,83 +534,172 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000320/"
     },
     "production_studio": "Vicomte de Noailles",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 63,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "79%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Comedy",
-      "Drama"
+      "Drama",
+      "Surrealism"
     ],
     "actors": [
       {
         "name": "Gaston Modot",
-        "imdb_person_url": "https://www.imdb.com/name/nm0595272/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0595324/"
       },
       {
         "name": "Lya Lys",
-        "imdb_person_url": "https://www.imdb.com/name/nm0528828/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0529259/"
       },
       {
-        "name": "Caridad de Laberdesque",
-        "imdb_person_url": "https://www.imdb.com/name/nm0198888/"
+        "name": "Caridad de Laberque",
+        "imdb_person_url": "https://www.imdb.com/name/nm0209593/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A surrealist film attacking the conventions of bourgeois society.",
+    "description": "A surrealist tale of a man and a woman who are passionately in love, but their attempts to consummate that passion are constantly thwarted by their families, the Church, and bourgeois society.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0021577/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lage_dor"
   },
   {
-    "title": "Hell's Angels",
+    "title": "The Big Trail",
     "year": 1930,
     "director": {
-      "name": "Howard Hughes",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001373/"
+      "name": "Raoul Walsh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0909818/"
     },
-    "production_studio": "The Caddo Company",
+    "production_studio": "Fox Film Corporation",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 3.95,
-    "gross_revenue_usd_millions": 8,
+    "runtime_minutes": 125,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "61%"
     },
     "genres": [
-      "Drama",
-      "War"
+      "Adventure",
+      "Romance",
+      "Western"
     ],
     "actors": [
       {
-        "name": "Ben Lyon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0529141/"
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
       },
       {
-        "name": "James Hall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0355609/"
+        "name": "Marguerite Churchill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0161469/"
       },
       {
-        "name": "Jean Harlow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001318/"
+        "name": "Elindel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0096554/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two brothers, one a coward and the other a hero, join the Royal Flying Corps during World War I.",
+    "description": "Breck Coleman leads a wagon train of pioneers through Indian attack, storms, deserts, swollen rivers, down cliffs and over the Rockies.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0020960/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hells_angels"
+    "imdb_url": "https://www.imdb.com/title/tt0020691/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_trail"
+  },
+  {
+    "title": "Holiday",
+    "year": 1930,
+    "director": {
+      "name": "Edward H. Griffith",
+      "imdb_person_url": "https://www.imdb.com/name/nm0341482/"
+    },
+    "production_studio": "Pathé Exchange",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "38%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ann Harding",
+        "imdb_person_url": "https://www.imdb.com/name/nm0362262/"
+      },
+      {
+        "name": "Mary Astor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000803/"
+      },
+      {
+        "name": "Edward Everett Horton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002143/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man from a humble background falls in love with a girl from a rich family, but finds he has more in common with her free-spirited sister.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020986/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009732-holiday"
+  },
+  {
+    "title": "Ladies of Leisure",
+    "year": 1930,
+    "director": {
+      "name": "Frank Capra",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Barbara Stanwyck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001766/"
+      },
+      {
+        "name": "Ralph Graves",
+        "imdb_person_url": "https://www.imdb.com/name/nm0336348/"
+      },
+      {
+        "name": "Lowell Sherman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0792527/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A 'party girl' falls in love with a wealthy aspiring painter, but his family disapproves of her background.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021045/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ladies_of_leisure"
   },
   {
     "title": "The Dawn Patrol",
@@ -408,144 +714,100 @@
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.1,
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "60%"
     },
     "genres": [
-      "Action",
       "Drama",
       "War"
     ],
     "actors": [
       {
         "name": "Richard Barthelmess",
-        "imdb_person_url": "https://www.imdb.com/name/nm0058327/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0058559/"
       },
       {
         "name": "Douglas Fairbanks Jr.",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001198/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002068/"
       },
       {
         "name": "Neil Hamilton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0358045/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0358089/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Writing, Original Story"
+      "Best Original Screenplay"
     ],
-    "description": "The commander of a British flying squadron in World War I must deal with the stress of sending his men on dangerous missions.",
+    "description": "The commander of a WWI flight squadron in France fights with his superiors over the heavy casualties his men are suffering.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0021773/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dawn_patrol"
+    "imdb_url": "https://www.imdb.com/title/tt0020815/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005358-dawn_patrol"
   },
   {
-    "title": "Min and Bill",
+    "title": "King of Jazz",
     "year": 1930,
     "director": {
-      "name": "George W. Hill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0384239/"
+      "name": "John Murray Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0026958/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 66,
-    "budget_usd_millions": 0.379,
-    "gross_revenue_usd_millions": 2.5,
+    "runtime_minutes": 98,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 0.9,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "63%"
     },
     "genres": [
-      "Comedy",
-      "Drama"
+      "Animation",
+      "Music",
+      "Musical"
     ],
     "actors": [
       {
-        "name": "Marie Dressler",
-        "imdb_person_url": "https://www.imdb.com/name/nm0237597/"
+        "name": "Paul Whiteman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005551/"
       },
       {
-        "name": "Wallace Beery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000903/"
+        "name": "John Boles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0092925/"
       },
       {
-        "name": "Dorothy Jordan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0430005/"
+        "name": "Laura La Plante",
+        "imdb_person_url": "https://www.imdb.com/name/nm0478826/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Actress"
+      "Best Art Direction"
     ],
-    "description": "The gruff but kind-hearted owner of a waterfront hotel tries to protect her adopted daughter from the girl's disreputable mother.",
+    "description": "A spectacular revue featuring Paul Whiteman and his Orchestra, noted for its early use of Technicolor and animation.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0021147/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/min_and_bill"
-  },
-  {
-    "title": "Murder!",
-    "year": 1930,
-    "director": {
-      "name": "Alfred Hitchcock",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
-    },
-    "production_studio": "British International Pictures (BIP)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 102,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "62%"
-    },
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Herbert Marshall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0551017/"
-      },
-      {
-        "name": "Norah Baring",
-        "imdb_person_url": "https://www.imdb.com/name/nm0054707/"
-      },
-      {
-        "name": "Phyllis Konstam",
-        "imdb_person_url": "https://www.imdb.com/name/nm0465492/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A juror in a murder trial, believing the accused to be innocent, reconstructs the crime to find the real killer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0021165/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/murder_1930"
+    "imdb_url": "https://www.imdb.com/title/tt0021025/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/king_of_jazz"
   },
   {
     "title": "Whoopee!",
     "year": 1930,
     "director": {
       "name": "Thornton Freeland",
-      "imdb_person_url": "https://www.imdb.com/name/nm0293321/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0293139/"
     },
-    "production_studio": "Samuel Goldwyn Company",
+    "production_studio": "The Samuel Goldwyn Company",
     "mpaa_rating": "Passed",
     "runtime_minutes": 93,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.7,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 2.6,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "51%"
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "28%"
     },
     "genres": [
       "Comedy",
@@ -555,129 +817,433 @@
     "actors": [
       {
         "name": "Eddie Cantor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0134449/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0134696/"
       },
       {
         "name": "Ethel Shutta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0796078/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0795994/"
       },
       {
         "name": "Paul Gregory",
-        "imdb_person_url": "https://www.imdb.com/name/nm0339947/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0339917/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A hypochondriac man goes to a western ranch for his health and gets involved in a series of comic misadventures.",
+    "description": "A hypochondriac helps a young woman elope to the West to escape an arranged marriage.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0021542/",
+    "imdb_url": "https://www.imdb.com/title/tt0021549/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whoopee"
   },
   {
-    "title": "The Devil to Pay!",
+    "title": "Abraham Lincoln",
     "year": 1930,
     "director": {
-      "name": "George Fitzmaurice",
-      "imdb_person_url": "https://www.imdb.com/name/nm0280459/"
+      "name": "D.W. Griffith",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000428/"
     },
-    "production_studio": "Samuel Goldwyn Company",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 72,
+    "production_studio": "Feature Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 97,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.8,
+      "imdb": 5.8,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "23%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Walter Huston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
+      },
+      {
+        "name": "Una Merkel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0580826/"
+      },
+      {
+        "name": "Kay Hammond",
+        "imdb_person_url": "https://www.imdb.com/name/nm0358709/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A biography of the 16th president, from his early days in a log cabin to his presidency during the Civil War.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020620/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000136-abraham_lincoln"
+  },
+  {
+    "title": "Just Imagine",
+    "year": 1930,
+    "director": {
+      "name": "David Butler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0124890/"
+    },
+    "production_studio": "Fox Film Corporation",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 5.7,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "32%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "El Brendel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0107109/"
+      },
+      {
+        "name": "Maureen O'Sullivan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0642819/"
+      },
+      {
+        "name": "John Garrick",
+        "imdb_person_url": "https://www.imdb.com/name/nm0308326/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the futuristic year of 1980, people have numbers instead of names and the state arranges marriages, complicating the lives of young lovers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021016/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/just_imagine"
+  },
+  {
+    "title": "Madam Satan",
+    "year": 1930,
+    "director": {
+      "name": "Cecil B. DeMille",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.4,
       "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Kay Johnson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0425497/"
+      },
+      {
+        "name": "Reginald Denny",
+        "imdb_person_url": "https://www.imdb.com/name/nm0219624/"
+      },
+      {
+        "name": "Lillian Roth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0744938/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "To win back her husband, a woman disguises herself as a mysterious devil-woman at a masquerade ball held on a zeppelin.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021106/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/madam_satan"
+  },
+  {
+    "title": "Monte Carlo",
+    "year": 1930,
+    "director": {
+      "name": "Ernst Lubitsch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002281/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "83%",
       "rotten_tomatoes_popcorn": "40%"
     },
     "genres": [
       "Comedy",
-      "Drama",
+      "Musical",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
+        "name": "Jack Buchanan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0118019/"
       },
       {
-        "name": "Loretta Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
+        "name": "Jeanette MacDonald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531776/"
       },
       {
-        "name": "Florence Britton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0110196/"
+        "name": "Claud Allister",
+        "imdb_person_url": "https://www.imdb.com/name/nm0022245/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A charming but irresponsible young man returns home to England from a self-imposed exile and finds himself in a complicated romantic situation.",
+    "description": "A countess runs away from her wedding to Monte Carlo, where she falls for a count posing as a hairdresser.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0020815/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_devil_to_pay"
+    "imdb_url": "https://www.imdb.com/title/tt0021151/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1014169-monte_carlo"
   },
   {
-    "title": "Holiday",
+    "title": "Tom Sawyer",
     "year": 1930,
     "director": {
-      "name": "Edward H. Griffith",
-      "imdb_person_url": "https://www.imdb.com/name/nm0341381/"
+      "name": "John Cromwell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0188560/"
     },
-    "production_studio": "Pathé Exchange",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 96,
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
     "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "gross_revenue_usd_millions": 11.0,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "71%",
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "60%",
       "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
+      "Adventure",
       "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jackie Coogan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001067/"
+      },
+      {
+        "name": "Junior Durkin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0244135/"
+      },
+      {
+        "name": "Mitzi Green",
+        "imdb_person_url": "https://www.imdb.com/name/nm0338187/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The adventures of a mischievous boy and his friend Huckleberry Finn on the Mississippi River.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021486/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021661-tom_sawyer"
+  },
+  {
+    "title": "Journey's End",
+    "year": 1930,
+    "director": {
+      "name": "James Whale",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001843/"
+    },
+    "production_studio": "Gainsborough Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 120,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Colin Clive",
+        "imdb_person_url": "https://www.imdb.com/name/nm0167095/"
+      },
+      {
+        "name": "Ian Maclaren",
+        "imdb_person_url": "https://www.imdb.com/name/nm0533725/"
+      },
+      {
+        "name": "David Manners",
+        "imdb_person_url": "https://www.imdb.com/name/nm0543130/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "British officers cope with the stress and horror of trench warfare during World War I.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021015/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/journeys_end"
+  },
+  {
+    "title": "Romance",
+    "year": 1930,
+    "director": {
+      "name": "Clarence Brown",
+      "imdb_person_url": "https://www.imdb.com/name/nm0113252/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 76,
+    "budget_usd_millions": 0.49,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 6.0,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "22%"
+    },
+    "genres": [
       "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Ann Harding",
-        "imdb_person_url": "https://www.imdb.com/name/nm0362141/"
+        "name": "Greta Garbo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
       },
       {
-        "name": "Mary Astor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000801/"
+        "name": "Lewis Stone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0832007/"
       },
       {
-        "name": "Edward Everett Horton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002143/"
+        "name": "Gavin Gordon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0330219/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young man from a humble background becomes engaged to a wealthy socialite, but finds himself drawn to her more unconventional sister.",
+    "description": "A young clergyman falls in love with an Italian opera star, despite the objections of his family and the church.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0020980/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/holiday_1930"
+    "imdb_url": "https://www.imdb.com/title/tt0021309/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017849-romance"
   },
   {
-    "title": "A Free Soul",
-    "year": 1931,
+    "title": "Sarah and Son",
+    "year": 1930,
     "director": {
-      "name": "Clarence Brown",
-      "imdb_person_url": "https://www.imdb.com/name/nm0113337/"
+      "name": "Dorothy Arzner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0037881/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 0.449,
-    "gross_revenue_usd_millions": 1.4,
+    "runtime_minutes": 86,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "20%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Ruth Chatterton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0154162/"
+      },
+      {
+        "name": "Fredric March",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001507/"
+      },
+      {
+        "name": "Fuller Mellish Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0578006/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman spends years searching for the son who was taken from her by her husband and sold to a wealthy family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021333/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sarah_and_son"
+  },
+  {
+    "title": "Outward Bound",
+    "year": 1930,
+    "director": {
+      "name": "Robert Milton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0590686/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 83,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 6.8,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "63%"
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Leslie Howard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
+      },
+      {
+        "name": "Douglas Fairbanks Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002068/"
+      },
+      {
+        "name": "Beryl Mercer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0580241/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Passengers on a strange ocean liner slowly realize that they are all dead and are being transported to the afterlife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021226/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/outward_bound"
+  },
+  {
+    "title": "The Criminal Code",
+    "year": 1930,
+    "director": {
+      "name": "Howard Hawks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "68%"
     },
     "genres": [
       "Crime",
@@ -686,129 +1252,128 @@
     ],
     "actors": [
       {
-        "name": "Norma Shearer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
+        "name": "Walter Huston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
       },
       {
-        "name": "Leslie Howard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
+        "name": "Phillips Holmes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0392010/"
       },
       {
-        "name": "Lionel Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000865/"
+        "name": "Constance Cummings",
+        "imdb_person_url": "https://www.imdb.com/name/nm0191855/"
       }
     ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor"
-    ],
-    "description": "A brilliant but alcoholic lawyer successfully defends a mobster, but his daughter falls for the gangster.",
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A district attorney who is tough on crime becomes the warden of a prison filled with men he convicted, including a young man imprisoned for a crime of self-defense.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0021885/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_free_soul"
+    "imdb_url": "https://www.imdb.com/title/tt0021767/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/criminal_code"
   },
   {
-    "title": "Monkey Business",
-    "year": 1931,
+    "title": "Billy the Kid",
+    "year": 1930,
     "director": {
-      "name": "Norman Z. McLeod",
-      "imdb_person_url": "https://www.imdb.com/name/nm0572855/"
+      "name": "King Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0007181/"
     },
-    "production_studio": "Paramount Pictures",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 77,
+    "runtime_minutes": 95,
     "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "gross_revenue_usd_millions": 1.4,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 5.9,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "20%"
+    },
+    "genres": [
+      "Western",
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Johnny Mack Brown",
+        "imdb_person_url": "https://www.imdb.com/name/nm0006999/"
+      },
+      {
+        "name": "Wallace Beery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000892/"
+      },
+      {
+        "name": "Kay Johnson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0425497/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The legendary outlaw Billy the Kid seeks revenge for the murder of his employer in the Lincoln County War.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020692/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002375-billy_the_kid"
+  },
+  {
+    "title": "Feet First",
+    "year": 1930,
+    "director": {
+      "name": "Clyde Bruckman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0115693/"
+    },
+    "production_studio": "The Harold Lloyd Corporation",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "64%"
     },
     "genres": [
       "Comedy"
     ],
     "actors": [
       {
-        "name": "Groucho Marx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000050/"
+        "name": "Harold Lloyd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0516001/"
       },
       {
-        "name": "Harpo Marx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0555621/"
+        "name": "Barbara Kent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0448666/"
       },
       {
-        "name": "Chico Marx",
-        "imdb_person_url": "https://www.imdb.com/name/nm0555611/"
+        "name": "Robert McWade",
+        "imdb_person_url": "https://www.imdb.com/name/nm0574771/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Four stowaways get mixed up with gangsters while on board a transatlantic liner.",
+    "description": "An ambitious shoe salesman pretends to be a wealthy tycoon to impress a girl, leading to a perilous adventure on the side of a skyscraper.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0022158/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/monkey_business"
+    "imdb_url": "https://www.imdb.com/title/tt0020876/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/feet_first"
   },
   {
-    "title": "The Front Page",
-    "year": 1931,
+    "title": "Westfront 1918",
+    "year": 1930,
     "director": {
-      "name": "Lewis Milestone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0587271/"
+      "name": "Georg Wilhelm Pabst",
+      "imdb_person_url": "https://www.imdb.com/name/nm0655058/"
     },
-    "production_studio": "The Caddo Company",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 101,
+    "production_studio": "Nero-Film AG",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Adolphe Menjou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0579634/"
-      },
-      {
-        "name": "Pat O'Brien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0639649/"
-      },
-      {
-        "name": "Mary Brian",
-        "imdb_person_url": "https://www.imdb.com/name/nm0108428/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A ruthless newspaper editor tries to keep his ace reporter from leaving the business and getting married.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0021883/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_front_page"
-  },
-  {
-    "title": "Dishonored",
-    "year": 1931,
-    "director": {
-      "name": "Josef von Sternberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0903212/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 0.9,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_popcorn": "68%"
     },
     "genres": [
       "Drama",
@@ -816,42 +1381,343 @@
     ],
     "actors": [
       {
-        "name": "Marlene Dietrich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+        "name": "Fritz Kampers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0436878/"
       },
       {
-        "name": "Victor McLaglen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0572138/"
+        "name": "Gustav Diessl",
+        "imdb_person_url": "https://www.imdb.com/name/nm0226122/"
       },
       {
-        "name": "Gustav von Seyffertitz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0902573/"
+        "name": "Hans-Joachim Moebis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0595302/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Viennese prostitute becomes a spy for Austria during World War I and falls in love with a Russian enemy agent.",
+    "description": "Four German infantrymen on the Western Front during the last months of World War I experience the terror and futility of war.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0021799/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dishonored"
+    "imdb_url": "https://www.imdb.com/title/tt0021542/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/westfront_1918"
   },
   {
-    "title": "Platinum Blonde",
-    "year": 1931,
+    "title": "Under the Roofs of Paris",
+    "year": 1930,
     "director": {
-      "name": "Frank Capra",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+      "name": "René Clair",
+      "imdb_person_url": "https://www.imdb.com/name/nm0163261/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "Films Sonores Tobis",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Albert Préjean",
+        "imdb_person_url": "https://www.imdb.com/name/nm0699654/"
+      },
+      {
+        "name": "Pola Illéry",
+        "imdb_person_url": "https://www.imdb.com/name/nm0407770/"
+      },
+      {
+        "name": "Edmond T. Gréville",
+        "imdb_person_url": "https://www.imdb.com/name/nm0340468/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A street singer and a gangster fight for the attention of a pretty young woman in Paris.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021409/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/under_the_roofs_of_paris"
+  },
+  {
+    "title": "The Blood of a Poet",
+    "year": 1930,
+    "director": {
+      "name": "Jean Cocteau",
+      "imdb_person_url": "https://www.imdb.com/name/nm0168565/"
+    },
+    "production_studio": "Vicomte de Noailles",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 55,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Enrique Rivero",
+        "imdb_person_url": "https://www.imdb.com/name/nm0729513/"
+      },
+      {
+        "name": "Lee Miller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0588826/"
+      },
+      {
+        "name": "Pauline Carton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0142055/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A surrealist film exploring the plight of the artist and the forces of inspiration and obsession.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021331/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blood_of_a_poet"
+  },
+  {
+    "title": "Raffles",
+    "year": 1930,
+    "director": {
+      "name": "George Fitzmaurice",
+      "imdb_person_url": "https://www.imdb.com/name/nm0280597/"
+    },
+    "production_studio": "Samuel Goldwyn Productions",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 0.23,
+    "runtime_minutes": 72,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "30%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Ronald Colman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0172848/"
+      },
+      {
+        "name": "Kay Francis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0290217/"
+      },
+      {
+        "name": "Bramwell Fletcher",
+        "imdb_person_url": "https://www.imdb.com/name/nm0281946/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A gentleman jewel thief falls in love and decides to give up his life of crime, but one last job beckons.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021281/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017116-raffles"
+  },
+  {
+    "title": "Paid",
+    "year": 1930,
+    "director": {
+      "name": "Sam Wood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939997/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 0.38,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "40%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Joan Crawford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001076/"
+      },
+      {
+        "name": "Robert Armstrong",
+        "imdb_person_url": "https://www.imdb.com/name/nm0035878/"
+      },
+      {
+        "name": "Marie Prevost",
+        "imdb_person_url": "https://www.imdb.com/name/nm0696722/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman wrongly imprisoned seeks revenge on the men who framed her by marrying the son of one of them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021231/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/paid"
+  },
+  {
+    "title": "Street of Chance",
+    "year": 1930,
+    "director": {
+      "name": "John Cromwell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0188560/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 76,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.0,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "69%"
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "30%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "William Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
+      },
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
+      },
+      {
+        "name": "Kay Francis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0290217/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Based on the life of gambler Arnold Rothstein, a high-stakes gambler tries to keep his younger brother from following in his footsteps.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021418/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/street_of_chance"
+  },
+  {
+    "title": "The Green Goddess",
+    "year": 1930,
+    "director": {
+      "name": "Alfred E. Green",
+      "imdb_person_url": "https://www.imdb.com/name/nm0337624/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 74,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "25%"
+    },
+    "genres": [
+      "Adventure"
+    ],
+    "actors": [
+      {
+        "name": "George Arliss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0035179/"
+      },
+      {
+        "name": "Ralph Forbes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0285389/"
+      },
+      {
+        "name": "H.B. Warner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0912495/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three British citizens crash-land in a small kingdom in the Himalayas, where they are held hostage by the local Rajah.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020939/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008909-green_goddess"
+  },
+  {
+    "title": "Paramount on Parade",
+    "year": 1930,
+    "director": {
+      "name": "Dorothy Arzner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0037881/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "29%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
+      },
+      {
+        "name": "Richard Arlen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0035135/"
+      },
+      {
+        "name": "Clara Bow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001966/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An all-star variety revue featuring Paramount's biggest stars performing comedy skits and musical numbers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021238/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/paramount_on_parade"
+  },
+  {
+    "title": "Sin Takes a Holiday",
+    "year": 1930,
+    "director": {
+      "name": "Paul L. Stein",
+      "imdb_person_url": "https://www.imdb.com/name/nm0825588/"
+    },
+    "production_studio": "Pathé Exchange",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 81,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "30%"
     },
     "genres": [
       "Comedy",
@@ -859,59 +1725,100 @@
     ],
     "actors": [
       {
-        "name": "Loretta Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
+        "name": "Constance Bennett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001941/"
       },
       {
-        "name": "Robert Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0930722/"
+        "name": "Kenneth MacKenna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0533335/"
       },
       {
-        "name": "Jean Harlow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001318/"
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A working-class reporter marries a wealthy heiress, but their differing social backgrounds create problems.",
+    "description": "A plain secretary marries her boss in a marriage of convenience, then goes to Paris and transforms herself into a glamorous woman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0022271/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/platinum_blonde"
+    "imdb_url": "https://www.imdb.com/title/tt0021380/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sin_takes_a_holiday"
   },
   {
-    "title": "Tabu: A Story of the South Seas",
-    "year": 1931,
+    "title": "The Bat Whispers",
+    "year": 1930,
     "director": {
-      "name": "F. W. Murnau",
-      "imdb_person_url": "https://www.imdb.com/name/nm0003591/"
+      "name": "Roland West",
+      "imdb_person_url": "https://www.imdb.com/name/nm0922320/"
     },
-    "production_studio": "Murnau-Flaherty Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 86,
-    "budget_usd_millions": 0.075,
+    "production_studio": "Art Cinema Corporation",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 83,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "43%"
     },
     "genres": [
-      "Drama",
-      "Romance"
+      "Comedy",
+      "Crime",
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "Anna Chevalier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0156681/"
+        "name": "Chester Morris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0606423/"
       },
       {
-        "name": "Matahi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0558197/"
+        "name": "Una Merkel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0580826/"
       },
       {
-        "name": "Hitu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0386927/"
+        "name": "Chance Ward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0911441/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mysterious criminal known as 'The Bat' terrorizes the guests at a country estate. Notable for its early widescreen cinematography.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020672/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bat_whispers"
+  },
+  {
+    "title": "With Byrd at the South Pole",
+    "year": 1930,
+    "director": {
+      "name": "Joseph T. Rucker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0748489/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 82,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "40%"
+    },
+    "genres": [
+      "Documentary",
+      "Adventure",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Richard E. Byrd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0126081/"
+      },
+      {
+        "name": "Clare Booth Luce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0524388/"
       }
     ],
     "oscars_nominated": 1,
@@ -919,52 +1826,350 @@
     "oscars_won_details": [
       "Best Cinematography"
     ],
-    "description": "A young pearl diver on a South Seas island is chosen to be a sacred maiden, but he runs away with the woman he loves, defying the tribal taboos.",
+    "description": "A documentary record of Rear Admiral Richard E. Byrd's first expedition to the South Pole.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0022453/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tabu_a_story_of_the_south_seas"
+    "imdb_url": "https://www.imdb.com/title/tt0021554/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/with_byrd_at_the_south_pole"
   },
   {
-    "title": "Street Scene",
-    "year": 1931,
+    "title": "Danger Lights",
+    "year": 1930,
     "director": {
-      "name": "King Vidor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0896542/"
+      "name": "George B. Seitz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0782670/"
     },
-    "production_studio": "Samuel Goldwyn Company",
+    "production_studio": "RKO Radio Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 80,
+    "runtime_minutes": 74,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": 5.9,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "20%"
     },
     "genres": [
-      "Drama",
-      "Romance"
+      "Action",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Sylvia Sidney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001712/"
+        "name": "Louis Wolheim",
+        "imdb_person_url": "https://www.imdb.com/name/nm0938367/"
       },
       {
-        "name": "William Collier Jr.",
-        "imdb_person_url": "https://www.imdb.com/name/nm0172034/"
+        "name": "Robert Armstrong",
+        "imdb_person_url": "https://www.imdb.com/name/nm0035878/"
       },
       {
-        "name": "Estelle Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0852179/"
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The lives of the diverse residents of a New York City tenement building intersect over the course of a hot summer day.",
+    "description": "A railroad boss tries to help a down-and-out engineer, but they become rivals for the same woman. Shot in a pioneering widescreen process.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0022442/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/street_scene"
+    "imdb_url": "https://www.imdb.com/title/tt0020811/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/danger_lights"
+  },
+  {
+    "title": "Kismet",
+    "year": 1930,
+    "director": {
+      "name": "John Francis Dillon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0226856/"
+    },
+    "production_studio": "First National Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "30%"
+    },
+    "genres": [
+      "Adventure"
+    ],
+    "actors": [
+      {
+        "name": "Otis Skinner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0804297/"
+      },
+      {
+        "name": "Loretta Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0949835/"
+      },
+      {
+        "name": "David Manners",
+        "imdb_person_url": "https://www.imdb.com/name/nm0543130/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wily beggar in ancient Baghdad schemes to get his daughter married to the Caliph while dealing with the evil Wazir.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021031/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011645-kismet"
+  },
+  {
+    "title": "The Vagabond King",
+    "year": 1930,
+    "director": {
+      "name": "Ludwig Berger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0074281/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Dennis King",
+        "imdb_person_url": "https://www.imdb.com/name/nm0454649/"
+      },
+      {
+        "name": "Jeanette MacDonald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531776/"
+      },
+      {
+        "name": "O.P. Heggie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0373780/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 15th-century Paris, the poet Francois Villon rallies the common people to fight for King Louis XI against the Duke of Burgundy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021510/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/vagabond_king"
+  },
+  {
+    "title": "The Rogue Song",
+    "year": 1930,
+    "director": {
+      "name": "Lionel Barrymore",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000859/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 108,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "20%"
+    },
+    "genres": [
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Lawrence Tibbett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0862580/"
+      },
+      {
+        "name": "Catherine Dale Owen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0654113/"
+      },
+      {
+        "name": "Nance O'Neil",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641957/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Russian bandit chief falls in love with a princess, but their romance is threatened when he kills her brother for raping his sister. (Partially lost film).",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021306/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rogue_song"
+  },
+  {
+    "title": "Laughter",
+    "year": 1930,
+    "director": {
+      "name": "Harry d'Abbadie d'Arrast",
+      "imdb_person_url": "https://www.imdb.com/name/nm0194874/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "30%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Nancy Carroll",
+        "imdb_person_url": "https://www.imdb.com/name/nm0140949/"
+      },
+      {
+        "name": "Fredric March",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001507/"
+      },
+      {
+        "name": "Frank Morgan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0604658/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A former Follies girl marries a wealthy older man but finds herself bored and tempted by her former love, a struggling composer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021055/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/laughter"
+  },
+  {
+    "title": "The Royal Family of Broadway",
+    "year": 1930,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 82,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "38%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Ina Claire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0163163/"
+      },
+      {
+        "name": "Fredric March",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001507/"
+      },
+      {
+        "name": "Mary Brian",
+        "imdb_person_url": "https://www.imdb.com/name/nm0108579/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A parody of the Barrymore theatrical family, focusing on the eccentricities of a famous acting clan.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021317/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/royal_family_of_broadway"
+  },
+  {
+    "title": "Manslaughter",
+    "year": 1930,
+    "director": {
+      "name": "George Abbott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0007978/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "25%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Claudette Colbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
+      },
+      {
+        "name": "Fredric March",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001507/"
+      },
+      {
+        "name": "Emma Dunn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0242568/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A spoiled rich girl accidentally kills a motorcycle policeman and is prosecuted by the man she loves.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0021121/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013308-manslaughter"
+  },
+  {
+    "title": "Borderline",
+    "year": 1930,
+    "director": {
+      "name": "Kenneth Macpherson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0534243/"
+    },
+    "production_studio": "Pool Group",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 63,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "40%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Paul Robeson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005845/"
+      },
+      {
+        "name": "Eslanda Robeson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0732106/"
+      },
+      {
+        "name": "Hilda Doolittle",
+        "imdb_person_url": "https://www.imdb.com/name/nm0387007/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An experimental silent film dealing with issues of race and sexuality in a small village, focusing on an interracial love affair.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0020699/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002930-borderline"
   }
 ]

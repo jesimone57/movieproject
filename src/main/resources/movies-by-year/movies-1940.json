@@ -1,97 +1,5 @@
 [
   {
-    "title": "The Philadelphia Story",
-    "year": 1940,
-    "director": {
-      "name": "George Cukor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 0.954,
-    "gross_revenue_usd_millions": 3.4,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Katharine Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
-      },
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor",
-      "Best Writing, Screenplay"
-    ],
-    "description": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
-    "afi_ranking": 44,
-    "imdb_url": "https://www.imdb.com/title/tt0032904/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/philadelphia_story"
-  },
-  {
-    "title": "The Grapes of Wrath",
-    "year": 1940,
-    "director": {
-      "name": "John Ford",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Jane Darwell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0201650/"
-      },
-      {
-        "name": "John Carradine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001018/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Director",
-      "Best Supporting Actress"
-    ],
-    "description": "A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.",
-    "afi_ranking": 21,
-    "imdb_url": "https://www.imdb.com/title/tt0032551/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grapes_of_wrath"
-  },
-  {
     "title": "Rebecca",
     "year": 1940,
     "director": {
@@ -99,13 +7,13 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
     },
     "production_studio": "Selznick International Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 130,
-    "budget_usd_millions": 1.29,
-    "gross_revenue_usd_millions": 6,
+    "budget_usd_millions": 1.28,
+    "gross_revenue_usd_millions": 6.0,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
@@ -133,10 +41,235 @@
       "Best Picture",
       "Best Cinematography, Black-and-White"
     ],
-    "description": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
-    "afi_ranking": 80,
+    "description": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his spectral first wife's haunting presence.",
+    "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0032976/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rebecca"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017293-rebecca"
+  },
+  {
+    "title": "The Great Dictator",
+    "year": 1940,
+    "director": {
+      "name": "Charles Chaplin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
+    },
+    "production_studio": "Charles Chaplin Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 5.0,
+    "ratings": {
+      "imdb": 8.4,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Charles Chaplin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
+      },
+      {
+        "name": "Paulette Goddard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002104/"
+      },
+      {
+        "name": "Jack Oakie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0642959/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "afi_ranking": 37,
+    "imdb_url": "https://www.imdb.com/title/tt0032553/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/great_dictator"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "year": 1940,
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 129,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Henry Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "Jane Darwell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002036/"
+      },
+      {
+        "name": "John Carradine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001017/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Director",
+      "Best Supporting Actress"
+    ],
+    "description": "A poor Midwest family is forced off their land during the Great Depression and travels to California, suffering the misfortunes of the homeless.",
+    "afi_ranking": 23,
+    "imdb_url": "https://www.imdb.com/title/tt0032551/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grapes_of_wrath"
+  },
+  {
+    "title": "Pinocchio",
+    "year": 1940,
+    "director": {
+      "name": "Ben Sharpsteen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0789343/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 2.6,
+    "gross_revenue_usd_millions": 84.2,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Dickie Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0427937/"
+      },
+      {
+        "name": "Christian Rub",
+        "imdb_person_url": "https://www.imdb.com/name/nm0747733/"
+      },
+      {
+        "name": "Cliff Edwards",
+        "imdb_person_url": "https://www.imdb.com/name/nm0249893/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Original Score",
+      "Best Original Song (When You Wish Upon a Star)"
+    ],
+    "description": "A living puppet, with the help of a cricket as his conscience, must prove himself worthy to become a real boy.",
+    "afi_ranking": 38,
+    "imdb_url": "https://www.imdb.com/title/tt0032910/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pinocchio"
+  },
+  {
+    "title": "The Philadelphia Story",
+    "year": 1940,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": 3.3,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
+      },
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actor (James Stewart)",
+      "Best Screenplay"
+    ],
+    "description": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+    "afi_ranking": 44,
+    "imdb_url": "https://www.imdb.com/title/tt0032904/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/philadelphia_story"
+  },
+  {
+    "title": "Fantasia",
+    "year": 1940,
+    "director": {
+      "name": "Samuel Armstrong",
+      "imdb_person_url": "https://www.imdb.com/name/nm0035888/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 2.28,
+    "gross_revenue_usd_millions": 76.4,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Leopold Stokowski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0831437/"
+      },
+      {
+        "name": "Deems Taylor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0852223/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Honorary Award (To Walt Disney, William Garity, John N. A. Hawkins, and the RCA Manufacturing Company)",
+      "Honorary Award (To Leopold Stokowski and his associates)"
+    ],
+    "description": "A collection of animated interpretations of great works of Western classical music.",
+    "afi_ranking": 58,
+    "imdb_url": "https://www.imdb.com/title/tt0032455/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fantasia"
   },
   {
     "title": "His Girl Friday",
@@ -146,12 +279,12 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
     },
     "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 92,
-    "budget_usd_millions": 0.473,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.8,
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "99%",
       "rotten_tomatoes_popcorn": "90%"
     },
@@ -167,11 +300,11 @@
       },
       {
         "name": "Rosalind Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0751426/"
       },
       {
         "name": "Ralph Bellamy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000896/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000897/"
       }
     ],
     "oscars_nominated": 0,
@@ -183,159 +316,21 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/his_girl_friday"
   },
   {
-    "title": "The Great Dictator",
-    "year": 1940,
-    "director": {
-      "name": "Charles Chaplin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
-    },
-    "production_studio": "Charles Chaplin Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 5,
-    "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "96%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Charles Chaplin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
-      },
-      {
-        "name": "Paulette Goddard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001278/"
-      },
-      {
-        "name": "Jack Oakie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0642921/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032553/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_great_dictator"
-  },
-  {
-    "title": "Pinocchio",
-    "year": 1940,
-    "director": {
-      "name": "Norman Ferguson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0272648/"
-    },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 2.6,
-    "gross_revenue_usd_millions": 84.3,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Dickie Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0427615/"
-      },
-      {
-        "name": "Christian Rub",
-        "imdb_person_url": "https://www.imdb.com/name/nm0747867/"
-      },
-      {
-        "name": "Mel Blanc",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000305/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Original Score",
-      "Best Original Song"
-    ],
-    "description": "A living puppet, with the help of a cricket as his conscience, must prove himself worthy to become a real boy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032910/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pinocchio_1940"
-  },
-  {
-    "title": "Fantasia",
-    "year": 1940,
-    "director": {
-      "name": "James Algar",
-      "imdb_person_url": "https://www.imdb.com/name/nm0019200/"
-    },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 2.28,
-    "gross_revenue_usd_millions": 76.4,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "82%"
-    },
-    "genres": [
-      "Animation",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Leopold Stokowski",
-        "imdb_person_url": "https://www.imdb.com/name/nm0831321/"
-      },
-      {
-        "name": "Deems Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0852150/"
-      },
-      {
-        "name": "Walt Disney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000370/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Honorary Award",
-      "Honorary Award"
-    ],
-    "description": "A collection of animated interpretations of great works of Western classical music.",
-    "afi_ranking": 58,
-    "imdb_url": "https://www.imdb.com/title/tt0032455/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fantasia"
-  },
-  {
     "title": "The Shop Around the Corner",
     "year": 1940,
     "director": {
       "name": "Ernst Lubitsch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0523932/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0002281/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 99,
-    "budget_usd_millions": 0.5,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "99%",
-      "rotten_tomatoes_popcorn": "93%"
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Comedy",
@@ -345,7 +340,7 @@
     "actors": [
       {
         "name": "Margaret Sullavan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0838118/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0837890/"
       },
       {
         "name": "James Stewart",
@@ -353,15 +348,15 @@
       },
       {
         "name": "Frank Morgan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0604673/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0604658/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the mail as anonymous pen pals.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0033045/",
+    "description": "Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the post as each other's anonymous pen pal.",
+    "afi_ranking": 28,
+    "imdb_url": "https://www.imdb.com/title/tt0032976/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shop_around_the_corner"
   },
   {
@@ -369,17 +364,17 @@
     "year": 1940,
     "director": {
       "name": "Michael Powell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002019/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0694256/"
     },
-    "production_studio": "London Films",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "London Film Productions",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 106,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 1.1,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.6,
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Adventure",
@@ -389,15 +384,15 @@
     "actors": [
       {
         "name": "Conrad Veidt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001815/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0891998/"
       },
       {
         "name": "Sabu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001689/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0754934/"
       },
       {
         "name": "June Duprez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0243615/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0243377/"
       }
     ],
     "oscars_nominated": 4,
@@ -407,140 +402,10 @@
       "Best Art Direction, Color",
       "Best Special Effects"
     ],
-    "description": "A young thief, with the help of a genie, must save a princess from an evil sorcerer.",
+    "description": "After being tricked and cast out of Bagdad by the evil Jaffar, King Ahmad joins forces with a thief named Abu to reclaim his throne.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0033152/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021253-thief_of_bagdad"
-  },
-  {
-    "title": "The Mortal Storm",
-    "year": 1940,
-    "director": {
-      "name": "Frank Borzage",
-      "imdb_person_url": "https://www.imdb.com/name/nm0097645/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 0.6,
-    "gross_revenue_usd_millions": 1,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Drama",
-      "Romance",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Margaret Sullavan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0838118/"
-      },
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      },
-      {
-        "name": "Robert Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A German family is torn apart by the rise of Nazism.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032822/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_mortal_storm"
-  },
-  {
-    "title": "The Bank Dick",
-    "year": 1940,
-    "director": {
-      "name": "Edward F. Cline",
-      "imdb_person_url": "https://www.imdb.com/name/nm0166649/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 72,
-    "budget_usd_millions": 0.25,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "W.C. Fields",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001210/"
-      },
-      {
-        "name": "Cora Witherspoon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0936647/"
-      },
-      {
-        "name": "Una Merkel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0580792/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A lazy, henpecked, heavy-drinking man is hired as a bank guard and accidentally foils a robbery.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032234/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_bank_dick"
-  },
-  {
-    "title": "Foreign Correspondent",
-    "year": 1940,
-    "director": {
-      "name": "Alfred Hitchcock",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
-    },
-    "production_studio": "Walter Wanger Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Mystery",
-      "Romance",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Joel McCrea",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001520/"
-      },
-      {
-        "name": "Laraine Day",
-        "imdb_person_url": "https://www.imdb.com/name/nm0206771/"
-      },
-      {
-        "name": "Herbert Marshall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0551017/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "On the eve of World War II, a young American reporter tries to expose enemy agents in London.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032484/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/foreign_correspondent"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thief_of_bagdad"
   },
   {
     "title": "The Letter",
@@ -550,14 +415,14 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
     },
     "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 95,
-    "budget_usd_millions": 0.75,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "85%"
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Crime",
@@ -571,168 +436,123 @@
       },
       {
         "name": "Herbert Marshall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0551017/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0550913/"
       },
       {
         "name": "James Stephenson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0827103/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0827267/"
       }
     ],
     "oscars_nominated": 7,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The wife of a rubber plantation manager claims to have killed a man in self-defense, but a blackmailer's letter may prove otherwise.",
+    "description": "The wife of a rubber plantation administrator shoots a man to death and claims it was self-defense, but a letter in her own hand may prove her undoing.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0032701/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012217-letter"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012233-letter"
   },
   {
-    "title": "Northwest Passage",
+    "title": "The Bank Dick",
     "year": 1940,
     "director": {
-      "name": "King Vidor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0896542/"
+      "name": "Edward F. Cline",
+      "imdb_person_url": "https://www.imdb.com/name/nm0166754/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 2.68,
-    "gross_revenue_usd_millions": 3.15,
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 72,
+    "budget_usd_millions": 0.23,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Spencer Tracy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
-      },
-      {
-        "name": "Robert Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      },
-      {
-        "name": "Walter Brennan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000973/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A colonial-era American artist joins a British major on a perilous expedition to find the Northwest Passage.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032851/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/northwest_passage"
-  },
-  {
-    "title": "The Sea Hawk",
-    "year": 1940,
-    "director": {
-      "name": "Michael Curtiz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 2.6,
-    "ratings": {
-      "imdb": 7.6,
+      "imdb": 7.3,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Action",
-      "Adventure",
-      "History"
+      "Comedy"
     ],
     "actors": [
       {
-        "name": "Errol Flynn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+        "name": "W.C. Fields",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001211/"
       },
       {
-        "name": "Brenda Marshall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0550882/"
+        "name": "Cora Witherspoon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0936766/"
       },
       {
-        "name": "Claude Rains",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+        "name": "Una Merkel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0580826/"
       }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An English privateer captures a Spanish galleon and frees the slaves, but his troubles are not over.",
+    "description": "A drunk is hired to replace a bank guard he accidentally knocked out.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032997/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_sea_hawk"
+    "imdb_url": "https://www.imdb.com/title/tt0032234/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bank_dick"
   },
   {
-    "title": "My Favorite Wife",
+    "title": "Foreign Correspondent",
     "year": 1940,
     "director": {
-      "name": "Garson Kanin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0437768/"
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
     },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 2.1,
+    "production_studio": "Walter Wanger Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
-      "Comedy",
-      "Romance"
+      "Action",
+      "Romance",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Irene Dunne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002050/"
+        "name": "Joel McCrea",
+        "imdb_person_url": "https://www.imdb.com/name/nm0566909/"
       },
       {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+        "name": "Laraine Day",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002035/"
       },
       {
-        "name": "Randolph Scott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001712/"
+        "name": "Herbert Marshall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0550913/"
       }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 6,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A man's wife, presumed dead, returns on the day of his remarriage.",
+    "description": "On the eve of WWII, a young American reporter tries to expose enemy agents in London.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032829/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_favorite_wife"
+    "imdb_url": "https://www.imdb.com/title/tt0032484/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/foreign_correspondent"
   },
   {
     "title": "The Mark of Zorro",
     "year": 1940,
     "director": {
       "name": "Rouben Mamoulian",
-      "imdb_person_url": "https://www.imdb.com/name/nm0541240/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0541138/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 94,
-    "budget_usd_millions": null,
+    "budget_usd_millions": 1.0,
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "85%"
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Action",
@@ -742,11 +562,11 @@
     "actors": [
       {
         "name": "Tyrone Power",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000061/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001634/"
       },
       {
         "name": "Linda Darnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001103/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002033/"
       },
       {
         "name": "Basil Rathbone",
@@ -756,27 +576,248 @@
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young aristocrat dons a mask and cape to protect the people of Spanish California from a corrupt governor.",
+    "description": "A young Spanish aristocrat must masquerade as a fop to maintain his secret identity of Zorro as he restores justice to early California.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032762/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mark_of_zorro_1940"
+    "imdb_url": "https://www.imdb.com/title/tt0032766/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1039590-mark_of_zorro"
+  },
+  {
+    "title": "The Sea Hawk",
+    "year": 1940,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0193249/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Errol Flynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
+      },
+      {
+        "name": "Brenda Marshall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0550775/"
+      },
+      {
+        "name": "Claude Rains",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001647/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Geoffrey Thorpe, a buccaneer, is hired by Queen Elizabeth I to nag the Spanish Armada. The Armada is waiting for the attack on England and Thorpe surprises them with attacks on their galleons where he shows his skills on the sword.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0033028/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sea_hawk"
+  },
+  {
+    "title": "My Favorite Wife",
+    "year": 1940,
+    "director": {
+      "name": "Garson Kanin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0437737/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Irene Dunne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002051/"
+      },
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Randolph Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000068/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman, missing for seven years and declared legally dead, returns home on the day her husband is marrying another woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032827/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_favorite_wife"
+  },
+  {
+    "title": "Kitty Foyle",
+    "year": 1940,
+    "director": {
+      "name": "Sam Wood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939997/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "37%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
+      },
+      {
+        "name": "Dennis Morgan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0604603/"
+      },
+      {
+        "name": "James Craig",
+        "imdb_person_url": "https://www.imdb.com/name/nm0185887/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress (Ginger Rogers)"
+    ],
+    "description": "A hardworking white-collar girl from a middle-class family falls in love with a wealthy socialite, but their relationship faces scrutiny due to class differences.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032677/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kitty_foyle"
+  },
+  {
+    "title": "The Westerner",
+    "year": 1940,
+    "director": {
+      "name": "William Wyler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
+    },
+    "production_studio": "Samuel Goldwyn Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Gary Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
+      },
+      {
+        "name": "Walter Brennan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001970/"
+      },
+      {
+        "name": "Doris Davenport",
+        "imdb_person_url": "https://www.imdb.com/name/nm0202590/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Supporting Actor (Walter Brennan)"
+    ],
+    "description": "A drifter is accused of horse stealing and faces the hangman, but manages to talk his way out of it by claiming he knows the judge's obsession, Lillie Langtry.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0033253/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/westerner"
+  },
+  {
+    "title": "Waterloo Bridge",
+    "year": 1940,
+    "director": {
+      "name": "Mervyn LeRoy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0503649/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Vivien Leigh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000046/"
+      },
+      {
+        "name": "Robert Taylor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001791/"
+      },
+      {
+        "name": "Lucile Watson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0914764/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During World War I, a ballet dancer and an army officer meet on Waterloo Bridge during an air raid and fall in love, but the war threatens to tear them apart.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0033238/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1023212-waterloo_bridge"
   },
   {
     "title": "Pride and Prejudice",
     "year": 1940,
     "director": {
       "name": "Robert Z. Leonard",
-      "imdb_person_url": "https://www.imdb.com/name/nm0502758/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0502741/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 118,
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 117,
     "budget_usd_millions": 1.4,
     "gross_revenue_usd_millions": 1.8,
     "ratings": {
-      "imdb": 7.3,
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Drama",
@@ -793,7 +834,7 @@
       },
       {
         "name": "Mary Boland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0092652/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0092635/"
       }
     ],
     "oscars_nominated": 1,
@@ -801,99 +842,275 @@
     "oscars_won_details": [
       "Best Art Direction, Black-and-White"
     ],
-    "description": "Five sisters from an English family of landed gentry must deal with issues of marriage, morality and misconceptions.",
+    "description": "Elizabeth Bennet and her four sisters deal with the various aspects of love and marriage in a comedy of manners.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0032943/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016618-pride_and_prejudice"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016746-pride_and_prejudice"
   },
   {
-    "title": "The Westerner",
+    "title": "Boom Town",
     "year": 1940,
     "director": {
-      "name": "William Wyler",
-      "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
+      "name": "Jack Conway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0176630/"
     },
-    "production_studio": "Samuel Goldwyn Company",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": 2.2,
+    "runtime_minutes": 119,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 5.0,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "79%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "52%"
     },
     "genres": [
-      "Romance",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Gary Cooper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
-      },
-      {
-        "name": "Walter Brennan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000973/"
-      },
-      {
-        "name": "Doris Davenport",
-        "imdb_person_url": "https://www.imdb.com/name/nm0202636/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Supporting Actor"
-    ],
-    "description": "A drifter is accused of horse theft and is brought before the notorious Judge Roy Bean, who finds an unlikely kinship with the accused.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0033253/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_westerner"
-  },
-  {
-    "title": "Howards of Virginia",
-    "year": 1940,
-    "director": {
-      "name": "Frank Lloyd",
-      "imdb_person_url": "https://www.imdb.com/name/nm0516030/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 117,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
+      "Adventure",
       "Drama",
-      "History",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+        "name": "Clark Gable",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
       },
       {
-        "name": "Martha Scott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0779261/"
+        "name": "Spencer Tracy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
       },
       {
-        "name": "Cedric Hardwicke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002127/"
+        "name": "Claudette Colbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Virginia frontiersman fights in the American Revolution and builds a life for his family.",
+    "description": "Two friends strike it rich in the oil fields, but their friendship is tested when they fall for the same woman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032607/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/howards_of_virginia"
+    "imdb_url": "https://www.imdb.com/title/tt0032273/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boom_town"
+  },
+  {
+    "title": "Northwest Passage",
+    "year": 1940,
+    "director": {
+      "name": "King Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0007181/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Spencer Tracy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
+      },
+      {
+        "name": "Robert Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950009/"
+      },
+      {
+        "name": "Walter Brennan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001970/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Major Rogers leads his Rangers on a mission to destroy an Indian village in Canada, battling both the enemy and the harsh wilderness.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032851/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/northwest_passage"
+  },
+  {
+    "title": "Strike Up the Band",
+    "year": 1940,
+    "director": {
+      "name": "Busby Berkeley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000922/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Mickey Rooney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001682/"
+      },
+      {
+        "name": "Judy Garland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000023/"
+      },
+      {
+        "name": "Paul Whiteman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005551/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Sound"
+    ],
+    "description": "A high school student dreams of becoming a famous drummer and orchestra leader, enlisting his talented friends to form a band.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0033110/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/strike_up_the_band"
+  },
+  {
+    "title": "They Drive by Night",
+    "year": 1940,
+    "director": {
+      "name": "Raoul Walsh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0909818/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 1.6,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "George Raft",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+      },
+      {
+        "name": "Ann Sheridan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0792133/"
+      },
+      {
+        "name": "Ida Lupino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0527025/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two brothers struggle to make ends meet as truck drivers, facing dangerous roads, sleepless nights, and corruption.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0033149/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/they_drive_by_night"
+  },
+  {
+    "title": "Remember the Night",
+    "year": 1940,
+    "director": {
+      "name": "Mitchell Leisen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0500603/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 94,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Barbara Stanwyck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001766/"
+      },
+      {
+        "name": "Fred MacMurray",
+        "imdb_person_url": "https://www.imdb.com/name/nm0534045/"
+      },
+      {
+        "name": "Beulah Bondi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001961/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A shoplifter and her prosecutor fall in love after he takes her home to spend Christmas with his family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032981/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/remember_the_night"
+  },
+  {
+    "title": "Christmas in July",
+    "year": 1940,
+    "director": {
+      "name": "Preston Sturges",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001784/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 67,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Dick Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0694090/"
+      },
+      {
+        "name": "Ellen Drew",
+        "imdb_person_url": "https://www.imdb.com/name/nm0238427/"
+      },
+      {
+        "name": "Raymond Walburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0906999/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An office clerk mistakenly believes he has won a coffee company slogan contest and goes on a spending spree.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032338/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/christmas_in_july"
   },
   {
     "title": "The Long Voyage Home",
@@ -902,15 +1119,15 @@
       "name": "John Ford",
       "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
     },
-    "production_studio": "Walter Wanger Productions",
+    "production_studio": "Argosy Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 105,
     "budget_usd_millions": 0.68,
-    "gross_revenue_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 0.58,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "57%"
     },
     "genres": [
       "Drama",
@@ -923,19 +1140,716 @@
       },
       {
         "name": "Thomas Mitchell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0593459/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0593758/"
       },
       {
         "name": "Ian Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0402801/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0402836/"
       }
     ],
     "oscars_nominated": 6,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The crew of a British cargo ship during World War II must deal with the loneliness of the sea, the constant threat of attack, and their own personal demons.",
+    "description": "The crew of a merchant ship in the early days of World War II faces danger, suspicion, and the trials of life at sea.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032724/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_long_voyage_home"
+    "imdb_url": "https://www.imdb.com/title/tt0032722/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/long_voyage_home"
+  },
+  {
+    "title": "Knute Rockne All American",
+    "year": 1940,
+    "director": {
+      "name": "Lloyd Bacon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0045811/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Pat O'Brien",
+        "imdb_person_url": "https://www.imdb.com/name/nm0639738/"
+      },
+      {
+        "name": "Gale Page",
+        "imdb_person_url": "https://www.imdb.com/name/nm0656183/"
+      },
+      {
+        "name": "Ronald Reagan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001654/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The biography of the legendary football coach of Notre Dame, Knute Rockne, and his impact on the game and his players.",
+    "afi_ranking": 42,
+    "imdb_url": "https://www.imdb.com/title/tt0032676/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/knute_rockne_all_american"
+  },
+  {
+    "title": "Abe Lincoln in Illinois",
+    "year": 1940,
+    "director": {
+      "name": "John Cromwell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0188560/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 0.76,
+    "gross_revenue_usd_millions": 0.66,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Raymond Massey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002280/"
+      },
+      {
+        "name": "Gene Lockhart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0516859/"
+      },
+      {
+        "name": "Ruth Gordon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0330561/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of Abraham Lincoln's early years, from his days in New Salem to his election as President of the United States.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032181/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/abe_lincoln_in_illinois"
+  },
+  {
+    "title": "Road to Singapore",
+    "year": 1940,
+    "director": {
+      "name": "Victor Schertzinger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0771222/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Bing Crosby",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001078/"
+      },
+      {
+        "name": "Bob Hope",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
+      },
+      {
+        "name": "Dorothy Lamour",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001446/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two playboys try to forget their romantic troubles by fleeing to Singapore, where they meet a beautiful woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032993/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/road_to_singapore"
+  },
+  {
+    "title": "All This and Heaven Too",
+    "year": 1940,
+    "director": {
+      "name": "Anatole Litvak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514854/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 141,
+    "budget_usd_millions": 1.37,
+    "gross_revenue_usd_millions": 3.9,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Charles Boyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000964/"
+      },
+      {
+        "name": "Jeffrey Lynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0528719/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A French governess in 19th-century Paris falls in love with her employer, a Duke, leading to a scandal that rocks society.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032194/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/all_this_and_heaven_too"
+  },
+  {
+    "title": "Our Town",
+    "year": 1940,
+    "director": {
+      "name": "Sam Wood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939997/"
+    },
+    "production_studio": "Sol Lesser Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "William Holden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
+      },
+      {
+        "name": "Martha Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0779599/"
+      },
+      {
+        "name": "Fay Bainter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000834/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A portrayal of life in the small New Hampshire town of Grover's Corners, focusing on the romance between George Gibbs and Emily Webb.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032881/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015739-our_town"
+  },
+  {
+    "title": "Dark Command",
+    "year": 1940,
+    "director": {
+      "name": "Raoul Walsh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0909818/"
+    },
+    "production_studio": "Republic Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "39%"
+    },
+    "genres": [
+      "Romance",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Claire Trevor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001799/"
+      },
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Walter Pidgeon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000584/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Texas cowboy becomes a marshal in Lawrence, Kansas, clashing with a schoolteacher who turns into a Confederate guerrilla leader.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032385/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_command"
+  },
+  {
+    "title": "Virginia City",
+    "year": 1940,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0193249/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 3.9,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "37%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Errol Flynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
+      },
+      {
+        "name": "Miriam Hopkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0394237/"
+      },
+      {
+        "name": "Randolph Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000068/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Union officer escapes a Confederate prison and heads to Nevada to stop a gold shipment intended to support the Southern war effort.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0033226/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/virginia_city"
+  },
+  {
+    "title": "City for Conquest",
+    "year": 1940,
+    "director": {
+      "name": "Anatole Litvak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514854/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
+      },
+      {
+        "name": "Ann Sheridan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0792133/"
+      },
+      {
+        "name": "Frank Craven",
+        "imdb_person_url": "https://www.imdb.com/name/nm0186637/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A truck driver becomes a professional boxer to pay for his brother's music lessons, but his own eyesight is threatened.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032342/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/city_for_conquest"
+  },
+  {
+    "title": "Dance, Girl, Dance",
+    "year": 1940,
+    "director": {
+      "name": "Dorothy Arzner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0037881/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.67,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Maureen O'Hara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000058/"
+      },
+      {
+        "name": "Louis Hayward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0371795/"
+      },
+      {
+        "name": "Lucille Ball",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000840/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An aspiring ballerina is forced to work in a burlesque show where she clashes with a brassy dancer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032380/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dance_girl_dance"
+  },
+  {
+    "title": "The Mortal Storm",
+    "year": 1940,
+    "director": {
+      "name": "Frank Borzage",
+      "imdb_person_url": "https://www.imdb.com/name/nm0097636/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Margaret Sullavan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0837890/"
+      },
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      },
+      {
+        "name": "Robert Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950009/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A German family is torn apart when the Nazis come to power, pitting father against son and friend against friend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032811/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mortal_storm"
+  },
+  {
+    "title": "Strange Cargo",
+    "year": 1940,
+    "director": {
+      "name": "Frank Borzage",
+      "imdb_person_url": "https://www.imdb.com/name/nm0097636/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 1.9,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Joan Crawford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001076/"
+      },
+      {
+        "name": "Clark Gable",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
+      },
+      {
+        "name": "Ian Hunter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0402836/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Convicts escaping from a Devil's Island penal colony are joined by a Christ-like figure who influences their spiritual redemption.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0033107/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/strange_cargo"
+  },
+  {
+    "title": "Brother Orchid",
+    "year": 1940,
+    "director": {
+      "name": "Lloyd Bacon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0045811/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Edward G. Robinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
+      },
+      {
+        "name": "Ann Sothern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001756/"
+      },
+      {
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A gangster escapes an assassination attempt and hides out in a monastery, where he discovers a simpler way of life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032285/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/brother_orchid"
+  },
+  {
+    "title": "Torrid Zone",
+    "year": 1940,
+    "director": {
+      "name": "William Keighley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0445108/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.58,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
+      },
+      {
+        "name": "Ann Sheridan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0792133/"
+      },
+      {
+        "name": "Pat O'Brien",
+        "imdb_person_url": "https://www.imdb.com/name/nm0639738/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A banana plantation owner in South America juggles a revolutionary uprising, a scheming ex-employee, and a wisecracking cabaret singer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0033176/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/torrid_zone"
+  },
+  {
+    "title": "Go West",
+    "year": 1940,
+    "director": {
+      "name": "Edward Buzzell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0125678/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Groucho Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000050/"
+      },
+      {
+        "name": "Chico Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005192/"
+      },
+      {
+        "name": "Harpo Marx",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005193/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Marx Brothers head west to help the owner of a dead land deed find the money to pay off a loan.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032531/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008563-go_west"
+  },
+  {
+    "title": "I Love You Again",
+    "year": 1940,
+    "director": {
+      "name": "W.S. Van Dyke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0886459/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "William Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
+      },
+      {
+        "name": "Myrna Loy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
+      },
+      {
+        "name": "Frank McHugh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0570380/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A boring businessman recovers from amnesia only to discover he is actually a con man, and falls in love with his wife all over again.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032618/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_love_you_again"
+  },
+  {
+    "title": "The Blue Bird",
+    "year": 1940,
+    "director": {
+      "name": "Walter Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0007211/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "33%",
+      "rotten_tomatoes_popcorn": "39%"
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Shirley Temple",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000073/"
+      },
+      {
+        "name": "Spring Byington",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001981/"
+      },
+      {
+        "name": "Nigel Bruce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0115556/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two children seek the Blue Bird of Happiness in a magical dream world, in this Technicolor fantasy intended as a rival to The Wizard of Oz.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032264/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002656-blue_bird"
   }
 ]

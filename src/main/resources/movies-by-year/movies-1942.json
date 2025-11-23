@@ -4,10 +4,10 @@
     "year": 1942,
     "director": {
       "name": "Michael Curtiz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0193249/"
     },
     "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 102,
     "budget_usd_millions": 0.95,
     "gross_revenue_usd_millions": 4.1,
@@ -42,10 +42,54 @@
       "Best Director",
       "Best Writing, Screenplay"
     ],
-    "description": "A cynical American expatriate's cafe in Casablanca becomes a haven for refugees, and his life is turned upside down when his former lover appears.",
-    "afi_ranking": 2,
+    "description": "A cynical American expatriate struggles to decide whether or not to help his former lover and her fugitive husband escape French Morocco.",
+    "afi_ranking": 3,
     "imdb_url": "https://www.imdb.com/title/tt0034583/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/casablanca"
+  },
+  {
+    "title": "Bambi",
+    "year": 1942,
+    "director": {
+      "name": "David Hand",
+      "imdb_person_url": "https://www.imdb.com/name/nm0359331/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 70,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": 267.4,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Hardie Albright",
+        "imdb_person_url": "https://www.imdb.com/name/nm0017159/"
+      },
+      {
+        "name": "Stan Alexander",
+        "imdb_person_url": "https://www.imdb.com/name/nm0018742/"
+      },
+      {
+        "name": "Peter Behn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0066928/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of a young deer growing up in the forest with his friends Thumper the rabbit and Flower the skunk.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034492/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bambi"
   },
   {
     "title": "Mrs. Miniver",
@@ -54,15 +98,15 @@
       "name": "William Wyler",
       "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
     "runtime_minutes": 134,
-    "budget_usd_millions": 1.34,
+    "budget_usd_millions": 1.3,
     "gross_revenue_usd_millions": 8.9,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "82%"
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
       "Drama",
@@ -76,11 +120,11 @@
       },
       {
         "name": "Walter Pidgeon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0682057/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000584/"
       },
       {
         "name": "Teresa Wright",
-        "imdb_person_url": "https://www.imdb.com/name/nm0942861/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0942853/"
       }
     ],
     "oscars_nominated": 12,
@@ -88,8 +132,8 @@
     "oscars_won_details": [
       "Best Picture",
       "Best Director",
-      "Best Actress",
-      "Best Supporting Actress",
+      "Best Actress (Greer Garson)",
+      "Best Supporting Actress (Teresa Wright)",
       "Best Writing, Screenplay",
       "Best Cinematography, Black-and-White"
     ],
@@ -99,64 +143,21 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mrs_miniver"
   },
   {
-    "title": "The Magnificent Ambersons",
-    "year": 1942,
-    "director": {
-      "name": "Orson Welles",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "75%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Joseph Cotten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
-      },
-      {
-        "name": "Dolores Costello",
-        "imdb_person_url": "https://www.imdb.com/name/nm0182610/"
-      },
-      {
-        "name": "Anne Baxter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000882/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The declining fortunes of a wealthy Midwestern family and the social changes brought by the automobile age.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0035015/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/magnificent_ambersons"
-  },
-  {
     "title": "Yankee Doodle Dandy",
     "year": 1942,
     "director": {
       "name": "Michael Curtiz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0193249/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "Passed",
     "runtime_minutes": 126,
     "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": 11.8,
+    "gross_revenue_usd_millions": 6.5,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "88%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
       "Biography",
@@ -166,132 +167,45 @@
     "actors": [
       {
         "name": "James Cagney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000010/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
       },
       {
         "name": "Joan Leslie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0504107/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0504159/"
       },
       {
         "name": "Walter Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002151/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
       }
     ],
     "oscars_nominated": 8,
     "oscars_won": 3,
     "oscars_won_details": [
-      "Best Actor",
+      "Best Actor (James Cagney)",
       "Best Sound, Recording",
       "Best Music, Scoring of a Musical Picture"
     ],
-    "description": "The life of the renowned musical composer, playwright, actor, dancer, and singer George M. Cohan.",
+    "description": "A musical portrait of composer/singer/dancer George M. Cohan. From his early days as a child-star in his family's vaudeville show up to the time of his comeback.",
     "afi_ranking": 98,
-    "imdb_url": "https://www.imdb.com/title/tt0035575/",
+    "imdb_url": "https://www.imdb.com/title/tt0035570/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/yankee_doodle_dandy"
-  },
-  {
-    "title": "To Be or Not to Be",
-    "year": 1942,
-    "director": {
-      "name": "Ernst Lubitsch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0523932/"
-    },
-    "production_studio": "Romaine Film Corporation",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 99,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.2,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "94%"
-    },
-    "genres": [
-      "Comedy",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Carole Lombard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
-      },
-      {
-        "name": "Jack Benny",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000912/"
-      },
-      {
-        "name": "Robert Stack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0821041/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "During the Nazi occupation of Poland, a troupe of actors use their disguises and acting skills to fool the occupying troops.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0035446/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/to_be_or_not_to_be"
-  },
-  {
-    "title": "Bambi",
-    "year": 1942,
-    "director": {
-      "name": "David Hand",
-      "imdb_person_url": "https://www.imdb.com/name/nm0359307/"
-    },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 70,
-    "budget_usd_millions": 0.858,
-    "gross_revenue_usd_millions": 267.4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Animation",
-      "Drama",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Hardie Albright",
-        "imdb_person_url": "https://www.imdb.com/name/nm0017160/"
-      },
-      {
-        "name": "Stan Alexander",
-        "imdb_person_url": "https://www.imdb.com/name/nm0018742/"
-      },
-      {
-        "name": "Peter Behn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0066925/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of a young deer growing up in the forest.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0034492/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bambi"
   },
   {
     "title": "Now, Voyager",
     "year": 1942,
     "director": {
       "name": "Irving Rapper",
-      "imdb_person_url": "https://www.imdb.com/name/nm0710924/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0710907/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "Passed",
     "runtime_minutes": 117,
-    "budget_usd_millions": 0.855,
-    "gross_revenue_usd_millions": 4,
+    "budget_usd_millions": 0.87,
+    "gross_revenue_usd_millions": 4.3,
     "ratings": {
       "imdb": 7.9,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "90%"
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Drama",
@@ -308,7 +222,7 @@
       },
       {
         "name": "Claude Rains",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001647/"
       }
     ],
     "oscars_nominated": 3,
@@ -316,73 +230,157 @@
     "oscars_won_details": [
       "Best Music, Scoring of a Dramatic or Comedy Picture"
     ],
-    "description": "A frumpy, repressed spinster blossoms under the care of a sympathetic psychiatrist and embarks on a life-changing sea voyage.",
-    "afi_ranking": null,
+    "description": "A defiant daughter of a wealthy Boston family finds romance and independence when she breaks free from her domineering mother.",
+    "afi_ranking": 23,
     "imdb_url": "https://www.imdb.com/title/tt0035140/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/now_voyager"
   },
   {
-    "title": "The Pride of the Yankees",
+    "title": "To Be or Not to Be",
     "year": 1942,
     "director": {
-      "name": "Sam Wood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0939886/"
+      "name": "Ernst Lubitsch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002281/"
     },
-    "production_studio": "Samuel Goldwyn Company",
+    "production_studio": "Romaine Film Corporation",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 128,
+    "runtime_minutes": 99,
     "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 4.2,
+    "gross_revenue_usd_millions": 1.5,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "85%"
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
-      "Biography",
+      "Comedy",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Carole Lombard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
+      },
+      {
+        "name": "Jack Benny",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000912/"
+      },
+      {
+        "name": "Robert Stack",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001765/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+    "afi_ranking": 49,
+    "imdb_url": "https://www.imdb.com/title/tt0035446/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/to_be_or_not_to_be"
+  },
+  {
+    "title": "The Magnificent Ambersons",
+    "year": 1942,
+    "director": {
+      "name": "Orson Welles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": 0.6,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
       "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Gary Cooper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
+        "name": "Joseph Cotten",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001070/"
       },
       {
-        "name": "Teresa Wright",
-        "imdb_person_url": "https://www.imdb.com/name/nm0942861/"
+        "name": "Dolores Costello",
+        "imdb_person_url": "https://www.imdb.com/name/nm0182550/"
       },
       {
-        "name": "Babe Ruth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0751887/"
+        "name": "Anne Baxter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000882/"
       }
     ],
-    "oscars_nominated": 11,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Film Editing"
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved.",
+    "afi_ranking": 81,
+    "imdb_url": "https://www.imdb.com/title/tt0035015/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/magnificent_ambersons"
+  },
+  {
+    "title": "Cat People",
+    "year": 1942,
+    "director": {
+      "name": "Jacques Tourneur",
+      "imdb_person_url": "https://www.imdb.com/name/nm0869667/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 73,
+    "budget_usd_millions": 0.13,
+    "gross_revenue_usd_millions": 4.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
     ],
-    "description": "The story of the life and career of the famous baseball player, Lou Gehrig.",
-    "afi_ranking": 22,
-    "imdb_url": "https://www.imdb.com/title/tt0035211/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pride_of_the_yankees"
+    "actors": [
+      {
+        "name": "Simone Simon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0800027/"
+      },
+      {
+        "name": "Kent Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0808994/"
+      },
+      {
+        "name": "Tom Conway",
+        "imdb_person_url": "https://www.imdb.com/name/nm0176795/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American man marries a Serbian immigrant who fears that she will turn into the cat person of her homeland's fables if they are intimate together.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034587/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1003757-cat_people"
   },
   {
     "title": "Woman of the Year",
     "year": 1942,
     "director": {
       "name": "George Stevens",
-      "imdb_person_url": "https://www.imdb.com/name/nm0828552/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0828416/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
     "runtime_minutes": 114,
-    "budget_usd_millions": 1.2,
+    "budget_usd_millions": 1.0,
     "gross_revenue_usd_millions": 2.7,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "74%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
       "Comedy",
@@ -400,7 +398,7 @@
       },
       {
         "name": "Fay Bainter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0047895/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000834/"
       }
     ],
     "oscars_nominated": 2,
@@ -408,116 +406,116 @@
     "oscars_won_details": [
       "Best Writing, Original Screenplay"
     ],
-    "description": "Rival reporters Sam and Tess fall in love and get married, only to find their relationship strained when Tess' skyrocketing career grabs the spotlight.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0035564/",
+    "description": "Rival reporters Sam and Tess fall in love and get married, only to find their relationship strained when Tess is named 'Woman of the Year'.",
+    "afi_ranking": 74,
+    "imdb_url": "https://www.imdb.com/title/tt0035578/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/woman_of_the_year"
   },
   {
-    "title": "Holiday Inn",
+    "title": "The Pride of the Yankees",
     "year": 1942,
     "director": {
-      "name": "Mark Sandrich",
-      "imdb_person_url": "https://www.imdb.com/name/nm0762141/"
+      "name": "Sam Wood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939997/"
+    },
+    "production_studio": "Samuel Goldwyn Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 3.3,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Gary Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
+      },
+      {
+        "name": "Teresa Wright",
+        "imdb_person_url": "https://www.imdb.com/name/nm0942853/"
+      },
+      {
+        "name": "Babe Ruth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0751930/"
+      }
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Film Editing"
+    ],
+    "description": "The story of the life and career of the famous baseball player, Lou Gehrig.",
+    "afi_ranking": 22,
+    "imdb_url": "https://www.imdb.com/title/tt0035211/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pride_of_the_yankees"
+  },
+  {
+    "title": "This Gun for Hire",
+    "year": 1942,
+    "director": {
+      "name": "Frank Tuttle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0878523/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 3.2,
-    "gross_revenue_usd_millions": 3.8,
+    "runtime_minutes": 81,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.3,
+      "imdb": 7.5,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
-      "Comedy",
+      "Crime",
       "Drama",
-      "Musical"
+      "Film-Noir"
     ],
     "actors": [
       {
-        "name": "Bing Crosby",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001080/"
+        "name": "Veronica Lake",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000043/"
       },
       {
-        "name": "Fred Astaire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
+        "name": "Robert Preston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
       },
       {
-        "name": "Marjorie Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0721861/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song"
-    ],
-    "description": "At an inn which is open only on holidays, a crooner and a hoofer vie for the affections of a beautiful up-and-coming performer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0034862/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/holiday_inn"
-  },
-  {
-    "title": "Cat People",
-    "year": 1942,
-    "director": {
-      "name": "Jacques Tourneur",
-      "imdb_person_url": "https://www.imdb.com/name/nm0869664/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 73,
-    "budget_usd_millions": 0.135,
-    "gross_revenue_usd_millions": 4,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Simone Simon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0799886/"
-      },
-      {
-        "name": "Kent Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0809004/"
-      },
-      {
-        "name": "Tom Conway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0176784/"
+        "name": "Alan Ladd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000043/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An American man marries a Serbian immigrant who fears that she will turn into the cat person of her homeland's fables if they are intimate together.",
+    "description": "A quiet hitman becomes entangled with a nightclub singer and a treasonous plot involving poison gas.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0034587/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cat_people"
+    "imdb_url": "https://www.imdb.com/title/tt0035432/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/this_gun_for_hire"
   },
   {
     "title": "The Palm Beach Story",
     "year": 1942,
     "director": {
       "name": "Preston Sturges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002545/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001784/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 88,
-    "budget_usd_millions": null,
+    "budget_usd_millions": 0.9,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "97%",
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
@@ -531,17 +529,17 @@
       },
       {
         "name": "Joel McCrea",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001520/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0566909/"
       },
       {
         "name": "Mary Astor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000801/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000803/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A married couple's relationship is put to the test when the wife runs off to Florida to find a rich man to finance her husband's architectural dreams.",
+    "description": "A married woman leaves her husband in New York to find a rich man in Palm Beach, Florida, so she can finance his inventions.",
     "afi_ranking": 77,
     "imdb_url": "https://www.imdb.com/title/tt0035169/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/palm_beach_story"
@@ -551,17 +549,17 @@
     "year": 1942,
     "director": {
       "name": "Mervyn LeRoy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0504141/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0503649/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Metro-Goldwyn-Mayer",
     "mpaa_rating": "Passed",
     "runtime_minutes": 126,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 8,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 8.1,
     "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "87%"
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Drama",
@@ -570,7 +568,7 @@
     "actors": [
       {
         "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0172848/"
       },
       {
         "name": "Greer Garson",
@@ -578,209 +576,33 @@
       },
       {
         "name": "Philip Dorn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0233782/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0233720/"
       }
     ],
     "oscars_nominated": 7,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A World War I veteran suffering from amnesia falls in love with a music hall star, but an accident restores his original memories while erasing his new life.",
+    "description": "An amnesiac World War I veteran falls in love with a music hall star, only to regain his memory of his past life and forget her.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0035238/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/random_harvest"
   },
   {
-    "title": "This Gun for Hire",
-    "year": 1942,
-    "director": {
-      "name": "Frank Tuttle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0878509/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 81,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 1,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "Alan Ladd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001438/"
-      },
-      {
-        "name": "Veronica Lake",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000043/"
-      },
-      {
-        "name": "Robert Preston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0696481/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A hitman seeks revenge when he is double-crossed by his employer, all while being pursued by the police and a beautiful nightclub singer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0035432/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/this_gun_for_hire"
-  },
-  {
-    "title": "Saboteur",
-    "year": 1942,
-    "director": {
-      "name": "Alfred Hitchcock",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 109,
-    "budget_usd_millions": 0.77,
-    "gross_revenue_usd_millions": 2.4,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Thriller",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Priscilla Lane",
-        "imdb_person_url": "https://www.imdb.com/name/nm0485390/"
-      },
-      {
-        "name": "Robert Cummings",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
-      },
-      {
-        "name": "Otto Kruger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0472652/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young aircraft worker is falsely accused of sabotage and goes on the run to find the real culprit across the United States.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0035279/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/saboteur"
-  },
-  {
-    "title": "Road to Morocco",
-    "year": 1942,
-    "director": {
-      "name": "David Butler",
-      "imdb_person_url": "https://www.imdb.com/name/nm0124890/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 82,
-    "budget_usd_millions": 0.9,
-    "gross_revenue_usd_millions": 4,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "74%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Bing Crosby",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001080/"
-      },
-      {
-        "name": "Bob Hope",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001362/"
-      },
-      {
-        "name": "Dorothy Lamour",
-        "imdb_person_url": "https://www.imdb.com/name/nm0483759/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two castaways wash up on the shores of Morocco, where they get mixed up with a beautiful princess and a sheik.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0035262/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/road_to_morocco"
-  },
-  {
-    "title": "In Which We Serve",
-    "year": 1942,
-    "director": {
-      "name": "Noel Coward",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002021/"
-    },
-    "production_studio": "Two Cities Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 114,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "62%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Noel Coward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002021/"
-      },
-      {
-        "name": "John Mills",
-        "imdb_person_url": "https://www.imdb.com/name/nm0589999/"
-      },
-      {
-        "name": "Bernard Miles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0587064/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Honorary Award"
-    ],
-    "description": "The story of a British naval ship and its crew during the Battle of Crete in 1941.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0034891/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_which_we_serve"
-  },
-  {
-    "title": "The Talk of the Town",
+    "title": "Talk of the Town",
     "year": 1942,
     "director": {
       "name": "George Stevens",
-      "imdb_person_url": "https://www.imdb.com/name/nm0828552/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0828416/"
     },
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 118,
-    "budget_usd_millions": 0.998,
-    "gross_revenue_usd_millions": 2.5,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 1.7,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "78%"
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "75%"
     },
     "genres": [
       "Comedy",
@@ -794,108 +616,66 @@
       },
       {
         "name": "Jean Arthur",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000799/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
       },
       {
         "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001058/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0172848/"
       }
     ],
     "oscars_nominated": 7,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An escaped prisoner hides out in a schoolteacher's house, where he gets mixed up with a law professor renting it for the summer.",
+    "description": "An escaped political prisoner and a stuffy law professor love the same woman.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0035417/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1020851-talk_of_the_town"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/talk_of_the_town"
   },
   {
-    "title": "Kings Row",
+    "title": "Holiday Inn",
     "year": 1942,
     "director": {
-      "name": "Sam Wood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0939886/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 2.35,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "72%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Ann Sheridan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0792133/"
-      },
-      {
-        "name": "Robert Cummings",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002028/"
-      },
-      {
-        "name": "Ronald Reagan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000063/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Dark secrets and tragedy befall the inhabitants of a small Midwestern town at the turn of the 20th century.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0034946/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kings_row"
-  },
-  {
-    "title": "I Married a Witch",
-    "year": 1942,
-    "director": {
-      "name": "René Clair",
-      "imdb_person_url": "https://www.imdb.com/name/nm0163266/"
+      "name": "Mark Sandrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0762237/"
     },
     "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 77,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 3.2,
+    "gross_revenue_usd_millions": 3.7,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "69%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Comedy",
-      "Fantasy",
-      "Romance"
+      "Drama",
+      "Musical"
     ],
     "actors": [
       {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
+        "name": "Bing Crosby",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001078/"
       },
       {
-        "name": "Veronica Lake",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000043/"
+        "name": "Fred Astaire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
       },
       {
-        "name": "Robert Benchley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000906/"
+        "name": "Marjorie Reynolds",
+        "imdb_person_url": "https://www.imdb.com/name/nm0721852/"
       }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A witch burned at the stake in colonial America returns to haunt the descendants of the man who condemned her, only to fall in love with one of them.",
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Original Song (White Christmas)"
+    ],
+    "description": "At an inn which is open only on holidays, a crooner and a hoofer vie for the affections of a beautiful up-and-coming performer.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0034881/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_married_a_witch"
+    "imdb_url": "https://www.imdb.com/title/tt0034862/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/holiday_inn"
   },
   {
     "title": "The Major and the Minor",
@@ -907,12 +687,12 @@
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 100,
-    "budget_usd_millions": 0.92,
+    "budget_usd_millions": 0.9,
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
       "Comedy",
@@ -929,77 +709,77 @@
       },
       {
         "name": "Rita Johnson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0426137/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0426096/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A woman masquerades as a 12-year-old girl to get a half-fare train ticket and ends up in a military academy.",
+    "description": "A broke woman disguises herself as a 12-year-old girl to get a half-price train ticket and ends up being taken in by a major.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0035019/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/major_and_the_minor"
   },
   {
-    "title": "Wake Island",
+    "title": "Road to Morocco",
     "year": 1942,
     "director": {
-      "name": "John Farrow",
-      "imdb_person_url": "https://www.imdb.com/name/nm0268487/"
+      "name": "David Butler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0124890/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 87,
+    "runtime_minutes": 82,
     "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": 3.5,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "36%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
-      "Action",
-      "Drama",
-      "War"
+      "Adventure",
+      "Comedy",
+      "Musical"
     ],
     "actors": [
       {
-        "name": "Brian Donlevy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0232582/"
+        "name": "Bing Crosby",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001078/"
       },
       {
-        "name": "Robert Preston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0696481/"
+        "name": "Bob Hope",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
       },
       {
-        "name": "Macdonald Carey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0136995/"
+        "name": "Dorothy Lamour",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001446/"
       }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of the U.S. Marine garrison's defense of Wake Island against the Japanese in the early days of World War II.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0035530/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wake_island"
+    "description": "Two castaways wash up on the shores of North Africa and get mixed up with an Arabian princess and a desert sheik.",
+    "afi_ranking": 78,
+    "imdb_url": "https://www.imdb.com/title/tt0035262/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/road_to_morocco"
   },
   {
     "title": "The Glass Key",
     "year": 1942,
     "director": {
       "name": "Stuart Heisler",
-      "imdb_person_url": "https://www.imdb.com/name/nm0374581/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0374695/"
     },
     "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 85,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "70%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "63%"
     },
     "genres": [
       "Crime",
@@ -1009,7 +789,7 @@
     "actors": [
       {
         "name": "Brian Donlevy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0232582/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0232573/"
       },
       {
         "name": "Veronica Lake",
@@ -1017,77 +797,298 @@
       },
       {
         "name": "Alan Ladd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001438/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000043/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A political boss is accused of murder, and his right-hand man must find the real killer while navigating a complex web of corruption.",
+    "description": "A corrupt political boss is accused of murder, and his right-hand man tries to clear him while navigating a complex web of deceit.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0034798/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008308-glass_key"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008492-glass_key"
+  },
+  {
+    "title": "Across the Pacific",
+    "year": 1942,
+    "director": {
+      "name": "John Huston",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      },
+      {
+        "name": "Mary Astor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000803/"
+      },
+      {
+        "name": "Sydney Greenstreet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002113/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A cashiered army officer tracks an enemy agent onto a ship bound for the Panama Canal to stop a plot to blow up the locks.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034428/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/across_the_pacific"
+  },
+  {
+    "title": "The Man Who Came to Dinner",
+    "year": 1942,
+    "director": {
+      "name": "William Keighley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0445108/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 112,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Ann Sheridan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0792133/"
+      },
+      {
+        "name": "Monty Woolley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0941147/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a famous radio personality slips on the ice on the steps of a prominent Ohio family's home, he takes over their house and life while he recovers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0033874/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_who_came_to_dinner"
   },
   {
     "title": "Gentleman Jim",
     "year": 1942,
     "director": {
       "name": "Raoul Walsh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0909825/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0909818/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "Passed",
     "runtime_minutes": 104,
-    "budget_usd_millions": 0.988,
-    "gross_revenue_usd_millions": 2.4,
+    "budget_usd_millions": 0.86,
+    "gross_revenue_usd_millions": 3.8,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "74%"
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
       "Biography",
       "Drama",
-      "Sport"
+      "Romance"
     ],
     "actors": [
       {
         "name": "Errol Flynn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
       },
       {
         "name": "Alexis Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0807248/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001748/"
       },
       {
         "name": "Jack Carson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0141258/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001990/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of James J. Corbett, the 19th-century heavyweight boxing champion who brought refinement to the sport.",
+    "description": "The story of James J. Corbett, the bank clerk who became world heavyweight boxing champion in 1892.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0034785/",
+    "imdb_url": "https://www.imdb.com/title/tt0034778/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gentleman_jim"
+  },
+  {
+    "title": "Keeper of the Flame",
+    "year": 1942,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "45%",
+      "rotten_tomatoes_popcorn": "43%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Spencer Tracy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
+      },
+      {
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
+      },
+      {
+        "name": "Richard Whorf",
+        "imdb_person_url": "https://www.imdb.com/name/nm0924156/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A reporter investigates the death of a national hero and uncovers dark secrets about his life and political ambitions.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034936/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/keeper_of_the_flame"
+  },
+  {
+    "title": "Reap the Wild Wind",
+    "year": 1942,
+    "director": {
+      "name": "Cecil B. DeMille",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 4.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "38%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Ray Milland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001537/"
+      },
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Paulette Goddard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002104/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Special Effects"
+    ],
+    "description": "In 1840, ship salvagers off the Florida Keys battle storms, giant squids, and each other for the cargo of wrecked vessels.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035241/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/reap_the_wild_wind"
+  },
+  {
+    "title": "Kings Row",
+    "year": 1942,
+    "director": {
+      "name": "Sam Wood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939997/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 2.3,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ann Sheridan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0792133/"
+      },
+      {
+        "name": "Robert Cummings",
+        "imdb_person_url": "https://www.imdb.com/name/nm0191952/"
+      },
+      {
+        "name": "Ronald Reagan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001654/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Five children grow up in a small Midwestern town at the turn of the century, facing tragedy, madness, and murder.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034946/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kings_row"
   },
   {
     "title": "The Black Swan",
     "year": 1942,
     "director": {
       "name": "Henry King",
-      "imdb_person_url": "https://www.imdb.com/name/nm0454766/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0454780/"
     },
     "production_studio": "20th Century Fox",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 87,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": 4,
+    "runtime_minutes": 85,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 6.9,
       "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "51%"
+      "rotten_tomatoes_popcorn": "57%"
     },
     "genres": [
       "Action",
@@ -1097,7 +1098,7 @@
     "actors": [
       {
         "name": "Tyrone Power",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000061/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001634/"
       },
       {
         "name": "Maureen O'Hara",
@@ -1105,7 +1106,7 @@
       },
       {
         "name": "Laird Cregar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002023/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0187310/"
       }
     ],
     "oscars_nominated": 3,
@@ -1113,9 +1114,842 @@
     "oscars_won_details": [
       "Best Cinematography, Color"
     ],
-    "description": "A former pirate is named Governor of Jamaica and tasked with ridding the Caribbean of his former colleagues.",
+    "description": "A reformed pirate hunts down his former partners in crime while trying to woo a governor's daughter in 17th-century Jamaica.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0034522/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002498-black_swan"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002497-black_swan"
+  },
+  {
+    "title": "Saboteur",
+    "year": 1942,
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Thriller",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Priscilla Lane",
+        "imdb_person_url": "https://www.imdb.com/name/nm0485509/"
+      },
+      {
+        "name": "Robert Cummings",
+        "imdb_person_url": "https://www.imdb.com/name/nm0191952/"
+      },
+      {
+        "name": "Otto Kruger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001436/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A factory worker accused of sabotage goes on the run across the United States to find the real culprit and clear his name.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035279/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/saboteur"
+  },
+  {
+    "title": "In Which We Serve",
+    "year": 1942,
+    "director": {
+      "name": "Noel Coward",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002021/"
+    },
+    "production_studio": "Two Cities Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 114,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.24,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Noel Coward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002021/"
+      },
+      {
+        "name": "John Mills",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001538/"
+      },
+      {
+        "name": "Bernard Miles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0587067/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Honorary Award (Noel Coward)"
+    ],
+    "description": "The story of a British naval ship, the HMS Torrin, from its construction to its sinking in the Battle of Crete, told through flashbacks by the survivors.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034891/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_which_we_serve"
+  },
+  {
+    "title": "Desperate Journey",
+    "year": 1942,
+    "director": {
+      "name": "Raoul Walsh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0909818/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 4.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "33%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Errol Flynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
+      },
+      {
+        "name": "Ronald Reagan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001654/"
+      },
+      {
+        "name": "Nancy Coleman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0171168/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After their bomber crashes in Germany, an RAF flight crew tries to escape across Nazi territory to safety in the Netherlands.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034645/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/desperate_journey"
+  },
+  {
+    "title": "The Flying Tigers",
+    "year": 1942,
+    "director": {
+      "name": "David Miller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0588197/"
+    },
+    "production_studio": "Republic Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 4.0,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "44%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "John Carroll",
+        "imdb_person_url": "https://www.imdb.com/name/nm0140876/"
+      },
+      {
+        "name": "Anna Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002281/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "American volunteer pilots fight the Japanese in China before the US enters World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034742/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/flying_tigers"
+  },
+  {
+    "title": "My Gal Sal",
+    "year": 1942,
+    "director": {
+      "name": "Irving Cummings",
+      "imdb_person_url": "https://www.imdb.com/name/nm0191898/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.7,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "27%"
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Rita Hayworth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
+      },
+      {
+        "name": "Victor Mature",
+        "imdb_person_url": "https://www.imdb.com/name/nm0560562/"
+      },
+      {
+        "name": "John Sutton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0840322/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Art Direction-Interior Decoration, Color"
+    ],
+    "description": "The life of songwriter Paul Dresser, who leaves home to join a medicine show and eventually falls in love with a singer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035103/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_gal_sal"
+  },
+  {
+    "title": "The Ghost of Frankenstein",
+    "year": 1942,
+    "director": {
+      "name": "Erle C. Kenton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0448921/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 67,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "36%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Lon Chaney Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001037/"
+      },
+      {
+        "name": "Cedric Hardwicke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002126/"
+      },
+      {
+        "name": "Ralph Bellamy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000897/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Ygor resurrects Frankenstein's monster and brings him to the original doctor's son, hoping to have his own brain transplanted into the creature.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034786/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ghost_of_frankenstein"
+  },
+  {
+    "title": "Moontide",
+    "year": 1942,
+    "director": {
+      "name": "Archie Mayo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0562923/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 94,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Jean Gabin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002088/"
+      },
+      {
+        "name": "Ida Lupino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0527025/"
+      },
+      {
+        "name": "Thomas Mitchell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0593758/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dockworker, prone to drunken blackouts, saves a suicidal woman and falls in love with her, but is manipulated by his jealous friend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035079/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/moontide"
+  },
+  {
+    "title": "The Mummy's Tomb",
+    "year": 1942,
+    "director": {
+      "name": "Harold Young",
+      "imdb_person_url": "https://www.imdb.com/name/nm0949602/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 60,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 5.6,
+      "rotten_tomatoes_critic": "29%",
+      "rotten_tomatoes_popcorn": "28%"
+    },
+    "genres": [
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Lon Chaney Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001037/"
+      },
+      {
+        "name": "Dick Foran",
+        "imdb_person_url": "https://www.imdb.com/name/nm0285267/"
+      },
+      {
+        "name": "John Hubbard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0399196/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Mummy Kharis is brought to America by a high priest to kill the members of the Banning family who defiled the tomb of Princess Ananka.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035095/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mummys_tomb"
+  },
+  {
+    "title": "Sherlock Holmes and the Voice of Terror",
+    "year": 1942,
+    "director": {
+      "name": "John Rawlins",
+      "imdb_person_url": "https://www.imdb.com/name/nm0712641/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 65,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
+      },
+      {
+        "name": "Nigel Bruce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0115556/"
+      },
+      {
+        "name": "Evelyn Ankers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0030173/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Sherlock Holmes helps the British government track down a Nazi saboteur broadcasting terror threats over the radio.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035318/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sherlock_holmes_and_the_voice_of_terror"
+  },
+  {
+    "title": "Arabian Nights",
+    "year": 1942,
+    "director": {
+      "name": "John Rawlins",
+      "imdb_person_url": "https://www.imdb.com/name/nm0712641/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "42%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Jon Hall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0355742/"
+      },
+      {
+        "name": "Maria Montez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0599677/"
+      },
+      {
+        "name": "Sabu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0754934/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The rightful Caliph of Baghdad fights to reclaim his throne from his evil brother with the help of a beautiful dancer and Ali Baba.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034465/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1001107-arabian_nights"
+  },
+  {
+    "title": "Captains of the Clouds",
+    "year": 1942,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0193249/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 3.9,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "38%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
+      },
+      {
+        "name": "Dennis Morgan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0604603/"
+      },
+      {
+        "name": "Brenda Marshall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0550775/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A cocky Canadian bush pilot joins the Royal Canadian Air Force to fight in World War II, but has trouble with discipline.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034577/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/captains_of_the_clouds"
+  },
+  {
+    "title": "Reunion in France",
+    "year": 1942,
+    "director": {
+      "name": "Jules Dassin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202088/"
+    },
+    "production_studio": "Metro-Goldwyn-Mayer",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.8,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "39%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Joan Crawford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001076/"
+      },
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Philip Dorn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0233720/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A French woman discovers her fiancé has collaborated with the Nazis, and she helps an American pilot escape from occupied Paris.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035250/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/reunion_in_france"
+  },
+  {
+    "title": "The Corpse Vanishes",
+    "year": 1942,
+    "director": {
+      "name": "Wallace Fox",
+      "imdb_person_url": "https://www.imdb.com/name/nm0289298/"
+    },
+    "production_studio": "Monogram Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 64,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 4.3,
+      "rotten_tomatoes_critic": "20%",
+      "rotten_tomatoes_popcorn": "25%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Bela Lugosi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000509/"
+      },
+      {
+        "name": "Luana Walters",
+        "imdb_person_url": "https://www.imdb.com/name/nm0910323/"
+      },
+      {
+        "name": "Tristram Coffin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0168914/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mad scientist kidnaps young brides and drains their glandular fluids to keep his ancient wife young.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0034613/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/corpse_vanishes"
+  },
+  {
+    "title": "Tales of Manhattan",
+    "year": 1942,
+    "director": {
+      "name": "Julien Duvivier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0245264/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 118,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Charles Boyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000964/"
+      },
+      {
+        "name": "Rita Hayworth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
+      },
+      {
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An anthology film that follows a tailcoat as it passes from one owner to another, affecting each of their lives in different ways.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035415/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tales_of_manhattan"
+  },
+  {
+    "title": "Spy Smasher",
+    "year": 1942,
+    "director": {
+      "name": "William Witney",
+      "imdb_person_url": "https://www.imdb.com/name/nm0936823/"
+    },
+    "production_studio": "Republic Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 215,
+    "budget_usd_millions": 0.15,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Kane Richmond",
+        "imdb_person_url": "https://www.imdb.com/name/nm0725107/"
+      },
+      {
+        "name": "Marguerite Chapman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0152449/"
+      },
+      {
+        "name": "Sam Flint",
+        "imdb_person_url": "https://www.imdb.com/name/nm0282458/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A masked vigilante battles a Nazi spy ring attempting to flood the United States with counterfeit money.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035369/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spy_smasher_returns"
+  },
+  {
+    "title": "Sherlock Holmes and the Secret Weapon",
+    "year": 1942,
+    "director": {
+      "name": "Roy William Neill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624764/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 68,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
+      },
+      {
+        "name": "Nigel Bruce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0115556/"
+      },
+      {
+        "name": "Lionel Atwill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0041136/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Sherlock Holmes must protect the inventor of a new bomb sight from the Nazis and his nemesis, Professor Moriarty.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035317/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sherlock_holmes_and_the_secret_weapon"
+  },
+  {
+    "title": "The Spoilers",
+    "year": 1942,
+    "director": {
+      "name": "Ray Enright",
+      "imdb_person_url": "https://www.imdb.com/name/nm0258019/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 87,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Marlene Dietrich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+      },
+      {
+        "name": "Randolph Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000068/"
+      },
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In gold-rush Alaska, a saloon girl falls for a prospector, but a crooked gold commissioner schemes to steal his claim.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035366/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019704-spoilers"
+  },
+  {
+    "title": "Wake Island",
+    "year": 1942,
+    "director": {
+      "name": "John Farrow",
+      "imdb_person_url": "https://www.imdb.com/name/nm0268451/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "37%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Brian Donlevy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0232573/"
+      },
+      {
+        "name": "Robert Preston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      },
+      {
+        "name": "Macdonald Carey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0136988/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dramatization of the heroic stand of a small garrison of US Marines against the overwhelming Japanese invasion of Wake Island in December 1941.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035530/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wake_island"
+  },
+  {
+    "title": "The Talk of the Town",
+    "year": 1942,
+    "director": {
+      "name": "George Stevens",
+      "imdb_person_url": "https://www.imdb.com/name/nm0828416/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
+      },
+      {
+        "name": "Ronald Colman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0172848/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An escaped political prisoner and a stuffy law professor love the same woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0035417/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/talk_of_the_town"
   }
 ]
