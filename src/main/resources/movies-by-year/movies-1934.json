@@ -7,42 +7,24 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
     },
     "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 105,
-    "budget_usd_millions": 0.325,
+    "budget_usd_millions": 0.32,
     "gross_revenue_usd_millions": 2.5,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "Clark Gable",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
-      },
-      {
-        "name": "Claudette Colbert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
-      },
-      {
-        "name": "Walter Connolly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0175283/"
-      }
+      { "name": "Clark Gable", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "Claudette Colbert", "imdb_person_url": "https://www.imdb.com/name/nm0001055/" },
+      { "name": "Walter Connolly", "imdb_person_url": "https://www.imdb.com/name/nm0175309/" }
     ],
     "oscars_nominated": 5,
     "oscars_won": 5,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor",
-      "Best Actress",
-      "Best Writing, Adaptation"
-    ],
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Actor", "Best Actress", "Best Writing, Adaptation"],
     "description": "A spoiled heiress running away from her family is helped by a man who is actually a reporter in need of a story.",
     "afi_ranking": 35,
     "imdb_url": "https://www.imdb.com/title/tt0025316/",
@@ -53,351 +35,93 @@
     "year": 1934,
     "director": {
       "name": "W.S. Van Dyke",
-      "imdb_person_url": "https://www.imdb.com/name/nm0887852/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001789/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 91,
-    "budget_usd_millions": 0.226,
+    "budget_usd_millions": 0.23,
     "gross_revenue_usd_millions": 1.4,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_popcorn": "94%"
     },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Mystery"
-    ],
+    "genres": ["Comedy", "Crime", "Mystery"],
     "actors": [
-      {
-        "name": "William Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
-      },
-      {
-        "name": "Myrna Loy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
-      },
-      {
-        "name": "Maureen O'Sullivan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001579/"
-      }
+      { "name": "William Powell", "imdb_person_url": "https://www.imdb.com/name/nm0001635/" },
+      { "name": "Myrna Loy", "imdb_person_url": "https://www.imdb.com/name/nm0001485/" },
+      { "name": "Maureen O'Sullivan", "imdb_person_url": "https://www.imdb.com/name/nm0642803/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former detective and his wealthy, adventurous wife take on a case.",
-    "afi_ranking": null,
+    "description": "Former detective Nick Charles and his wealthy wife Nora investigate a murder case, mostly for the fun of it.",
+    "afi_ranking": 32,
     "imdb_url": "https://www.imdb.com/title/tt0025878/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_thin_man"
-  },
-  {
-    "title": "The Man Who Knew Too Much",
-    "year": 1934,
-    "director": {
-      "name": "Alfred Hitchcock",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
-    },
-    "production_studio": "Gaumont British Picture Corporation",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 75,
-    "budget_usd_millions": 0.2,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Leslie Banks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052187/"
-      },
-      {
-        "name": "Edna Best",
-        "imdb_person_url": "https://www.imdb.com/name/nm0078940/"
-      },
-      {
-        "name": "Peter Lorre",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000048/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A British family on vacation in Switzerland accidentally stumbles upon an assassination plot and their daughter is kidnapped to ensure their silence.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025452/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013111-man_who_knew_too_much"
-  },
-  {
-    "title": "The Gay Divorcee",
-    "year": 1934,
-    "director": {
-      "name": "Mark Sandrich",
-      "imdb_person_url": "https://www.imdb.com/name/nm0762141/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 0.546,
-    "gross_revenue_usd_millions": 1.8,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Fred Astaire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
-      },
-      {
-        "name": "Ginger Rogers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
-      },
-      {
-        "name": "Alice Brady",
-        "imdb_person_url": "https://www.imdb.com/name/nm0103484/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song"
-    ],
-    "description": "A woman seeking a divorce from her husband finds herself entangled with a charming dancer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025164/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_gay_divorcee"
-  },
-  {
-    "title": "The Count of Monte Cristo",
-    "year": 1934,
-    "director": {
-      "name": "Rowland V. Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0498263/"
-    },
-    "production_studio": "Reliance Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Robert Donat",
-        "imdb_person_url": "https://www.imdb.com/name/nm0232238/"
-      },
-      {
-        "name": "Elissa Landi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0484730/"
-      },
-      {
-        "name": "Louis Calhern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0129731/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young man, falsely imprisoned by his jealous \"friends,\" escapes and uses a hidden treasure to exact his revenge.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025004/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_count_of_monte_cristo"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thin_man"
   },
   {
     "title": "It's a Gift",
     "year": 1934,
     "director": {
       "name": "Norman Z. McLeod",
-      "imdb_person_url": "https://www.imdb.com/name/nm0572855/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0572232/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 68,
-    "budget_usd_millions": 0.3,
+    "runtime_minutes": 73,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "85%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Comedy"
-    ],
+    "genres": ["Comedy"],
     "actors": [
-      {
-        "name": "W.C. Fields",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001210/"
-      },
-      {
-        "name": "Kathleen Howard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0397395/"
-      },
-      {
-        "name": "Jean Rouverol",
-        "imdb_person_url": "https://www.imdb.com/name/nm0745814/"
-      }
+      { "name": "W.C. Fields", "imdb_person_url": "https://www.imdb.com/name/nm0001211/" },
+      { "name": "Kathleen Howard", "imdb_person_url": "https://www.imdb.com/name/nm0397417/" },
+      { "name": "Jean Rouverol", "imdb_person_url": "https://www.imdb.com/name/nm0746128/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A henpecked grocery store owner buys a California orange grove, sight unseen, and moves his family out west.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025313/",
+    "description": "A henpecked grocer decides to follow his dream of owning an orange grove in California, despite the objections of his family.",
+    "afi_ranking": 58,
+    "imdb_url": "https://www.imdb.com/title/tt0025318/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/its_a_gift"
   },
   {
-    "title": "Of Human Bondage",
+    "title": "The Black Cat",
     "year": 1934,
     "director": {
-      "name": "John Cromwell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0188683/"
+      "name": "Edgar G. Ulmer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001810/"
     },
-    "production_studio": "RKO Radio Pictures",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 83,
-    "budget_usd_millions": 0.403,
-    "gross_revenue_usd_millions": 0.8,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Bette Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
-      },
-      {
-        "name": "Leslie Howard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
-      },
-      {
-        "name": "Frances Dee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0214159/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young man with a clubfoot falls in love with a vulgar waitress who is beneath him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025586/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/of_human_bondage"
-  },
-  {
-    "title": "The Scarlet Pimpernel",
-    "year": 1934,
-    "director": {
-      "name": "Harold Young",
-      "imdb_person_url": "https://www.imdb.com/name/nm0949576/"
-    },
-    "production_studio": "London Film Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 97,
-    "budget_usd_millions": null,
+    "runtime_minutes": 65,
+    "budget_usd_millions": 0.095,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.4,
+      "imdb": 7.0,
       "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "73%"
     },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Adventure", "Crime", "Horror"],
     "actors": [
-      {
-        "name": "Leslie Howard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
-      },
-      {
-        "name": "Merle Oberon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0643329/"
-      },
-      {
-        "name": "Raymond Massey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002221/"
-      }
+      { "name": "Boris Karloff", "imdb_person_url": "https://www.imdb.com/name/nm0000472/" },
+      { "name": "Bela Lugosi", "imdb_person_url": "https://www.imdb.com/name/nm0000509/" },
+      { "name": "David Manners", "imdb_person_url": "https://www.imdb.com/name/nm0543124/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "During the French Revolution, a mysterious English nobleman known only as The Scarlet Pimpernel saves French aristocrats from the guillotine.",
+    "description": "American honeymooners in Hungary are trapped in the home of a Satan-worshipping priest when the bride is taken for a ritual.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025748/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_scarlet_pimpernel"
-  },
-  {
-    "title": "L'Atalante",
-    "year": 1934,
-    "director": {
-      "name": "Jean Vigo",
-      "imdb_person_url": "https://www.imdb.com/name/nm0897003/"
-    },
-    "production_studio": "Gaumont-Franco Film-Aubert",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 89,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Jean Dasté",
-        "imdb_person_url": "https://www.imdb.com/name/nm0202157/"
-      },
-      {
-        "name": "Dita Parlo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0663116/"
-      },
-      {
-        "name": "Michel Simon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0800174/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A newly married couple's blissful life on a canal barge is disrupted by the husband's jealousy and the wife's desire for the glamour of Paris.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0024844/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/l_atalante"
+    "imdb_url": "https://www.imdb.com/title/tt0024894/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002491-black_cat"
   },
   {
     "title": "Twentieth Century",
@@ -409,305 +133,367 @@
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 91,
-    "budget_usd_millions": 0.35,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "85%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "80%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Romance"],
     "actors": [
-      {
-        "name": "John Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000860/"
-      },
-      {
-        "name": "Carole Lombard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
-      },
-      {
-        "name": "Walter Connolly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0175283/"
-      }
+      { "name": "John Barrymore", "imdb_person_url": "https://www.imdb.com/name/nm0000854/" },
+      { "name": "Carole Lombard", "imdb_person_url": "https://www.imdb.com/name/nm0001479/" },
+      { "name": "Walter Connolly", "imdb_person_url": "https://www.imdb.com/name/nm0175309/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A flamboyant Broadway producer tries to win back his leading lady, now a major Hollywood star, during a cross-country train trip.",
+    "description": "A temperamental Broadway director tries to win back the actress he made a star, who is now a Hollywood diva.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025920/",
+    "imdb_url": "https://www.imdb.com/title/tt0025919/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/twentieth_century"
   },
   {
-    "title": "The Barretts of Wimpole Street",
+    "title": "L'Atalante",
     "year": 1934,
     "director": {
-      "name": "Sidney Franklin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0291535/"
+      "name": "Jean Vigo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0897051/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Gaumont-Franco Film-Aubert",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 0.606,
-    "gross_revenue_usd_millions": 2,
+    "runtime_minutes": 89,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "75%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
     },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Norma Shearer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
-      },
-      {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
-      },
-      {
-        "name": "Charles Laughton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the romance between poets Elizabeth Barrett and Robert Browning.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0024865/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_barretts_of_wimpole_street"
-  },
-  {
-    "title": "Cleopatra",
-    "year": 1934,
-    "director": {
-      "name": "Cecil B. DeMille",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 1.9,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Claudette Colbert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
-      },
-      {
-        "name": "Warren William",
-        "imdb_person_url": "https://www.imdb.com/name/nm0931215/"
-      },
-      {
-        "name": "Henry Wilcoxon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0928236/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Cinematography"
-    ],
-    "description": "The story of the Egyptian queen Cleopatra's manipulation of Julius Caesar and Marc Antony in her ill-fated attempt to save the Egyptian empire.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0024961/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004278-cleopatra"
-  },
-  {
-    "title": "The Black Cat",
-    "year": 1934,
-    "director": {
-      "name": "Edgar G. Ulmer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0880730/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 65,
-    "budget_usd_millions": 0.096,
-    "gross_revenue_usd_millions": 0.237,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "75%"
-    },
-    "genres": [
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Boris Karloff",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      },
-      {
-        "name": "Bela Lugosi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000509/"
-      },
-      {
-        "name": "David Manners",
-        "imdb_person_url": "https://www.imdb.com/name/nm0543142/"
-      }
+      { "name": "Michel Simon", "imdb_person_url": "https://www.imdb.com/name/nm0800304/" },
+      { "name": "Dita Parlo", "imdb_person_url": "https://www.imdb.com/name/nm0663109/" },
+      { "name": "Jean Dasté", "imdb_person_url": "https://www.imdb.com/name/nm0202120/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "American honeymooners in Hungary are trapped in the home of a Satan-worshipping priest when the bride is taken there for medical help following a road accident.",
+    "description": "A young woman marries the captain of a canal barge and struggles to adjust to life on the water.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0024894/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002506-black_cat"
+    "imdb_url": "https://www.imdb.com/title/tt0024852/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/latalante"
   },
   {
-    "title": "The Merry Widow",
+    "title": "The Gay Divorcee",
     "year": 1934,
     "director": {
-      "name": "Ernst Lubitsch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0523932/"
+      "name": "Mark Sandrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0762215/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 2.6,
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 0.52,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Comedy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Fred Astaire", "imdb_person_url": "https://www.imdb.com/name/nm0000001/" },
+      { "name": "Ginger Rogers", "imdb_person_url": "https://www.imdb.com/name/nm0001677/" },
+      { "name": "Edward Everett Horton", "imdb_person_url": "https://www.imdb.com/name/nm0002143/" }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Music, Original Song"],
+    "description": "A woman mistakes a dancer for the co-respondent in her divorce case.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025164/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gay_divorcee"
+  },
+  {
+    "title": "Of Human Bondage",
+    "year": 1934,
+    "director": {
+      "name": "John Cromwell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0188669/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.47,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Leslie Howard", "imdb_person_url": "https://www.imdb.com/name/nm0000034/" },
+      { "name": "Bette Davis", "imdb_person_url": "https://www.imdb.com/name/nm0000012/" },
+      { "name": "Frances Dee", "imdb_person_url": "https://www.imdb.com/name/nm0214172/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A club-footed artist falls in obsessive love with a sluttish waitress who abuses his kindness.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025586/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/of_human_bondage"
+  },
+  {
+    "title": "The Man Who Knew Too Much",
+    "year": 1934,
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
+    "production_studio": "Gaumont British",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 75,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Leslie Banks", "imdb_person_url": "https://www.imdb.com/name/nm0052198/" },
+      { "name": "Edna Best", "imdb_person_url": "https://www.imdb.com/name/nm0078929/" },
+      { "name": "Peter Lorre", "imdb_person_url": "https://www.imdb.com/name/nm0000048/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man and his wife receive a clue to an assassination plot, but their child is kidnapped to ensure their silence.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025452/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013246-man_who_knew_too_much"
+  },
+  {
+    "title": "The Scarlet Empress",
+    "year": 1934,
+    "director": {
+      "name": "Josef von Sternberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000656/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "actors": [
+      { "name": "Marlene Dietrich", "imdb_person_url": "https://www.imdb.com/name/nm0000017/" },
+      { "name": "John Lodge", "imdb_person_url": "https://www.imdb.com/name/nm0517105/" },
+      { "name": "Sam Jaffe", "imdb_person_url": "https://www.imdb.com/name/nm0415488/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A German princess is selected to marry the dim-witted Grand Duke Peter of Russia and eventually rises to power as Catherine the Great.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025744/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scarlet_empress"
+  },
+  {
+    "title": "Tarzan and His Mate",
+    "year": 1934,
+    "director": {
+      "name": "Cedric Gibbons",
+      "imdb_person_url": "https://www.imdb.com/name/nm0316585/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.27,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Action", "Adventure", "Romance"],
+    "actors": [
+      { "name": "Johnny Weissmuller", "imdb_person_url": "https://www.imdb.com/name/nm0919321/" },
+      { "name": "Maureen O'Sullivan", "imdb_person_url": "https://www.imdb.com/name/nm0642803/" },
+      { "name": "Neil Hamilton", "imdb_person_url": "https://www.imdb.com/name/nm0358079/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The idyllic life of Tarzan and Jane is threatened when men from civilization return to the jungle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025862/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tarzan_and_his_mate"
+  },
+  {
+    "title": "Manhattan Melodrama",
+    "year": 1934,
+    "director": {
+      "name": "W.S. Van Dyke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001789/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 0.36,
+    "gross_revenue_usd_millions": 1.2,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "75%"
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "73%"
     },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
+    "genres": ["Crime", "Drama", "Romance"],
     "actors": [
-      {
-        "name": "Maurice Chevalier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002001/"
-      },
-      {
-        "name": "Jeanette MacDonald",
-        "imdb_person_url": "https://www.imdb.com/name/nm0531776/"
-      },
-      {
-        "name": "Edward Everett Horton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002143/"
-      }
+      { "name": "Clark Gable", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "William Powell", "imdb_person_url": "https://www.imdb.com/name/nm0001635/" },
+      { "name": "Myrna Loy", "imdb_person_url": "https://www.imdb.com/name/nm0001485/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Art Direction"
-    ],
-    "description": "The queen of a small European kingdom must persuade a playboy prince to marry a wealthy widow to save the country from bankruptcy.",
+    "oscars_won_details": ["Best Writing, Original Story"],
+    "description": "Childhood friends Blackie Gallagher and Jim Wade grow up on opposite sides of the law.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025493/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_merry_widow"
+    "imdb_url": "https://www.imdb.com/title/tt0025464/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/manhattan_melodrama"
   },
   {
     "title": "Imitation of Life",
     "year": 1934,
     "director": {
       "name": "John M. Stahl",
-      "imdb_person_url": "https://www.imdb.com/name/nm0821588/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0819639/"
     },
     "production_studio": "Universal Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 111,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 2.5,
+    "budget_usd_millions": 0.66,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_popcorn": "78%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Claudette Colbert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
-      },
-      {
-        "name": "Warren William",
-        "imdb_person_url": "https://www.imdb.com/name/nm0931215/"
-      },
-      {
-        "name": "Rochelle Hudson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0400612/"
-      }
+      { "name": "Claudette Colbert", "imdb_person_url": "https://www.imdb.com/name/nm0001055/" },
+      { "name": "Warren William", "imdb_person_url": "https://www.imdb.com/name/nm0929927/" },
+      { "name": "Rochelle Hudson", "imdb_person_url": "https://www.imdb.com/name/nm0399948/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A struggling widow and her black housekeeper build a successful pancake business, but their lives are complicated by their daughters.",
+    "description": "A struggling widow and her African-American housekeeper find success in the pancake business, but face personal difficulties with their daughters.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025288/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/imitation_of_life"
+    "imdb_url": "https://www.imdb.com/title/tt0025301/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010447-imitation_of_life"
   },
   {
-    "title": "One Night of Love",
+    "title": "Babes in Toyland",
     "year": 1934,
     "director": {
-      "name": "Victor Schertzinger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0771547/"
+      "name": "Gus Meins & Charley Rogers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0576851/"
     },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 84,
+    "production_studio": "Hal Roach Studios",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 77,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "45%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "79%"
     },
-    "genres": [
-      "Musical",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Family", "Fantasy"],
     "actors": [
-      {
-        "name": "Grace Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0601333/"
-      },
-      {
-        "name": "Tullio Carminati",
-        "imdb_person_url": "https://www.imdb.com/name/nm0138356/"
-      },
-      {
-        "name": "Lyle Talbot",
-        "imdb_person_url": "https://www.imdb.com/name/nm0847953/"
-      }
+      { "name": "Stan Laurel", "imdb_person_url": "https://www.imdb.com/name/nm0000487/" },
+      { "name": "Oliver Hardy", "imdb_person_url": "https://www.imdb.com/name/nm0001316/" },
+      { "name": "Virginia Karns", "imdb_person_url": "https://www.imdb.com/name/nm0439847/" }
     ],
-    "oscars_nominated": 6,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Sound, Recording",
-      "Best Music, Score"
-    ],
-    "description": "An aspiring opera singer finds romance with her demanding vocal coach.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Ollie Dee and Stanley Dum try to borrow money from their employer, the toymaker, to pay off the mortgage on Mother Peep's shoe and keep Little Bo Peep from the clutches of the evil Barnaby.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025595/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/one_night_of_love"
+    "imdb_url": "https://www.imdb.com/title/tt0024813/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/babes_in_toyland"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "year": 1934,
+    "director": {
+      "name": "Rowland V. Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0498153/"
+    },
+    "production_studio": "Edward Small Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 113,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Adventure", "Drama", "History"],
+    "actors": [
+      { "name": "Robert Donat", "imdb_person_url": "https://www.imdb.com/name/nm0002045/" },
+      { "name": "Elissa Landi", "imdb_person_url": "https://www.imdb.com/name/nm0484651/" },
+      { "name": "Louis Calhern", "imdb_person_url": "https://www.imdb.com/name/nm0129959/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After greedy men have Edmon Dantes unjustly imprisoned for 20 years for innocently delivering a letter entrusted to him, he escapes to get his revenge on them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025004/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004777-count_of_monte_cristo"
+  },
+  {
+    "title": "Treasure Island",
+    "year": 1934,
+    "director": {
+      "name": "Victor Fleming",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000403/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 0.82,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": ["Adventure", "Family"],
+    "actors": [
+      { "name": "Wallace Beery", "imdb_person_url": "https://www.imdb.com/name/nm0000894/" },
+      { "name": "Jackie Cooper", "imdb_person_url": "https://www.imdb.com/name/nm0001069/" },
+      { "name": "Lionel Barrymore", "imdb_person_url": "https://www.imdb.com/name/nm0000859/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Young Jim Hawkins is torn between his loyalty to his benefactors and his affection for lovable rogue Long John Silver in their struggle to recover a buried pirate treasure.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025912/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021993-treasure_island"
   },
   {
     "title": "The Lost Patrol",
@@ -717,131 +503,152 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
     },
     "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 73,
-    "budget_usd_millions": 0.3,
-    "gross_revenue_usd_millions": 0.7,
+    "budget_usd_millions": 0.27,
+    "gross_revenue_usd_millions": 0.89,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "72%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Action", "Adventure", "War"],
     "actors": [
-      {
-        "name": "Victor McLaglen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0572138/"
-      },
-      {
-        "name": "Boris Karloff",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      },
-      {
-        "name": "Wallace Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0285741/"
-      }
+      { "name": "Victor McLaglen", "imdb_person_url": "https://www.imdb.com/name/nm0572147/" },
+      { "name": "Boris Karloff", "imdb_person_url": "https://www.imdb.com/name/nm0000472/" },
+      { "name": "Wallace Ford", "imdb_person_url": "https://www.imdb.com/name/nm0285929/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A British army patrol in Mesopotamia is lost in the desert and picked off one by one by unseen Arab snipers.",
+    "description": "A World War I British Army patrol is stranded in the Mesopotamian desert and being picked off one by one by unseen Arab snipers.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025425/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_lost_patrol"
+    "imdb_url": "https://www.imdb.com/title/tt0025423/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lost_patrol"
   },
   {
     "title": "Viva Villa!",
     "year": 1934,
     "director": {
       "name": "Jack Conway",
-      "imdb_person_url": "https://www.imdb.com/name/nm0176840/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0176670/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 115,
     "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 1.9,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "55%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "36%"
     },
-    "genres": [
-      "Biography",
-      "History",
-      "War"
-    ],
+    "genres": ["Biography", "Western"],
     "actors": [
-      {
-        "name": "Wallace Beery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000903/"
-      },
-      {
-        "name": "Leo Carrillo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0140228/"
-      },
-      {
-        "name": "Fay Wray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0942102/"
-      }
+      { "name": "Wallace Beery", "imdb_person_url": "https://www.imdb.com/name/nm0000894/" },
+      { "name": "Leo Carrillo", "imdb_person_url": "https://www.imdb.com/name/nm0140527/" },
+      { "name": "Fay Wray", "imdb_person_url": "https://www.imdb.com/name/nm0942023/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Assistant Director"
-    ],
-    "description": "The story of the Mexican revolutionary Pancho Villa.",
+    "oscars_won_details": ["Best Assistant Director"],
+    "description": "Mexican revolutionary Pancho Villa fights to oust the tyrannical regime in Mexico.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025948/",
+    "imdb_url": "https://www.imdb.com/title/tt0025950/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/viva_villa"
   },
   {
-    "title": "The Affairs of Cellini",
+    "title": "The Barretts of Wimpole Street",
     "year": 1934,
     "director": {
-      "name": "Gregory La Cava",
-      "imdb_person_url": "https://www.imdb.com/name/nm0478712/"
+      "name": "Sidney Franklin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0291517/"
     },
-    "production_studio": "20th Century Pictures",
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 0.82,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": ["Biography", "Drama", "Romance"],
+    "actors": [
+      { "name": "Norma Shearer", "imdb_person_url": "https://www.imdb.com/name/nm0790534/" },
+      { "name": "Fredric March", "imdb_person_url": "https://www.imdb.com/name/nm0001506/" },
+      { "name": "Charles Laughton", "imdb_person_url": "https://www.imdb.com/name/nm000044/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The invalid poet Elizabeth Barrett lives in terror of her tyrannical father, until she falls in love with the dashing poet Robert Browning.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024865/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/barretts_of_wimpole_street"
+  },
+  {
+    "title": "The Merry Widow",
+    "year": 1934,
+    "director": {
+      "name": "Ernst Lubitsch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000507/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Comedy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Maurice Chevalier", "imdb_person_url": "https://www.imdb.com/name/nm0002001/" },
+      { "name": "Jeanette MacDonald", "imdb_person_url": "https://www.imdb.com/name/nm0531776/" },
+      { "name": "Edward Everett Horton", "imdb_person_url": "https://www.imdb.com/name/nm0002143/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Art Direction"],
+    "description": "A prince from a small kingdom courts a wealthy widow to keep her money in the country.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025493/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013746-merry_widow"
+  },
+  {
+    "title": "Les Misérables",
+    "year": 1934,
+    "director": {
+      "name": "Raymond Bernard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0076336/"
+    },
+    "production_studio": "Pathé-Natan",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 80,
+    "runtime_minutes": 281,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "45%"
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
     },
-    "genres": [
-      "Comedy",
-      "History",
-      "Romance"
-    ],
+    "genres": ["Drama"],
     "actors": [
-      {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545214/"
-      },
-      {
-        "name": "Constance Bennett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
-      },
-      {
-        "name": "Frank Morgan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0604673/"
-      }
+      { "name": "Harry Baur", "imdb_person_url": "https://www.imdb.com/name/nm0062370/" },
+      { "name": "Charles Vanel", "imdb_person_url": "https://www.imdb.com/name/nm0889064/" },
+      { "name": "Paul Azaïs", "imdb_person_url": "https://www.imdb.com/name/nm0044112/" }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The romantic and political escapades of the 16th-century Italian artist and adventurer, Benvenuto Cellini.",
+    "description": "Jean Valjean, a man imprisoned for stealing bread, tries to lead a normal life after his release but is pursued by a ruthless policeman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0024823/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_affairs_of_cellini"
+    "imdb_url": "https://www.imdb.com/title/tt0025492/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1036322-les_miserables"
   },
   {
     "title": "Judge Priest",
@@ -856,210 +663,952 @@
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "42%"
     },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "genres": ["Comedy", "Drama"],
     "actors": [
-      {
-        "name": "Will Rogers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001679/"
-      },
-      {
-        "name": "Tom Brown",
-        "imdb_person_url": "https://www.imdb.com/name/nm0114757/"
-      },
-      {
-        "name": "Anita Louise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0521870/"
-      }
+      { "name": "Will Rogers", "imdb_person_url": "https://www.imdb.com/name/nm0737267/" },
+      { "name": "Tom Brown", "imdb_person_url": "https://www.imdb.com/name/nm0114796/" },
+      { "name": "Anita Louise", "imdb_person_url": "https://www.imdb.com/name/nm0521934/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-town judge in 1890 Kentucky plays matchmaker for his nephew and battles a rival in an upcoming election.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025336/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/judge_priest"
+  },
+  {
+    "title": "Death Takes a Holiday",
+    "year": 1934,
+    "director": {
+      "name": "Mitchell Leisen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0500626/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 79,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "actors": [
+      { "name": "Fredric March", "imdb_person_url": "https://www.imdb.com/name/nm0001506/" },
+      { "name": "Evelyn Venable", "imdb_person_url": "https://www.imdb.com/name/nm0892840/" },
+      { "name": "Guy Standing", "imdb_person_url": "https://www.imdb.com/name/nm0822088/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Death decides to take a holiday from his usual business to see what it is like to be a mortal.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025037/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/death_takes_a_holiday"
+  },
+  {
+    "title": "Our Daily Bread",
+    "year": 1934,
+    "director": {
+      "name": "King Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002230/"
+    },
+    "production_studio": "Viking Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 0.12,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "48%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Karen Morley", "imdb_person_url": "https://www.imdb.com/name/nm0605907/" },
+      { "name": "Tom Keene", "imdb_person_url": "https://www.imdb.com/name/nm0444706/" },
+      { "name": "Barbara Pepper", "imdb_person_url": "https://www.imdb.com/name/nm0672602/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A city couple inherits a farm during the Depression and turns it into a socialist collective with other unemployed workers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025610/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/our_daily_bread"
+  },
+  {
+    "title": "Little Miss Marker",
+    "year": 1934,
+    "director": {
+      "name": "Alexander Hall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0355281/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "actors": [
+      { "name": "Shirley Temple", "imdb_person_url": "https://www.imdb.com/name/nm0000073/" },
+      { "name": "Adolphe Menjou", "imdb_person_url": "https://www.imdb.com/name/nm0579632/" },
+      { "name": "Dorothy Dell", "imdb_person_url": "https://www.imdb.com/name/nm0217335/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bookie finds himself looking after a little girl left as an IOU for a gambling debt.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025409/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/little_miss_marker"
+  },
+  {
+    "title": "Bright Eyes",
+    "year": 1934,
+    "director": {
+      "name": "David Butler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0124890/"
+    },
+    "production_studio": "Fox Film Corporation",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.19,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "actors": [
+      { "name": "Shirley Temple", "imdb_person_url": "https://www.imdb.com/name/nm0000073/" },
+      { "name": "James Dunn", "imdb_person_url": "https://www.imdb.com/name/nm0242619/" },
+      { "name": "Jane Darwell", "imdb_person_url": "https://www.imdb.com/name/nm0002033/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 1,
+    "oscars_won_details": ["Academy Juvenile Award"],
+    "description": "An orphaned girl is caught in a custody battle between her godfather and a crotchety old man.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024913/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bright_eyes"
+  },
+  {
+    "title": "Dames",
+    "year": 1934,
+    "director": {
+      "name": "Ray Enright",
+      "imdb_person_url": "https://www.imdb.com/name/nm0258017/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": ["Comedy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Dick Powell", "imdb_person_url": "https://www.imdb.com/name/nm0694090/" },
+      { "name": "Ruby Keeler", "imdb_person_url": "https://www.imdb.com/name/nm0444469/" },
+      { "name": "Joan Blondell", "imdb_person_url": "https://www.imdb.com/name/nm0000951/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In a small Southern town after the Civil War, a kindly judge presides over the lives and legal disputes of its citizens.",
+    "description": "A songwriter and a director try to put on a show, but their rich backer wants to censor it.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025339/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/judge_priest"
+    "imdb_url": "https://www.imdb.com/title/tt0025028/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dames"
+  },
+  {
+    "title": "Cleopatra",
+    "year": 1934,
+    "director": {
+      "name": "Cecil B. DeMille",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000364/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "44%"
+    },
+    "genres": ["Biography", "Drama", "History"],
+    "actors": [
+      { "name": "Claudette Colbert", "imdb_person_url": "https://www.imdb.com/name/nm0001055/" },
+      { "name": "Warren William", "imdb_person_url": "https://www.imdb.com/name/nm0929927/" },
+      { "name": "Henry Wilcoxon", "imdb_person_url": "https://www.imdb.com/name/nm0928252/" }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Cinematography"],
+    "description": "The story of the Egyptian queen who seduced two Roman rulers: Julius Caesar and Mark Antony.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025007/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004330-cleopatra"
   },
   {
     "title": "The House of Rothschild",
     "year": 1934,
     "director": {
       "name": "Alfred L. Werker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0921223/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0921300/"
     },
-    "production_studio": "20th Century Pictures",
+    "production_studio": "Twentieth Century Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 88,
-    "budget_usd_millions": 0.7,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "George Arliss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000784/"
-      },
-      {
-        "name": "Boris Karloff",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      },
-      {
-        "name": "Loretta Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the rise of the Rothschild banking family in Europe.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025260/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_house_of_rothschild"
-  },
-  {
-    "title": "Manhattan Melodrama",
-    "year": 1934,
-    "director": {
-      "name": "W.S. Van Dyke",
-      "imdb_person_url": "https://www.imdb.com/name/nm0887852/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 0.5,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": 2,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Clark Gable",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
-      },
-      {
-        "name": "William Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001635/"
-      },
-      {
-        "name": "Myrna Loy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Original Story"
-    ],
-    "description": "Two orphans grow up on opposite sides of the law, one a district attorney and the other a gangster.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025464/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/manhattan_melodrama"
-  },
-  {
-    "title": "The Little Minister",
-    "year": 1934,
-    "director": {
-      "name": "Richard Wallace",
-      "imdb_person_url": "https://www.imdb.com/name/nm0908862/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 0.65,
-    "gross_revenue_usd_millions": 1.2,
-    "ratings": {
-      "imdb": 6.6,
+      "imdb": 6.9,
       "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "45%"
+      "rotten_tomatoes_popcorn": "43%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Biography", "Drama", "History"],
     "actors": [
-      {
-        "name": "Katharine Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
-      },
-      {
-        "name": "John Beal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0063600/"
-      },
-      {
-        "name": "Alan Hale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001308/"
-      }
+      { "name": "George Arliss", "imdb_person_url": "https://www.imdb.com/name/nm0035182/" },
+      { "name": "Boris Karloff", "imdb_person_url": "https://www.imdb.com/name/nm0000472/" },
+      { "name": "Loretta Young", "imdb_person_url": "https://www.imdb.com/name/nm0000082/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Scottish minister falls in love with a mysterious gypsy girl, who is more than she seems.",
+    "description": "The story of the rise of the Rothschild family of bankers, from their humble beginnings to financing the Napoleonic Wars.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025408/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_little_minister"
+    "imdb_url": "https://www.imdb.com/title/tt0025271/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/house_of_rothschild"
   },
   {
-    "title": "The Girl from Missouri",
+    "title": "One Night of Love",
     "year": 1934,
     "director": {
-      "name": "Jack Conway",
-      "imdb_person_url": "https://www.imdb.com/name/nm0176840/"
+      "name": "Victor Schertzinger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0771240/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 75,
-    "budget_usd_millions": 0.4,
-    "gross_revenue_usd_millions": 1,
+    "runtime_minutes": 80,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "17%"
     },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Music", "Romance"],
     "actors": [
-      {
-        "name": "Jean Harlow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001318/"
-      },
-      {
-        "name": "Lionel Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000865/"
-      },
-      {
-        "name": "Franchot Tone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0867026/"
-      }
+      { "name": "Grace Moore", "imdb_person_url": "https://www.imdb.com/name/nm0601271/" },
+      { "name": "Tullio Carminati", "imdb_person_url": "https://www.imdb.com/name/nm0138445/" },
+      { "name": "Lyle Talbot", "imdb_person_url": "https://www.imdb.com/name/nm0847941/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": ["Best Music, Score", "Best Sound, Recording"],
+    "description": "An aspiring opera singer goes to Italy to study, where she meets a demanding teacher who helps her achieve fame.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025601/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/one_night_of_love"
+  },
+  {
+    "title": "The Painted Veil",
+    "year": 1934,
+    "director": {
+      "name": "Richard Boleslawski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0092946/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.95,
+    "gross_revenue_usd_millions": 1.6,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "33%",
+      "rotten_tomatoes_popcorn": "44%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Greta Garbo", "imdb_person_url": "https://www.imdb.com/name/nm0000024/" },
+      { "name": "Herbert Marshall", "imdb_person_url": "https://www.imdb.com/name/nm0550905/" },
+      { "name": "George Brent", "imdb_person_url": "https://www.imdb.com/name/nm0107574/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A determined young woman from a small town in Missouri comes to New York to marry a rich man.",
+    "description": "A neglected wife accompanies her scientist husband to China, where she falls in love with another man.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0025178/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_girl_from_missouri"
+    "imdb_url": "https://www.imdb.com/title/tt0025617/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015847-painted_veil"
+  },
+  {
+    "title": "Broadway Bill",
+    "year": 1934,
+    "director": {
+      "name": "Frank Capra",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Warner Baxter", "imdb_person_url": "https://www.imdb.com/name/nm0062857/" },
+      { "name": "Myrna Loy", "imdb_person_url": "https://www.imdb.com/name/nm0001485/" },
+      { "name": "Walter Connolly", "imdb_person_url": "https://www.imdb.com/name/nm0175309/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man leaves his unhappy marriage and job to race his beloved horse, Broadway Bill, with the help of his sister-in-law.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024917/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/broadway_bill"
+  },
+  {
+    "title": "Jimmy the Gent",
+    "year": 1934,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 67,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": ["Comedy", "Crime", "Romance"],
+    "actors": [
+      { "name": "James Cagney", "imdb_person_url": "https://www.imdb.com/name/nm0000009/" },
+      { "name": "Bette Davis", "imdb_person_url": "https://www.imdb.com/name/nm0000012/" },
+      { "name": "Allen Jenkins", "imdb_person_url": "https://www.imdb.com/name/nm0420747/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An unethical geneology researcher tries to win back his former girlfriend by pretending to be a gentleman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025330/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jimmy_the_gent"
+  },
+  {
+    "title": "Fog Over Frisco",
+    "year": 1934,
+    "director": {
+      "name": "William Dieterle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002043/"
+    },
+    "production_studio": "First National Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 68,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "38%"
+    },
+    "genres": ["Crime", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Bette Davis", "imdb_person_url": "https://www.imdb.com/name/nm0000012/" },
+      { "name": "Donald Woods", "imdb_person_url": "https://www.imdb.com/name/nm0940576/" },
+      { "name": "Margaret Lindsay", "imdb_person_url": "https://www.imdb.com/name/nm0512236/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A spoiled socialite gets involved with stolen securities and a murder mystery in San Francisco.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025126/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fog_over_frisco"
+  },
+  {
+    "title": "Belle of the Nineties",
+    "year": 1934,
+    "director": {
+      "name": "Leo McCarey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565644/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 73,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "40%"
+    },
+    "genres": ["Comedy", "Western"],
+    "actors": [
+      { "name": "Mae West", "imdb_person_url": "https://www.imdb.com/name/nm0001842/" },
+      { "name": "Roger Pryor", "imdb_person_url": "https://www.imdb.com/name/nm0699447/" },
+      { "name": "Johnny Mack Brown", "imdb_person_url": "https://www.imdb.com/name/nm0113865/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A burlesque performer moves to New Orleans and gets mixed up with a prizefighter and a crook.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024877/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/belle_of_the_nineties"
+  },
+  {
+    "title": "Flirtation Walk",
+    "year": 1934,
+    "director": {
+      "name": "Frank Borzage",
+      "imdb_person_url": "https://www.imdb.com/name/nm0097632/"
+    },
+    "production_studio": "First National Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 0.48,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "29%"
+    },
+    "genres": ["Musical", "Romance"],
+    "actors": [
+      { "name": "Dick Powell", "imdb_person_url": "https://www.imdb.com/name/nm0694090/" },
+      { "name": "Ruby Keeler", "imdb_person_url": "https://www.imdb.com/name/nm0444469/" },
+      { "name": "Pat O'Brien", "imdb_person_url": "https://www.imdb.com/name/nm0002286/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A soldier falls for a general's daughter, but their romance is threatened by military regulations and class differences.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025121/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/flirtation_walk"
+  },
+  {
+    "title": "Here Comes the Navy",
+    "year": 1934,
+    "director": {
+      "name": "Lloyd Bacon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000822/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 0.36,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "James Cagney", "imdb_person_url": "https://www.imdb.com/name/nm0000009/" },
+      { "name": "Pat O'Brien", "imdb_person_url": "https://www.imdb.com/name/nm0002286/" },
+      { "name": "Gloria Stuart", "imdb_person_url": "https://www.imdb.com/name/nm0001784/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A construction worker joins the Navy to get back at a petty officer he dislikes, but learns discipline and camaraderie.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025241/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/here_comes_the_navy"
+  },
+  {
+    "title": "Men in White",
+    "year": 1934,
+    "director": {
+      "name": "Richard Boleslawski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0092946/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 74,
+    "budget_usd_millions": 0.49,
+    "gross_revenue_usd_millions": 1.3,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "29%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Clark Gable", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "Myrna Loy", "imdb_person_url": "https://www.imdb.com/name/nm0001485/" },
+      { "name": "Jean Hersholt", "imdb_person_url": "https://www.imdb.com/name/nm0380965/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dedicated young doctor is torn between his demanding career and his wealthy fiancée.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025490/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013688-men_in_white"
+  },
+  {
+    "title": "Chained",
+    "year": 1934,
+    "director": {
+      "name": "Clarence Brown",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000984/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 76,
+    "budget_usd_millions": 0.56,
+    "gross_revenue_usd_millions": 1.9,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "48%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Joan Crawford", "imdb_person_url": "https://www.imdb.com/name/nm0001076/" },
+      { "name": "Clark Gable", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "Otto Kruger", "imdb_person_url": "https://www.imdb.com/name/nm0472652/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman falls in love with a rancher while on a cruise, but feels obligated to marry her wealthy, older lover.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024963/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chained"
+  },
+  {
+    "title": "Forsaking All Others",
+    "year": 1934,
+    "director": {
+      "name": "W.S. Van Dyke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001789/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 84,
+    "budget_usd_millions": 0.39,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "42%"
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "actors": [
+      { "name": "Joan Crawford", "imdb_person_url": "https://www.imdb.com/name/nm0001076/" },
+      { "name": "Clark Gable", "imdb_person_url": "https://www.imdb.com/name/nm0000022/" },
+      { "name": "Robert Montgomery", "imdb_person_url": "https://www.imdb.com/name/nm0599923/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman is left at the altar by her fiancé, but a longtime friend steps in to help her pick up the pieces.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025134/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/forsaking_all_others"
+  },
+  {
+    "title": "The White Parade",
+    "year": 1934,
+    "director": {
+      "name": "Irving Cummings",
+      "imdb_person_url": "https://www.imdb.com/name/nm0191900/"
+    },
+    "production_studio": "Fox Film Corporation",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 130,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.0,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "33%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Loretta Young", "imdb_person_url": "https://www.imdb.com/name/nm0000082/" },
+      { "name": "John Boles", "imdb_person_url": "https://www.imdb.com/name/nm0092869/" },
+      { "name": "Dorothy Wilson", "imdb_person_url": "https://www.imdb.com/name/nm0933324/" }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The lives and loves of student nurses in a large hospital.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025983/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white_parade"
+  },
+  {
+    "title": "Evelyn Prentice",
+    "year": 1934,
+    "director": {
+      "name": "William K. Howard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0397698/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "William Powell", "imdb_person_url": "https://www.imdb.com/name/nm0001635/" },
+      { "name": "Myrna Loy", "imdb_person_url": "https://www.imdb.com/name/nm0001485/" },
+      { "name": "Una Merkel", "imdb_person_url": "https://www.imdb.com/name/nm0580806/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A neglected wife has an affair with a gigolo who blackmails her, leading to murder and a trial where her husband is the defense attorney.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025093/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/evelyn_prentice"
+  },
+  {
+    "title": "Wonder Bar",
+    "year": 1934,
+    "director": {
+      "name": "Lloyd Bacon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000822/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 84,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "23%"
+    },
+    "genres": ["Drama", "Musical", "Romance"],
+    "actors": [
+      { "name": "Al Jolson", "imdb_person_url": "https://www.imdb.com/name/nm0001404/" },
+      { "name": "Kay Francis", "imdb_person_url": "https://www.imdb.com/name/nm0290217/" },
+      { "name": "Dolores del Rio", "imdb_person_url": "https://www.imdb.com/name/nm0002038/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The owner of a Paris nightclub gets involved in the tangled love lives of his performers and patrons.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0026005/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wonder_bar"
+  },
+  {
+    "title": "Fashions of 1934",
+    "year": 1934,
+    "director": {
+      "name": "William Dieterle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002043/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 0.38,
+    "gross_revenue_usd_millions": 0.97,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": ["Comedy", "Musical"],
+    "actors": [
+      { "name": "William Powell", "imdb_person_url": "https://www.imdb.com/name/nm0001635/" },
+      { "name": "Bette Davis", "imdb_person_url": "https://www.imdb.com/name/nm0000012/" },
+      { "name": "Frank McHugh", "imdb_person_url": "https://www.imdb.com/name/nm0570395/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A con man steals fashion designs from Paris to sell in New York, but gets caught up in a musical revue.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025101/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fashions_of_1934"
+  },
+  {
+    "title": "Bulldog Drummond Strikes Back",
+    "year": 1934,
+    "director": {
+      "name": "Roy Del Ruth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0216070/"
+    },
+    "production_studio": "20th Century Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 83,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": ["Comedy", "Mystery", "Thriller"],
+    "actors": [
+      { "name": "Ronald Colman", "imdb_person_url": "https://www.imdb.com/name/nm0173054/" },
+      { "name": "Loretta Young", "imdb_person_url": "https://www.imdb.com/name/nm0000082/" },
+      { "name": "Warner Oland", "imdb_person_url": "https://www.imdb.com/name/nm0645972/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Bulldog Drummond gets involved in a mystery surrounding a disappearing body and a kidnapped girl.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024936/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bulldog_drummond_strikes_back"
+  },
+  {
+    "title": "The Cat's-Paw",
+    "year": 1934,
+    "director": {
+      "name": "Sam Taylor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0853146/"
+    },
+    "production_studio": "The Harold Lloyd Corporation",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": ["Comedy"],
+    "actors": [
+      { "name": "Harold Lloyd", "imdb_person_url": "https://www.imdb.com/name/nm0516001/" },
+      { "name": "Una Merkel", "imdb_person_url": "https://www.imdb.com/name/nm0580806/" },
+      { "name": "George Barbier", "imdb_person_url": "https://www.imdb.com/name/nm0053603/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A missionary's son returns to his hometown and accidentally becomes mayor, cleaning up corruption with Eastern philosophy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0024960/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cats_paw"
+  },
+  {
+    "title": "The Old Fashioned Way",
+    "year": 1934,
+    "director": {
+      "name": "William Beaudine",
+      "imdb_person_url": "https://www.imdb.com/name/nm0064390/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 71,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": ["Comedy"],
+    "actors": [
+      { "name": "W.C. Fields", "imdb_person_url": "https://www.imdb.com/name/nm0001211/" },
+      { "name": "Joe Morrison", "imdb_person_url": "https://www.imdb.com/name/nm0607201/" },
+      { "name": "Judith Allen", "imdb_person_url": "https://www.imdb.com/name/nm0020713/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A con man leads a troupe of actors through a series of misadventures while trying to stay ahead of the law.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025597/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/old_fashioned_way"
+  },
+  {
+    "title": "Search for Beauty",
+    "year": 1934,
+    "director": {
+      "name": "Erle C. Kenton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0448885/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 78,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "29%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Buster Crabbe", "imdb_person_url": "https://www.imdb.com/name/nm0185599/" },
+      { "name": "Ida Lupino", "imdb_person_url": "https://www.imdb.com/name/nm0526946/" },
+      { "name": "Robert Armstrong", "imdb_person_url": "https://www.imdb.com/name/nm0035874/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two Olympic swimmers are duped into endorsing a sleazy health magazine.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025759/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/search_for_beauty"
+  },
+  {
+    "title": "Six of a Kind",
+    "year": 1934,
+    "director": {
+      "name": "Leo McCarey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565644/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 62,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "43%"
+    },
+    "genres": ["Comedy"],
+    "actors": [
+      { "name": "Charlie Ruggles", "imdb_person_url": "https://www.imdb.com/name/nm0749462/" },
+      { "name": "Mary Boland", "imdb_person_url": "https://www.imdb.com/name/nm0092687/" },
+      { "name": "W.C. Fields", "imdb_person_url": "https://www.imdb.com/name/nm0001211/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A couple on a road trip pick up a quirky pair of hitchhikers, leading to comedic chaos.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025797/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/six_of_a_kind"
+  },
+  {
+    "title": "Mandalay",
+    "year": 1934,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 65,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "40%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Kay Francis", "imdb_person_url": "https://www.imdb.com/name/nm0290217/" },
+      { "name": "Ricardo Cortez", "imdb_person_url": "https://www.imdb.com/name/nm0181366/" },
+      { "name": "Warner Oland", "imdb_person_url": "https://www.imdb.com/name/nm0645972/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman stranded in Burma is forced into a shady nightclub job by her lover, leading to a desperate escape.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025462/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mandalay"
+  },
+  {
+    "title": "The Goddess",
+    "year": 1934,
+    "director": {
+      "name": "Wu Yonggang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0943187/"
+    },
+    "production_studio": "Lianhua Film Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 85,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Ruan Lingyu", "imdb_person_url": "https://www.imdb.com/name/nm0747715/" },
+      { "name": "Tianzhu Zhang", "imdb_person_url": "https://www.imdb.com/name/nm0955428/" },
+      { "name": "Li Keng", "imdb_person_url": "https://www.imdb.com/name/nm0508553/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young mother turns to prostitution to support her son, but society's judgment and a ruthless pimp threaten their future.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025775/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_goddess_1934"
+  },
+  {
+    "title": "A Story of Floating Weeds",
+    "year": 1934,
+    "director": {
+      "name": "Yasujirô Ozu",
+      "imdb_person_url": "https://www.imdb.com/name/nm0654868/"
+    },
+    "production_studio": "Shochiku",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 86,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Takeshi Sakamoto", "imdb_person_url": "https://www.imdb.com/name/nm0757082/" },
+      { "name": "Chôko Iida", "imdb_person_url": "https://www.imdb.com/name/nm0407275/" },
+      { "name": "Kôji Mitsui", "imdb_person_url": "https://www.imdb.com/name/nm0594018/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An actor returns to a small town with his troupe and reunites with his former lover and their illegitimate son.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0025935/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/story_of_floating_weeds"
   }
 ]
