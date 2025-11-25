@@ -9,12 +9,12 @@
     "production_studio": "MGM",
     "mpaa_rating": "G",
     "runtime_minutes": 212,
-    "budget_usd_millions": 15.175,
-    "gross_revenue_usd_millions": 146.9,
+    "budget_usd_millions": 15,
+    "gross_revenue_usd_millions": 74,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "90%"
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Adventure",
@@ -28,11 +28,11 @@
       },
       {
         "name": "Jack Hawkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0370164/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0370132/"
       },
       {
         "name": "Stephen Boyd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0101866/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0101936/"
       }
     ],
     "oscars_nominated": 12,
@@ -40,18 +40,18 @@
     "oscars_won_details": [
       "Best Picture",
       "Best Director",
-      "Best Actor in a Leading Role",
-      "Best Actor in a Supporting Role",
+      "Best Actor",
+      "Best Supporting Actor",
       "Best Cinematography, Color",
       "Best Art Direction-Set Decoration, Color",
       "Best Costume Design, Color",
       "Best Sound",
       "Best Film Editing",
-      "Best Effects, Special Effects",
+      "Best Special Effects",
       "Best Music, Scoring of a Dramatic or Comedy Picture"
     ],
-    "description": "A Jewish prince is betrayed and sent into slavery by a Roman friend, but he regains his freedom and comes back for revenge.",
-    "afi_ranking": 72,
+    "description": "After a Jewish prince is betrayed and sent to slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+    "afi_ranking": 100,
     "imdb_url": "https://www.imdb.com/title/tt0052618/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ben_hur"
   },
@@ -60,9 +60,9 @@
     "year": 1959,
     "director": {
       "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
     },
-    "production_studio": "The Mirisch Corporation",
+    "production_studio": "Mirisch Corporation",
     "mpaa_rating": "Passed",
     "runtime_minutes": 121,
     "budget_usd_millions": 2.9,
@@ -119,9 +119,9 @@
       "rotten_tomatoes_popcorn": "94%"
     },
     "genres": [
+      "Action",
       "Adventure",
-      "Mystery",
-      "Thriller"
+      "Mystery"
     ],
     "actors": [
       {
@@ -134,33 +134,77 @@
       },
       {
         "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000050/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
     "description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",
-    "afi_ranking": 55,
+    "afi_ranking": 40,
     "imdb_url": "https://www.imdb.com/title/tt0053125/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/north_by_northwest"
+  },
+  {
+    "title": "Rio Bravo",
+    "year": 1959,
+    "director": {
+      "name": "Howard Hawks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
+    },
+    "production_studio": "Armada Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 141,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 5.8,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Dean Martin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001509/"
+      },
+      {
+        "name": "Ricky Nelson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0625699/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053221/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rio_bravo"
   },
   {
     "title": "Anatomy of a Murder",
     "year": 1959,
     "director": {
       "name": "Otto Preminger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0695938/"
     },
     "production_studio": "Carlyle Productions",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 161,
-    "budget_usd_millions": 2.1,
-    "gross_revenue_usd_millions": 11,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 5.5,
     "ratings": {
       "imdb": 8.0,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
       "Crime",
@@ -174,7 +218,7 @@
       },
       {
         "name": "Lee Remick",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001665/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
       },
       {
         "name": "Ben Gazzara",
@@ -199,8 +243,8 @@
     "production_studio": "Les Films du Carrosse",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 99,
-    "budget_usd_millions": 0.05,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 0.16,
+    "gross_revenue_usd_millions": 0.4,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "100%",
@@ -213,15 +257,15 @@
     "actors": [
       {
         "name": "Jean-Pierre Léaud",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001456/"
-      },
-      {
-        "name": "Claire Maurier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0561239/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0529492/"
       },
       {
         "name": "Albert Rémy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0719234/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0752528/"
+      },
+      {
+        "name": "Claire Maurier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0561001/"
       }
     ],
     "oscars_nominated": 1,
@@ -233,102 +277,148 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_400_blows"
   },
   {
+    "title": "Hiroshima Mon Amour",
+    "year": 1959,
+    "director": {
+      "name": "Alain Resnais",
+      "imdb_person_url": "https://www.imdb.com/name/nm0720258/"
+    },
+    "production_studio": "Argos Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Emmanuelle Riva",
+        "imdb_person_url": "https://www.imdb.com/name/nm0728929/"
+      },
+      {
+        "name": "Eiji Okada",
+        "imdb_person_url": "https://www.imdb.com/name/nm0645415/"
+      },
+      {
+        "name": "Stella Dassas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0202079/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A French actress filming an anti-war film in Hiroshima has an affair with a married Japanese architect as they share their differing perspectives on war.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052891/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hiroshima_mon_amour"
+  },
+  {
+    "title": "Black Orpheus",
+    "year": 1959,
+    "director": {
+      "name": "Marcel Camus",
+      "imdb_person_url": "https://www.imdb.com/name/nm0133555/"
+    },
+    "production_studio": "Dispat Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 100,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Breno Mello",
+        "imdb_person_url": "https://www.imdb.com/name/nm0578009/"
+      },
+      {
+        "name": "Marpessa Dawn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0205967/"
+      },
+      {
+        "name": "Lourdes de Oliveira",
+        "imdb_person_url": "https://www.imdb.com/name/nm0210676/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "A retelling of the Orpheus and Eurydice myth, set during the time of the Carnaval in Rio de Janeiro.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053146/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/black_orpheus"
+  },
+  {
     "title": "The Diary of Anne Frank",
     "year": 1959,
     "director": {
       "name": "George Stevens",
-      "imdb_person_url": "https://www.imdb.com/name/nm0828392/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0828412/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 180,
-    "budget_usd_millions": 3.7,
-    "gross_revenue_usd_millions": 2.3,
+    "budget_usd_millions": 3.8,
+    "gross_revenue_usd_millions": 5,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "79%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Biography",
       "Drama",
-      "History"
+      "Family"
     ],
     "actors": [
       {
         "name": "Millie Perkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0673961/"
-      },
-      {
-        "name": "Joseph Schildkraut",
-        "imdb_person_url": "https://www.imdb.com/name/nm0771633/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0674013/"
       },
       {
         "name": "Shelley Winters",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001851/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001859/"
+      },
+      {
+        "name": "Joseph Schildkraut",
+        "imdb_person_url": "https://www.imdb.com/name/nm0771592/"
       }
     ],
     "oscars_nominated": 8,
     "oscars_won": 3,
     "oscars_won_details": [
-      "Best Actress in a Supporting Role",
+      "Best Supporting Actress",
       "Best Cinematography, Black-and-White",
       "Best Art Direction-Set Decoration, Black-and-White"
     ],
     "description": "During World War II, a teenage Jewish girl named Anne Frank and her family are forced into hiding in the Nazi-occupied Netherlands.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0052731/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_diary_of_anne_frank_1959"
-  },
-  {
-    "title": "Rio Bravo",
-    "year": 1959,
-    "director": {
-      "name": "Howard Hawks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
-    },
-    "production_studio": "Armada Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 141,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 5.75,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Drama",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "John Wayne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
-      },
-      {
-        "name": "Dean Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001509/"
-      },
-      {
-        "name": "Ricky Nelson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0625732/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053221/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rio_bravo"
+    "imdb_url": "https://www.imdb.com/title/tt0052736/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005761-diary_of_anne_frank"
   },
   {
     "title": "Sleeping Beauty",
     "year": 1959,
     "director": {
       "name": "Clyde Geronimi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0314649/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0314623/"
     },
     "production_studio": "Walt Disney Productions",
     "mpaa_rating": "G",
@@ -342,21 +432,21 @@
     },
     "genres": [
       "Animation",
-      "Family",
-      "Fantasy"
+      "Adventure",
+      "Family"
     ],
     "actors": [
       {
         "name": "Mary Costa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0182289/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0182248/"
       },
       {
         "name": "Bill Shirley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0794109/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0794331/"
       },
       {
         "name": "Eleanor Audley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0041538/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0041598/"
       }
     ],
     "oscars_nominated": 1,
@@ -365,158 +455,24 @@
     "description": "After being snubbed by the royal family, a malevolent fairy places a curse on a princess which only a prince can break, along with the help of three good fairies.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0053285/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019253-sleeping_beauty"
-  },
-  {
-    "title": "Pillow Talk",
-    "year": 1959,
-    "director": {
-      "name": "Michael Gordon",
-      "imdb_person_url": "https://www.imdb.com/name/nm0330438/"
-    },
-    "production_studio": "Arwin Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 17,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Rock Hudson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001369/"
-      },
-      {
-        "name": "Doris Day",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000013/"
-      },
-      {
-        "name": "Tony Randall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Story and Screenplay - Written Directly for the Screen"
-    ],
-    "description": "A man and a woman who share a party line cannot stand each other, but he falls for her when he meets her in person.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053172/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pillow_talk"
-  },
-  {
-    "title": "Hiroshima Mon Amour",
-    "year": 1959,
-    "director": {
-      "name": "Alain Resnais",
-      "imdb_person_url": "https://www.imdb.com/name/nm0720138/"
-    },
-    "production_studio": "Argos Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 90,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Emmanuelle Riva",
-        "imdb_person_url": "https://www.imdb.com/name/nm0728919/"
-      },
-      {
-        "name": "Eiji Okada",
-        "imdb_person_url": "https://www.imdb.com/name/nm0645484/"
-      },
-      {
-        "name": "Stella Dassas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0202150/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A French actress filming an anti-war film in Hiroshima has an affair with a married Japanese architect as they share their differing perspectives on war.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0052893/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hiroshima_mon_amour"
-  },
-  {
-    "title": "Black Orpheus",
-    "year": 1959,
-    "director": {
-      "name": "Marcel Camus",
-      "imdb_person_url": "https://www.imdb.com/name/nm0133226/"
-    },
-    "production_studio": "Dispat Films",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 107,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.8,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Breno Mello",
-        "imdb_person_url": "https://www.imdb.com/name/nm0578119/"
-      },
-      {
-        "name": "Marpessa Dawn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0206085/"
-      },
-      {
-        "name": "Lourdes de Oliveira",
-        "imdb_person_url": "https://www.imdb.com/name/nm0210217/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "A retelling of the Orpheus and Eurydice myth, set during the time of the Carnival in Rio de Janeiro.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053146/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/black_orpheus"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019187-sleeping_beauty"
   },
   {
     "title": "Imitation of Life",
     "year": 1959,
     "director": {
       "name": "Douglas Sirk",
-      "imdb_person_url": "https://www.imdb.com/name/nm0802871/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0802862/"
     },
-    "production_studio": "Universal International Pictures",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Universal International",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 125,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 9.6,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 6.4,
     "ratings": {
       "imdb": 7.8,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Drama",
@@ -529,109 +485,281 @@
       },
       {
         "name": "John Gavin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0310784/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0310502/"
       },
       {
         "name": "Sandra Dee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001123/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002039/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An aspiring actress takes in an African-American widow and her light-skinned daughter, and they become a family, but the daughter's desire to pass as white causes turmoil.",
+    "description": "An aspiring actress meets a black widow with a mixed-race daughter who passes for white. They form a household and the film follows their lives and the lives of their daughters.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0052918/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/imitation_of_life"
+    "imdb_url": "https://www.imdb.com/title/tt0052924/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010448-imitation_of_life"
   },
   {
-    "title": "Journey to the Center of the Earth",
+    "title": "Pillow Talk",
     "year": 1959,
     "director": {
-      "name": "Henry Levin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0505591/"
+      "name": "Michael Gordon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0330445/"
     },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "G",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 3.44,
-    "gross_revenue_usd_millions": 5,
+    "production_studio": "Arwin Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 18.8,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
+      "Comedy",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Pat Boone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000941/"
+        "name": "Rock Hudson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001371/"
       },
       {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
+        "name": "Doris Day",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
       },
       {
-        "name": "Arlene Dahl",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001094/"
+        "name": "Tony Randall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0709694/"
       }
     ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An Edinburgh professor and his fellow explorers follow an Icelandic guide down a volcano to the Earth's center.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0052948/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011111-journey_to_the_center_of_the_earth"
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Original Screenplay"
+    ],
+    "description": "A man and a woman who share a telephone line engage in a feud that turns into romance.",
+    "afi_ranking": 99,
+    "imdb_url": "https://www.imdb.com/title/tt0053174/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pillow_talk"
   },
   {
-    "title": "Room at the Top",
+    "title": "Pickpocket",
     "year": 1959,
     "director": {
-      "name": "Jack Clayton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0165725/"
+      "name": "Robert Bresson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000975/"
     },
-    "production_studio": "Remus Films",
+    "production_studio": "Compagnie Cinématographique de France",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 0.2,
+    "runtime_minutes": 75,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Martin LaSalle",
+        "imdb_person_url": "https://www.imdb.com/name/nm0489446/"
+      },
+      {
+        "name": "Marika Green",
+        "imdb_person_url": "https://www.imdb.com/name/nm0338156/"
+      },
+      {
+        "name": "Jean Pélégri",
+        "imdb_person_url": "https://www.imdb.com/name/nm0701700/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Michel is released from jail after serving time for thievery. His mother dies, and he resorts to pickpocketing as a means of survival.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053168/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pickpocket"
+  },
+  {
+    "title": "The World of Apu",
+    "year": 1959,
+    "director": {
+      "name": "Satyajit Ray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001654/"
+    },
+    "production_studio": "Satyajit Ray Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.2,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
       "Drama"
     ],
     "actors": [
       {
-        "name": "Simone Signoret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0797382/"
+        "name": "Soumitra Chatterjee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0154164/"
       },
       {
-        "name": "Laurence Harvey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001326/"
+        "name": "Sharmila Tagore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0846628/"
       },
       {
-        "name": "Heather Sears",
-        "imdb_person_url": "https://www.imdb.com/name/nm0780584/"
+        "name": "Alok Chakravarty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0149831/"
       }
     ],
-    "oscars_nominated": 6,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role",
-      "Best Writing, Screenplay Based on Material from Another Medium"
-    ],
-    "description": "An ambitious young man from a working-class background schemes to climb the social ladder.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "This final installment in Satyajit Ray's Apu Trilogy follows Apu's life as an orphan and his eventual marriage and fatherhood.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053226/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/room_at_the_top"
+    "imdb_url": "https://www.imdb.com/title/tt0052572/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/world_of_apu"
+  },
+  {
+    "title": "Ballad of a Soldier",
+    "year": 1959,
+    "director": {
+      "name": "Grigoriy Chukhray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0161065/"
+    },
+    "production_studio": "Mosfilm",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 88,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Vladimir Ivashov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0412233/"
+      },
+      {
+        "name": "Zhanna Prokhorenko",
+        "imdb_person_url": "https://www.imdb.com/name/nm0698581/"
+      },
+      {
+        "name": "Antonina Maksimova",
+        "imdb_person_url": "https://www.imdb.com/name/nm0538216/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During World War II, a nineteen-year-old Russian soldier gets a few days' leave to visit his mother, but on his journey home, he helps various people he meets.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052600/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ballad_of_a_soldier"
+  },
+  {
+    "title": "The Human Condition I: No Greater Love",
+    "year": 1959,
+    "director": {
+      "name": "Masaki Kobayashi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0462039/"
+    },
+    "production_studio": "Ninjin Club",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 208,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.5,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Tatsuya Nakadai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0619938/"
+      },
+      {
+        "name": "Michiyo Aratama",
+        "imdb_person_url": "https://www.imdb.com/name/nm0033274/"
+      },
+      {
+        "name": "Chikage Awashima",
+        "imdb_person_url": "https://www.imdb.com/name/nm0043413/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pacifist Japanese man tries to improve the conditions for prisoners of war in a Manchurian mine during WWII.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053104/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/human_condition_part_i_no_greater_love"
+  },
+  {
+    "title": "On the Beach",
+    "year": 1959,
+    "director": {
+      "name": "Stanley Kramer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0469661/"
+    },
+    "production_studio": "Stanley Kramer Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 2.9,
+    "gross_revenue_usd_millions": 11.1,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Gregory Peck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
+      },
+      {
+        "name": "Ava Gardner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
+      },
+      {
+        "name": "Fred Astaire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a global nuclear war, the residents of Australia must come to terms with the fact that all life will be destroyed in a matter of months.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053137/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/on_the_beach"
   },
   {
     "title": "Suddenly, Last Summer",
@@ -640,15 +768,15 @@
       "name": "Joseph L. Mankiewicz",
       "imdb_person_url": "https://www.imdb.com/name/nm0542403/"
     },
-    "production_studio": "Horizon Pictures",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 114,
-    "budget_usd_millions": 2.5,
+    "budget_usd_millions": 3,
     "gross_revenue_usd_millions": 6.4,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "82%"
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
       "Drama",
@@ -672,7 +800,7 @@
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A wealthy widow tries to lobotomize her niece, who is traumatized after witnessing the death of her cousin.",
+    "description": "The only son of a wealthy widow dies while on vacation with his cousin. The cousin is institutionalized because she has gone insane from what she saw.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0053318/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/suddenly_last_summer"
@@ -682,17 +810,17 @@
     "year": 1959,
     "director": {
       "name": "Fred Zinnemann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0957037/"
     },
     "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 152,
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 149,
     "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 8,
+    "gross_revenue_usd_millions": 12.8,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
       "Drama"
@@ -704,37 +832,1194 @@
       },
       {
         "name": "Peter Finch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001214/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002075/"
       },
       {
         "name": "Edith Evans",
-        "imdb_person_url": "https://www.imdb.com/name/nm0262846/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0262732/"
       }
     ],
     "oscars_nominated": 8,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After leaving a wealthy Belgian family to become a nun, Sister Luke struggles with her faith while working in a remote hospital in the Belgian Congo.",
+    "description": "A young woman leaves her wealthy family to become a nun and eventually serves in a hospital in the Belgian Congo.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053131/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_nuns_story"
+    "imdb_url": "https://www.imdb.com/title/tt0053126/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nuns_story"
+  },
+  {
+    "title": "Shadows",
+    "year": 1959,
+    "director": {
+      "name": "John Cassavetes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001023/"
+    },
+    "production_studio": "Maurice McEndree Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 0.04,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ben Carruthers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0141126/"
+      },
+      {
+        "name": "Lelia Goldoni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0325709/"
+      },
+      {
+        "name": "Hugh Hurd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0403332/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The relationships of three African-American siblings in 1950s New York City.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053270/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1018687-shadows"
+  },
+  {
+    "title": "Eyes Without a Face",
+    "year": 1959,
+    "director": {
+      "name": "Georges Franju",
+      "imdb_person_url": "https://www.imdb.com/name/nm0291043/"
+    },
+    "production_studio": "Champs-Élysées Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Pierre Brasseur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0105482/"
+      },
+      {
+        "name": "Alida Valli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0885053/"
+      },
+      {
+        "name": "Juliette Mayniel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0562882/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A surgeon tries to rebuild his daughter's disfigured face by transplanting faces from young women he abducts.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053459/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eyes_without_a_face"
+  },
+  {
+    "title": "Good Morning",
+    "year": 1959,
+    "director": {
+      "name": "Yasujirô Ozu",
+      "imdb_person_url": "https://www.imdb.com/name/nm0654868/"
+    },
+    "production_studio": "Shochiku",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 94,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Keiji Sada",
+        "imdb_person_url": "https://www.imdb.com/name/nm0755418/"
+      },
+      {
+        "name": "Yoshiko Kuga",
+        "imdb_person_url": "https://www.imdb.com/name/nm0473829/"
+      },
+      {
+        "name": "Chishû Ryû",
+        "imdb_person_url": "https://www.imdb.com/name/nm0753450/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two boys beg their parents for a television set, but when they are refused, they take a vow of silence.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053134/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/good_morning"
+  },
+  {
+    "title": "Floating Weeds",
+    "year": 1959,
+    "director": {
+      "name": "Yasujirô Ozu",
+      "imdb_person_url": "https://www.imdb.com/name/nm0654868/"
+    },
+    "production_studio": "Daiei Studios",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 119,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Ganjirô Nakamura",
+        "imdb_person_url": "https://www.imdb.com/name/nm0620213/"
+      },
+      {
+        "name": "Machiko Kyô",
+        "imdb_person_url": "https://www.imdb.com/name/nm0477490/"
+      },
+      {
+        "name": "Haruko Sugimura",
+        "imdb_person_url": "https://www.imdb.com/name/nm0837510/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An aging actor returns to a small seaside town with his troupe and attempts to reconnect with his former lover and their son.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053416/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/floating_weeds"
+  },
+  {
+    "title": "Fires on the Plain",
+    "year": 1959,
+    "director": {
+      "name": "Kon Ichikawa",
+      "imdb_person_url": "https://www.imdb.com/name/nm0406683/"
+    },
+    "production_studio": "Daiei Studios",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Eiji Funakoshi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0298380/"
+      },
+      {
+        "name": "Osamu Takizawa",
+        "imdb_person_url": "https://www.imdb.com/name/nm0847736/"
+      },
+      {
+        "name": "Mickey Curtis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0193454/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Japanese soldier in the Philippines during WWII struggles to survive amidst starvation, illness, and the horrors of war.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053121/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fires_on_the_plain"
+  },
+  {
+    "title": "Nazarín",
+    "year": 1959,
+    "director": {
+      "name": "Luis Buñuel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000320/"
+    },
+    "production_studio": "Producciones Barbachano Ponce",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 94,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Francisco Rabal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0704733/"
+      },
+      {
+        "name": "Marga López",
+        "imdb_person_url": "https://www.imdb.com/name/nm0530239/"
+      },
+      {
+        "name": "Rita Macedo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531245/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A humble priest attempts to live a pure Christian life but finds his good intentions often lead to disaster.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051981/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nazarin"
+  },
+  {
+    "title": "The Bridge",
+    "year": 1959,
+    "director": {
+      "name": "Bernhard Wicki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0926910/"
+    },
+    "production_studio": "Fono Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 103,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "N/A",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Folker Bohnet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0092077/"
+      },
+      {
+        "name": "Fritz Wepper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0921070/"
+      },
+      {
+        "name": "Michael Hinz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0386101/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the final days of WWII, a group of German schoolboys are drafted to defend a small bridge in their hometown against the advancing American army.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052654/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_bridge"
+  },
+  {
+    "title": "Destiny of a Man",
+    "year": 1959,
+    "director": {
+      "name": "Sergei Bondarchuk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0094084/"
+    },
+    "production_studio": "Mosfilm",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 103,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "N/A",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Sergei Bondarchuk",
+        "imdb_person_url": "https://www.imdb.com/name/nm0094084/"
+      },
+      {
+        "name": "Pavel Boriskin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0096835/"
+      },
+      {
+        "name": "Zinaida Kirienko",
+        "imdb_person_url": "https://www.imdb.com/name/nm0456311/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Soviet soldier experiences the horrors of World War II, loses his family, and finds hope in adopting a young orphan boy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053317/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/destiny_of_a_man"
+  },
+  {
+    "title": "Letter Never Sent",
+    "year": 1959,
+    "director": {
+      "name": "Mikhail Kalatozov",
+      "imdb_person_url": "https://www.imdb.com/name/nm0435587/"
+    },
+    "production_studio": "Mosfilm",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Innokentiy Smoktunovskiy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0810646/"
+      },
+      {
+        "name": "Tatyana Samoylova",
+        "imdb_person_url": "https://www.imdb.com/name/nm0759962/"
+      },
+      {
+        "name": "Vasiliy Livanov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0515103/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Four geologists in the Siberian wilderness must fight for survival against a raging forest fire.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053106/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/letter_never_sent"
+  },
+  {
+    "title": "Look Back in Anger",
+    "year": 1959,
+    "director": {
+      "name": "Tony Richardson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0724790/"
+    },
+    "production_studio": "Woodfall Film Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 0.35,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Richard Burton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
+      },
+      {
+        "name": "Claire Bloom",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001954/"
+      },
+      {
+        "name": "Mary Ure",
+        "imdb_person_url": "https://www.imdb.com/name/nm0881935/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A disaffected working-class man in a love triangle struggles with his life and relationships in a claustrophobic British apartment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053020/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/look_back_in_anger"
+  },
+  {
+    "title": "I'm All Right Jack",
+    "year": 1959,
+    "director": {
+      "name": "John Boulting",
+      "imdb_person_url": "https://www.imdb.com/name/nm0099603/"
+    },
+    "production_studio": "Charter Film Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Peter Sellers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000634/"
+      },
+      {
+        "name": "Ian Carmichael",
+        "imdb_person_url": "https://www.imdb.com/name/nm0138417/"
+      },
+      {
+        "name": "Terry-Thomas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0856112/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A naive upper-class man unwittingly causes a major strike when he takes a job at his uncle's missile factory.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052915/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/im_all_right_jack"
+  },
+  {
+    "title": "Tiger Bay",
+    "year": 1959,
+    "director": {
+      "name": "J. Lee Thompson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0860286/"
+    },
+    "production_studio": "Independent Artists",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "John Mills",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001538/"
+      },
+      {
+        "name": "Hayley Mills",
+        "imdb_person_url": "https://www.imdb.com/name/nm0590006/"
+      },
+      {
+        "name": "Horst Buchholz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0118258/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young girl witnesses a murder and is kidnapped by the killer, with whom she forms an unlikely bond.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053358/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tiger_bay"
+  },
+  {
+    "title": "The Mouse That Roared",
+    "year": 1959,
+    "director": {
+      "name": "Jack Arnold",
+      "imdb_person_url": "https://www.imdb.com/name/nm0036484/"
+    },
+    "production_studio": "Highroad Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.45,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Peter Sellers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000634/"
+      },
+      {
+        "name": "Jean Seberg",
+        "imdb_person_url": "https://www.imdb.com/name/nm0781029/"
+      },
+      {
+        "name": "William Hartnell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0367162/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The tiny nation of Grand Fenwick declares war on the United States, hoping to lose and receive foreign aid, but things don't go as planned.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053084/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mouse_that_roared"
+  },
+  {
+    "title": "Our Man in Havana",
+    "year": 1959,
+    "director": {
+      "name": "Carol Reed",
+      "imdb_person_url": "https://www.imdb.com/name/nm0715343/"
+    },
+    "production_studio": "Kingsmead Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 111,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Alec Guinness",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000027/"
+      },
+      {
+        "name": "Burl Ives",
+        "imdb_person_url": "https://www.imdb.com/name/nm0412384/"
+      },
+      {
+        "name": "Maureen O'Hara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000058/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A vacuum cleaner salesman in Havana is recruited by British intelligence and begins inventing fake secrets to keep the job.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0054152/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/our_man_in_havana"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "year": 1959,
+    "director": {
+      "name": "Terence Fisher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0279816/"
+    },
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 87,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Peter Cushing",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001088/"
+      },
+      {
+        "name": "André Morell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0603680/"
+      },
+      {
+        "name": "Christopher Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000489/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Sherlock Holmes investigates the curse of the Baskervilles and a spectral hound haunting the moors.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052905/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010039-hound_of_the_baskervilles"
+  },
+  {
+    "title": "The Mummy",
+    "year": 1959,
+    "director": {
+      "name": "Terence Fisher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0279816/"
+    },
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.35,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": [
+      "Adventure",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Peter Cushing",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001088/"
+      },
+      {
+        "name": "Christopher Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000489/"
+      },
+      {
+        "name": "Yvonne Furneaux",
+        "imdb_person_url": "https://www.imdb.com/name/nm0299011/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three British archaeologists discover the tomb of an Egyptian princess, unwittingly bringing a vengeful mummy back to life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053085/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1014373-mummy"
+  },
+  {
+    "title": "House on Haunted Hill",
+    "year": 1959,
+    "director": {
+      "name": "William Castle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0145335/"
+    },
+    "production_studio": "William Castle Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 75,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Vincent Price",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      },
+      {
+        "name": "Carol Ohmart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0645197/"
+      },
+      {
+        "name": "Richard Long",
+        "imdb_person_url": "https://www.imdb.com/name/nm0519169/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A millionaire offers $10,000 to five people who agree to stay overnight in a large, spooky, rented house.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052905/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/house_on_haunted_hill"
+  },
+  {
+    "title": "The Tingler",
+    "year": 1959,
+    "director": {
+      "name": "William Castle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0145335/"
+    },
+    "production_studio": "William Castle Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 82,
+    "budget_usd_millions": 0.25,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Vincent Price",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      },
+      {
+        "name": "Judith Evelyn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0263378/"
+      },
+      {
+        "name": "Darryl Hickman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0382728/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pathologist discovers a parasite that feeds on human fear and grows on the spinal cord, which can only be neutralized by screaming.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053363/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tingler"
+  },
+  {
+    "title": "Day of the Outlaw",
+    "year": 1959,
+    "director": {
+      "name": "André De Toth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0211938/"
+    },
+    "production_studio": "Security Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Robert Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
+      },
+      {
+        "name": "Burl Ives",
+        "imdb_person_url": "https://www.imdb.com/name/nm0412384/"
+      },
+      {
+        "name": "Tina Louise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001481/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A band of outlaws takes over a small, snowbound Western town, leading to tension and violence.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052724/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/day_of_the_outlaw"
+  },
+  {
+    "title": "Ride Lonesome",
+    "year": 1959,
+    "director": {
+      "name": "Budd Boetticher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0091329/"
+    },
+    "production_studio": "Ranown Pictures Corp.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 73,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Randolph Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000218/"
+      },
+      {
+        "name": "Karen Steele",
+        "imdb_person_url": "https://www.imdb.com/name/nm0824604/"
+      },
+      {
+        "name": "Pernell Roberts",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005372/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bounty hunter tries to bring a murderer to justice while being pursued by the killer's brother and a pair of outlaws.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053220/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ride_lonesome"
+  },
+  {
+    "title": "Last Train from Gun Hill",
+    "year": 1959,
+    "director": {
+      "name": "John Sturges",
+      "imdb_person_url": "https://www.imdb.com/name/nm0836328/"
+    },
+    "production_studio": "Bryna Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Kirk Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
+      },
+      {
+        "name": "Anthony Quinn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000063/"
+      },
+      {
+        "name": "Carolyn Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001406/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A marshal tries to bring the son of an old friend to justice for the rape and murder of his wife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052993/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_train_from_gun_hill"
+  },
+  {
+    "title": "Warlock",
+    "year": 1959,
+    "director": {
+      "name": "Edward Dmytryk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0229425/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Richard Widmark",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001847/"
+      },
+      {
+        "name": "Henry Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "Anthony Quinn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000063/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A famous gunman is hired by a town to protect it from outlaws, but his methods soon cause conflict.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053434/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/warlock"
+  },
+  {
+    "title": "The Hanging Tree",
+    "year": 1959,
+    "director": {
+      "name": "Delmer Daves",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202606/"
+    },
+    "production_studio": "Baroda Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 3.6,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Gary Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
+      },
+      {
+        "name": "Maria Schell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0770759/"
+      },
+      {
+        "name": "Karl Malden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A doctor saves a man from a lynch mob and a young woman from death, but his past secrets threaten his new life in a gold mining camp.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052876/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hanging_tree"
+  },
+  {
+    "title": "Odds Against Tomorrow",
+    "year": 1959,
+    "director": {
+      "name": "Robert Wise",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001862/"
+    },
+    "production_studio": "HarBel Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Harry Belafonte",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000902/"
+      },
+      {
+        "name": "Robert Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
+      },
+      {
+        "name": "Shelley Winters",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001859/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A corrupt cop recruits a racist ex-con and a black musician for a bank robbery, but their prejudices threaten to ruin the plan.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053133/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/odds_against_tomorrow"
+  },
+  {
+    "title": "The Crimson Kimono",
+    "year": 1959,
+    "director": {
+      "name": "Samuel Fuller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002087/"
+    },
+    "production_studio": "Globe Enterprises",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 82,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Victoria Shaw",
+        "imdb_person_url": "https://www.imdb.com/name/nm0789997/"
+      },
+      {
+        "name": "Glenn Corbett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0179159/"
+      },
+      {
+        "name": "James Shigeta",
+        "imdb_person_url": "https://www.imdb.com/name/nm0793395/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two detectives, one Japanese-American and one Caucasian, investigate the murder of a stripper in Los Angeles' Little Tokyo.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052713/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crimson_kimono"
+  },
+  {
+    "title": "Compulsion",
+    "year": 1959,
+    "director": {
+      "name": "Richard Fleischer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001220/"
+    },
+    "production_studio": "Darryl F. Zanuck Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Orson Welles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
+      },
+      {
+        "name": "Dean Stockwell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001777/"
+      },
+      {
+        "name": "Bradford Dillman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0226952/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two wealthy law students murder a boy to prove they can commit the perfect crime, but their arrogance leads to their downfall.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052700/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004576-compulsion"
+  },
+  {
+    "title": "The Young Philadelphians",
+    "year": 1959,
+    "director": {
+      "name": "Vincent Sherman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0792605/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 136,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 5.2,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
+      },
+      {
+        "name": "Barbara Rush",
+        "imdb_person_url": "https://www.imdb.com/name/nm0750640/"
+      },
+      {
+        "name": "Alexis Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0807244/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young lawyer navigates the social and ethical challenges of Philadelphia's upper crust to build his career and find love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053459/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/young_philadelphians"
   },
   {
     "title": "Operation Petticoat",
     "year": 1959,
     "director": {
       "name": "Blake Edwards",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001175/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000381/"
     },
     "production_studio": "Granart Company",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 124,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 9.3,
+    "budget_usd_millions": 3.7,
+    "gross_revenue_usd_millions": 18.6,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "79%"
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
       "Comedy",
@@ -752,103 +2037,194 @@
       },
       {
         "name": "Joan O'Brien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0639634/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0639628/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "During World War II, a submarine commander and his subordinates find themselves stuck with a group of nurses.",
+    "description": "During World War II, a submarine commander struggles to keep his damaged sub afloat with a crew of misfits and a group of Army nurses.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0053143/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/operation_petticoat"
   },
   {
-    "title": "On the Beach",
+    "title": "A Hole in the Head",
     "year": 1959,
     "director": {
-      "name": "Stanley Kramer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0469831/"
+      "name": "Frank Capra",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
     },
-    "production_studio": "Stanley Kramer Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 2.9,
-    "gross_revenue_usd_millions": 11,
+    "production_studio": "Sincap Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 5.2,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "44%"
     },
     "genres": [
-      "Drama",
-      "Romance",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
-      },
-      {
-        "name": "Ava Gardner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001257/"
-      },
-      {
-        "name": "Fred Astaire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After a global nuclear war, the residents of Australia must come to terms with the fact that they are the last survivors on Earth.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053137/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/on_the_beach"
-  },
-  {
-    "title": "Pickpocket",
-    "year": 1959,
-    "director": {
-      "name": "Robert Bresson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0108170/"
-    },
-    "production_studio": "Agnes Delahaie Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 76,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Crime",
+      "Comedy",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Martin LaSalle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0489679/"
+        "name": "Frank Sinatra",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
       },
       {
-        "name": "Marika Green",
-        "imdb_person_url": "https://www.imdb.com/name/nm0338006/"
+        "name": "Edward G. Robinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
       },
       {
-        "name": "Jean Pélégri",
-        "imdb_person_url": "https://www.imdb.com/name/nm0670984/"
+        "name": "Eleanor Parker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0662232/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Original Song"
+    ],
+    "description": "A widower trying to run a Miami Beach hotel struggles to keep his business afloat and raise his son, while dealing with his eccentric family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052898/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hole_in_the_head"
+  },
+  {
+    "title": "Porgy and Bess",
+    "year": 1959,
+    "director": {
+      "name": "Otto Preminger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0695938/"
+    },
+    "production_studio": "Samuel Goldwyn Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 138,
+    "budget_usd_millions": 7,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "N/A",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Sidney Poitier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001627/"
+      },
+      {
+        "name": "Dorothy Dandridge",
+        "imdb_person_url": "https://www.imdb.com/name/nm0199244/"
+      },
+      {
+        "name": "Sammy Davis Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001112/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Scoring of a Musical Picture"
+    ],
+    "description": "In Charleston, South Carolina, a disabled beggar named Porgy tries to rescue Bess from her abusive lover and a drug dealer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0053182/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/porgy_and_bess"
+  },
+  {
+    "title": "Gidget",
+    "year": 1959,
+    "director": {
+      "name": "Paul Wendkos",
+      "imdb_person_url": "https://www.imdb.com/name/nm0920898/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 7,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "47%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Sandra Dee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002039/"
+      },
+      {
+        "name": "Cliff Robertson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0731772/"
+      },
+      {
+        "name": "James Darren",
+        "imdb_person_url": "https://www.imdb.com/name/nm0201551/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young man in Paris turns to pickpocketing as a profession and develops his skills to a high level of artistry.",
+    "description": "A teenage girl discovers surfing and romance during a summer in Malibu.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053168/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pickpocket"
+    "imdb_url": "https://www.imdb.com/title/tt0052847/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gidget"
+  },
+  {
+    "title": "Darby O'Gill and the Little People",
+    "year": 1959,
+    "director": {
+      "name": "Robert Stevenson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0829012/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 10,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Albert Sharpe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0789202/"
+      },
+      {
+        "name": "Janet Munro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0613147/"
+      },
+      {
+        "name": "Sean Connery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An old storyteller matches wits with the King of the Leprechauns and plays matchmaker for his daughter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0052722/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/darby_ogill_and_the_little_people"
   },
   {
     "title": "The Horse Soldiers",
@@ -857,15 +2233,15 @@
       "name": "John Ford",
       "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
     },
-    "production_studio": "The Mirisch Company",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Mirisch Company",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 120,
-    "budget_usd_millions": 3.2,
-    "gross_revenue_usd_millions": 4,
+    "budget_usd_millions": 5,
+    "gross_revenue_usd_millions": 8.9,
     "ratings": {
       "imdb": 7.1,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
       "Adventure",
@@ -879,363 +2255,63 @@
       },
       {
         "name": "William Holden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000454/"
       },
       {
         "name": "Constance Towers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0869818/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0869922/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Union Cavalry outfit is sent behind Confederate lines in strength to destroy a rail supply centre at Newton Station, Mississippi.",
+    "description": "A Union Cavalry outfit is sent behind Confederate lines in strength to destroy a rail/supply depot.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0052902/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_horse_soldiers"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/horse_soldiers"
   },
   {
-    "title": "The Shaggy Dog",
+    "title": "Journey to the Center of the Earth",
     "year": 1959,
     "director": {
-      "name": "Charles Barton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0059152/"
+      "name": "Henry Levin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0505599/"
     },
-    "production_studio": "Walt Disney Productions",
+    "production_studio": "20th Century Fox",
     "mpaa_rating": "G",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 1.25,
-    "gross_revenue_usd_millions": 9.6,
+    "runtime_minutes": 129,
+    "budget_usd_millions": 3.4,
+    "gross_revenue_usd_millions": 10,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "57%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "69%"
     },
     "genres": [
-      "Comedy",
+      "Adventure",
       "Family",
       "Fantasy"
     ],
     "actors": [
       {
-        "name": "Fred MacMurray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
+        "name": "James Mason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000050/"
       },
       {
-        "name": "Jean Hagen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001309/"
+        "name": "Pat Boone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
       },
       {
-        "name": "Tommy Kirk",
-        "imdb_person_url": "https://www.imdb.com/name/nm0456485/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A teenage boy is cursed with periodically turning into a sheepdog.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053271/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shaggy_dog"
-  },
-  {
-    "title": "A Hole in the Head",
-    "year": 1959,
-    "director": {
-      "name": "Frank Capra",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001008/"
-    },
-    "production_studio": "Sincap Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 1.8,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Frank Sinatra",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000069/"
-      },
-      {
-        "name": "Edward G. Robinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000064/"
-      },
-      {
-        "name": "Eleanor Parker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001599/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song"
-    ],
-    "description": "An impractical widower manages a hotel in Miami Beach. When he runs into financial trouble, he turns to his wealthy older brother for help.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0052900/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_hole_in_the_head"
-  },
-  {
-    "title": "The Mummy",
-    "year": 1959,
-    "director": {
-      "name": "Terence Fisher",
-      "imdb_person_url": "https://www.imdb.com/name/nm0279822/"
-    },
-    "production_studio": "Hammer Film Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 0.3,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Peter Cushing",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001090/"
-      },
-      {
-        "name": "Christopher Lee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000489/"
-      },
-      {
-        "name": "Yvonne Furneaux",
-        "imdb_person_url": "https://www.imdb.com/name/nm0298918/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A team of British archaeologists discovers the tomb of an Egyptian princess. They soon find out that the tomb is cursed.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053085/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1014301-mummy"
-  },
-  {
-    "title": "Look Back in Anger",
-    "year": 1959,
-    "director": {
-      "name": "Tony Richardson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0724682/"
-    },
-    "production_studio": "Woodfall Film Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 98,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
-      },
-      {
-        "name": "Claire Bloom",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001954/"
-      },
-      {
-        "name": "Mary Ure",
-        "imdb_person_url": "https://www.imdb.com/name/nm0881907/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An intelligent but disaffected young man rails against the establishment and his own personal failures.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0051879/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/look_back_in_anger"
-  },
-  {
-    "title": "The Young Philadelphians",
-    "year": 1959,
-    "director": {
-      "name": "Vincent Sherman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0792558/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 136,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Barbara Rush",
-        "imdb_person_url": "https://www.imdb.com/name/nm0750485/"
-      },
-      {
-        "name": "Alexis Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0807090/"
+        "name": "Arlene Dahl",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001981/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An ambitious young lawyer from a working-class background climbs the social and professional ladder in Philadelphia.",
+    "description": "An Edinburgh professor and assorted colleagues follow an explorer's trail down an extinct Icelandic volcano to the earth's center.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053462/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_young_philadelphians"
-  },
-  {
-    "title": "The Last Angry Man",
-    "year": 1959,
-    "director": {
-      "name": "Daniel Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0542618/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 100,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Paul Muni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0612849/"
-      },
-      {
-        "name": "David Wayne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915632/"
-      },
-      {
-        "name": "Betsy Palmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0658395/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A television producer profiles an aging, dedicated doctor in a Brooklyn slum.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0052988/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_angry_man"
-  },
-  {
-    "title": "Fires on the Plain",
-    "year": 1959,
-    "director": {
-      "name": "Kon Ichikawa",
-      "imdb_person_url": "https://www.imdb.com/name/nm0406731/"
-    },
-    "production_studio": "Daiei Studios",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 108,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Eiji Funakoshi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0298606/"
-      },
-      {
-        "name": "Osamu Takizawa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0847774/"
-      },
-      {
-        "name": "Mickey Curtis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0193427/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In the closing days of WWII, a Japanese soldier with tuberculosis is cast out from his platoon and wanders the war-torn countryside of the Philippines.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0053121/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fires_on_the_plain"
-  },
-  {
-    "title": "Plan 9 from Outer Space",
-    "year": 1959,
-    "director": {
-      "name": "Ed Wood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000248/"
-    },
-    "production_studio": "Reynolds Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 79,
-    "budget_usd_millions": 0.06,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 4.0,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "41%"
-    },
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Gregory Walcott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0907038/"
-      },
-      {
-        "name": "Mona McKinnon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0571932/"
-      },
-      {
-        "name": "Duke Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0601267/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Aliens resurrect dead humans as zombies and vampires to stop humanity from creating the Solaranite, a sun-driven weapon of mass destruction.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0052077/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/plan_9_from_outer_space"
+    "imdb_url": "https://www.imdb.com/title/tt0052948/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011268-journey_to_the_center_of_the_earth"
   }
 ]

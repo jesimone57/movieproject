@@ -6,48 +6,27 @@
       "name": "David Lean",
       "imdb_person_url": "https://www.imdb.com/name/nm0000180/"
     },
-    "production_studio": "Columbia Pictures, Horizon Pictures",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 161,
-    "budget_usd_millions": 2.8,
+    "budget_usd_millions": 3,
     "gross_revenue_usd_millions": 30.6,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "War"
-    ],
+    "genres": ["Adventure", "Drama", "War"],
     "actors": [
-      {
-        "name": "William Holden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
-      },
-      {
-        "name": "Alec Guinness",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000027/"
-      },
-      {
-        "name": "Jack Hawkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0370164/"
-      }
+      { "name": "William Holden", "imdb_person_url": "https://www.imdb.com/name/nm0000454/" },
+      { "name": "Alec Guinness", "imdb_person_url": "https://www.imdb.com/name/nm0000027/" },
+      { "name": "Jack Hawkins", "imdb_person_url": "https://www.imdb.com/name/nm0370132/" }
     ],
     "oscars_nominated": 8,
     "oscars_won": 7,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor",
-      "Best Screenplay, Based on Material from Another Medium",
-      "Best Cinematography",
-      "Best Film Editing",
-      "Best Music, Scoring"
-    ],
-    "description": "A British colonel cooperates to oversee his men's construction of a railway bridge for their Japanese captors - while a separate team of Allied commandos plots to destroy it.",
-    "afi_ranking": 36,
+    "oscars_won_details": ["Best Picture", "Best Director", "Best Actor", "Best Screenplay", "Best Cinematography", "Best Film Editing", "Best Music"],
+    "description": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors, not knowing that the allied forces are planning to destroy it.",
+    "afi_ranking": 13,
     "imdb_url": "https://www.imdb.com/title/tt0050212/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bridge_on_the_river_kwai"
   },
@@ -58,38 +37,26 @@
       "name": "Sidney Lumet",
       "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
     },
-    "production_studio": "Orion-Nova Productions",
+    "production_studio": "United Artists",
     "mpaa_rating": "Approved",
     "runtime_minutes": 96,
-    "budget_usd_millions": 0.337,
+    "budget_usd_millions": 0.35,
     "gross_revenue_usd_millions": 2,
     "ratings": {
       "imdb": 9.0,
       "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "97%"
     },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
+    "genres": ["Crime", "Drama"],
     "actors": [
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Lee J. Cobb",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001053/"
-      },
-      {
-        "name": "Martin Balsam",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000842/"
-      }
+      { "name": "Henry Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000020/" },
+      { "name": "Lee J. Cobb", "imdb_person_url": "https://www.imdb.com/name/nm0002011/" },
+      { "name": "Martin Balsam", "imdb_person_url": "https://www.imdb.com/name/nm0000842/" }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before rushing to judgment.",
+    "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
     "afi_ranking": 87,
     "imdb_url": "https://www.imdb.com/title/tt0050083/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000013-12_angry_men"
@@ -101,33 +68,21 @@
       "name": "Stanley Kubrick",
       "imdb_person_url": "https://www.imdb.com/name/nm0000040/"
     },
-    "production_studio": "Bryna Productions, Harris-Kubrick Pictures Corporation",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "United Artists",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 88,
     "budget_usd_millions": 0.9,
     "gross_revenue_usd_millions": 1.2,
     "ratings": {
       "imdb": 8.4,
-      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "95%"
     },
-    "genres": [
-      "Drama",
-      "War"
-    ],
+    "genres": ["Drama", "War"],
     "actors": [
-      {
-        "name": "Kirk Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
-      },
-      {
-        "name": "Ralph Meeker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0576184/"
-      },
-      {
-        "name": "Adolphe Menjou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0579634/"
-      }
+      { "name": "Kirk Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0000018/" },
+      { "name": "Ralph Meeker", "imdb_person_url": "https://www.imdb.com/name/nm0576166/" },
+      { "name": "Adolphe Menjou", "imdb_person_url": "https://www.imdb.com/name/nm0579632/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -138,39 +93,58 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/paths_of_glory"
   },
   {
+    "title": "Witness for the Prosecution",
+    "year": 1957,
+    "director": {
+      "name": "Billy Wilder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 9,
+    "ratings": {
+      "imdb": 8.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "actors": [
+      { "name": "Tyrone Power", "imdb_person_url": "https://www.imdb.com/name/nm0001634/" },
+      { "name": "Marlene Dietrich", "imdb_person_url": "https://www.imdb.com/name/nm0000017/" },
+      { "name": "Charles Laughton", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051201/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/witness_for_the_prosecution"
+  },
+  {
     "title": "The Seventh Seal",
     "year": 1957,
     "director": {
       "name": "Ingmar Bergman",
       "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
     },
-    "production_studio": "Svensk Filmindustri (SF)",
+    "production_studio": "Svensk Filmindustri",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 96,
     "budget_usd_millions": 0.15,
-    "gross_revenue_usd_millions": null,
+    "gross_revenue_usd_millions": 0.3,
     "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "94%",
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "93%",
       "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Drama",
-      "Fantasy"
-    ],
+    "genres": ["Drama", "Fantasy"],
     "actors": [
-      {
-        "name": "Max von Sydow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001884/"
-      },
-      {
-        "name": "Gunnar Björnstrand",
-        "imdb_person_url": "https://www.imdb.com/name/nm0085023/"
-      },
-      {
-        "name": "Bengt Ekerot",
-        "imdb_person_url": "https://www.imdb.com/name/nm0252410/"
-      }
+      { "name": "Max von Sydow", "imdb_person_url": "https://www.imdb.com/name/nm0001884/" },
+      { "name": "Gunnar Björnstrand", "imdb_person_url": "https://www.imdb.com/name/nm0084941/" },
+      { "name": "Bengt Ekerot", "imdb_person_url": "https://www.imdb.com/name/nm0252344/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -187,128 +161,91 @@
       "name": "Ingmar Bergman",
       "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
     },
-    "production_studio": "Svensk Filmindustri (SF)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Svensk Filmindustri",
+    "mpaa_rating": "Unrated",
     "runtime_minutes": 91,
-    "budget_usd_millions": 0.15,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 0.16,
+    "gross_revenue_usd_millions": 0.2,
     "ratings": {
-      "imdb": 8.1,
+      "imdb": 8.2,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "94%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Victor Sjöström",
-        "imdb_person_url": "https://www.imdb.com/name/nm0803703/"
-      },
-      {
-        "name": "Bibi Andersson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0027962/"
-      },
-      {
-        "name": "Ingrid Thulin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0862026/"
-      }
+      { "name": "Victor Sjöström", "imdb_person_url": "https://www.imdb.com/name/nm0006414/" },
+      { "name": "Bibi Andersson", "imdb_person_url": "https://www.imdb.com/name/nm0027620/" },
+      { "name": "Ingrid Thulin", "imdb_person_url": "https://www.imdb.com/name/nm0861787/" }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence when he travels to receive an honorary degree.",
+    "description": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0050986/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wild_strawberries"
+  },
+  {
+    "title": "Nights of Cabiria",
+    "year": 1957,
+    "director": {
+      "name": "Federico Fellini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000019/"
+    },
+    "production_studio": "Dino de Laurentiis Cinematografica",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 0.65,
+    "gross_revenue_usd_millions": 0.7,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Giulietta Masina", "imdb_person_url": "https://www.imdb.com/name/nm0556339/" },
+      { "name": "François Périer", "imdb_person_url": "https://www.imdb.com/name/nm0702512/" },
+      { "name": "Franc Marzi", "imdb_person_url": "https://www.imdb.com/name/nm0555745/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Foreign Language Film"],
+    "description": "A waifish prostitute wanders the streets of Rome looking for true love but finds only heartbreak.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050783/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nights_of_cabiria"
   },
   {
     "title": "Sweet Smell of Success",
     "year": 1957,
     "director": {
       "name": "Alexander Mackendrick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0533232/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0533322/"
     },
-    "production_studio": "Hecht-Hill-Lancaster Productions",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "United Artists",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 96,
-    "budget_usd_millions": 1.4,
-    "gross_revenue_usd_millions": 2.25,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
       "imdb": 8.0,
       "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "90%"
+      "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Drama",
-      "Film-Noir"
-    ],
+    "genres": ["Drama", "Film-Noir"],
     "actors": [
-      {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      },
-      {
-        "name": "Tony Curtis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000348/"
-      },
-      {
-        "name": "Susan Harrison",
-        "imdb_person_url": "https://www.imdb.com/name/nm0365922/"
-      }
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Tony Curtis", "imdb_person_url": "https://www.imdb.com/name/nm0000348/" },
+      { "name": "Susan Harrison", "imdb_person_url": "https://www.imdb.com/name/nm0365883/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A powerful New York newspaper columnist and a sleazy press agent with a dark past enter into a symbiotic relationship.",
+    "description": "Powerful but unethical Broadway columnist J.J. Hunsecker coerces unscrupulous press agent Sidney Falco into breaking up his sister's romance with a jazz musician.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0051036/",
+    "imdb_url": "https://www.imdb.com/title/tt0051032/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sweet_smell_of_success"
-  },
-  {
-    "title": "Witness for the Prosecution",
-    "year": 1957,
-    "director": {
-      "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
-    },
-    "production_studio": "Edward Small Productions",
-    "mpaa_rating": "Approved",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 9,
-    "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "95%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Tyrone Power",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000061/"
-      },
-      {
-        "name": "Marlene Dietrich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
-      },
-      {
-        "name": "Charles Laughton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A veteran British barrister must defend a man in a murder trial that has surprise after surprise.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0051201/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/witness_for_the_prosecution"
   },
   {
     "title": "Throne of Blood",
@@ -318,32 +255,20 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0000041/"
     },
     "production_studio": "Toho Company",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "Unrated",
     "runtime_minutes": 110,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 0.8,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Drama",
-      "Action"
-    ],
+    "genres": ["Drama", "History", "War"],
     "actors": [
-      {
-        "name": "Toshirô Mifune",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001536/"
-      },
-      {
-        "name": "Isuzu Yamada",
-        "imdb_person_url": "https://www.imdb.com/name/nm0945440/"
-      },
-      {
-        "name": "Takashi Shimura",
-        "imdb_person_url": "https://www.imdb.com/name/nm0793753/"
-      }
+      { "name": "Toshirô Mifune", "imdb_person_url": "https://www.imdb.com/name/nm0001536/" },
+      { "name": "Isuzu Yamada", "imdb_person_url": "https://www.imdb.com/name/nm0945196/" },
+      { "name": "Takashi Shimura", "imdb_person_url": "https://www.imdb.com/name/nm0793752/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
@@ -360,872 +285,1546 @@
       "name": "Elia Kazan",
       "imdb_person_url": "https://www.imdb.com/name/nm0001415/"
     },
-    "production_studio": "Newtown Productions",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 126,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Andy Griffith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001292/"
-      },
-      {
-        "name": "Patricia Neal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0623658/"
-      },
-      {
-        "name": "Anthony Franciosa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0289839/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A charismatic drifter becomes a media sensation and a political force, but his ambition and arrogance threaten to bring him down.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050371/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_face_in_the_crowd"
-  },
-  {
-    "title": "3:10 to Yuma",
-    "year": 1957,
-    "director": {
-      "name": "Delmer Daves",
-      "imdb_person_url": "https://www.imdb.com/name/nm0205292/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 92,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Western",
-      "Thriller",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Glenn Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001232/"
-      },
-      {
-        "name": "Van Heflin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001334/"
-      },
-      {
-        "name": "Felicia Farr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0268021/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small-time rancher takes on the dangerous job of taking a notorious outlaw to justice.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050086/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000005-3_10_to_yuma"
-  },
-  {
-    "title": "Nights of Cabiria",
-    "year": 1957,
-    "director": {
-      "name": "Federico Fellini",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000019/"
-    },
-    "production_studio": "Dino de Laurentiis Cinematografica",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 110,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.6,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 0.5,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_critic": "88%",
       "rotten_tomatoes_popcorn": "93%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Drama", "Music"],
     "actors": [
-      {
-        "name": "Giulietta Masina",
-        "imdb_person_url": "https://www.imdb.com/name/nm0556992/"
-      },
-      {
-        "name": "François Périer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0702167/"
-      },
-      {
-        "name": "Franca Marzi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0556157/"
-      }
+      { "name": "Andy Griffith", "imdb_person_url": "https://www.imdb.com/name/nm0341462/" },
+      { "name": "Patricia Neal", "imdb_person_url": "https://www.imdb.com/name/nm0623658/" },
+      { "name": "Anthony Franciosa", "imdb_person_url": "https://www.imdb.com/name/nm0002082/" }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "A waifish prostitute wanders the streets of Rome looking for love but finding only heartbreak.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An Arkansas drifter becomes an overnight media sensation. As he becomes drunk with fame and power, he will betray the people who made him a star.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050783/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nights_of_cabiria"
+    "imdb_url": "https://www.imdb.com/title/tt0050371/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/face_in_the_crowd"
   },
   {
     "title": "The Cranes Are Flying",
     "year": 1957,
     "director": {
       "name": "Mikhail Kalatozov",
-      "imdb_person_url": "https://www.imdb.com/name/nm0435559/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0435587/"
     },
     "production_studio": "Mosfilm",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 95,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 0.5,
     "ratings": {
-      "imdb": 8.2,
-      "rotten_tomatoes_critic": "100%",
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "92%"
     },
-    "genres": [
-      "Drama",
-      "Romance",
-      "War"
-    ],
+    "genres": ["Drama", "Romance", "War"],
     "actors": [
-      {
-        "name": "Tatyana Samoylova",
-        "imdb_person_url": "https://www.imdb.com/name/nm0759901/"
-      },
-      {
-        "name": "Aleksey Batalov",
-        "imdb_person_url": "https://www.imdb.com/name/nm0060733/"
-      },
-      {
-        "name": "Vasiliy Merkurev",
-        "imdb_person_url": "https://www.imdb.com/name/nm0580796/"
-      }
+      { "name": "Tatyana Samoylova", "imdb_person_url": "https://www.imdb.com/name/nm0759962/" },
+      { "name": "Aleksey Batalov", "imdb_person_url": "https://www.imdb.com/name/nm0060709/" },
+      { "name": "Vasiliy Merkurev", "imdb_person_url": "https://www.imdb.com/name/nm0580912/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young woman's life is torn apart when her lover is sent to the front during World War II.",
+    "description": "Veronica plans a rendezvous with her lover, Boris, at the bank of river, only to find he has volunteered for the war.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0050634/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_cranes_are_flying"
   },
   {
-    "title": "An Affair to Remember",
+    "title": "3:10 to Yuma",
     "year": 1957,
     "director": {
-      "name": "Leo McCarey",
-      "imdb_person_url": "https://www.imdb.com/name/nm0565094/"
+      "name": "Delmer Daves",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202606/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "Approved",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 3.85,
+    "runtime_minutes": 92,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Drama", "Thriller", "Western"],
     "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Deborah Kerr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000039/"
-      },
-      {
-        "name": "Richard Denning",
-        "imdb_person_url": "https://www.imdb.com/name/nm0219277/"
-      }
+      { "name": "Glenn Ford", "imdb_person_url": "https://www.imdb.com/name/nm0001229/" },
+      { "name": "Van Heflin", "imdb_person_url": "https://www.imdb.com/name/nm0002132/" },
+      { "name": "Felicia Farr", "imdb_person_url": "https://www.imdb.com/name/nm0268010/" }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A couple falls in love and agrees to meet in six months at the Empire State Building - but will they?.",
+    "description": "A small-time rancher agrees to hold a captured outlaw leader until the train to Yuma arrives, but the outlaw's gang has other ideas.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050105/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/an_affair_to_remember"
-  },
-  {
-    "title": "Funny Face",
-    "year": 1957,
-    "director": {
-      "name": "Stanley Donen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0232478/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Approved",
-    "runtime_minutes": 103,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Audrey Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
-      },
-      {
-        "name": "Fred Astaire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
-      },
-      {
-        "name": "Kay Thompson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0860361/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An impromptu fashion shoot at a bookstore brings romance to a book clerk and a photographer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050419/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/funny_face"
-  },
-  {
-    "title": "Gunfight at the O.K. Corral",
-    "year": 1957,
-    "director": {
-      "name": "John Sturges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0836371/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Approved",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 11,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      },
-      {
-        "name": "Kirk Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
-      },
-      {
-        "name": "Rhonda Fleming",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001221/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Lawman Wyatt Earp and outlaw Doc Holliday form an unlikely alliance which culminates in their participation in the legendary gunfight at the O.K. Corral.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050468/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gunfight_at_the_ok_corral"
+    "imdb_url": "https://www.imdb.com/title/tt0050051/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000025-310_to_yuma"
   },
   {
     "title": "The Incredible Shrinking Man",
     "year": 1957,
     "director": {
       "name": "Jack Arnold",
-      "imdb_person_url": "https://www.imdb.com/name/nm0036407/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0036484/"
     },
-    "production_studio": "Universal International Pictures",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Universal International",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 81,
     "budget_usd_millions": 0.75,
-    "gross_revenue_usd_millions": null,
+    "gross_revenue_usd_millions": 1.43,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "83%"
     },
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
+    "genres": ["Sci-Fi", "Horror"],
     "actors": [
-      {
-        "name": "Grant Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0930595/"
-      },
-      {
-        "name": "Randy Stuart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0835923/"
-      },
-      {
-        "name": "April Kent",
-        "imdb_person_url": "https://www.imdb.com/name/nm0448839/"
-      }
+      { "name": "Grant Williams", "imdb_person_url": "https://www.imdb.com/name/nm0930707/" },
+      { "name": "Randy Stuart", "imdb_person_url": "https://www.imdb.com/name/nm0835833/" },
+      { "name": "April Kent", "imdb_person_url": "https://www.imdb.com/name/nm0448674/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When a man is exposed to a cloud of radioactive mist, he begins to shrink.",
+    "description": "When Scott Carey begins to shrink because of exposure to a combination of radiation and insecticide, medical science is powerless to help him.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0050539/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/incredible_shrinking_man"
   },
   {
-    "title": "Peyton Place",
+    "title": "Gunfight at the O.K. Corral",
     "year": 1957,
     "director": {
-      "name": "Mark Robson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0733470/"
+      "name": "John Sturges",
+      "imdb_person_url": "https://www.imdb.com/name/nm0836328/"
     },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Approved",
-    "runtime_minutes": 157,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 11,
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 10.7,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "81%"
     },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Biography", "Drama", "Western"],
     "actors": [
-      {
-        "name": "Lana Turner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001805/"
-      },
-      {
-        "name": "Lee Philips",
-        "imdb_person_url": "https://www.imdb.com/name/nm0680468/"
-      },
-      {
-        "name": "Lloyd Nolan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0634316/"
-      }
+      { "name": "Burt Lancaster", "imdb_person_url": "https://www.imdb.com/name/nm0000044/" },
+      { "name": "Kirk Douglas", "imdb_person_url": "https://www.imdb.com/name/nm0000018/" },
+      { "name": "Rhonda Fleming", "imdb_person_url": "https://www.imdb.com/name/nm0002076/" }
     ],
-    "oscars_nominated": 9,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The scandalous secrets of a small New England town are revealed.",
+    "description": "Lawman Wyatt Earp and outlaw Doc Holliday form an unlikely alliance which culminates in their participation in the legendary Gunfight at the O.K. Corral.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050839/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/peyton_place"
+    "imdb_url": "https://www.imdb.com/title/tt0050466/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gunfight_at_the_ok_corral"
   },
-    {
-    "title": "Sayonara",
+  {
+    "title": "An Affair to Remember",
     "year": 1957,
     "director": {
-      "name": "Joshua Logan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0517594/"
-    },
-    "production_studio": "Pennebaker Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 147,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 22.3,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "74%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Marlon Brando",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
-      },
-      {
-        "name": "Patricia Owens",
-        "imdb_person_url": "https://www.imdb.com/name/nm0654425/"
-      },
-      {
-        "name": "James Garner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001258/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role",
-      "Best Actress in a Supporting Role",
-      "Best Art Direction-Set Decoration",
-      "Best Sound, Recording"
-    ],
-    "description": "An American Air Force major in Japan falls in love with a Japanese actress.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050933/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sayonara"
-  },
-    {
-    "title": "The Enemy Below",
-    "year": 1957,
-    "director": {
-      "name": "Dick Powell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0694078/"
+      "name": "Leo McCarey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565644/"
     },
     "production_studio": "20th Century Fox",
-    "mpaa_rating": "Approved",
-    "runtime_minutes": 98,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 3.8,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "83%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "86%"
     },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
+    "genres": ["Drama", "Romance"],
     "actors": [
-      {
-        "name": "Robert Mitchum",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
-      },
-      {
-        "name": "Curd Jürgens",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001407/"
-      },
-      {
-        "name": "David Hedison",
-        "imdb_person_url": "https://www.imdb.com/name/nm0373240/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Effects, Special Effects"
-    ],
-    "description": "During World War II, an American destroyer meets a German U-boat. The commanders of each vessel play a deadly game of cat and mouse.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050356/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enemy_below"
-  },
-  {
-    "title": "Old Yeller",
-    "year": 1957,
-    "director": {
-      "name": "Robert Stevenson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0829026/"
-    },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 83,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 21.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Dorothy McGuire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0570220/"
-      },
-      {
-        "name": "Fess Parker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0662281/"
-      },
-      {
-        "name": "Tommy Kirk",
-        "imdb_person_url": "https://www.imdb.com/name/nm0456485/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A boy brings home a stray dog, and the two become inseparable.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050798/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/old_yeller"
-  },
-  {
-    "title": "Pal Joey",
-    "year": 1957,
-    "director": {
-      "name": "George Sidney",
-      "imdb_person_url": "https://www.imdb.com/name/nm0796677/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Approved",
-    "runtime_minutes": 111,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 4.7,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Rita Hayworth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000028/"
-      },
-      {
-        "name": "Frank Sinatra",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000069/"
-      },
-      {
-        "name": "Kim Novak",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001571/"
-      }
+      { "name": "Cary Grant", "imdb_person_url": "https://www.imdb.com/name/nm0000026/" },
+      { "name": "Deborah Kerr", "imdb_person_url": "https://www.imdb.com/name/nm0000039/" },
+      { "name": "Richard Denning", "imdb_person_url": "https://www.imdb.com/name/nm0219340/" }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A womanizing nightclub singer is involved with a wealthy widow and a naive chorus girl.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050815/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pal_joey"
+    "description": "A couple falls in love and agrees to meet in six months at the Empire State Building - but will it happen?",
+    "afi_ranking": 5,
+    "imdb_url": "https://www.imdb.com/title/tt0050105/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/affair_to_remember"
   },
   {
-    "title": "A Hatful of Rain",
+    "title": "Funny Face",
     "year": 1957,
     "director": {
-      "name": "Fred Zinnemann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
+      "name": "Stanley Donen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000374/"
     },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 109,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 4.5,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Drama"
-    ],
+    "genres": ["Comedy", "Musical", "Romance"],
     "actors": [
-      {
-        "name": "Eva Marie Saint",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001693/"
-      },
-      {
-        "name": "Don Murray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0615243/"
-      },
-      {
-        "name": "Anthony Franciosa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0289839/"
-      }
+      { "name": "Audrey Hepburn", "imdb_person_url": "https://www.imdb.com/name/nm0000030/" },
+      { "name": "Fred Astaire", "imdb_person_url": "https://www.imdb.com/name/nm0000001/" },
+      { "name": "Kay Thompson", "imdb_person_url": "https://www.imdb.com/name/nm0860373/" }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Korean War veteran's morphine addiction affects his relationship with his wife and family.",
+    "description": "An impromptu fashion shoot at a book store brings about a new fashion model discovery in the shop clerk.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0050482/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hatful_of_rain"
-  },
-    {
-    "title": "The Three Faces of Eve",
-    "year": 1957,
-    "director": {
-      "name": "Nunnally Johnson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0425763/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 91,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1.1,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Joanne Woodward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0940946/"
-      },
-      {
-        "name": "David Wayne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915632/"
-      },
-      {
-        "name": "Lee J. Cobb",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001053/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "A doctor treats a woman with multiple personality disorder.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0051077/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_faces_of_eve"
-  },
-  {
-    "title": "The Spirit of St. Louis",
-    "year": 1957,
-    "director": {
-      "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 135,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 2.6,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "70%"
-    },
-    "genres": [
-      "Adventure",
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      },
-      {
-        "name": "Murray Hamilton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0358043/"
-      },
-      {
-        "name": "Patricia Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0809540/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of Charles Lindbergh's historic 1927 solo transatlantic flight.",
-    "afi_ranking": 69,
-    "imdb_url": "https://www.imdb.com/title/tt0051010/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spirit_of_st_louis"
+    "imdb_url": "https://www.imdb.com/title/tt0050419/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/funny_face"
   },
   {
     "title": "Jailhouse Rock",
     "year": 1957,
     "director": {
       "name": "Richard Thorpe",
-      "imdb_person_url": "https://www.imdb.com/name/nm0861735/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0861695/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer (MGM)",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 96,
-    "budget_usd_millions": 1.1,
+    "budget_usd_millions": 1,
     "gross_revenue_usd_millions": 4,
     "ratings": {
       "imdb": 6.5,
       "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "77%"
+      "rotten_tomatoes_popcorn": "71%"
     },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Music"
-    ],
+    "genres": ["Drama", "Music", "Musical"],
     "actors": [
-      {
-        "name": "Elvis Presley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000062/"
-      },
-      {
-        "name": "Judy Tyler",
-        "imdb_person_url": "https://www.imdb.com/name/nm0878893/"
-      },
-      {
-        "name": "Mickey Shaughnessy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0789422/"
-      }
+      { "name": "Elvis Presley", "imdb_person_url": "https://www.imdb.com/name/nm0000062/" },
+      { "name": "Judy Tyler", "imdb_person_url": "https://www.imdb.com/name/nm0878864/" },
+      { "name": "Mickey Shaughnessy", "imdb_person_url": "https://www.imdb.com/name/nm0789534/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After serving time for manslaughter, a young man becomes a rock 'n' roll star.",
+    "description": "After serving time for manslaughter, young Vince Everett becomes a teenage rock star.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0050556/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jailhouse_rock"
   },
-    {
-    "title": "Love in the Afternoon",
+  {
+    "title": "The Three Faces of Eve",
     "year": 1957,
     "director": {
-      "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
+      "name": "Nunnally Johnson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0425925/"
     },
-    "production_studio": "Allied Artists",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 2.1,
-    "gross_revenue_usd_millions": 2.25,
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 4.5,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "78%"
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "79%"
     },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Romance"
-    ],
+    "genres": ["Drama", "Mystery"],
     "actors": [
-      {
-        "name": "Gary Cooper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
-      },
-      {
-        "name": "Audrey Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
-      },
-      {
-        "name": "Maurice Chevalier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0156389/"
-      }
+      { "name": "Joanne Woodward", "imdb_person_url": "https://www.imdb.com/name/nm0940946/" },
+      { "name": "David Wayne", "imdb_person_url": "https://www.imdb.com/name/nm0915544/" },
+      { "name": "Lee J. Cobb", "imdb_person_url": "https://www.imdb.com/name/nm0002011/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Actress"],
+    "description": "A doctor treats a woman suffering from Multiple Personality Disorder who has three distinct personalities.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051079/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_faces_of_eve"
+  },
+  {
+    "title": "Sayonara",
+    "year": 1957,
+    "director": {
+      "name": "Joshua Logan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0517603/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 147,
+    "budget_usd_millions": 4,
+    "gross_revenue_usd_millions": 26.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Marlon Brando", "imdb_person_url": "https://www.imdb.com/name/nm0000008/" },
+      { "name": "Miiko Taka", "imdb_person_url": "https://www.imdb.com/name/nm0847234/" },
+      { "name": "Patricia Owens", "imdb_person_url": "https://www.imdb.com/name/nm0654455/" }
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 4,
+    "oscars_won_details": ["Best Actor in a Supporting Role", "Best Actress in a Supporting Role", "Best Art Direction-Set Decoration", "Best Sound"],
+    "description": "A US Air Force Major in Kobe, Japan falls in love with a Japanese dancer, despite the US military's strong opposition to interracial marriages.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050933/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sayonara"
+  },
+  {
+    "title": "Peyton Place",
+    "year": 1957,
+    "director": {
+      "name": "Mark Robson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0733482/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 157,
+    "budget_usd_millions": 3,
+    "gross_revenue_usd_millions": 25.6,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "46%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Lana Turner", "imdb_person_url": "https://www.imdb.com/name/nm0001805/" },
+      { "name": "Lee Philips", "imdb_person_url": "https://www.imdb.com/name/nm0680571/" },
+      { "name": "Lloyd Nolan", "imdb_person_url": "https://www.imdb.com/name/nm0634323/" }
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The darker side of a small New England town is revealed in this film based on the sensational best-seller.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050839/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/peyton_place"
+  },
+  {
+    "title": "Old Yeller",
+    "year": 1957,
+    "director": {
+      "name": "Robert Stevenson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0829012/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 21.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": ["Drama", "Family", "Western"],
+    "actors": [
+      { "name": "Dorothy McGuire", "imdb_person_url": "https://www.imdb.com/name/nm0570219/" },
+      { "name": "Fess Parker", "imdb_person_url": "https://www.imdb.com/name/nm0662241/" },
+      { "name": "Tommy Kirk", "imdb_person_url": "https://www.imdb.com/name/nm0456568/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young cello student in Paris is infatuated with an American playboy.",
+    "description": "A teenage boy grows to love a stray yellow dog while helping his mother and younger brother run their Texas homestead while their father is away driving cattle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050793/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/old_yeller"
+  },
+  {
+    "title": "Night of the Demon",
+    "year": 1957,
+    "director": {
+      "name": "Jacques Tourneur",
+      "imdb_person_url": "https://www.imdb.com/name/nm0869664/"
+    },
+    "production_studio": "Sabre Film Construction",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.35,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": ["Horror"],
+    "actors": [
+      { "name": "Dana Andrews", "imdb_person_url": "https://www.imdb.com/name/nm0000762/" },
+      { "name": "Peggy Cummins", "imdb_person_url": "https://www.imdb.com/name/nm0191944/" },
+      { "name": "Niall MacGinnis", "imdb_person_url": "https://www.imdb.com/name/nm0532268/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "American psychologist John Holden arrives in London for a conference, where he is plunged into a nightmare of witchcraft and murder.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050766/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/curse_of_the_demon"
+  },
+  {
+    "title": "Pyaasa",
+    "year": 1957,
+    "director": {
+      "name": "Guru Dutt",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002053/"
+    },
+    "production_studio": "Guru Dutt Films Pvt. Ltd.",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 146,
+    "budget_usd_millions": 0.1,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 8.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": ["Drama", "Musical", "Romance"],
+    "actors": [
+      { "name": "Guru Dutt", "imdb_person_url": "https://www.imdb.com/name/nm0002053/" },
+      { "name": "Waheeda Rehman", "imdb_person_url": "https://www.imdb.com/name/nm0716858/" },
+      { "name": "Mala Sinha", "imdb_person_url": "https://www.imdb.com/name/nm0802340/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A struggling poet attempts to establish himself in a society that is indifferent to his work, while finding solace with a prostitute.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050870/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pyaasa"
+  },
+  {
+    "title": "Mother India",
+    "year": 1957,
+    "director": {
+      "name": "Mehboob Khan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0451276/"
+    },
+    "production_studio": "Mehboob Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 172,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 8.4,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": ["Drama", "Musical"],
+    "actors": [
+      { "name": "Nargis", "imdb_person_url": "https://www.imdb.com/name/nm0004309/" },
+      { "name": "Sunil Dutt", "imdb_person_url": "https://www.imdb.com/name/nm0244874/" },
+      { "name": "Rajendra Kumar", "imdb_person_url": "https://www.imdb.com/name/nm0474859/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A poverty-stricken woman raises her sons through many trials and tribulations, but no matter the struggles, always sticks to her own moral code.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050719/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mother_india"
+  },
+  {
+    "title": "Kanal",
+    "year": 1957,
+    "director": {
+      "name": "Andrzej Wajda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0906667/"
+    },
+    "production_studio": "Zespól Filmowy \"Kadr\"",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 0.1,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": ["Drama", "War"],
+    "actors": [
+      { "name": "Teresa Izewska", "imdb_person_url": "https://www.imdb.com/name/nm0412775/" },
+      { "name": "Tadeusz Janczar", "imdb_person_url": "https://www.imdb.com/name/nm0417301/" },
+      { "name": "Wienczyslaw Glinski", "imdb_person_url": "https://www.imdb.com/name/nm0322952/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During the 1944 Warsaw Uprising, a company of Home Army resistance soldiers try to escape the Nazis by going through the sewers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050585/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kanal"
+  },
+  {
+    "title": "The Enemy Below",
+    "year": 1957,
+    "director": {
+      "name": "Dick Powell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0694090/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 1.9,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "actors": [
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" },
+      { "name": "Curd Jürgens", "imdb_person_url": "https://www.imdb.com/name/nm0004412/" },
+      { "name": "David Hedison", "imdb_person_url": "https://www.imdb.com/name/nm0373308/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Effects"],
+    "description": "During World War II, an American destroyer meets a German U-Boat, and the two captains engage in a deadly game of cat and mouse.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050356/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enemy_below"
+  },
+  {
+    "title": "White Nights",
+    "year": 1957,
+    "director": {
+      "name": "Luchino Visconti",
+      "imdb_person_url": "https://www.imdb.com/name/nm0899604/"
+    },
+    "production_studio": "Vides Cinematografica",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 101,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": ["Drama", "Romance"],
+    "actors": [
+      { "name": "Maria Schell", "imdb_person_url": "https://www.imdb.com/name/nm0770759/" },
+      { "name": "Marcello Mastroianni", "imdb_person_url": "https://www.imdb.com/name/nm0000052/" },
+      { "name": "Jean Marais", "imdb_person_url": "https://www.imdb.com/name/nm0544786/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lonely man meets a woman who is waiting for her lover, and they develop a deep connection over several nights.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050782/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white_nights_1957"
+  },
+  {
+    "title": "Desk Set",
+    "year": 1957,
+    "director": {
+      "name": "Walter Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0485969/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 2,
+    "gross_revenue_usd_millions": 3,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Spencer Tracy", "imdb_person_url": "https://www.imdb.com/name/nm0000075/" },
+      { "name": "Katharine Hepburn", "imdb_person_url": "https://www.imdb.com/name/nm0000031/" },
+      { "name": "Gig Young", "imdb_person_url": "https://www.imdb.com/name/nm0949569/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two extremely strong personalities clash over the computerization of a television network's research department.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050307/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/desk_set"
+  },
+  {
+    "title": "A King in New York",
+    "year": 1957,
+    "director": {
+      "name": "Charles Chaplin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
+    },
+    "production_studio": "Attica Film Company",
+    "mpaa_rating": "G",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Charles Chaplin", "imdb_person_url": "https://www.imdb.com/name/nm0000122/" },
+      { "name": "Maxine Audley", "imdb_person_url": "https://www.imdb.com/name/nm0041606/" },
+      { "name": "Jerry Desmonde", "imdb_person_url": "https://www.imdb.com/name/nm0221444/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A deposed European monarch seeks refuge in New York City, where he becomes an accidental television celebrity.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050598/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/king_in_new_york"
+  },
+  {
+    "title": "Love in the Afternoon",
+    "year": 1957,
+    "director": {
+      "name": "Billy Wilder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+    },
+    "production_studio": "Allied Artists",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 130,
+    "budget_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 1.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "actors": [
+      { "name": "Gary Cooper", "imdb_person_url": "https://www.imdb.com/name/nm0000011/" },
+      { "name": "Audrey Hepburn", "imdb_person_url": "https://www.imdb.com/name/nm0000030/" },
+      { "name": "Maurice Chevalier", "imdb_person_url": "https://www.imdb.com/name/nm0002001/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A middle-aged playboy becomes fascinated by the daughter of a private detective who has been hired to entrap him.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0050658/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/love_in_the_afternoon"
   },
-    {
+  {
     "title": "Heaven Knows, Mr. Allison",
     "year": 1957,
     "director": {
       "name": "John Huston",
       "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
     },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 108,
-    "budget_usd_millions": null,
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 3,
     "gross_revenue_usd_millions": 4.2,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "79%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "82%"
     },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "War"
-    ],
+    "genres": ["Adventure", "Drama", "War"],
     "actors": [
-      {
-        "name": "Deborah Kerr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000039/"
-      },
-      {
-        "name": "Robert Mitchum",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
-      }
+      { "name": "Deborah Kerr", "imdb_person_url": "https://www.imdb.com/name/nm0000039/" },
+      { "name": "Robert Mitchum", "imdb_person_url": "https://www.imdb.com/name/nm0000053/" }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A U.S. Marine and a nun are stranded on a Pacific island during World War II.",
+    "description": "A marine and a nun form an unlikely friendship when they are stranded on a Pacific island during World War II.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0050490/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heaven_knows_mr_allison"
   },
   {
-    "title": "The Sun Also Rises",
+    "title": "The Tin Star",
     "year": 1957,
     "director": {
-      "name": "Henry King",
-      "imdb_person_url": "https://www.imdb.com/name/nm0454559/"
+      "name": "Anthony Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002975/"
     },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 3,
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 1.7,
     "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "55%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "73%"
     },
-    "genres": [
-      "Drama",
-      "History",
-      "Romance"
-    ],
+    "genres": ["Western"],
     "actors": [
-      {
-        "name": "Tyrone Power",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000061/"
-      },
-      {
-        "name": "Ava Gardner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001257/"
-      },
-      {
-        "name": "Mel Ferrer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001205/"
-      }
+      { "name": "Henry Fonda", "imdb_person_url": "https://www.imdb.com/name/nm0000020/" },
+      { "name": "Anthony Perkins", "imdb_person_url": "https://www.imdb.com/name/nm0000578/" },
+      { "name": "Betsy Palmer", "imdb_person_url": "https://www.imdb.com/name/nm0658134/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An experienced bounty hunter attempts to help a young sheriff who is having trouble performing his duties.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051087/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tin_star"
+  },
+  {
+    "title": "The Curse of Frankenstein",
+    "year": 1957,
+    "director": {
+      "name": "Terence Fisher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0279816/"
+    },
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 82,
+    "budget_usd_millions": 0.08,
+    "gross_revenue_usd_millions": 2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "actors": [
+      { "name": "Peter Cushing", "imdb_person_url": "https://www.imdb.com/name/nm0001088/" },
+      { "name": "Christopher Lee", "imdb_person_url": "https://www.imdb.com/name/nm0000489/" },
+      { "name": "Hazel Court", "imdb_person_url": "https://www.imdb.com/name/nm0183813/" }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A group of American and British expatriates travel from Paris to the festival of San Fermín in Pamplona, Spain, to watch the running of the bulls and the bullfights.",
+    "description": "Victor Frankenstein builds a creature and brings it to life, but his creation behaves like a monster.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0051028/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sun_also_rises"
+    "imdb_url": "https://www.imdb.com/title/tt0050280/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/curse_of_frankenstein"
+  },
+  {
+    "title": "Pal Joey",
+    "year": 1957,
+    "director": {
+      "name": "George Sidney",
+      "imdb_person_url": "https://www.imdb.com/name/nm0796532/"
+    },
+    "production_studio": "Essex-George Sidney Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 4.7,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "68%",
+      "rotten_tomatoes_popcorn": "43%"
+    },
+    "genres": ["Drama", "Music", "Romance"],
+    "actors": [
+      { "name": "Rita Hayworth", "imdb_person_url": "https://www.imdb.com/name/nm0000030/" },
+      { "name": "Frank Sinatra", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Kim Novak", "imdb_person_url": "https://www.imdb.com/name/nm0001571/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A charming, womanizing nightclub singer woos a wealthy widow to finance his own club, but falls for a young chorus girl.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050815/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pal_joey"
+  },
+  {
+    "title": "Silk Stockings",
+    "year": 1957,
+    "director": {
+      "name": "Rouben Mamoulian",
+      "imdb_person_url": "https://www.imdb.com/name/nm0541138/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 4.4,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Comedy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Fred Astaire", "imdb_person_url": "https://www.imdb.com/name/nm0000001/" },
+      { "name": "Cyd Charisse", "imdb_person_url": "https://www.imdb.com/name/nm0001998/" },
+      { "name": "Janis Paige", "imdb_person_url": "https://www.imdb.com/name/nm0656705/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A stern Soviet woman is sent to Paris to retrieve three wayward commissars, but finds herself charmed by the capitalist lifestyle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050972/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/silk_stockings"
+  },
+  {
+    "title": "Les Girls",
+    "year": 1957,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002030/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 3.6,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "42%"
+    },
+    "genres": ["Comedy", "Musical"],
+    "actors": [
+      { "name": "Gene Kelly", "imdb_person_url": "https://www.imdb.com/name/nm0000037/" },
+      { "name": "Mitzi Gaynor", "imdb_person_url": "https://www.imdb.com/name/nm0311057/" },
+      { "name": "Kay Kendall", "imdb_person_url": "https://www.imdb.com/name/nm0447664/" }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Costume Design"],
+    "description": "A memoir by one of three former showgirls leads to a libel suit and conflicting flashbacks about their time with a dance troupe.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050631/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/les_girls"
+  },
+  {
+    "title": "Designing Woman",
+    "year": 1957,
+    "director": {
+      "name": "Vincente Minnelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001541/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 3.75,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "47%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Gregory Peck", "imdb_person_url": "https://www.imdb.com/name/nm0000060/" },
+      { "name": "Lauren Bacall", "imdb_person_url": "https://www.imdb.com/name/nm0000004/" },
+      { "name": "Dolores Gray", "imdb_person_url": "https://www.imdb.com/name/nm0336591/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": ["Best Original Screenplay"],
+    "description": "A sportswriter and a fashion designer marry after a brief romance, only to find their lifestyles clashing comically.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050306/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/designing_woman"
+  },
+  {
+    "title": "Man of a Thousand Faces",
+    "year": 1957,
+    "director": {
+      "name": "Joseph Pevney",
+      "imdb_person_url": "https://www.imdb.com/name/nm0678872/"
+    },
+    "production_studio": "Universal International",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 3,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Biography", "Drama"],
+    "actors": [
+      { "name": "James Cagney", "imdb_person_url": "https://www.imdb.com/name/nm0000009/" },
+      { "name": "Dorothy Malone", "imdb_person_url": "https://www.imdb.com/name/nm0540425/" },
+      { "name": "Jane Greer", "imdb_person_url": "https://www.imdb.com/name/nm0001295/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The life story of Lon Chaney, the famous silent film actor known for his transformative makeup and characterizations.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050680/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_of_a_thousand_faces"
+  },
+  {
+    "title": "The Bachelor Party",
+    "year": 1957,
+    "director": {
+      "name": "Delbert Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0542706/"
+    },
+    "production_studio": "Norma Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 0.95,
+    "gross_revenue_usd_millions": 1.9,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Don Murray", "imdb_person_url": "https://www.imdb.com/name/nm0614912/" },
+      { "name": "E.G. Marshall", "imdb_person_url": "https://www.imdb.com/name/nm0550855/" },
+      { "name": "Jack Warden", "imdb_person_url": "https://www.imdb.com/name/nm0911837/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of bachelor friends throw a party for their soon-to-be-married buddy, leading to a night of revelation and melancholy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050156/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bachelor_party"
+  },
+  {
+    "title": "A Hatful of Rain",
+    "year": 1957,
+    "director": {
+      "name": "Fred Zinnemann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0957037/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Don Murray", "imdb_person_url": "https://www.imdb.com/name/nm0614912/" },
+      { "name": "Eva Marie Saint", "imdb_person_url": "https://www.imdb.com/name/nm0001693/" },
+      { "name": "Anthony Franciosa", "imdb_person_url": "https://www.imdb.com/name/nm0002082/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Korean War veteran struggles with a secret morphine addiction that threatens to destroy his family life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050487/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hatful_of_rain"
+  },
+  {
+    "title": "The Spirit of St. Louis",
+    "year": 1957,
+    "director": {
+      "name": "Billy Wilder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 6,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Adventure", "Biography", "Drama"],
+    "actors": [
+      { "name": "James Stewart", "imdb_person_url": "https://www.imdb.com/name/nm0000071/" },
+      { "name": "Murray Hamilton", "imdb_person_url": "https://www.imdb.com/name/nm0358069/" },
+      { "name": "Patricia Smith", "imdb_person_url": "https://www.imdb.com/name/nm0809539/" }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Charles Lindbergh struggles to finance and design an airplane that will fly from New York to Paris.",
+    "afi_ranking": 69,
+    "imdb_url": "https://www.imdb.com/title/tt0051003/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spirit_of_st_louis"
+  },
+  {
+    "title": "Forty Guns",
+    "year": 1957,
+    "director": {
+      "name": "Samuel Fuller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002087/"
+    },
+    "production_studio": "Globe Enterprises",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": ["Western"],
+    "actors": [
+      { "name": "Barbara Stanwyck", "imdb_person_url": "https://www.imdb.com/name/nm0001766/" },
+      { "name": "Barry Sullivan", "imdb_person_url": "https://www.imdb.com/name/nm0837984/" },
+      { "name": "Dean Jagger", "imdb_person_url": "https://www.imdb.com/name/nm0415594/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A powerful woman who controls a small Arizona town with her gang of forty hired guns meets a U.S. Marshal who has come to arrest one of her men.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050407/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/forty_guns"
+  },
+  {
+    "title": "The Prince and the Showgirl",
+    "year": 1957,
+    "director": {
+      "name": "Laurence Olivier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
+    },
+    "production_studio": "Marilyn Monroe Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "43%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Marilyn Monroe", "imdb_person_url": "https://www.imdb.com/name/nm0000054/" },
+      { "name": "Laurence Olivier", "imdb_person_url": "https://www.imdb.com/name/nm0000059/" },
+      { "name": "Richard Wattis", "imdb_person_url": "https://www.imdb.com/name/nm0915103/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American showgirl becomes entangled in political intrigue when the Prince Regent of a foreign country attempts to seduce her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050861/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/prince_and_the_showgirl"
+  },
+  {
+    "title": "Raintree County",
+    "year": 1957,
+    "director": {
+      "name": "Edward Dmytryk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0229425/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 160,
+    "budget_usd_millions": 5.5,
+    "gross_revenue_usd_millions": 6,
+    "ratings": {
+      "imdb": 6.0,
+      "rotten_tomatoes_critic": "11%",
+      "rotten_tomatoes_popcorn": "39%"
+    },
+    "genres": ["Drama", "History", "Romance"],
+    "actors": [
+      { "name": "Montgomery Clift", "imdb_person_url": "https://www.imdb.com/name/nm0001050/" },
+      { "name": "Elizabeth Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0000072/" },
+      { "name": "Eva Marie Saint", "imdb_person_url": "https://www.imdb.com/name/nm0001693/" }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A teacher in 1859 Indiana falls in love with a beautiful Southern belle, but the Civil War disrupts their lives.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050882/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/raintree_county"
+  },
+  {
+    "title": "20 Million Miles to Earth",
+    "year": 1957,
+    "director": {
+      "name": "Nathan Juran",
+      "imdb_person_url": "https://www.imdb.com/name/nm0432796/"
+    },
+    "production_studio": "Morningside Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 82,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": ["Horror", "Sci-Fi"],
+    "actors": [
+      { "name": "William Hopper", "imdb_person_url": "https://www.imdb.com/name/nm0394444/" },
+      { "name": "Joan Taylor", "imdb_person_url": "https://www.imdb.com/name/nm0852595/" },
+      { "name": "Frank Puglia", "imdb_person_url": "https://www.imdb.com/name/nm0700115/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The first spaceship to Venus crashes in the Mediterranean, releasing a monster that grows rapidly and threatens Rome.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050084/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/20_million_miles_to_earth"
+  },
+  {
+    "title": "Will Success Spoil Rock Hunter?",
+    "year": 1957,
+    "director": {
+      "name": "Frank Tashlin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0850895/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": ["Comedy", "Romance"],
+    "actors": [
+      { "name": "Tony Randall", "imdb_person_url": "https://www.imdb.com/name/nm0709694/" },
+      { "name": "Jayne Mansfield", "imdb_person_url": "https://www.imdb.com/name/nm0542471/" },
+      { "name": "Betsy Drake", "imdb_person_url": "https://www.imdb.com/name/nm0236861/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mild-mannered advertising writer tries to get a famous movie star to endorse a lipstick campaign.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051193/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/will_success_spoil_rock_hunter"
+  },
+  {
+    "title": "Fear Strikes Out",
+    "year": 1957,
+    "director": {
+      "name": "Robert Mulligan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0612246/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": ["Biography", "Drama", "Sport"],
+    "actors": [
+      { "name": "Anthony Perkins", "imdb_person_url": "https://www.imdb.com/name/nm0000578/" },
+      { "name": "Karl Malden", "imdb_person_url": "https://www.imdb.com/name/nm0001500/" },
+      { "name": "Norma Moore", "imdb_person_url": "https://www.imdb.com/name/nm0601650/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The true story of baseball player Jimmy Piersall, who battles mental illness and the pressure of his father's expectations.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050385/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fear_strikes_out"
+  },
+  {
+    "title": "The Tall T",
+    "year": 1957,
+    "director": {
+      "name": "Budd Boetticher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0091329/"
+    },
+    "production_studio": "Scott-Brown Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": ["Western"],
+    "actors": [
+      { "name": "Randolph Scott", "imdb_person_url": "https://www.imdb.com/name/nm0000218/" },
+      { "name": "Richard Boone", "imdb_person_url": "https://www.imdb.com/name/nm0095527/" },
+      { "name": "Maureen O'Sullivan", "imdb_person_url": "https://www.imdb.com/name/nm0642803/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A rancher and a pair of newlyweds are held hostage by three outlaws at a lonely stagecoach station.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051047/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tall_t"
+  },
+  {
+    "title": "Quatermass 2",
+    "year": 1957,
+    "director": {
+      "name": "Val Guest",
+      "imdb_person_url": "https://www.imdb.com/name/nm0346435/"
+    },
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.25,
+    "gross_revenue_usd_millions": 1,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
+    "actors": [
+      { "name": "Brian Donlevy", "imdb_person_url": "https://www.imdb.com/name/nm0232576/" },
+      { "name": "John Longden", "imdb_person_url": "https://www.imdb.com/name/nm0519285/" },
+      { "name": "Sidney James", "imdb_person_url": "https://www.imdb.com/name/nm0416913/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Professor Quatermass discovers a secret British government facility that is actually a colony for alien invaders.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050873/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quatermass_2"
+  },
+  {
+    "title": "The Abominable Snowman",
+    "year": 1957,
+    "director": {
+      "name": "Val Guest",
+      "imdb_person_url": "https://www.imdb.com/name/nm0346435/"
+    },
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 0.15,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "42%"
+    },
+    "genres": ["Adventure", "Horror", "Sci-Fi"],
+    "actors": [
+      { "name": "Forrest Tucker", "imdb_person_url": "https://www.imdb.com/name/nm0875848/" },
+      { "name": "Peter Cushing", "imdb_person_url": "https://www.imdb.com/name/nm0001088/" },
+      { "name": "Maureen Connell", "imdb_person_url": "https://www.imdb.com/name/nm0174992/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A British scientist joins an American expedition in the Himalayas to search for the legendary Yeti.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050090/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/abominable_snowman"
+  },
+  {
+    "title": "The Lower Depths",
+    "year": 1957,
+    "director": {
+      "name": "Akira Kurosawa",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000041/"
+    },
+    "production_studio": "Toho Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": ["Drama"],
+    "actors": [
+      { "name": "Toshirô Mifune", "imdb_person_url": "https://www.imdb.com/name/nm0001536/" },
+      { "name": "Isuzu Yamada", "imdb_person_url": "https://www.imdb.com/name/nm0945196/" },
+      { "name": "Ganjirô Nakamura", "imdb_person_url": "https://www.imdb.com/name/nm0620213/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a run-down tenement in Edo-period Japan, a group of impoverished outcasts struggle to survive and find hope.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050328/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lower_depths"
+  },
+  {
+    "title": "Abandon Ship",
+    "year": 1957,
+    "director": {
+      "name": "Richard Sale",
+      "imdb_person_url": "https://www.imdb.com/name/nm0757960/"
+    },
+    "production_studio": "Copa Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": ["Adventure", "Drama"],
+    "actors": [
+      { "name": "Tyrone Power", "imdb_person_url": "https://www.imdb.com/name/nm0001634/" },
+      { "name": "Mai Zetterling", "imdb_person_url": "https://www.imdb.com/name/nm0955168/" },
+      { "name": "Lloyd Nolan", "imdb_person_url": "https://www.imdb.com/name/nm0634323/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a luxury liner sinks, the officer in charge of an overloaded lifeboat must make agonizing decisions about who stays and who is cast adrift.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050963/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/abandon_ship"
+  },
+  {
+    "title": "Hell Drivers",
+    "year": 1957,
+    "director": {
+      "name": "Cy Endfield",
+      "imdb_person_url": "https://www.imdb.com/name/nm0256832/"
+    },
+    "production_studio": "Aqua Film Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "actors": [
+      { "name": "Stanley Baker", "imdb_person_url": "https://www.imdb.com/name/nm0048940/" },
+      { "name": "Herbert Lom", "imdb_person_url": "https://www.imdb.com/name/nm0001478/" },
+      { "name": "Peggy Cummins", "imdb_person_url": "https://www.imdb.com/name/nm0191944/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ex-con takes a job driving a ballast truck, but finds the company demands reckless speed and competition among drivers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050499/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hell_drivers"
+  },
+  {
+    "title": "Decision at Sundown",
+    "year": 1957,
+    "director": {
+      "name": "Budd Boetticher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0091329/"
+    },
+    "production_studio": "Scott-Brown Productions",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 77,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "45%"
+    },
+    "genres": ["Western"],
+    "actors": [
+      { "name": "Randolph Scott", "imdb_person_url": "https://www.imdb.com/name/nm0000218/" },
+      { "name": "John Carroll", "imdb_person_url": "https://www.imdb.com/name/nm0140870/" },
+      { "name": "Karen Steele", "imdb_person_url": "https://www.imdb.com/name/nm0824604/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A vengeful gunman arrives in the town of Sundown to kill the man he believes seduced his wife years ago.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050298/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/decision_at_sundown"
+  },
+  {
+    "title": "The Pajama Game",
+    "year": 1957,
+    "director": {
+      "name": "George Abbott & Stanley Donen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000718/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 0.75,
+    "gross_revenue_usd_millions": 3.8,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": ["Comedy", "Musical", "Romance"],
+    "actors": [
+      { "name": "Doris Day", "imdb_person_url": "https://www.imdb.com/name/nm0000017/" },
+      { "name": "John Raitt", "imdb_person_url": "https://www.imdb.com/name/nm0707250/" },
+      { "name": "Carol Haney", "imdb_person_url": "https://www.imdb.com/name/nm0359728/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An employee representative at a pajama factory falls in love with a superintendent, complicating labor negotiations.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050814/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pajama_game"
+  },
+  {
+    "title": "Zero Hour!",
+    "year": 1957,
+    "director": {
+      "name": "Hall Bartlett",
+      "imdb_person_url": "https://www.imdb.com/name/nm0058817/"
+    },
+    "production_studio": "Carmel Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 1,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": ["Drama", "Thriller"],
+    "actors": [
+      { "name": "Dana Andrews", "imdb_person_url": "https://www.imdb.com/name/nm0000762/" },
+      { "name": "Linda Darnell", "imdb_person_url": "https://www.imdb.com/name/nm0001105/" },
+      { "name": "Sterling Hayden", "imdb_person_url": "https://www.imdb.com/name/nm0001330/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When the pilots of an airliner succumb to food poisoning, a former WWII pilot with PTSD must take the controls to save the passengers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0051221/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zero_hour"
+  },
+  {
+    "title": "Baby Face Nelson",
+    "year": 1957,
+    "director": {
+      "name": "Don Siegel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0797095/"
+    },
+    "production_studio": "Fryman Enterprises",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 1,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "39%"
+    },
+    "genres": ["Biography", "Crime", "Drama"],
+    "actors": [
+      { "name": "Mickey Rooney", "imdb_person_url": "https://www.imdb.com/name/nm0001682/" },
+      { "name": "Carolyn Jones", "imdb_person_url": "https://www.imdb.com/name/nm0001406/" },
+      { "name": "Cedric Hardwicke", "imdb_person_url": "https://www.imdb.com/name/nm0002126/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dramatization of the life of Lester M. Gillis, known as Baby Face Nelson, who became one of the most notorious gangsters of the 1930s.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050155/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/baby_face_nelson"
+  },
+  {
+    "title": "The Rising of the Moon",
+    "year": 1957,
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
+    "production_studio": "Four Provinces Films",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 0.9,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": ["Comedy", "Drama"],
+    "actors": [
+      { "name": "Tyrone Power", "imdb_person_url": "https://www.imdb.com/name/nm0001634/" },
+      { "name": "Cyril Cusack", "imdb_person_url": "https://www.imdb.com/name/nm0193637/" },
+      { "name": "Noel Purcell", "imdb_person_url": "https://www.imdb.com/name/nm0700769/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three short stories about Irish life: a man stands up to the police, a train journey goes awry, and a prisoner attempts an escape.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050906/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rising_of_the_moon"
+  },
+  {
+    "title": "Edge of the City",
+    "year": 1957,
+    "director": {
+      "name": "Martin Ritt",
+      "imdb_person_url": "https://www.imdb.com/name/nm0728656/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": ["Crime", "Drama", "Film-Noir"],
+    "actors": [
+      { "name": "John Cassavetes", "imdb_person_url": "https://www.imdb.com/name/nm0001023/" },
+      { "name": "Sidney Poitier", "imdb_person_url": "https://www.imdb.com/name/nm0001627/" },
+      { "name": "Jack Warden", "imdb_person_url": "https://www.imdb.com/name/nm0911837/" }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A drifter gets a job on the New York waterfront and befriends a black dockworker, but they run afoul of a corrupt union boss.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0050347/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/edge_of_the_city"
   }
 ]
