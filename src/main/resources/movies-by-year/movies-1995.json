@@ -6,20 +6,21 @@
       "name": "Mel Gibson",
       "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
     },
-    "production_studio": "Paramount Pictures, 20th Century Fox, Icon Productions",
+    "production_studio": "Icon Entertainment International",
     "mpaa_rating": "R",
     "runtime_minutes": 178,
-    "budget_usd_millions": 72,
+    "budget_usd_millions": 72.0,
     "gross_revenue_usd_millions": 213.2,
     "ratings": {
-      "imdb": 8.4,
+      "imdb": 8.3,
       "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Biography",
       "Drama",
-      "History"
+      "History",
+      "War"
     ],
     "actors": [
       {
@@ -41,11 +42,11 @@
       "Best Picture",
       "Best Director",
       "Best Cinematography",
-      "Best Sound Effects Editing",
+      "Best Effects, Sound Effects Editing",
       "Best Makeup"
     ],
     "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
-    "afi_ranking": null,
+    "afi_ranking": 91,
     "imdb_url": "https://www.imdb.com/title/tt0112573/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/braveheart"
   },
@@ -56,11 +57,11 @@
       "name": "John Lasseter",
       "imdb_person_url": "https://www.imdb.com/name/nm0005124/"
     },
-    "production_studio": "Pixar Animation Studios, Walt Disney Pictures",
+    "production_studio": "Pixar Animation Studios",
     "mpaa_rating": "G",
     "runtime_minutes": 81,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 394.4,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 373.6,
     "ratings": {
       "imdb": 8.3,
       "rotten_tomatoes_critic": "100%",
@@ -69,7 +70,9 @@
     "genres": [
       "Animation",
       "Adventure",
-      "Comedy"
+      "Comedy",
+      "Family",
+      "Fantasy"
     ],
     "actors": [
       {
@@ -82,13 +85,13 @@
       },
       {
         "name": "Don Rickles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001670/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0725543/"
       }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 3,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Special Achievement Award"
+      "Special Achievement Award (John Lasseter)"
     ],
     "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
     "afi_ranking": 99,
@@ -96,7 +99,7 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/toy_story"
   },
   {
-    "title": "Seven",
+    "title": "Se7en",
     "year": 1995,
     "director": {
       "name": "David Fincher",
@@ -105,7 +108,7 @@
     "production_studio": "New Line Cinema",
     "mpaa_rating": "R",
     "runtime_minutes": 127,
-    "budget_usd_millions": 33,
+    "budget_usd_millions": 33.0,
     "gross_revenue_usd_millions": 327.3,
     "ratings": {
       "imdb": 8.6,
@@ -115,20 +118,21 @@
     "genres": [
       "Crime",
       "Drama",
-      "Mystery"
+      "Mystery",
+      "Thriller"
     ],
     "actors": [
-      {
-        "name": "Brad Pitt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
-      },
       {
         "name": "Morgan Freeman",
         "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
       },
       {
-        "name": "Gwyneth Paltrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000569/"
+        "name": "Brad Pitt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000093/"
+      },
+      {
+        "name": "Kevin Spacey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000228/"
       }
     ],
     "oscars_nominated": 1,
@@ -146,20 +150,21 @@
       "name": "Bryan Singer",
       "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
     },
-    "production_studio": "PolyGram Filmed Entertainment, Spelling Films International",
+    "production_studio": "PolyGram Filmed Entertainment",
     "mpaa_rating": "R",
     "runtime_minutes": 106,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 34.4,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 23.3,
     "ratings": {
       "imdb": 8.5,
-      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_critic": "88%",
       "rotten_tomatoes_popcorn": "96%"
     },
     "genres": [
       "Crime",
       "Drama",
-      "Mystery"
+      "Mystery",
+      "Thriller"
     ],
     "actors": [
       {
@@ -172,7 +177,7 @@
       },
       {
         "name": "Chazz Palminteri",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0658738/"
       }
     ],
     "oscars_nominated": 2,
@@ -181,10 +186,10 @@
       "Best Actor in a Supporting Role",
       "Best Writing, Screenplay Written Directly for the Screen"
     ],
-    "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met in a seemingly random police lineup.",
+    "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0114814/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_usual_suspects"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/usual_suspects"
   },
   {
     "title": "Heat",
@@ -193,10 +198,10 @@
       "name": "Michael Mann",
       "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
     },
-    "production_studio": "Warner Bros., Regency Enterprises",
+    "production_studio": "Regency Enterprises",
     "mpaa_rating": "R",
     "runtime_minutes": 170,
-    "budget_usd_millions": 60,
+    "budget_usd_millions": 60.0,
     "gross_revenue_usd_millions": 187.4,
     "ratings": {
       "imdb": 8.3,
@@ -206,7 +211,8 @@
     "genres": [
       "Action",
       "Crime",
-      "Drama"
+      "Drama",
+      "Thriller"
     ],
     "actors": [
       {
@@ -225,57 +231,10 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.",
+    "description": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0113277/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heat"
-  },
-  {
-    "title": "Apollo 13",
-    "year": 1995,
-    "director": {
-      "name": "Ron Howard",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
-    },
-    "production_studio": "Universal Pictures, Imagine Entertainment",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 140,
-    "budget_usd_millions": 52,
-    "gross_revenue_usd_millions": 355.2,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Tom Hanks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
-      },
-      {
-        "name": "Bill Paxton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000200/"
-      },
-      {
-        "name": "Kevin Bacon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000102/"
-      }
-    ],
-    "oscars_nominated": 9,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Sound",
-      "Best Film Editing"
-    ],
-    "description": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
-    "afi_ranking": 12,
-    "imdb_url": "https://www.imdb.com/title/tt0112384/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/apollo_13"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1068182-heat"
   },
   {
     "title": "Casino",
@@ -284,10 +243,10 @@
       "name": "Martin Scorsese",
       "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
     },
-    "production_studio": "Universal Pictures, Syalis D.A., De Fina-Cappa",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 178,
-    "budget_usd_millions": 52,
+    "budget_usd_millions": 52.0,
     "gross_revenue_usd_millions": 116.1,
     "ratings": {
       "imdb": 8.2,
@@ -315,63 +274,66 @@
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.",
+    "description": "A tale of greed, deception, money, power, and murder that occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0112641/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/casino"
   },
   {
-    "title": "Die Hard with a Vengeance",
+    "title": "Apollo 13",
     "year": 1995,
     "director": {
-      "name": "John McTiernan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001532/"
+      "name": "Ron Howard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
     },
-    "production_studio": "20th Century Fox, Cinergi Pictures Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 90,
-    "gross_revenue_usd_millions": 366.1,
+    "production_studio": "Imagine Entertainment",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 52.0,
+    "gross_revenue_usd_millions": 355.2,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "59%",
-      "rotten_tomatoes_popcorn": "83%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
-      "Action",
       "Adventure",
-      "Thriller"
+      "Drama",
+      "History"
     ],
     "actors": [
       {
-        "name": "Bruce Willis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
+        "name": "Tom Hanks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000158/"
       },
       {
-        "name": "Samuel L. Jackson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000168/"
+        "name": "Bill Paxton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000574/"
       },
       {
-        "name": "Jeremy Irons",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000460/"
+        "name": "Kevin Bacon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000102/"
       }
     ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "John McClane and a Harlem haberdasher are targeted by a German terrorist who is playing a sadistic game of 'Simon Says' with them.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0112864/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/die_hard_with_a_vengeance"
+    "oscars_nominated": 9,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Sound",
+      "Best Film Editing"
+    ],
+    "description": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+    "afi_ranking": 12,
+    "imdb_url": "https://www.imdb.com/title/tt0112384/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/apollo_13"
   },
   {
-    "title": "12 Monkeys",
+    "title": "Twelve Monkeys",
     "year": 1995,
     "director": {
       "name": "Terry Gilliam",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000416/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001272/"
     },
-    "production_studio": "Universal Pictures, Atlas Entertainment",
+    "production_studio": "Atlas Entertainment",
     "mpaa_rating": "R",
     "runtime_minutes": 129,
     "budget_usd_millions": 29.5,
@@ -409,64 +371,200 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/12_monkeys"
   },
   {
-    "title": "Clueless",
+    "title": "Before Sunrise",
     "year": 1995,
     "director": {
-      "name": "Amy Heckerling",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002132/"
+      "name": "Richard Linklater",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
     },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 56.6,
+    "production_studio": "Castle Rock Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 5.5,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
-      "Comedy",
+      "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Alicia Silverstone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000224/"
+        "name": "Ethan Hawke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000160/"
       },
       {
-        "name": "Stacey Dash",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001091/"
+        "name": "Julie Delpy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000365/"
       },
       {
-        "name": "Brittany Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005261/"
+        "name": "Andrea Eckert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0248485/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other.",
+    "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0112697/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/clueless"
+    "imdb_url": "https://www.imdb.com/title/tt0112471/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/before_sunrise"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "year": 1995,
+    "director": {
+      "name": "Ang Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 136,
+    "budget_usd_millions": 16.0,
+    "gross_revenue_usd_millions": 135.0,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Emma Thompson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
+      },
+      {
+        "name": "Kate Winslet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000701/"
+      },
+      {
+        "name": "Hugh Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000157/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Screenplay Based on Material Previously Produced or Published"
+    ],
+    "description": "Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the titular opposites.",
+    "afi_ranking": 70,
+    "imdb_url": "https://www.imdb.com/title/tt0114388/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1068832-sense_and_sensibility"
+  },
+  {
+    "title": "Babe",
+    "year": 1995,
+    "director": {
+      "name": "Chris Noonan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0634674/"
+    },
+    "production_studio": "Kennedy Miller Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 254.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "James Cromwell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000342/"
+      },
+      {
+        "name": "Magda Szubanski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0844321/"
+      },
+      {
+        "name": "Christine Cavanaugh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004815/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Visual Effects"
+    ],
+    "description": "Babe, a pig raised by sheepdogs, learns to herd sheep with a little help from Farmer Hoggett.",
+    "afi_ranking": 80,
+    "imdb_url": "https://www.imdb.com/title/tt0112431/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1066066-babe"
+  },
+  {
+    "title": "Dead Man Walking",
+    "year": 1995,
+    "director": {
+      "name": "Tim Robbins",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000218/"
+    },
+    "production_studio": "Working Title Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 83.0,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Susan Sarandon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
+      },
+      {
+        "name": "Sean Penn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
+      },
+      {
+        "name": "Robert Prosky",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Leading Role"
+    ],
+    "description": "A nun, while comforting a convicted killer on death row, empathizes with both the killer and his victim's families.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112818/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_man_walking"
   },
   {
     "title": "Leaving Las Vegas",
     "year": 1995,
     "director": {
       "name": "Mike Figgis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001212/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0002073/"
     },
-    "production_studio": "United Artists, Lumière Pictures",
+    "production_studio": "Lumière Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 111,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 49.8,
+    "budget_usd_millions": 3.6,
+    "gross_revenue_usd_millions": 32.0,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Drama",
@@ -491,201 +589,23 @@
     "oscars_won_details": [
       "Best Actor in a Leading Role"
     ],
-    "description": "Ben Sanderson, a Hollywood screenwriter who lost everything because of his alcoholism, arrives in Las Vegas to drink himself to death. There, he forms a unique relationship with a prostitute.",
+    "description": "Ben Sanderson, a Hollywood screenwriter who lost everything because of his alcoholism, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0113627/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/leaving_las_vegas"
-  },
-  {
-    "title": "Sense and Sensibility",
-    "year": 1995,
-    "director": {
-      "name": "Ang Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
-    },
-    "production_studio": "Columbia Pictures, Mirage Enterprises",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 136,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 135,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Emma Thompson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
-      },
-      {
-        "name": "Kate Winslet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000701/"
-      },
-      {
-        "name": "Hugh Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000424/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Screenplay Based on Material Previously Produced or Published"
-    ],
-    "description": "Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the titular opposites.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0114388/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sense_and_sensibility"
-  },
-  {
-    "title": "Babe",
-    "year": 1995,
-    "director": {
-      "name": "Chris Noonan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0634533/"
-    },
-    "production_studio": "Universal Pictures, Kennedy Miller Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 254.1,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "James Cromwell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000342/"
-      },
-      {
-        "name": "Magda Szubanski",
-        "imdb_person_url": "https://www.imdb.com/name/nm0843888/"
-      },
-      {
-        "name": "Christine Cavanaugh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001031/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Effects, Visual Effects"
-    ],
-    "description": "Babe, a pig raised by sheepdogs, learns to herd sheep with a little help from Farmer Hoggett.",
-    "afi_ranking": 83,
-    "imdb_url": "https://www.imdb.com/title/tt0112431/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/babe"
-  },
-  {
-    "title": "Bad Boys",
-    "year": 1995,
-    "director": {
-      "name": "Michael Bay",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000881/"
-    },
-    "production_studio": "Columbia Pictures, Don Simpson/Jerry Bruckheimer Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 141.4,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "44%",
-      "rotten_tomatoes_popcorn": "78%"
-    },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Martin Lawrence",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001454/"
-      },
-      {
-        "name": "Will Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
-      },
-      {
-        "name": "Téa Leoni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000495/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two hip detectives protect a murder witness while investigating a case of stolen heroin.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0112442/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_boys"
-  },
-  {
-    "title": "Before Sunrise",
-    "year": 1995,
-    "director": {
-      "name": "Richard Linklater",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
-    },
-    "production_studio": "Castle Rock Entertainment, Detour Filmproduction",
-    "mpaa_rating": "R",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 22.5,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Ethan Hawke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000160/"
-      },
-      {
-        "name": "Julie Delpy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000365/"
-      },
-      {
-        "name": "Andrea Eckert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0248695/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0112471/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/before_sunrise"
   },
   {
     "title": "La Haine",
     "year": 1995,
     "director": {
       "name": "Mathieu Kassovitz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001410/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0440913/"
     },
-    "production_studio": "Les Productions Lazennec, StudioCanal",
+    "production_studio": "Canal+",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 98,
-    "budget_usd_millions": 2.6,
-    "gross_revenue_usd_millions": 0.3,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 15.3,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "100%",
@@ -702,17 +622,17 @@
       },
       {
         "name": "Hubert Koundé",
-        "imdb_person_url": "https://www.imdb.com/name/nm0468160/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0467771/"
       },
       {
         "name": "Saïd Taghmaoui",
-        "imdb_person_url": "https://www.imdb.com/name/nm0846549/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0846687/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A look at 24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+    "description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0113247/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_haine"
@@ -724,130 +644,582 @@
       "name": "Mamoru Oshii",
       "imdb_person_url": "https://www.imdb.com/name/nm0651900/"
     },
-    "production_studio": "Production I.G, Bandai Visual, Kodansha",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Production I.G",
+    "mpaa_rating": "TV-MA",
     "runtime_minutes": 83,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 10,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 10.0,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "94%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Animation",
       "Action",
-      "Crime"
+      "Crime",
+      "Sci-Fi"
     ],
     "actors": [
       {
         "name": "Atsuko Tanaka",
-        "imdb_person_url": "https://www.imdb.com/name/nm0849033/"
-      },
-      {
-        "name": "Akio Ôtsuka",
-        "imdb_person_url": "https://www.imdb.com/name/nm0652932/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0848970/"
       },
       {
         "name": "Iemasa Kayumi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0443494/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0443491/"
+      },
+      {
+        "name": "Akio Ôtsuka",
+        "imdb_person_url": "https://www.imdb.com/name/nm0646195/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker known as the Puppet Master.",
+    "description": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0113568/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ghost_in_the_shell"
   },
   {
-    "title": "Welcome to the Dollhouse",
+    "title": "Die Hard with a Vengeance",
     "year": 1995,
     "director": {
-      "name": "Todd Solondz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001754/"
+      "name": "John McTiernan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001531/"
     },
-    "production_studio": "Suburban Pictures",
+    "production_studio": "Cinergi Pictures Entertainment",
     "mpaa_rating": "R",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": 4.5,
+    "runtime_minutes": 128,
+    "budget_usd_millions": 90.0,
+    "gross_revenue_usd_millions": 366.1,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "59%",
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
-      "Comedy",
-      "Drama"
+      "Action",
+      "Adventure",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Heather Matarazzo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001512/"
+        "name": "Bruce Willis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000246/"
       },
       {
-        "name": "Eric Mabius",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005168/"
+        "name": "Jeremy Irons",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000460/"
       },
       {
-        "name": "Mark parenteral",
-        "imdb_person_url": null
+        "name": "Samuel L. Jackson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000168/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An unattractive 7th grader struggles to survive the pubescent wilderness of junior high.",
+    "description": "John McClane and a Harlem store owner are targeted by German terrorist Simon in New York City, where he plans to rob the Federal Reserve Building.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0114906/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/welcome_to_the_dollhouse"
+    "imdb_url": "https://www.imdb.com/title/tt0112864/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/die_hard_with_a_vengeance"
   },
   {
-    "title": "Dead Man Walking",
+    "title": "Il Postino: The Postman",
     "year": 1995,
     "director": {
-      "name": "Tim Robbins",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000209/"
+      "name": "Michael Radford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0006936/"
     },
-    "production_studio": "PolyGram Filmed Entertainment, Working Title Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 83.1,
+    "production_studio": "Cecchi Gori Group Tiger Cinematografica",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 21.8,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "89%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
-      "Crime",
-      "Drama"
+      "Biography",
+      "Comedy",
+      "Drama",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Susan Sarandon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
+        "name": "Massimo Troisi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0873369/"
       },
       {
-        "name": "Sean Penn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
+        "name": "Philippe Noiret",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001569/"
       },
       {
-        "name": "Robert Prosky",
-        "imdb_person_url": "https://www.imdb.com/name/nm0698948/"
+        "name": "Maria Grazia Cucinotta",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
       }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 5,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Actress in a Leading Role"
+      "Best Music, Original Dramatic Score"
     ],
-    "description": "A nun, while comforting a convicted killer on death row, empathizes with both the killer and his victims' families.",
+    "description": "A simple Italian postman learns to love poetry while delivering mail to a famous poet, and then uses this to woo local beauty Beatrice.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0112818/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_man_walking"
+    "imdb_url": "https://www.imdb.com/title/tt0114165/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/il_postino"
+  },
+  {
+    "title": "GoldenEye",
+    "year": 1995,
+    "director": {
+      "name": "Martin Campbell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0132709/"
+    },
+    "production_studio": "Eon Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 130,
+    "budget_usd_millions": 58.0,
+    "gross_revenue_usd_millions": 352.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Pierce Brosnan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000112/"
+      },
+      {
+        "name": "Sean Bean",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000293/"
+      },
+      {
+        "name": "Izabella Scorupco",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001713/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Years after a friend and fellow 00 agent is killed on a joint mission, a secret space based weapons program known as \"GoldenEye\" is stolen. James Bond sets out to stop a Russian crime syndicate from using the weapon.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0113189/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/goldeneye"
+  },
+  {
+    "title": "Mighty Aphrodite",
+    "year": 1995,
+    "director": {
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+    },
+    "production_studio": "Sweetland Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 26.0,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Woody Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+      },
+      {
+        "name": "Mira Sorvino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000227/"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000307/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Supporting Role"
+    ],
+    "description": "When he discovers his adopted son is a genius, a New York sportswriter seeks out the boy's birth mother: a prostitute with a heart of gold.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0113819/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mighty_aphrodite"
+  },
+  {
+    "title": "Pocahontas",
+    "year": 1995,
+    "director": {
+      "name": "Mike Gabriel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0300257/"
+    },
+    "production_studio": "Walt Disney Animation Studios",
+    "mpaa_rating": "G",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 55.0,
+    "gross_revenue_usd_millions": 346.1,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "54%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama",
+      "Family",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Mel Gibson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
+      },
+      {
+        "name": "Irene Bedard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0065949/"
+      },
+      {
+        "name": "Christian Bale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Music, Original Musical or Comedy Score",
+      "Best Music, Original Song"
+    ],
+    "description": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth century Virginia.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114148/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1063853-pocahontas"
+  },
+  {
+    "title": "Desperado",
+    "year": 1995,
+    "director": {
+      "name": "Robert Rodriguez",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 25.4,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Antonio Banderas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000104/"
+      },
+      {
+        "name": "Salma Hayek",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000161/"
+      },
+      {
+        "name": "Joaquim de Almeida",
+        "imdb_person_url": "https://www.imdb.com/name/nm0020556/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A gunslinger is embroiled in a war with a local drug runner.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112851/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/desperado"
+  },
+  {
+    "title": "Restoration",
+    "year": 1995,
+    "director": {
+      "name": "Michael Hoffman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0388981/"
+    },
+    "production_studio": "Miramax",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 4.1,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Robert Downey Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000375/"
+      },
+      {
+        "name": "Sam Neill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000554/"
+      },
+      {
+        "name": "David Thewlis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000667/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design"
+    ],
+    "description": "The exiled royal physician to King Charles II is devoted to helping Londoners suffering from the plague, and in the process falls in love with a poor woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114272/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1068834-restoration"
+  },
+  {
+    "title": "Mr. Holland's Opus",
+    "year": 1995,
+    "director": {
+      "name": "Stephen Herek",
+      "imdb_person_url": "https://www.imdb.com/name/nm0378945/"
+    },
+    "production_studio": "Hollywood Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 143,
+    "budget_usd_millions": 31.0,
+    "gross_revenue_usd_millions": 106.3,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Richard Dreyfuss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
+      },
+      {
+        "name": "Glenne Headly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000444/"
+      },
+      {
+        "name": "Jay Thomas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0859005/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A frustrated composer finds fulfillment as a high school music teacher.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0117102/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mr_hollands_opus"
+  },
+  {
+    "title": "Rob Roy",
+    "year": 1995,
+    "director": {
+      "name": "Michael Caton-Jones",
+      "imdb_person_url": "https://www.imdb.com/name/nm0146294/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "R",
+    "runtime_minutes": 139,
+    "budget_usd_millions": 28.0,
+    "gross_revenue_usd_millions": 31.6,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Liam Neeson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000553/"
+      },
+      {
+        "name": "Jessica Lange",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000486/"
+      },
+      {
+        "name": "John Hurt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000459/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1713 Scotland, Rob Roy MacGregor is wronged by a nobleman and his nephew, becomes an outlaw in search of revenge while fleeing the Redcoats, and faces charges of being a Jacobite.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114287/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1061955-rob_roy"
+  },
+  {
+    "title": "Richard III",
+    "year": 1995,
+    "director": {
+      "name": "Richard Loncraine",
+      "imdb_person_url": "https://www.imdb.com/name/nm0518609/"
+    },
+    "production_studio": "British Screen",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 2.7,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Ian McKellen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005212/"
+      },
+      {
+        "name": "Annette Bening",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000906/"
+      },
+      {
+        "name": "Jim Broadbent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000978/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The classic Shakespearean play about a murderously scheming king staged in an alternative-fascist England.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114279/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1069634-richard_iii"
+  },
+  {
+    "title": "Batman Forever",
+    "year": 1995,
+    "director": {
+      "name": "Joel Schumacher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001708/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 100.0,
+    "gross_revenue_usd_millions": 336.5,
+    "ratings": {
+      "imdb": 5.4,
+      "rotten_tomatoes_critic": "39%",
+      "rotten_tomatoes_popcorn": "32%"
+    },
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      {
+        "name": "Val Kilmer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000174/"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
+      },
+      {
+        "name": "Jim Carrey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000120/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112462/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/batman_forever"
+  },
+  {
+    "title": "A Little Princess",
+    "year": 1995,
+    "director": {
+      "name": "Alfonso Cuarón",
+      "imdb_person_url": "https://www.imdb.com/name/nm0190859/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "G",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 10.0,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Liesel Matthews",
+        "imdb_person_url": "https://www.imdb.com/name/nm0560113/"
+      },
+      {
+        "name": "Eleanor Bron",
+        "imdb_person_url": "https://www.imdb.com/name/nm0111364/"
+      },
+      {
+        "name": "Liam Cunningham",
+        "imdb_person_url": "https://www.imdb.com/name/nm0192344/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young girl is relegated to servitude at a boarding school when her father goes missing and is presumed dead.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0113670/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1063066-little_princess"
   },
   {
     "title": "Nixon",
@@ -856,16 +1228,21 @@
       "name": "Oliver Stone",
       "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
     },
-    "production_studio": "Hollywood Pictures, Cinergi Pictures Entertainment",
+    "production_studio": "Hollywood Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 192,
-    "budget_usd_millions": 44,
+    "budget_usd_millions": 44.0,
     "gross_revenue_usd_millions": 13.7,
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "65%"
     },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
     "actors": [
       {
         "name": "Anthony Hopkins",
@@ -873,7 +1250,7 @@
       },
       {
         "name": "Joan Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000260/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000262/"
       },
       {
         "name": "Powers Boothe",
@@ -883,27 +1260,158 @@
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A biographical story of former U.S. President Richard Nixon, from his days as a young boy to his eventual corruption and disgrace.",
+    "description": "A biographical story of former U.S. President Richard Nixon, from his days as a young boy to his eventual presidency which ended in shame.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0113987/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nixon"
+  },
+  {
+    "title": "Get Shorty",
+    "year": 1995,
+    "director": {
+      "name": "Barry Sonnenfeld",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001756/"
+    },
+    "production_studio": "Jersey Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 30.3,
+    "gross_revenue_usd_millions": 115.1,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Gene Hackman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
+      },
+      {
+        "name": "Rene Russo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000622/"
+      },
+      {
+        "name": "John Travolta",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mobster travels to Hollywood to collect a debt, and discovers that the movie business is much the same as his current job.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0113161/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/get_shorty"
+  },
+  {
+    "title": "Clueless",
+    "year": 1995,
+    "director": {
+      "name": "Amy Heckerling",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005004/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 56.6,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Alicia Silverstone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000224/"
+      },
+      {
+        "name": "Stacey Dash",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004859/"
+      },
+      {
+        "name": "Brittany Murphy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005261/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking order. Seeing herself as a matchmaker, she first coaxes two teachers into dating each other.",
+    "afi_ranking": 42,
+    "imdb_url": "https://www.imdb.com/title/tt0112697/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/clueless"
+  },
+  {
+    "title": "Jumanji",
+    "year": 1995,
+    "director": {
+      "name": "Joe Johnston",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002653/"
+    },
+    "production_studio": "Interscope Communications",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 65.0,
+    "gross_revenue_usd_millions": 262.8,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "52%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Robin Williams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000379/"
+      },
+      {
+        "name": "Bonnie Hunt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0113497/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1068044-jumanji"
   },
   {
     "title": "To Die For",
     "year": 1995,
     "director": {
       "name": "Gus Van Sant",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001814/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000679/"
     },
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 106,
-    "budget_usd_millions": 20,
+    "budget_usd_millions": 20.0,
     "gross_revenue_usd_millions": 21.3,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "72%"
     },
     "genres": [
       "Comedy",
@@ -927,335 +1435,27 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A beautiful but narcissistic aspiring television personality who will do anything to achieve her goals.",
+    "description": "A beautiful but naïve aspiring television personality films a documentary on teenagers with a darker ulterior motive.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0114681/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/to_die_for"
-  },
-  {
-    "title": "Get Shorty",
-    "year": 1995,
-    "director": {
-      "name": "Barry Sonnenfeld",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001756/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer, Jersey Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 30.25,
-    "gross_revenue_usd_millions": 115.1,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "John Travolta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
-      },
-      {
-        "name": "Rene Russo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000623/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A mobster travels to Hollywood to collect a debt and discovers that the movie business is much the same as his current job.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0113161/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/get_shorty"
-  },
-  {
-    "title": "Desperado",
-    "year": 1995,
-    "director": {
-      "name": "Robert Rodriguez",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
-    },
-    "production_studio": "Columbia Pictures, Los Hooligans Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 25.4,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "68%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Antonio Banderas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000104/"
-      },
-      {
-        "name": "Salma Hayek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000161/"
-      },
-      {
-        "name": "Joaquim de Almeida",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000745/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A mariachi musician seeks revenge on the drug lord who killed his lover.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0112851/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/desperado"
-  },
-  {
-    "title": "While You Were Sleeping",
-    "year": 1995,
-    "director": {
-      "name": "Jon Turteltaub",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002132/"
-    },
-    "production_studio": "Hollywood Pictures, Caravan Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 182.1,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Sandra Bullock",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000113/"
-      },
-      {
-        "name": "Bill Pullman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000601/"
-      },
-      {
-        "name": "Peter Gallagher",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001251/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A lonely transit worker pulls her longtime crush from the path of an oncoming train. At the hospital, his family mistakenly thinks she is his fiancée, and she doesn't correct them.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0114924/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/while_you_were_sleeping"
-  },
-  {
-    "title": "Friday",
-    "year": 1995,
-    "director": {
-      "name": "F. Gary Gray",
-      "imdb_person_url": "https://www.imdb.com/name/nm0336620/"
-    },
-    "production_studio": "New Line Cinema",
-    "mpaa_rating": "R",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 28.2,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Ice Cube",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001084/"
-      },
-      {
-        "name": "Chris Tucker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "Nia Long",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000505/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "It's Friday, and two buddies have a series of misadventures in their South Central Los Angeles neighborhood.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0113118/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/friday"
-  },
-  {
-    "title": "Dead Man",
-    "year": 1995,
-    "director": {
-      "name": "Jim Jarmusch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000464/"
-    },
-    "production_studio": "Miramax, Pandora Film",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 1,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Johnny Depp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
-      },
-      {
-        "name": "Gary Farmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0267634/"
-      },
-      {
-        "name": "Crispin Glover",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001278/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "On the run after murdering a man, accountant William Blake encounters a strange Native American man named Nobody who prepares him for his journey into the spiritual world.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0112817/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_man"
-  },
-  {
-    "title": "Mighty Aphrodite",
-    "year": 1995,
-    "director": {
-      "name": "Woody Allen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
-    },
-    "production_studio": "Miramax, Jean Doumanian Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 6.7,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Woody Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
-      },
-      {
-        "name": "Mira Sorvino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000227/"
-      },
-      {
-        "name": "Helena Bonham Carter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000307/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role"
-    ],
-    "description": "A sportswriter's search for his adopted son's biological mother leads him to a quirky prostitute and a series of comic misadventures.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0113819/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mighty_aphrodite"
-  },
-  {
-    "title": "Richard III",
-    "year": 1995,
-    "director": {
-      "name": "Richard Loncraine",
-      "imdb_person_url": "https://www.imdb.com/name/nm0518742/"
-    },
-    "production_studio": "United Artists, Bayly/Pare",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 2.7,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
-      "Sci-Fi",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Ian McKellen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005212/"
-      },
-      {
-        "name": "Annette Bening",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000906/"
-      },
-      {
-        "name": "Jim Broadbent",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000980/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A modern-day adaptation of Shakespeare's play, set in a fascist-run England.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0114279/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1068598-richard_iii"
   },
   {
     "title": "The American President",
     "year": 1995,
     "director": {
       "name": "Rob Reiner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001661/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000205/"
     },
-    "production_studio": "Columbia Pictures, Castle Rock Entertainment",
+    "production_studio": "Castle Rock Entertainment",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 114,
-    "budget_usd_millions": 62,
+    "budget_usd_millions": 62.0,
     "gross_revenue_usd_millions": 107.9,
     "ratings": {
       "imdb": 6.8,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "71%"
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Comedy",
@@ -1279,53 +1479,225 @@
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A widowed U.S. President running for reelection and an environmental lobbyist fall in love. It's a romance that creates an instant popularity boost for him, but her past creates a scandal that could harm his.",
-    "afi_ranking": null,
+    "description": "A widowed U.S. President running for reelection and an environmental lobbyist fall in love. It's all above-board, but \"politics is perception,\" and sparks fly anyway.",
+    "afi_ranking": 75,
     "imdb_url": "https://www.imdb.com/title/tt0112346/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_president"
   },
   {
-    "title": "Mr. Holland's Opus",
+    "title": "Safe",
     "year": 1995,
     "director": {
-      "name": "Stephen Herek",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001344/"
+      "name": "Todd Haynes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001334/"
     },
-    "production_studio": "Hollywood Pictures, Interscope Communications",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 143,
-    "budget_usd_millions": 21,
-    "gross_revenue_usd_millions": 106.3,
+    "production_studio": "American Playhouse Theatrical Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 0.5,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
-      "Drama",
-      "Music"
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Richard Dreyfuss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
+        "name": "Julianne Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000194/"
       },
       {
-        "name": "Glenne Headly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001334/"
+        "name": "Xander Berkeley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0075359/"
       },
       {
-        "name": "Jay Thomas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005489/"
+        "name": "Dean Norris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0636280/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A frustrated composer finds fulfillment as a high school music teacher.",
+    "description": "An affluent Los Angeles housewife develops an inexplicable illness that leaves her struggling to breathe when exposed to everyday chemicals.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0113862/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mr_hollands_opus"
+    "imdb_url": "https://www.imdb.com/title/tt0114323/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/safe"
+  },
+  {
+    "title": "Dead Man",
+    "year": 1995,
+    "director": {
+      "name": "Jim Jarmusch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000464/"
+    },
+    "production_studio": "Pandora Filmproduktion",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 1.0,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Johnny Depp",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000136/"
+      },
+      {
+        "name": "Gary Farmer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0267746/"
+      },
+      {
+        "name": "Crispin Glover",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000417/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "On the run after murdering a man, accountant William Blake encounters a strange North American man named Nobody who prepares him for his journey into the spiritual world.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112817/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_man"
+  },
+  {
+    "title": "Kids",
+    "year": 1995,
+    "director": {
+      "name": "Larry Clark",
+      "imdb_person_url": "https://www.imdb.com/name/nm0164187/"
+    },
+    "production_studio": "Independent Pictures (II)",
+    "mpaa_rating": "NC-17",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 20.4,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "46%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Leo Fitzpatrick",
+        "imdb_person_url": "https://www.imdb.com/name/nm0280536/"
+      },
+      {
+        "name": "Justin Pierce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0682382/"
+      },
+      {
+        "name": "Chloë Sevigny",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001721/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking, and deflowering virgins.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0113540/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kids"
+  },
+  {
+    "title": "Friday",
+    "year": 1995,
+    "director": {
+      "name": "F. Gary Gray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0336636/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 27.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Ice Cube",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001084/"
+      },
+      {
+        "name": "Chris Tucker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000676/"
+      },
+      {
+        "name": "Nia Long",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000505/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "It's Friday, and Craig and Smokey must come up with $200 they owe a local bully or there won't be a Saturday.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0113118/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/friday"
+  },
+  {
+    "title": "Welcome to the Dollhouse",
+    "year": 1995,
+    "director": {
+      "name": "Todd Solondz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001754/"
+    },
+    "production_studio": "Suburban Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 4.6,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Heather Matarazzo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005202/"
+      },
+      {
+        "name": "Victoria Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0205626/"
+      },
+      {
+        "name": "Christina Brucato",
+        "imdb_person_url": "https://www.imdb.com/name/nm0115655/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An unattractive seventh grader struggles to cope with her attentive parents and their perfect children.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0118141/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/welcome_to_the_dollhouse"
   },
   {
     "title": "Strange Days",
@@ -1334,20 +1706,22 @@
       "name": "Kathryn Bigelow",
       "imdb_person_url": "https://www.imdb.com/name/nm0000941/"
     },
-    "production_studio": "Lightstorm Entertainment, 20th Century Fox",
+    "production_studio": "Lightstorm Entertainment",
     "mpaa_rating": "R",
     "runtime_minutes": 145,
-    "budget_usd_millions": 42,
-    "gross_revenue_usd_millions": 8,
+    "budget_usd_millions": 42.0,
+    "gross_revenue_usd_millions": 8.0,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "68%",
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "66%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Action",
       "Crime",
-      "Drama"
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
     ],
     "actors": [
       {
@@ -1360,15 +1734,550 @@
       },
       {
         "name": "Juliette Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000496/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former cop turned street-hustler who deals in illegal 'squid' recordings of memories and emotions, uncovers a conspiracy in late 1999 Los Angeles.",
+    "description": "A former cop turned street-hustler accidentally uncovers a conspiracy in Los Angeles in 1999.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0114558/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/strange_days"
+  },
+  {
+    "title": "Underground",
+    "year": 1995,
+    "director": {
+      "name": "Emir Kusturica",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001437/"
+    },
+    "production_studio": "Komuna",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 170,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Predrag 'Miki' Manojlovic",
+        "imdb_person_url": "https://www.imdb.com/name/nm0543675/"
+      },
+      {
+        "name": "Lazar Ristovski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0728471/"
+      },
+      {
+        "name": "Mirjana Jokovic",
+        "imdb_person_url": "https://www.imdb.com/name/nm0427014/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of Serbian socialists prepares for the war in a makeshift shelter underground, manufacturing weapons to support the Communist resistance.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114787/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1072049-underground"
+  },
+  {
+    "title": "Whisper of the Heart",
+    "year": 1995,
+    "director": {
+      "name": "Yoshifumi Kondô",
+      "imdb_person_url": "https://www.imdb.com/name/nm0464906/"
+    },
+    "production_studio": "Studio Ghibli",
+    "mpaa_rating": "G",
+    "runtime_minutes": 111,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 34.9,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Animation",
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Yoko Honna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0393226/"
+      },
+      {
+        "name": "Issey Takahashi",
+        "imdb_person_url": "https://www.imdb.com/name/nm1669466/"
+      },
+      {
+        "name": "Takashi Tachibana",
+        "imdb_person_url": "https://www.imdb.com/name/nm0846205/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A love story between a girl who loves reading books, and a boy who has previously checked out all of the library books she chooses.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0113824/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whisper_of_the_heart"
+  },
+  {
+    "title": "Fallen Angels",
+    "year": 1995,
+    "director": {
+      "name": "Kar-Wai Wong",
+      "imdb_person_url": "https://www.imdb.com/name/nm0939182/"
+    },
+    "production_studio": "Jet Tone Production",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 99,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Leon Lai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0481691/"
+      },
+      {
+        "name": "Michelle Reis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0718368/"
+      },
+      {
+        "name": "Takeshi Kaneshiro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0437580/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A disillusioned hitman wants to end his career, but his partner is infatuated with him. Meanwhile, a mute delinquent falls for a woman who is obsessed with her ex-boyfriend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112913/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fallen_angels_1995"
+  },
+  {
+    "title": "La Cérémonie",
+    "year": 1995,
+    "director": {
+      "name": "Claude Chabrol",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001031/"
+    },
+    "production_studio": "MK2 Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 112,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Isabelle Huppert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001377/"
+      },
+      {
+        "name": "Sandrine Bonnaire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001961/"
+      },
+      {
+        "name": "Jacqueline Bisset",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000302/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wealthy family hires a new maid who is illiterate. She befriends the village postmistress, who encourages her to rebel against her employers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112769/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_ceremonie"
+  },
+  {
+    "title": "Antonia's Line",
+    "year": 1995,
+    "director": {
+      "name": "Marleen Gorris",
+      "imdb_person_url": "https://www.imdb.com/name/nm0331296/"
+    },
+    "production_studio": "Antonia's Line International",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 4.2,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Willeke van Ammelrooy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0024976/"
+      },
+      {
+        "name": "Els Dottermans",
+        "imdb_person_url": "https://www.imdb.com/name/nm0234556/"
+      },
+      {
+        "name": "Jan Decleir",
+        "imdb_person_url": "https://www.imdb.com/name/nm0213948/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "A Dutch matron establishes and, for several generations, oversees a close-knit, matriarchal community where feminism and liberalism thrive.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112379/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/antonias_line"
+  },
+  {
+    "title": "The City of Lost Children",
+    "year": 1995,
+    "director": {
+      "name": "Jean-Pierre Jeunet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000466/"
+    },
+    "production_studio": "Canal+",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Ron Perlman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000579/"
+      },
+      {
+        "name": "Daniel Emilfork",
+        "imdb_person_url": "https://www.imdb.com/name/nm0256426/"
+      },
+      {
+        "name": "Judith Vittet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0899993/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112682/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/city_of_lost_children"
+  },
+  {
+    "title": "Dolores Claiborne",
+    "year": 1995,
+    "director": {
+      "name": "Taylor Hackford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
+    },
+    "production_studio": "Castle Rock Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 132,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 24.3,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Kathy Bates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000290/"
+      },
+      {
+        "name": "Jennifer Jason Leigh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
+      },
+      {
+        "name": "Christopher Plummer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001626/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A big-city reporter travels to the small town where her mother has been arrested for the murder of the elderly woman she worked for as a maid.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112883/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dolores_claiborne"
+  },
+  {
+    "title": "Clockers",
+    "year": 1995,
+    "director": {
+      "name": "Spike Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
+    },
+    "production_studio": "40 Acres & A Mule Filmworks",
+    "mpaa_rating": "R",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 13.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Harvey Keitel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
+      },
+      {
+        "name": "John Turturro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001806/"
+      },
+      {
+        "name": "Delroy Lindo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005148/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Young drug pushers in the projects of Brooklyn live hard dangerous lives, trapped between their drug bosses and the detectives out to stop them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112688/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/clockers"
+  },
+  {
+    "title": "Devil in a Blue Dress",
+    "year": 1995,
+    "director": {
+      "name": "Carl Franklin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0291357/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 27.0,
+    "gross_revenue_usd_millions": 16.1,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Denzel Washington",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
+      },
+      {
+        "name": "Tom Sizemore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001744/"
+      },
+      {
+        "name": "Jennifer Beals",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000884/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An African-American man is hired to find a missing woman, and gets mixed up in a murderous political scandal.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112857/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/devil_in_a_blue_dress"
+  },
+  {
+    "title": "Sabrina",
+    "year": 1995,
+    "director": {
+      "name": "Sydney Pollack",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001628/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 58.0,
+    "gross_revenue_usd_millions": 87.1,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Harrison Ford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
+      },
+      {
+        "name": "Julia Ormond",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000566/"
+      },
+      {
+        "name": "Greg Kinnear",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001427/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ugly duckling having undergone a remarkable change, still harbors feelings for her crush: a carefree playboy, but not before his business-focused brother has something to say about it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114319/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1067972-sabrina"
+  },
+  {
+    "title": "Waterworld",
+    "year": 1995,
+    "director": {
+      "name": "Kevin Reynolds",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005352/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 175.0,
+    "gross_revenue_usd_millions": 264.2,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "48%",
+      "rotten_tomatoes_popcorn": "44%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Kevin Costner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
+      },
+      {
+        "name": "Jeanne Tripplehorn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000676/"
+      },
+      {
+        "name": "Dennis Hopper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000454/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0114898/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/waterworld"
+  },
+  {
+    "title": "Bad Boys",
+    "year": 1995,
+    "director": {
+      "name": "Michael Bay",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000881/"
+    },
+    "production_studio": "Don Simpson/Jerry Bruckheimer Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 19.0,
+    "gross_revenue_usd_millions": 141.4,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "43%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Will Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000226/"
+      },
+      {
+        "name": "Martin Lawrence",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001454/"
+      },
+      {
+        "name": "Téa Leoni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000495/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0112442/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1062483-bad_boys"
   }
 ]

@@ -9,8 +9,8 @@
     "production_studio": "Horizon Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 228,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 70,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 70.0,
     "ratings": {
       "imdb": 8.3,
       "rotten_tomatoes_critic": "94%",
@@ -56,17 +56,17 @@
     "year": 1962,
     "director": {
       "name": "Robert Mulligan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0612322/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0612262/"
     },
-    "production_studio": "Pakula-Mulligan, Brentwood Productions",
+    "production_studio": "Universal International Pictures",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 129,
-    "budget_usd_millions": 2,
+    "budget_usd_millions": 2.0,
     "gross_revenue_usd_millions": 13.1,
     "ratings": {
-      "imdb": 8.2,
+      "imdb": 8.3,
       "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "93%"
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
       "Crime",
@@ -79,11 +79,11 @@
       },
       {
         "name": "John Megna",
-        "imdb_person_url": "https://www.imdb.com/name/nm0576822/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0576392/"
       },
       {
         "name": "Frank Overton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0654573/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0653918/"
       }
     ],
     "oscars_nominated": 8,
@@ -99,11 +99,54 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/to_kill_a_mockingbird"
   },
   {
+    "title": "The Manchurian Candidate",
+    "year": 1962,
+    "director": {
+      "name": "John Frankenheimer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
+    },
+    "production_studio": "M.C. Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 2.2,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Frank Sinatra",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000069/"
+      },
+      {
+        "name": "Laurence Harvey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0367612/"
+      },
+      {
+        "name": "Janet Leigh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A former prisoner of war is brainwashed as an unwitting assassin for an international Communist conspiracy.",
+    "afi_ranking": 67,
+    "imdb_url": "https://www.imdb.com/title/tt0056218/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/manchurian_candidate"
+  },
+  {
     "title": "Dr. No",
     "year": 1962,
     "director": {
       "name": "Terence Young",
-      "imdb_person_url": "https://www.imdb.com/name/nm0949910/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0949242/"
     },
     "production_studio": "Eon Productions",
     "mpaa_rating": "PG",
@@ -131,119 +174,72 @@
       },
       {
         "name": "Joseph Wiseman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0936474/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0936495/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A resourceful British government agent seeks answers in a case involving a missing colleague and the disruption of the American space program.",
+    "description": "A resourceful British government agent seeks answers in a case involving the disappearance of a colleague and the disruption of the American space program.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0055928/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dr_no"
   },
   {
-    "title": "The Manchurian Candidate",
+    "title": "The Man Who Shot Liberty Valance",
     "year": 1962,
     "director": {
-      "name": "John Frankenheimer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
     },
-    "production_studio": "M.C. Production",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 7.7,
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 3.2,
+    "gross_revenue_usd_millions": 8.0,
     "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "91%"
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
       "Drama",
-      "Thriller"
+      "Western"
     ],
     "actors": [
       {
-        "name": "Frank Sinatra",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000069/"
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
       },
-      {
-        "name": "Laurence Harvey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001326/"
-      },
-      {
-        "name": "Janet Leigh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001463/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A former prisoner of war is brainwashed as an unwitting assassin for an international Communist conspiracy.",
-    "afi_ranking": 67,
-    "imdb_url": "https://www.imdb.com/title/tt0056218/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013069-manchurian_candidate"
-  },
-  {
-    "title": "The Longest Day",
-    "year": 1962,
-    "director": {
-      "name": "Ken Annakin, Andrew Marton, Bernhard Wicki",
-      "imdb_person_url": "https://www.imdb.com/name/nm0030230/"
-    },
-    "production_studio": "Darryl F. Zanuck Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 178,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 50.1,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
-    "actors": [
       {
         "name": "John Wayne",
         "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
       },
       {
-        "name": "Robert Ryan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
-      },
-      {
-        "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
+        "name": "Vera Miles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0587247/"
       }
     ],
-    "oscars_nominated": 5,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Cinematography, Black-and-White",
-      "Best Effects, Special Effects"
-    ],
-    "description": "The events of D-Day, told from the perspectives of both the Allied and German forces.",
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A senator returns to a western town for the funeral of an old friend and tells the story of his origins.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056197/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/longest_day"
+    "imdb_url": "https://www.imdb.com/title/tt0056217/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_who_shot_liberty_valance"
   },
   {
     "title": "What Ever Happened to Baby Jane?",
     "year": 1962,
     "director": {
       "name": "Robert Aldrich",
-      "imdb_person_url": "https://www.imdb.com/name/nm0017639/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
     },
-    "production_studio": "Associates & Aldrich Company",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "The Associates & Aldrich Company",
+    "mpaa_rating": "Passed",
     "runtime_minutes": 134,
     "budget_usd_millions": 0.98,
-    "gross_revenue_usd_millions": 9,
+    "gross_revenue_usd_millions": 9.0,
     "ratings": {
       "imdb": 8.0,
       "rotten_tomatoes_critic": "92%",
@@ -265,7 +261,7 @@
       },
       {
         "name": "Victor Buono",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001979/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0120674/"
       }
     ],
     "oscars_nominated": 5,
@@ -274,52 +270,56 @@
       "Best Costume Design, Black-and-White"
     ],
     "description": "A former child star torments her paraplegic sister in their decaying Hollywood mansion.",
-    "afi_ranking": null,
+    "afi_ranking": 63,
     "imdb_url": "https://www.imdb.com/title/tt0056687/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/what_ever_happened_to_baby_jane"
   },
   {
-    "title": "The Man Who Shot Liberty Valance",
+    "title": "The Longest Day",
     "year": 1962,
     "director": {
-      "name": "John Ford",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+      "name": "Ken Annakin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0030282/"
     },
-    "production_studio": "John Ford Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 3.2,
-    "gross_revenue_usd_millions": 8,
+    "production_studio": "Darryl F. Zanuck Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 178,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 50.1,
     "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "92%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
+      "Action",
       "Drama",
-      "Western"
+      "History"
     ],
     "actors": [
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      },
       {
         "name": "John Wayne",
         "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
       },
       {
-        "name": "Vera Miles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001535/"
+        "name": "Robert Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0752813/"
+      },
+      {
+        "name": "Richard Burton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
       }
     ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A senator who became famous for killing a notorious outlaw returns for the funeral of an old friend and tells the truth about his deed.",
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Cinematography, Black-and-White",
+      "Best Special Effects"
+    ],
+    "description": "The events of D-Day, told on a grand scale from both the Allied and German points of view.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056217/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_who_shot_liberty_valance"
+    "imdb_url": "https://www.imdb.com/title/tt0056197/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/longest_day"
   },
   {
     "title": "Lolita",
@@ -330,411 +330,100 @@
     },
     "production_studio": "Seven Arts Productions",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 152,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 9.3,
+    "runtime_minutes": 153,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 9.2,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Comedy",
+      "Crime",
       "Drama",
       "Romance"
     ],
     "actors": [
       {
         "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001512/"
       },
       {
         "name": "Shelley Winters",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001851/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001859/"
       },
       {
         "name": "Sue Lyon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001490/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0528987/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A middle-aged college professor becomes infatuated with a precocious 14-year-old girl.",
+    "description": "A middle-aged college professor becomes infatuated with a fourteen-year-old nymphet.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0056193/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012622-lolita"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lolita"
   },
   {
-    "title": "Jules and Jim",
+    "title": "Cape Fear",
     "year": 1962,
     "director": {
-      "name": "François Truffaut",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000076/"
+      "name": "J. Lee Thompson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0860269/"
     },
-    "production_studio": "Les Films du Carrosse",
+    "production_studio": "Melville-Talbot Productions",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 0.2,
-    "gross_revenue_usd_millions": 0.3,
+    "runtime_minutes": 106,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "97%",
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Drama",
-      "Romance"
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Jeanne Moreau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001549/"
+        "name": "Gregory Peck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
       },
       {
-        "name": "Oskar Werner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0921471/"
+        "name": "Robert Mitchum",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
       },
       {
-        "name": "Henri Serre",
-        "imdb_person_url": "https://www.imdb.com/name/nm0785686/"
+        "name": "Polly Bergen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000918/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Decades of a love triangle between a woman and two friends.",
+    "description": "A lawyer's family is stalked by a man he once helped send to jail.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0055032/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jules_and_jim"
-  },
-  {
-    "title": "Cleo from 5 to 7",
-    "year": 1962,
-    "director": {
-      "name": "Agnès Varda",
-      "imdb_person_url": "https://www.imdb.com/name/nm0889513/"
-    },
-    "production_studio": "Ciné-tamaris",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 90,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Corinne Marchand",
-        "imdb_person_url": "https://www.imdb.com/name/nm0545383/"
-      },
-      {
-        "name": "Antoine Bourseiller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0100091/"
-      },
-      {
-        "name": "Dorothée Blanck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0087037/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young singer has two hours to kill before she finds out if she has cancer. She wanders through Paris, meets friends, and confronts her mortality.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0055852/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cleo_from_5_to_7"
-  },
-  {
-    "title": "The Music Man",
-    "year": 1962,
-    "director": {
-      "name": "Morton DaCosta",
-      "imdb_person_url": "https://www.imdb.com/name/nm0196263/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "G",
-    "runtime_minutes": 151,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 14.95,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Family",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Robert Preston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0696236/"
-      },
-      {
-        "name": "Shirley Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
-      },
-      {
-        "name": "Buddy Hackett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001307/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Scoring of Music, Adaptation or Treatment"
-    ],
-    "description": "A con man poses as a boys' band organizer and leader and sells band instruments and uniforms to naive Midwestern townsfolk, promising to train the members of the new band.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056262/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/music_man"
-  },
-  {
-    "title": "Mutiny on the Bounty",
-    "year": 1962,
-    "director": {
-      "name": "Lewis Milestone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0587278/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 178,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 13.68,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "68%"
-    },
-    "genres": [
-      "Adventure",
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Marlon Brando",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
-      },
-      {
-        "name": "Trevor Howard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
-      },
-      {
-        "name": "Richard Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the mutiny on the HMS Bounty, led by Fletcher Christian against the tyrannical Captain Bligh.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056264/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1014424-mutiny_on_the_bounty"
-  },
-  {
-    "title": "Birdman of Alcatraz",
-    "year": 1962,
-    "director": {
-      "name": "John Frankenheimer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
-    },
-    "production_studio": "Norma Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 147,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 4.5,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      },
-      {
-        "name": "Karl Malden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
-      },
-      {
-        "name": "Thelma Ritter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of Robert Stroud, a convicted murderer who became a respected ornithologist while serving a life sentence in prison.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0055798/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/birdman_of_alcatraz"
-  },
-  {
-    "title": "Days of Wine and Roses",
-    "year": 1962,
-    "director": {
-      "name": "Blake Edwards",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001175/"
-    },
-    "production_studio": "Jalem Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 8.1,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jack Lemmon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
-      },
-      {
-        "name": "Lee Remick",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001665/"
-      },
-      {
-        "name": "Charles Bickford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000929/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song"
-    ],
-    "description": "An alcoholic marries a woman and systematically drives her to alcoholism as well.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0055895/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/days_of_wine_and_roses"
-  },
-  {
-    "title": "L'Eclisse",
-    "year": 1962,
-    "director": {
-      "name": "Michelangelo Antonioni",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000774/"
-    },
-    "production_studio": "Cineriz",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 126,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Alain Delon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001128/"
-      },
-      {
-        "name": "Monica Vitti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0900239/"
-      },
-      {
-        "name": "Francisco Rabal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0704739/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young woman who has just broken up with her older lover has an affair with a confident young stockbroker.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0055929/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/leclisse"
-  },
-  {
-    "title": "How the West Was Won",
-    "year": 1962,
-    "director": {
-      "name": "John Ford, Henry Hathaway, George Marshall",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "G",
-    "runtime_minutes": 164,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 50,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Carroll Baker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000832/"
-      },
-      {
-        "name": "Lee J. Cobb",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001053/"
-      },
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Writing, Story and Screenplay - Written Directly for the Screen",
-      "Best Sound",
-      "Best Film Editing"
-    ],
-    "description": "A family saga covering several decades of Westward expansion in the nineteenth century--including the Gold Rush, the Civil War, and the building of the railroads.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056085/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/how_the_west_was_won"
+    "imdb_url": "https://www.imdb.com/title/tt0055824/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1003554-cape_fear"
   },
   {
     "title": "The Miracle Worker",
     "year": 1962,
     "director": {
       "name": "Arthur Penn",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001607/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0006611/"
     },
     "production_studio": "Playfilm Productions",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 106,
-    "budget_usd_millions": null,
+    "budget_usd_millions": 0.5,
     "gross_revenue_usd_millions": 2.5,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Biography",
@@ -747,11 +436,11 @@
       },
       {
         "name": "Patty Duke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001157/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001158/"
       },
       {
         "name": "Victor Jory",
-        "imdb_person_url": "https://www.imdb.com/name/nm0430638/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0430501/"
       }
     ],
     "oscars_nominated": 5,
@@ -763,49 +452,141 @@
     "description": "The story of Anne Sullivan's struggle to teach the blind and deaf Helen Keller how to communicate.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0056241/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013898-miracle_worker"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/miracle_worker"
   },
   {
-    "title": "Ride the High Country",
+    "title": "The Music Man",
     "year": 1962,
     "director": {
-      "name": "Sam Peckinpah",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001603/"
+      "name": "Morton DaCosta",
+      "imdb_person_url": "https://www.imdb.com/name/nm0196253/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "G",
+    "runtime_minutes": 151,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 14.9,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Western"
+      "Comedy",
+      "Family",
+      "Musical"
     ],
     "actors": [
       {
-        "name": "Randolph Scott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001712/"
+        "name": "Robert Preston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0696481/"
       },
       {
-        "name": "Joel McCrea",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001523/"
+        "name": "Shirley Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001404/"
       },
       {
-        "name": "Mariette Hartley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001323/"
+        "name": "Buddy Hackett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0352445/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Scoring of Music, Adaptation or Treatment"
+    ],
+    "description": "Traveling con artist Harold Hill targets the naive residents of a small town in 1910 Iowa by posing as a boys' band leader to raise money for band instruments and uniforms he doesn't intend to provide.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056262/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1014467-music_man"
+  },
+  {
+    "title": "Days of Wine and Roses",
+    "year": 1962,
+    "director": {
+      "name": "Blake Edwards",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001178/"
+    },
+    "production_studio": "Jalem Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 8.1,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jack Lemmon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
+      },
+      {
+        "name": "Lee Remick",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
+      },
+      {
+        "name": "Charles Bickford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001948/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song"
+    ],
+    "description": "An alcoholic falls in love with and gets married to a young woman, whom he systematically addicts to booze so they can share his \"passion\" together.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055895/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/days_of_wine_and_roses"
+  },
+  {
+    "title": "Harakiri",
+    "year": 1962,
+    "director": {
+      "name": "Masaki Kobayashi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0462039/"
+    },
+    "production_studio": "Shochiku",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 133,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "96%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Tatsuya Nakadai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0620021/"
+      },
+      {
+        "name": "Akira Ishihama",
+        "imdb_person_url": "https://www.imdb.com/name/nm0411030/"
+      },
+      {
+        "name": "Shima Iwashita",
+        "imdb_person_url": "https://www.imdb.com/name/nm0412615/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An aging ex-lawman hires his old partner to help him transport gold, but the partner plots to steal the shipment.",
+    "description": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056435/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ride_the_high_country"
+    "imdb_url": "https://www.imdb.com/title/tt0056058/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harakiri"
   },
   {
     "title": "Ivan's Childhood",
@@ -822,7 +603,7 @@
     "ratings": {
       "imdb": 8.0,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Drama",
@@ -831,31 +612,466 @@
     "actors": [
       {
         "name": "Nikolay Burlyaev",
-        "imdb_person_url": "https://www.imdb.com/name/nm0122112/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0122177/"
       },
       {
         "name": "Valentin Zubkov",
-        "imdb_person_url": "https://www.imdb.com/name/nm0958315/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0958296/"
       },
       {
         "name": "Evgeniy Zharikov",
-        "imdb_person_url": "https://www.imdb.com/name/nm0955299/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0955523/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "During World War II, a 12-year-old Russian boy works as a spy on the eastern front.",
+    "description": "During WWII, 12-year-old Ivan bonds with three Soviet officers while scouting the German lines, but his need for revenge against the Nazis may be his undoing.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0056111/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ivans_childhood"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_name_is_ivan"
+  },
+  {
+    "title": "Carnival of Souls",
+    "year": 1962,
+    "director": {
+      "name": "Herk Harvey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0367533/"
+    },
+    "production_studio": "Harcourt Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 0.03,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Candace Hilligoss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0384936/"
+      },
+      {
+        "name": "Frances Feist",
+        "imdb_person_url": "https://www.imdb.com/name/nm0270724/"
+      },
+      {
+        "name": "Sidney Berger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0074360/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a traumatic accident, a woman becomes drawn to a mysterious abandoned carnival.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055830/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/carnival_of_souls"
+  },
+  {
+    "title": "Sanjuro",
+    "year": 1962,
+    "director": {
+      "name": "Akira Kurosawa",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000041/"
+    },
+    "production_studio": "Toho Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Toshirô Mifune",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001536/"
+      },
+      {
+        "name": "Tatsuya Nakadai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0620021/"
+      },
+      {
+        "name": "Keiju Kobayashi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0461993/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A crafty ronin helps a young man and his fellow samurai save his uncle, who has been framed and imprisoned by a corrupt superintendent.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056443/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sanjuro"
+  },
+  {
+    "title": "Birdman of Alcatraz",
+    "year": 1962,
+    "director": {
+      "name": "John Frankenheimer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
+    },
+    "production_studio": "Norma Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 147,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Burt Lancaster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000044/"
+      },
+      {
+        "name": "Karl Malden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
+      },
+      {
+        "name": "Thelma Ritter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0728818/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A surly convicted murderer held in permanent isolation redeems himself when he becomes a renowned bird expert.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055798/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/birdman_of_alcatraz"
+  },
+  {
+    "title": "Mutiny on the Bounty",
+    "year": 1962,
+    "director": {
+      "name": "Lewis Milestone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0587289/"
+    },
+    "production_studio": "Arcola Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 178,
+    "budget_usd_millions": 19.0,
+    "gross_revenue_usd_millions": 13.6,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Marlon Brando",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
+      },
+      {
+        "name": "Trevor Howard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002145/"
+      },
+      {
+        "name": "Richard Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1787, British ship Bounty leaves Portsmouth to bring a cargo of bread-fruit from Tahiti, but the savage on-board conditions imposed by Captain Bligh trigger a mutiny.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056264/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1014490-mutiny_on_the_bounty"
+  },
+  {
+    "title": "How the West Was Won",
+    "year": 1962,
+    "director": {
+      "name": "Henry Hathaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002130/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "G",
+    "runtime_minutes": 164,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 50.0,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      },
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Gregory Peck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
+      }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "Best Sound",
+      "Best Film Editing"
+    ],
+    "description": "A family saga covering several decades of Westward expansion in the nineteenth century, including the Gold Rush, the Civil War, and the building of the railroads.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056085/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/how_the_west_was_won"
+  },
+  {
+    "title": "Jules and Jim",
+    "year": 1962,
+    "director": {
+      "name": "François Truffaut",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000076/"
+    },
+    "production_studio": "Les Films du Carrosse",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jeanne Moreau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0603466/"
+      },
+      {
+        "name": "Oskar Werner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0921473/"
+      },
+      {
+        "name": "Henri Serre",
+        "imdb_person_url": "https://www.imdb.com/name/nm0785641/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Decades of a love triangle concerning two friends and an impulsive woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055032/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jules_and_jim"
+  },
+  {
+    "title": "Cléo from 5 to 7",
+    "year": 1962,
+    "director": {
+      "name": "Agnès Varda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0889513/"
+    },
+    "production_studio": "Ciné-Tamaris",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Corinne Marchand",
+        "imdb_person_url": "https://www.imdb.com/name/nm0545367/"
+      },
+      {
+        "name": "Antoine Bourseiller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0099718/"
+      },
+      {
+        "name": "Dominique Davray",
+        "imdb_person_url": "https://www.imdb.com/name/nm0205790/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A hypochondriac singer waits for the result of a biopsy while contemplating her existence.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055852/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cleo_from_5_to_7"
+  },
+  {
+    "title": "The Exterminating Angel",
+    "year": 1962,
+    "director": {
+      "name": "Luis Buñuel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000320/"
+    },
+    "production_studio": "Gustavo Alatriste",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Silvia Pinal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0683808/"
+      },
+      {
+        "name": "Jacqueline Andere",
+        "imdb_person_url": "https://www.imdb.com/name/nm0025983/"
+      },
+      {
+        "name": "Enrique Rambal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0708064/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The guests at an upper-class dinner party find themselves unable to leave the drawing room.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056732/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/exterminating_angel"
+  },
+  {
+    "title": "Vivre Sa Vie",
+    "year": 1962,
+    "director": {
+      "name": "Jean-Luc Godard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000419/"
+    },
+    "production_studio": "Les Films de la Pléiade",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 84,
+    "budget_usd_millions": 0.06,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anna Karina",
+        "imdb_person_url": "https://www.imdb.com/name/nm0439343/"
+      },
+      {
+        "name": "Sady Rebbot",
+        "imdb_person_url": "https://www.imdb.com/name/nm0714249/"
+      },
+      {
+        "name": "André S. Labarthe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0479326/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056663/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/vivre_sa_vie"
+  },
+  {
+    "title": "Winter Light",
+    "year": 1962,
+    "director": {
+      "name": "Ingmar Bergman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
+    },
+    "production_studio": "Svensk Filmindustri",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 81,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Ingrid Thulin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0862086/"
+      },
+      {
+        "name": "Gunnar Björnstrand",
+        "imdb_person_url": "https://www.imdb.com/name/nm0084931/"
+      },
+      {
+        "name": "Max von Sydow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001884/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pastor of a small rural church struggles with his faith and the silence of God.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0057358/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/winter_light"
   },
   {
     "title": "Knife in the Water",
     "year": 1962,
     "director": {
       "name": "Roman Polanski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000591/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
     },
     "production_studio": "Zespol Filmowy \"Kamera\"",
     "mpaa_rating": "Not Rated",
@@ -864,7 +1080,7 @@
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
@@ -874,11 +1090,11 @@
     "actors": [
       {
         "name": "Leon Niemczyk",
-        "imdb_person_url": "https://www.imdb.com/name/nm0630829/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0631165/"
       },
       {
         "name": "Jolanta Umecka",
-        "imdb_person_url": "https://www.imdb.com/name/nm0880946/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0880877/"
       },
       {
         "name": "Zygmunt Malanowicz",
@@ -888,30 +1104,119 @@
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A successful couple on a sailing trip picks up a young hitchhiker, and the tensions between the two men escalate into a dangerous rivalry.",
+    "description": "On their way to a sailing trip, an aging husband and wife pick up a young hitchhiker.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0056291/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/knife_in_the_water"
+  },
+  {
+    "title": "Ride the High Country",
+    "year": 1962,
+    "director": {
+      "name": "Sam Peckinpah",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000575/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 0.81,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Joel McCrea",
+        "imdb_person_url": "https://www.imdb.com/name/nm0566861/"
+      },
+      {
+        "name": "Randolph Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0003362/"
+      },
+      {
+        "name": "Mariette Hartley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0366827/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ex-lawman, fell on hard times, is hired to transport gold from a mining community through dangerous territory.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056412/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ride_the_high_country"
+  },
+  {
+    "title": "Gypsy",
+    "year": 1962,
+    "director": {
+      "name": "Mervyn LeRoy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0503613/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 143,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 11.0,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Rosalind Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001691/"
+      },
+      {
+        "name": "Natalie Wood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000081/"
+      },
+      {
+        "name": "Karl Malden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The rise of burlesque stripper Gypsy Rose Lee and her conflict with her overpowering mother, Mama Rose.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056048/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009139-gypsy"
   },
   {
     "title": "Sweet Bird of Youth",
     "year": 1962,
     "director": {
       "name": "Richard Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0112139/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0112217/"
     },
-    "production_studio": "Roxbury Productions",
+    "production_studio": "MGM",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 120,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 8,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 7.6,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
-      "Drama"
+      "Drama",
+      "Romance"
     ],
     "actors": [
       {
@@ -920,11 +1225,11 @@
       },
       {
         "name": "Geraldine Page",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001587/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0656193/"
       },
       {
         "name": "Shirley Knight",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001435/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0461067/"
       }
     ],
     "oscars_nominated": 3,
@@ -932,95 +1237,267 @@
     "oscars_won_details": [
       "Best Actor in a Supporting Role"
     ],
-    "description": "A drifter returns to his hometown with a faded movie star, and their presence stirs up old resentments and dark secrets.",
+    "description": "A drifter returns to his hometown with an aging movie star in hopes of obtaining a movie contract from her to marry his true love.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0056541/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sweet_bird_of_youth"
   },
   {
-    "title": "An Autumn Afternoon",
+    "title": "Long Day's Journey Into Night",
     "year": 1962,
     "director": {
-      "name": "Yasujirô Ozu",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001587/"
+      "name": "Sidney Lumet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
     },
-    "production_studio": "Shochiku",
+    "production_studio": "Ely Landau Organization",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 113,
-    "budget_usd_millions": null,
+    "runtime_minutes": 174,
+    "budget_usd_millions": 0.435,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "92%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Drama"
     ],
     "actors": [
       {
-        "name": "Chishû Ryû",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001691/"
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
       },
       {
-        "name": "Shima Iwashita",
-        "imdb_person_url": "https://www.imdb.com/name/nm0412663/"
+        "name": "Ralph Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001669/"
       },
       {
-        "name": "Keiji Sada",
-        "imdb_person_url": "https://www.imdb.com/name/nm0755442/"
+        "name": "Jason Robards",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The drug-addicted matriarch of a dysfunctional family and her three loved ones recount their lives over the course of a single day.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056196/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/long_days_journey_into_night"
+  },
+  {
+    "title": "Requiem for a Heavyweight",
+    "year": 1962,
+    "director": {
+      "name": "Ralph Nelson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0625694/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Anthony Quinn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000063/"
+      },
+      {
+        "name": "Jackie Gleason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001276/"
+      },
+      {
+        "name": "Mickey Rooney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001682/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An aging widower arranges a marriage for his only daughter, but he must also come to terms with his own loneliness.",
+    "description": "A washed-up heavyweight boxer tries to free himself from his corrupt manager and find a new life.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056444/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/an-autumn-afternoon-samma-no-aji"
+    "imdb_url": "https://www.imdb.com/title/tt0056406/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/requiem_for_a_heavyweight"
   },
   {
-    "title": "Cape Fear",
+    "title": "Billy Budd",
     "year": 1962,
     "director": {
-      "name": "J. Lee Thompson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0860233/"
+      "name": "Peter Ustinov",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
     },
-    "production_studio": "Melville-Talbot Productions",
+    "production_studio": "Anglo-Allied",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 105,
+    "runtime_minutes": 123,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "82%"
     },
     "genres": [
-      "Crime",
-      "Thriller"
+      "Adventure",
+      "Drama",
+      "War"
     ],
     "actors": [
       {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
+        "name": "Terence Stamp",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000654/"
       },
+      {
+        "name": "Robert Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0752813/"
+      },
+      {
+        "name": "Peter Ustinov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1797, a naive seaman is impressed into the British Navy, where his innocent nature makes him the target of a sadistic master-at-arms.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055796/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/billy_budd"
+  },
+  {
+    "title": "David and Lisa",
+    "year": 1962,
+    "director": {
+      "name": "Frank Perry",
+      "imdb_person_url": "https://www.imdb.com/name/nm0675071/"
+    },
+    "production_studio": "Lisa and David Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": 4.0,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Keir Dullea",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001157/"
+      },
+      {
+        "name": "Janet Margolin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0546685/"
+      },
+      {
+        "name": "Howard Da Silva",
+        "imdb_person_url": "https://www.imdb.com/name/nm0196092/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A study of the emotional storm of two disturbed adolescents who find love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055893/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/david_and_lisa"
+  },
+  {
+    "title": "Freud: The Secret Passion",
+    "year": 1962,
+    "director": {
+      "name": "John Huston",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
+    },
+    "production_studio": "Universal International Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 140,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Montgomery Clift",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001050/"
+      },
+      {
+        "name": "Susannah York",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
+      },
+      {
+        "name": "Larry Parks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0662953/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pseudo-biographical look at five years in the life of Sigmund Freud, from 1885 to 1890.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055968/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/freud"
+  },
+  {
+    "title": "Two for the Seesaw",
+    "year": 1962,
+    "director": {
+      "name": "Robert Wise",
+      "imdb_person_url": "https://www.imdb.com/name/nm0936404/"
+    },
+    "production_studio": "Seesaw Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 119,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
       {
         "name": "Robert Mitchum",
         "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
       },
       {
-        "name": "Polly Bergen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0074212/"
+        "name": "Shirley MacLaine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000511/"
+      },
+      {
+        "name": "Edmon Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0752520/"
       }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A lawyer's family is stalked by a vengeful criminal he helped put in prison.",
+    "description": "A Nebraska lawyer flees his marriage and career to New York City, where he meets a generous, bohemian dancer.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0055824/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1003450-cape_fear"
+    "imdb_url": "https://www.imdb.com/title/tt0056626/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/two_for_the_seesaw"
   },
   {
     "title": "Hatari!",
@@ -1032,17 +1509,17 @@
     "production_studio": "Malabar",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 157,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 12.9,
+    "budget_usd_millions": 6.5,
+    "gross_revenue_usd_millions": 12.0,
     "ratings": {
-      "imdb": 6.7,
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "68%"
+      "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
       "Action",
       "Adventure",
-      "Comedy"
+      "Drama"
     ],
     "actors": [
       {
@@ -1050,81 +1527,125 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
       },
       {
-        "name": "Hardy Krüger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001431/"
+        "name": "Elsa Martinelli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0553336/"
       },
       {
-        "name": "Elsa Martinelli",
-        "imdb_person_url": "https://www.imdb.com/name/nm0553631/"
+        "name": "Hardy Krüger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0473228/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A group of men who trap wild animals in Africa for zoos and circuses have their lives turned upside down by the arrival of a female photographer.",
+    "description": "A group of men trap wild animals in Africa for zoos.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0056059/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hatari"
   },
   {
-    "title": "The Exterminating Angel",
+    "title": "The 300 Spartans",
     "year": 1962,
     "director": {
-      "name": "Luis Buñuel",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000320/"
+      "name": "Rudolph Maté",
+      "imdb_person_url": "https://www.imdb.com/name/nm0560244/"
     },
-    "production_studio": "Uninci y Films 59",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 95,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 8.5,
+    "gross_revenue_usd_millions": 76.5,
     "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "91%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "67%"
     },
     "genres": [
+      "Adventure",
       "Drama",
-      "Fantasy"
+      "History"
     ],
     "actors": [
       {
-        "name": "Silvia Pinal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0684116/"
+        "name": "Richard Egan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0250739/"
       },
       {
-        "name": "Enrique Rambal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0708027/"
+        "name": "Ralph Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001669/"
       },
       {
-        "name": "Claudio Brook",
-        "imdb_person_url": "https://www.imdb.com/name/nm0111626/"
+        "name": "Diane Baker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000833/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The guests at a lavish dinner party find that they are psychologically unable to leave.",
+    "description": "A small Greek army leads a desperate defense against the massive invading Persian army in 480 BCE.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056732/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/exterminating_angel"
+    "imdb_url": "https://www.imdb.com/title/tt0055719/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/300_spartans"
+  },
+  {
+    "title": "Burn, Witch, Burn",
+    "year": 1962,
+    "director": {
+      "name": "Sidney Hayers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0371077/"
+    },
+    "production_studio": "Independent Artists",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 87,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Peter Wyngarde",
+        "imdb_person_url": "https://www.imdb.com/name/nm0943962/"
+      },
+      {
+        "name": "Janet Blair",
+        "imdb_person_url": "https://www.imdb.com/name/nm0086270/"
+      },
+      {
+        "name": "Margaret Johnston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0426743/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A skeptical college professor discovers that his wife has been practicing witchcraft to further his career.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056279/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/burn_witch_burn"
   },
   {
     "title": "Advise & Consent",
     "year": 1962,
     "director": {
       "name": "Otto Preminger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000593/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "Alpha-Alpina",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 139,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 3.5,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.7,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Drama",
@@ -1132,85 +1653,303 @@
     ],
     "actors": [
       {
+        "name": "Franchot Tone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0867144/"
+      },
+      {
+        "name": "Lew Ayres",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000819/"
+      },
+      {
         "name": "Henry Fonda",
         "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Charles Laughton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
-      },
-      {
-        "name": "Don Murray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0615243/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A controversial presidential nominee for Secretary of State is put through a series of brutal confirmation hearings.",
+    "description": "Senate investigation into the President's newly nominated Secretary of State gives light to a secret from the past, which may not only ruin the candidate, but the President's character as well.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0055736/",
+    "imdb_url": "https://www.imdb.com/title/tt0055728/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/advise_and_consent"
   },
   {
-    "title": "Tender Is the Night",
+    "title": "Lonely Are the Brave",
     "year": 1962,
     "director": {
-      "name": "Henry King",
-      "imdb_person_url": "https://www.imdb.com/name/nm0454559/"
+      "name": "David Miller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0588203/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Joel Productions",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 146,
-    "budget_usd_millions": null,
+    "runtime_minutes": 107,
+    "budget_usd_millions": 0.75,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "55%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Kirk Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
+      },
+      {
+        "name": "Gena Rowlands",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001687/"
+      },
+      {
+        "name": "Walter Matthau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000527/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A defiant cowboy gets himself thrown into jail in order to help a friend break out, but finds the world has moved on without him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056195/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lonely_are_the_brave"
+  },
+  {
+    "title": "The Trial",
+    "year": 1962,
+    "director": {
+      "name": "Orson Welles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
+    },
+    "production_studio": "Paris-Europa Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Anthony Perkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000578/"
+      },
+      {
+        "name": "Jeanne Moreau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0603466/"
+      },
+      {
+        "name": "Romy Schneider",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001704/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An unassuming office worker is arrested and stands trial, but he is never told what he is accused of.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056372/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021966-trial"
+  },
+  {
+    "title": "An Autumn Afternoon",
+    "year": 1962,
+    "director": {
+      "name": "Yasujirô Ozu",
+      "imdb_person_url": "https://www.imdb.com/name/nm0654868/"
+    },
+    "production_studio": "Shochiku",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 113,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Chishû Ryû",
+        "imdb_person_url": "https://www.imdb.com/name/nm0753464/"
+      },
+      {
+        "name": "Shima Iwashita",
+        "imdb_person_url": "https://www.imdb.com/name/nm0412615/"
+      },
+      {
+        "name": "Keiji Sada",
+        "imdb_person_url": "https://www.imdb.com/name/nm0755420/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An aging widower arranges a marriage for his only daughter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056444/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/autumn_afternoon"
+  },
+  {
+    "title": "Divorce Italian Style",
+    "year": 1962,
+    "director": {
+      "name": "Pietro Germi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0314603/"
+    },
+    "production_studio": "Lux Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Jennifer Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
+        "name": "Marcello Mastroianni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000052/"
       },
       {
-        "name": "Jason Robards",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
+        "name": "Daniela Rocca",
+        "imdb_person_url": "https://www.imdb.com/name/nm0733575/"
       },
       {
-        "name": "Joan Fontaine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
+        "name": "Stefania Sandrelli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0762145/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Story and Screenplay - Written Directly for the Screen"
+    ],
+    "description": "A married Sicilian baron falls in love with his cousin and vows to wed her, but with divorce illegal, he must hatch a crime of passion to be free of his wife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055913/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/divorce_italian_style"
+  },
+  {
+    "title": "Sundays and Cybèle",
+    "year": 1962,
+    "director": {
+      "name": "Serge Bourguignon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0099898/"
+    },
+    "production_studio": "Fides",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Hardy Krüger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0473228/"
+      },
+      {
+        "name": "Nicole Courcel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0183664/"
+      },
+      {
+        "name": "Patricia Gozzi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0333285/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "The innocent but obsessive relationship between a suffering war veteran and a young girl is misunderstood by the world around them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055910/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sundays_and_cybele"
+  },
+  {
+    "title": "Period of Adjustment",
+    "year": 1962,
+    "director": {
+      "name": "George Roy Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001351/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 112,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "36%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Tony Franciosa",
+        "imdb_person_url": "https://www.imdb.com/name/nm0289945/"
+      },
+      {
+        "name": "Jane Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
+      },
+      {
+        "name": "Jim Hutton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404629/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A psychiatrist's marriage to a wealthy, unstable patient deteriorates as he is drawn into her decadent world.",
+    "description": "Two couples, one newlywed and the other long-married, face their marital problems on Christmas Eve.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0055502/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tender_is_the_night"
+    "imdb_url": "https://www.imdb.com/title/tt0056342/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/period_of_adjustment"
   },
   {
     "title": "That Touch of Mink",
     "year": 1962,
     "director": {
       "name": "Delbert Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0542721/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0542714/"
     },
     "production_studio": "Granley Company",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 99,
-    "budget_usd_millions": null,
+    "budget_usd_millions": 2.5,
     "gross_revenue_usd_millions": 17.6,
     "ratings": {
       "imdb": 6.6,
       "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_popcorn": "51%"
     },
     "genres": [
       "Comedy",
@@ -1227,102 +1966,272 @@
       },
       {
         "name": "Gig Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001872/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0949576/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A wealthy businessman and a working girl meet and fall in love, but their different lifestyles and expectations create comic complications.",
+    "description": "A rich businessman and a young woman are attracted to each other, but he only wants an affair while she wants marriage.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056565/",
+    "imdb_url": "https://www.imdb.com/title/tt0056575/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/that_touch_of_mink"
   },
   {
-    "title": "Gypsy",
+    "title": "Bon Voyage!",
     "year": 1962,
     "director": {
-      "name": "Mervyn LeRoy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0503464/"
+      "name": "James Neilson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624911/"
     },
-    "production_studio": "Warner Bros.",
+    "production_studio": "Walt Disney Productions",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 143,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 11,
+    "runtime_minutes": 130,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 5.0,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "59%"
     },
     "genres": [
-      "Biography",
       "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Fred MacMurray",
+        "imdb_person_url": "https://www.imdb.com/name/nm0534045/"
+      },
+      {
+        "name": "Jane Wyman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001861/"
+      },
+      {
+        "name": "Michael Callan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0130310/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Willard family of Terre Haute, Indiana, heads to Europe for a long-awaited vacation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0055807/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002772-bon_voyage"
+  },
+  {
+    "title": "Tender Is the Night",
+    "year": 1962,
+    "director": {
+      "name": "Henry King",
+      "imdb_person_url": "https://www.imdb.com/name/nm0454763/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 146,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "44%",
+      "rotten_tomatoes_popcorn": "40%"
+    },
+    "genres": [
       "Drama"
     ],
     "actors": [
       {
-        "name": "Rosalind Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0751381/"
+        "name": "Jennifer Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0428359/"
       },
       {
-        "name": "Natalie Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000081/"
+        "name": "Jason Robards",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
       },
       {
-        "name": "Karl Malden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
+        "name": "Joan Fontaine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001228/"
       }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of the ultimate stage mother, who pushes her two daughters into show business.",
+    "description": "A psychiatrist marries one of his patients, a wealthy woman, but as she slowly recovers, his own vitality drains away.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0056048/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gypsy"
+    "imdb_url": "https://www.imdb.com/title/tt0056566/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021021-tender_is_the_night"
   },
   {
-    "title": "Mothra",
+    "title": "A Kind of Loving",
     "year": 1962,
     "director": {
-      "name": "Ishirô Honda",
-      "imdb_person_url": "https://www.imdb.com/name/nm0393093/"
+      "name": "John Schlesinger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001705/"
     },
-    "production_studio": "Toho Company",
+    "production_studio": "Vic Films Productions",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 101,
+    "runtime_minutes": 112,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "51%"
     },
     "genres": [
-      "Fantasy",
-      "Sci-Fi"
+      "Drama",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Frankie Sakai",
-        "imdb_person_url": "https://www.imdb.com/name/nm0756816/"
+        "name": "Alan Bates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000868/"
       },
       {
-        "name": "Hiroshi Koizumi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0463567/"
+        "name": "June Ritchie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0728157/"
       },
       {
-        "name": "Kyôko Kagawa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0434825/"
+        "name": "Thora Hird",
+        "imdb_person_url": "https://www.imdb.com/name/nm0386315/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A giant, ancient moth is inadvertently resurrected and wreaks havoc on Japan.",
+    "description": "A young draftsman in an industrial northern English city is forced to marry a coworker after she becomes pregnant.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0055201/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mothra"
+    "imdb_url": "https://www.imdb.com/title/tt0056139/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kind_of_loving"
+  },
+  {
+    "title": "The Loneliness of the Long Distance Runner",
+    "year": 1962,
+    "director": {
+      "name": "Tony Richardson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0724794/"
+    },
+    "production_studio": "Woodfall Film Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Michael Redgrave",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001657/"
+      },
+      {
+        "name": "Tom Courtenay",
+        "imdb_person_url": "https://www.imdb.com/name/nm0183869/"
+      },
+      {
+        "name": "Avis Bunnage",
+        "imdb_person_url": "https://www.imdb.com/name/nm0120512/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A rebellious youth sentenced to a borstal for burgling a bakery rises through the ranks of the institution through his prowess as a long distance runner.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056194/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/loneliness_of_the_long_distance_runner"
+  },
+  {
+    "title": "Mamma Roma",
+    "year": 1962,
+    "director": {
+      "name": "Pier Paolo Pasolini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000574/"
+    },
+    "production_studio": "Arco Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 106,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anna Magnani",
+        "imdb_person_url": "https://www.imdb.com/name/nm0536167/"
+      },
+      {
+        "name": "Ettore Garofolo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0307842/"
+      },
+      {
+        "name": "Franco Citti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0162947/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ex-prostitute tries to start a new life selling vegetables with her 16-year-old son.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056215/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mamma_roma"
+  },
+  {
+    "title": "L'Eclisse",
+    "year": 1962,
+    "director": {
+      "name": "Michelangelo Antonioni",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000774/"
+    },
+    "production_studio": "Cineriz",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 126,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Alain Delon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001128/"
+      },
+      {
+        "name": "Monica Vitti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0900262/"
+      },
+      {
+        "name": "Francisco Rabal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0704724/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young woman meets a vital stockbroker, but their affair is doomed because of his materialistic nature.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0056736/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/leclisse"
   }
 ]

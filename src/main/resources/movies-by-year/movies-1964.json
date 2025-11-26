@@ -1,5 +1,58 @@
 [
   {
+    "title": "My Fair Lady",
+    "year": 1964,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002030/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "G",
+    "runtime_minutes": 170,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 72.0,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Family",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Audrey Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
+      },
+      {
+        "name": "Rex Harrison",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
+      },
+      {
+        "name": "Stanley Holloway",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002141/"
+      }
+    ],
+    "oscars_nominated": 12,
+    "oscars_won": 8,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor in a Leading Role",
+      "Best Cinematography, Color",
+      "Best Art Direction-Set Decoration, Color",
+      "Best Costume Design, Color",
+      "Best Sound",
+      "Best Music, Scoring of Music, Adaptation or Treatment"
+    ],
+    "description": "Snobbish phonetics Professor Henry Higgins agrees to a wager that he can make flower girl Eliza Doolittle presentable in high society.",
+    "afi_ranking": 91,
+    "imdb_url": "https://www.imdb.com/title/tt0058385/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_fair_lady"
+  },
+  {
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "year": 1964,
     "director": {
@@ -23,7 +76,7 @@
     "actors": [
       {
         "name": "Peter Sellers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000634/"
       },
       {
         "name": "George C. Scott",
@@ -31,86 +84,33 @@
       },
       {
         "name": "Sterling Hayden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001332/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001330/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
-    "afi_ranking": 39,
+    "description": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+    "afi_ranking": 3,
     "imdb_url": "https://www.imdb.com/title/tt0057012/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dr_strangelove"
-  },
-  {
-    "title": "My Fair Lady",
-    "year": 1964,
-    "director": {
-      "name": "George Cukor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001083/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "G",
-    "runtime_minutes": 170,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 72,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Drama",
-      "Family",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Audrey Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
-      },
-      {
-        "name": "Rex Harrison",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
-      },
-      {
-        "name": "Stanley Holloway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001359/"
-      }
-    ],
-    "oscars_nominated": 12,
-    "oscars_won": 8,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor in a Leading Role",
-      "Best Cinematography, Color",
-      "Best Art Direction-Set Decoration, Color",
-      "Best Costume Design, Color",
-      "Best Sound",
-      "Best Music, Scoring of Music, Adaptation or Treatment"
-    ],
-    "description": "A snobbish phonetics professor agrees to a wager that he can take a Cockney flower girl and make her presentable in high society.",
-    "afi_ranking": 91,
-    "imdb_url": "https://www.imdb.com/title/tt0058385/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_fair_lady"
   },
   {
     "title": "Mary Poppins",
     "year": 1964,
     "director": {
       "name": "Robert Stevenson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0829026/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0829005/"
     },
     "production_studio": "Walt Disney Productions",
     "mpaa_rating": "G",
     "runtime_minutes": 139,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 103.1,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 102.3,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "85%"
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Comedy",
@@ -124,38 +124,85 @@
       },
       {
         "name": "Dick Van Dyke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001814/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001813/"
       },
       {
         "name": "David Tomlinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0866632/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001799/"
       }
     ],
     "oscars_nominated": 13,
     "oscars_won": 5,
     "oscars_won_details": [
       "Best Actress in a Leading Role",
-      "Best Effects, Special Visual Effects",
       "Best Film Editing",
+      "Best Effects, Special Visual Effects",
       "Best Music, Original Song",
-      "Best Music, Score - Substantially Original"
+      "Best Music, Substantially Original Score"
     ],
-    "description": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their parents.",
+    "description": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0058331/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mary_poppins"
+  },
+  {
+    "title": "Zorba the Greek",
+    "year": 1964,
+    "director": {
+      "name": "Michael Cacoyannis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0127599/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 142,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 9.0,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anthony Quinn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000063/"
+      },
+      {
+        "name": "Alan Bates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000868/"
+      },
+      {
+        "name": "Irene Papas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0660327/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actress in a Supporting Role",
+      "Best Cinematography, Black-and-White",
+      "Best Art Direction-Set Decoration, Black-and-White"
+    ],
+    "description": "An aimless young Englishman finds his outlook on life changed when he meets the boisterous, gregarious Alexis Zorba.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058774/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zorba_the_greek"
   },
   {
     "title": "Goldfinger",
     "year": 1964,
     "director": {
       "name": "Guy Hamilton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0357833/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0357912/"
     },
     "production_studio": "Eon Productions",
     "mpaa_rating": "PG",
     "runtime_minutes": 110,
-    "budget_usd_millions": 3,
+    "budget_usd_millions": 3.0,
     "gross_revenue_usd_millions": 124.9,
     "ratings": {
       "imdb": 7.7,
@@ -174,11 +221,11 @@
       },
       {
         "name": "Gert Fröbe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001243/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002086/"
       },
       {
         "name": "Honor Blackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000302/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000947/"
       }
     ],
     "oscars_nominated": 1,
@@ -186,17 +233,150 @@
     "oscars_won_details": [
       "Best Effects, Sound Effects"
     ],
-    "description": "While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.",
+    "description": "James Bond investigates a gold magnate's smuggling and uncovers a plot to contaminate the Fort Knox gold reserve.",
     "afi_ranking": 71,
     "imdb_url": "https://www.imdb.com/title/tt0058150/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/goldfinger"
+  },
+  {
+    "title": "A Hard Day's Night",
+    "year": 1964,
+    "director": {
+      "name": "Richard Lester",
+      "imdb_person_url": "https://www.imdb.com/name/nm0504515/"
+    },
+    "production_studio": "Proscenium Films",
+    "mpaa_rating": "G",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 12.3,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "John Lennon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0006168/"
+      },
+      {
+        "name": "Paul McCartney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005200/"
+      },
+      {
+        "name": "George Harrison",
+        "imdb_person_url": "https://www.imdb.com/name/nm0365600/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Over two \"typical\" days, The Beatles struggle to keep themselves and their mischievous grandfather in check while preparing for a live TV performance.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058182/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hard_days_night"
+  },
+  {
+    "title": "Becket",
+    "year": 1964,
+    "director": {
+      "name": "Peter Glenville",
+      "imdb_person_url": "https://www.imdb.com/name/nm0322307/"
+    },
+    "production_studio": "Hal Wallis Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 148,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 9.2,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Richard Burton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
+      },
+      {
+        "name": "Peter O'Toole",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000564/"
+      },
+      {
+        "name": "John Gielgud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
+      }
+    ],
+    "oscars_nominated": 12,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Screenplay Based on Material from Another Medium"
+    ],
+    "description": "King Henry II of England comes to terms with his affection for his close friend and confidant Thomas Becket, who finds his true calling in the church.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0057877/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/becket"
+  },
+  {
+    "title": "The Umbrellas of Cherbourg",
+    "year": 1964,
+    "director": {
+      "name": "Jacques Demy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0218790/"
+    },
+    "production_studio": "Parc Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 0.16,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Catherine Deneuve",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000363/"
+      },
+      {
+        "name": "Nino Castelnuovo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0144933/"
+      },
+      {
+        "name": "Anne Vernon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0894645/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young woman separated from her lover by war faces a life-altering decision.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058450/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/umbrellas_of_cherbourg"
   },
   {
     "title": "A Fistful of Dollars",
     "year": 1964,
     "director": {
       "name": "Sergio Leone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001466/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000494/"
     },
     "production_studio": "Jolly Film",
     "mpaa_rating": "R",
@@ -219,12 +399,12 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
       },
       {
-        "name": "Gian Maria Volonté",
-        "imdb_person_url": "https://www.imdb.com/name/nm0901844/"
+        "name": "Gian Maria Volontè",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002231/"
       },
       {
         "name": "Marianne Koch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005111/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0462359/"
       }
     ],
     "oscars_nominated": 0,
@@ -233,232 +413,94 @@
     "description": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0058461/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_fistful_of_dollars"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fistful_of_dollars"
   },
   {
-    "title": "A Hard Day's Night",
+    "title": "The Train",
     "year": 1964,
     "director": {
-      "name": "Richard Lester",
-      "imdb_person_url": "https://www.imdb.com/name/nm0504495/"
+      "name": "John Frankenheimer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
     },
-    "production_studio": "Proscenium Films",
-    "mpaa_rating": "G",
-    "runtime_minutes": 87,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 13.8,
+    "production_studio": "Les Productions Artistes Associés",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 133,
+    "budget_usd_millions": 6.7,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "90%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
-      "Comedy",
-      "Music",
-      "Musical"
+      "Action",
+      "Thriller",
+      "War"
     ],
     "actors": [
       {
-        "name": "John Lennon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001468/"
+        "name": "Burt Lancaster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000044/"
       },
       {
-        "name": "Paul McCartney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005200/"
+        "name": "Paul Scofield",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001712/"
       },
       {
-        "name": "George Harrison",
-        "imdb_person_url": "https://www.imdb.com/name/nm0365600/"
+        "name": "Jeanne Moreau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0603466/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "As the Allied forces approach Paris, a German colonel attempts to ship stolen French art masterpieces to Germany, but the French Resistance vows to stop him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058678/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021919-train"
+  },
+  {
+    "title": "Seven Days in May",
+    "year": 1964,
+    "director": {
+      "name": "John Frankenheimer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
+    },
+    "production_studio": "Seven Arts Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 2.2,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Burt Lancaster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000044/"
+      },
+      {
+        "name": "Kirk Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
+      },
+      {
+        "name": "Fredric March",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000521/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A fictionalized account of a couple of days in the lives of The Beatles.",
+    "description": "United States military leaders plot to overthrow the President because he supports a nuclear disarmament treaty and they fear a Soviet sneak attack.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058182/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hard_days_night"
-  },
-  {
-    "title": "Zorba the Greek",
-    "year": 1964,
-    "director": {
-      "name": "Michael Cacoyannis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0128103/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 142,
-    "budget_usd_millions": 0.75,
-    "gross_revenue_usd_millions": 9.4,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Anthony Quinn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000063/"
-      },
-      {
-        "name": "Alan Bates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000876/"
-      },
-      {
-        "name": "Irene Papas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001594/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role",
-      "Best Cinematography, Black-and-White",
-      "Best Art Direction-Set Decoration, Black-and-White"
-    ],
-    "description": "An uptight English writer travelling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0057831/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zorba_the_greek"
-  },
-  {
-    "title": "Becket",
-    "year": 1964,
-    "director": {
-      "name": "Peter Glenville",
-      "imdb_person_url": "https://www.imdb.com/name/nm0322474/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 148,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 10,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
-      },
-      {
-        "name": "Peter O'Toole",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000564/"
-      },
-      {
-        "name": "John Gielgud",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
-      }
-    ],
-    "oscars_nominated": 12,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Screenplay Based on Material from Another Medium"
-    ],
-    "description": "The story of the complex relationship between King Henry II of England and his friend, Thomas Becket, whom he appoints Archbishop of Canterbury.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0057877/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/becket"
-  },
-  {
-    "title": "The Umbrellas of Cherbourg",
-    "year": 1964,
-    "director": {
-      "name": "Jacques Demy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0218939/"
-    },
-    "production_studio": "Parc Film",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 91,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.5,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Catherine Deneuve",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000366/"
-      },
-      {
-        "name": "Nino Castelnuovo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0144704/"
-      },
-      {
-        "name": "Anne Vernon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0894676/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young woman separated from her lover by war faces a life-altering decision.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058450/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_umbrellas_of_cherbourg"
-  },
-  {
-    "title": "Hush...Hush, Sweet Charlotte",
-    "year": 1964,
-    "director": {
-      "name": "Robert Aldrich",
-      "imdb_person_url": "https://www.imdb.com/name/nm0017639/"
-    },
-    "production_studio": "Associates & Aldrich Company",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 1.9,
-    "gross_revenue_usd_millions": 7.1,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Bette Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
-      },
-      {
-        "name": "Olivia de Havilland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000014/"
-      },
-      {
-        "name": "Joseph Cotten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001069/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An aging, reclusive Southern belle descends into madness after the return of her estranged cousin and the mysterious death of her lover.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058213/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hush_hush_sweet_charlotte"
+    "imdb_url": "https://www.imdb.com/title/tt0058576/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_days_in_may"
   },
   {
     "title": "Fail Safe",
@@ -470,12 +512,12 @@
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 112,
-    "budget_usd_millions": 1,
+    "budget_usd_millions": 1.3,
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 8.0,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Drama",
@@ -493,33 +535,123 @@
       },
       {
         "name": "Fritz Weaver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915839/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0915837/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A technical malfunction sends a U.S. bomber to drop a nuclear bomb on Moscow, and the President of the United States must decide how to prevent a full-scale nuclear war.",
+    "description": "A technical malfunction sends American planes to Moscow to deliver a nuclear attack, while the President of the United States tries to stop them.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0058083/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fail_safe"
+  },
+  {
+    "title": "Hush...Hush, Sweet Charlotte",
+    "year": 1964,
+    "director": {
+      "name": "Robert Aldrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
+    },
+    "production_studio": "The Associates & Aldrich Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 133,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 7.0,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Olivia de Havilland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000014/"
+      },
+      {
+        "name": "Joseph Cotten",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An aging, reclusive Southern belle plagued by a horrifying family secret descends into madness when her cousin arrives to save the family estate.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058215/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hush_hush_sweet_charlotte"
+  },
+  {
+    "title": "Topkapi",
+    "year": 1964,
+    "director": {
+      "name": "Jules Dassin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202088/"
+    },
+    "production_studio": "Filmways Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 120,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 7.0,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Melina Mercouri",
+        "imdb_person_url": "https://www.imdb.com/name/nm0580479/"
+      },
+      {
+        "name": "Peter Ustinov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
+      },
+      {
+        "name": "Maximilian Schell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000629/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor in a Supporting Role"
+    ],
+    "description": "A conman gets mixed up with a group of thieves who plan to steal a jeweled dagger from the Topkapi Museum in Istanbul.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058672/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/topkapi"
   },
   {
     "title": "The Night of the Iguana",
     "year": 1964,
     "director": {
       "name": "John Huston",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
     },
-    "production_studio": "Seven Arts Productions",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "MGM",
+    "mpaa_rating": "PG",
     "runtime_minutes": 125,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 12,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 12.0,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
       "Drama"
@@ -527,11 +659,11 @@
     "actors": [
       {
         "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
       },
       {
         "name": "Ava Gardner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001257/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
       },
       {
         "name": "Deborah Kerr",
@@ -543,138 +675,100 @@
     "oscars_won_details": [
       "Best Costume Design, Black-and-White"
     ],
-    "description": "A defrocked Episcopal clergyman leads a bus-load of middle-aged Baptist women on a tour of the Mexican coast and finds himself in a crisis of faith.",
+    "description": "A defrocked Episcopal priest leads a bus-load of middle-aged Baptist women on a tour of the Mexican coast and comes to terms with the failure of his life and faith.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0058404/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/night_of_the_iguana"
   },
   {
-    "title": "Woman in the Dunes",
+    "title": "Father Goose",
     "year": 1964,
     "director": {
-      "name": "Hiroshi Teshigahara",
-      "imdb_person_url": "https://www.imdb.com/name/nm0856272/"
+      "name": "Ralph Nelson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0625694/"
     },
-    "production_studio": "Teshigahara Productions",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 147,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "runtime_minutes": 118,
+    "budget_usd_millions": 3.9,
+    "gross_revenue_usd_millions": 12.5,
     "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "92%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
-      "Drama",
-      "Thriller"
+      "Adventure",
+      "Comedy",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Eiji Okada",
-        "imdb_person_url": "https://www.imdb.com/name/nm0645484/"
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
       },
       {
-        "name": "Kyôko Kishida",
-        "imdb_person_url": "https://www.imdb.com/name/nm0457199/"
+        "name": "Leslie Caron",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001016/"
       },
       {
-        "name": "Hiroko Itô",
-        "imdb_person_url": "https://www.imdb.com/name/nm0411707/"
+        "name": "Trevor Howard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002145/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Writing, Story and Screenplay - Written Directly for the Screen"
+    ],
+    "description": "During World War II, a man stationed on a South Sea island is forced to watch over a group of schoolgirls and their teacher.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058092/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/father_goose"
+  },
+  {
+    "title": "The Americanization of Emily",
+    "year": 1964,
+    "director": {
+      "name": "Arthur Hiller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002137/"
+    },
+    "production_studio": "Filmways Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 2.7,
+    "gross_revenue_usd_millions": 4.0,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "James Garner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001258/"
+      },
+      {
+        "name": "Julie Andrews",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000267/"
+      },
+      {
+        "name": "Melvyn Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002047/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An entomologist on a trip to collect insects is trapped by villagers and forced to live with a woman in a sand dune.",
+    "description": "An American naval officer's talent for living the good life in wartime is challenged when he falls in love and is sent on a dangerous mission.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058625/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/woman_in_the_dunes"
-  },
-  {
-    "title": "Red Desert",
-    "year": 1964,
-    "director": {
-      "name": "Michelangelo Antonioni",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000774/"
-    },
-    "production_studio": "Film Duemila",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 117,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Monica Vitti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0900239/"
-      },
-      {
-        "name": "Richard Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
-      },
-      {
-        "name": "Carlo Chionetti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0158022/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In a bleak industrial landscape, a troubled woman's mental state is exacerbated by her husband's indifference and her own sense of alienation.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058003/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/red_desert"
-  },
-  {
-    "title": "Seven Days in May",
-    "year": 1964,
-    "director": {
-      "name": "John Frankenheimer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
-    },
-    "production_studio": "Seven Arts Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 7.6,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      },
-      {
-        "name": "Kirk Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
-      },
-      {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001503/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A U.S. military general plans to overthrow the President of the United States, and a colonel who stumbles upon the plot must stop him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058576/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_days_in_may"
+    "imdb_url": "https://www.imdb.com/title/tt0057840/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/americanization_of_emily"
   },
   {
     "title": "Marnie",
@@ -683,15 +777,15 @@
       "name": "Alfred Hitchcock",
       "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
     },
-    "production_studio": "Geoffrey-Stanley Productions",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 130,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 7.3,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 7.0,
     "ratings": {
       "imdb": 7.1,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
       "Crime",
@@ -708,234 +802,148 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
       },
       {
-        "name": "Diane Baker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000832/"
+        "name": "Martin Gabel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0300026/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A compulsive liar and thief is caught by a wealthy man who marries her and tries to uncover the secrets of her past.",
+    "description": "Mark Rutland marries Marnie, a thief and a liar, and tries to help her with her psychological problems.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0058329/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/marnie"
   },
   {
-    "title": "The Pawnbroker",
+    "title": "Zulu",
     "year": 1964,
     "director": {
-      "name": "Sidney Lumet",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+      "name": "Cy Endfield",
+      "imdb_person_url": "https://www.imdb.com/name/nm0256828/"
     },
-    "production_studio": "The Pawnbroker Company",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 6.8,
+    "production_studio": "Diamond Films",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 138,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 12.0,
     "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
-      "Drama"
+      "Drama",
+      "History",
+      "War"
     ],
     "actors": [
       {
-        "name": "Rod Steiger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001768/"
+        "name": "Stanley Baker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000837/"
       },
       {
-        "name": "Geraldine Fitzgerald",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001217/"
+        "name": "Jack Hawkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002131/"
       },
       {
-        "name": "Brock Peters",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001614/"
+        "name": "Michael Caine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of a Holocaust survivor who runs a pawn shop in East Harlem and is haunted by his past.",
+    "description": "Outnumbered British soldiers do battle with 4,000 Zulu warriors at Rorke's Drift, South Africa, in 1879.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0059575/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pawnbroker"
+    "imdb_url": "https://www.imdb.com/title/tt0058777/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zulu"
   },
   {
-    "title": "Topkapi",
+    "title": "A Shot in the Dark",
     "year": 1964,
     "director": {
-      "name": "Jules Dassin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0202123/"
+      "name": "Blake Edwards",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001178/"
     },
-    "production_studio": "Filmways Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 7,
+    "production_studio": "The Mirisch Company",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 12.3,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Melina Mercouri",
-        "imdb_person_url": "https://www.imdb.com/name/nm0580436/"
-      },
-      {
-        "name": "Peter Ustinov",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
-      },
-      {
-        "name": "Maximilian Schell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001700/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role"
-    ],
-    "description": "A group of international thieves plans a daring heist of a priceless, jewel-encrusted dagger from an Istanbul museum.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058672/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/topkapi"
-  },
-  {
-    "title": "The Train",
-    "year": 1964,
-    "director": {
-      "name": "John Frankenheimer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
-    },
-    "production_studio": "Les Productions Artistes Associés",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 5.7,
-    "gross_revenue_usd_millions": 6.8,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "90%",
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
-      "Thriller",
-      "War"
+      "Comedy",
+      "Crime",
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
+        "name": "Peter Sellers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000634/"
       },
       {
-        "name": "Paul Scofield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001712/"
+        "name": "Elke Sommer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001755/"
       },
       {
-        "name": "Jeanne Moreau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001549/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In 1944, a German colonel loads a train with French art treasures to send to Germany. The French Resistance must stop him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0059825/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021921-train"
-  },
-  {
-    "title": "I Am Cuba",
-    "year": 1964,
-    "director": {
-      "name": "Mikhail Kalatozov",
-      "imdb_person_url": "https://www.imdb.com/name/nm0435559/"
-    },
-    "production_studio": "Mosfilm",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 141,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.05,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Sergio Corrieri",
-        "imdb_person_url": "https://www.imdb.com/name/nm0180769/"
-      },
-      {
-        "name": "Salvador Wood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0940026/"
-      },
-      {
-        "name": "José Gallardo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0302484/"
+        "name": "George Sanders",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001695/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A series of four vignettes about the lives of the Cuban people during the Batista regime and the revolution.",
+    "description": "Inspector Jacques Clouseau investigates the murder of a chauffeur at a country estate, falling in love with the primary suspect in the process.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058604/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_am_cuba"
+    "imdb_url": "https://www.imdb.com/title/tt0058586/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shot_in_the_dark"
   },
   {
-    "title": "The Masque of the Red Death",
+    "title": "Woman in the Dunes",
     "year": 1964,
     "director": {
-      "name": "Roger Corman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000339/"
+      "name": "Hiroshi Teshigahara",
+      "imdb_person_url": "https://www.imdb.com/name/nm0856193/"
     },
-    "production_studio": "Anglo-Amalgamated Productions",
+    "production_studio": "Teshigahara Productions",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 89,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1.5,
+    "runtime_minutes": 123,
+    "budget_usd_millions": 0.1,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 8.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
       "Drama",
-      "Horror"
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Vincent Price",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+        "name": "Eiji Okada",
+        "imdb_person_url": "https://www.imdb.com/name/nm0645393/"
       },
       {
-        "name": "Hazel Court",
-        "imdb_person_url": "https://www.imdb.com/name/nm0183651/"
+        "name": "Kyôko Kishida",
+        "imdb_person_url": "https://www.imdb.com/name/nm0457199/"
       },
       {
-        "name": "Jane Asher",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001919/"
+        "name": "Hiroko Itô",
+        "imdb_person_url": "https://www.imdb.com/name/nm0411685/"
       }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A cruel, sadistic prince terrorizes the local peasantry while using his castle as a refuge from the \"Red Death\" plague that stalks the land.",
+    "description": "An amateur entomologist hunting for insects is trapped by villagers in a sand pit with a woman, whom he is forced to help shovel sand.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058331/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/masque_of_the_red_death"
+    "imdb_url": "https://www.imdb.com/title/tt0058625/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/woman_in_the_dunes"
   },
   {
     "title": "Onibaba",
@@ -950,9 +958,9 @@
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "91%"
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Drama",
@@ -961,341 +969,119 @@
     "actors": [
       {
         "name": "Nobuko Otowa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0652932/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0652997/"
       },
       {
         "name": "Jitsuko Yoshimura",
-        "imdb_person_url": "https://www.imdb.com/name/nm0948935/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0949021/"
       },
       {
         "name": "Kei Satô",
-        "imdb_person_url": "https://www.imdb.com/name/nm0766258/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0766219/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "During a civil war in Japan, two women kill samurai and sell their belongings for a living.",
+    "description": "Two women kill samurai and sell their belongings for a living. While one of them is away, the other finds a mysterious mask and decides to wear it to scare the younger woman.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0058430/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/onibaba"
   },
   {
-    "title": "The Americanization of Emily",
+    "title": "Kwaidan",
     "year": 1964,
     "director": {
-      "name": "Arthur Hiller",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001351/"
+      "name": "Masaki Kobayashi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0462039/"
     },
-    "production_studio": "Filmways Pictures",
+    "production_studio": "Toho Company",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 115,
-    "budget_usd_millions": null,
+    "runtime_minutes": 183,
+    "budget_usd_millions": 3.5,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "James Garner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001258/"
-      },
-      {
-        "name": "Julie Andrews",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000267/"
-      },
-      {
-        "name": "Melvyn Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001153/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A cynical American naval officer in London during World War II falls in love with a British woman who has lost her husband, father, and brother in the war.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0057840/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/americanization_of_emily"
-  },
-  {
-    "title": "Viva Las Vegas",
-    "year": 1964,
-    "director": {
-      "name": "George Sidney",
-      "imdb_person_url": "https://www.imdb.com/name/nm0796677/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 85,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 9.4,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "72%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Elvis Presley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000062/"
-      },
-      {
-        "name": "Ann-Margret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000767/"
-      },
-      {
-        "name": "Cesare Danova",
-        "imdb_person_url": "https://www.imdb.com/name/nm0199971/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A race car driver prepares for the Las Vegas Grand Prix and finds romance with a beautiful swimming instructor.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058725/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/viva_las_vegas"
-  },
-  {
-    "title": "Zulu",
-    "year": 1964,
-    "director": {
-      "name": "Cy Endfield",
-      "imdb_person_url": "https://www.imdb.com/name/nm0256821/"
-    },
-    "production_studio": "Diamond Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 138,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 8,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "91%"
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Drama",
-      "History",
-      "War"
+      "Fantasy",
+      "Horror"
     ],
     "actors": [
       {
-        "name": "Stanley Baker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000832/"
+        "name": "Rentarô Mikuni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0586616/"
       },
       {
-        "name": "Michael Caine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
+        "name": "Michiyo Aratama",
+        "imdb_person_url": "https://www.imdb.com/name/nm0033284/"
       },
       {
-        "name": "Jack Hawkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0370164/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the 1879 Battle of Rorke's Drift, in which a small group of British soldiers defended a remote outpost against a massive Zulu army.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058777/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zulu"
-  },
-  {
-    "title": "The Unsinkable Molly Brown",
-    "year": 1964,
-    "director": {
-      "name": "Charles Walters",
-      "imdb_person_url": "https://www.imdb.com/name/nm0910243/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Approved",
-    "runtime_minutes": 135,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 14.5,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "74%"
-    },
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Debbie Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001666/"
-      },
-      {
-        "name": "Harve Presnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0696144/"
-      },
-      {
-        "name": "Ed Begley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000893/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of Molly Brown, who went from being a poor, uneducated girl to a wealthy socialite and a survivor of the Titanic.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058708/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_unsinkable_molly_brown"
-  },
-  {
-    "title": "Father Goose",
-    "year": 1964,
-    "director": {
-      "name": "Ralph Nelson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0625725/"
-    },
-    "production_studio": "Granox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 118,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 12.5,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "74%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Leslie Caron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001021/"
-      },
-      {
-        "name": "Trevor Howard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Story and Screenplay - Written Directly for the Screen"
-    ],
-    "description": "During World War II, a beachcomber on a remote island is persuaded to become a lookout for the Allies, but his life is complicated when he has to rescue a schoolteacher and her students.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058092/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/father_goose"
-  },
-  {
-    "title": "Robin and the 7 Hoods",
-    "year": 1964,
-    "director": {
-      "name": "Gordon Douglas",
-      "imdb_person_url": "https://www.imdb.com/name/nm0235075/"
-    },
-    "production_studio": "P-C Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 3.4,
-    "gross_revenue_usd_millions": 4.6,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "46%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Frank Sinatra",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000069/"
-      },
-      {
-        "name": "Dean Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001509/"
-      },
-      {
-        "name": "Sammy Davis Jr.",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002035/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A Prohibition-era Chicago gangster finds his criminal empire threatened by a rival and a conniving woman.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058529/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/robin_and_the_seven_hoods"
-  },
-  {
-    "title": "That Man from Rio",
-    "year": 1964,
-    "director": {
-      "name": "Philippe de Broca",
-      "imdb_person_url": "https://www.imdb.com/name/nm0209672/"
-    },
-    "production_studio": "Les Films Ariane",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 112,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "78%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Jean-Paul Belmondo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000901/"
-      },
-      {
-        "name": "Françoise Dorléac",
-        "imdb_person_url": "https://www.imdb.com/name/nm0233777/"
-      },
-      {
-        "name": "Jean Servais",
-        "imdb_person_url": "https://www.imdb.com/name/nm0785890/"
+        "name": "Misako Watanabe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0913835/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A French airman is drawn into a wild chase across Brazil in pursuit of his kidnapped girlfriend and a hidden treasure.",
+    "description": "A collection of four Japanese folk tales with supernatural themes.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058203/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/that_man_from_rio"
+    "imdb_url": "https://www.imdb.com/title/tt0058279/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kwaidan"
+  },
+  {
+    "title": "Band of Outsiders",
+    "year": 1964,
+    "director": {
+      "name": "Jean-Luc Godard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000419/"
+    },
+    "production_studio": "Anouchka Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.12,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anna Karina",
+        "imdb_person_url": "https://www.imdb.com/name/nm0439343/"
+      },
+      {
+        "name": "Sami Frey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0294589/"
+      },
+      {
+        "name": "Claude Brasseur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0105477/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two crooks with a fondness for old Hollywood B-movies convince a language student to help them commit a robbery.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0057869/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/band_of_outsiders"
   },
   {
     "title": "The Gospel According to St. Matthew",
     "year": 1964,
     "director": {
       "name": "Pier Paolo Pasolini",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001596/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000574/"
     },
     "production_studio": "Arco Film",
     "mpaa_rating": "Not Rated",
@@ -1303,9 +1089,9 @@
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.8,
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Biography",
@@ -1315,11 +1101,11 @@
     "actors": [
       {
         "name": "Enrique Irazoqui",
-        "imdb_person_url": "https://www.imdb.com/name/nm0409941/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0409848/"
       },
       {
         "name": "Margherita Caruso",
-        "imdb_person_url": "https://www.imdb.com/name/nm0142385/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0142279/"
       },
       {
         "name": "Susanna Pasolini",
@@ -1329,9 +1115,1264 @@
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of the life and ministry of Jesus Christ, told in a neorealist style.",
+    "description": "The life of Jesus Christ according to the Gospel of Matthew.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0058715/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_gospel_according_to_st_matthew"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gospel_according_to_st_matthew"
+  },
+  {
+    "title": "Charulata",
+    "year": 1964,
+    "director": {
+      "name": "Satyajit Ray",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001653/"
+    },
+    "production_studio": "R.D.B. Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 117,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Soumitra Chatterjee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0154147/"
+      },
+      {
+        "name": "Madhabi Mukherjee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0611538/"
+      },
+      {
+        "name": "Sailen Mukherjee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0611568/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lonely wife of a newspaper editor falls in love with her visiting cousin-in-law, who shares her passion for literature.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0057935/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/charulata"
+  },
+  {
+    "title": "Red Desert",
+    "year": 1964,
+    "director": {
+      "name": "Michelangelo Antonioni",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000774/"
+    },
+    "production_studio": "Film Duemila",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 117,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Monica Vitti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0900262/"
+      },
+      {
+        "name": "Richard Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
+      },
+      {
+        "name": "Carlo Chionetti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0158023/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman trying to survive in the modern world of cultural neurosis and existential doubt.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058060/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/red_desert"
+  },
+  {
+    "title": "Marriage Italian Style",
+    "year": 1964,
+    "director": {
+      "name": "Vittorio De Sica",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002038/"
+    },
+    "production_studio": "Compagnia Cinematografica Champion",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Sophia Loren",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000047/"
+      },
+      {
+        "name": "Marcello Mastroianni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000052/"
+      },
+      {
+        "name": "Aldo Puglisi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0700192/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A cynical businessman wanting to marry a young girl is tricked into marrying his longtime mistress instead.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058324/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/marriage_italian_style"
+  },
+  {
+    "title": "Seduced and Abandoned",
+    "year": 1964,
+    "director": {
+      "name": "Pietro Germi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0314603/"
+    },
+    "production_studio": "Lux Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 115,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Stefania Sandrelli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0762145/"
+      },
+      {
+        "name": "Saro Urzì",
+        "imdb_person_url": "https://www.imdb.com/name/nm0882314/"
+      },
+      {
+        "name": "Aldo Puglisi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0700192/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a village in Sicily, a young woman is seduced by her sister's fiancé, leading to a series of frantic events to restore the family's honor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058564/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seduced_and_abandoned"
+  },
+  {
+    "title": "The Unsinkable Molly Brown",
+    "year": 1964,
+    "director": {
+      "name": "Charles Walters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0910196/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 4.3,
+    "gross_revenue_usd_millions": 11.0,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "43%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Musical",
+      "Romance",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Debbie Reynolds",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001666/"
+      },
+      {
+        "name": "Harve Presnell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0696161/"
+      },
+      {
+        "name": "Ed Begley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000891/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A poor, uneducated mountain girl leaves her cabin in search of a wealthy husband and a better life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058708/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/unsinkable_molly_brown"
+  },
+  {
+    "title": "The Best Man",
+    "year": 1964,
+    "director": {
+      "name": "Franklin J. Schaffner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001701/"
+    },
+    "production_studio": "Millar/Turman Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Henry Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "Cliff Robertson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0731772/"
+      },
+      {
+        "name": "Edie Adams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000723/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two opposing candidates for their party's presidential nomination vie for the support of the ailing former President.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0057883/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002166-best_man"
+  },
+  {
+    "title": "Seance on a Wet Afternoon",
+    "year": 1964,
+    "director": {
+      "name": "Bryan Forbes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0285292/"
+    },
+    "production_studio": "Beaver Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 115,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Kim Stanley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0822502/"
+      },
+      {
+        "name": "Richard Attenborough",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000277/"
+      },
+      {
+        "name": "Mark Eden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0249091/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A medium and her husband kidnap a child so she can help the police solve the crime and achieve fame.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058562/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seance_on_a_wet_afternoon"
+  },
+  {
+    "title": "The Pumpkin Eater",
+    "year": 1964,
+    "director": {
+      "name": "Jack Clayton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0165729/"
+    },
+    "production_studio": "Romulus Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anne Bancroft",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000843/"
+      },
+      {
+        "name": "Peter Finch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002075/"
+      },
+      {
+        "name": "James Mason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001512/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman with an excessive number of children from previous marriages spirals into a breakdown when she suspects her current husband of infidelity.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058499/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pumpkin_eater"
+  },
+  {
+    "title": "Viva Las Vegas",
+    "year": 1964,
+    "director": {
+      "name": "George Sidney",
+      "imdb_person_url": "https://www.imdb.com/name/nm0796522/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 9.4,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Elvis Presley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000062/"
+      },
+      {
+        "name": "Ann-Margret",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000268/"
+      },
+      {
+        "name": "Cesare Danova",
+        "imdb_person_url": "https://www.imdb.com/name/nm0200454/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Race car driver Lucky Jackson goes to Las Vegas to earn money for a new engine for his motor car.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058725/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/viva_las_vegas"
+  },
+  {
+    "title": "Send Me No Flowers",
+    "year": 1964,
+    "director": {
+      "name": "Norman Jewison",
+      "imdb_person_url": "https://www.imdb.com/name/nm0422476/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 100,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 9.1,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Rock Hudson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001369/"
+      },
+      {
+        "name": "Doris Day",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000013/"
+      },
+      {
+        "name": "Tony Randall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0709695/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A hypochondriac believes he is dying and makes plans for his wife to be taken care of after he is gone.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058569/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/send_me_no_flowers"
+  },
+  {
+    "title": "Kiss Me, Stupid",
+    "year": 1964,
+    "director": {
+      "name": "Billy Wilder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+    },
+    "production_studio": "The Mirisch Company",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Dean Martin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001509/"
+      },
+      {
+        "name": "Kim Novak",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001571/"
+      },
+      {
+        "name": "Ray Walston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0909653/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A jealous piano teacher sends his beautiful wife away for the night while he tries to sell a song to a famous nightclub singer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058265/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kiss_me_stupid"
+  },
+  {
+    "title": "What a Way to Go!",
+    "year": 1964,
+    "director": {
+      "name": "J. Lee Thompson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0860269/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 11.2,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "54%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Shirley MacLaine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000511/"
+      },
+      {
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
+      },
+      {
+        "name": "Robert Mitchum",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman tries to give away her fortune, believing that her money is cursed and causes all her husbands to die.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058743/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/what_a_way_to_go"
+  },
+  {
+    "title": "The Fall of the Roman Empire",
+    "year": 1964,
+    "director": {
+      "name": "Anthony Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002237/"
+    },
+    "production_studio": "Samuel Bronston Productions",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 188,
+    "budget_usd_millions": 19.0,
+    "gross_revenue_usd_millions": 4.8,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Sophia Loren",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000047/"
+      },
+      {
+        "name": "Stephen Boyd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001966/"
+      },
+      {
+        "name": "Alec Guinness",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000027/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The death of Marcus Aurelius leads to a succession crisis, greed, and corruption that ultimately brings down the Roman Empire.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058085/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fall_of_the_roman_empire"
+  },
+  {
+    "title": "Cheyenne Autumn",
+    "year": 1964,
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
+    "production_studio": "Ford-Smith Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 154,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Richard Widmark",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001847/"
+      },
+      {
+        "name": "Carroll Baker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000834/"
+      },
+      {
+        "name": "Karl Malden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Cheyenne Indians, ill-treated and destitute on their reservation in Oklahoma, decide to return to their ancestral lands in Wyoming.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0057940/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cheyenne_autumn"
+  },
+  {
+    "title": "The Masque of the Red Death",
+    "year": 1964,
+    "director": {
+      "name": "Roger Corman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000339/"
+    },
+    "production_studio": "Alta Vista Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Vincent Price",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      },
+      {
+        "name": "Hazel Court",
+        "imdb_person_url": "https://www.imdb.com/name/nm0183760/"
+      },
+      {
+        "name": "Jane Asher",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000796/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058333/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/masque_of_the_red_death"
+  },
+  {
+    "title": "The Last Man on Earth",
+    "year": 1964,
+    "director": {
+      "name": "Ubaldo Ragona",
+      "imdb_person_url": "https://www.imdb.com/name/nm0706509/"
+    },
+    "production_studio": "Associated Producers (API)",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 86,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Vincent Price",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      },
+      {
+        "name": "Franca Bettoia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0079361/"
+      },
+      {
+        "name": "Emma Danieli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0199650/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a plague turns most of humanity into vampire-like zombies, the sole survivor Dr. Robert Morgan struggles to stay alive.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058285/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_man_on_earth"
+  },
+  {
+    "title": "Blood and Black Lace",
+    "year": 1964,
+    "director": {
+      "name": "Mario Bava",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000877/"
+    },
+    "production_studio": "Emmepi Cinematografica",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 88,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Cameron Mitchell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0593192/"
+      },
+      {
+        "name": "Eva Bartok",
+        "imdb_person_url": "https://www.imdb.com/name/nm0058696/"
+      },
+      {
+        "name": "Thomas Reiner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0717983/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A masked killer stalks the models of a high-fashion house in Rome to obtain a diary that incriminates them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058567/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blood_and_black_lace"
+  },
+  {
+    "title": "Robinson Crusoe on Mars",
+    "year": 1964,
+    "director": {
+      "name": "Byron Haskin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0368140/"
+    },
+    "production_studio": "Devonshire Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Paul Mantee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0544131/"
+      },
+      {
+        "name": "Victor Lundin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0526317/"
+      },
+      {
+        "name": "Adam West",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001842/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Stranded on Mars with only a monkey as a companion, an astronaut must figure out how to find oxygen, water, and food on the lifeless planet.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058530/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/robinson_crusoe_on_mars"
+  },
+  {
+    "title": "First Men in the Moon",
+    "year": 1964,
+    "director": {
+      "name": "Nathan Juran",
+      "imdb_person_url": "https://www.imdb.com/name/nm0432822/"
+    },
+    "production_studio": "Ameran Films",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 103,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Edward Judd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0431872/"
+      },
+      {
+        "name": "Martha Hyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002149/"
+      },
+      {
+        "name": "Lionel Jeffries",
+        "imdb_person_url": "https://www.imdb.com/name/nm0420311/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Based on H.G. Wells's novel, a Victorian-era team travels to the moon and discovers an insect-like civilization.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058100/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/first_men_in_the_moon"
+  },
+  {
+    "title": "The Killers",
+    "year": 1964,
+    "director": {
+      "name": "Don Siegel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0797083/"
+    },
+    "production_studio": "Revue Studios",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Lee Marvin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
+      },
+      {
+        "name": "Angie Dickinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001140/"
+      },
+      {
+        "name": "John Cassavetes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001023/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Hit men are surprised when their latest victim doesn't try to run away, leading them to investigate who hired them and why.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058263/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011573-killers"
+  },
+  {
+    "title": "Lady in a Cage",
+    "year": 1964,
+    "director": {
+      "name": "Walter Grauman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0336056/"
+    },
+    "production_studio": "Luther Davis Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Olivia de Havilland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000014/"
+      },
+      {
+        "name": "James Caan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
+      },
+      {
+        "name": "Jennifer Billingsley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0082531/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wealthy woman is trapped in her home elevator and terrorized by a group of young hoodlums.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058283/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lady_in_a_cage"
+  },
+  {
+    "title": "Strait-Jacket",
+    "year": 1964,
+    "director": {
+      "name": "William Castle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0145344/"
+    },
+    "production_studio": "William Castle Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Joan Crawford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001076/"
+      },
+      {
+        "name": "Diane Baker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000833/"
+      },
+      {
+        "name": "Leif Erickson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002062/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a 20-year stay in an asylum for a double murder, a mother returns to her estranged daughter, but decapitations start happening again.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058620/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/strait_jacket"
+  },
+  {
+    "title": "The World of Henry Orient",
+    "year": 1964,
+    "director": {
+      "name": "George Roy Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001351/"
+    },
+    "production_studio": "Pan Arts",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 106,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Peter Sellers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000634/"
+      },
+      {
+        "name": "Tippie Walker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0908253/"
+      },
+      {
+        "name": "Merrie Spaeth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0816530/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two teenage girls roam around New York City shadowing a womanizing concert pianist.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058756/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/world_of_henry_orient"
+  },
+  {
+    "title": "Nothing But a Man",
+    "year": 1964,
+    "director": {
+      "name": "Michael Roemer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0736340/"
+    },
+    "production_studio": "Nothing But a Man Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ivan Dixon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0228863/"
+      },
+      {
+        "name": "Abbey Lincoln",
+        "imdb_person_url": "https://www.imdb.com/name/nm0511082/"
+      },
+      {
+        "name": "Yaphet Kotto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001433/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Black railroad worker in the South tries to maintain his dignity in a racist society while dealing with his own troubled past.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058414/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nothing_but_a_man"
+  },
+  {
+    "title": "One Potato, Two Potato",
+    "year": 1964,
+    "director": {
+      "name": "Larry Peerce",
+      "imdb_person_url": "https://www.imdb.com/name/nm0670271/"
+    },
+    "production_studio": "Bawalco Picture Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 92,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Barbara Barrie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0057393/"
+      },
+      {
+        "name": "Bernie Hamilton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0357746/"
+      },
+      {
+        "name": "Richard Mulligan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005257/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A white divorcee marries a black man, but her ex-husband sues for custody of their child, arguing that a mixed-race household is an improper environment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058428/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/one_potato_two_potato"
+  },
+  {
+    "title": "I Am Cuba",
+    "year": 1964,
+    "director": {
+      "name": "Mikhail Kalatozov",
+      "imdb_person_url": "https://www.imdb.com/name/nm0435607/"
+    },
+    "production_studio": "Mosfilm",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 141,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Sergio Corrieri",
+        "imdb_person_url": "https://www.imdb.com/name/nm0180963/"
+      },
+      {
+        "name": "Salvador Wood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0939501/"
+      },
+      {
+        "name": "José Gallardo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0302636/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Four vignettes in Batista's Cuba explore the lives of the Cuban people during the pre-revolutionary era.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058604/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_am_cuba"
+  },
+  {
+    "title": "Pale Flower",
+    "year": 1964,
+    "director": {
+      "name": "Masahiro Shinoda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0793976/"
+    },
+    "production_studio": "Shochiku",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Ryô Ikebe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0407421/"
+      },
+      {
+        "name": "Mariko Kaga",
+        "imdb_person_url": "https://www.imdb.com/name/nm0434559/"
+      },
+      {
+        "name": "Takashi Fujiki",
+        "imdb_person_url": "https://www.imdb.com/name/nm0297686/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A yakuza hitman recently released from prison becomes involved with a mysterious young woman who has a penchant for high-stakes gambling.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058275/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pale_flower"
+  },
+  {
+    "title": "Diary of a Chambermaid",
+    "year": 1964,
+    "director": {
+      "name": "Luis Buñuel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000320/"
+    },
+    "production_studio": "Speva Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jeanne Moreau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0603466/"
+      },
+      {
+        "name": "Georges Géret",
+        "imdb_person_url": "https://www.imdb.com/name/nm0350993/"
+      },
+      {
+        "name": "Michel Piccoli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A chambermaid in 1930s France works for a family of eccentrics in a provincial town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0058267/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/diary_of_a_chambermaid"
+  },
+  {
+    "title": "Circus World",
+    "year": 1964,
+    "director": {
+      "name": "Henry Hathaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002130/"
+    },
+    "production_studio": "Samuel Bronston Productions",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Claudia Cardinale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001012/"
+      },
+      {
+        "name": "Rita Hayworth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song"
+    ],
+    "description": "A circus owner struggles to keep his show running while dealing with personal family drama.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0057952/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/circus_world"
   }
 ]

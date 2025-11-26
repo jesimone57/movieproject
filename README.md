@@ -440,20 +440,25 @@ look at the following json element describing a movie:
   "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/all_about_eve"
 }
 ```
-As a movie lover and as fan of cinema i would like a json dataset of a minimum of 40 unique elements
-for the most popular, iconic, celebrated and award-winning movies for that year. 
+As a movie lover and as fan of cinema I would like a json dataset of a minimum of 50 unique elements
+for the most popular, iconic, celebrated and award-winning movies for that year.
 Use the above data structure as a sample of the type of data to return.  
-Use movie ratings from IMDB and Rotten Tomatoes; find the film ranking, 
-if any, from the AFI website; list  the number of oscars nominated and won and which 
-oscars were won in an oscar_details array; runtime of the movie, director, actor with links 
+Use movie ratings from IMDB and Rotten Tomatoes; find the film ranking,
+if any, from the AFI website; list  the number of oscars nominated and won and which
+oscars were won in an oscar_details array; runtime of the movie, director, actor with links
 back to their imdb pages and all the other data you see above including budget and revenue numbers.  
 Ensure the actors, director and movie IMDB links reference the correct IMDB page by matching its title.
 Ensure there are no duplicate data elements!  Every movie in the dataset should be unique.
-please provide a quality dataset for the most important movies for a given year without duplicates 
-or omitting important films.   
-If you need more than 40 films to do the list justice then do so.
+please provide a quality dataset for the most important movies for a given year without duplicates
+or omitting important films.
 
-start with 1957.  The more movies the better.  Hope you can spare the CPU time!
+If you need more than 50 films to do the list justice then do so.
+
+Please include ALL movies from the given year with an IMDB rating of 7.5 or higher.
+Please include ALL movies that were nominated for or won an oscar.
+Please DO NOT allow duplicate movie titles in the resultant dataset
+
+start with 1962.  The more movies the better.  Hope you can spare the CPU time!
 
 how about 1994 please.  take your time and produce quality, complete and accurate data.  
 you can add additional movies to ensure we have a  truly satisfying list. you can go to 40 or 50 movies if you wish.

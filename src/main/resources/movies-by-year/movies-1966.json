@@ -1,111 +1,20 @@
 [
   {
-    "title": "The Good, the Bad and the Ugly",
-    "year": 1966,
-    "director": {
-      "name": "Sergio Leone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001466/"
-    },
-    "production_studio": "Produzioni Europee Associate (PEA)",
-    "mpaa_rating": "R",
-    "runtime_minutes": 178,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 25.1,
-    "ratings": {
-      "imdb": 8.8,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "97%"
-    },
-    "genres": [
-      "Adventure",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Clint Eastwood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
-      },
-      {
-        "name": "Eli Wallach",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001828/"
-      },
-      {
-        "name": "Lee Van Cleef",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060196/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_good_the_bad_and_the_ugly"
-  },
-  {
-    "title": "Who's Afraid of Virginia Woolf?",
-    "year": 1966,
-    "director": {
-      "name": "Mike Nichols",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001569/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 131,
-    "budget_usd_millions": 7.5,
-    "gross_revenue_usd_millions": 33.7,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Elizabeth Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
-      },
-      {
-        "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
-      },
-      {
-        "name": "George Segal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001718/"
-      }
-    ],
-    "oscars_nominated": 13,
-    "oscars_won": 5,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role",
-      "Best Actress in a Supporting Role",
-      "Best Cinematography, Black-and-White",
-      "Best Art Direction-Set Decoration, Black-and-White",
-      "Best Costume Design, Black-and-White"
-    ],
-    "description": "A bitter, aging couple with a toxic relationship invites a younger couple for a night of drunken barbs and psychological warfare.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061184/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whos_afraid_of_virginia_woolf"
-  },
-  {
     "title": "A Man for All Seasons",
     "year": 1966,
     "director": {
       "name": "Fred Zinnemann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001876/"
     },
     "production_studio": "Highland Films",
     "mpaa_rating": "G",
     "runtime_minutes": 120,
-    "budget_usd_millions": 2,
+    "budget_usd_millions": 3.9,
     "gross_revenue_usd_millions": 28.4,
     "ratings": {
       "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Biography",
@@ -119,7 +28,7 @@
       },
       {
         "name": "Wendy Hiller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0384883/"
       },
       {
         "name": "Robert Shaw",
@@ -136,10 +45,186 @@
       "Best Cinematography, Color",
       "Best Costume Design, Color"
     ],
-    "description": "The story of Sir Thomas More, who stood up to King Henry VIII when the King rejected the Roman Catholic Church to obtain a divorce and remarriage.",
+    "description": "The story of Thomas More, who stood up to King Henry VIII when the King rejected the Roman Catholic Church to obtain a divorce and remarriage.",
     "afi_ranking": 43,
     "imdb_url": "https://www.imdb.com/title/tt0060665/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_man_for_all_seasons"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_for_all_seasons"
+  },
+  {
+    "title": "Who's Afraid of Virginia Woolf?",
+    "year": 1966,
+    "director": {
+      "name": "Mike Nichols",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001566/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 131,
+    "budget_usd_millions": 7.5,
+    "gross_revenue_usd_millions": 33.7,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Elizabeth Taylor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
+      },
+      {
+        "name": "Richard Burton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
+      },
+      {
+        "name": "George Segal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001719/"
+      }
+    ],
+    "oscars_nominated": 13,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Actress in a Leading Role",
+      "Best Actress in a Supporting Role",
+      "Best Cinematography, Black-and-White",
+      "Best Art Direction-Set Decoration, Black-and-White",
+      "Best Costume Design, Black-and-White"
+    ],
+    "description": "A bitter, aging couple, with the help of alcohol, use a young couple to fuel anguish and emotional pain towards each other during the course of a night.",
+    "afi_ranking": 67,
+    "imdb_url": "https://www.imdb.com/title/tt0061184/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whos_afraid_of_virginia_woolf"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "director": {
+      "name": "Sergio Leone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000494/"
+    },
+    "production_studio": "Produzioni Europee Associate",
+    "mpaa_rating": "R",
+    "runtime_minutes": 178,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 25.1,
+    "ratings": {
+      "imdb": 8.8,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "97%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Clint Eastwood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+      },
+      {
+        "name": "Eli Wallach",
+        "imdb_person_url": "https://www.imdb.com/name/nm0908919/"
+      },
+      {
+        "name": "Lee Van Cleef",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001812/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060196/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_good_the_bad_and_the_ugly"
+  },
+  {
+    "title": "The Battle of Algiers",
+    "year": 1966,
+    "director": {
+      "name": "Gillo Pontecorvo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0690623/"
+    },
+    "production_studio": "Igor Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 0.9,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "99%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Brahim Hadjadj",
+        "imdb_person_url": "https://www.imdb.com/name/nm0352771/"
+      },
+      {
+        "name": "Jean Martin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0552509/"
+      },
+      {
+        "name": "Yacef Saadi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0754245/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060153/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/battle_of_algiers"
+  },
+  {
+    "title": "Persona",
+    "year": 1966,
+    "director": {
+      "name": "Ingmar Bergman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
+    },
+    "production_studio": "Svensk Filmindustri",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 83,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Bibi Andersson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000755/"
+      },
+      {
+        "name": "Liv Ullmann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001808/"
+      },
+      {
+        "name": "Margaretha Krook",
+        "imdb_person_url": "https://www.imdb.com/name/nm0472173/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A nurse is put in charge of a mute actress and finds that their personas are melding together.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060827/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/persona"
   },
   {
     "title": "Blow-Up",
@@ -152,11 +237,11 @@
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 111,
     "budget_usd_millions": 1.8,
-    "gross_revenue_usd_millions": 20,
+    "gross_revenue_usd_millions": 20.0,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Drama",
@@ -166,84 +251,41 @@
     "actors": [
       {
         "name": "David Hemmings",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001340/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001341/"
       },
       {
         "name": "Vanessa Redgrave",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000603/"
       },
       {
         "name": "Sarah Miles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001535/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0587243/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A London fashion photographer unknowingly captures a death on film after following two lovers in a park.",
+    "description": "A fashion photographer unknowingly captures a death on film after following two lovers in a park.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0060176/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blow_up_1966"
-  },
-  {
-    "title": "Persona",
-    "year": 1966,
-    "director": {
-      "name": "Ingmar Bergman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
-    },
-    "production_studio": "Svensk Filmindustri (SF)",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 85,
-    "budget_usd_millions": 0.15,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Bibi Andersson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0027962/"
-      },
-      {
-        "name": "Liv Ullmann",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
-      },
-      {
-        "name": "Margaretha Krook",
-        "imdb_person_url": "https://www.imdb.com/name/nm0472097/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A nurse is put in charge of a mute actress and finds that their personas are beginning to merge.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060827/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/persona"
   },
   {
     "title": "The Sand Pebbles",
     "year": 1966,
     "director": {
       "name": "Robert Wise",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000699/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0936404/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Argyle Enterprises",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 182,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 30,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 30.0,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "85%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Adventure",
@@ -261,80 +303,38 @@
       },
       {
         "name": "Candice Bergen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000914/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000298/"
       }
     ],
     "oscars_nominated": 8,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In 1926, an American naval engineer is assigned to a gunboat on a rescue mission in politically unstable China.",
+    "description": "In 1926 China, an American engineer on a gunboat tries to avoid political intrigue, but the world around him won't let him.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0060934/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sand_pebbles"
-  },
-  {
-    "title": "The Battle of Algiers",
-    "year": 1966,
-    "director": {
-      "name": "Gillo Pontecorvo",
-      "imdb_person_url": "https://www.imdb.com/name/nm0690587/"
-    },
-    "production_studio": "Igor Film",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": 0.06,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "99%",
-      "rotten_tomatoes_popcorn": "95%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Brahim Hadjadj",
-        "imdb_person_url": "https://www.imdb.com/name/nm0352932/"
-      },
-      {
-        "name": "Jean Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0552230/"
-      },
-      {
-        "name": "Yacef Saadi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0754497/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A film depicting the Algerian War of Independence from the perspective of the Algerian rebels.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0058946/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_battle_of_algiers"
   },
   {
     "title": "Alfie",
     "year": 1966,
     "director": {
       "name": "Lewis Gilbert",
-      "imdb_person_url": "https://www.imdb.com/name/nm0318107/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0318151/"
     },
     "production_studio": "Sheldrake Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 114,
     "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 18,
+    "gross_revenue_usd_millions": 18.0,
     "ratings": {
-      "imdb": 7.3,
+      "imdb": 7.0,
       "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "68%"
     },
     "genres": [
       "Comedy",
-      "Drama"
+      "Drama",
+      "Romance"
     ],
     "actors": [
       {
@@ -343,160 +343,27 @@
       },
       {
         "name": "Shelley Winters",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001851/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001859/"
       },
       {
         "name": "Millicent Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0552807/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0552787/"
       }
     ],
     "oscars_nominated": 5,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A self-centered, womanizing Londoner begins to question his empty, amoral lifestyle.",
+    "description": "An unrepentant ladies' man gradually begins to understand the consequences of his lifestyle.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0060086/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000511-alfie"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000643-alfie"
   },
   {
-    "title": "The Fortune Cookie",
-    "year": 1966,
-    "director": {
-      "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
-    },
-    "production_studio": "The Mirisch Corporation",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 3.7,
-    "gross_revenue_usd_millions": 6,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Jack Lemmon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
-      },
-      {
-        "name": "Walter Matthau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000527/"
-      },
-      {
-        "name": "Ron Rich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0723855/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role"
-    ],
-    "description": "A shyster lawyer convinces his brother-in-law to fake an injury in order to collect a large insurance settlement.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060424/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fortune_cookie"
-  },
-  {
-    "title": "Andrei Rublev",
-    "year": 1966,
-    "director": {
-      "name": "Andrei Tarkovsky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001789/"
-    },
-    "production_studio": "Mosfilm",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 205,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 0.1,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Anatoliy Solonitsyn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0813333/"
-      },
-      {
-        "name": "Ivan Lapikov",
-        "imdb_person_url": "https://www.imdb.com/name/nm0487771/"
-      },
-      {
-        "name": "Nikolay Grinko",
-        "imdb_person_url": "https://www.imdb.com/name/nm0342207/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A look at the life of the great 15th-century Russian icon painter, Andrei Rublev.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060107/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/andrei_rublev"
-  },
-  {
-    "title": "Django",
-    "year": 1966,
-    "director": {
-      "name": "Sergio Corbucci",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002017/"
-    },
-    "production_studio": "BRC",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 91,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Action",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Franco Nero",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001560/"
-      },
-      {
-        "name": "José Bódalo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0091037/"
-      },
-      {
-        "name": "Loredana Nusciak",
-        "imdb_person_url": "https://www.imdb.com/name/nm0638069/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A mysterious gunslinger named Django gets caught in the middle of a violent feud between a group of Confederate racists and a band of Mexican revolutionaries.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060315/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/django"
-  },
-  {
-    "title": "The Russians Are Coming, the Russians Are Coming",
+    "title": "The Russians Are Coming the Russians Are Coming",
     "year": 1966,
     "director": {
       "name": "Norman Jewison",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001400/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0422476/"
     },
     "production_studio": "The Mirisch Corporation",
     "mpaa_rating": "Not Rated",
@@ -504,8 +371,8 @@
     "budget_usd_millions": 3.9,
     "gross_revenue_usd_millions": 21.7,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "82%",
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "81%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
@@ -523,13 +390,13 @@
       },
       {
         "name": "Alan Arkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000273/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000271/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When a Soviet submarine runs aground on a small New England island, the crew causes a panic among the eccentric locals.",
+    "description": "Without hostile intent, a Soviet submarine runs aground off the coast of a New England island. The crew tries to find a boat to push them off, but the islanders go into a panic.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0060921/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/russians_are_coming_the_russians_are_coming"
@@ -539,17 +406,17 @@
     "year": 1966,
     "director": {
       "name": "Claude Lelouch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0500980/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0500989/"
     },
     "production_studio": "Les Films 13",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 102,
     "budget_usd_millions": 0.1,
-    "gross_revenue_usd_millions": 14,
+    "gross_revenue_usd_millions": 14.0,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "82%"
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Drama",
@@ -558,116 +425,72 @@
     "actors": [
       {
         "name": "Anouk Aimée",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000732/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000733/"
       },
       {
         "name": "Jean-Louis Trintignant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001802/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001804/"
       },
       {
         "name": "Pierre Barouh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0056372/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0056973/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Foreign Language Film",
-      "Best Writing, Story and Screenplay - Written Directly for the Screen"
+      "Best Writing, Story and Screenplay - Written Directly for the Screen",
+      "Best Foreign Language Film"
     ],
-    "description": "A man and a woman, both widowed, meet and fall in love, but their past tragedies threaten their newfound happiness.",
+    "description": "A widow and a widower find their relationship developing into love, but their past tragedies prove hard to overcome.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061138/",
+    "imdb_url": "https://www.imdb.com/title/tt0060512/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_man_and_a_woman"
   },
   {
-    "title": "Fahrenheit 451",
+    "title": "The Fortune Cookie",
     "year": 1966,
     "director": {
-      "name": "François Truffaut",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000076/"
+      "name": "Billy Wilder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
     },
-    "production_studio": "Anglo Enterprises",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": 1.1,
+    "production_studio": "Phalanx Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 6.0,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "73%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Drama",
-      "Sci-Fi"
+      "Comedy",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Oskar Werner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0921471/"
+        "name": "Jack Lemmon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
       },
       {
-        "name": "Julie Christie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
+        "name": "Walter Matthau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000527/"
       },
       {
-        "name": "Cyril Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002030/"
+        "name": "Ron Rich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0723863/"
       }
     ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In a futuristic society where books are outlawed, a fireman whose job it is to burn them begins to question his role.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060390/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fahrenheit_451"
-  },
-  {
-    "title": "Fantastic Voyage",
-    "year": 1966,
-    "director": {
-      "name": "Richard Fleischer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0281697/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 5.1,
-    "gross_revenue_usd_millions": 12,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Stephen Boyd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0101866/"
-      },
-      {
-        "name": "Raquel Welch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000077/"
-      },
-      {
-        "name": "Edmond O'Brien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001570/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 2,
+    "oscars_nominated": 4,
+    "oscars_won": 1,
     "oscars_won_details": [
-      "Best Art Direction-Set Decoration, Color",
-      "Best Effects, Special Visual Effects"
+      "Best Actor in a Supporting Role"
     ],
-    "description": "A submarine and its crew are shrunk to microscopic size and injected into the bloodstream of a scientist to save his life.",
+    "description": "A TV cameraman is injured at a football game, and his unscrupulous brother-in-law, a lawyer, convinces him to fake a serious injury for a big settlement.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060397/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fantastic_voyage"
+    "imdb_url": "https://www.imdb.com/title/tt0060424/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fortune_cookie"
   },
   {
     "title": "Grand Prix",
@@ -676,18 +499,17 @@
       "name": "John Frankenheimer",
       "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
     },
-    "production_studio": "Joel Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 179,
-    "budget_usd_millions": 9,
+    "production_studio": "Douglas & Lewis Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 176,
+    "budget_usd_millions": 9.0,
     "gross_revenue_usd_millions": 20.8,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
-      "Action",
       "Drama",
       "Sport"
     ],
@@ -702,7 +524,7 @@
       },
       {
         "name": "Yves Montand",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002001/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0599696/"
       }
     ],
     "oscars_nominated": 3,
@@ -712,10 +534,411 @@
       "Best Film Editing",
       "Best Effects, Sound Effects"
     ],
-    "description": "The lives and loves of four Formula One drivers are intertwined as they compete for the world championship.",
+    "description": "American Formula One driver Pete Aron is fired by his team after a crash at Monaco that injures his British teammate, Scott Stoddard.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0060472/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grand_prix"
+  },
+  {
+    "title": "Fantastic Voyage",
+    "year": 1966,
+    "director": {
+      "name": "Richard Fleischer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001217/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 5.1,
+    "gross_revenue_usd_millions": 12.0,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Stephen Boyd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001966/"
+      },
+      {
+        "name": "Raquel Welch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000079/"
+      },
+      {
+        "name": "Edmond O'Brien",
+        "imdb_person_url": "https://www.imdb.com/name/nm0639524/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Art Direction-Set Decoration, Color",
+      "Best Effects, Special Visual Effects"
+    ],
+    "description": "A scientist is nearly assassinated. In order to save him, a submarine is shrunken to microscopic size and injected into his blood stream with a small crew.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060397/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fantastic_voyage"
+  },
+  {
+    "title": "Born Free",
+    "year": 1966,
+    "director": {
+      "name": "James Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0384358/"
+    },
+    "production_studio": "Open Road Films (II)",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Virginia McKenna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0571439/"
+      },
+      {
+        "name": "Bill Travers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0871261/"
+      },
+      {
+        "name": "Geoffrey Keen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0444589/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Music, Original Song",
+      "Best Music, Original Music Score"
+    ],
+    "description": "Joy and George Adamson raise Elsa the Lioness, an orphaned lion cub, to adulthood and release her into the wilderness of Kenya.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060182/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/born_free"
+  },
+  {
+    "title": "Georgy Girl",
+    "year": 1966,
+    "director": {
+      "name": "Silvio Narizzano",
+      "imdb_person_url": "https://www.imdb.com/name/nm0621430/"
+    },
+    "production_studio": "Everglades Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": 16.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "James Mason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001512/"
+      },
+      {
+        "name": "Alan Bates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000868/"
+      },
+      {
+        "name": "Lynn Redgrave",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001655/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A carefree young woman is forced to make a difficult decision between two men: the middle-aged employer of her parents, and the young lover of her promiscuous roommate.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060453/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/georgy_girl"
+  },
+  {
+    "title": "The Professionals",
+    "year": 1966,
+    "director": {
+      "name": "Richard Brooks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0112217/"
+    },
+    "production_studio": "Pax Enterprises",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 19.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Burt Lancaster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000044/"
+      },
+      {
+        "name": "Lee Marvin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
+      },
+      {
+        "name": "Robert Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0752813/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wealthy rancher hires four professionals to rescue his kidnapped wife from a Mexican revolutionary.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060865/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016788-professionals"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "year": 1966,
+    "director": {
+      "name": "François Truffaut",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000076/"
+    },
+    "production_studio": "Anglo Enterprises",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Oskar Werner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0921473/"
+      },
+      {
+        "name": "Julie Christie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
+      },
+      {
+        "name": "Cyril Cusack",
+        "imdb_person_url": "https://www.imdb.com/name/nm0193630/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In an oppressive future, a 'fireman' whose duty is to destroy all books begins to question his task.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060390/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fahrenheit_451"
+  },
+  {
+    "title": "Andrei Rublev",
+    "year": 1966,
+    "director": {
+      "name": "Andrei Tarkovsky",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001789/"
+    },
+    "production_studio": "Mosfilm",
+    "mpaa_rating": "R",
+    "runtime_minutes": 205,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Anatoliy Solonitsyn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0813292/"
+      },
+      {
+        "name": "Ivan Lapikov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0487532/"
+      },
+      {
+        "name": "Nikolay Grinko",
+        "imdb_person_url": "https://www.imdb.com/name/nm0342502/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The life, times and afflictions of the 15th-century Russian iconographer Andrei Rublev.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060107/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/andrei_rublev"
+  },
+  {
+    "title": "Au Hasard Balthazar",
+    "year": 1966,
+    "director": {
+      "name": "Robert Bresson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000975/"
+    },
+    "production_studio": "Argos Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anne Wiazemsky",
+        "imdb_person_url": "https://www.imdb.com/name/nm0924467/"
+      },
+      {
+        "name": "Walter Green",
+        "imdb_person_url": "https://www.imdb.com/name/nm0338423/"
+      },
+      {
+        "name": "François Lafarge",
+        "imdb_person_url": "https://www.imdb.com/name/nm0480748/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The life of a donkey and his various masters is presented as a spiritual journey.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060138/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/au_hasard_balthazar"
+  },
+  {
+    "title": "Closely Watched Trains",
+    "year": 1966,
+    "director": {
+      "name": "Jirí Menzel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0580046/"
+    },
+    "production_studio": "Filmové studio Barrandov",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Václav Neckár",
+        "imdb_person_url": "https://www.imdb.com/name/nm0623910/"
+      },
+      {
+        "name": "Josef Somr",
+        "imdb_person_url": "https://www.imdb.com/name/nm0814002/"
+      },
+      {
+        "name": "Vlastimil Brodský",
+        "imdb_person_url": "https://www.imdb.com/name/nm0110972/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "An apprentice train dispatcher at a village station seeks his first sexual encounter and becomes despondent when he is unable to perform.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060802/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/closely_watched_trains"
+  },
+  {
+    "title": "The Endless Summer",
+    "year": 1966,
+    "director": {
+      "name": "Bruce Brown",
+      "imdb_person_url": "https://www.imdb.com/name/nm0113176/"
+    },
+    "production_studio": "Bruce Brown Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.05,
+    "gross_revenue_usd_millions": 30.0,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Michael Hynson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0405295/"
+      },
+      {
+        "name": "Robert August",
+        "imdb_person_url": "https://www.imdb.com/name/nm0041865/"
+      },
+      {
+        "name": "Bruce Brown",
+        "imdb_person_url": "https://www.imdb.com/name/nm0113176/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Documentary filmmaker Bruce Brown follows two young surfers around the world in search of the perfect wave.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060371/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/endless_summer"
   },
   {
     "title": "How to Steal a Million",
@@ -725,14 +948,14 @@
       "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
     },
     "production_studio": "World Wide Productions",
-    "mpaa_rating": "Approved",
+    "mpaa_rating": "Not Rated",
     "runtime_minutes": 123,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 7.5,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Comedy",
@@ -750,472 +973,33 @@
       },
       {
         "name": "Eli Wallach",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001828/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0908919/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A woman who must steal a statue from a museum to help her father, a forger, and hires a burglar to do the job, but he is actually a detective.",
+    "description": "A woman who is the daughter of a famous art forger teams up with a burglar to steal one of her father's forgeries from a museum to protect him.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0060522/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/how_to_steal_a_million"
-  },
-  {
-    "title": "Born Free",
-    "year": 1966,
-    "director": {
-      "name": "James Hill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0384260/"
-    },
-    "production_studio": "Open Road Films",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 22.5,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Virginia McKenna",
-        "imdb_person_url": "https://www.imdb.com/name/nm0570395/"
-      },
-      {
-        "name": "Bill Travers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0871239/"
-      },
-      {
-        "name": "Geoffrey Keen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0444640/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Music, Original Song",
-      "Best Music, Score - Substantially Original"
-    ],
-    "description": "The true story of a British couple who raise a lion cub and must eventually release it back into the wild.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060182/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/born_free"
-  },
-  {
-    "title": "The Professionals",
-    "year": 1966,
-    "director": {
-      "name": "Richard Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0112139/"
-    },
-    "production_studio": "Pax Enterprises",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 19,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "82%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      },
-      {
-        "name": "Lee Marvin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
-      },
-      {
-        "name": "Robert Ryan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Four soldiers of fortune are hired by a wealthy Texan to rescue his kidnapped wife from a Mexican revolutionary.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060862/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/professionals"
-  },
-  {
-    "title": "Georgy Girl",
-    "year": 1966,
-    "director": {
-      "name": "Silvio Narizzano",
-      "imdb_person_url": "https://www.imdb.com/name/nm0621598/"
-    },
-    "production_studio": "Everglades Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 100,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 16.9,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
-      },
-      {
-        "name": "Alan Bates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000876/"
-      },
-      {
-        "name": "Lynn Redgrave",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001655/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A plain, insecure young woman in London is pursued by her father's wealthy employer and her roommate's irresponsible boyfriend.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060453/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/georgy_girl"
-  },
-  {
-    "title": "Au Hasard Balthazar",
-    "year": 1966,
-    "director": {
-      "name": "Robert Bresson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0108170/"
-    },
-    "production_studio": "Argos Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 95,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.04,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Anne Wiazemsky",
-        "imdb_person_url": "https://www.imdb.com/name/nm0927237/"
-      },
-      {
-        "name": "Walter Green",
-        "imdb_person_url": "https://www.imdb.com/name/nm0338006/"
-      },
-      {
-        "name": "François Lafarge",
-        "imdb_person_url": "https://www.imdb.com/name/nm0480838/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of a mistreated donkey and the people around him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060138/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/au_hasard_balthazar"
-  },
-  {
-    "title": "Torn Curtain",
-    "year": 1966,
-    "director": {
-      "name": "Alfred Hitchcock",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 13,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Julie Andrews",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000267/"
-      },
-      {
-        "name": "Lila Kedrova",
-        "imdb_person_url": "https://www.imdb.com/name/nm0444342/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An American scientist publicly defects to East Germany as part of a clandestine mission to find a scientist there.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061107/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/torn_curtain"
-  },
-  {
-    "title": "Seconds",
-    "year": 1966,
-    "director": {
-      "name": "John Frankenheimer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
-    },
-    "production_studio": "Joel Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 107,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1.7,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Rock Hudson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001369/"
-      },
-      {
-        "name": "Salome Jens",
-        "imdb_person_url": "https://www.imdb.com/name/nm0421097/"
-      },
-      {
-        "name": "John Randolph",
-        "imdb_person_url": "https://www.imdb.com/name/nm0709939/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An unhappy middle-aged banker agrees to a procedure that will fake his death and give him a new life, but he finds his new existence to be just as empty.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060955/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seconds"
-  },
-  {
-    "title": "Batman: The Movie",
-    "year": 1966,
-    "director": {
-      "name": "Leslie H. Martinson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0554479/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 1.37,
-    "gross_revenue_usd_millions": 8,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Adam West",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001842/"
-      },
-      {
-        "name": "Burt Ward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0911529/"
-      },
-      {
-        "name": "Lee Meriwether",
-        "imdb_person_url": "https://www.imdb.com/name/nm0580795/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The Dynamic Duo faces four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060153/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/batman_the_movie"
-  },
-  {
-    "title": "Harper",
-    "year": 1966,
-    "director": {
-      "name": "Jack Smight",
-      "imdb_person_url": "https://www.imdb.com/name/nm0806939/"
-    },
-    "production_studio": "Gershwin-Kastner Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 12,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "74%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Lauren Bacall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000002/"
-      },
-      {
-        "name": "Julie Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A private investigator is hired to find a missing millionaire, and he uncovers a web of corruption and deceit.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060490/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harper"
-  },
-  {
-    "title": "One Million Years B.C.",
-    "year": 1966,
-    "director": {
-      "name": "Don Chaffey",
-      "imdb_person_url": "https://www.imdb.com/name/nm0149533/"
-    },
-    "production_studio": "Hammer Film Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 8,
-    "ratings": {
-      "imdb": 5.7,
-      "rotten_tomatoes_critic": "53%",
-      "rotten_tomatoes_popcorn": "41%"
-    },
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Raquel Welch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000077/"
-      },
-      {
-        "name": "John Richardson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0724682/"
-      },
-      {
-        "name": "Percy Herbert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0378822/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In prehistoric times, a man from a brutal tribe is exiled and finds a new home with a more peaceful tribe, but he must contend with dinosaurs and other dangers.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060782/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/one_million_years_bc"
-  },
-  {
-    "title": "The Wild Angels",
-    "year": 1966,
-    "director": {
-      "name": "Roger Corman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000339/"
-    },
-    "production_studio": "American International Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 0.35,
-    "gross_revenue_usd_millions": 6.5,
-    "ratings": {
-      "imdb": 5.6,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "46%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Peter Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
-      },
-      {
-        "name": "Nancy Sinatra",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
-      },
-      {
-        "name": "Bruce Dern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A motorcycle gang roams the California desert and gets into trouble with the law and rival gangs.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061189/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wild_angels"
   },
   {
     "title": "Gambit",
     "year": 1966,
     "director": {
       "name": "Ronald Neame",
-      "imdb_person_url": "https://www.imdb.com/name/nm0623658/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0623803/"
     },
     "production_studio": "Universal Pictures",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 109,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 10,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.3,
+      "imdb": 7.1,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "79%"
+      "rotten_tomatoes_popcorn": "74%"
     },
     "genres": [
       "Comedy",
@@ -1239,27 +1023,72 @@
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A cat burglar and his accomplice plan to steal a priceless statue from a wealthy collector.",
+    "description": "A cat burglar recruits a Eurasian dancer to help him steal a priceless artifact from a billionaire.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0060445/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gambit"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008075-gambit"
   },
   {
-    "title": "Our Man Flint",
+    "title": "A Funny Thing Happened on the Way to the Forum",
     "year": 1966,
     "director": {
-      "name": "Daniel Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0542618/"
+      "name": "Richard Lester",
+      "imdb_person_url": "https://www.imdb.com/name/nm0504515/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Melvin Frank Productions",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 16,
+    "runtime_minutes": 99,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "61%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Zero Mostel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0609228/"
+      },
+      {
+        "name": "Phil Silvers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0799044/"
+      },
+      {
+        "name": "Buster Keaton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001418/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Scoring of Music, Adaptation or Treatment"
+    ],
+    "description": "A wily, quick-witted slave named Pseudolus struggles to win the hand of a beautiful but slow-witted courtesan for his young master, in exchange for his freedom.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060438/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/funny_thing_happened_on_the_way_to_the_forum"
+  },
+  {
+    "title": "Batman",
+    "year": 1966,
+    "director": {
+      "name": "Leslie H. Martinson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0554160/"
+    },
+    "production_studio": "Greenlawn Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "62%"
     },
     "genres": [
       "Action",
@@ -1268,68 +1097,1190 @@
     ],
     "actors": [
       {
-        "name": "James Coburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000336/"
+        "name": "Adam West",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001842/"
       },
       {
-        "name": "Lee J. Cobb",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001053/"
+        "name": "Burt Ward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0911431/"
       },
       {
-        "name": "Gila Golan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0324830/"
+        "name": "Lee Meriwether",
+        "imdb_person_url": "https://www.imdb.com/name/nm0580886/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A super-spy is brought out of retirement to stop a criminal organization that is trying to take over the world by controlling the weather.",
+    "description": "The Dynamic Duo faces four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0059550/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/our_man_flint"
+    "imdb_url": "https://www.imdb.com/title/tt0060153/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/batman_the_movie"
   },
   {
-    "title": "The Glass Bottom Boat",
+    "title": "One Million Years B.C.",
     "year": 1966,
     "director": {
-      "name": "Frank Tashlin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0850892/"
+      "name": "Don Chaffey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0149557/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 110,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 7.5,
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 0.4,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "61%"
+      "imdb": 5.7,
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "41%"
     },
     "genres": [
-      "Comedy",
-      "Romance",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Raquel Welch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000079/"
+      },
+      {
+        "name": "John Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0724623/"
+      },
+      {
+        "name": "Percy Herbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0378634/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Prehistoric man Tumak is banished from his savage tribe and meets Loana, a woman from a gentler, more advanced coastal tribe.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060782/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/one_million_years_bc"
+  },
+  {
+    "title": "Seconds",
+    "year": 1966,
+    "director": {
+      "name": "John Frankenheimer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
+    },
+    "production_studio": "Joel Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Sci-Fi",
       "Thriller"
     ],
     "actors": [
       {
-        "name": "Doris Day",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000013/"
+        "name": "Rock Hudson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001369/"
       },
       {
-        "name": "Rod Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001789/"
+        "name": "Salome Jens",
+        "imdb_person_url": "https://www.imdb.com/name/nm0421303/"
       },
       {
-        "name": "Arthur Godfrey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0324001/"
+        "name": "John Randolph",
+        "imdb_person_url": "https://www.imdb.com/name/nm0709886/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An unhappy middle-aged banker agrees to a procedure that will fake his death and give him a completely new look and identity.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060955/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seconds"
+  },
+  {
+    "title": "The Wild Angels",
+    "year": 1966,
+    "director": {
+      "name": "Roger Corman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000339/"
+    },
+    "production_studio": "American International Pictures (AIP)",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 0.36,
+    "gross_revenue_usd_millions": 15.5,
+    "ratings": {
+      "imdb": 5.7,
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Peter Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001228/"
+      },
+      {
+        "name": "Nancy Sinatra",
+        "imdb_person_url": "https://www.imdb.com/name/nm0801550/"
+      },
+      {
+        "name": "Bruce Dern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001136/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A woman who works at a space-age research lab is mistaken for a Russian spy.",
+    "description": "The leader of a motorcycle gang loses his bike and has to get it back, leading to a series of brawls and destructive behavior.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060463/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/glass_bottom_boat"
+    "imdb_url": "https://www.imdb.com/title/tt0061189/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wild_angels"
+  },
+  {
+    "title": "Daisies",
+    "year": 1966,
+    "director": {
+      "name": "Vera Chytilová",
+      "imdb_person_url": "https://www.imdb.com/name/nm0161601/"
+    },
+    "production_studio": "Filmové studio Barrandov",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 74,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Ivana Karbanová",
+        "imdb_person_url": "https://www.imdb.com/name/nm0439009/"
+      },
+      {
+        "name": "Jitka Cerhová",
+        "imdb_person_url": "https://www.imdb.com/name/nm0148600/"
+      },
+      {
+        "name": "Marie Cesková",
+        "imdb_person_url": "https://www.imdb.com/name/nm0148967/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two teenage girls, both named Marie, decide that since the world is spoiled they will be spoiled as well; accordingly, they embark on a series of destructive pranks.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060959/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/daisies"
+  },
+  {
+    "title": "The Face of Another",
+    "year": 1966,
+    "director": {
+      "name": "Hiroshi Teshigahara",
+      "imdb_person_url": "https://www.imdb.com/name/nm0856193/"
+    },
+    "production_studio": "Teshigahara Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 122,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Tatsuya Nakadai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0620021/"
+      },
+      {
+        "name": "Machiko Kyô",
+        "imdb_person_url": "https://www.imdb.com/name/nm0477435/"
+      },
+      {
+        "name": "Mikijirô Hira",
+        "imdb_person_url": "https://www.imdb.com/name/nm0386121/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A businessman with a disfigured face obtains a lifelike mask from his doctor, but the mask begins to alter his personality.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061065/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/face_of_another"
+  },
+  {
+    "title": "The Sword of Doom",
+    "year": 1966,
+    "director": {
+      "name": "Kihachi Okamoto",
+      "imdb_person_url": "https://www.imdb.com/name/nm0645477/"
+    },
+    "production_studio": "Toho Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 120,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Tatsuya Nakadai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0620021/"
+      },
+      {
+        "name": "Toshirô Mifune",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001536/"
+      },
+      {
+        "name": "Yûzô Kayama",
+        "imdb_person_url": "https://www.imdb.com/name/nm0443422/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sociopathic samurai without a conscience leaves a trail of bloodshed in feudal Japan.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060277/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sword_of_doom"
+  },
+  {
+    "title": "Harper",
+    "year": 1966,
+    "director": {
+      "name": "Jack Smight",
+      "imdb_person_url": "https://www.imdb.com/name/nm0806917/"
+    },
+    "production_studio": "Gershwin-Kastner",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 12.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
+      },
+      {
+        "name": "Lauren Bacall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000004/"
+      },
+      {
+        "name": "Julie Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0364918/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Private investigator Lew Harper is hired by a wealthy woman to find her missing husband.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060491/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harper"
+  },
+  {
+    "title": "The Blue Max",
+    "year": 1966,
+    "director": {
+      "name": "John Guillermin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0347113/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 156,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 17.0,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "George Peppard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000577/"
+      },
+      {
+        "name": "James Mason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001512/"
+      },
+      {
+        "name": "Ursula Andress",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000266/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young German World War I fighter pilot is ambitious to the point of obsession in his quest to earn the coveted Blue Max medal.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060175/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_max"
+  },
+  {
+    "title": "Arabesque",
+    "year": 1966,
+    "director": {
+      "name": "Stanley Donen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002045/"
+    },
+    "production_studio": "Stanley Donen Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 6.8,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Gregory Peck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
+      },
+      {
+        "name": "Sophia Loren",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000047/"
+      },
+      {
+        "name": "Alan Badel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0046030/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A university professor of ancient languages discovers a secret message and gets involved in international intrigue and a plot to assassinate a prime minister.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060113/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/arabesque"
+  },
+  {
+    "title": "Torn Curtain",
+    "year": 1966,
+    "director": {
+      "name": "Alfred Hitchcock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 13.0,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
+      },
+      {
+        "name": "Julie Andrews",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000267/"
+      },
+      {
+        "name": "Lila Kedrova",
+        "imdb_person_url": "https://www.imdb.com/name/nm0444321/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American scientist publicly defects to East Germany as part of a cloak and dagger mission to find the solution for a formula resin and then escape back to the West.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061107/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/torn_curtain"
+  },
+  {
+    "title": "Hawaii",
+    "year": 1966,
+    "director": {
+      "name": "George Roy Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001351/"
+    },
+    "production_studio": "The Mirisch Corporation",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 189,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 34.5,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Julie Andrews",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000267/"
+      },
+      {
+        "name": "Max von Sydow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001884/"
+      },
+      {
+        "name": "Richard Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American missionary and his wife travel to the exotic island kingdom of Hawaii, intent on converting the natives to Christianity, but the clash between the two cultures results in tragedy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060495/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hawaii"
+  },
+  {
+    "title": "The Chase",
+    "year": 1966,
+    "director": {
+      "name": "Arthur Penn",
+      "imdb_person_url": "https://www.imdb.com/name/nm0006611/"
+    },
+    "production_studio": "Horizon Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 5.6,
+    "gross_revenue_usd_millions": 2.7,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Marlon Brando",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
+      },
+      {
+        "name": "Jane Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
+      },
+      {
+        "name": "Robert Redford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The escape of Bubber Reeves from prison affects the inhabitants of a small Southern town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060232/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004020-chase"
+  },
+  {
+    "title": "This Property Is Condemned",
+    "year": 1966,
+    "director": {
+      "name": "Sydney Pollack",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001628/"
+    },
+    "production_studio": "Seven Arts Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Natalie Wood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000081/"
+      },
+      {
+        "name": "Robert Redford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+      },
+      {
+        "name": "Charles Bronson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000314/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A railroad official comes to a small Mississippi town to shut down the rail yard and becomes involved with the town flirt.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061089/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/this_property_is_condemned"
+  },
+  {
+    "title": "Nevada Smith",
+    "year": 1966,
+    "director": {
+      "name": "Henry Hathaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002130/"
+    },
+    "production_studio": "Solar Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 11.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Steve McQueen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000537/"
+      },
+      {
+        "name": "Karl Malden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001500/"
+      },
+      {
+        "name": "Brian Keith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001417/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A half-Indian gunslinger sets out to avenge the brutal murder of his parents.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060746/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nevada_smith"
+  },
+  {
+    "title": "Morgan!",
+    "year": 1966,
+    "director": {
+      "name": "Karel Reisz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0718469/"
+    },
+    "production_studio": "Quintra",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "David Warner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001831/"
+      },
+      {
+        "name": "Vanessa Redgrave",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000603/"
+      },
+      {
+        "name": "Robert Stephens",
+        "imdb_person_url": "https://www.imdb.com/name/nm0827138/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A working class artist tries to win back his upper class wife by kidnapping her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060716/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/morgan"
+  },
+  {
+    "title": "Khartoum",
+    "year": 1966,
+    "director": {
+      "name": "Basil Dearden",
+      "imdb_person_url": "https://www.imdb.com/name/nm0213166/"
+    },
+    "production_studio": "Julian Blaustein Productions Ltd.",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 6.5,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Charlton Heston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
+      },
+      {
+        "name": "Laurence Olivier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
+      },
+      {
+        "name": "Richard Johnson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0426062/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the Sudan in 1884-85, Egyptian forces led by British General Charles Gordon defend Khartoum against an invading Muslim army led by the Mahdi.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060588/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/khartoum"
+  },
+  {
+    "title": "Funeral in Berlin",
+    "year": 1966,
+    "director": {
+      "name": "Guy Hamilton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0357912/"
+    },
+    "production_studio": "Jovera",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Michael Caine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
+      },
+      {
+        "name": "Paul Hubschmid",
+        "imdb_person_url": "https://www.imdb.com/name/nm0399558/"
+      },
+      {
+        "name": "Oskar Homolka",
+        "imdb_person_url": "https://www.imdb.com/name/nm0393010/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "British secret agent Harry Palmer is sent to Berlin to arrange the defection of a Russian general.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060437/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/funeral_in_berlin"
+  },
+  {
+    "title": "The Wrong Box",
+    "year": 1966,
+    "director": {
+      "name": "Bryan Forbes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0285292/"
+    },
+    "production_studio": "Salamander Film Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "John Mills",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001538/"
+      },
+      {
+        "name": "Ralph Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001669/"
+      },
+      {
+        "name": "Michael Caine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In Victorian England, a tontine competition between two elderly brothers to be the sole beneficiary of a fortune causes chaos among their greedy potential heirs.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061204/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wrong_box"
+  },
+  {
+    "title": "Any Wednesday",
+    "year": 1966,
+    "director": {
+      "name": "Robert Ellis Miller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0589246/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 109,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jane Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
+      },
+      {
+        "name": "Jason Robards",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
+      },
+      {
+        "name": "Dean Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0427901/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A businessman keeps his mistress in a company apartment, until his wife accidentally walks in.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060111/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/any_wednesday"
+  },
+  {
+    "title": "Duel at Diablo",
+    "year": 1966,
+    "director": {
+      "name": "Ralph Nelson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0625694/"
+    },
+    "production_studio": "Nelson-Engel-Cherokee",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 103,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 5.0,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "James Garner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001258/"
+      },
+      {
+        "name": "Sidney Poitier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001627/"
+      },
+      {
+        "name": "Bibi Andersson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000755/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A frontier scout tracks the Apaches who murdered his Comanche wife, while also guiding a cavalry troop supply wagon.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060355/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/duel_at_diablo"
+  },
+  {
+    "title": "The Shooting",
+    "year": 1966,
+    "director": {
+      "name": "Monte Hellman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0375480/"
+    },
+    "production_studio": "Proteus Films",
+    "mpaa_rating": "G",
+    "runtime_minutes": 82,
+    "budget_usd_millions": 0.075,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Will Hutchins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404318/"
+      },
+      {
+        "name": "Millie Perkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0674015/"
+      },
+      {
+        "name": "Jack Nicholson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mysterious woman hires two miners to guide her across the desert to an unknown destination.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062262/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_shooting"
+  },
+  {
+    "title": "Ride in the Whirlwind",
+    "year": 1966,
+    "director": {
+      "name": "Monte Hellman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0375480/"
+    },
+    "production_studio": "Proteus Films",
+    "mpaa_rating": "G",
+    "runtime_minutes": 82,
+    "budget_usd_millions": 0.075,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Jack Nicholson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
+      },
+      {
+        "name": "Cameron Mitchell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0593192/"
+      },
+      {
+        "name": "Tom Filer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0276856/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three cowboys are mistaken for members of a gang of outlaws by a vigilante posse and forced to flee for their lives.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0059654/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ride_in_the_whirlwind"
+  },
+  {
+    "title": "Dracula: Prince of Darkness",
+    "year": 1966,
+    "director": {
+      "name": "Terence Fisher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0279816/"
+    },
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Christopher Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000489/"
+      },
+      {
+        "name": "Barbara Shelley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0791168/"
+      },
+      {
+        "name": "Andrew Keir",
+        "imdb_person_url": "https://www.imdb.com/name/nm0445039/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Dracula is resurrected, preying on four unsuspecting holidaymakers trapped in his castle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0059127/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dracula_prince_of_darkness"
+  },
+  {
+    "title": "Masculin Féminin",
+    "year": 1966,
+    "director": {
+      "name": "Jean-Luc Godard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000419/"
+    },
+    "production_studio": "Anouchka Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 103,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jean-Pierre Léaud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0529596/"
+      },
+      {
+        "name": "Chantal Goya",
+        "imdb_person_url": "https://www.imdb.com/name/nm0333010/"
+      },
+      {
+        "name": "Marlène Jobert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0423403/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young idealistic poet chases a budding pop star, but their relationship is complicated by politics and the changing youth culture.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060675/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/masculin_feminin"
+  },
+  {
+    "title": "Cul-de-sac",
+    "year": 1966,
+    "director": {
+      "name": "Roman Polanski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
+    },
+    "production_studio": "Compton Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 113,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Donald Pleasence",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000588/"
+      },
+      {
+        "name": "Françoise Dorléac",
+        "imdb_person_url": "https://www.imdb.com/name/nm0233668/"
+      },
+      {
+        "name": "Lionel Stander",
+        "imdb_person_url": "https://www.imdb.com/name/nm0822055/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two wounded gangsters take refuge in a remote castle on a British island, terrorizing the neurotic owner and his young wife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060268/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004996-cul_de_sac"
+  },
+  {
+    "title": "Kill, Baby... Kill!",
+    "year": 1966,
+    "director": {
+      "name": "Mario Bava",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000877/"
+    },
+    "production_studio": "F.U.L. Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 83,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Giacomo Rossi Stuart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0744383/"
+      },
+      {
+        "name": "Erika Blanc",
+        "imdb_person_url": "https://www.imdb.com/name/nm0086971/"
+      },
+      {
+        "name": "Fabienne Dali",
+        "imdb_person_url": "https://www.imdb.com/name/nm0197906/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A turn-of-the-century Carpathian village is haunted by the ghost of a young girl who compels people to commit suicide.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060794/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kill_baby_kill"
+  },
+  {
+    "title": "Django",
+    "year": 1966,
+    "director": {
+      "name": "Sergio Corbucci",
+      "imdb_person_url": "https://www.imdb.com/name/nm0179266/"
+    },
+    "production_studio": "B.R.C. Produzione S.r.l.",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Action",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Franco Nero",
+        "imdb_person_url": "https://www.imdb.com/name/nm0626259/"
+      },
+      {
+        "name": "José Bódalo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0126786/"
+      },
+      {
+        "name": "Loredana Nusciak",
+        "imdb_person_url": "https://www.imdb.com/name/nm0638290/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A coffin-dragging gunslinger enters a town caught in a power struggle between two rival gangs.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0060315/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/django"
   }
 ]
