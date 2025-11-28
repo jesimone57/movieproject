@@ -1,15 +1,15 @@
 [
   {
-    "title": "The Empire Strikes Back",
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
     "year": 1980,
     "director": {
       "name": "Irvin Kershner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001423/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0449984/"
     },
     "production_studio": "Lucasfilm",
     "mpaa_rating": "PG",
     "runtime_minutes": 124,
-    "budget_usd_millions": 18,
+    "budget_usd_millions": 18.0,
     "gross_revenue_usd_millions": 538.4,
     "ratings": {
       "imdb": 8.7,
@@ -39,55 +39,12 @@
     "oscars_won": 2,
     "oscars_won_details": [
       "Best Sound",
-      "Special Achievement Award for Visual Effects"
+      "Special Achievement Award (Visual Effects)"
     ],
-    "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+    "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0080684/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/empire_strikes_back"
-  },
-  {
-    "title": "The Shining",
-    "year": 1980,
-    "director": {
-      "name": "Stanley Kubrick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000040/"
-    },
-    "production_studio": "Warner Bros., Hawk Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 146,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 47.3,
-    "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Drama",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
-      },
-      {
-        "name": "Shelley Duvall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001167/"
-      },
-      {
-        "name": "Danny Lloyd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0516004/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081505/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_shining"
   },
   {
     "title": "Raging Bull",
@@ -96,13 +53,13 @@
       "name": "Martin Scorsese",
       "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
     },
-    "production_studio": "United Artists",
+    "production_studio": "Chartoff-Winkler Productions",
     "mpaa_rating": "R",
     "runtime_minutes": 129,
-    "budget_usd_millions": 18,
+    "budget_usd_millions": 18.0,
     "gross_revenue_usd_millions": 23.4,
     "ratings": {
-      "imdb": 8.1,
+      "imdb": 8.2,
       "rotten_tomatoes_critic": "93%",
       "rotten_tomatoes_popcorn": "93%"
     },
@@ -131,17 +88,60 @@
       "Best Actor in a Leading Role",
       "Best Film Editing"
     ],
-    "description": "The life of boxer Jake LaMotta, whose self-destructive tendencies, jealousy, and animalistic rage destroyed his career and his relationships.",
+    "description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
     "afi_ranking": 4,
     "imdb_url": "https://www.imdb.com/title/tt0081398/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/raging_bull"
   },
   {
+    "title": "The Shining",
+    "year": 1980,
+    "director": {
+      "name": "Stanley Kubrick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000040/"
+    },
+    "production_studio": "Peregrine",
+    "mpaa_rating": "R",
+    "runtime_minutes": 146,
+    "budget_usd_millions": 19.0,
+    "gross_revenue_usd_millions": 46.2,
+    "ratings": {
+      "imdb": 8.4,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Jack Nicholson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
+      },
+      {
+        "name": "Shelley Duvall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001167/"
+      },
+      {
+        "name": "Danny Lloyd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0515907/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+    "afi_ranking": 29,
+    "imdb_url": "https://www.imdb.com/title/tt0081505/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shining"
+  },
+  {
     "title": "Airplane!",
     "year": 1980,
     "director": {
-      "name": "Jim Abrahams, David Zucker, Jerry Zucker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000719/"
+      "name": "Jim Abrahams",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000715/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
@@ -179,6 +179,142 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/airplane"
   },
   {
+    "title": "The Elephant Man",
+    "year": 1980,
+    "director": {
+      "name": "David Lynch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
+    },
+    "production_studio": "Brooksfilms",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 26.0,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anthony Hopkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
+      },
+      {
+        "name": "John Hurt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000459/"
+      },
+      {
+        "name": "Anne Bancroft",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000843/"
+      }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080678/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/elephant_man"
+  },
+  {
+    "title": "Ordinary People",
+    "year": 1980,
+    "director": {
+      "name": "Robert Redford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 54.8,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Donald Sutherland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
+      },
+      {
+        "name": "Mary Tyler Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000547/"
+      },
+      {
+        "name": "Timothy Hutton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000459/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor in a Supporting Role",
+      "Best Writing, Screenplay Based on Material from Another Medium"
+    ],
+    "description": "The accidental death of the older son of an affluent family deeply strains the relationships among the bitter mother, the good-natured father, and the guilt-ridden younger son.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081283/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ordinary_people"
+  },
+  {
+    "title": "Coal Miner's Daughter",
+    "year": 1980,
+    "director": {
+      "name": "Michael Apted",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000776/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 67.1,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Sissy Spacek",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000651/"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
+      },
+      {
+        "name": "Levon Helm",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004994/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Leading Role"
+    ],
+    "description": "The story of country music legend Loretta Lynn, from her humble beginnings in Kentucky to international superstardom.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080549/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/coal_miners_daughter"
+  },
+  {
     "title": "Caddyshack",
     "year": 1980,
     "director": {
@@ -188,12 +324,12 @@
     "production_studio": "Orion Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 98,
-    "budget_usd_millions": 6,
+    "budget_usd_millions": 6.0,
     "gross_revenue_usd_millions": 39.8,
     "ratings": {
       "imdb": 7.2,
       "rotten_tomatoes_critic": "72%",
-      "rotten_tomatoes_popcorn": "85%"
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Comedy",
@@ -206,7 +342,7 @@
       },
       {
         "name": "Rodney Dangerfield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001098/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001101/"
       },
       {
         "name": "Bill Murray",
@@ -222,142 +358,6 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/caddyshack"
   },
   {
-    "title": "The Elephant Man",
-    "year": 1980,
-    "director": {
-      "name": "David Lynch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
-    },
-    "production_studio": "Brooksfilms",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 26,
-    "ratings": {
-      "imdb": 8.2,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Anthony Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
-      },
-      {
-        "name": "John Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000457/"
-      },
-      {
-        "name": "Anne Bancroft",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000843/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous facade, there is revealed a person of kindness, intelligence and sophistication.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080678/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/elephant_man"
-  },
-  {
-    "title": "Ordinary People",
-    "year": 1980,
-    "director": {
-      "name": "Robert Redford",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 54.8,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Donald Sutherland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
-      },
-      {
-        "name": "Mary Tyler Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001546/"
-      },
-      {
-        "name": "Timothy Hutton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000459/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor in a Supporting Role",
-      "Best Writing, Screenplay Based on Material from Another Medium"
-    ],
-    "description": "The accidental death of the older of two sons causes the disintegration of a family.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081283/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ordinary_people"
-  },
-  {
-    "title": "Coal Miner's Daughter",
-    "year": 1980,
-    "director": {
-      "name": "Michael Apted",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000776/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 67.2,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Sissy Spacek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000647/"
-      },
-      {
-        "name": "Tommy Lee Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
-      },
-      {
-        "name": "Levon Helm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0375427/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "The story of country music legend Loretta Lynn, from her humble beginnings in a poor Kentucky coal-mining family to her rise to stardom.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080549/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/coal_miners_daughter"
-  },
-  {
     "title": "The Blues Brothers",
     "year": 1980,
     "director": {
@@ -367,12 +367,12 @@
     "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 133,
-    "budget_usd_millions": 30,
+    "budget_usd_millions": 27.0,
     "gross_revenue_usd_millions": 115.2,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "94%"
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
       "Action",
@@ -386,36 +386,80 @@
       },
       {
         "name": "Dan Aykroyd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000101/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000279/"
       },
       {
         "name": "Cab Calloway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001004/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0130549/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Jake Blues, just out of prison, puts together his old band to save the Catholic home where he and brother Elwood were raised.",
+    "description": "Jake Blues, just released from prison, puts together his old band to save the Catholic home where he and his brother Elwood were raised.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0080455/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blues_brothers"
+  },
+  {
+    "title": "Friday the 13th",
+    "year": 1980,
+    "director": {
+      "name": "Sean S. Cunningham",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
+    },
+    "production_studio": "Georgetown Productions Inc.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.55,
+    "gross_revenue_usd_millions": 59.8,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Betsy Palmer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0658133/"
+      },
+      {
+        "name": "Adrienne King",
+        "imdb_person_url": "https://www.imdb.com/name/nm0454402/"
+      },
+      {
+        "name": "Kevin Bacon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000102/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp which was the site of a child's drowning and a grisly double murder years before.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080761/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/friday_the_13th"
   },
   {
     "title": "9 to 5",
     "year": 1980,
     "director": {
       "name": "Colin Higgins",
-      "imdb_person_url": "https://www.imdb.com/name/nm0383480/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0383358/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "IPC Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 109,
-    "budget_usd_millions": 10,
+    "budget_usd_millions": 10.0,
     "gross_revenue_usd_millions": 103.3,
     "ratings": {
       "imdb": 6.9,
-      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_critic": "83%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
@@ -428,11 +472,11 @@
       },
       {
         "name": "Lily Tomlin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005499/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001798/"
       },
       {
         "name": "Dolly Parton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000574/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000573/"
       }
     ],
     "oscars_nominated": 1,
@@ -441,119 +485,29 @@
     "description": "Three female employees of a sexist, egotistical, lying, hypocritical bigot find a way to turn the tables on him.",
     "afi_ranking": 74,
     "imdb_url": "https://www.imdb.com/title/tt0080319/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/9_to_5"
-  },
-  {
-    "title": "Private Benjamin",
-    "year": 1980,
-    "director": {
-      "name": "Howard Zieff",
-      "imdb_person_url": "https://www.imdb.com/name/nm0956038/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 109,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 69.8,
-    "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Comedy",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Goldie Hawn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000440/"
-      },
-      {
-        "name": "Eileen Brennan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000976/"
-      },
-      {
-        "name": "Armand Assante",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000277/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A sheltered young high-society woman joins the U.S. Army on a whim and finds herself in a more difficult situation than she ever expected.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081375/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/private_benjamin"
-  },
-  {
-    "title": "Fame",
-    "year": 1980,
-    "director": {
-      "name": "Alan Parker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000571/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "R",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 8.5,
-    "gross_revenue_usd_millions": 21.2,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Eddie Barth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0058145/"
-      },
-      {
-        "name": "Irene Cara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001007/"
-      },
-      {
-        "name": "Lee Curreri",
-        "imdb_person_url": "https://www.imdb.com/name/nm0192931/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Music, Original Song",
-      "Best Music, Original Score"
-    ],
-    "description": "A group of students at a New York City high school for the performing arts try to make it big.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080716/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1007010-fame"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/nine_to_five"
   },
   {
     "title": "Altered States",
     "year": 1980,
     "director": {
       "name": "Ken Russell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001691/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001692/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 102,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 19.9,
     "ratings": {
       "imdb": 6.9,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
-      "Drama",
       "Horror",
-      "Sci-Fi"
+      "Sci-Fi",
+      "Thriller"
     ],
     "actors": [
       {
@@ -562,7 +516,7 @@
       },
       {
         "name": "Blair Brown",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000989/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001974/"
       },
       {
         "name": "Bob Balaban",
@@ -578,222 +532,485 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/altered_states"
   },
   {
-    "title": "The Stunt Man",
+    "title": "American Gigolo",
     "year": 1980,
     "director": {
-      "name": "Richard Rush",
-      "imdb_person_url": "https://www.imdb.com/name/nm0750739/"
+      "name": "Paul Schrader",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001707/"
     },
-    "production_studio": "Melvin Simon Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 131,
-    "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 7.1,
+    "runtime_minutes": 117,
+    "budget_usd_millions": 4.8,
+    "gross_revenue_usd_millions": 22.7,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "actors": [
-      {
-        "name": "Peter O'Toole",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000564/"
-      },
-      {
-        "name": "Steve Railsback",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
-      },
-      {
-        "name": "Barbara Hershey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001347/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A fugitive stumbles onto a movie set and is hired as a stunt man, but he soon finds that the director is a manipulative madman who will do anything to get his shot.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081568/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stunt_man"
-  },
-  {
-    "title": "The Long Riders",
-    "year": 1980,
-    "director": {
-      "name": "Walter Hill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
-    },
-    "production_studio": "United Artists",
-    "mpaa_rating": "R",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 15.8,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "47%"
     },
     "genres": [
-      "Biography",
       "Crime",
-      "Drama"
+      "Drama",
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "David Carradine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001018/"
+        "name": "Richard Gere",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
       },
       {
-        "name": "Keith Carradine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001018/"
+        "name": "Lauren Hutton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002148/"
       },
       {
-        "name": "Robert Carradine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001018/"
+        "name": "Hector Elizondo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001185/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of the James-Younger gang, a group of outlaws who terrorized the American West in the late 19th century.",
+    "description": "A Los Angeles male escort, who mostly caters to an older clientele, is accused of a murder which he did not commit.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081071/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/long_riders"
+    "imdb_url": "https://www.imdb.com/title/tt0080366/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_gigolo"
   },
   {
-    "title": "Tess",
-    "year": 1979,
+    "title": "Atlantic City",
+    "year": 1980,
     "director": {
-      "name": "Roman Polanski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000591/"
+      "name": "Louis Malle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000519/"
     },
-    "production_studio": "Renn Productions, Timothy Burrill Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 186,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 20.2,
+    "production_studio": "Cine-Neighbor",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 7.25,
+    "gross_revenue_usd_millions": 12.5,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "83%",
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
+      "Crime",
       "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Nastassja Kinski",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000175/"
+        "name": "Burt Lancaster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000044/"
       },
       {
-        "name": "Peter Firth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001214/"
+        "name": "Susan Sarandon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
       },
       {
-        "name": "Leigh Lawson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0493031/"
+        "name": "Kate Reid",
+        "imdb_person_url": "https://www.imdb.com/name/nm0717325/"
       }
     ],
-    "oscars_nominated": 6,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Cinematography",
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design"
-    ],
-    "description": "The story of a young peasant girl in 19th-century England who is seduced and abandoned by a wealthy young man.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080009/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tess"
-  },
-  {
-    "title": "Kagemusha",
-    "year": 1980,
-    "director": {
-      "name": "Akira Kurosawa",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000041/"
-    },
-    "production_studio": "Toho, Kurosawa Production Co.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 180,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 4,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama",
-      "History",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Tatsuya Nakadai",
-        "imdb_person_url": "https://www.imdb.com/name/nm0620022/"
-      },
-      {
-        "name": "Tsutomu Yamazaki",
-        "imdb_person_url": "https://www.imdb.com/name/nm0945440/"
-      },
-      {
-        "name": "Ken'ichi Hagiwara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0353457/"
-      }
-    ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 5,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A petty thief is recruited to impersonate a dying warlord in 16th-century Japan.",
+    "description": "An aging small-time gangster meets a young clam bar waitress who dreams of becoming a blackjack dealer.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080979/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kagemusha"
+    "imdb_url": "https://www.imdb.com/title/tt0080388/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/atlantic_city"
   },
   {
-    "title": "The Last Metro",
+    "title": "The Big Red One",
     "year": 1980,
     "director": {
-      "name": "François Truffaut",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000076/"
+      "name": "Samuel Fuller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002087/"
     },
-    "production_studio": "Les Films du Carrosse, Andrea Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 131,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 3,
+    "production_studio": "Lorimar Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 7.2,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
       "Drama",
-      "Romance",
       "War"
     ],
     "actors": [
       {
-        "name": "Catherine Deneuve",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000366/"
+        "name": "Lee Marvin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
       },
       {
-        "name": "Gérard Depardieu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
+        "name": "Mark Hamill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000434/"
       },
       {
-        "name": "Jean Poiret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0688463/"
+        "name": "Robert Carradine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001019/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A veteran sergeant of World War I leads a squad in World War II, always surviving while the members of his squad die.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080437/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_red_one"
+  },
+  {
+    "title": "The Blue Lagoon",
+    "year": 1980,
+    "director": {
+      "name": "Randal Kleiser",
+      "imdb_person_url": "https://www.imdb.com/name/nm0459038/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 58.9,
+    "ratings": {
+      "imdb": 5.8,
+      "rotten_tomatoes_critic": "9%",
+      "rotten_tomatoes_popcorn": "46%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Brooke Shields",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000222/"
+      },
+      {
+        "name": "Christopher Atkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000804/"
+      },
+      {
+        "name": "Leo McKern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0571692/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In Nazi-occupied Paris, the wife of a Jewish theater owner struggles to keep the theater open while hiding her husband in the cellar.",
+    "description": "In the Victorian period, two children are shipwrecked on a tropical island in the South Pacific. With no adults to guide them, the two make a simple life together, unaware that sexual maturity will eventually intervene.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080610/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_last_metro"
+    "imdb_url": "https://www.imdb.com/title/tt0080453/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_lagoon"
+  },
+  {
+    "title": "Brubaker",
+    "year": 1980,
+    "director": {
+      "name": "Stuart Rosenberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0742344/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 131,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 37.1,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robert Redford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+      },
+      {
+        "name": "Yaphet Kotto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001433/"
+      },
+      {
+        "name": "Morgan Freeman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The new warden of a small prison farm in Arkansas tries to clean it up of corruption after initially posing as an inmate.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080474/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/brubaker"
+  },
+  {
+    "title": "The Changeling",
+    "year": 1980,
+    "director": {
+      "name": "Peter Medak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0575330/"
+    },
+    "production_studio": "Chessman Park Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 7.6,
+    "gross_revenue_usd_millions": 12.1,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "George C. Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001715/"
+      },
+      {
+        "name": "Trish Van Devere",
+        "imdb_person_url": "https://www.imdb.com/name/nm0886595/"
+      },
+      {
+        "name": "Melvyn Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002047/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man staying at a secluded historical mansion finds himself being haunted by the presence of a spectre.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080516/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/changeling"
+  },
+  {
+    "title": "Dressed to Kill",
+    "year": 1980,
+    "director": {
+      "name": "Brian De Palma",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000361/"
+    },
+    "production_studio": "Filmways Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 6.5,
+    "gross_revenue_usd_millions": 31.9,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Michael Caine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
+      },
+      {
+        "name": "Angie Dickinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001140/"
+      },
+      {
+        "name": "Nancy Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000262/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mysterious blonde woman kills one of a psychiatrist's patients, and then goes after the high-class call girl who witnessed the murder.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080661/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1006299-dressed_to_kill"
+  },
+  {
+    "title": "Fame",
+    "year": 1980,
+    "director": {
+      "name": "Alan Parker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000570/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "R",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 8.5,
+    "gross_revenue_usd_millions": 21.2,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Irene Cara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0135732/"
+      },
+      {
+        "name": "Lee Curreri",
+        "imdb_person_url": "https://www.imdb.com/name/nm0192938/"
+      },
+      {
+        "name": "Laura Dean",
+        "imdb_person_url": "https://www.imdb.com/name/nm0213028/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Music, Original Score",
+      "Best Music, Original Song"
+    ],
+    "description": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
+    "afi_ranking": 92,
+    "imdb_url": "https://www.imdb.com/title/tt0080716/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1007020-fame"
+  },
+  {
+    "title": "Flash Gordon",
+    "year": 1980,
+    "director": {
+      "name": "Mike Hodges",
+      "imdb_person_url": "https://www.imdb.com/name/nm0388177/"
+    },
+    "production_studio": "Starling Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 27.1,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Sam J. Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0429195/"
+      },
+      {
+        "name": "Melody Anderson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0027158/"
+      },
+      {
+        "name": "Max von Sydow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001884/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A football player and his friends travel to the planet Mongo and find themselves fighting the tyrant, Ming the Merciless, to save Earth.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080745/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/flash_gordon"
+  },
+  {
+    "title": "The Fog",
+    "year": 1980,
+    "director": {
+      "name": "John Carpenter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000118/"
+    },
+    "production_studio": "AVCO Embassy Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 21.3,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "64%"
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Adrienne Barbeau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000105/"
+      },
+      {
+        "name": "Jamie Lee Curtis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000130/"
+      },
+      {
+        "name": "Janet Leigh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An unearthly fog rolls into a small coastal town exactly 100 years after a ship mysteriously sank in its waters.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080749/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_fog"
+  },
+  {
+    "title": "The Gods Must Be Crazy",
+    "year": 1980,
+    "director": {
+      "name": "Jamie Uys",
+      "imdb_person_url": "https://www.imdb.com/name/nm0882939/"
+    },
+    "production_studio": "C.A.T. Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 30.0,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "N!xau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0618608/"
+      },
+      {
+        "name": "Marius Weyers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0923293/"
+      },
+      {
+        "name": "Sandra Prinsloo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0697869/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A comic allegory about a traveling Bushman who encounters modern civilization and its stranger aspects, including a clumsy scientist and a band of revolutionaries.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080801/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gods_must_be_crazy"
   },
   {
     "title": "Heaven's Gate",
@@ -802,15 +1019,15 @@
       "name": "Michael Cimino",
       "imdb_person_url": "https://www.imdb.com/name/nm0001047/"
     },
-    "production_studio": "United Artists, Partisan Productions",
+    "production_studio": "Partisan Productions",
     "mpaa_rating": "R",
     "runtime_minutes": 219,
-    "budget_usd_millions": 44,
+    "budget_usd_millions": 44.0,
     "gross_revenue_usd_millions": 3.5,
     "ratings": {
       "imdb": 6.7,
-      "rotten_tomatoes_critic": "57%",
-      "rotten_tomatoes_popcorn": "56%"
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "52%"
     },
     "genres": [
       "Adventure",
@@ -828,294 +1045,164 @@
       },
       {
         "name": "John Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000457/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000459/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of the Johnson County War, a violent conflict between wealthy cattle ranchers and immigrant settlers in 1890s Wyoming.",
+    "description": "A sheriff protects immigrant farmers from wealthy cattle barons in late 19th century Wyoming.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0080855/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heavens_gate"
   },
   {
-    "title": "American Gigolo",
+    "title": "Kagemusha",
     "year": 1980,
     "director": {
-      "name": "Paul Schrader",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001707/"
+      "name": "Akira Kurosawa",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000041/"
     },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 4.8,
-    "gross_revenue_usd_millions": 52,
+    "production_studio": "Toho Company",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 180,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 4.0,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "61%"
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
-      "Crime",
       "Drama",
-      "Mystery"
+      "History",
+      "War"
     ],
     "actors": [
       {
-        "name": "Richard Gere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
+        "name": "Tatsuya Nakadai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0620021/"
       },
       {
-        "name": "Lauren Hutton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
+        "name": "Tsutomu Yamazaki",
+        "imdb_person_url": "https://www.imdb.com/name/nm0945893/"
       },
       {
-        "name": "Hector Elizondo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001185/"
+        "name": "Ken'ichi Hagiwara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0353721/"
       }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Los Angeles male escort finds himself in trouble when he is framed for a murder.",
+    "description": "A petty thief with an utter resemblance to a samurai warlord is hired as the warlord's double. When the warlord dies the thief is forced to take up arms in his place.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080365/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_gigolo"
+    "imdb_url": "https://www.imdb.com/title/tt0080969/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kagemusha"
   },
   {
-    "title": "Brubaker",
+    "title": "The Last Metro",
     "year": 1980,
     "director": {
-      "name": "Stuart Rosenberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0742211/"
+      "name": "François Truffaut",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000076/"
     },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "R",
+    "production_studio": "Les Films du Carrosse",
+    "mpaa_rating": "PG",
     "runtime_minutes": 131,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 37.1,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 3.0,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
-      "Crime",
-      "Drama"
+      "Drama",
+      "Romance",
+      "War"
     ],
     "actors": [
       {
-        "name": "Robert Redford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+        "name": "Catherine Deneuve",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000363/"
       },
       {
-        "name": "Yaphet Kotto",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001433/"
+        "name": "Gérard Depardieu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
       },
       {
-        "name": "Jane Alexander",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000735/"
+        "name": "Jean Poiret",
+        "imdb_person_url": "https://www.imdb.com/name/nm0688439/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The new warden of a corrupt Southern prison pretends to be an inmate to uncover the truth about the prison's dark secrets.",
+    "description": "In Nazi-occupied Paris, a theater actress must keep her Jewish husband hidden in the basement of the theater while she continues her work and deals with a new leading man.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080474/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/brubaker"
+    "imdb_url": "https://www.imdb.com/title/tt0080610/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_last_metro"
   },
   {
-    "title": "Stir Crazy",
+    "title": "The Long Riders",
     "year": 1980,
     "director": {
-      "name": "Sidney Poitier",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000593/"
+      "name": "Walter Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "Huka Productions",
     "mpaa_rating": "R",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 101.3,
+    "runtime_minutes": 100,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 15.8,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
-      "Comedy",
-      "Crime"
+      "Biography",
+      "Western"
     ],
     "actors": [
       {
-        "name": "Gene Wilder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+        "name": "David Carradine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001016/"
       },
       {
-        "name": "Richard Pryor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001640/"
+        "name": "Keith Carradine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0139989/"
       },
       {
-        "name": "Georg Stanford Brown",
-        "imdb_person_url": "https://www.imdb.com/name/nm0114631/"
+        "name": "Robert Carradine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001019/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two unemployed friends are framed for a bank robbery and sent to prison.",
+    "description": "The origins, exploits and the ultimate fate of the Jesse James gang is told in a portrayal of the bank robbers made up of brothers who are played by real-life brothers.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081562/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stir_crazy"
-  },
-  {
-    "title": "Friday the 13th",
-    "year": 1980,
-    "director": {
-      "name": "Sean S. Cunningham",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001086/"
-    },
-    "production_studio": "Paramount Pictures, Georgetown Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 0.55,
-    "gross_revenue_usd_millions": 59.8,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Betsy Palmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0658395/"
-      },
-      {
-        "name": "Adrienne King",
-        "imdb_person_url": "https://www.imdb.com/name/nm0454460/"
-      },
-      {
-        "name": "Jeannine Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0852285/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080761/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/friday_the_13th_part_1"
-  },
-  {
-    "title": "Dressed to Kill",
-    "year": 1980,
-    "director": {
-      "name": "Brian De Palma",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000361/"
-    },
-    "production_studio": "Filmways Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 6.5,
-    "gross_revenue_usd_millions": 31.9,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Michael Caine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
-      },
-      {
-        "name": "Angie Dickinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001141/"
-      },
-      {
-        "name": "Nancy Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000261/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A mysterious woman is responsible for a series of brutal murders, but is she who she appears to be?",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080661/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dressed_to_kill"
-  },
-  {
-    "title": "The Fog",
-    "year": 1980,
-    "director": {
-      "name": "John Carpenter",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000118/"
-    },
-    "production_studio": "AVCO Embassy Pictures, EDI",
-    "mpaa_rating": "R",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 21.3,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Adrienne Barbeau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000105/"
-      },
-      {
-        "name": "Jamie Lee Curtis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000130/"
-      },
-      {
-        "name": "Janet Leigh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001463/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An unearthly fog rolls into a small coastal town, bringing with it the vengeful ghosts of mariners who were murdered there 100 years ago.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080749/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fog"
+    "imdb_url": "https://www.imdb.com/title/tt0081071/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/long_riders"
   },
   {
     "title": "Melvin and Howard",
     "year": 1980,
     "director": {
       "name": "Jonathan Demme",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001129/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
     },
     "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 95,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 4.5,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 4.3,
     "ratings": {
-      "imdb": 6.7,
+      "imdb": 6.8,
       "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "71%"
+      "rotten_tomatoes_popcorn": "66%"
     },
     "genres": [
       "Comedy",
@@ -1124,15 +1211,15 @@
     "actors": [
       {
         "name": "Paul Le Mat",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
-      },
-      {
-        "name": "Mary Steenburgen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001767/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0494877/"
       },
       {
         "name": "Jason Robards",
         "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
+      },
+      {
+        "name": "Mary Steenburgen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000653/"
       }
     ],
     "oscars_nominated": 3,
@@ -1141,10 +1228,98 @@
       "Best Actress in a Supporting Role",
       "Best Writing, Screenplay Written Directly for the Screen"
     ],
-    "description": "The story of a gas station attendant who claims to be the heir to Howard Hughes's fortune.",
+    "description": "A down-on-his-luck milkman gives a ride to a grumpy old man who claims to be Howard Hughes.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0081150/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/melvin_and_howard"
+  },
+  {
+    "title": "Mon oncle d'Amérique",
+    "year": 1980,
+    "director": {
+      "name": "Alain Resnais",
+      "imdb_person_url": "https://www.imdb.com/name/nm0720257/"
+    },
+    "production_studio": "Philippe Dussart",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 125,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Gérard Depardieu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
+      },
+      {
+        "name": "Nicole Garcia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0305362/"
+      },
+      {
+        "name": "Roger Pierre",
+        "imdb_person_url": "https://www.imdb.com/name/nm0682672/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The lives of three people are analyzed by a scientist who explains their behavior through the lens of evolutionary psychology.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081176/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mon_oncle_damerique"
+  },
+  {
+    "title": "My Bodyguard",
+    "year": 1980,
+    "director": {
+      "name": "Tony Bill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0082268/"
+    },
+    "production_studio": "Melvin Simon Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 22.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Chris Makepeace",
+        "imdb_person_url": "https://www.imdb.com/name/nm0538475/"
+      },
+      {
+        "name": "Adam Baldwin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000284/"
+      },
+      {
+        "name": "Matt Dillon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000369/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A new kid at school hires the biggest, toughest student as his bodyguard to protect him from a bully.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081192/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_bodyguard"
   },
   {
     "title": "Popeye",
@@ -1153,15 +1328,15 @@
       "name": "Robert Altman",
       "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
     },
-    "production_studio": "Paramount Pictures, Walt Disney Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 114,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 60,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 49.8,
     "ratings": {
-      "imdb": 5.3,
+      "imdb": 5.4,
       "rotten_tomatoes_critic": "59%",
-      "rotten_tomatoes_popcorn": "41%"
+      "rotten_tomatoes_popcorn": "39%"
     },
     "genres": [
       "Adventure",
@@ -1179,553 +1354,76 @@
       },
       {
         "name": "Ray Walston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0910243/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0909653/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The sailor-man travels to a new town and falls in love with Olive Oyl, all while trying to find his long-lost father.",
+    "description": "Popeye the sailor man arrives in the town of Sweethaven in search of his father, but has to face the bully Bluto to win the heart of Olive Oyl.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0081353/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/popeye"
   },
   {
-    "title": "Xanadu",
+    "title": "Private Benjamin",
     "year": 1980,
     "director": {
-      "name": "Robert Greenwald",
-      "imdb_person_url": "https://www.imdb.com/name/nm0338006/"
+      "name": "Howard Zieff",
+      "imdb_person_url": "https://www.imdb.com/name/nm0956046/"
     },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 22.8,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 69.8,
     "ratings": {
-      "imdb": 5.3,
-      "rotten_tomatoes_critic": "38%",
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "82%",
       "rotten_tomatoes_popcorn": "51%"
     },
     "genres": [
-      "Fantasy",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Olivia Newton-John",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000556/"
-      },
-      {
-        "name": "Gene Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
-      },
-      {
-        "name": "Michael Beck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0065261/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A struggling artist falls in love with a woman who is actually a Greek Muse.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081777/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/xanadu"
-  },
-  {
-    "title": "Flash Gordon",
-    "year": 1980,
-    "director": {
-      "name": "Mike Hodges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0388214/"
-    },
-    "production_studio": "Starling Films",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 27.1,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Sam J. Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001426/"
-      },
-      {
-        "name": "Melody Anderson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0027278/"
-      },
-      {
-        "name": "Max von Sydow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001884/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A football player and his friends travel to the planet Mongo to thwart the evil Emperor Ming the Merciless.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080745/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1007555-flash_gordon"
-  },
-  {
-    "title": "The Big Red One",
-    "year": 1980,
-    "director": {
-      "name": "Samuel Fuller",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002087/"
-    },
-    "production_studio": "Lorimar Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 7.2,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama",
+      "Comedy",
       "War"
     ],
     "actors": [
       {
-        "name": "Lee Marvin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
+        "name": "Goldie Hawn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000443/"
       },
       {
-        "name": "Mark Hamill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000434/"
+        "name": "Eileen Brennan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000974/"
       },
       {
-        "name": "Robert Carradine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001018/"
+        "name": "Armand Assante",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000806/"
       }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of a U.S. Army sergeant and his squad as they fight their way through World War II.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080437/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_big_red_one"
-  },
-  {
-    "title": "The Changeling",
-    "year": 1980,
-    "director": {
-      "name": "Peter Medak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0575385/"
-    },
-    "production_studio": "Chessman Park Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 5.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "George C. Scott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001715/"
-      },
-      {
-        "name": "Trish Van Devere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0888636/"
-      },
-      {
-        "name": "Melvyn Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001153/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man staying at a secluded historical mansion finds himself being haunted by the presence of a spectre.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080516/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/changeling"
-  },
-  {
-    "title": "The Great Santini",
-    "year": 1979,
-    "director": {
-      "name": "Lewis John Carlino",
-      "imdb_person_url": "https://www.imdb.com/name/nm0137453/"
-    },
-    "production_studio": "Orion Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 5,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Robert Duvall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
-      },
-      {
-        "name": "Blythe Danner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001097/"
-      },
-      {
-        "name": "Michael O'Keefe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005260/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A gung-ho Marine pilot is a domineering and abusive father to his children.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0079239/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/great_santini"
-  },
-  {
-    "title": "My Bodyguard",
-    "year": 1980,
-    "director": {
-      "name": "Tony Bill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000949/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 22.5,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Chris Makepeace",
-        "imdb_person_url": "https://www.imdb.com/name/nm0538965/"
-      },
-      {
-        "name": "Adam Baldwin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000284/"
-      },
-      {
-        "name": "Matt Dillon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000369/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A new kid in school hires a troubled, oversized teen to be his bodyguard.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081207/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_bodyguard"
-  },
-  {
-    "title": "The Ninth Configuration",
-    "year": 1980,
-    "director": {
-      "name": "William Peter Blatty",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000949/"
-    },
-    "production_studio": "Ninth Configuration Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 0.4,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Stacy Keach",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001416/"
-      },
-      {
-        "name": "Scott Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001854/"
-      },
-      {
-        "name": "Jason Miller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001538/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A new psychiatrist arrives at a remote castle that serves as a mental institution for military personnel, but he has a secret of his own.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081237/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_ninth_configuration"
-  },
-  {
-    "title": "Cannibal Holocaust",
-    "year": 1980,
-    "director": {
-      "name": "Ruggero Deodato",
-      "imdb_person_url": "https://www.imdb.com/name/nm0219830/"
-    },
-    "production_studio": "F.D. Cinematografica",
-    "mpaa_rating": "Unrated",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 0.1,
-    "gross_revenue_usd_millions": 2,
-    "ratings": {
-      "imdb": 5.8,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Adventure",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Robert Kerman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0449451/"
-      },
-      {
-        "name": "Francesca Ciardi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0161816/"
-      },
-      {
-        "name": "Perry Pirkanen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0685025/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A documentary crew disappears in the Amazon rainforest, and a rescue team finds their lost footage.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078935/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cannibal_holocaust"
-  },
-  {
-    "title": "The Gods Must Be Crazy",
-    "year": 1980,
-    "director": {
-      "name": "Jamie Uys",
-      "imdb_person_url": "https://www.imdb.com/name/nm0888636/"
-    },
-    "production_studio": "CAT Films",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 109,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 60,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "N!xau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0632947/"
-      },
-      {
-        "name": "Marius Weyers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0923405/"
-      },
-      {
-        "name": "Sandra Prinsloo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0697521/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A Coca-Cola bottle dropped from an airplane in the Kalahari Desert disrupts the peaceful lives of a tribe of Bushmen.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080801/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_gods_must_be_crazy"
-  },
-  {
-    "title": "Atlantic City",
-    "year": 1980,
-    "director": {
-      "name": "Louis Malle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001501/"
-    },
-    "production_studio": "International Cinema Corporation",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 12,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Burt Lancaster",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      },
-      {
-        "name": "Susan Sarandon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
-      },
-      {
-        "name": "Kate Reid",
-        "imdb_person_url": "https://www.imdb.com/name/nm0717277/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In a decaying Atlantic City, a small-time gangster and a young casino waitress find their lives intersecting.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080388/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/atlantic_city"
-  },
-  {
-    "title": "Breaker Morant",
-    "year": 1980,
-    "director": {
-      "name": "Bruce Beresford",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000914/"
-    },
-    "production_studio": "South Australian Film Corporation",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": 4.7,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama",
-      "History",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Edward Woodward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001861/"
-      },
-      {
-        "name": "Jack Thompson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0860057/"
-      },
-      {
-        "name": "John Waters",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000691/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of three Australian soldiers who are court-martialed for war crimes during the Boer War.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0080310/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/breaker_morant"
-  },
-  {
-    "title": "Resurrection",
-    "year": 1980,
-    "director": {
-      "name": "Daniel Petrie",
-      "imdb_person_url": "https://www.imdb.com/name/nm0677953/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 103,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 3.7,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Ellen Burstyn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000995/"
-      },
-      {
-        "name": "Sam Shepard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
-      },
-      {
-        "name": "Richard Farnsworth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001200/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A woman discovers she has the power to heal people after a near-death experience.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081427/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/resurrection"
+    "description": "A sheltered young high society woman joins the United States Army on a whim and finds herself in a more difficult situation than she ever expected.",
+    "afi_ranking": 82,
+    "imdb_url": "https://www.imdb.com/title/tt0081375/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/private_benjamin"
   },
   {
     "title": "Somewhere in Time",
     "year": 1980,
     "director": {
       "name": "Jeannot Szwarc",
-      "imdb_person_url": "https://www.imdb.com/name/nm0844238/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0844358/"
     },
-    "production_studio": "Rastar Pictures",
+    "production_studio": "Rastar",
     "mpaa_rating": "PG",
     "runtime_minutes": 103,
-    "budget_usd_millions": 5,
+    "budget_usd_millions": 5.1,
     "gross_revenue_usd_millions": 9.7,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "61%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "56%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Drama",
@@ -1735,7 +1433,7 @@
     "actors": [
       {
         "name": "Christopher Reeve",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001659/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
       },
       {
         "name": "Jane Seymour",
@@ -1753,5 +1451,749 @@
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0081534/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/somewhere_in_time"
+  },
+  {
+    "title": "Stardust Memories",
+    "year": 1980,
+    "director": {
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+    },
+    "production_studio": "Jack Rollins & Charles H. Joffe Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 10.3,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Woody Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+      },
+      {
+        "name": "Charlotte Rampling",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+      },
+      {
+        "name": "Jessica Harper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0363888/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A filmmaker recalls his life and loves - the inspirations for his films - while attending a retrospective of his work.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081554/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stardust_memories"
+  },
+  {
+    "title": "The Stunt Man",
+    "year": 1980,
+    "director": {
+      "name": "Richard Rush",
+      "imdb_person_url": "https://www.imdb.com/name/nm0750702/"
+    },
+    "production_studio": "Melvin Simon Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 131,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 7.0,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Peter O'Toole",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000564/"
+      },
+      {
+        "name": "Steve Railsback",
+        "imdb_person_url": "https://www.imdb.com/name/nm0706782/"
+      },
+      {
+        "name": "Barbara Hershey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001347/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A fugitive from the law inadvertently stumbles onto a movie set and is hired as a stunt man, but he soon begins to suspect that the director is trying to kill him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081568/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stunt_man"
+  },
+  {
+    "title": "Superman II",
+    "year": 1980,
+    "director": {
+      "name": "Richard Lester",
+      "imdb_person_url": "https://www.imdb.com/name/nm0504515/"
+    },
+    "production_studio": "Dovemead Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 54.0,
+    "gross_revenue_usd_millions": 108.1,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Gene Hackman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
+      },
+      {
+        "name": "Christopher Reeve",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
+      },
+      {
+        "name": "Margot Kidder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000475/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081573/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/superman_ii"
+  },
+  {
+    "title": "Tess",
+    "year": 1980,
+    "director": {
+      "name": "Roman Polanski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
+    },
+    "production_studio": "Renn Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 186,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 20.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Nastassja Kinski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000478/"
+      },
+      {
+        "name": "Peter Firth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0278752/"
+      },
+      {
+        "name": "Leigh Lawson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0493269/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design"
+    ],
+    "description": "A strong-willed young peasant girl becomes the affection of two men.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080009/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tess"
+  },
+  {
+    "title": "Urban Cowboy",
+    "year": 1980,
+    "director": {
+      "name": "James Bridges",
+      "imdb_person_url": "https://www.imdb.com/name/nm0108745/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 132,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 46.9,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "52%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "John Travolta",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
+      },
+      {
+        "name": "Debra Winger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+      },
+      {
+        "name": "Scott Glenn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001277/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Bud is a young man from the country who learns about life and love in a Houston bar.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081696/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/urban_cowboy"
+  },
+  {
+    "title": "Used Cars",
+    "year": 1980,
+    "director": {
+      "name": "Robert Zemeckis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000721/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 11.7,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Kurt Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
+      },
+      {
+        "name": "Jack Warden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0912001/"
+      },
+      {
+        "name": "Gerrit Graham",
+        "imdb_person_url": "https://www.imdb.com/name/nm0334062/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When the owner of a struggling used car lot is killed, it's up to his hot-shot salesman to save the property from falling into the hands of the owner's ruthless brother and used-car rival.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081698/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/used_cars"
+  },
+  {
+    "title": "Xanadu",
+    "year": 1980,
+    "director": {
+      "name": "Robert Greenwald",
+      "imdb_person_url": "https://www.imdb.com/name/nm0339733/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 22.8,
+    "ratings": {
+      "imdb": 5.2,
+      "rotten_tomatoes_critic": "39%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Olivia Newton-John",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000559/"
+      },
+      {
+        "name": "Gene Kelly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
+      },
+      {
+        "name": "Michael Beck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0065233/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A struggling artist meets a girl who may hold the key to his future.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081777/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/xanadu"
+  },
+  {
+    "title": "Breaker Morant",
+    "year": 1980,
+    "director": {
+      "name": "Bruce Beresford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000924/"
+    },
+    "production_studio": "South Australian Film Corporation",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 107,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 4.7,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Edward Woodward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0940919/"
+      },
+      {
+        "name": "Jack Thompson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0860264/"
+      },
+      {
+        "name": "John Waters",
+        "imdb_person_url": "https://www.imdb.com/name/nm0914112/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three Australian lieutenants are court martialed for executing prisoners as a way of deflecting attention from war crimes committed by their superior officers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080310/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/breaker_morant"
+  },
+  {
+    "title": "Cannibal Holocaust",
+    "year": 1980,
+    "director": {
+      "name": "Ruggero Deodato",
+      "imdb_person_url": "https://www.imdb.com/name/nm0219959/"
+    },
+    "production_studio": "F.D. Cinematografica",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.1,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 5.8,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "54%"
+    },
+    "genres": [
+      "Adventure",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Robert Kerman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0449419/"
+      },
+      {
+        "name": "Francesca Ciardi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0161833/"
+      },
+      {
+        "name": "Perry Pirkanen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0685150/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During a rescue mission into the Amazon rainforest, a professor stumbles across lost film shot by a missing documentary crew.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078935/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cannibal_holocaust"
+  },
+  {
+    "title": "Cruising",
+    "year": 1980,
+    "director": {
+      "name": "William Friedkin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001243/"
+    },
+    "production_studio": "Lorimar Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 19.8,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "53%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Al Pacino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
+      },
+      {
+        "name": "Paul Sorvino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002367/"
+      },
+      {
+        "name": "Karen Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000261/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A police detective goes undercover in the underground S&M gay subculture of New York City to catch a serial killer who is preying on gay men.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080569/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cruising"
+  },
+  {
+    "title": "Inferno",
+    "year": 1980,
+    "director": {
+      "name": "Dario Argento",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000783/"
+    },
+    "production_studio": "Produzioni Intersound",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Leigh McCloskey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0565886/"
+      },
+      {
+        "name": "Irene Miracle",
+        "imdb_person_url": "https://www.imdb.com/name/nm0591547/"
+      },
+      {
+        "name": "Eleonora Giorgi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0320349/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American college student in Rome and his sister in New York investigate a series of killings in both locations where their resident addresses are the domain of two covens of witches.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080923/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/inferno_1980"
+  },
+  {
+    "title": "The Long Good Friday",
+    "year": 1980,
+    "director": {
+      "name": "John Mackenzie",
+      "imdb_person_url": "https://www.imdb.com/name/nm0533333/"
+    },
+    "production_studio": "HandMade Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Bob Hoskins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
+      },
+      {
+        "name": "Helen Mirren",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000545/"
+      },
+      {
+        "name": "Paul Freeman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0293550/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Harold, a prosperous English gangster, is about to close a lucrative new deal when bombs start showing up in very inconvenient places. A mysterious syndicate is trying to muscle in on his action.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081070/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/long_good_friday"
+  },
+  {
+    "title": "The Ninth Configuration",
+    "year": 1980,
+    "director": {
+      "name": "William Peter Blatty",
+      "imdb_person_url": "https://www.imdb.com/name/nm0087865/"
+    },
+    "production_studio": "Ninth Configuration Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Stacy Keach",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005078/"
+      },
+      {
+        "name": "Scott Wilson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0934113/"
+      },
+      {
+        "name": "Jason Miller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0588625/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A new commanding officer arrives at a remote castle serving as an asylum for insane and AWOL U.S. Marines, where he attempts to rehabilitate them by allowing them to live out their fantasies.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081237/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ninth_configuration"
+  },
+  {
+    "title": "Bad Timing",
+    "year": 1980,
+    "director": {
+      "name": "Nicolas Roeg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001676/"
+    },
+    "production_studio": "Recorded Picture Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 123,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "56%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Art Garfunkel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0307303/"
+      },
+      {
+        "name": "Theresa Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
+      },
+      {
+        "name": "Harvey Keitel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A psychiatrist living in Vienna enters a torrid relationship with a married woman that spirals into obsession.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080408/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_timing"
+  },
+  {
+    "title": "Bronco Billy",
+    "year": 1980,
+    "director": {
+      "name": "Clint Eastwood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 6.5,
+    "gross_revenue_usd_millions": 24.2,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "43%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Clint Eastwood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+      },
+      {
+        "name": "Sondra Locke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001476/"
+      },
+      {
+        "name": "Geoffrey Lewis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0507222/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An idealistic, modern-day cowboy struggles to keep his Wild West show afloat in the face of hard luck and waning interest.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080475/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bronco_billy"
+  },
+  {
+    "title": "Stir Crazy",
+    "year": 1980,
+    "director": {
+      "name": "Sidney Poitier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001627/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 111,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 101.3,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Gene Wilder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+      },
+      {
+        "name": "Richard Pryor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
+      },
+      {
+        "name": "Georg Stanford Brown",
+        "imdb_person_url": "https://www.imdb.com/name/nm0113620/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Set up and wrongfully accused, two best friends will be sent to prison for a crime they didn't commit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0081562/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stir_crazy"
+  },
+  {
+    "title": "Any Which Way You Can",
+    "year": 1980,
+    "director": {
+      "name": "Buddy Van Horn",
+      "imdb_person_url": "https://www.imdb.com/name/nm0887113/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 70.6,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "20%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Clint Eastwood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+      },
+      {
+        "name": "Sondra Locke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001476/"
+      },
+      {
+        "name": "Geoffrey Lewis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0507222/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Philo Beddoe and his orangutan Clyde take on a new adventure involving underground fighting.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0080377/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/any_which_way_you_can"
   }
 ]

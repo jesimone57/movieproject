@@ -1,93 +1,283 @@
 [
   {
-    "title": "RoboCop",
+    "title": "The Last Emperor",
     "year": 1987,
     "director": {
-      "name": "Paul Verhoeven",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
+      "name": "Bernardo Bertolucci",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000934/"
     },
-    "production_studio": "Orion Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 53.4,
+    "production_studio": "Recorded Picture Company",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 163,
+    "budget_usd_millions": 23.8,
+    "gross_revenue_usd_millions": 44.0,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
-      "Action",
-      "Crime",
-      "Sci-Fi"
+      "Biography",
+      "Drama",
+      "History"
     ],
     "actors": [
       {
-        "name": "Peter Weller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000693/"
+        "name": "John Lone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001480/"
       },
       {
-        "name": "Nancy Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000261/"
+        "name": "Joan Chen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001040/"
       },
       {
-        "name": "Dan O'Herlihy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005260/"
+        "name": "Peter O'Toole",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000564/"
       }
     ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
+    "oscars_nominated": 9,
+    "oscars_won": 9,
     "oscars_won_details": [
-      "Special Achievement Award for Sound Effects Editing"
+      "Best Picture",
+      "Best Director",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Sound",
+      "Best Film Editing",
+      "Best Music, Original Score"
     ],
-    "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+    "description": "The dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people, through his abdication, his decline and dissolute lifestyle.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093870/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/robocop"
+    "imdb_url": "https://www.imdb.com/title/tt0093389/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_emperor"
   },
   {
-    "title": "The Princess Bride",
+    "title": "Moonstruck",
     "year": 1987,
     "director": {
-      "name": "Rob Reiner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001661/"
+      "name": "Norman Jewison",
+      "imdb_person_url": "https://www.imdb.com/name/nm0422476/"
     },
-    "production_studio": "Act III Communications, Buttercup Films Ltd.",
+    "production_studio": "MGM",
     "mpaa_rating": "PG",
-    "runtime_minutes": 98,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 30.9,
+    "runtime_minutes": 102,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 80.6,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "94%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
-      "Adventure",
       "Comedy",
-      "Family"
+      "Drama",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Cary Elwes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000144/"
+        "name": "Cher",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000330/"
       },
       {
-        "name": "Mandy Patinkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001597/"
+        "name": "Nicolas Cage",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000115/"
       },
       {
-        "name": "Robin Wright",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000705/"
+        "name": "Olympia Dukakis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001156/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actress in a Leading Role",
+      "Best Actress in a Supporting Role",
+      "Best Writing, Screenplay Written Directly for the Screen"
+    ],
+    "description": "Loretta Castorini, a bookkeeper from Brooklyn, New York, finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093565/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/moonstruck"
+  },
+  {
+    "title": "The Untouchables",
+    "year": 1987,
+    "director": {
+      "name": "Brian De Palma",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000361/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 76.3,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Kevin Costner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
+      },
+      {
+        "name": "Sean Connery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
+      },
+      {
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor in a Supporting Role"
+    ],
+    "description": "During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094226/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/untouchables"
+  },
+  {
+    "title": "Wall Street",
+    "year": 1987,
+    "director": {
+      "name": "Oliver Stone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 126,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 43.8,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Charlie Sheen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000221/"
+      },
+      {
+        "name": "Michael Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000140/"
+      },
+      {
+        "name": "Daryl Hannah",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000435/"
       }
     ],
     "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor in a Leading Role"
+    ],
+    "description": "A young and impatient stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless and greedy corporate raider who takes the youth under his wing.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094291/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wall_street"
+  },
+  {
+    "title": "Broadcast News",
+    "year": 1987,
+    "director": {
+      "name": "James L. Brooks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000985/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 133,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 51.3,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "William Hurt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
+      },
+      {
+        "name": "Albert Brooks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000983/"
+      },
+      {
+        "name": "Holly Hunter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000457/"
+      }
+    ],
+    "oscars_nominated": 7,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
-    "afi_ranking": 88,
-    "imdb_url": "https://www.imdb.com/title/tt0093779/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/princess_bride"
+    "description": "Take two rival television news producers (one male, one female), add one handsome but vapid anchorman, and you have the perfect recipe for romantic and professional conflict.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092699/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/broadcast_news"
+  },
+  {
+    "title": "Fatal Attraction",
+    "year": 1987,
+    "director": {
+      "name": "Adrian Lyne",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001488/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 320.1,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Michael Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000140/"
+      },
+      {
+        "name": "Glenn Close",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000335/"
+      },
+      {
+        "name": "Anne Archer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000271/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A married man's one-night stand comes back to haunt him when that lover begins to stalk him and his family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093010/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fatal_attraction"
   },
   {
     "title": "Full Metal Jacket",
@@ -96,14 +286,14 @@
       "name": "Stanley Kubrick",
       "imdb_person_url": "https://www.imdb.com/name/nm0000040/"
     },
-    "production_studio": "Warner Bros., Natant",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 116,
-    "budget_usd_millions": 30,
+    "budget_usd_millions": 30.0,
     "gross_revenue_usd_millions": 46.4,
     "ratings": {
       "imdb": 8.3,
-      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_critic": "91%",
       "rotten_tomatoes_popcorn": "94%"
     },
     "genres": [
@@ -133,20 +323,198 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/full_metal_jacket"
   },
   {
+    "title": "The Princess Bride",
+    "year": 1987,
+    "director": {
+      "name": "Rob Reiner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000205/"
+    },
+    "production_studio": "Act III Communications",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 16.0,
+    "gross_revenue_usd_millions": 30.9,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Cary Elwes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000144/"
+      },
+      {
+        "name": "Mandy Patinkin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001597/"
+      },
+      {
+        "name": "Robin Wright",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001865/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093779/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/princess_bride"
+  },
+  {
+    "title": "RoboCop",
+    "year": 1987,
+    "director": {
+      "name": "Paul Verhoeven",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 13.0,
+    "gross_revenue_usd_millions": 53.4,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Peter Weller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000693/"
+      },
+      {
+        "name": "Nancy Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000262/"
+      },
+      {
+        "name": "Dan O'Herlihy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641470/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Special Achievement Award (Sound Effects Editing)"
+    ],
+    "description": "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093870/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/robocop"
+  },
+  {
+    "title": "Good Morning, Vietnam",
+    "year": 1987,
+    "director": {
+      "name": "Barry Levinson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005144/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 13.0,
+    "gross_revenue_usd_millions": 123.9,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robin Williams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
+      },
+      {
+        "name": "Forest Whitaker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
+      },
+      {
+        "name": "Tung Thanh Tran",
+        "imdb_person_url": "https://www.imdb.com/name/nm0870878/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1965, an unorthodox and irreverent DJ named Adrian Cronauer begins to shake up things when he is assigned to the U.S. Armed Services Radio station in Vietnam.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093105/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/good_morning_vietnam"
+  },
+  {
+    "title": "Empire of the Sun",
+    "year": 1987,
+    "director": {
+      "name": "Steven Spielberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
+    },
+    "production_studio": "Amblin Entertainment",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 153,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 22.2,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Christian Bale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000288/"
+      },
+      {
+        "name": "John Malkovich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000518/"
+      },
+      {
+        "name": "Miranda Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001669/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young English boy struggles to survive under Japanese occupation of China during World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092965/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/empire_of_the_sun"
+  },
+  {
     "title": "Lethal Weapon",
     "year": 1987,
     "director": {
       "name": "Richard Donner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001152/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001149/"
     },
-    "production_studio": "Warner Bros., Silver Pictures",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 110,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 120.2,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_critic": "81%",
       "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
@@ -171,77 +539,31 @@
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A veteran police detective is partnered with a younger, reckless officer.",
+    "description": "Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0093409/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lethal_weapon"
-  },
-  {
-    "title": "The Untouchables",
-    "year": 1987,
-    "director": {
-      "name": "Brian De Palma",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000361/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 106.2,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Kevin Costner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
-      },
-      {
-        "name": "Sean Connery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
-      },
-      {
-        "name": "Robert De Niro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role"
-    ],
-    "description": "During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone, and because of rampant corruption, assembles a small, hand-picked team to help him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094226/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_untouchables"
   },
   {
     "title": "Predator",
     "year": 1987,
     "director": {
       "name": "John McTiernan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001532/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001531/"
     },
-    "production_studio": "20th Century Fox, Lawrence Gordon Productions",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "R",
     "runtime_minutes": 107,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 98.3,
     "ratings": {
       "imdb": 7.8,
-      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_critic": "81%",
       "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Action",
-      "Horror",
+      "Adventure",
       "Sci-Fi"
     ],
     "actors": [
@@ -254,8 +576,8 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0001835/"
       },
       {
-        "name": "Elpidia Carrillo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001018/"
+        "name": "Kevin Peter Hall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001310/"
       }
     ],
     "oscars_nominated": 1,
@@ -267,75 +589,21 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/predator"
   },
   {
-    "title": "The Last Emperor",
-    "year": 1987,
-    "director": {
-      "name": "Bernardo Bertolucci",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000934/"
-    },
-    "production_studio": "Columbia Pictures, Hemdale Film",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 163,
-    "budget_usd_millions": 23.8,
-    "gross_revenue_usd_millions": 44,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "John Lone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
-      },
-      {
-        "name": "Joan Chen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000332/"
-      },
-      {
-        "name": "Peter O'Toole",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000564/"
-      }
-    ],
-    "oscars_nominated": 9,
-    "oscars_won": 9,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Writing, Screenplay Based on Material from Another Medium",
-      "Best Cinematography",
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design",
-      "Best Sound",
-      "Best Film Editing",
-      "Best Music, Original Score"
-    ],
-    "description": "The story of the last Emperor of China.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093389/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_last_emperor"
-  },
-  {
     "title": "Dirty Dancing",
     "year": 1987,
     "director": {
       "name": "Emile Ardolino",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000783/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0034032/"
     },
     "production_studio": "Vestron Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 100,
-    "budget_usd_millions": 6,
+    "budget_usd_millions": 6.0,
     "gross_revenue_usd_millions": 214.6,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
       "Drama",
@@ -361,70 +629,71 @@
     "oscars_won_details": [
       "Best Music, Original Song"
     ],
-    "description": "Spending the summer at a Catskills resort with her family, Frances 'Baby' Houseman falls in love with the camp's dance instructor, Johnny Castle.",
+    "description": "Spending the summer at a Catskills resort with her family, Frances \"Baby\" Houseman falls in love with the camp's dance instructor, Johnny Castle.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0092890/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dirty_dancing"
   },
   {
-    "title": "Raising Arizona",
+    "title": "The Witches of Eastwick",
     "year": 1987,
     "director": {
-      "name": "Joel Coen, Ethan Coen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
+      "name": "George Miller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004306/"
     },
-    "production_studio": "Circle Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 29.2,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 22.0,
+    "gross_revenue_usd_millions": 63.8,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "62%"
     },
     "genres": [
       "Comedy",
-      "Crime"
+      "Fantasy",
+      "Horror"
     ],
     "actors": [
       {
-        "name": "Nicolas Cage",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000115/"
+        "name": "Jack Nicholson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
       },
       {
-        "name": "Holly Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
+        "name": "Cher",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000330/"
       },
       {
-        "name": "Trey Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001854/"
+        "name": "Susan Sarandon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
       }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When a childless couple of an ex-con and an ex-cop decide to help themselves to one of another family's quintuplets, their lives get more complicated than they anticipated.",
+    "description": "Three dissatisfied women in a picturesque village have their wishes granted, at a cost, when a mysterious and flashy stranger arrives in their lives.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093822/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/raising_arizona"
+    "imdb_url": "https://www.imdb.com/title/tt0094332/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/witches_of_eastwick"
   },
   {
-    "title": "Moonstruck",
+    "title": "Hope and Glory",
     "year": 1987,
     "director": {
-      "name": "Norman Jewison",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001400/"
+      "name": "John Boorman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000958/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 80.6,
+    "production_studio": "Goldcrest Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 10.0,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Comedy",
@@ -433,73 +702,464 @@
     ],
     "actors": [
       {
-        "name": "Cher",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000333/"
+        "name": "Sarah Miles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0587243/"
       },
       {
-        "name": "Nicolas Cage",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000115/"
+        "name": "David Hayman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0371369/"
       },
       {
-        "name": "Olympia Dukakis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001156/"
+        "name": "Sebastian Rice-Edwards",
+        "imdb_person_url": "https://www.imdb.com/name/nm0723377/"
       }
     ],
-    "oscars_nominated": 6,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role",
-      "Best Actress in a Supporting Role",
-      "Best Writing, Screenplay Written Directly for the Screen"
-    ],
-    "description": "A widowed bookkeeper finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.",
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A semi-autobiographical story about a nine-year-old boy growing up in London during the Blitz of World War II.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093565/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/moonstruck"
+    "imdb_url": "https://www.imdb.com/title/tt0093209/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hope_and_glory"
   },
   {
-    "title": "Broadcast News",
+    "title": "Cry Freedom",
     "year": 1987,
     "director": {
-      "name": "James L. Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000985/"
+      "name": "Richard Attenborough",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000277/"
     },
-    "production_studio": "20th Century Fox, Gracie Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 67.3,
+    "production_studio": "Marble Arch Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 157,
+    "budget_usd_millions": 29.0,
+    "gross_revenue_usd_millions": 5.9,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "98%",
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Denzel Washington",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
+      },
+      {
+        "name": "Kevin Kline",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000177/"
+      },
+      {
+        "name": "Penelope Wilton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0934362/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "South African journalist Donald Woods is forced to flee the country after attempting to investigate the death in custody of his friend, the black activist Steve Biko.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092804/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cry_freedom"
+  },
+  {
+    "title": "Ironweed",
+    "year": 1987,
+    "director": {
+      "name": "Hector Babenco",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000823/"
+    },
+    "production_studio": "Taft Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 143,
+    "budget_usd_millions": 27.0,
+    "gross_revenue_usd_millions": 7.4,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jack Nicholson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
+      },
+      {
+        "name": "Meryl Streep",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
+      },
+      {
+        "name": "Carroll Baker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000834/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An alcoholic drifter returns home to Albany, New York after a 22 year absence, spending Halloween in the company of an alcoholic ex-singer and radio star.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093273/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ironweed"
+  },
+  {
+    "title": "Radio Days",
+    "year": 1987,
+    "director": {
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 16.0,
+    "gross_revenue_usd_millions": 14.8,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "90%",
       "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
       "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Mia Farrow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001201/"
+      },
+      {
+        "name": "Dianne Wiest",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001848/"
+      },
+      {
+        "name": "Mike Starr",
+        "imdb_person_url": "https://www.imdb.com/name/nm0823563/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A look at a boy's life in the golden age of radio.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093818/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/radio_days"
+  },
+  {
+    "title": "The Dead",
+    "year": 1987,
+    "director": {
+      "name": "John Huston",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
+    },
+    "production_studio": "Liffey Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 83,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anjelica Huston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001378/"
+      },
+      {
+        "name": "Donal McCann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0564825/"
+      },
+      {
+        "name": "Dan O'Herlihy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641470/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "At a dinner party in 1904 Dublin, a professor and his wife grapple with the discovery that she once loved a boy who died for her sake.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092843/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_dead"
+  },
+  {
+    "title": "Innerspace",
+    "year": 1987,
+    "director": {
+      "name": "Joe Dante",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001103/"
+    },
+    "production_studio": "Amblin Entertainment",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 27.0,
+    "gross_revenue_usd_millions": 25.9,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Dennis Quaid",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000598/"
+      },
+      {
+        "name": "Martin Short",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001737/"
+      },
+      {
+        "name": "Meg Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000212/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Visual Effects"
+    ],
+    "description": "A test pilot is miniaturized in a secret experiment and accidentally injected into the body of a hapless store clerk.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093260/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/innerspace"
+  },
+  {
+    "title": "Harry and the Hendersons",
+    "year": 1987,
+    "director": {
+      "name": "William Dear",
+      "imdb_person_url": "https://www.imdb.com/name/nm0213070/"
+    },
+    "production_studio": "Amblin Entertainment",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 16.0,
+    "gross_revenue_usd_millions": 50.0,
+    "ratings": {
+      "imdb": 6.0,
+      "rotten_tomatoes_critic": "45%",
+      "rotten_tomatoes_popcorn": "53%"
+    },
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "John Lithgow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001475/"
+      },
+      {
+        "name": "Melinda Dillon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0227039/"
+      },
+      {
+        "name": "Kevin Peter Hall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001310/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Makeup"
+    ],
+    "description": "The Henderson family adopt a friendly Sasquatch but have a hard time trying to keep him a secret.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093148/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harry_and_the_hendersons"
+  },
+  {
+    "title": "Au Revoir les Enfants",
+    "year": 1987,
+    "director": {
+      "name": "Louis Malle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000519/"
+    },
+    "production_studio": "Nouvelles Éditions de Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
       "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Gaspard Manesse",
+        "imdb_person_url": "https://www.imdb.com/name/nm0541999/"
+      },
+      {
+        "name": "Raphael Fejtö",
+        "imdb_person_url": "https://www.imdb.com/name/nm0270830/"
+      },
+      {
+        "name": "Francine Racette",
+        "imdb_person_url": "https://www.imdb.com/name/nm0705052/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A French boarding school run by priests seems to be a haven from World War II until a new student arrives. He becomes the roommate of top student in his class. Rivals at first, the roommates form a bond and share a secret.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092593/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/au_revoir_les_enfants"
+  },
+  {
+    "title": "Babette's Feast",
+    "year": 1987,
+    "director": {
+      "name": "Gabriel Axel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0043398/"
+    },
+    "production_studio": "Panorama Film A/S",
+    "mpaa_rating": "G",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 4.3,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Stéphane Audran",
+        "imdb_person_url": "https://www.imdb.com/name/nm0041604/"
+      },
+      {
+        "name": "Bodil Kjer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0457859/"
+      },
+      {
+        "name": "Birgitte Federspiel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0270139/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "In 19th century Denmark, two adult sisters live in an isolated village with their father, who is the honored pastor of a small Protestant church that is almost a sect. After some years, a French refugee from the 1871 Commune of Paris, Babette, arrives at their door.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092603/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/babettes_feast"
+  },
+  {
+    "title": "Pelle the Conqueror",
+    "year": 1987,
+    "director": {
+      "name": "Bille August",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000806/"
+    },
+    "production_studio": "Per Holst Filmproduktion",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 157,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Max von Sydow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001884/"
+      },
+      {
+        "name": "Pelle Hvenegaard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0405234/"
+      },
+      {
+        "name": "Erik Paaske",
+        "imdb_person_url": "https://www.imdb.com/name/nm0655060/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "A Swedish father and his young son, Pelle, emigrate to Denmark in the late 19th century in hopes of a better life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093713/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pelle_the_conqueror"
+  },
+  {
+    "title": "Mannequin",
+    "year": 1987,
+    "director": {
+      "name": "Michael Gottlieb",
+      "imdb_person_url": "https://www.imdb.com/name/nm0331975/"
+    },
+    "production_studio": "Gladden Entertainment",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 42.7,
+    "ratings": {
+      "imdb": 5.9,
+      "rotten_tomatoes_critic": "20%",
+      "rotten_tomatoes_popcorn": "49%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
       "Romance"
     ],
     "actors": [
       {
-        "name": "William Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
+        "name": "Andrew McCarthy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000529/"
       },
       {
-        "name": "Albert Brooks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000978/"
+        "name": "Kim Cattrall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000326/"
       },
       {
-        "name": "Holly Hunter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
+        "name": "Estelle Getty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001268/"
       }
     ],
-    "oscars_nominated": 7,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A talented but neurotic television news producer finds her life and career in turmoil when she falls for a charismatic but dim-witted anchorman.",
-    "afi_ranking": 64,
-    "imdb_url": "https://www.imdb.com/title/tt0092699/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/broadcast_news"
+    "description": "A young artist, searching for his vocation, makes a mannequin so perfect he falls in love with it. Finding the mannequin in a store window, he gets a job there and his creation comes to life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093493/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mannequin"
   },
   {
     "title": "Beverly Hills Cop II",
@@ -508,15 +1168,15 @@
       "name": "Tony Scott",
       "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
     },
-    "production_studio": "Paramount Pictures, Don Simpson/Jerry Bruckheimer Films",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 100,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 300,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 300.0,
     "ratings": {
       "imdb": 6.5,
-      "rotten_tomatoes_critic": "46%",
-      "rotten_tomatoes_popcorn": "61%"
+      "rotten_tomatoes_critic": "47%",
+      "rotten_tomatoes_popcorn": "56%"
     },
     "genres": [
       "Action",
@@ -530,64 +1190,539 @@
       },
       {
         "name": "Judge Reinhold",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001662/"
       },
       {
         "name": "Jürgen Prochnow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000593/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Axel Foley returns to Beverly Hills to help Taggart and Rosewood investigate Chief Bogomil's near-fatal shooting and the series of 'alphabet crimes' associated with it.",
+    "description": "Axel Foley returns to Beverly Hills to help Taggart and Rosewood investigate Chief Bogomil's near-fatal shooting and the series of \"alphabet crimes\" associated with it.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0092644/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beverly_hills_cop_ii"
   },
   {
-    "title": "Good Morning, Vietnam",
+    "title": "Throw Momma from the Train",
     "year": 1987,
     "director": {
-      "name": "Barry Levinson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001469/"
+      "name": "Danny DeVito",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000362/"
     },
-    "production_studio": "Touchstone Pictures, Silver Screen Partners III",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 123.9,
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 57.9,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "39%"
     },
     "genres": [
-      "Biography",
       "Comedy",
-      "Drama"
+      "Crime"
     ],
     "actors": [
       {
-        "name": "Robin Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
+        "name": "Danny DeVito",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000362/"
       },
       {
-        "name": "Forest Whitaker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001845/"
+        "name": "Billy Crystal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000345/"
       },
       {
-        "name": "Tung Thanh Tran",
-        "imdb_person_url": "https://www.imdb.com/name/nm0870932/"
+        "name": "Anne Ramsey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001649/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In 1965, an unorthodox and irreverent DJ named Adrian Cronauer begins to shake up things when he is assigned to the U.S. Armed Services radio station in Vietnam.",
+    "description": "A bitter ex-husband and a put-upon mama's boy attempt to swap murders to get rid of their respective women.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093105/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/good_morning_vietnam"
+    "imdb_url": "https://www.imdb.com/title/tt0094142/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/throw_momma_from_the_train"
+  },
+  {
+    "title": "Matewan",
+    "year": 1987,
+    "director": {
+      "name": "John Sayles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000626/"
+    },
+    "production_studio": "Cinecom Entertainment Group",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 135,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 1.6,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Chris Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001066/"
+      },
+      {
+        "name": "James Earl Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000469/"
+      },
+      {
+        "name": "Mary McDonnell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000530/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A labor union organizer comes to an embattled mining community in West Virginia during the violent struggles of the 1920s.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093507/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/matewan"
+  },
+  {
+    "title": "Gaby: A True Story",
+    "year": 1987,
+    "director": {
+      "name": "Luis Mandoki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002956/"
+    },
+    "production_studio": "G. Brimmer",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Liv Ullmann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001808/"
+      },
+      {
+        "name": "Norma Aleandro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0017835/"
+      },
+      {
+        "name": "Robert Loggia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000502/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of Gabriela Brimmer, a Mexican writer and poet born with cerebral palsy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093075/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gaby_a_true_story"
+  },
+  {
+    "title": "Street Smart",
+    "year": 1987,
+    "director": {
+      "name": "Jerry Schatzberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0770334/"
+    },
+    "production_studio": "Cannon Group",
+    "mpaa_rating": "R",
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Christopher Reeve",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
+      },
+      {
+        "name": "Kathy Baker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000834/"
+      },
+      {
+        "name": "Morgan Freeman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A magazine reporter fabricates a story about a pimp to save his job, but is drawn into the world of a real pimp who believes the story is about him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094057/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/street_smart"
+  },
+  {
+    "title": "Anna",
+    "year": 1987,
+    "director": {
+      "name": "Yurek Bogayevicz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0091566/"
+    },
+    "production_studio": "Vestron Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 100,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "40%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Sally Kirkland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001426/"
+      },
+      {
+        "name": "Robert Fields",
+        "imdb_person_url": "https://www.imdb.com/name/nm0276332/"
+      },
+      {
+        "name": "Paulina Porizkova",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001633/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An aging Czech actress struggles to find work in New York City, and takes in a young Czech immigrant who begins to take over her life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092564/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000977-anna"
+  },
+  {
+    "title": "Dark Eyes",
+    "year": 1987,
+    "director": {
+      "name": "Nikita Mikhalkov",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000542/"
+    },
+    "production_studio": "RAI",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 117,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Marcello Mastroianni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000052/"
+      },
+      {
+        "name": "Marthe Keller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0445710/"
+      },
+      {
+        "name": "Yelena Safonova",
+        "imdb_person_url": "https://www.imdb.com/name/nm0755913/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "On board a ship, a married Italian man tells a Russian stranger the story of his encounter with a beautiful Russian woman at a health spa.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093664/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_eyes"
+  },
+  {
+    "title": "Maurice",
+    "year": 1987,
+    "director": {
+      "name": "James Ivory",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001389/"
+    },
+    "production_studio": "Merchant Ivory Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 2.6,
+    "gross_revenue_usd_millions": 2.4,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "James Wilby",
+        "imdb_person_url": "https://www.imdb.com/name/nm0928236/"
+      },
+      {
+        "name": "Hugh Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000157/"
+      },
+      {
+        "name": "Rupert Graves",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001293/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two male college students at Cambridge fall in love, but must hide their relationship given the oppressive culture of Edwardian England.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093517/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/maurice"
+  },
+  {
+    "title": "The Whales of August",
+    "year": 1987,
+    "director": {
+      "name": "Lindsay Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0027101/"
+    },
+    "production_studio": "Nelson Entertainment",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Lillian Gish",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001274/"
+      },
+      {
+        "name": "Vincent Price",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two aged sisters reflect on their lives and their relationship while spending a summer in a seaside house in Maine.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094315/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whales_of_august"
+  },
+  {
+    "title": "Pathfinder",
+    "year": 1987,
+    "director": {
+      "name": "Nils Gaup",
+      "imdb_person_url": "https://www.imdb.com/name/nm0310123/"
+    },
+    "production_studio": "Filmkameratene A/S",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 86,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Mikkel Gaup",
+        "imdb_person_url": "https://www.imdb.com/name/nm0310121/"
+      },
+      {
+        "name": "Ingvald Guttorm",
+        "imdb_person_url": "https://www.imdb.com/name/nm0348577/"
+      },
+      {
+        "name": "Nils Utsi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0881512/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young boy witnesses the murder of his family by the Chudes, a menacing tribe. He is taken prisoner and forced to lead them to other villagers, but he plots his revenge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093668/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015998-pathfinder"
+  },
+  {
+    "title": "The Family",
+    "year": 1987,
+    "director": {
+      "name": "Ettore Scola",
+      "imdb_person_url": "https://www.imdb.com/name/nm0778433/"
+    },
+    "production_studio": "Massfilm",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 127,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Vittorio Gassman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002094/"
+      },
+      {
+        "name": "Stefania Sandrelli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0762145/"
+      },
+      {
+        "name": "Fanny Ardant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000806/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of an Italian family that spans from 1906 to 1986, narrated by Carlo, the patriarch.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093011/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_family"
+  },
+  {
+    "title": "Withnail and I",
+    "year": 1987,
+    "director": {
+      "name": "Bruce Robinson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0732439/"
+    },
+    "production_studio": "HandMade Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Richard E. Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001290/"
+      },
+      {
+        "name": "Paul McGann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001524/"
+      },
+      {
+        "name": "Richard Griffiths",
+        "imdb_person_url": "https://www.imdb.com/name/nm0341743/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two unemployed actors, Withnail and I, drift through their days in a haze of alcohol and drugs in 1969 London.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094336/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/withnail_and_i"
+  },
+  {
+    "title": "Planes, Trains and Automobiles",
+    "year": 1987,
+    "director": {
+      "name": "John Hughes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000455/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 49.5,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Steve Martin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000188/"
+      },
+      {
+        "name": "John Candy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001006/"
+      },
+      {
+        "name": "Laila Robins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0732309/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man must struggle to travel home for Thanksgiving with an obnoxious slob of a shower curtain ring salesman as his only companion.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093748/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/planes_trains_and_automobiles"
   },
   {
     "title": "Evil Dead II",
@@ -617,11 +1752,11 @@
       },
       {
         "name": "Sarah Berry",
-        "imdb_person_url": "https://www.imdb.com/name/nm0077592/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0077682/"
       },
       {
         "name": "Dan Hicks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0382833/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0382839/"
       }
     ],
     "oscars_nominated": 0,
@@ -630,791 +1765,7 @@
     "description": "The lone survivor of an onslaught of flesh-possessing spirits holes up in a cabin with a group of strangers while the demons continue their attack.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0092991/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/evil_dead_2_dead_by_dawn"
-  },
-  {
-    "title": "The Living Daylights",
-    "year": 1987,
-    "director": {
-      "name": "John Glen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0322515/"
-    },
-    "production_studio": "Eon Productions, United Artists",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 131,
-    "budget_usd_millions": 40,
-    "gross_revenue_usd_millions": 191.2,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Timothy Dalton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001096/"
-      },
-      {
-        "name": "Maryam d'Abo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000344/"
-      },
-      {
-        "name": "Jeroen Krabbé",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "James Bond is sent to investigate a KGB policy of assassinating all enemy spies, and finds himself entwined in a web of arms dealing and international intrigue.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093428/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/living_daylights"
-  },
-  {
-    "title": "Hellraiser",
-    "year": 1987,
-    "director": {
-      "name": "Clive Barker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000872/"
-    },
-    "production_studio": "New World Pictures, Film Futures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 14.6,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "70%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Andrew Robinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0732386/"
-      },
-      {
-        "name": "Clare Higgins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0383480/"
-      },
-      {
-        "name": "Ashley Laurence",
-        "imdb_person_url": "https://www.imdb.com/name/nm0491032/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A woman discovers the newly resurrected, partially formed, body of her brother-in-law. She starts killing for him to revitalize his body so he can escape the demonic beings that are pursuing him after he escaped their sadistic underworld.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093177/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hellraiser"
-  },
-  {
-    "title": "Angel Heart",
-    "year": 1987,
-    "director": {
-      "name": "Alan Parker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000571/"
-    },
-    "production_studio": "Carolco International N.V.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 17.2,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Mickey Rourke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000620/"
-      },
-      {
-        "name": "Robert De Niro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-      },
-      {
-        "name": "Lisa Bonet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000957/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A private detective is hired to find a missing person, but the investigation takes a dark and supernatural turn.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0092563/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/angel_heart"
-  },
-  {
-    "title": "Babette's Feast",
-    "year": 1987,
-    "director": {
-      "name": "Gabriel Axel",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000810/"
-    },
-    "production_studio": "Panorama Film A/S",
-    "mpaa_rating": "G",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 4.4,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Stéphane Audran",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000801/"
-      },
-      {
-        "name": "Bodil Kjer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0459385/"
-      },
-      {
-        "name": "Birgitte Federspiel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0270471/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "In a remote 19th-century Danish village, two sisters take in a French refugee who prepares a lavish meal for them and their community.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0092603/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/babettes_feast"
-  },
-  {
-    "title": "Radio Days",
-    "year": 1987,
-    "director": {
-      "name": "Woody Allen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
-    },
-    "production_studio": "Orion Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 14.8,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Mia Farrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001201/"
-      },
-      {
-        "name": "Seth Green",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001293/"
-      },
-      {
-        "name": "Julie Kavner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001413/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A nostalgic look at the golden age of radio in the 1930s and '40s, as seen through the eyes of a young boy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093818/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/radio_days"
-  },
-  {
-    "title": "Withnail & I",
-    "year": 1987,
-    "director": {
-      "name": "Bruce Robinson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001675/"
-    },
-    "production_studio": "HandMade Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 1.7,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Richard E. Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001290/"
-      },
-      {
-        "name": "Paul McGann",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001524/"
-      },
-      {
-        "name": "Richard Griffiths",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001297/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In 1969, two substance-addled, unemployed actors retreat to the countryside for a holiday that proves disastrous.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094336/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/withnail_and_i"
-  },
-  {
-    "title": "The Witches of Eastwick",
-    "year": 1987,
-    "director": {
-      "name": "George Miller",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004306/"
-    },
-    "production_studio": "Warner Bros., The Guber-Peters Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 63.8,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
-      },
-      {
-        "name": "Cher",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000333/"
-      },
-      {
-        "name": "Susan Sarandon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Three single women in a picturesque village have their wishes granted, at a cost, when a mysterious and flamboyant man arrives in their lives.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094332/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/witches_of_eastwick"
-  },
-  {
-    "title": "The Secret of My Success",
-    "year": 1987,
-    "director": {
-      "name": "Herbert Ross",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001684/"
-    },
-    "production_studio": "Universal Pictures, Rastar Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 110,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "46%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Michael J. Fox",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000150/"
-      },
-      {
-        "name": "Helen Slater",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000644/"
-      },
-      {
-        "name": "Richard Jordan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0430138/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young man from Kansas moves to New York City to make his fortune, but he finds that he has to start in the mailroom.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093936/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/secret_of_my_success"
-  },
-  {
-    "title": "Mannequin",
-    "year": 1987,
-    "director": {
-      "name": "Michael Gottlieb",
-      "imdb_person_url": "https://www.imdb.com/name/nm0331804/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 90,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 42.7,
-    "ratings": {
-      "imdb": 5.9,
-      "rotten_tomatoes_critic": "21%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Andrew McCarthy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000527/"
-      },
-      {
-        "name": "Kim Cattrall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000326/"
-      },
-      {
-        "name": "Estelle Getty",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001268/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young artist, searching for his vocation, makes a mannequin so perfect he falls in love with it. Finding the mannequin in a store window, he gets a job there and his creation comes to life.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093493/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mannequin"
-  },
-  {
-    "title": "Adventures in Babysitting",
-    "year": 1987,
-    "director": {
-      "name": "Chris Columbus",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001060/"
-    },
-    "production_studio": "Touchstone Pictures, Silver Screen Partners III",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 34.4,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Elisabeth Shue",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000223/"
-      },
-      {
-        "name": "Maia Brewton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0108527/"
-      },
-      {
-        "name": "Keith Coogan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001067/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A teenager's babysitting gig turns into a wild adventure in the big city.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0092513/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/adventures_in_babysitting"
-  },
-  {
-    "title": "Overboard",
-    "year": 1987,
-    "director": {
-      "name": "Garry Marshall",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005190/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 26.7,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "46%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Goldie Hawn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000440/"
-      },
-      {
-        "name": "Kurt Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
-      },
-      {
-        "name": "Edward Herrmann",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001346/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A cruel but beautiful heiress mocks and cheats a hired carpenter. When she gets amnesia, he convinces her that she's his wife.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093693/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/overboard"
-  },
-  {
-    "title": "The Running Man",
-    "year": 1987,
-    "director": {
-      "name": "Paul Michael Glaser",
-      "imdb_person_url": "https://www.imdb.com/name/nm0322210/"
-    },
-    "production_studio": "TAFT Entertainment Pictures, Keith Barish Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 27,
-    "gross_revenue_usd_millions": 38.1,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "66%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Arnold Schwarzenegger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000216/"
-      },
-      {
-        "name": "Maria Conchita Alonso",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000755/"
-      },
-      {
-        "name": "Yaphet Kotto",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001433/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In a dystopian future, a man is framed for a massacre and forced to compete in a deadly television show.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093894/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/running_man"
-  },
-  {
-    "title": "The Lost Boys",
-    "year": 1987,
-    "director": {
-      "name": "Joel Schumacher",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001708/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 8.5,
-    "gross_revenue_usd_millions": 32.2,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Comedy",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Jason Patric",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000574/"
-      },
-      {
-        "name": "Corey Haim",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000429/"
-      },
-      {
-        "name": "Dianne Wiest",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001848/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After moving to a new town, two brothers discover that the area is a haven for vampires.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093437/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lost_boys"
-  },
-  {
-    "title": "La Bamba",
-    "year": 1987,
-    "director": {
-      "name": "Luis Valdez",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005519/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 6.5,
-    "gross_revenue_usd_millions": 54.2,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Lou Diamond Phillips",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001614/"
-      },
-      {
-        "name": "Esai Morales",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001550/"
-      },
-      {
-        "name": "Rosanna DeSoto",
-        "imdb_person_url": "https://www.imdb.com/name/nm0221464/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the life and career of Ritchie Valens, the first Mexican-American rock and roll star.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093378/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_bamba"
-  },
-  {
-    "title": "Near Dark",
-    "year": 1987,
-    "director": {
-      "name": "Kathryn Bigelow",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000941/"
-    },
-    "production_studio": "Feldman-Meeker",
-    "mpaa_rating": "R",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 3.4,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Adrian Pasdar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001597/"
-      },
-      {
-        "name": "Jenny Wright",
-        "imdb_person_url": "https://www.imdb.com/name/nm0942379/"
-      },
-      {
-        "name": "Lance Henriksen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000448/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young man is unwillingly turned into a vampire and joins a nomadic family of the undead.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093605/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/near_dark"
-  },
-  {
-    "title": "Bad Taste",
-    "year": 1987,
-    "director": {
-      "name": "Peter Jackson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
-    },
-    "production_studio": "WingNut Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 0.025,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Comedy",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Terry Potter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0693240/"
-      },
-      {
-        "name": "Pete O'Herne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0642289/"
-      },
-      {
-        "name": "Craig Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0808006/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small town is invaded by aliens who want to harvest humans for their intergalactic fast food franchise.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0092610/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bad_taste"
-  },
-  {
-    "title": "Spaceballs",
-    "year": 1987,
-    "director": {
-      "name": "Mel Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000316/"
-    },
-    "production_studio": "Brooksfilms, Metro-Goldwyn-Mayer",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 22.7,
-    "gross_revenue_usd_millions": 38.1,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "56%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Mel Brooks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000316/"
-      },
-      {
-        "name": "John Candy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001006/"
-      },
-      {
-        "name": "Rick Moranis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001548/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A star-pilot for hire and his trusty sidekick must come to the rescue of a princess and save Planet Druidia from the clutches of the evil Spaceballs.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094012/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spaceballs"
-  },
-  {
-    "title": "Three Men and a Baby",
-    "year": 1987,
-    "director": {
-      "name": "Leonard Nimoy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000559/"
-    },
-    "production_studio": "Touchstone Pictures, Interscope Communications",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 240,
-    "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Tom Selleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000633/"
-      },
-      {
-        "name": "Steve Guttenberg",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000429/"
-      },
-      {
-        "name": "Ted Danson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001101/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Three bachelors find their lives turned upside down when a baby is left on their doorstep.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0094137/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_men_and_a_baby"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/evil_dead_2"
   },
   {
     "title": "Wings of Desire",
@@ -1423,15 +1774,15 @@
       "name": "Wim Wenders",
       "imdb_person_url": "https://www.imdb.com/name/nm0000694/"
     },
-    "production_studio": "Road Movies Filmproduktion, Argos Films",
+    "production_studio": "Road Movies Filmproduktion",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 128,
-    "budget_usd_millions": 2,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": 3.2,
     "ratings": {
-      "imdb": 7.9,
+      "imdb": 8.0,
       "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
       "Drama",
@@ -1441,15 +1792,15 @@
     "actors": [
       {
         "name": "Bruno Ganz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000412/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0004486/"
       },
       {
         "name": "Solveig Dommartin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0231652/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0231627/"
       },
       {
         "name": "Otto Sander",
-        "imdb_person_url": "https://www.imdb.com/name/nm0761320/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0761358/"
       }
     ],
     "oscars_nominated": 0,
@@ -1461,148 +1812,301 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wings_of_desire"
   },
   {
-    "title": "Hellbound: Hellraiser II",
-    "year": 1988,
+    "title": "Where Is the Friend's House?",
+    "year": 1987,
     "director": {
-      "name": "Tony Randel",
-      "imdb_person_url": "https://www.imdb.com/name/nm0709939/"
+      "name": "Abbas Kiarostami",
+      "imdb_person_url": "https://www.imdb.com/name/nm0452102/"
     },
-    "production_studio": "Film Futures, New World Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 12.1,
+    "production_studio": "Kanun",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 83,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "61%"
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
-      "Horror"
+      "Drama",
+      "Family"
     ],
     "actors": [
       {
-        "name": "Clare Higgins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0383480/"
+        "name": "Babek Ahmed Poor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0014237/"
       },
       {
-        "name": "Ashley Laurence",
-        "imdb_person_url": "https://www.imdb.com/name/nm0491032/"
+        "name": "Ahmed Ahmed Poor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0014236/"
       },
       {
-        "name": "Kenneth Cranham",
-        "imdb_person_url": "https://www.imdb.com/name/nm0186450/"
+        "name": "Kheda Barech Defai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0214389/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young woman is sent to a mental institution where a sadistic doctor is trying to resurrect her evil stepmother.",
+    "description": "An 8 year old boy must return his friend's notebook that he took by mistake, lest his friend be punished by expulsion from school.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0095294/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hellbound_hellraiser_ii"
+    "imdb_url": "https://www.imdb.com/title/tt0093342/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/where_is_the_friends_home"
   },
   {
-    "title": "Au revoir les enfants",
+    "title": "Raising Arizona",
     "year": 1987,
     "director": {
-      "name": "Louis Malle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001501/"
+      "name": "Joel Coen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
     },
-    "production_studio": "Nouvelles Éditions de Films (NEF)",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 104,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 4.5,
+    "production_studio": "Circle Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 22.8,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
-      "Drama",
-      "War"
+      "Comedy",
+      "Crime"
     ],
     "actors": [
       {
-        "name": "Gaspard Manesse",
-        "imdb_person_url": "https://www.imdb.com/name/nm0542618/"
+        "name": "Nicolas Cage",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000115/"
       },
       {
-        "name": "Raphaël Fejtö",
-        "imdb_person_url": "https://www.imdb.com/name/nm0270471/"
+        "name": "Holly Hunter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000457/"
       },
       {
-        "name": "Francine Racette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0705910/"
+        "name": "Trey Wilson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0934250/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "During World War II, a young boy at a Catholic boarding school befriends a Jewish student who is being hidden from the Nazis.",
+    "description": "When a childless couple of an ex-con and an ex-cop decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0092593/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/au_revoir_les_enfants"
+    "imdb_url": "https://www.imdb.com/title/tt0093822/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/raising_arizona"
   },
   {
-    "title": "Ironweed",
+    "title": "Swimming to Cambodia",
     "year": 1987,
     "director": {
-      "name": "Hector Babenco",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000824/"
+      "name": "Jonathan Demme",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
     },
-    "production_studio": "HBO, Keith Barish Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 143,
-    "budget_usd_millions": 27,
-    "gross_revenue_usd_millions": 7.4,
+    "production_studio": "Cinecom Pictures",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 85,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.7,
     "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "57%",
-      "rotten_tomatoes_popcorn": "61%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
+      "Comedy",
+      "Drama",
+      "Documentary"
+    ],
+    "actors": [
+      {
+        "name": "Spalding Gray",
+        "imdb_person_url": "https://www.imdb.com/name/nm0336946/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Spalding Gray sits behind a desk and talks about his life, his experiences in the theater, and his role in the film \"The Killing Fields.\"",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094089/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/swimming_to_cambodia"
+  },
+  {
+    "title": "Sign o' the Times",
+    "year": 1987,
+    "director": {
+      "name": "Prince",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002239/"
+    },
+    "production_studio": "Purple Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Prince",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002239/"
+      },
+      {
+        "name": "Sheila E.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0247290/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Prince and his band perform 13 numbers, most of them from his double album, 'Sign o' the Times.'",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093965/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sign_o_the_times"
+  },
+  {
+    "title": "The Man Who Planted Trees",
+    "year": 1987,
+    "director": {
+      "name": "Frédéric Back",
+      "imdb_person_url": "https://www.imdb.com/name/nm0045582/"
+    },
+    "production_studio": "Société Radio-Canada",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 30,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Animation",
+      "Short",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
+        "name": "Philippe Noiret",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001569/"
       },
       {
-        "name": "Meryl Streep",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
+        "name": "Christopher Plummer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001626/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Short Film, Animated"
+    ],
+    "description": "The story of a solitary shepherd who patiently plants oak trees in a desolate valley, transforming it over decades into a lush paradise.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093488/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_man_who_planted_trees"
+  },
+  {
+    "title": "My Life as a Dog",
+    "year": 1987,
+    "director": {
+      "name": "Lasse Hallström",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002120/"
+    },
+    "production_studio": "Svensk Filmindustri",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 101,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 8.3,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Anton Glanzelius",
+        "imdb_person_url": "https://www.imdb.com/name/nm0321796/"
       },
       {
-        "name": "Carroll Baker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000832/"
+        "name": "Tomas von Brömssen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0901925/"
+      },
+      {
+        "name": "Anki Lidén",
+        "imdb_person_url": "https://www.imdb.com/name/nm0509170/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An alcoholic drifter returns to his hometown of Albany, New York, after a 22-year absence.",
+    "description": "A young boy is sent to live with relatives in a country village when his mother falls ill.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093277/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ironweed"
+    "imdb_url": "https://www.imdb.com/title/tt0089618/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_life_as_a_dog"
   },
   {
-    "title": "Planes, Trains & Automobiles",
+    "title": "The Emperor's Naked Army Marches On",
     "year": 1987,
     "director": {
-      "name": "John Hughes",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000455/"
+      "name": "Kazuo Hara",
+      "imdb_person_url": "https://www.imdb.com/name/nm0361655/"
     },
-    "production_studio": "Paramount Pictures, Hughes Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 49.5,
+    "production_studio": "Shisso Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 122,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "91%"
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Documentary"
+    ],
+    "actors": [
+      {
+        "name": "Kenzô Okuzaki",
+        "imdb_person_url": "https://www.imdb.com/name/nm0645799/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A documentary following Kenzô Okuzaki, a veteran of the Second World War, as he attempts to track down the officers responsible for the unexplained deaths of two soldiers in his unit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0098667/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_emperors_naked_army_marches_on"
+  },
+  {
+    "title": "Bagdad Cafe",
+    "year": 1987,
+    "director": {
+      "name": "Percy Adlon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0012297/"
+    },
+    "production_studio": "Pro-ject Filmproduktion",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 3.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Comedy",
@@ -1610,24 +2114,112 @@
     ],
     "actors": [
       {
-        "name": "Steve Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000188/"
+        "name": "Marianne Sägebrecht",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001796/"
       },
       {
-        "name": "John Candy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001006/"
+        "name": "CCH Pounder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001634/"
       },
       {
-        "name": "Laila Robins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0732158/"
+        "name": "Jack Palance",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A German tourist, abandoned by her husband in the middle of the desert, finds community at a rundown truck stop.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0094694/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bagdad_cafe"
+  },
+  {
+    "title": "Four Adventures of Reinette and Mirabelle",
+    "year": 1987,
+    "director": {
+      "name": "Éric Rohmer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0006445/"
+    },
+    "production_studio": "Compagnie Eric Rohmer",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Joëlle Miquel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0591696/"
+      },
+      {
+        "name": "Jessica Forde",
+        "imdb_person_url": "https://www.imdb.com/name/nm0285942/"
+      },
+      {
+        "name": "Fabrice Luchini",
+        "imdb_person_url": "https://www.imdb.com/name/nm0524502/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A man must struggle to travel home for Thanksgiving with an obnoxious slob of a shower curtain ring salesman as his only companion.",
+    "description": "Two young women, one a city girl and one a country girl, become roommates in Paris and share various life experiences.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0093748/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/planes_trains_and_automobiles"
+    "imdb_url": "https://www.imdb.com/title/tt0092520/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/four_adventures_of_reinette_and_mirabelle"
+  },
+  {
+    "title": "A Chinese Ghost Story",
+    "year": 1987,
+    "director": {
+      "name": "Siu-Tung Ching",
+      "imdb_person_url": "https://www.imdb.com/name/nm0157930/"
+    },
+    "production_studio": "Cinema City Film Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Leslie Cheung",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002000/"
+      },
+      {
+        "name": "Joey Wang",
+        "imdb_person_url": "https://www.imdb.com/name/nm0910920/"
+      },
+      {
+        "name": "Wu Ma",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531016/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A tax collector spends a night in a haunted temple where he falls in love with a female ghost.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0093978/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chinese_ghost_story"
   }
 ]

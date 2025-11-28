@@ -6,11 +6,11 @@
       "name": "Francis Ford Coppola",
       "imdb_person_url": "https://www.imdb.com/name/nm0000338/"
     },
-    "production_studio": "Paramount Pictures, The Coppola Company",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 202,
-    "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 93,
+    "budget_usd_millions": 13.0,
+    "gross_revenue_usd_millions": 47.9,
     "ratings": {
       "imdb": 9.0,
       "rotten_tomatoes_critic": "96%",
@@ -31,7 +31,7 @@
       },
       {
         "name": "Robert Duvall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000378/"
       }
     ],
     "oscars_nominated": 11,
@@ -40,7 +40,7 @@
       "Best Picture",
       "Best Director",
       "Best Actor in a Supporting Role",
-      "Best Writing, Screenplay Adapted from Other Material",
+      "Best Writing, Screenplay Adapted From Other Material",
       "Best Art Direction-Set Decoration",
       "Best Music, Original Dramatic Score"
     ],
@@ -54,16 +54,16 @@
     "year": 1974,
     "director": {
       "name": "Roman Polanski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000591/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 130,
-    "budget_usd_millions": 6,
+    "budget_usd_millions": 6.0,
     "gross_revenue_usd_millions": 29.2,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_critic": "99%",
       "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
@@ -78,11 +78,11 @@
       },
       {
         "name": "Faye Dunaway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001159/"
       },
       {
         "name": "John Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
       }
     ],
     "oscars_nominated": 11,
@@ -94,6 +94,49 @@
     "afi_ranking": 21,
     "imdb_url": "https://www.imdb.com/title/tt0071315/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chinatown"
+  },
+  {
+    "title": "Blazing Saddles",
+    "year": 1974,
+    "director": {
+      "name": "Mel Brooks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000316/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 2.6,
+    "gross_revenue_usd_millions": 119.6,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Cleavon Little",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001474/"
+      },
+      {
+        "name": "Gene Wilder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+      },
+      {
+        "name": "Slim Pickens",
+        "imdb_person_url": "https://www.imdb.com/name/nm0681944/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.",
+    "afi_ranking": 6,
+    "imdb_url": "https://www.imdb.com/title/tt0071230/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blazing_saddles"
   },
   {
     "title": "The Conversation",
@@ -108,8 +151,8 @@
     "budget_usd_millions": 1.6,
     "gross_revenue_usd_millions": 4.4,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "97%",
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
@@ -120,7 +163,7 @@
     "actors": [
       {
         "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
       },
       {
         "name": "John Cazale",
@@ -128,59 +171,16 @@
       },
       {
         "name": "Allen Garfield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001259/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0307300/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that a couple he is spying on will be murdered.",
+    "description": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0071360/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_conversation"
-  },
-  {
-    "title": "Blazing Saddles",
-    "year": 1974,
-    "director": {
-      "name": "Mel Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000316/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 2.6,
-    "gross_revenue_usd_millions": 119.5,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Cleavon Little",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001475/"
-      },
-      {
-        "name": "Gene Wilder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
-      },
-      {
-        "name": "Slim Pickens",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In order to ruin a western town, a corrupt political boss appoints a black sheriff, who promptly becomes his most formidable adversary.",
-    "afi_ranking": 6,
-    "imdb_url": "https://www.imdb.com/title/tt0071230/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blazing_saddles"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/conversation"
   },
   {
     "title": "Young Frankenstein",
@@ -189,19 +189,18 @@
       "name": "Mel Brooks",
       "imdb_person_url": "https://www.imdb.com/name/nm0000316/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Gruskoff/Venture Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 106,
     "budget_usd_millions": 2.8,
-    "gross_revenue_usd_millions": 86.3,
+    "gross_revenue_usd_millions": 86.2,
     "ratings": {
       "imdb": 8.0,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
-      "Comedy",
-      "Horror"
+      "Comedy"
     ],
     "actors": [
       {
@@ -210,7 +209,7 @@
       },
       {
         "name": "Peter Boyle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001968/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001967/"
       },
       {
         "name": "Marty Feldman",
@@ -220,147 +219,10 @@
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An American grandson of the infamous scientist, struggling to prove that he is not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
+    "description": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.",
     "afi_ranking": 13,
     "imdb_url": "https://www.imdb.com/title/tt0072431/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/young_frankenstein"
-  },
-  {
-    "title": "Murder on the Orient Express",
-    "year": 1974,
-    "director": {
-      "name": "Sidney Lumet",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
-    },
-    "production_studio": "EMI Film Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 1.4,
-    "gross_revenue_usd_millions": 35.7,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Albert Finney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001215/"
-      },
-      {
-        "name": "Lauren Bacall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000002/"
-      },
-      {
-        "name": "Ingrid Bergman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role"
-    ],
-    "description": "In 1935, when a murder occurs on the Orient Express, famed detective Hercule Poirot is recruited to solve the case.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071877/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/murder_on_the_orient_express"
-  },
-  {
-    "title": "A Woman Under the Influence",
-    "year": 1974,
-    "director": {
-      "name": "John Cassavetes",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001023/"
-    },
-    "production_studio": "Faces Music",
-    "mpaa_rating": "R",
-    "runtime_minutes": 155,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 12,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Gena Rowlands",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001687/"
-      },
-      {
-        "name": "Peter Falk",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000393/"
-      },
-      {
-        "name": "Fred Draper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0237116/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A woman's emotional breakdown and its effect on her family.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0072417/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_woman_under_the_influence"
-  },
-  {
-    "title": "The Towering Inferno",
-    "year": 1974,
-    "director": {
-      "name": "John Guillermin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0346892/"
-    },
-    "production_studio": "20th Century Fox, Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 165,
-    "budget_usd_millions": 14.3,
-    "gross_revenue_usd_millions": 203.3,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Steve McQueen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000537/"
-      },
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "William Holden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Cinematography",
-      "Best Film Editing",
-      "Best Music, Original Song"
-    ],
-    "description": "A fire breaks out at a party in a colossal, but poorly constructed, office building, leaving a group of people trapped.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0072308/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/towering_inferno"
   },
   {
     "title": "The Texas Chain Saw Massacre",
@@ -385,24 +247,204 @@
     "actors": [
       {
         "name": "Marilyn Burns",
-        "imdb_person_url": "https://www.imdb.com/name/nm0122842/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0122782/"
       },
       {
-        "name": "Allen Danziger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0199971/"
+        "name": "Edwin Neal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0623630/"
       },
       {
-        "name": "Paul A. Partain",
-        "imdb_person_url": "https://www.imdb.com/name/nm0664089/"
+        "name": "Gunnar Hansen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0360829/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two siblings and three of their friends en route to visit their grandfather's grave in Texas end up falling victim to a family of cannibalistic psychopaths.",
+    "description": "Five friends visiting their grandfather's house in the country are hunted and terrorized by a chain-saw wielding killer and his family of grave-robbing cannibals.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0072271/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/texas_chainsaw_massacre"
+  },
+  {
+    "title": "A Woman Under the Influence",
+    "year": 1974,
+    "director": {
+      "name": "John Cassavetes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001023/"
+    },
+    "production_studio": "Faces",
+    "mpaa_rating": "R",
+    "runtime_minutes": 155,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Gena Rowlands",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001687/"
+      },
+      {
+        "name": "Peter Falk",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000393/"
+      },
+      {
+        "name": "Fred Draper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0237126/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Although she loves her husband and children, a woman's unusual behavior and mental instability leads to conflict with her family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0072417/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/woman_under_the_influence"
+  },
+  {
+    "title": "The Towering Inferno",
+    "year": 1974,
+    "director": {
+      "name": "John Guillermin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0347113/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 165,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 116.0,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
+      },
+      {
+        "name": "Steve McQueen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000537/"
+      },
+      {
+        "name": "William Holden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000450/"
+      }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Best Film Editing",
+      "Best Music, Original Song"
+    ],
+    "description": "At the opening party of a colossal, but poorly constructed, office building, a massive fire breaks out that threatens to destroy the tower and everyone in it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0072308/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/towering_inferno"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "year": 1974,
+    "director": {
+      "name": "Sidney Lumet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 128,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 35.7,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Albert Finney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001215/"
+      },
+      {
+        "name": "Lauren Bacall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000004/"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Supporting Role"
+    ],
+    "description": "In December 1935, when his train is stopped by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071877/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/murder_on_the_orient_express"
+  },
+  {
+    "title": "Lenny",
+    "year": 1974,
+    "director": {
+      "name": "Bob Fosse",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001235/"
+    },
+    "production_studio": "Marvin Worth Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 11.6,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Dustin Hoffman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
+      },
+      {
+        "name": "Valerie Perrine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001611/"
+      },
+      {
+        "name": "Jan Miner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0591143/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of acerbic 1960s stand-up comedian Lenny Bruce, whose style of open, free-style and critical form of comedy catapulted him into stardom and trouble.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071746/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lenny"
   },
   {
     "title": "Alice Doesn't Live Here Anymore",
@@ -415,11 +457,11 @@
     "mpaa_rating": "PG",
     "runtime_minutes": 112,
     "budget_usd_millions": 1.8,
-    "gross_revenue_usd_millions": 21,
+    "gross_revenue_usd_millions": 21.0,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Drama",
@@ -435,8 +477,8 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0001434/"
       },
       {
-        "name": "Mia Bendixsen",
-        "imdb_person_url": null
+        "name": "Alfred Lutter III",
+        "imdb_person_url": "https://www.imdb.com/name/nm0527560/"
       }
     ],
     "oscars_nominated": 3,
@@ -450,20 +492,66 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/alice_doesnt_live_here_anymore"
   },
   {
+    "title": "Harry and Tonto",
+    "year": 1974,
+    "director": {
+      "name": "Paul Mazursky",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005199/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 0.98,
+    "gross_revenue_usd_millions": 4.6,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Art Carney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0138760/"
+      },
+      {
+        "name": "Ellen Burstyn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000995/"
+      },
+      {
+        "name": "René Enríquez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0258249/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor in a Leading Role"
+    ],
+    "description": "When his apartment building is demolished, an elderly New Yorker travels across the country with his beloved cat Tonto.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071598/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harry_and_tonto"
+  },
+  {
     "title": "The Taking of Pelham One Two Three",
     "year": 1974,
     "director": {
       "name": "Joseph Sargent",
-      "imdb_person_url": "https://www.imdb.com/name/nm0765103/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0765123/"
     },
     "production_studio": "Palomar Pictures International",
     "mpaa_rating": "R",
     "runtime_minutes": 104,
-    "budget_usd_millions": 3.5,
+    "budget_usd_millions": 5.0,
     "gross_revenue_usd_millions": 16.5,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_critic": "98%",
       "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
@@ -488,70 +576,469 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In New York City, a transit police officer has to deal with the hijacking of a subway car.",
+    "description": "In New York, armed men hijack a subway car and demand a ransom for the passengers. Even if it's paid, how could they get away?",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0072251/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/taking_of_pelham_one_two_three"
   },
   {
-    "title": "Lenny",
+    "title": "The Great Gatsby",
     "year": 1974,
     "director": {
-      "name": "Bob Fosse",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001232/"
+      "name": "Jack Clayton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0165729/"
     },
-    "production_studio": "United Artists",
-    "mpaa_rating": "R",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 15,
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 144,
+    "budget_usd_millions": 6.5,
+    "gross_revenue_usd_millions": 26.5,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "39%",
+      "rotten_tomatoes_popcorn": "52%"
     },
     "genres": [
-      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Robert Redford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+      },
+      {
+        "name": "Mia Farrow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001201/"
+      },
+      {
+        "name": "Bruce Dern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001136/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Costume Design",
+      "Best Music, Scoring Original Song Score and/or Adaptation"
+    ],
+    "description": "A Midwesterner becomes fascinated with his nouveau riche neighbor, who obsesses over his lost love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071577/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008882-great_gatsby"
+  },
+  {
+    "title": "Earthquake",
+    "year": 1974,
+    "director": {
+      "name": "Mark Robson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0733480/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 79.6,
+    "ratings": {
+      "imdb": 5.9,
+      "rotten_tomatoes_critic": "44%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Charlton Heston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
+      },
+      {
+        "name": "Ava Gardner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000022/"
+      },
+      {
+        "name": "George Kennedy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001421/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Sound",
+      "Special Achievement Award (Visual Effects)"
+    ],
+    "description": "Various people struggle to survive when a major earthquake of magnitude 9.9 hits the city of Los Angeles.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071455/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/earthquake"
+  },
+  {
+    "title": "The Little Prince",
+    "year": 1974,
+    "director": {
+      "name": "Stanley Donen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002045/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Richard Kiley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0452960/"
+      },
+      {
+        "name": "Steven Warner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0912642/"
+      },
+      {
+        "name": "Bob Fosse",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001235/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pilot, stranded in the desert, meets a little boy who is a prince on a planet.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071762/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012513-little_prince"
+  },
+  {
+    "title": "The Apprenticeship of Duddy Kravitz",
+    "year": 1974,
+    "director": {
+      "name": "Ted Kotcheff",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001432/"
+    },
+    "production_studio": "International Cinemedia Centre",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Dustin Hoffman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
+        "name": "Richard Dreyfuss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
       },
       {
-        "name": "Valerie Perrine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001612/"
+        "name": "Micheline Lanctôt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0484218/"
       },
       {
-        "name": "Jan Miner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0591299/"
+        "name": "Jack Warden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0912001/"
       }
     ],
-    "oscars_nominated": 6,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of controversial Lenny Bruce, a stand-up comedian who was known for his open, free-style, and critical form of comedy which contained satire, politics, religion, sex, and vulgarity.",
+    "description": "A young Jewish man from Montreal tries to make a name for himself in 1948 society.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071746/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lenny"
+    "imdb_url": "https://www.imdb.com/title/tt0071151/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/apprenticeship_of_duddy_kravitz"
+  },
+  {
+    "title": "Claudine",
+    "year": 1974,
+    "director": {
+      "name": "John Berry",
+      "imdb_person_url": "https://www.imdb.com/name/nm0077583/"
+    },
+    "production_studio": "Third World Cinema",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 92,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 6.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Diahann Carroll",
+        "imdb_person_url": "https://www.imdb.com/name/nm0140808/"
+      },
+      {
+        "name": "James Earl Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000469/"
+      },
+      {
+        "name": "Lawrence Hilton-Jacobs",
+        "imdb_person_url": "https://www.imdb.com/name/nm0385303/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A single black mother on welfare in Harlem meets a dashing garbage collector.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071334/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/claudine"
+  },
+  {
+    "title": "The Longest Yard",
+    "year": 1974,
+    "director": {
+      "name": "Robert Aldrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 2.9,
+    "gross_revenue_usd_millions": 43.0,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Burt Reynolds",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
+      },
+      {
+        "name": "Eddie Albert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000734/"
+      },
+      {
+        "name": "Ed Lauter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0491590/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sadistic warden asks a former pro quarterback, now serving time in his prison, to put together a team of inmates to take on (and get pummeled by) the guards.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071771/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012674-longest_yard"
+  },
+  {
+    "title": "Thunderbolt and Lightfoot",
+    "year": 1974,
+    "director": {
+      "name": "Michael Cimino",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001047/"
+    },
+    "production_studio": "Malpaso Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 21.7,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Clint Eastwood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+      },
+      {
+        "name": "Jeff Bridges",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
+      },
+      {
+        "name": "George Kennedy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001421/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "With the help of an irreverent young drifter, a bank robber gets his old gang back together to organize a daring new heist.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0072288/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thunderbolt_and_lightfoot"
+  },
+  {
+    "title": "California Split",
+    "year": 1974,
+    "director": {
+      "name": "Robert Altman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 5.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "George Segal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001719/"
+      },
+      {
+        "name": "Elliott Gould",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001285/"
+      },
+      {
+        "name": "Ann Prentiss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0696076/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A casual gambler befriends a professional one and begins to emulate his lifestyle, sinking deeper into the world of high-stakes betting.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071269/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/california_split"
+  },
+  {
+    "title": "The Parallax View",
+    "year": 1974,
+    "director": {
+      "name": "Alan J. Pakula",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001589/"
+    },
+    "production_studio": "Doubleday Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Warren Beatty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000886/"
+      },
+      {
+        "name": "Paula Prentiss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0696081/"
+      },
+      {
+        "name": "William Daniels",
+        "imdb_person_url": "https://www.imdb.com/name/nm0200122/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An ambitious reporter gets in way-over-his-head trouble while investigating a senator's assassination which leads to a vast conspiracy involving a multinational corporation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071970/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/parallax_view"
+  },
+  {
+    "title": "Death Wish",
+    "year": 1974,
+    "director": {
+      "name": "Michael Winner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001857/"
+    },
+    "production_studio": "Dino De Laurentiis Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 22.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Charles Bronson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000314/"
+      },
+      {
+        "name": "Hope Lange",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001449/"
+      },
+      {
+        "name": "Vincent Gardenia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0306631/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A New York City architect becomes a one-man vigilante squad after his wife is murdered by street punks in which he randomly goes out and kills would-be muggers on the mean streets after dark.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071402/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/death_wish"
   },
   {
     "title": "The Man with the Golden Gun",
     "year": 1974,
     "director": {
       "name": "Guy Hamilton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0357833/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0357912/"
     },
     "production_studio": "Eon Productions",
     "mpaa_rating": "PG",
     "runtime_minutes": 125,
-    "budget_usd_millions": 7,
+    "budget_usd_millions": 7.0,
     "gross_revenue_usd_millions": 97.6,
     "ratings": {
       "imdb": 6.7,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "51%"
+      "rotten_tomatoes_critic": "39%",
+      "rotten_tomatoes_popcorn": "43%"
     },
     "genres": [
       "Action",
@@ -569,258 +1056,33 @@
       },
       {
         "name": "Britt Ekland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001178/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001180/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "James Bond is targeted by the world's most expensive assassin while he attempts to retrieve a stolen solar power device.",
+    "description": "James Bond is led to believe that he is targeted by the world's most expensive assassin while he attempts to recover sensitive solar cell technology that is being sold to the highest bidder.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0071807/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_with_the_golden_gun"
   },
   {
-    "title": "Earthquake",
+    "title": "Bring Me the Head of Alfredo Garcia",
     "year": 1974,
     "director": {
-      "name": "Mark Robson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0733470/"
+      "name": "Sam Peckinpah",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000575/"
     },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 79.7,
-    "ratings": {
-      "imdb": 5.9,
-      "rotten_tomatoes_critic": "42%",
-      "rotten_tomatoes_popcorn": "41%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Charlton Heston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
-      },
-      {
-        "name": "Ava Gardner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001257/"
-      },
-      {
-        "name": "George Kennedy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001422/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Sound",
-      "Special Achievement Award for Visual Effects"
-    ],
-    "description": "Various interconnected people struggle to survive when a catastrophic earthquake devastates Los Angeles, California.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071455/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/earthquake"
-  },
-  {
-    "title": "Harry and Tonto",
-    "year": 1974,
-    "director": {
-      "name": "Paul Mazursky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005202/"
-    },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Estudios Churubusco Azteca S.A.",
     "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 7.2,
+    "runtime_minutes": 112,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Art Carney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001016/"
-      },
-      {
-        "name": "Ellen Burstyn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000995/"
-      },
-      {
-        "name": "Chief Dan George",
-        "imdb_person_url": "https://www.imdb.com/name/nm0313337/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role"
-    ],
-    "description": "An elderly man and his cat travel across the country after he is evicted from his New York City apartment.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071598/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/harry_and_tonto"
-  },
-  {
-    "title": "The Parallax View",
-    "year": 1974,
-    "director": {
-      "name": "Alan J. Pakula",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001587/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 12,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Warren Beatty",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000886/"
-      },
-      {
-        "name": "Paula Prentiss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001633/"
-      },
-      {
-        "name": "William Daniels",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001100/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A journalist gets embroiled in a shadowy corporation's plot to assassinate a presidential candidate.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071970/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/parallax_view"
-  },
-  {
-    "title": "Black Christmas",
-    "year": 1974,
-    "director": {
-      "name": "Bob Clark",
-      "imdb_person_url": "https://www.imdb.com/name/nm0163706/"
-    },
-    "production_studio": "Film Funding",
-    "mpaa_rating": "R",
-    "runtime_minutes": 98,
-    "budget_usd_millions": 0.62,
-    "gross_revenue_usd_millions": 4.1,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "70%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Olivia Hussey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001377/"
-      },
-      {
-        "name": "Keir Dullea",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001157/"
-      },
-      {
-        "name": "Margot Kidder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001423/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "During their Christmas break, a group of sorority girls are stalked by a stranger.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071222/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002446-black_christmas"
-  },
-  {
-    "title": "The Longest Yard",
-    "year": 1974,
-    "director": {
-      "name": "Robert Aldrich",
-      "imdb_person_url": "https://www.imdb.com/name/nm0017639/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 2.9,
-    "gross_revenue_usd_millions": 43,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Burt Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
-      },
-      {
-        "name": "Eddie Albert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000735/"
-      },
-      {
-        "name": "Ed Lauter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A sadistic warden asks a former pro quarterback, now serving time in his prison, to coach a football team of inmates to play against a team of guards.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071771/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/longest_yard"
-  },
-  {
-    "title": "Death Wish",
-    "year": 1974,
-    "director": {
-      "name": "Michael Winner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001853/"
-    },
-    "production_studio": "Dino De Laurentiis Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 22,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "71%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
       "Action",
@@ -829,25 +1091,25 @@
     ],
     "actors": [
       {
-        "name": "Charles Bronson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000314/"
+        "name": "Warren Oates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0643168/"
       },
       {
-        "name": "Hope Lange",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001445/"
+        "name": "Isela Vega",
+        "imdb_person_url": "https://www.imdb.com/name/nm0891823/"
       },
       {
-        "name": "Vincent Gardenia",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001256/"
+        "name": "Robert Webber",
+        "imdb_person_url": "https://www.imdb.com/name/nm0916428/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A New York City architect becomes a one-man vigilante squad after his wife is murdered and his daughter is sexually assaulted by street punks.",
+    "description": "An American barroom pianist and his prostitute girlfriend go on a trip through the Mexican underworld to claim the bounty on the head of a dead gigolo.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071402/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/death_wish"
+    "imdb_url": "https://www.imdb.com/title/tt0071249/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bring_me_the_head_of_alfredo_garcia"
   },
   {
     "title": "Phantom of the Paradise",
@@ -858,13 +1120,13 @@
     },
     "production_studio": "Harbor Productions",
     "mpaa_rating": "PG",
-    "runtime_minutes": 92,
+    "runtime_minutes": 91,
     "budget_usd_millions": 1.3,
-    "gross_revenue_usd_millions": 0.5,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "82%"
     },
     "genres": [
       "Comedy",
@@ -874,15 +1136,15 @@
     "actors": [
       {
         "name": "Paul Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005563/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0931437/"
       },
       {
         "name": "William Finley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0277918/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0278070/"
       },
       {
         "name": "Jessica Harper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001320/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0363888/"
       }
     ],
     "oscars_nominated": 1,
@@ -906,9 +1168,9 @@
     "budget_usd_millions": 0.06,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.3,
+      "imdb": 6.2,
       "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "68%"
+      "rotten_tomatoes_popcorn": "64%"
     },
     "genres": [
       "Comedy",
@@ -917,84 +1179,214 @@
     "actors": [
       {
         "name": "Dan O'Bannon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001573/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0639321/"
+      },
+      {
+        "name": "Dre Pahich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0656588/"
       },
       {
         "name": "Brian Narelle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0621453/"
-      },
-      {
-        "name": "Cal Kuniholm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0475148/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0621375/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In the far future, a spaceship crew has been traveling for 20 years, destroying unstable planets. They must deal with a mischievous alien, a malfunctioning ship, and a smart bomb that thinks it's God.",
+    "description": "In the far future, a small crew of men aboard the scout ship Dark Star is tasked with destroying unstable planets, but they have to deal with a series of mishaps and their own boredom.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0069945/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_star"
   },
   {
-    "title": "The Gambler",
+    "title": "Zardoz",
     "year": 1974,
     "director": {
-      "name": "Karel Reisz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0718536/"
+      "name": "John Boorman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000958/"
     },
-    "production_studio": "Paramount Pictures",
+    "production_studio": "John Boorman Productions",
     "mpaa_rating": "R",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 5,
+    "runtime_minutes": 105,
+    "budget_usd_millions": 1.57,
+    "gross_revenue_usd_millions": 1.8,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 5.8,
+      "rotten_tomatoes_critic": "49%",
+      "rotten_tomatoes_popcorn": "53%"
     },
     "genres": [
-      "Crime",
-      "Drama"
+      "Fantasy",
+      "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "James Caan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
+        "name": "Sean Connery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
       },
       {
-        "name": "Paul Sorvino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001750/"
+        "name": "Charlotte Rampling",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
       },
       {
-        "name": "Lauren Hutton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
+        "name": "Sara Kestelman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0450428/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A literature professor with a gambling addiction runs up a huge debt and must find a way to pay it off.",
+    "description": "In the distant future, a savage trained only to kill finds a way into the community of bored immortals that alone preserves humanity's achievements.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071524/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008064-gambler"
+    "imdb_url": "https://www.imdb.com/title/tt0070948/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zardoz"
   },
   {
-    "title": "The Great Gatsby",
+    "title": "Black Christmas",
     "year": 1974,
     "director": {
-      "name": "Jack Clayton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0165725/"
+      "name": "Bob Clark",
+      "imdb_person_url": "https://www.imdb.com/name/nm0153724/"
     },
-    "production_studio": "Newdon Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 144,
-    "budget_usd_millions": 6.5,
-    "gross_revenue_usd_millions": 26.5,
+    "production_studio": "Film Funding",
+    "mpaa_rating": "R",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 0.62,
+    "gross_revenue_usd_millions": 4.05,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "39%",
-      "rotten_tomatoes_popcorn": "51%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Olivia Hussey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001377/"
+      },
+      {
+        "name": "Keir Dullea",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001157/"
+      },
+      {
+        "name": "Margot Kidder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000475/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During their Christmas break, a group of sorority girls are stalked by a stranger.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071222/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002497-black_christmas"
+  },
+  {
+    "title": "F for Fake",
+    "year": 1974,
+    "director": {
+      "name": "Orson Welles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
+    },
+    "production_studio": "Les Films de l'Astrophore",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 89,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Documentary"
+    ],
+    "actors": [
+      {
+        "name": "Orson Welles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
+      },
+      {
+        "name": "Oja Kodar",
+        "imdb_person_url": "https://www.imdb.com/name/nm0462678/"
+      },
+      {
+        "name": "Elmyr de Hory",
+        "imdb_person_url": "https://www.imdb.com/name/nm0208973/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Documentary about fraud and fakery, focusing on art forger Elmyr de Hory and Clifford Irving, who wrote a fraudulent autobiography of Howard Hughes.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0072334/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/f_for_fake"
+  },
+  {
+    "title": "Celine and Julie Go Boating",
+    "year": 1974,
+    "director": {
+      "name": "Jacques Rivette",
+      "imdb_person_url": "https://www.imdb.com/name/nm0729646/"
+    },
+    "production_studio": "Les Films du Losange",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 193,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Juliet Berto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0078125/"
+      },
+      {
+        "name": "Dominique Labourier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0479707/"
+      },
+      {
+        "name": "Bulle Ogier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0644670/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two young women become friends and find themselves drawn into a mysterious house where a strange melodrama plays out daily.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071381/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/celine_and_julie_go_boating"
+  },
+  {
+    "title": "Ali: Fear Eats the Soul",
+    "year": 1974,
+    "director": {
+      "name": "Rainer Werner Fassbinder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001202/"
+    },
+    "production_studio": "Tango Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.2,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
       "Drama",
@@ -1002,306 +1394,432 @@
     ],
     "actors": [
       {
-        "name": "Robert Redford",
+        "name": "Brigitte Mira",
+        "imdb_person_url": "https://www.imdb.com/name/nm0591937/"
+      },
+      {
+        "name": "El Hedi ben Salem",
+        "imdb_person_url": "https://www.imdb.com/name/nm0070105/"
+      },
+      {
+        "name": "Barbara Valentin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0884240/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lonely widow meets a much younger Arab worker in a bar during a rainstorm. They fall in love, to their own surprise and to the outright shock of their families, colleagues, and drinking buddies.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071118/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ali_fear_eats_the_soul"
+  },
+  {
+    "title": "The Enigma of Kaspar Hauser",
+    "year": 1974,
+    "director": {
+      "name": "Werner Herzog",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001348/"
+    },
+    "production_studio": "Werner Herzog Filmproduktion",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 110,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Bruno S.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0754020/"
+      },
+      {
+        "name": "Walter Ladengast",
+        "imdb_person_url": "https://www.imdb.com/name/nm0480536/"
+      },
+      {
+        "name": "Brigitte Mira",
+        "imdb_person_url": "https://www.imdb.com/name/nm0591937/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young man named Kaspar Hauser suddenly appears in Nuremberg in 1828, barely able to talk or walk, and bearing a strange letter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071691/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enigma_of_kaspar_hauser"
+  },
+  {
+    "title": "Scenes from a Marriage",
+    "year": 1974,
+    "director": {
+      "name": "Ingmar Bergman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
+    },
+    "production_studio": "Cinematograph AB",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 169,
+    "budget_usd_millions": 0.15,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Liv Ullmann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001808/"
+      },
+      {
+        "name": "Erland Josephson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0430802/"
+      },
+      {
+        "name": "Bibi Andersson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000755/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Ten years within the life of a married couple is detailed, from the disintegration of their marriage to their subsequent reconciliation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070644/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scenes_from_a_marriage"
+  },
+  {
+    "title": "Amarcord",
+    "year": 1974,
+    "director": {
+      "name": "Federico Fellini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000019/"
+    },
+    "production_studio": "F.C. Produzioni",
+    "mpaa_rating": "R",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Magali Noël",
+        "imdb_person_url": "https://www.imdb.com/name/nm0637622/"
+      },
+      {
+        "name": "Bruno Zanin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0953046/"
+      },
+      {
+        "name": "Pupella Maggio",
+        "imdb_person_url": "https://www.imdb.com/name/nm0535951/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071129/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/amarcord"
+  },
+  {
+    "title": "Lacombe, Lucien",
+    "year": 1974,
+    "director": {
+      "name": "Louis Malle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000519/"
+    },
+    "production_studio": "Nouvelles Éditions de Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 138,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Pierre Blaise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0086161/"
+      },
+      {
+        "name": "Aurore Clément",
+        "imdb_person_url": "https://www.imdb.com/name/nm0167440/"
+      },
+      {
+        "name": "Holger Löwenadler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0530664/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A French farmboy rejects the Resistance and joins the Gestapo, but falls for a Jewish girl.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071733/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lacombe_lucien"
+  },
+  {
+    "title": "The Night Porter",
+    "year": 1974,
+    "director": {
+      "name": "Liliana Cavani",
+      "imdb_person_url": "https://www.imdb.com/name/nm0146938/"
+    },
+    "production_studio": "Ital Noleggio Cinematografico",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Dirk Bogarde",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001958/"
+      },
+      {
+        "name": "Charlotte Rampling",
         "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
       },
       {
-        "name": "Mia Farrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001201/"
-      },
-      {
-        "name": "Bruce Dern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
+        "name": "Philippe Leroy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0503816/"
       }
     ],
-    "oscars_nominated": 2,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Costume Design",
-      "Best Music, Scoring Original Song Score and/or Adaptation"
-    ],
-    "description": "A Midwesterner becomes involved with a mysterious millionaire who throws lavish parties and has a dark past.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A former concentration camp survivor discovers her former torturer and lover working as a night porter at a hotel in postwar Vienna.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071577/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/great_gatsby"
+    "imdb_url": "https://www.imdb.com/title/tt0071910/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/night_porter"
   },
   {
-    "title": "Bring Me the Head of Alfredo Garcia",
+    "title": "Swept Away",
     "year": 1974,
     "director": {
-      "name": "Sam Peckinpah",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001603/"
+      "name": "Lina Wertmüller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0921633/"
     },
-    "production_studio": "Estudios Churubusco Azteca",
+    "production_studio": "Medusa Distribuzione",
     "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 1.5,
+    "runtime_minutes": 114,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
-      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Giancarlo Giannini",
+        "imdb_person_url": "https://www.imdb.com/name/nm0316274/"
+      },
+      {
+        "name": "Mariangela Melato",
+        "imdb_person_url": "https://www.imdb.com/name/nm0577395/"
+      },
+      {
+        "name": "Riccardo Salvino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0759392/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wealthy woman and a sailor are shipwrecked on an island, where he takes the opportunity to exact his revenge on her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0073817/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/swept_away"
+  },
+  {
+    "title": "The Sugarland Express",
+    "year": 1974,
+    "director": {
+      "name": "Steven Spielberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 12.8,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": [
       "Crime",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Warren Oates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001570/"
+        "name": "Goldie Hawn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000443/"
       },
       {
-        "name": "Isela Vega",
-        "imdb_person_url": "https://www.imdb.com/name/nm0891961/"
+        "name": "Ben Johnson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0424564/"
       },
       {
-        "name": "Robert Webber",
-        "imdb_person_url": "https://www.imdb.com/name/nm0916362/"
+        "name": "Michael Sacks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0755257/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A piano player and his girlfriend go on a violent and bizarre journey to collect a bounty on a man's head.",
+    "description": "A woman attempts to reunite her family by helping her husband escape prison and kidnapping their son. But things don't go as planned when they are forced to take a police hostage on the road.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071249/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bring_me_the_head_of_alfredo_garcia"
+    "imdb_url": "https://www.imdb.com/title/tt0072226/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sugarland_express"
   },
   {
-    "title": "Foxy Brown",
-    "year": 1974,
-    "director": {
-      "name": "Jack Hill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0384260/"
-    },
-    "production_studio": "American International Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 2.5,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Pam Grier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000427/"
-      },
-      {
-        "name": "Antonio Fargas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001196/"
-      },
-      {
-        "name": "Peter Brown",
-        "imdb_person_url": "https://www.imdb.com/name/nm0114631/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A woman seeks revenge on the drug dealers who murdered her boyfriend.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071517/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/foxy_brown"
-  },
-  {
-    "title": "Benji",
-    "year": 1974,
-    "director": {
-      "name": "Joe Camp",
-      "imdb_person_url": "https://www.imdb.com/name/nm0131494/"
-    },
-    "production_studio": "Mulberry Square Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 86,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 45,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Adventure",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Patsy Garrett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0308115/"
-      },
-      {
-        "name": "Allen Fiuzat",
-        "imdb_person_url": "https://www.imdb.com/name/nm0278772/"
-      },
-      {
-        "name": "Cynthia Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0808006/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A stray dog helps rescue two kidnapped children.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071206/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/benji"
-  },
-  {
-    "title": "Herbie Rides Again",
-    "year": 1974,
-    "director": {
-      "name": "Robert Stevenson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0829026/"
-    },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 38.2,
-    "ratings": {
-      "imdb": 5.9,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "46%"
-    },
-    "genres": [
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Helen Hayes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001338/"
-      },
-      {
-        "name": "Ken Berry",
-        "imdb_person_url": "https://www.imdb.com/name/nm0077592/"
-      },
-      {
-        "name": "Stefanie Powers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The magical Volkswagen Beetle helps an elderly woman save her home from a corrupt developer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071607/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/herbie_rides_again"
-  },
-  {
-    "title": "The Three Musketeers",
-    "year": 1974,
-    "director": {
-      "name": "Richard Lester",
-      "imdb_person_url": "https://www.imdb.com/name/nm0504495/"
-    },
-    "production_studio": "Film Trust S.A.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 53,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Oliver Reed",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001657/"
-      },
-      {
-        "name": "Raquel Welch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000077/"
-      },
-      {
-        "name": "Richard Chamberlain",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001034/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young man joins the King's Musketeers and finds himself in the middle of a plot to overthrow the King.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0072281/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021430-three_musketeers"
-  },
-  {
-    "title": "California Split",
+    "title": "Thieves Like Us",
     "year": 1974,
     "director": {
       "name": "Robert Altman",
       "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "United Artists",
     "mpaa_rating": "R",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 5,
+    "runtime_minutes": 123,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
-      "Comedy",
-      "Drama"
+      "Crime",
+      "Drama",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "George Segal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001718/"
+        "name": "Keith Carradine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0139989/"
       },
       {
-        "name": "Elliott Gould",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001285/"
+        "name": "Shelley Duvall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001167/"
       },
       {
-        "name": "Ann Prentiss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0695999/"
+        "name": "John Schuck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0775895/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two gambling addicts go on a winning streak, but their luck may be about to run out.",
+    "description": "Two convicts break out of prison and go on a bank robbing spree in the 1930s South, picking up a girl along the way.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071269/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/california_split"
+    "imdb_url": "https://www.imdb.com/title/tt0072276/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thieves_like_us"
+  },
+  {
+    "title": "Daisy Miller",
+    "year": 1974,
+    "director": {
+      "name": "Peter Bogdanovich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000953/"
+    },
+    "production_studio": "The Directors Company",
+    "mpaa_rating": "G",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "29%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Cybill Shepherd",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001732/"
+      },
+      {
+        "name": "Barry Brown",
+        "imdb_person_url": "https://www.imdb.com/name/nm0113083/"
+      },
+      {
+        "name": "Cloris Leachman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001458/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1878, a free-spirited American woman in Europe is courted by a young American expatriate, but her refusal to adhere to social codes leads to tragedy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071385/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/daisy_miller"
   },
   {
     "title": "The Front Page",
     "year": 1974,
     "director": {
       "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
     },
     "production_studio": "Universal Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 105,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 15,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 15.0,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "77%",
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "71%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
@@ -1326,115 +1844,70 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Chicago newspaper editor tries to keep his star reporter from quitting to get married.",
+    "description": "A newspaper editor uses every trick in the book to keep his ace reporter from quitting.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0071524/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_front_page"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1007954-front_page"
   },
   {
-    "title": "That's Entertainment!",
+    "title": "The Gambler",
     "year": 1974,
     "director": {
-      "name": "Jack Haley Jr.",
-      "imdb_person_url": "https://www.imdb.com/name/nm0355098/"
+      "name": "Karel Reisz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0718469/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "G",
-    "runtime_minutes": 135,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 26,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Documentary",
-      "Comedy",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Fred Astaire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000001/"
-      },
-      {
-        "name": "Bing Crosby",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001078/"
-      },
-      {
-        "name": "Gene Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A compilation of musical numbers from classic MGM musicals.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0072272/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thats_entertainment"
-  },
-  {
-    "title": "Zardoz",
-    "year": 1974,
-    "director": {
-      "name": "John Boorman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000958/"
-    },
-    "production_studio": "John Boorman Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 1.57,
-    "gross_revenue_usd_millions": 1.8,
+    "runtime_minutes": 111,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 5.8,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "46%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
-      "Fantasy",
-      "Mystery",
-      "Sci-Fi"
+      "Crime",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Sean Connery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
+        "name": "James Caan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
       },
       {
-        "name": "Charlotte Rampling",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001648/"
+        "name": "Paul Sorvino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002367/"
       },
       {
-        "name": "Sara Kestelman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0450539/"
+        "name": "Lauren Hutton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002148/"
       }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In a post-apocalyptic future, a savage warrior is chosen by a flying stone head to be the new leader of a race of immortal beings.",
+    "description": "Axel Freed is a literature professor. He has a gambling addiction that spirals out of control.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070948/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zardoz"
+    "imdb_url": "https://www.imdb.com/title/tt0071534/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008080-gambler"
   },
   {
     "title": "Airport 1975",
     "year": 1974,
     "director": {
       "name": "Jack Smight",
-      "imdb_person_url": "https://www.imdb.com/name/nm0806939/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0806917/"
     },
     "production_studio": "Universal Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 107,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 47.3,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 47.0,
     "ratings": {
       "imdb": 5.7,
       "rotten_tomatoes_critic": "29%",
-      "rotten_tomatoes_popcorn": "35%"
+      "rotten_tomatoes_popcorn": "36%"
     },
     "genres": [
       "Action",
@@ -1448,81 +1921,344 @@
       },
       {
         "name": "Karen Black",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000947/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000949/"
       },
       {
         "name": "George Kennedy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001422/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001421/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A 747 is crippled after a mid-air collision, and a stewardess must fly the plane.",
+    "description": "A 747 in flight collides with a small plane, leaving the pilots incapacitated and the flight attendant having to take over the controls.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071110/",
+    "imdb_url": "https://www.imdb.com/title/tt0071112/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/airport_1975"
   },
   {
-    "title": "Celine and Julie Go Boating",
+    "title": "Benji",
     "year": 1974,
     "director": {
-      "name": "Jacques Rivette",
-      "imdb_person_url": "https://www.imdb.com/name/nm0729624/"
+      "name": "Joe Camp",
+      "imdb_person_url": "https://www.imdb.com/name/nm0131996/"
     },
-    "production_studio": "Les Films du Losange",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 193,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.04,
+    "production_studio": "Mulberry Square Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 45.0,
     "ratings": {
-      "imdb": 7.6,
+      "imdb": 6.1,
       "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "63%"
+    },
+    "genres": [
+      "Adventure",
+      "Family",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Higgins",
+        "imdb_person_url": "https://www.imdb.com/name/nm1219183/"
+      },
+      {
+        "name": "Patsy Garrett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0308182/"
+      },
+      {
+        "name": "Allen Fiuzat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0280730/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A stray dog saves two kidnapped children.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071206/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/benji"
+  },
+  {
+    "title": "Herbie Rides Again",
+    "year": 1974,
+    "director": {
+      "name": "Robert Stevenson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0829005/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 88,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 38.2,
+    "ratings": {
+      "imdb": 5.7,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "41%"
     },
     "genres": [
       "Comedy",
-      "Drama",
+      "Family",
       "Fantasy"
     ],
     "actors": [
       {
-        "name": "Juliet Berto",
-        "imdb_person_url": "https://www.imdb.com/name/nm0078096/"
+        "name": "Helen Hayes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001333/"
       },
       {
-        "name": "Dominique Labourier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0479532/"
+        "name": "Ken Berry",
+        "imdb_person_url": "https://www.imdb.com/name/nm0077607/"
       },
       {
-        "name": "Bulle Ogier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0644485/"
+        "name": "Stefanie Powers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001634/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two women become friends and find themselves drawn into a mysterious and surreal melodrama.",
+    "description": "Herbie the Volkswagen Beetle helps an old lady protect her home from a corrupt developer.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071304/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/celine_and_julie_go_boating"
+    "imdb_url": "https://www.imdb.com/title/tt0071607/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/herbie_rides_again"
   },
   {
-    "title": "The Street Fighter",
+    "title": "Phase IV",
     "year": 1974,
     "director": {
-      "name": "Shigehiro Ozawa",
-      "imdb_person_url": "https://www.imdb.com/name/nm0654425/"
+      "name": "Saul Bass",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000866/"
     },
-    "production_studio": "Toei Company",
-    "mpaa_rating": "X",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 0.1,
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 84,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Nigel Davenport",
+        "imdb_person_url": "https://www.imdb.com/name/nm0202613/"
+      },
+      {
+        "name": "Michael Murphy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0614539/"
+      },
+      {
+        "name": "Lynne Frederick",
+        "imdb_person_url": "https://www.imdb.com/name/nm0292789/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Desert ants suddenly form a collective intelligence and begin to wage war on the inhabitants.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071996/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/phase_iv"
+  },
+  {
+    "title": "Female Trouble",
+    "year": 1974,
+    "director": {
+      "name": "John Waters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000691/"
+    },
+    "production_studio": "Dreamland Productions",
+    "mpaa_rating": "NC-17",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 0.025,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Divine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001145/"
+      },
+      {
+        "name": "David Lochary",
+        "imdb_person_url": "https://www.imdb.com/name/nm0516518/"
+      },
+      {
+        "name": "Mary Vivian Pearce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0668971/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A spoiled schoolgirl runs away from home, gets pregnant while hitch-hiking, and descends into a life of crime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071493/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/female_trouble"
+  },
+  {
+    "title": "Captain Kronos: Vampire Hunter",
+    "year": 1974,
+    "director": {
+      "name": "Brian Clemens",
+      "imdb_person_url": "https://www.imdb.com/name/nm0166113/"
+    },
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Horst Janson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0418086/"
+      },
+      {
+        "name": "John Carson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0141258/"
+      },
+      {
+        "name": "Shane Briant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0108398/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A vampire hunter and his assistant fight a vampire in a village.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071276/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/captain_kronos_vampire_hunter"
+  },
+  {
+    "title": "It's Alive",
+    "year": 1974,
+    "director": {
+      "name": "Larry Cohen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0169540/"
+    },
+    "production_studio": "Larco Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 7.1,
+    "ratings": {
+      "imdb": 5.9,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "37%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "John P. Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0752636/"
+      },
+      {
+        "name": "Sharon Farrell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0268340/"
+      },
+      {
+        "name": "Andrew Duggan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0240838/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A couple's newborn child turns out to be a mutant monster that kills when it is frightened.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071675/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/its_alive"
+  },
+  {
+    "title": "Gone in 60 Seconds",
+    "year": 1974,
+    "director": {
+      "name": "H.B. Halicki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0355157/"
+    },
+    "production_studio": "H.B. Halicki Junkyard and Mercantile Company",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 0.15,
+    "gross_revenue_usd_millions": 40.0,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "H.B. Halicki",
+        "imdb_person_url": "https://www.imdb.com/name/nm0355157/"
+      },
+      {
+        "name": "Marion Busia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0124297/"
+      },
+      {
+        "name": "Jerry Daugirda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0202302/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Insurance investigator Maindrian Pace and his team undertake an unstoppable theft of 48 cars for a drug lord.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071571/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008588-gone_in_60_seconds"
+  },
+  {
+    "title": "Truck Turner",
+    "year": 1974,
+    "director": {
+      "name": "Jonathan Kaplan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0438302/"
+    },
+    "production_studio": "American International Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "63%"
     },
     "genres": [
       "Action",
@@ -1531,66 +2267,112 @@
     ],
     "actors": [
       {
-        "name": "Shin'ichi Chiba",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
+        "name": "Isaac Hayes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005002/"
       },
       {
-        "name": "Gôichi Yamada",
-        "imdb_person_url": "https://www.imdb.com/name/nm0945440/"
+        "name": "Yaphet Kotto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001433/"
       },
       {
-        "name": "Yutaka Nakajima",
-        "imdb_person_url": "https://www.imdb.com/name/nm0620022/"
+        "name": "Alan Weeks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0917282/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A martial artist for hire gets mixed up with the Yakuza and the Mafia.",
+    "description": "A former football player turned bounty hunter is hired to find a pimp who has skipped bail.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0072230/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_street_fighter"
+    "imdb_url": "https://www.imdb.com/title/tt0072325/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/truck_turner"
   },
   {
-    "title": "Emmanuelle",
+    "title": "Foxy Brown",
     "year": 1974,
     "director": {
-      "name": "Just Jaeckin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0415424/"
+      "name": "Jack Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0384351/"
     },
-    "production_studio": "Trinacra Films",
-    "mpaa_rating": "X",
-    "runtime_minutes": 90,
+    "production_studio": "American International Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 94,
     "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 100,
+    "gross_revenue_usd_millions": 2.46,
     "ratings": {
-      "imdb": 5.1,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "36%"
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "61%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Pam Grier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000427/"
+      },
+      {
+        "name": "Antonio Fargas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0267245/"
+      },
+      {
+        "name": "Peter Brown",
+        "imdb_person_url": "https://www.imdb.com/name/nm0114449/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A voluptuous black woman takes a job as a high-class prostitute in order to get revenge on the mobsters who murdered her boyfriend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071519/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/foxy_brown"
+  },
+  {
+    "title": "The Street Fighter",
+    "year": 1974,
+    "director": {
+      "name": "Shigehiro Ozawa",
+      "imdb_person_url": "https://www.imdb.com/name/nm0654817/"
+    },
+    "production_studio": "Toei Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Sylvia Kristel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001431/"
+        "name": "Sonny Chiba",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002002/"
       },
       {
-        "name": "Alain Cuny",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001086/"
+        "name": "Goichi Yamada",
+        "imdb_person_url": "https://www.imdb.com/name/nm0945281/"
       },
       {
-        "name": "Marika Green",
-        "imdb_person_url": "https://www.imdb.com/name/nm0338006/"
+        "name": "Yutaka Nakajima",
+        "imdb_person_url": "https://www.imdb.com/name/nm0620247/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of a young woman's sexual awakening in Bangkok.",
+    "description": "Terry Tsurugi is a mercenary martial artist who is hired by the Yakuza to kidnap a wealthy heiress, but when they refuse to pay him, he protects her instead.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071464/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/emmanuelle"
+    "imdb_url": "https://www.imdb.com/title/tt0070743/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/street_fighter"
   }
 ]
