@@ -8,6 +8,8 @@ import lombok.Data;
  */
 @Data
 public class ActorAwards {
+    @JsonProperty("oscars_honorary")
+    private int oscarsHonorary;
     @JsonProperty("oscars_nominated")
     private int oscarsNominated;
     @JsonProperty("oscars_won")
