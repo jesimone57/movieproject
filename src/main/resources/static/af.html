@@ -41,8 +41,8 @@
     .grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 12px; align-items: end; }
     label { display: block; font-size: 12px; color: var(--muted); margin-bottom: 6px; }
 
-    input { width: 100%; padding: 10px 12px; font-size: 14px; color: var(--text); background: #fff; border: 1px solid var(--border); border-radius: 8px; outline: none; transition: box-shadow .15s ease, border-color .15s ease; }
-    input:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(74,144,226,0.15); }
+    input, select { width: 100%; padding: 10px 12px; font-size: 14px; color: var(--text); background: #fff; border: 1px solid var(--border); border-radius: 8px; outline: none; transition: box-shadow .15s ease, border-color .15s ease; }
+    input:focus, select:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(74,144,226,0.15); }
 
     .btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 14px; border: 1px solid var(--primary); background: var(--primary); color: #fff; border-radius: 10px; font-weight: 600; cursor: pointer; transition: background .15s ease, transform .05s ease; text-decoration: none; white-space: nowrap; }
     .btn.secondary { background: #fff; color: var(--primary); }
@@ -50,7 +50,10 @@
     .btn.secondary:hover { background: #f5f9ff; }
     .btn:active { transform: translateY(1px); }
 
-    .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+    .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+    .actions-row { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 8px; }
+    .actions-right { display: flex; align-items: center; gap: 8px; }
+    .actions-right label { margin: 0; }
 
     .results { margin-top: 18px; display: grid; grid-template-columns: 1fr; gap: 12px; }
     .table-wrap { overflow: auto; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
@@ -122,10 +125,20 @@
           <input id="oscarsWon" type="number" inputmode="numeric" placeholder="e.g., 1" />
         </div>
       </div>
-      <div class="actions">
-        <button id="searchBtn" class="btn" title="Search">🔎 Search</button>
-        <button id="clearBtn" class="btn secondary" title="Clear filters">✖ Clear</button>
-        <span id="resultCount" class="kpi" style="display:none"></span>
+      <div class="actions-row">
+        <div class="actions">
+          <button id="searchBtn" class="btn" title="Search">🔎 Search</button>
+          <button id="clearBtn" class="btn secondary" title="Clear filters">✖ Clear</button>
+          <span id="resultCount" class="kpi" style="display:none"></span>
+        </div>
+        <div class="actions-right">
+          <label for="sort">Sort Filmographies By</label>
+          <select id="sort">
+            <option value="title" selected>Title</option>
+            <option value="year">Year</option>
+            <option value="rating">Rating</option>
+          </select>
+        </div>
       </div>
 
       <div class="results">
@@ -201,10 +214,13 @@
       const year = $('year').value.trim();
       const noms = $('oscarsNominated').value.trim();
       const won = $('oscarsWon').value.trim();
+      const sort = ($('sort')?.value || 'title').trim();
       if (name) params.set('name', name);
       if (year) params.set('year', year);
       if (noms) params.set('oscarsNominated', noms);
       if (won) params.set('oscarsWon', won);
+      // Always include sort, default to 'title'
+      params.set('sort', sort || 'title');
       return params.toString() ? api + '?' + params.toString() : api;
     }
 
@@ -267,6 +283,42 @@
       const films = Array.isArray(entry.filmography) ? entry.filmography : [];
       if (!films.length) return '';
       return films.map(f => `<div class="film-line">${filmToHtml(f)}</div>`).join('');
+    }
+
+    // Sort each actor's filmography list in-place by the provided key: 'title' | 'year' | 'rating'
+    function sortFilmographiesInPlace(sortKeyRaw) {
+      const sortKey = String(sortKeyRaw || 'title').toLowerCase();
+      const collator = new Intl.Collator(undefined, { sensitivity: 'base' });
+
+      // Precompute comparators for film entries
+      const cmp = {
+        title: (a, b) => {
+          const ta = (a?.title ?? '').toString();
+          const tb = (b?.title ?? '').toString();
+          return collator.compare(ta, tb);
+        },
+        year: (a, b) => {
+          const ya = (a?.year ?? null);
+          const yb = (b?.year ?? null);
+          if (ya == null && yb == null) return 0;
+          if (ya == null) return -1; // nulls first (matches backend)
+          if (yb == null) return 1;
+          return ya - yb; // ascending
+        },
+        rating: (a, b) => {
+          const ra = (a?.ratings && typeof a.ratings.imdb === 'number') ? a.ratings.imdb : -Infinity;
+          const rb = (b?.ratings && typeof b.ratings.imdb === 'number') ? b.ratings.imdb : -Infinity;
+          if (ra === rb) return 0;
+          return rb - ra; // descending
+        }
+      };
+
+      const comparator = cmp[sortKey] || cmp.title;
+      if (!Array.isArray(data)) return;
+      for (const entry of data) {
+        if (!entry || !Array.isArray(entry.filmography)) continue;
+        entry.filmography.sort(comparator);
+      }
     }
 
     function lifeSpan(p) {
@@ -378,6 +430,8 @@
         const res = await fetch(url);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         data = await res.json();
+        // Ensure filmography rows reflect the current dropdown immediately
+        sortFilmographiesInPlace($('sort')?.value || 'title');
         // If a sort is already selected, re-apply; otherwise default sort by name asc
         if (sortState.col && sortState.dir) {
           sortData(sortState.col, sortState.dir);
@@ -400,12 +454,16 @@
       $('year').value = '';
       $('oscarsNominated').value = '';
       $('oscarsWon').value = '';
+      if ($('sort')) $('sort').value = 'title';
       data = [];
       sortState = { col: null, dir: null };
       $('tbody').innerHTML = '';
       $('status').textContent = '';
       updateActiveSortButtons();
       setResultCount(null);
+      // After clearing, immediately perform the default search to repopulate results
+      // Default search = no filters, sort title, and default actor sort by name asc
+      search();
     }
 
     // Events
@@ -415,8 +473,14 @@
     $('searchBtn').addEventListener('click', search);
     $('clearBtn').addEventListener('click', clearFilters);
 
+    // Change of filmography sort should immediately re-render without a new fetch
+    $('sort').addEventListener('change', () => {
+      sortFilmographiesInPlace($('sort').value);
+      render();
+    });
+
     // Allow Enter to trigger search
-    ['name','year','oscarsNominated','oscarsWon'].forEach(id => {
+    ['name','year','oscarsNominated','oscarsWon','sort'].forEach(id => {
       $(id).addEventListener('keydown', (e) => { if (e.key === 'Enter') search(); });
     });
 

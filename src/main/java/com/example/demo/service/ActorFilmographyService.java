@@ -1,6 +1,7 @@
 package com.example.demo.service;
 
 import com.example.demo.model.ActorFilmography;
+import com.example.demo.model.ActorMovie;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
@@ -154,7 +155,7 @@ public class ActorFilmographyService {
     }
 
     public List<ActorFilmography> filterActorFilmographies(String actorName, Integer year,
-                                    Integer oscarsNominated, Integer oscarsWon) {
+                                                           Integer oscarsNominated, Integer oscarsWon, String sort) {
 
         List<ActorFilmography> filteredActorFilmographies = actorFilmographies.stream()
                 .filter(af -> actorName == null || af.isActorName(actorName))
@@ -162,20 +163,57 @@ public class ActorFilmographyService {
                 .filter(af -> oscarsNominated == null || af.isOscarsNominated(oscarsNominated))
                 .filter(af -> oscarsWon == null      ||  af.isOscarsWon(oscarsWon))
                 .toList();
-        return filteredActorFilmographies;
+        return sortActorFilms(filteredActorFilmographies, sort);
     }
 
-    /*
-    public List<ActorFilmography> numberMovies(List<ActorFilmography> actorFilmographies) {
-        if (actorFilmographies == null) {
-            return new ArrayList<>();
+    public List<ActorFilmography> filterActorFilmographies(String actorName, Integer year,
+                                                           Integer oscarsNominated, Integer oscarsWon) {
+        return filterActorFilmographies(actorName, year, oscarsNominated, oscarsWon, null);
+    }
+
+    public List<ActorFilmography> sortActorFilms(List<ActorFilmography> filmsToSort, String sort) {
+        if (filmsToSort == null || filmsToSort.isEmpty()) {
+            return filmsToSort;
         }
 
-        final java.util.concurrent.atomic.AtomicInteger idx = new java.util.concurrent.atomic.AtomicInteger(1);
-        actorFilmographies.stream()
-                .filter(Objects::nonNull)
-                .forEach(m -> m.setNum(idx.getAndIncrement()));
-        return actorFilmographies;
+        if (sort == null || sort.isEmpty()) {
+            sort = "title";
+        }
+        String sortKey = sort.trim().toLowerCase();
+
+        for (ActorFilmography af : filmsToSort) {
+            if (af == null || af.getFilmography() == null) {
+                continue;
+            }
+
+            List<ActorMovie> movies = af.getFilmography();
+
+            switch (sortKey) {
+                case "title":
+                    movies.sort(java.util.Comparator.comparing(
+                            (ActorMovie m) -> m.getTitle() == null ? "" : m.getTitle(),
+                            String.CASE_INSENSITIVE_ORDER
+                    ));
+                    break;
+                case "year":
+                    movies.sort(java.util.Comparator.comparingInt(
+                            (ActorMovie m) -> m.getYear() == null ? Integer.MIN_VALUE : m.getYear()
+                    ));
+                    break;
+                case "rating":
+                    movies.sort(java.util.Comparator.comparingDouble(
+                            (ActorMovie m) -> m.getRatings() != null ? m.getRatings().getImdb() : Double.NEGATIVE_INFINITY
+                    ).reversed());
+                    break;
+                default:
+                    // no sorting if the sort key is not recognized
+                    break;
+            }
+
+            // Set back the potentially sorted list (not strictly necessary since we sorted in place)
+            af.setFilmography(movies);
+        }
+
+        return filmsToSort;
     }
-     */
 }
