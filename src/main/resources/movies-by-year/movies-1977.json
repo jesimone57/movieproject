@@ -4,12 +4,12 @@
     "year": 1977,
     "director": {
       "name": "George Lucas",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000184/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
     },
     "production_studio": "Lucasfilm",
     "mpaa_rating": "PG",
     "runtime_minutes": 121,
-    "budget_usd_millions": 11,
+    "budget_usd_millions": 11.0,
     "gross_revenue_usd_millions": 775.4,
     "ratings": {
       "imdb": 8.6,
@@ -35,21 +35,21 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000402/"
       }
     ],
-    "oscars_nominated": 11,
+    "oscars_nominated": 10,
     "oscars_won": 7,
     "oscars_won_details": [
       "Best Art Direction-Set Decoration",
       "Best Costume Design",
       "Best Sound",
       "Best Film Editing",
-      "Best Effects, Special Visual Effects",
+      "Best Effects, Visual Effects",
       "Best Music, Original Score",
-      "Special Achievement Award for Sound Effects"
+      "Special Achievement Award (Sound Effects)"
     ],
-    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+    "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
     "afi_ranking": 13,
     "imdb_url": "https://www.imdb.com/title/tt0076759/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/star_wars_episode_iv_a_new_hope"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/star_wars"
   },
   {
     "title": "Annie Hall",
@@ -58,10 +58,10 @@
       "name": "Woody Allen",
       "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
     },
-    "production_studio": "Jack Rollins & Charles H. Joffe Productions",
+    "production_studio": "Rollins-Joffe Productions",
     "mpaa_rating": "PG",
     "runtime_minutes": 93,
-    "budget_usd_millions": 4,
+    "budget_usd_millions": 4.0,
     "gross_revenue_usd_millions": 38.3,
     "ratings": {
       "imdb": 8.0,
@@ -83,7 +83,7 @@
       },
       {
         "name": "Tony Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0731518/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0731647/"
       }
     ],
     "oscars_nominated": 5,
@@ -94,7 +94,7 @@
       "Best Actress in a Leading Role",
       "Best Writing, Screenplay Written Directly for the Screen"
     ],
-    "description": "Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.",
+    "description": "Neurotic New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
     "afi_ranking": 35,
     "imdb_url": "https://www.imdb.com/title/tt0075686/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/annie_hall"
@@ -106,11 +106,11 @@
       "name": "Steven Spielberg",
       "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "Columbia Pictures, EMI Films",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "PG",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 303.8,
+    "runtime_minutes": 138,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 306.9,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "94%",
@@ -134,13 +134,13 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000414/"
       }
     ],
-    "oscars_nominated": 9,
+    "oscars_nominated": 8,
     "oscars_won": 2,
     "oscars_won_details": [
       "Best Cinematography",
-      "Special Achievement Award for Sound Effects Editing"
+      "Special Achievement Award (Sound Effects Editing)"
     ],
-    "description": "Roy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO.",
+    "description": "Roy Neary, an electric lineman, watches how his quiet and ordinary daily life turns upside down after a close encounter with a UFO.",
     "afi_ranking": 64,
     "imdb_url": "https://www.imdb.com/title/tt0075860/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/close_encounters_of_the_third_kind"
@@ -152,15 +152,15 @@
       "name": "John Badham",
       "imdb_person_url": "https://www.imdb.com/name/nm0000824/"
     },
-    "production_studio": "Paramount Pictures, Robert Stigwood Organisation",
-    "mpaa_rating": "PG",
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
     "runtime_minutes": 118,
     "budget_usd_millions": 3.5,
     "gross_revenue_usd_millions": 237.1,
     "ratings": {
       "imdb": 6.8,
       "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "73%"
+      "rotten_tomatoes_popcorn": "68%"
     },
     "genres": [
       "Drama",
@@ -173,200 +173,20 @@
       },
       {
         "name": "Karen Lynn Gorney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0331245/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0331165/"
       },
       {
         "name": "Barry Miller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0588235/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0587930/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Brooklyn teenager feels his only chance to get somewhere is as the king of the disco floor.",
+    "description": "Anxious about his future after high school, a 19-year-old Italian-American from Brooklyn tries to escape the harsh reality of his bleak family life by dominating the dance floor at the local disco.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0076666/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/saturday_night_fever"
-  },
-  {
-    "title": "The Goodbye Girl",
-    "year": 1977,
-    "director": {
-      "name": "Herbert Ross",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001684/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer, Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 102,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Richard Dreyfuss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
-      },
-      {
-        "name": "Marsha Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
-      },
-      {
-        "name": "Quinn Cummings",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001085/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role"
-    ],
-    "description": "After being dumped by her live-in boyfriend, a former dancer and her daughter are forced to share their apartment with an arrogant, aspiring actor.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076095/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/goodbye_girl"
-  },
-  {
-    "title": "Smokey and the Bandit",
-    "year": 1977,
-    "director": {
-      "name": "Hal Needham",
-      "imdb_person_url": "https://www.imdb.com/name/nm0624128/"
-    },
-    "production_studio": "Universal Pictures, Rastar Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 4.3,
-    "gross_revenue_usd_millions": 126.7,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Burt Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
-      },
-      {
-        "name": "Sally Field",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000398/"
-      },
-      {
-        "name": "Jerry Reed",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001657/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The Bandit is hired on to run a tractor-trailer full of beer over state lines, in hot pursuit by a pesky sheriff.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076729/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/smokey_and_the_bandit"
-  },
-  {
-    "title": "The Spy Who Loved Me",
-    "year": 1977,
-    "director": {
-      "name": "Lewis Gilbert",
-      "imdb_person_url": "https://www.imdb.com/name/nm0318107/"
-    },
-    "production_studio": "Eon Productions, United Artists",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 14,
-    "gross_revenue_usd_millions": 185.4,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Roger Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000549/"
-      },
-      {
-        "name": "Barbara Bach",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000819/"
-      },
-      {
-        "name": "Curd Jürgens",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001407/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "James Bond investigates the hijacking of British and Russian submarines carrying nuclear warheads, with the help of a K.G.B. agent.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076752/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spy_who_loved_me"
-  },
-  {
-    "title": "Julia",
-    "year": 1977,
-    "director": {
-      "name": "Fred Zinnemann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 7.8,
-    "gross_revenue_usd_millions": 20.7,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jane Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
-      },
-      {
-        "name": "Vanessa Redgrave",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
-      },
-      {
-        "name": "Jason Robards",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
-      }
-    ],
-    "oscars_nominated": 11,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role",
-      "Best Actress in a Supporting Role",
-      "Best Writing, Screenplay Based on Material from Another Medium"
-    ],
-    "description": "The story of the lifelong friendship between two women, one of whom becomes a celebrated writer and the other an anti-Nazi activist.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076245/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/julia"
   },
   {
     "title": "Eraserhead",
@@ -375,15 +195,15 @@
       "name": "David Lynch",
       "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
     },
-    "production_studio": "American Film Institute (AFI)",
+    "production_studio": "AFI Conservatory",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 89,
-    "budget_usd_millions": 0.01,
-    "gross_revenue_usd_millions": 7,
+    "budget_usd_millions": 0.02,
+    "gross_revenue_usd_millions": 7.0,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Fantasy",
@@ -392,15 +212,15 @@
     "actors": [
       {
         "name": "Jack Nance",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001562/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0620756/"
       },
       {
         "name": "Charlotte Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0829283/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0829252/"
       },
       {
         "name": "Allen Joseph",
-        "imdb_person_url": "https://www.imdb.com/name/nm0430635/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0430292/"
       }
     ],
     "oscars_nominated": 0,
@@ -420,13 +240,13 @@
     },
     "production_studio": "Seda Spettacoli",
     "mpaa_rating": "R",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 1.9,
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Horror"
@@ -434,15 +254,15 @@
     "actors": [
       {
         "name": "Jessica Harper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001320/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0363888/"
       },
       {
         "name": "Stefania Casini",
-        "imdb_person_url": "https://www.imdb.com/name/nm0143521/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0143719/"
       },
       {
         "name": "Flavio Bucci",
-        "imdb_person_url": "https://www.imdb.com/name/nm0117960/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0118228/"
       }
     ],
     "oscars_nominated": 0,
@@ -451,50 +271,99 @@
     "description": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0076786/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1020611-suspiria"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1020662-suspiria"
   },
   {
-    "title": "The Turning Point",
+    "title": "Julia",
     "year": 1977,
     "director": {
-      "name": "Herbert Ross",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001684/"
+      "name": "Fred Zinnemann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001876/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "PG",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 25.6,
+    "runtime_minutes": 117,
+    "budget_usd_millions": 7.8,
+    "gross_revenue_usd_millions": 20.7,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "61%",
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "77%",
       "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jane Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
+      },
+      {
+        "name": "Vanessa Redgrave",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000603/"
+      },
+      {
+        "name": "Jason Robards",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
+      }
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actor in a Supporting Role",
+      "Best Actress in a Supporting Role",
+      "Best Writing, Screenplay Based on Material from Another Medium"
+    ],
+    "description": "The story of the playwright Lillian Hellman's relationship with her friend, Julia, who asks her to smuggle funds into Nazi Germany.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076245/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011317-julia"
+  },
+  {
+    "title": "The Goodbye Girl",
+    "year": 1977,
+    "director": {
+      "name": "Herbert Ross",
+      "imdb_person_url": "https://www.imdb.com/name/nm0743467/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 111,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 102.0,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Comedy",
       "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Shirley MacLaine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000511/"
+        "name": "Richard Dreyfuss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
       },
       {
-        "name": "Anne Bancroft",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000843/"
+        "name": "Marsha Mason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0556847/"
       },
       {
-        "name": "Mikhail Baryshnikov",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000876/"
+        "name": "Quinn Cummings",
+        "imdb_person_url": "https://www.imdb.com/name/nm0191944/"
       }
     ],
-    "oscars_nominated": 11,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of two women whose lives are dedicated to ballet. One gave up her career to have a family, while the other became a star.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076843/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_turning_point"
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor in a Leading Role"
+    ],
+    "description": "After being dumped by her live-in boyfriend, an unemployed dancer and her 10-year-old daughter are reluctantly forced to live with a struggling off-Broadway actor.",
+    "afi_ranking": 81,
+    "imdb_url": "https://www.imdb.com/title/tt0076095/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/goodbye_girl"
   },
   {
     "title": "A Bridge Too Far",
@@ -506,12 +375,12 @@
     "production_studio": "Joseph E. Levine Productions",
     "mpaa_rating": "PG",
     "runtime_minutes": 175,
-    "budget_usd_millions": 26,
-    "gross_revenue_usd_millions": 50.8,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 50.7,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Drama",
@@ -520,12 +389,12 @@
     ],
     "actors": [
       {
-        "name": "Dirk Bogarde",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000955/"
+        "name": "Sean Connery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
       },
       {
-        "name": "James Caan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
+        "name": "Ryan O'Neal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641939/"
       },
       {
         "name": "Michael Caine",
@@ -535,10 +404,10 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of Operation Market Garden, the failed Allied attempt to break through German lines in the Netherlands during World War II.",
+    "description": "Operation Market Garden, September 1944: The Allies attempt to capture several strategically important bridges in the Netherlands in the hope of breaking the German lines.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0075784/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_bridge_too_far"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bridge_too_far"
   },
   {
     "title": "Slap Shot",
@@ -550,12 +419,12 @@
     "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 123,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 28,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 28.0,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Comedy",
@@ -568,62 +437,239 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
       },
       {
-        "name": "Strother Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0553011/"
+        "name": "Michael Ontkean",
+        "imdb_person_url": "https://www.imdb.com/name/nm0648937/"
       },
       {
-        "name": "Michael Ontkean",
-        "imdb_person_url": "https://www.imdb.com/name/nm0649061/"
+        "name": "Strother Martin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005192/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A failing ice hockey team finds success by resorting to playing violently.",
+    "description": "A failing ice hockey team finds success using constant fighting and violence during games.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0076723/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/slap_shot"
   },
   {
-    "title": "The Rescuers",
+    "title": "Smokey and the Bandit",
     "year": 1977,
     "director": {
-      "name": "John Lounsbery, Wolfgang Reitherman, Art Stevens",
-      "imdb_person_url": "https://www.imdb.com/name/nm0521876/"
+      "name": "Hal Needham",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624102/"
     },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 77,
-    "budget_usd_millions": 7.5,
-    "gross_revenue_usd_millions": 169,
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 96,
+    "budget_usd_millions": 4.3,
+    "gross_revenue_usd_millions": 126.7,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
-      "Animation",
+      "Action",
       "Adventure",
-      "Family"
+      "Comedy"
     ],
     "actors": [
       {
-        "name": "Bob Newhart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001563/"
+        "name": "Burt Reynolds",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
       },
       {
-        "name": "Eva Gabor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001248/"
+        "name": "Sally Field",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000398/"
       },
       {
-        "name": "Geraldine Page",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001587/"
+        "name": "Jackie Gleason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001276/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two mice of the Rescue Aid Society search for a little girl kidnapped by treasure hunters.",
+    "description": "The Bandit is hired on to run a tractor-trailer full of beer over county lines in hot pursuit by a cheeky sheriff.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076729/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/smokey_and_the_bandit"
+  },
+  {
+    "title": "The Spy Who Loved Me",
+    "year": 1977,
+    "director": {
+      "name": "Lewis Gilbert",
+      "imdb_person_url": "https://www.imdb.com/name/nm0318151/"
+    },
+    "production_studio": "Eon Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 185.4,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Roger Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000549/"
+      },
+      {
+        "name": "Barbara Bach",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000829/"
+      },
+      {
+        "name": "Curd Jürgens",
+        "imdb_person_url": "https://www.imdb.com/name/nm0432850/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "James Bond investigates the hijacking of British and Russian submarines carrying nuclear warheads, with the help of a K.G.B. agent whose lover he killed.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076752/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spy_who_loved_me"
+  },
+  {
+    "title": "The Hills Have Eyes",
+    "year": 1977,
+    "director": {
+      "name": "Wes Craven",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000127/"
+    },
+    "production_studio": "Blood Relations Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.23,
+    "gross_revenue_usd_millions": 25.0,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Suze Lanier-Bramlett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0486820/"
+      },
+      {
+        "name": "Robert Houston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0396896/"
+      },
+      {
+        "name": "Michael Berryman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0077720/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "On the way to California, a family has the misfortune to have their car break down in an area closed to the public, and inhabited by violent savages ready to attack.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077681/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009645-hills_have_eyes"
+  },
+  {
+    "title": "The Many Adventures of Winnie the Pooh",
+    "year": 1977,
+    "director": {
+      "name": "John Lounsbery",
+      "imdb_person_url": "https://www.imdb.com/name/nm0522137/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 74,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Sebastian Cabot",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001982/"
+      },
+      {
+        "name": "Junius Matthews",
+        "imdb_person_url": "https://www.imdb.com/name/nm0560094/"
+      },
+      {
+        "name": "Barbara Luddy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0524869/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A collection of animated shorts based on the stories and characters by A.A. Milne.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076375/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/many_adventures_of_winnie_the_pooh"
+  },
+  {
+    "title": "The Rescuers",
+    "year": 1977,
+    "director": {
+      "name": "Wolfgang Reitherman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0718627/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": 71.2,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Bob Newhart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0627878/"
+      },
+      {
+        "name": "Eva Gabor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002089/"
+      },
+      {
+        "name": "Geraldine Page",
+        "imdb_person_url": "https://www.imdb.com/name/nm0656193/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two mice of the Rescue Aid Society search for a little girl kidnapped by unscrupulous treasure hunters.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0076618/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rescuers"
@@ -633,17 +679,17 @@
     "year": 1977,
     "director": {
       "name": "William Friedkin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001242/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001243/"
     },
-    "production_studio": "Film Properties International",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 121,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 5.9,
+    "budget_usd_millions": 22.0,
+    "gross_revenue_usd_millions": 9.0,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Adventure",
@@ -657,20 +703,149 @@
       },
       {
         "name": "Bruno Cremer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001079/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0187424/"
       },
       {
         "name": "Francisco Rabal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0704739/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0704724/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Four unfortunate men from different parts of the globe agree to risk their lives by transporting gallons of nitroglycerin across dangerous South American jungle.",
+    "description": "Four unfortunate men from different parts of the globe agree to risk their lives transporting gallons of nitroglycerin across the dangerous South American jungle.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0076740/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019441-sorcerer"
+  },
+  {
+    "title": "3 Women",
+    "year": 1977,
+    "director": {
+      "name": "Robert Altman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
+    },
+    "production_studio": "Lion's Gate Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Shelley Duvall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001167/"
+      },
+      {
+        "name": "Sissy Spacek",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000651/"
+      },
+      {
+        "name": "Janice Rule",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004286/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A shy, awkward woman works at a spa in the California desert and becomes roommates with a confident, talkative co-worker, but their relationship takes a strange turn.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0075612/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/3_women"
+  },
+  {
+    "title": "Opening Night",
+    "year": 1977,
+    "director": {
+      "name": "John Cassavetes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001023/"
+    },
+    "production_studio": "Faces Distribution",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 144,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Gena Rowlands",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001687/"
+      },
+      {
+        "name": "John Cassavetes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001023/"
+      },
+      {
+        "name": "Ben Gazzara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001262/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An actress is haunted by the accidental death of a fan and begins to confront the chaos of her own life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076507/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/opening_night"
+  },
+  {
+    "title": "The Turning Point",
+    "year": 1977,
+    "director": {
+      "name": "Herbert Ross",
+      "imdb_person_url": "https://www.imdb.com/name/nm0743467/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 119,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 33.6,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "66%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Anne Bancroft",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000843/"
+      },
+      {
+        "name": "Shirley MacLaine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000511/"
+      },
+      {
+        "name": "Mikhail Baryshnikov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000864/"
+      }
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When her daughter joins a ballet company, a former dancer is forced to confront her long-ago decision to leave the limelight for a family life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076843/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/turning_point"
   },
   {
     "title": "High Anxiety",
@@ -679,15 +854,15 @@
       "name": "Mel Brooks",
       "imdb_person_url": "https://www.imdb.com/name/nm0000316/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Crossbow Productions",
     "mpaa_rating": "PG",
     "runtime_minutes": 94,
     "budget_usd_millions": 3.4,
-    "gross_revenue_usd_millions": 31.4,
+    "gross_revenue_usd_millions": 31.1,
     "ratings": {
       "imdb": 6.6,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "71%"
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
       "Comedy",
@@ -711,7 +886,7 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A psychiatrist with a fear of heights takes a job at a sanitarium and finds himself in the middle of a murder plot.",
+    "description": "A psychiatrist with intense acrophobia goes to work for a state mental institution run by doctors who appear to be more crazy than their patients.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0076141/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/high_anxiety"
@@ -723,11 +898,11 @@
       "name": "Ridley Scott",
       "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
     },
-    "production_studio": "Paramount Pictures, Enigma Productions",
+    "production_studio": "Enigma Productions",
     "mpaa_rating": "PG",
     "runtime_minutes": 100,
     "budget_usd_millions": 0.9,
-    "gross_revenue_usd_millions": 1,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "93%",
@@ -740,11 +915,11 @@
     "actors": [
       {
         "name": "Keith Carradine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001018/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0139989/"
       },
       {
         "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
       },
       {
         "name": "Albert Finney",
@@ -754,10 +929,54 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Two officers in Napoleon's army carry on a long-running feud.",
+    "description": "Two officers in Napoleon's army violently confront each other in a series of duels that last for decades.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0075968/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/duellists"
+  },
+  {
+    "title": "Cross of Iron",
+    "year": 1977,
+    "director": {
+      "name": "Sam Peckinpah",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000575/"
+    },
+    "production_studio": "Anglo-EMI",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "James Coburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000336/"
+      },
+      {
+        "name": "Maximilian Schell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000629/"
+      },
+      {
+        "name": "James Mason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001512/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A German commander places his ambition for the Iron Cross above the lives of his squad as they retreat from the Russian front.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0074695/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cross_of_iron"
   },
   {
     "title": "That Obscure Object of Desire",
@@ -770,7 +989,7 @@
     "mpaa_rating": "R",
     "runtime_minutes": 102,
     "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1.2,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "97%",
@@ -778,27 +997,26 @@
     },
     "genres": [
       "Comedy",
-      "Drama",
-      "Romance"
+      "Drama"
     ],
     "actors": [
       {
         "name": "Fernando Rey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001665/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0721092/"
       },
       {
         "name": "Carole Bouquet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000961/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0099666/"
       },
       {
         "name": "Ángela Molina",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001546/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0596637/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An aging Frenchman tells the story of his frustrating and surreal relationship with a beautiful and elusive young woman.",
+    "description": "Recounted in flashbacks to a group of travelers on a train, an aging Frenchman falls in love with a young Spanish woman who toys with his affections.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0075824/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/that_obscure_object_of_desire"
@@ -813,12 +1031,12 @@
     "production_studio": "Road Movies Filmproduktion",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 125,
-    "budget_usd_millions": 1.2,
+    "budget_usd_millions": 3.0,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "82%"
     },
     "genres": [
       "Crime",
@@ -828,41 +1046,128 @@
     "actors": [
       {
         "name": "Dennis Hopper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001364/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000454/"
       },
       {
         "name": "Bruno Ganz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000412/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0004486/"
       },
       {
         "name": "Lisa Kreuzer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0471380/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0471077/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A con man in Hamburg, Germany, involves a picture framer in a murder plot.",
+    "description": "An expatriate American criminal convinces a German picture framer, who believes he is dying of a blood disease, to become an assassin.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0075675/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_friend"
   },
   {
+    "title": "Soldier of Orange",
+    "year": 1977,
+    "director": {
+      "name": "Paul Verhoeven",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
+    },
+    "production_studio": "Rob Houwer Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 155,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Rutger Hauer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000442/"
+      },
+      {
+        "name": "Jeroen Krabbé",
+        "imdb_person_url": "https://www.imdb.com/name/nm0469106/"
+      },
+      {
+        "name": "Susan Penhaligon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0671822/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When the Germans invade the Netherlands in 1940, several friends in a student orchestra choose different paths; some join the resistance, some collaborate, and others try to remain neutral.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076734/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/soldier_of_orange"
+  },
+  {
+    "title": "Stroszek",
+    "year": 1977,
+    "director": {
+      "name": "Werner Herzog",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001348/"
+    },
+    "production_studio": "Werner Herzog Filmproduktion",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 115,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Bruno S.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0754020/"
+      },
+      {
+        "name": "Eva Mattes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0559670/"
+      },
+      {
+        "name": "Clemens Scheitz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0770697/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A street musician, his prostitute girlfriend, and his elderly neighbor leave Berlin for the promise of a better life in Wisconsin.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0075276/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stroszek"
+  },
+  {
     "title": "Pumping Iron",
     "year": 1977,
     "director": {
-      "name": "George Butler, Robert Fiore",
-      "imdb_person_url": "https://www.imdb.com/name/nm0124846/"
+      "name": "George Butler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0124930/"
     },
     "production_studio": "White Mountain Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 85,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 3.4,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Documentary",
@@ -875,237 +1180,63 @@
       },
       {
         "name": "Lou Ferrigno",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002073/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001209/"
       },
       {
-        "name": "Matty Ferrigno",
-        "imdb_person_url": "https://www.imdb.com/name/nm0274719/"
+        "name": "Franco Columbu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0173273/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A documentary about the world of professional bodybuilding, focusing on the rivalry between Arnold Schwarzenegger and Lou Ferrigno.",
+    "description": "A documentary about the 1975 Mr. Olympia bodybuilding contest and the rivalry between Arnold Schwarzenegger and Lou Ferrigno.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0076578/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pumping_iron"
   },
   {
-    "title": "New York, New York",
+    "title": "House",
     "year": 1977,
     "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+      "name": "Nobuhiko Ôbayashi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0643132/"
     },
-    "production_studio": "Chartoff-Winkler Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 163,
-    "budget_usd_millions": 14,
-    "gross_revenue_usd_millions": 16.4,
+    "production_studio": "Toho Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 88,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "57%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Liza Minnelli",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000541/"
-      },
-      {
-        "name": "Robert De Niro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-      },
-      {
-        "name": "Lionel Stander",
-        "imdb_person_url": "https://www.imdb.com/name/nm0822002/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An egotistical saxophone player and a rising pop singer fall in love and get married, but their careers and personal conflicts drive them apart.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076451/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/new_york_new_york"
-  },
-  {
-    "title": "Cross of Iron",
-    "year": 1977,
-    "director": {
-      "name": "Sam Peckinpah",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001603/"
-    },
-    "production_studio": "Anglo-EMI Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 0.4,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "82%",
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "92%",
       "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "James Coburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000336/"
-      },
-      {
-        "name": "Maximilian Schell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001700/"
-      },
-      {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A German sergeant on the Eastern Front in World War II clashes with his new captain, who is obsessed with winning the Iron Cross.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0075879/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cross_of_iron"
-  },
-  {
-    "title": "The Hills Have Eyes",
-    "year": 1977,
-    "director": {
-      "name": "Wes Craven",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000127/"
-    },
-    "production_studio": "Blood Relations Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 0.23,
-    "gross_revenue_usd_millions": 25,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Susan Lanier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0486980/"
-      },
-      {
-        "name": "Robert Houston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0396827/"
-      },
-      {
-        "name": "Martin Speer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0817290/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "On the way to California, a family has the misfortune to have their car break down in an area closed to the public, and inhabited by violent savages.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077681/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009635-hills_have_eyes"
-  },
-  {
-    "title": "Oh, God!",
-    "year": 1977,
-    "director": {
-      "name": "Carl Reiner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005348/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 98,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 51,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
       "Comedy",
-      "Fantasy"
+      "Horror"
     ],
     "actors": [
       {
-        "name": "George Burns",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000999/"
+        "name": "Kimiko Ikegami",
+        "imdb_person_url": "https://www.imdb.com/name/nm0407439/"
       },
       {
-        "name": "John Denver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002043/"
+        "name": "Miki Jinbo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0423164/"
       },
       {
-        "name": "Teri Garr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000414/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "God appears to a mild-mannered supermarket manager and chooses him to be his messenger in the modern world.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076489/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oh_god"
-  },
-  {
-    "title": "The Gauntlet",
-    "year": 1977,
-    "director": {
-      "name": "Clint Eastwood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
-    },
-    "production_studio": "The Malpaso Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 109,
-    "budget_usd_millions": 5.5,
-    "gross_revenue_usd_millions": 36,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Clint Eastwood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
-      },
-      {
-        "name": "Sondra Locke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001476/"
-      },
-      {
-        "name": "Pat Hingle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
+        "name": "Kumiko Ohba",
+        "imdb_person_url": "https://www.imdb.com/name/nm0644933/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A hard-bitten cop is assigned to escort a prostitute from Las Vegas to Phoenix, but they find that they are being pursued by both the mob and the police.",
+    "description": "A schoolgirl travels with six classmates to her ailing aunt's country home, where they come face to face with evil spirits, a demonic house cat, a bloodthirsty piano, and other ghoulish visions.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076070/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_gauntlet"
+    "imdb_url": "https://www.imdb.com/title/tt0076162/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hausu"
   },
   {
     "title": "Equus",
@@ -1114,15 +1245,15 @@
       "name": "Sidney Lumet",
       "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
     },
-    "production_studio": "United Artists",
+    "production_studio": "Winkast Film Productions",
     "mpaa_rating": "R",
     "runtime_minutes": 137,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 6.5,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "58%",
-      "rotten_tomatoes_popcorn": "71%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "74%"
     },
     "genres": [
       "Drama",
@@ -1131,23 +1262,23 @@
     "actors": [
       {
         "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
       },
       {
         "name": "Peter Firth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001214/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0278752/"
       },
       {
         "name": "Colin Blakely",
-        "imdb_person_url": "https://www.imdb.com/name/nm0086576/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0086812/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A psychiatrist tries to treat a young man who has a pathological religious fascination with horses.",
+    "description": "A psychiatrist attempts to uncover the deep-rooted personal and religious issues that led a stable boy to blind six horses.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0075997/",
+    "imdb_url": "https://www.imdb.com/title/tt0075995/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/equus"
   },
   {
@@ -1155,17 +1286,17 @@
     "year": 1977,
     "director": {
       "name": "Ettore Scola",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002169/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0778433/"
     },
     "production_studio": "Compagnia Cinematografica Champion",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 107,
+    "runtime_minutes": 106,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 8.0,
+      "imdb": 8.1,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
       "Drama"
@@ -1187,115 +1318,333 @@
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "On the day of Hitler's 1938 visit to Rome, a lonely housewife and a persecuted homosexual form an unlikely friendship.",
+    "description": "On the day of Hitler's visit to Rome in 1938, a persecuted journalist and a sentimental housewife form a close friendship.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076085/",
+    "imdb_url": "https://www.imdb.com/title/tt0076105/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_special_day"
   },
   {
-    "title": "The Many Adventures of Winnie the Pooh",
+    "title": "The Last Wave",
     "year": 1977,
     "director": {
-      "name": "John Lounsbery, Wolfgang Reitherman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0521876/"
+      "name": "Peter Weir",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001837/"
     },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 74,
+    "production_studio": "Ayer Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 106,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
+      "Drama",
+      "Fantasy",
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "Sebastian Cabot",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001000/"
+        "name": "Richard Chamberlain",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000328/"
       },
       {
-        "name": "Junius Matthews",
-        "imdb_person_url": "https://www.imdb.com/name/nm0559670/"
+        "name": "Olivia Hamnett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0358823/"
       },
       {
-        "name": "Barbara Luddy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0524747/"
+        "name": "David Gulpilil",
+        "imdb_person_url": "https://www.imdb.com/name/nm0347902/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A collection of animated shorts based on the stories of A.A. Milne.",
+    "description": "An Australian lawyer defends a group of Aboriginal men accused of murder, and in the process discovers that he shares a strange mystical connection to them and their culture.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076361/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/many_adventures_of_winnie_the_pooh"
+    "imdb_url": "https://www.imdb.com/title/tt0076299/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_wave"
   },
   {
-    "title": "House (Hausu)",
+    "title": "Martin",
     "year": 1977,
     "director": {
-      "name": "Nobuhiko Obayashi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0643196/"
+      "name": "George A. Romero",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001681/"
     },
-    "production_studio": "Toho",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 1,
+    "production_studio": "Laurel Group",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.08,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.3,
+      "imdb": 7.0,
       "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
-      "Comedy",
-      "Fantasy",
+      "Drama",
       "Horror"
     ],
     "actors": [
       {
-        "name": "Kimiko Ikegami",
-        "imdb_person_url": "https://www.imdb.com/name/nm0407421/"
+        "name": "John Amplas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0025357/"
       },
       {
-        "name": "Miki Jinbo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0423526/"
+        "name": "Lincoln Maazel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0530978/"
       },
       {
-        "name": "Kumiko Oba",
-        "imdb_person_url": "https://www.imdb.com/name/nm0643196/"
+        "name": "Christine Forrest",
+        "imdb_person_url": "https://www.imdb.com/name/nm0286127/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A schoolgirl and her six friends travel to her aunt's country home, which turns out to be a carnivorous, supernatural entity.",
+    "description": "A young man, who believes himself to be a vampire, goes to live with his elderly and hostile cousin in a small Pennsylvania town where he tries to redeem his blood-craving urges.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076162/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/house_1977"
+    "imdb_url": "https://www.imdb.com/title/tt0077914/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013409-martin"
+  },
+  {
+    "title": "Rabid",
+    "year": 1977,
+    "director": {
+      "name": "David Cronenberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
+    },
+    "production_studio": "Cinema Entertainment Enterprises",
+    "mpaa_rating": "R",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 0.53,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "47%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Marilyn Chambers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001036/"
+      },
+      {
+        "name": "Frank Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0601219/"
+      },
+      {
+        "name": "Joe Silver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0798725/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young woman develops a taste for human blood after undergoing experimental plastic surgery, and her victims turn into rabid, blood-thirsty zombies who proceed to infect others.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076590/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rabid"
+  },
+  {
+    "title": "Rolling Thunder",
+    "year": 1977,
+    "director": {
+      "name": "John Flynn",
+      "imdb_person_url": "https://www.imdb.com/name/nm0283495/"
+    },
+    "production_studio": "American International Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 130.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "William Devane",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001137/"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
+      },
+      {
+        "name": "Linda Haynes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0371497/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Major Charles Rane comes home from the war and is given a number of gifts from his hometown because he is a war hero. A group of greedy thugs decides to steal the silver dollars and kill his family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076641/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rolling_thunder"
+  },
+  {
+    "title": "Black Sunday",
+    "year": 1977,
+    "director": {
+      "name": "John Frankenheimer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001239/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 143,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 15.8,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Robert Shaw",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001727/"
+      },
+      {
+        "name": "Bruce Dern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001136/"
+      },
+      {
+        "name": "Marthe Keller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0445710/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An Israeli anti-terrorist agent must stop a disgruntled Vietnam veteran cooperating with a terrorist group to blow up the Super Bowl blimp.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0075765/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002522-black_sunday"
+  },
+  {
+    "title": "Capricorn One",
+    "year": 1977,
+    "director": {
+      "name": "Peter Hyams",
+      "imdb_person_url": "https://www.imdb.com/name/nm0404925/"
+    },
+    "production_studio": "Associated General Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 4.8,
+    "gross_revenue_usd_millions": 12.0,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "61%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Elliott Gould",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001285/"
+      },
+      {
+        "name": "James Brolin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000981/"
+      },
+      {
+        "name": "Brenda Vaccaro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0882796/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A NASA Mars mission won't work, and its funding is endangered, so they decide to fake it just this once. But then they have to keep the secret.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077294/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/capricorn_one"
+  },
+  {
+    "title": "The Late Show",
+    "year": 1977,
+    "director": {
+      "name": "Robert Benton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000917/"
+    },
+    "production_studio": "Lion's Gate Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Art Carney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0138760/"
+      },
+      {
+        "name": "Lily Tomlin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001798/"
+      },
+      {
+        "name": "Bill Macy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0534437/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An aging private investigator gets entangled with a quirky woman while trying to solve the murder of his former partner.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076290/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/late_show"
   },
   {
     "title": "Jabberwocky",
     "year": 1977,
     "director": {
       "name": "Terry Gilliam",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000416/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001272/"
     },
-    "production_studio": "Python (Monty) Pictures",
+    "production_studio": "Python Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 105,
-    "budget_usd_millions": 0.5,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.3,
+      "imdb": 6.2,
       "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "51%"
+      "rotten_tomatoes_popcorn": "55%"
     },
     "genres": [
       "Adventure",
@@ -1305,301 +1654,126 @@
     "actors": [
       {
         "name": "Michael Palin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000571/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
       },
       {
         "name": "Harry H. Corbett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0179183/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0179163/"
       },
       {
         "name": "John Le Mesurier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0494435/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0494957/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A medieval peasant must slay a monster to win the hand of a princess.",
+    "description": "A young peasant with no interest in adventure or fortune is mistaken for the kingdom's only hope when a horrible monster threatens the countryside.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0076221/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jabberwocky"
   },
   {
-    "title": "Demon Seed",
+    "title": "Man of Marble",
     "year": 1977,
     "director": {
-      "name": "Donald Cammell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0132207/"
+      "name": "Andrzej Wajda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0906667/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "R",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 2.7,
-    "gross_revenue_usd_millions": 4,
+    "production_studio": "Zespol Filmowy \"X\"",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 165,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "61%",
-      "rotten_tomatoes_popcorn": "51%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
-      "Horror",
-      "Sci-Fi"
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Julie Christie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
+        "name": "Jerzy Radziwilowicz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0705973/"
       },
       {
-        "name": "Fritz Weaver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915839/"
+        "name": "Krystyna Janda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0417387/"
       },
       {
-        "name": "Gerrit Graham",
-        "imdb_person_url": "https://www.imdb.com/name/nm0334237/"
+        "name": "Tadeusz Lomnicki",
+        "imdb_person_url": "https://www.imdb.com/name/nm0518772/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A scientist creates a supercomputer that develops a mind of its own and decides it wants to have a child with the scientist's wife.",
+    "description": "A young filmmaker creates a documentary about a once-celebrated bricklayer who became a hero of the state, but whose life and reputation were later destroyed.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0075931/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/demon_seed"
+    "imdb_url": "https://www.imdb.com/title/tt0075893/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_of_marble"
   },
   {
-    "title": "The Car",
+    "title": "Padre Padrone",
     "year": 1977,
     "director": {
-      "name": "Elliot Silverstein",
-      "imdb_person_url": "https://www.imdb.com/name/nm0799015/"
+      "name": "Paolo Taviani",
+      "imdb_person_url": "https://www.imdb.com/name/nm0851833/"
     },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 8,
+    "production_studio": "Cinema S.r.l.",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 113,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.1,
-      "rotten_tomatoes_critic": "30%",
-      "rotten_tomatoes_popcorn": "36%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Biography",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "James Brolin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000984/"
+        "name": "Omero Antonutti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0031542/"
       },
       {
-        "name": "Kathleen Lloyd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0516004/"
+        "name": "Saverio Marconi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0545837/"
       },
       {
-        "name": "John Marley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001507/"
+        "name": "Marcella Michelangeli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0584947/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A mysterious black car terrorizes a small Southwestern town.",
+    "description": "The true story of a young Sardinian boy who is pulled out of school by his domineering father to work as a shepherd, where he suffers years of isolation and abuse before discovering education and language.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0075809/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/car"
-  },
-  {
-    "title": "3 Women",
-    "year": 1977,
-    "director": {
-      "name": "Robert Altman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 1.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Shelley Duvall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001167/"
-      },
-      {
-        "name": "Sissy Spacek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000647/"
-      },
-      {
-        "name": "Janice Rule",
-        "imdb_person_url": "https://www.imdb.com/name/nm0750011/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The strange and enigmatic relationship between three women in a small desert town.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0075612/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/3_women"
-  },
-  {
-    "title": "Airport '77",
-    "year": 1977,
-    "director": {
-      "name": "Jerry Jameson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0417215/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 30,
-    "ratings": {
-      "imdb": 5.7,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "36%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Jack Lemmon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
-      },
-      {
-        "name": "Lee Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001291/"
-      },
-      {
-        "name": "Brenda Vaccaro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001808/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Art thieves hijack a 747, hit fog and crash into the ocean, trapping them and the passengers under one hundred feet of water.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0075648/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/airport_77"
-  },
-  {
-    "title": "Orca",
-    "year": 1977,
-    "director": {
-      "name": "Michael Anderson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0027278/"
-    },
-    "production_studio": "Dino De Laurentiis Company",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 14,
-    "ratings": {
-      "imdb": 5.7,
-      "rotten_tomatoes_critic": "9%",
-      "rotten_tomatoes_popcorn": "31%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Richard Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
-      },
-      {
-        "name": "Charlotte Rampling",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001648/"
-      },
-      {
-        "name": "Will Sampson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001696/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A killer whale goes on a rampage after its mate and calf are killed by a fisherman.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076504/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/orca_the_killer_whale"
-  },
-  {
-    "title": "Exorcist II: The Heretic",
-    "year": 1977,
-    "director": {
-      "name": "John Boorman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000958/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 14,
-    "gross_revenue_usd_millions": 30.7,
-    "ratings": {
-      "imdb": 3.8,
-      "rotten_tomatoes_critic": "10%",
-      "rotten_tomatoes_popcorn": "15%"
-    },
-    "genres": [
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Linda Blair",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000302/"
-      },
-      {
-        "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
-      },
-      {
-        "name": "Louise Fletcher",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001221/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A teenage girl once possessed by a demon finds that it still lurks within her. Meanwhile, a priest investigates the death of the girl's exorcist.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076009/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/exorcist_ii_the_heretic"
+    "imdb_url": "https://www.imdb.com/title/tt0076517/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/padre_padrone"
   },
   {
     "title": "Looking for Mr. Goodbar",
     "year": 1977,
     "director": {
       "name": "Richard Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0112139/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0112217/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 136,
-    "budget_usd_millions": 4.5,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": 22.5,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "71%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "51%"
     },
     "genres": [
       "Drama"
@@ -1611,194 +1785,407 @@
       },
       {
         "name": "Tuesday Weld",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001838/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001840/"
       },
       {
-        "name": "William Atherton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000801/"
+        "name": "Richard Gere",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A dedicated schoolteacher for deaf children leads a promiscuous and dangerous double life in the singles bars of New York City.",
+    "description": "A dedicated schoolteacher leads a double life: by night she cruises singles bars, looking for casual sex and dangerous encounters.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076307/",
+    "imdb_url": "https://www.imdb.com/title/tt0076327/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/looking_for_mr_goodbar"
+  },
+  {
+    "title": "Oh, God!",
+    "year": 1977,
+    "director": {
+      "name": "Carl Reiner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005348/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 2.2,
+    "gross_revenue_usd_millions": 51.0,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "George Burns",
+        "imdb_person_url": "https://www.imdb.com/name/nm0122675/"
+      },
+      {
+        "name": "John Denver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001134/"
+      },
+      {
+        "name": "Teri Garr",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000414/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "God appears to an assistant grocery manager as a good-natured old man with a message for the world.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076489/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oh_god"
+  },
+  {
+    "title": "The Kentucky Fried Movie",
+    "year": 1977,
+    "director": {
+      "name": "John Landis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000484/"
+    },
+    "production_studio": "KFM Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.65,
+    "gross_revenue_usd_millions": 20.0,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Evan C. Kim",
+        "imdb_person_url": "https://www.imdb.com/name/nm0453443/"
+      },
+      {
+        "name": "Bong Soo Han",
+        "imdb_person_url": "https://www.imdb.com/name/nm0359155/"
+      },
+      {
+        "name": "Bill Bixby",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000945/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A series of loosely connected skits that spoof news programs, commercials, soft-core porn, kung-fu movies, and disaster films.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076257/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kentucky_fried_movie"
+  },
+  {
+    "title": "New York, New York",
+    "year": 1977,
+    "director": {
+      "name": "Martin Scorsese",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+    },
+    "production_studio": "Chartoff-Winkler Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 155,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 16.4,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": [
+      "Drama",
+      "Music",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Liza Minnelli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0591485/"
+      },
+      {
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
+      },
+      {
+        "name": "Lionel Stander",
+        "imdb_person_url": "https://www.imdb.com/name/nm0822055/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An egotistical saxophone player and a young singer meet on V-J Day and embark upon a rocky and passionate relationship.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076451/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/new_york_new_york"
+  },
+  {
+    "title": "Desperate Living",
+    "year": 1977,
+    "director": {
+      "name": "John Waters",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000691/"
+    },
+    "production_studio": "Dreamland Productions",
+    "mpaa_rating": "NC-17",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 0.065,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Liz Renay",
+        "imdb_person_url": "https://www.imdb.com/name/nm0719183/"
+      },
+      {
+        "name": "Mink Stole",
+        "imdb_person_url": "https://www.imdb.com/name/nm0831464/"
+      },
+      {
+        "name": "Susan Lowe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0523053/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A neurotic housewife murders her husband with the help of her overweight maid and they go on the run to Mortville, a refuge for criminals run by the evil Queen Carlotta.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0075930/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/desperate_living"
+  },
+  {
+    "title": "The Serpent's Egg",
+    "year": 1977,
+    "director": {
+      "name": "Ingmar Bergman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
+    },
+    "production_studio": "Rialto Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "20%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "David Carradine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001016/"
+      },
+      {
+        "name": "Liv Ullmann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001808/"
+      },
+      {
+        "name": "Gert Fröbe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002086/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An unemployed Jewish circus performer in 1923 Berlin uncovers a sinister series of experiments being conducted on humans.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076683/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/serpents_egg"
+  },
+  {
+    "title": "Demon Seed",
+    "year": 1977,
+    "director": {
+      "name": "Donald Cammell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0131753/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "R",
+    "runtime_minutes": 94,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Julie Christie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
+      },
+      {
+        "name": "Fritz Weaver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0915837/"
+      },
+      {
+        "name": "Gerrit Graham",
+        "imdb_person_url": "https://www.imdb.com/name/nm0334062/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A scientist creates Proteus IV, a super computer with a mind of its own that becomes obsessed with his wife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0075931/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/demon_seed"
+  },
+  {
+    "title": "Citizens Band",
+    "year": 1977,
+    "director": {
+      "name": "Jonathan Demme",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Paul Le Mat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0494877/"
+      },
+      {
+        "name": "Candy Clark",
+        "imdb_person_url": "https://www.imdb.com/name/nm0163749/"
+      },
+      {
+        "name": "Bruce McGill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0569226/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Several characters in a small town, united by their use of CB radio, interact with one another in various comic and dramatic ways.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0075853/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/citizens_band"
   },
   {
     "title": "Providence",
     "year": 1977,
     "director": {
       "name": "Alain Resnais",
-      "imdb_person_url": "https://www.imdb.com/name/nm0720138/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0720257/"
     },
     "production_studio": "Action Films",
-    "mpaa_rating": "PG",
+    "mpaa_rating": "R",
     "runtime_minutes": 110,
     "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.4,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "71%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
-      "Drama",
-      "Fantasy"
+      "Drama"
     ],
     "actors": [
       {
         "name": "Dirk Bogarde",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000955/"
-      },
-      {
-        "name": "John Gielgud",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001958/"
       },
       {
         "name": "Ellen Burstyn",
         "imdb_person_url": "https://www.imdb.com/name/nm0000995/"
+      },
+      {
+        "name": "John Gielgud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An aging, alcoholic writer on the eve of his 78th birthday, works on his novel while his family gathers for a birthday celebration.",
+    "description": "An aging writer spends a sleepless night painfully crafting a final novel, mixing fantasy with his real-life family relationships.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076569/",
+    "imdb_url": "https://www.imdb.com/title/tt0076572/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/providence"
   },
   {
-    "title": "The Late Show",
+    "title": "Iphigenia",
     "year": 1977,
     "director": {
-      "name": "Robert Benton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000914/"
+      "name": "Michael Cacoyannis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0127599/"
     },
-    "production_studio": "Lion's Gate Films",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 2,
+    "production_studio": "Greek Film Center",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 127,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
-      "Comedy",
-      "Crime",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Art Carney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001016/"
+        "name": "Irene Papas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0660327/"
       },
       {
-        "name": "Lily Tomlin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005499/"
+        "name": "Kostas Kazakos",
+        "imdb_person_url": "https://www.imdb.com/name/nm0443586/"
       },
       {
-        "name": "Bill Macy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0535919/"
+        "name": "Tatiana Papamoschou",
+        "imdb_person_url": "https://www.imdb.com/name/nm0660312/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An aging private detective and a kooky aspiring actress team up to solve a murder case.",
+    "description": "Agamemnon must sacrifice his daughter Iphigenia to the gods in order to secure favorable winds for his ships to sail to Troy.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076295/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/late_show"
-  },
-  {
-    "title": "Pete's Dragon",
-    "year": 1977,
-    "director": {
-      "name": "Don Chaffey",
-      "imdb_person_url": "https://www.imdb.com/name/nm0149533/"
-    },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 128,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 36,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "54%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Helen Reddy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0714761/"
-      },
-      {
-        "name": "Jim Dale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0197708/"
-      },
-      {
-        "name": "Mickey Rooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An orphan boy and his magical dragon come to a small town in New England.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076538/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/petes_dragon"
-  },
-  {
-    "title": "Semi-Tough",
-    "year": 1977,
-    "director": {
-      "name": "Michael Ritchie",
-      "imdb_person_url": "https://www.imdb.com/name/nm0728393/"
-    },
-    "production_studio": "United Artists",
-    "mpaa_rating": "R",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 37.2,
-    "ratings": {
-      "imdb": 6.0,
-      "rotten_tomatoes_critic": "31%",
-      "rotten_tomatoes_popcorn": "46%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Burt Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
-      },
-      {
-        "name": "Kris Kristofferson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001434/"
-      },
-      {
-        "name": "Jill Clayburgh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001048/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two football players and their roommate get involved in a love triangle.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0076682/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/semi_tough"
+    "imdb_url": "https://www.imdb.com/title/tt0076208/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/iphigenia"
   }
 ]

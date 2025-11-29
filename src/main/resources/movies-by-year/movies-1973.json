@@ -1,50 +1,5 @@
 [
   {
-    "title": "The Exorcist",
-    "year": 1973,
-    "director": {
-      "name": "William Friedkin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001242/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 441.3,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Ellen Burstyn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000995/"
-      },
-      {
-        "name": "Max von Sydow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001884/"
-      },
-      {
-        "name": "Linda Blair",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000302/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Writing, Screenplay Based on Material from Another Medium",
-      "Best Sound"
-    ],
-    "description": "When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070047/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_exorcist"
-  },
-  {
     "title": "The Sting",
     "year": 1973,
     "director": {
@@ -55,7 +10,7 @@
     "mpaa_rating": "PG",
     "runtime_minutes": 129,
     "budget_usd_millions": 5.5,
-    "gross_revenue_usd_millions": 156,
+    "gross_revenue_usd_millions": 159.6,
     "ratings": {
       "imdb": 8.3,
       "rotten_tomatoes_critic": "94%",
@@ -91,27 +46,72 @@
       "Best Film Editing",
       "Best Music, Scoring Original Song Score and/or Adaptation"
     ],
-    "description": "Two grifters team up to pull off the ultimate con.",
-    "afi_ranking": 78,
+    "description": "Two grifters team up to pull off the ultimate con on a mob boss in 1930s Chicago.",
+    "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0070735/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_sting"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sting"
+  },
+  {
+    "title": "The Exorcist",
+    "year": 1973,
+    "director": {
+      "name": "William Friedkin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001243/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 441.3,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "84%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Ellen Burstyn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000995/"
+      },
+      {
+        "name": "Max von Sydow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001884/"
+      },
+      {
+        "name": "Linda Blair",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000108/"
+      }
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Sound"
+    ],
+    "description": "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+    "afi_ranking": 88,
+    "imdb_url": "https://www.imdb.com/title/tt0070047/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/exorcist"
   },
   {
     "title": "American Graffiti",
     "year": 1973,
     "director": {
       "name": "George Lucas",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000184/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
     },
-    "production_studio": "Lucasfilm",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 110,
-    "budget_usd_millions": 0.777,
-    "gross_revenue_usd_millions": 140,
+    "budget_usd_millions": 0.77,
+    "gross_revenue_usd_millions": 140.0,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Comedy",
@@ -128,7 +128,7 @@
       },
       {
         "name": "Paul Le Mat",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001452/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0494877/"
       }
     ],
     "oscars_nominated": 5,
@@ -140,21 +140,377 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_graffiti"
   },
   {
+    "title": "Paper Moon",
+    "year": 1973,
+    "director": {
+      "name": "Peter Bogdanovich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000953/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 30.9,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Ryan O'Neal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641939/"
+      },
+      {
+        "name": "Tatum O'Neal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001575/"
+      },
+      {
+        "name": "Madeline Kahn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001404/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Supporting Role"
+    ],
+    "description": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070510/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/paper_moon"
+  },
+  {
+    "title": "Serpico",
+    "year": 1973,
+    "director": {
+      "name": "Sidney Lumet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 130,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 29.8,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Al Pacino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
+      },
+      {
+        "name": "John Randolph",
+        "imdb_person_url": "https://www.imdb.com/name/nm0709886/"
+      },
+      {
+        "name": "Jack Kehoe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0444965/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.",
+    "afi_ranking": 84,
+    "imdb_url": "https://www.imdb.com/title/tt0070666/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/serpico"
+  },
+  {
+    "title": "Badlands",
+    "year": 1973,
+    "director": {
+      "name": "Terrence Malick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000517/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Martin Sheen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000640/"
+      },
+      {
+        "name": "Sissy Spacek",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000651/"
+      },
+      {
+        "name": "Warren Oates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0643168/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0069762/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/badlands"
+  },
+  {
+    "title": "Mean Streets",
+    "year": 1973,
+    "director": {
+      "name": "Martin Scorsese",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
+      },
+      {
+        "name": "Harvey Keitel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
+      },
+      {
+        "name": "David Proval",
+        "imdb_person_url": "https://www.imdb.com/name/nm0699029/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-time hood aspires to work his way up the ranks of a local mob while dealing with his reckless friend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070379/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mean_streets"
+  },
+  {
+    "title": "The Long Goodbye",
+    "year": 1973,
+    "director": {
+      "name": "Robert Altman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
+    },
+    "production_studio": "Lion's Gate Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 0.96,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Elliott Gould",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001285/"
+      },
+      {
+        "name": "Nina van Pallandt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0887530/"
+      },
+      {
+        "name": "Sterling Hayden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001330/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Private investigator Philip Marlowe helps a friend cross the border to Mexico, only to become implicated in the murder of his friend's wife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070328/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/long_goodbye"
+  },
+  {
+    "title": "Enter the Dragon",
+    "year": 1973,
+    "director": {
+      "name": "Robert Clouse",
+      "imdb_person_url": "https://www.imdb.com/name/nm0167181/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": 90.0,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Bruce Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000045/"
+      },
+      {
+        "name": "John Saxon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0766456/"
+      },
+      {
+        "name": "Jim Kelly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0446486/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament as cover.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070034/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enter_the_dragon"
+  },
+  {
+    "title": "The Way We Were",
+    "year": 1973,
+    "director": {
+      "name": "Sydney Pollack",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001628/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 49.9,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "66%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Barbra Streisand",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000659/"
+      },
+      {
+        "name": "Robert Redford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+      },
+      {
+        "name": "Bradford Dillman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0226885/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Music, Original Dramatic Score",
+      "Best Music, Original Song"
+    ],
+    "description": "Two desperate people have a wonderful romance, but their political views and convictions drive them apart.",
+    "afi_ranking": 6,
+    "imdb_url": "https://www.imdb.com/title/tt0070903/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/way_we_were"
+  },
+  {
+    "title": "High Plains Drifter",
+    "year": 1973,
+    "director": {
+      "name": "Clint Eastwood",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+    },
+    "production_studio": "The Malpaso Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 5.5,
+    "gross_revenue_usd_millions": 15.7,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Clint Eastwood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+      },
+      {
+        "name": "Verna Bloom",
+        "imdb_person_url": "https://www.imdb.com/name/nm0089244/"
+      },
+      {
+        "name": "Marianna Hill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0384496/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A gunfighting stranger comes to the small settlement of Lago and is hired to bring the townsfolk together in an attempt to hold off three outlaws who are on their way.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070174/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/high_plains_drifter"
+  },
+  {
     "title": "Papillon",
     "year": 1973,
     "director": {
       "name": "Franklin J. Schaffner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0769822/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001701/"
     },
-    "production_studio": "Allied Artists Pictures",
+    "production_studio": "Solar Productions",
     "mpaa_rating": "R",
     "runtime_minutes": 151,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 53.3,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 53.2,
     "ratings": {
       "imdb": 8.0,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "94%"
     },
     "genres": [
       "Biography",
@@ -172,33 +528,254 @@
       },
       {
         "name": "Victor Jory",
-        "imdb_person_url": "https://www.imdb.com/name/nm0430638/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0430501/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A man wrongly convicted of murder and sentenced to life in a brutal penal colony is determined to escape.",
+    "description": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0070511/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/papillon"
+  },
+  {
+    "title": "Sleeper",
+    "year": 1973,
+    "director": {
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+    },
+    "production_studio": "Jack Rollins & Charles H. Joffe Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 18.3,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Woody Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+      },
+      {
+        "name": "Diane Keaton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000473/"
+      },
+      {
+        "name": "John Beck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0065175/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A nerdish store owner is cryogenically frozen in 1973 and defrosted 200 years later in a totalitarian police state.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070707/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sleeper"
+  },
+  {
+    "title": "Day for Night",
+    "year": 1973,
+    "director": {
+      "name": "François Truffaut",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000076/"
+    },
+    "production_studio": "Les Films du Carrosse",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "François Truffaut",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000076/"
+      },
+      {
+        "name": "Jacqueline Bisset",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000302/"
+      },
+      {
+        "name": "Jean-Pierre Léaud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0529596/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "A committed movie director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070460/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/day_for_night"
+  },
+  {
+    "title": "Don't Look Now",
+    "year": 1973,
+    "director": {
+      "name": "Nicolas Roeg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001676/"
+    },
+    "production_studio": "Casey Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 1.2,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Julie Christie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
+      },
+      {
+        "name": "Donald Sutherland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
+      },
+      {
+        "name": "Hilary Mason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0556729/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A married couple grieving the recent death of their young daughter are in Venice when they encounter two elderly sisters, one of whom is psychic and brings a warning from beyond.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0069995/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dont_look_now"
+  },
+  {
+    "title": "The Wicker Man",
+    "year": 1973,
+    "director": {
+      "name": "Robin Hardy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0362743/"
+    },
+    "production_studio": "British Lion Film Corporation",
+    "mpaa_rating": "R",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Edward Woodward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0940919/"
+      },
+      {
+        "name": "Christopher Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000489/"
+      },
+      {
+        "name": "Britt Ekland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001180/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A puritan Police Sergeant arrives in a Scottish island village in search of a missing girl who the locals claim never existed.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070917/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_wicker_man"
+  },
+  {
+    "title": "Westworld",
+    "year": 1973,
+    "director": {
+      "name": "Michael Crichton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000341/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 1.25,
+    "gross_revenue_usd_millions": 10.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Yul Brynner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000989/"
+      },
+      {
+        "name": "Richard Benjamin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000902/"
+      },
+      {
+        "name": "James Brolin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000981/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070909/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/westworld"
   },
   {
     "title": "Live and Let Die",
     "year": 1973,
     "director": {
       "name": "Guy Hamilton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0357833/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0357912/"
     },
     "production_studio": "Eon Productions",
     "mpaa_rating": "PG",
     "runtime_minutes": 121,
-    "budget_usd_millions": 7,
+    "budget_usd_millions": 7.0,
     "gross_revenue_usd_millions": 161.8,
     "ratings": {
       "imdb": 6.7,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "61%"
+      "rotten_tomatoes_critic": "66%",
+      "rotten_tomatoes_popcorn": "62%"
     },
     "genres": [
       "Action",
@@ -224,517 +801,248 @@
     "oscars_won_details": [],
     "description": "James Bond is sent to stop a diabolically brilliant heroin magnate armed with a complex organization and a reliable psychic tarot card reader.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070328/",
+    "imdb_url": "https://www.imdb.com/title/tt0070323/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/live_and_let_die"
   },
   {
-    "title": "Serpico",
+    "title": "Robin Hood",
     "year": 1973,
     "director": {
-      "name": "Sidney Lumet",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+      "name": "Wolfgang Reitherman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0718627/"
     },
-    "production_studio": "Artists Entertainment Complex",
-    "mpaa_rating": "R",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 29.8,
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 32.0,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
+      "Animation",
+      "Adventure",
+      "Comedy"
     ],
     "actors": [
       {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
+        "name": "Brian Bedford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0066028/"
       },
       {
-        "name": "John Randolph",
-        "imdb_person_url": "https://www.imdb.com/name/nm0709939/"
+        "name": "Phil Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0365176/"
       },
       {
-        "name": "Jack Kehoe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0445749/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of an honest New York cop who blows the whistle on rampant corruption in the force, only to have his comrades turn against him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070666/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/serpico"
-  },
-  {
-    "title": "Mean Streets",
-    "year": 1973,
-    "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
-    },
-    "production_studio": "Taplin-Perry-Scorsese Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 3.1,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Robert De Niro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-      },
-      {
-        "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      },
-      {
-        "name": "David Proval",
-        "imdb_person_url": "https://www.imdb.com/name/nm0698948/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small-time hood aspires to work his way up the ranks of a local mob.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070379/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mean_streets"
-  },
-  {
-    "title": "Badlands",
-    "year": 1973,
-    "director": {
-      "name": "Terrence Malick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000517/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 0.45,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Martin Sheen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000640/"
-      },
-      {
-        "name": "Sissy Spacek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000647/"
-      },
-      {
-        "name": "Warren Oates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001570/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young couple goes on a crime spree in the American Midwest in the 1950s.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0069762/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/badlands"
-  },
-  {
-    "title": "Day for Night",
-    "year": 1973,
-    "director": {
-      "name": "François Truffaut",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000076/"
-    },
-    "production_studio": "Les Films du Carrosse",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 3,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Jacqueline Bisset",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000302/"
-      },
-      {
-        "name": "Valentina Cortese",
-        "imdb_person_url": "https://www.imdb.com/name/nm0181313/"
-      },
-      {
-        "name": "Dani",
-        "imdb_person_url": "https://www.imdb.com/name/nm0199279/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "A committed film director struggles to complete his movie while coping with a myriad of personal and professional problems.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070460/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/day_for_night"
-  },
-  {
-    "title": "Amarcord",
-    "year": 1973,
-    "director": {
-      "name": "Federico Fellini",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000019/"
-    },
-    "production_studio": "F.C. Produzioni",
-    "mpaa_rating": "R",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 5.1,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Bruno Zanin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0952955/"
-      },
-      {
-        "name": "Magali Noël",
-        "imdb_person_url": "https://www.imdb.com/name/nm0635221/"
-      },
-      {
-        "name": "Pupella Maggio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0535919/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "A series of comedic and nostalgic vignettes set in a small Italian town in the 1930s.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071129/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/amarcord"
-  },
-  {
-    "title": "Enter the Dragon",
-    "year": 1973,
-    "director": {
-      "name": "Robert Clouse",
-      "imdb_person_url": "https://www.imdb.com/name/nm0167182/"
-    },
-    "production_studio": "Concord Production Inc.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 0.85,
-    "gross_revenue_usd_millions": 400,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Bruce Lee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000045/"
-      },
-      {
-        "name": "John Saxon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001693/"
-      },
-      {
-        "name": "Jim Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0446459/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070034/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enter_the_dragon"
-  },
-  {
-    "title": "Paper Moon",
-    "year": 1973,
-    "director": {
-      "name": "Peter Bogdanovich",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000957/"
-    },
-    "production_studio": "The Directors Company",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 30.9,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Ryan O'Neal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001577/"
-      },
-      {
-        "name": "Tatum O'Neal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001577/"
-      },
-      {
-        "name": "Madeline Kahn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001404/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role"
-    ],
-    "description": "During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070510/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/paper_moon"
-  },
-  {
-    "title": "The Day of the Jackal",
-    "year": 1973,
-    "director": {
-      "name": "Fred Zinnemann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
-    },
-    "production_studio": "Warwick Film Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 143,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 16.1,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Edward Fox",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001231/"
-      },
-      {
-        "name": "Terence Alexander",
-        "imdb_person_url": "https://www.imdb.com/name/nm0018783/"
-      },
-      {
-        "name": "Michel Auclair",
-        "imdb_person_url": "https://www.imdb.com/name/nm0041538/"
+        "name": "Roger Miller",
+        "imdb_person_url": "https://www.imdb.com/name/nm0589248/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A professional assassin is hired to kill Charles de Gaulle, the President of France.",
+    "description": "The story of the legendary outlaw is portrayed with the characters as anthropomorphic animals.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0069947/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/day_of_the_jackal"
+    "imdb_url": "https://www.imdb.com/title/tt0070608/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1017699-robin_hood"
   },
   {
-    "title": "Don't Look Now",
+    "title": "Fantastic Planet",
     "year": 1973,
     "director": {
-      "name": "Nicolas Roeg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001676/"
+      "name": "René Laloux",
+      "imdb_person_url": "https://www.imdb.com/name/nm0482534/"
     },
-    "production_studio": "Casey Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 4.5,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Julie Christie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
-      },
-      {
-        "name": "Donald Sutherland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
-      },
-      {
-        "name": "Hilary Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0552230/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A married couple grieving the recent death of their young daughter are in Venice when they encounter two elderly sisters, one of whom is psychic and brings a warning from beyond.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0069995/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dont_look_now"
-  },
-  {
-    "title": "The Wicker Man",
-    "year": 1973,
-    "director": {
-      "name": "Robin Hardy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0362843/"
-    },
-    "production_studio": "British Lion Film Corporation",
-    "mpaa_rating": "R",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 0.5,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Edward Woodward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001861/"
-      },
-      {
-        "name": "Christopher Lee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000489/"
-      },
-      {
-        "name": "Diane Cilento",
-        "imdb_person_url": "https://www.imdb.com/name/nm0162232/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A police sergeant is sent to a Scottish island village in search of a missing girl whom the townsfolk claim never existed.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070917/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_wicker_man_1973"
-  },
-  {
-    "title": "Sleeper",
-    "year": 1973,
-    "director": {
-      "name": "Woody Allen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
-    },
-    "production_studio": "Jack Rollins & Charles H. Joffe Productions",
+    "production_studio": "Les Films Armorial",
     "mpaa_rating": "PG",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 18.3,
+    "runtime_minutes": 72,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
-      "Comedy",
+      "Animation",
       "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "Woody Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+        "name": "Barry Bostwick",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
       },
       {
-        "name": "Diane Keaton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000473/"
+        "name": "Jennifer Drake",
+        "imdb_person_url": "https://www.imdb.com/name/nm1212794/"
       },
       {
-        "name": "John Beck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0065261/"
+        "name": "Eric Baugin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0061869/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A nerdy jazz musician who is cryogenically frozen in 1973 wakes up 200 years later in a dystopian future.",
+    "description": "On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070707/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sleeper"
+    "imdb_url": "https://www.imdb.com/title/tt0070544/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fantastic_planet"
   },
   {
-    "title": "High Plains Drifter",
+    "title": "The Spirit of the Beehive",
     "year": 1973,
     "director": {
-      "name": "Clint Eastwood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+      "name": "Víctor Erice",
+      "imdb_person_url": "https://www.imdb.com/name/nm0258865/"
     },
-    "production_studio": "The Malpaso Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 5.5,
-    "gross_revenue_usd_millions": 15.7,
+    "production_studio": "Elías Querejeta Producciones Cinematográficas",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
       "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Fernando Fernán Gómez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0273271/"
+      },
+      {
+        "name": "Teresa Gimpera",
+        "imdb_person_url": "https://www.imdb.com/name/nm0319802/"
+      },
+      {
+        "name": "Ana Torrent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0868473/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a small Spanish village in 1940, a young girl becomes obsessed with the movie \"Frankenstein\" and the monster.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070040/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/spirit_of_the_beehive"
+  },
+  {
+    "title": "The Holy Mountain",
+    "year": 1973,
+    "director": {
+      "name": "Alejandro Jodorowsky",
+      "imdb_person_url": "https://www.imdb.com/name/nm0423524/"
+    },
+    "production_studio": "Abkco Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 0.75,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Alejandro Jodorowsky",
+        "imdb_person_url": "https://www.imdb.com/name/nm0423524/"
+      },
+      {
+        "name": "Horacio Salinas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0758294/"
+      },
+      {
+        "name": "Zamira Saunders",
+        "imdb_person_url": "https://www.imdb.com/name/nm0766927/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a corrupt, greed-fueled world, a powerful alchemist leads a Christ-like character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071615/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/holy_mountain"
+  },
+  {
+    "title": "Soylent Green",
+    "year": 1973,
+    "director": {
+      "name": "Richard Fleischer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001217/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 97,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 3.6,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "68%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Crime",
       "Mystery",
-      "Western"
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Charlton Heston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
+      },
+      {
+        "name": "Edward G. Robinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000064/"
+      },
+      {
+        "name": "Leigh Taylor-Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0853400/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the world of 2022, the population has grown to 40 million people in New York City alone. Most housing is dilapidated and overcrowded, and the homeless fill the streets and line the fire escapes and stairways of buildings.",
+    "afi_ranking": 53,
+    "imdb_url": "https://www.imdb.com/title/tt0070723/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/soylent_green"
+  },
+  {
+    "title": "Magnum Force",
+    "year": 1973,
+    "director": {
+      "name": "Ted Post",
+      "imdb_person_url": "https://www.imdb.com/name/nm0692863/"
+    },
+    "production_studio": "The Malpaso Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 44.7,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery"
     ],
     "actors": [
       {
@@ -742,211 +1050,38 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
       },
       {
-        "name": "Verna Bloom",
-        "imdb_person_url": "https://www.imdb.com/name/nm0089244/"
+        "name": "Hal Holbrook",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001358/"
       },
       {
-        "name": "Marianna Hill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0384666/"
+        "name": "Mitchell Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0752739/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A mysterious stranger is hired to protect a corrupt mining town from a trio of vengeful outlaws.",
+    "description": "San Francisco Inspector 'Dirty' Harry Callahan is on the trail of a vigilante cop who is killing criminals who have escaped justice.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0068704/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/high_plains_drifter"
-  },
-  {
-    "title": "Westworld",
-    "year": 1973,
-    "director": {
-      "name": "Michael Crichton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000341/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 1.25,
-    "gross_revenue_usd_millions": 10,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "68%"
-    },
-    "genres": [
-      "Action",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Yul Brynner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000989/"
-      },
-      {
-        "name": "Richard Benjamin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000908/"
-      },
-      {
-        "name": "James Brolin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000984/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070909/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/westworld"
-  },
-  {
-    "title": "The Last Detail",
-    "year": 1973,
-    "director": {
-      "name": "Hal Ashby",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
-    },
-    "production_studio": "Acrobat Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 2.6,
-    "gross_revenue_usd_millions": 10,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
-      },
-      {
-        "name": "Otis Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0949910/"
-      },
-      {
-        "name": "Randy Quaid",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001642/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two Navy men are ordered to escort a young offender to prison, but they decide to show him one last good time along the way.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070290/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_detail"
-  },
-  {
-    "title": "Charley Varrick",
-    "year": 1973,
-    "director": {
-      "name": "Don Siegel",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001737/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 2.25,
-    "gross_revenue_usd_millions": 5.9,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Walter Matthau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000527/"
-      },
-      {
-        "name": "Joe Don Baker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000832/"
-      },
-      {
-        "name": "Felicia Farr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0268021/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A small-time bank robber finds himself in over his head when he robs a bank that the Mafia uses for money laundering.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0069865/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/charley_varrick"
-  },
-  {
-    "title": "Scarecrow",
-    "year": 1973,
-    "director": {
-      "name": "Jerry Schatzberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0770289/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
-      },
-      {
-        "name": "Al Pacino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
-      },
-      {
-        "name": "Dorothy Tristan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0873432/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two drifters, an ex-con and a former sailor, team up to start a car wash business in Pittsburgh.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070643/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1018251-scarecrow"
+    "imdb_url": "https://www.imdb.com/title/tt0070355/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/magnum_force"
   },
   {
     "title": "Pat Garrett and Billy the Kid",
     "year": 1973,
     "director": {
       "name": "Sam Peckinpah",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001603/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000575/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "R",
-    "runtime_minutes": 122,
+    "runtime_minutes": 106,
     "budget_usd_millions": 4.6,
-    "gross_revenue_usd_millions": 8.1,
+    "gross_revenue_usd_millions": 11.0,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "71%"
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
       "Biography",
@@ -970,512 +1105,113 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of the complex relationship between the legendary outlaw and the lawman who was once his friend.",
+    "description": "An aging Pat Garrett is hired as a lawman by a group of wealthy New Mexico cattle barons to bring down his old friend Billy the Kid.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0070518/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pat_garrett_and_billy_the_kid"
   },
   {
-    "title": "The Long Goodbye",
+    "title": "O Lucky Man!",
     "year": 1973,
     "director": {
-      "name": "Robert Altman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000265/"
+      "name": "Lindsay Anderson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0027101/"
     },
-    "production_studio": "Lion's Gate Films",
+    "production_studio": "Memorial Enterprises",
     "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 0.9,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Elliott Gould",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001285/"
-      },
-      {
-        "name": "Nina van Pallandt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0887680/"
-      },
-      {
-        "name": "Sterling Hayden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001332/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A private eye in 1970s Los Angeles is drawn into a web of intrigue when he tries to help a friend who has been accused of murder.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070334/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_long_goodbye"
-  },
-  {
-    "title": "Scenes from a Marriage",
-    "year": 1973,
-    "director": {
-      "name": "Ingmar Bergman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
-    },
-    "production_studio": "Cinematograph AB",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 169,
-    "budget_usd_millions": 0.2,
-    "gross_revenue_usd_millions": 1.9,
-    "ratings": {
-      "imdb": 8.3,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Liv Ullmann",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
-      },
-      {
-        "name": "Erland Josephson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
-      },
-      {
-        "name": "Bibi Andersson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0027962/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A look at the ups and downs of a marriage over the course of a decade.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070644/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scenes_from_a_marriage"
-  },
-  {
-    "title": "Soylent Green",
-    "year": 1973,
-    "director": {
-      "name": "Richard Fleischer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0281697/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 3.6,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "68%"
-    },
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Charlton Heston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000032/"
-      },
-      {
-        "name": "Leigh Taylor-Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001789/"
-      },
-      {
-        "name": "Edward G. Robinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000064/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In a dystopian future, a New York City detective investigates the murder of a wealthy businessman and uncovers a terrifying secret.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070723/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/soylent_green"
-  },
-  {
-    "title": "The Paper Chase",
-    "year": 1973,
-    "director": {
-      "name": "James Bridges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000978/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 3.6,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Timothy Bottoms",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000961/"
-      },
-      {
-        "name": "Lindsay Wagner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001822/"
-      },
-      {
-        "name": "John Houseman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002144/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role"
-    ],
-    "description": "A first-year law student at Harvard University clashes with his brilliant but demanding contracts professor.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070509/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_paper_chase"
-  },
-  {
-    "title": "Magnum Force",
-    "year": 1973,
-    "director": {
-      "name": "Ted Post",
-      "imdb_person_url": "https://www.imdb.com/name/nm0692994/"
-    },
-    "production_studio": "The Malpaso Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 39.8,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Clint Eastwood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
-      },
-      {
-        "name": "Hal Holbrook",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001358/"
-      },
-      {
-        "name": "Mitch Ryan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0752763/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Dirty Harry is on the hunt for a group of vigilante cops who are killing criminals.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070355/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/magnum_force"
-  },
-  {
-    "title": "The Way We Were",
-    "year": 1973,
-    "director": {
-      "name": "Sydney Pollack",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001628/"
-    },
-    "production_studio": "Rastar Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 50,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Barbra Streisand",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "Robert Redford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
-      },
-      {
-        "name": "Bradford Dillman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0226848/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Music, Original Dramatic Score",
-      "Best Music, Original Song"
-    ],
-    "description": "The story of an unlikely couple's love affair, from their college days in the 1930s to the McCarthy era.",
-    "afi_ranking": 6,
-    "imdb_url": "https://www.imdb.com/title/tt0070903/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_way_we_were"
-  },
-  {
-    "title": "A Touch of Class",
-    "year": 1973,
-    "director": {
-      "name": "Melvin Frank",
-      "imdb_person_url": "https://www.imdb.com/name/nm0291470/"
-    },
-    "production_studio": "Brut Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 18,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "70%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "George Segal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001718/"
-      },
-      {
-        "name": "Glenda Jackson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001391/"
-      },
-      {
-        "name": "Hildegard Neil",
-        "imdb_person_url": "https://www.imdb.com/name/nm0624838/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "A married American man and a divorced English woman have an affair in London.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070817/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_touch_of_class"
-  },
-  {
-    "title": "Save the Tiger",
-    "year": 1973,
-    "director": {
-      "name": "John G. Avildsen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000814/"
-    },
-    "production_studio": "Filmways Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 2.1,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "70%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jack Lemmon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
-      },
-      {
-        "name": "Jack Gilford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0318359/"
-      },
-      {
-        "name": "Laurie Heineman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0374149/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role"
-    ],
-    "description": "A successful but disillusioned clothing manufacturer has a moral crisis.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070648/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/save_the_tiger"
-  },
-  {
-    "title": "The Spook Who Sat by the Door",
-    "year": 1973,
-    "director": {
-      "name": "Ivan Dixon",
-      "imdb_person_url": "https://www.imdb.com/name/nm0228882/"
-    },
-    "production_studio": "Bokari",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 102,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Lawrence Cook",
-        "imdb_person_url": "https://www.imdb.com/name/nm0177006/"
-      },
-      {
-        "name": "Janet League",
-        "imdb_person_url": "https://www.imdb.com/name/nm0495034/"
-      },
-      {
-        "name": "Paula Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0446459/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The first black man to be recruited by the CIA uses his training to start a black nationalist guerrilla movement.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070725/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_spook_who_sat_by_the_door"
-  },
-  {
-    "title": "The Holy Mountain",
-    "year": 1973,
-    "director": {
-      "name": "Alejandro Jodorowsky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
-    },
-    "production_studio": "ABKCO Records",
-    "mpaa_rating": "R",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 0.75,
-    "gross_revenue_usd_millions": null,
+    "runtime_minutes": 178,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.4,
     "ratings": {
       "imdb": 7.8,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
-      "Adventure",
+      "Comedy",
       "Drama",
       "Fantasy"
     ],
     "actors": [
       {
-        "name": "Alejandro Jodorowsky",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
+        "name": "Malcolm McDowell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000532/"
       },
       {
-        "name": "Horacio Salinas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0758204/"
+        "name": "Ralph Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001669/"
       },
       {
-        "name": "Zamira Saunders",
-        "imdb_person_url": "https://www.imdb.com/name/nm0766258/"
+        "name": "Rachel Roberts",
+        "imdb_person_url": "https://www.imdb.com/name/nm0731518/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Christ-like figure wanders through a surreal, symbolic landscape on a quest for enlightenment.",
+    "description": "The picaresque adventures of a young coffee salesman in Europe.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0071615/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_holy_mountain"
+    "imdb_url": "https://www.imdb.com/title/tt0070464/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/o_lucky_man"
   },
   {
-    "title": "F for Fake",
+    "title": "Scarecrow",
     "year": 1973,
     "director": {
-      "name": "Orson Welles",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
+      "name": "Jerry Schatzberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0770334/"
     },
-    "production_studio": "Les Films de l'Astrophore",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 89,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.05,
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 4.2,
+    "gross_revenue_usd_millions": 4.0,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
-      "Documentary"
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Orson Welles",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
+        "name": "Gene Hackman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
       },
       {
-        "name": "Oja Kodar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0462030/"
+        "name": "Al Pacino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000199/"
       },
       {
-        "name": "Joseph Cotten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001069/"
+        "name": "Dorothy Tristan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0873173/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A documentary about the nature of truth and illusion, focusing on the lives of art forger Elmyr de Hory and his biographer, Clifford Irving.",
+    "description": "Max is an ex-con who's been saving money to open a car wash in Pittsburgh. Lion is a sailor who's returning to the Midwest to see the child he has never met.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0072962/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/f_for_fake"
+    "imdb_url": "https://www.imdb.com/title/tt0070643/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scarecrow"
   },
   {
     "title": "The Friends of Eddie Coyle",
     "year": 1973,
     "director": {
       "name": "Peter Yates",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001867/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0946808/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 102,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 6.5,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
       "Crime",
@@ -1489,20 +1225,64 @@
       },
       {
         "name": "Peter Boyle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001968/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001967/"
       },
       {
         "name": "Richard Jordan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0430138/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0430151/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An aging gunrunner for the Boston mob is facing a lengthy prison sentence and has to decide whether to snitch on his friends.",
+    "description": "After his last crime operation, Eddie Coyle is looking at a long stretch in prison. He decides to work with the police to expose his organization.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070077/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_friends_of_eddie_coyle"
+    "imdb_url": "https://www.imdb.com/title/tt0070076/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/friends_of_eddie_coyle"
+  },
+  {
+    "title": "Charley Varrick",
+    "year": 1973,
+    "director": {
+      "name": "Don Siegel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0797083/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 111,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 3.8,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Walter Matthau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000527/"
+      },
+      {
+        "name": "Joe Don Baker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000833/"
+      },
+      {
+        "name": "Felicia Farr",
+        "imdb_person_url": "https://www.imdb.com/name/nm0268013/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man, his wife and their friend stage a bloody bank robbery, unaware they are stealing money from the Mob.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0069865/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/charley_varrick"
   },
   {
     "title": "Sisters",
@@ -1515,11 +1295,11 @@
     "mpaa_rating": "R",
     "runtime_minutes": 93,
     "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 1,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "71%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
       "Horror",
@@ -1529,11 +1309,11 @@
     "actors": [
       {
         "name": "Margot Kidder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001423/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000475/"
       },
       {
         "name": "Jennifer Salt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0759240/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0759007/"
       },
       {
         "name": "Charles Durning",
@@ -1543,149 +1323,234 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A journalist witnesses a murder in the apartment across the street and becomes convinced that the killer is the twin sister of a successful model.",
+    "description": "A journalist witnesses a murder in a neighboring apartment, but the police do not believe her.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0070698/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1019054-sisters"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sisters"
   },
   {
-    "title": "Day of the Dolphin",
+    "title": "World on a Wire",
     "year": 1973,
     "director": {
-      "name": "Mike Nichols",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001569/"
+      "name": "Rainer Werner Fassbinder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001202/"
     },
-    "production_studio": "AVCO Embassy Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 8.5,
-    "gross_revenue_usd_millions": 3.1,
-    "ratings": {
-      "imdb": 5.9,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "41%"
-    },
-    "genres": [
-      "Drama",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "George C. Scott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001715/"
-      },
-      {
-        "name": "Trish Van Devere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0888636/"
-      },
-      {
-        "name": "Paul Sorvino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001750/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A scientist who has trained dolphins to communicate with humans finds his work being co-opted by a shadowy government agency.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0069946/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/day_of_the_dolphin"
-  },
-  {
-    "title": "Coffy",
-    "year": 1973,
-    "director": {
-      "name": "Jack Hill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0384260/"
-    },
-    "production_studio": "American International Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 0.5,
-    "gross_revenue_usd_millions": 4,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Pam Grier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000427/"
-      },
-      {
-        "name": "Booker Bradshaw",
-        "imdb_person_url": "https://www.imdb.com/name/nm0103135/"
-      },
-      {
-        "name": "Robert DoQui",
-        "imdb_person_url": "https://www.imdb.com/name/nm0233777/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A nurse takes vigilante justice against the drug dealers who are responsible for her sister's addiction.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0069897/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/coffy"
-  },
-  {
-    "title": "Lady Snowblood",
-    "year": 1973,
-    "director": {
-      "name": "Toshiya Fujita",
-      "imdb_person_url": "https://www.imdb.com/name/nm0297491/"
-    },
-    "production_studio": "Toho",
+    "production_studio": "Westdeutscher Rundfunk (WDR)",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 97,
+    "runtime_minutes": 212,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "88%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
-      "Action",
-      "Drama",
-      "Thriller"
+      "Crime",
+      "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "Meiko Kaji",
-        "imdb_person_url": "https://www.imdb.com/name/nm0435272/"
+        "name": "Klaus Löwitsch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0530662/"
       },
       {
-        "name": "Toshio Kurosawa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0475949/"
+        "name": "Mascha Rabben",
+        "imdb_person_url": "https://www.imdb.com/name/nm0704734/"
       },
       {
-        "name": "Masaaki Daimon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0198904/"
+        "name": "Karl-Heinz Vosgerau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0903726/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young woman is trained from birth to be a deadly assassin in order to avenge the deaths of her family.",
+    "description": "A cybernetics engineer uncovers a massive corporate conspiracy involving a computer system capable of simulating a new reality.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0158714/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lady_snowblood"
+    "imdb_url": "https://www.imdb.com/title/tt0070904/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/world_on_a_wire"
+  },
+  {
+    "title": "Touki Bouki",
+    "year": 1973,
+    "director": {
+      "name": "Djibril Diop Mambéty",
+      "imdb_person_url": "https://www.imdb.com/name/nm0227975/"
+    },
+    "production_studio": "Cinegrit",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.03,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Magaye Niang",
+        "imdb_person_url": "https://www.imdb.com/name/nm0629102/"
+      },
+      {
+        "name": "Mareme Niang",
+        "imdb_person_url": "https://www.imdb.com/name/nm0629104/"
+      },
+      {
+        "name": "Aminata Fall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0266219/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A cowherd with a skull-mounted motorcycle and a university student meet in Dakar and plan to escape to Paris.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070816/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/touki_bouki"
+  },
+  {
+    "title": "Save the Tiger",
+    "year": 1973,
+    "director": {
+      "name": "John G. Avildsen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000814/"
+    },
+    "production_studio": "Filmways Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 0.4,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "58%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jack Lemmon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
+      },
+      {
+        "name": "Jack Gilford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0318547/"
+      },
+      {
+        "name": "Laurie Heineman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0374340/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor in a Leading Role"
+    ],
+    "description": "Harry Stoner is a businessman who is trying to keep his company afloat, but he's struggling with a mid-life crisis and a possible arson conviction.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070633/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/save_the_tiger"
+  },
+  {
+    "title": "A Touch of Class",
+    "year": 1973,
+    "director": {
+      "name": "Melvin Frank",
+      "imdb_person_url": "https://www.imdb.com/name/nm0290995/"
+    },
+    "production_studio": "Brut Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 106,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 18.6,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "George Segal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001719/"
+      },
+      {
+        "name": "Glenda Jackson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
+      },
+      {
+        "name": "Paul Sorvino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002367/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Leading Role"
+    ],
+    "description": "An American insurance man and a British fashion designer start an affair in London, but their attempt at a romantic getaway in Spain is beset by disasters.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070819/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/touch_of_class"
+  },
+  {
+    "title": "The Three Musketeers",
+    "year": 1973,
+    "director": {
+      "name": "Richard Lester",
+      "imdb_person_url": "https://www.imdb.com/name/nm0504515/"
+    },
+    "production_studio": "Film Trust S.A.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 10.0,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      {
+        "name": "Oliver Reed",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001657/"
+      },
+      {
+        "name": "Raquel Welch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000079/"
+      },
+      {
+        "name": "Richard Chamberlain",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000328/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young swordsman comes to Paris and faces villains, romance, adventure and intrigue with three Musketeer friends.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0072281/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021320-three_musketeers"
   },
   {
     "title": "Jesus Christ Superstar",
     "year": 1973,
     "director": {
       "name": "Norman Jewison",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001400/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0422476/"
     },
     "production_studio": "Universal Pictures",
     "mpaa_rating": "G",
@@ -1693,9 +1558,9 @@
     "budget_usd_millions": 3.5,
     "gross_revenue_usd_millions": 24.5,
     "ratings": {
-      "imdb": 7.2,
+      "imdb": 7.4,
       "rotten_tomatoes_critic": "52%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Drama",
@@ -1705,110 +1570,589 @@
     "actors": [
       {
         "name": "Ted Neeley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005260/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0624189/"
       },
       {
         "name": "Carl Anderson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0027953/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0026488/"
       },
       {
         "name": "Yvonne Elliman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0254117/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0254077/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A rock opera that tells the story of the final week in the life of Jesus Christ.",
+    "description": "Film adaptation of Andrew Lloyd Webber and Tim Rice's rock opera about the final weeks in the life of Jesus Christ.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0070239/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jesus_christ_superstar"
   },
   {
-    "title": "Godspell",
+    "title": "The Mother and the Whore",
     "year": 1973,
     "director": {
-      "name": "David Greene",
-      "imdb_person_url": "https://www.imdb.com/name/nm0338006/"
+      "name": "Jean Eustache",
+      "imdb_person_url": "https://www.imdb.com/name/nm0262412/"
     },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 1.2,
+    "production_studio": "Elite Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 217,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
-      "Comedy",
       "Drama",
-      "Family"
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Victor Garber",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001255/"
+        "name": "Bernadette Lafont",
+        "imdb_person_url": "https://www.imdb.com/name/nm0480859/"
       },
       {
-        "name": "Katie Hanley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0360098/"
+        "name": "Jean-Pierre Léaud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0529596/"
       },
       {
-        "name": "David Haskell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0368307/"
+        "name": "Françoise Lebrun",
+        "imdb_person_url": "https://www.imdb.com/name/nm0495939/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A musical based on the Gospel of St. Matthew, set in modern-day New York City.",
+    "description": "A young man lives in a small apartment with the woman who supports him and has an affair with a promiscuous nurse.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070121/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/godspell"
+    "imdb_url": "https://www.imdb.com/title/tt0070359/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_mother_and_the_whore"
   },
   {
-    "title": "The Mack",
+    "title": "Turkish Delight",
     "year": 1973,
     "director": {
-      "name": "Michael Campus",
-      "imdb_person_url": "https://www.imdb.com/name/nm0133226/"
+      "name": "Paul Verhoeven",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000682/"
     },
-    "production_studio": "Harvey Bernhard Enterprises",
-    "mpaa_rating": "R",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 0.2,
-    "gross_revenue_usd_millions": 3,
+    "production_studio": "Rob Houwer Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 0.38,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.0,
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "82%"
     },
     "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Monique van de Ven",
+        "imdb_person_url": "https://www.imdb.com/name/nm0890670/"
+      },
+      {
+        "name": "Rutger Hauer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000442/"
+      },
+      {
+        "name": "Tonny Huurdeman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404655/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young sculptor has an erotic and turbulent romance with a young woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0069405/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/turkish_delight"
+  },
+  {
+    "title": "Belladonna of Sadness",
+    "year": 1973,
+    "director": {
+      "name": "Eiichi Yamamoto",
+      "imdb_person_url": "https://www.imdb.com/name/nm0945402/"
+    },
+    "production_studio": "Mushi Production",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 86,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Aiko Nagayama",
+        "imdb_person_url": "https://www.imdb.com/name/nm0619259/"
+      },
+      {
+        "name": "Tatsuya Nakadai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0620021/"
+      },
+      {
+        "name": "Katsuyuki Itô",
+        "imdb_person_url": "https://www.imdb.com/name/nm0411747/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After being banished from her village, a peasant woman makes a pact with the devil to gain magical abilities.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0071203/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/belladonna_of_sadness"
+  },
+  {
+    "title": "Walking Tall",
+    "year": 1973,
+    "director": {
+      "name": "Phil Karlson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0439656/"
+    },
+    "production_studio": "Bing Crosby Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 23.0,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Action",
+      "Biography",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Joe Don Baker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000833/"
+      },
+      {
+        "name": "Elizabeth Hartman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0366938/"
+      },
+      {
+        "name": "Leif Garrett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001259/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Based on the life of Tennessee sheriff Buford Pusser, who almost single-handedly cleaned up his small town of crime and corruption.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070900/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1023012-walking_tall"
+  },
+  {
+    "title": "White Lightning",
+    "year": 1973,
+    "director": {
+      "name": "Joseph Sargent",
+      "imdb_person_url": "https://www.imdb.com/name/nm0765123/"
+    },
+    "production_studio": "Levy-Gardner-Laven",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 101,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "59%"
+    },
+    "genres": [
+      "Action",
       "Crime",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Max Julien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0432241/"
+        "name": "Burt Reynolds",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
       },
       {
-        "name": "Don Gordon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0330453/"
+        "name": "Jennifer Billingsley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0082531/"
       },
       {
-        "name": "Richard Pryor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001640/"
+        "name": "Ned Beatty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000885/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An ex-convict returns to his Oakland neighborhood and becomes a powerful pimp.",
+    "description": "Gator McKlusky is a moonshine runner who agrees to go undercover for the feds to help them catch the corrupt sheriff who killed his brother.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0070350/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_mack"
+    "imdb_url": "https://www.imdb.com/title/tt0070915/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white_lightning"
+  },
+  {
+    "title": "Battle for the Planet of the Apes",
+    "year": 1973,
+    "director": {
+      "name": "J. Lee Thompson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0860269/"
+    },
+    "production_studio": "APJAC Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 8.8,
+    "ratings": {
+      "imdb": 5.4,
+      "rotten_tomatoes_critic": "36%",
+      "rotten_tomatoes_popcorn": "30%"
+    },
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Roddy McDowall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001522/"
+      },
+      {
+        "name": "Claude Akins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0015383/"
+      },
+      {
+        "name": "Natalie Trundy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0874328/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Ten years after a worldwide series of nuclear explosions, Caesar tries to keep the peace between the humans and the apes.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0069768/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/battle_for_the_planet_of_the_apes"
+  },
+  {
+    "title": "Theatre of Blood",
+    "year": 1973,
+    "director": {
+      "name": "Douglas Hickox",
+      "imdb_person_url": "https://www.imdb.com/name/nm0382798/"
+    },
+    "production_studio": "Harbor Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Vincent Price",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      },
+      {
+        "name": "Diana Rigg",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001671/"
+      },
+      {
+        "name": "Ian Hendry",
+        "imdb_person_url": "https://www.imdb.com/name/nm0376890/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Shakespearean actor takes poetic revenge on the critics who denied him recognition.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070791/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/theater_of_blood"
+  },
+  {
+    "title": "The Crazies",
+    "year": 1973,
+    "director": {
+      "name": "George A. Romero",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001681/"
+    },
+    "production_studio": "Pittsburgh Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 0.275,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "34%"
+    },
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Lane Carroll",
+        "imdb_person_url": "https://www.imdb.com/name/nm0140899/"
+      },
+      {
+        "name": "Will MacMillan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0533031/"
+      },
+      {
+        "name": "Harold Wayne Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0428152/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The military attempts to contain a manmade combat virus that causes death and permanent insanity in those infected, as it overtakes a small Pennsylvania town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0069895/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crazies"
+  },
+  {
+    "title": "Electra Glide in Blue",
+    "year": 1973,
+    "director": {
+      "name": "James William Guercio",
+      "imdb_person_url": "https://www.imdb.com/name/nm0345774/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 114,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "64%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robert Blake",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000951/"
+      },
+      {
+        "name": "Billy Green Bush",
+        "imdb_person_url": "https://www.imdb.com/name/nm0124091/"
+      },
+      {
+        "name": "Mitchell Ryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0752739/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A short Arizona motorcycle cop gets his chance to work in Homicide, only to find that his dream job isn't what he expected.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070022/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/electra_glide_in_blue"
+  },
+  {
+    "title": "Bang the Drum Slowly",
+    "year": 1973,
+    "director": {
+      "name": "John D. Hancock",
+      "imdb_person_url": "https://www.imdb.com/name/nm0359377/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
+      },
+      {
+        "name": "Michael Moriarty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0605333/"
+      },
+      {
+        "name": "Vincent Gardenia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0306631/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A New York baseball club's star pitcher discovers that his catcher and best friend is terminally ill.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0069765/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bang_the_drum_slowly"
+  },
+  {
+    "title": "Emperor of the North",
+    "year": 1973,
+    "director": {
+      "name": "Robert Aldrich",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
+    },
+    "production_studio": "Inter-Hemisphere",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 118,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Lee Marvin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
+      },
+      {
+        "name": "Ernest Borgnine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000308/"
+      },
+      {
+        "name": "Keith Carradine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0139989/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During the Great Depression, a hobo battles a sadistic railway conductor who has a reputation for never letting anyone ride his train for free.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070030/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/emperor_of_the_north_pole"
+  },
+  {
+    "title": "The Last Detail",
+    "year": 1973,
+    "director": {
+      "name": "Hal Ashby",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000797/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 2.3,
+    "gross_revenue_usd_millions": 5.0,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jack Nicholson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
+      },
+      {
+        "name": "Randy Quaid",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001643/"
+      },
+      {
+        "name": "Otis Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0949938/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two Navy men are ordered to bring a young offender to prison, but decide to show him one last good time before he gets locked up.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070290/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_detail"
+  },
+  {
+    "title": "The Seven-Ups",
+    "year": 1973,
+    "director": {
+      "name": "Philip D'Antoni",
+      "imdb_person_url": "https://www.imdb.com/name/nm0199750/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Roy Scheider",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001702/"
+      },
+      {
+        "name": "Tony Lo Bianco",
+        "imdb_person_url": "https://www.imdb.com/name/nm0516266/"
+      },
+      {
+        "name": "Victor Arnold",
+        "imdb_person_url": "https://www.imdb.com/name/nm0036652/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of unconventional police officers, known as \"The Seven-Ups\" for the 7 years prison sentences their arrests usually result in, get into trouble when they go too far.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0070672/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seven_ups"
   }
 ]
