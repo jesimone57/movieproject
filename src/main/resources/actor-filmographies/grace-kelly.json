@@ -10,37 +10,24 @@
     "number_of_feature_films_made": 11,
     "actor_awards": {
       "oscars_won": 1,
-      "oscars_nominated": 2
+      "oscars_nominated": 2,
+      "golden_globes_won": 3
     }
   },
   "filmography": [
     {
-      "title": "The Country Girl",
-      "year": 1954,
-      "role": "Georgie Elgin",
-      "role_description": "The long-suffering, dowdy wife of an alcoholic has-been actor who struggles to manage his career and his insecurities.",
-      "plot": "A director hires an alcoholic actor for a new musical, but the actor's wife becomes the target of the director's suspicion and eventual affection.",
-      "awards": "Oscar: Win – Best Actress; Golden Globe: Win – Best Actress (Drama)",
+      "title": "Fourteen Hours",
+      "year": 1951,
+      "role": "Louise Ann Fuller",
+      "role_description": "A bystander in a law office who watches the drama of a potential suicide unfold; Kelly's film debut.",
+      "plot": "A police officer tries to talk a desperate man down from the ledge of a high-rise building while onlookers gather below.",
+      "awards": "Film Debut",
       "ratings": {
-        "imdb": 7.3,
-        "rotten_tomatoes_critic": 79,
-        "rotten_tomatoes_popcorn": 68
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 63,
+        "rotten_tomatoes_popcorn": 58
       },
-      "imdb_url": "https://www.imdb.com/title/tt0046874/"
-    },
-    {
-      "title": "Mogambo",
-      "year": 1953,
-      "role": "Linda Nordley",
-      "role_description": "A proper, married Englishwoman on safari who finds herself in a passionate love triangle with a rugged big-game hunter.",
-      "plot": "On a Kenyan safari, a white hunter finds himself torn between a sultry showgirl and a prim, married anthropologist.",
-      "awards": "Oscar: Nomination – Best Supporting Actress; Golden Globe: Win – Best Supporting Actress",
-      "ratings": {
-        "imdb": 6.7,
-        "rotten_tomatoes_critic": 77,
-        "rotten_tomatoes_popcorn": 55
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0046087/"
+      "imdb_url": "https://www.imdb.com/title/tt0043555/"
     },
     {
       "title": "High Noon",
@@ -57,12 +44,26 @@
       "imdb_url": "https://www.imdb.com/title/tt0044706/"
     },
     {
+      "title": "Mogambo",
+      "year": 1953,
+      "role": "Linda Nordley",
+      "role_description": "A proper, married Englishwoman on safari who finds herself in a passionate love triangle with a rugged big-game hunter.",
+      "plot": "On a Kenyan safari, a white hunter finds himself torn between a sultry showgirl and a prim, married anthropologist.",
+      "awards": "Oscar: Nomination – Best Supporting Actress; Golden Globe: Win – Best Supporting Actress",
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": 77,
+        "rotten_tomatoes_popcorn": 55
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0046087/"
+    },
+    {
       "title": "Dial M for Murder",
       "year": 1954,
       "role": "Margot Wendice",
       "role_description": "A wealthy London socialite whose husband discovers her affair and blackmails an old acquaintance into murdering her.",
       "plot": "A former tennis pro arranges the murder of his adulterous wife, but when his plan goes wrong, he improvises a way to get her convicted of the crime instead.",
-      "awards": "Notable Classic",
+      "awards": "NYFCC Award: Best Actress (runner-up)",
       "ratings": {
         "imdb": 8.2,
         "rotten_tomatoes_critic": 90,
@@ -76,7 +77,7 @@
       "role": "Lisa Carol Fremont",
       "role_description": "A sophisticated, high-fashion socialite who proves her mettle by helping her wheelchair-bound boyfriend investigate a potential murder across the courtyard.",
       "plot": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window and becomes convinced one of them has committed murder.",
-      "awards": "Notable Classic",
+      "awards": "NYFCC Award: Best Actress (shared w/ Country Girl & Dial M)",
       "ratings": {
         "imdb": 8.5,
         "rotten_tomatoes_critic": 98,
@@ -85,32 +86,32 @@
       "imdb_url": "https://www.imdb.com/title/tt0047396/"
     },
     {
-      "title": "To Catch a Thief",
-      "year": 1955,
-      "role": "Frances Stevens",
-      "role_description": "A wealthy, elegant American heiress vacationing on the French Riviera who sets out to seduce a retired cat burglar.",
-      "plot": "A retired jewel thief sets out to prove his innocence after being suspected of returning to his former occupation.",
-      "awards": "Notable Classic",
+      "title": "The Country Girl",
+      "year": 1954,
+      "role": "Georgie Elgin",
+      "role_description": "The long-suffering, dowdy wife of an alcoholic has-been actor who struggles to manage his career and his insecurities.",
+      "plot": "A director hires an alcoholic actor for a new musical, but the actor's wife becomes the target of the director's suspicion and eventual affection.",
+      "awards": "Oscar: Win – Best Actress; Golden Globe: Win – Best Actress (Drama)",
       "ratings": {
-        "imdb": 7.4,
-        "rotten_tomatoes_critic": 92,
-        "rotten_tomatoes_popcorn": 86
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 79,
+        "rotten_tomatoes_popcorn": 68
       },
-      "imdb_url": "https://www.imdb.com/title/tt0048728/"
+      "imdb_url": "https://www.imdb.com/title/tt0046874/"
     },
     {
-      "title": "High Society",
-      "year": 1956,
-      "role": "Tracy Samantha Lord",
-      "role_description": "A headstrong, wealthy Newport socialite whose upcoming wedding is complicated by the arrival of her ex-husband and a reporter.",
-      "plot": "A spoiled heiress, planning to marry a stuffy man, is surprised by the arrival of her ex-husband and a tabloid reporter.",
-      "awards": "Notable Musical",
+      "title": "Green Fire",
+      "year": 1954,
+      "role": "Catherine Knowland",
+      "role_description": "A coffee plantation owner in Colombia who clashes with a driven emerald miner.",
+      "plot": "An adventurer discovers an emerald mine in Colombia and conflicts with the local plantation owner while facing danger from bandits.",
+      "awards": "Commercial Success",
       "ratings": {
-        "imdb": 7.0,
-        "rotten_tomatoes_critic": 87,
-        "rotten_tomatoes_popcorn": 79
+        "imdb": 6.2,
+        "rotten_tomatoes_critic": 20,
+        "rotten_tomatoes_popcorn": 37
       },
-      "imdb_url": "https://www.imdb.com/title/tt0049314/"
+      "imdb_url": "https://www.imdb.com/title/tt0047050/"
     },
     {
       "title": "The Bridges at Toko-Ri",
@@ -118,13 +119,27 @@
       "role": "Nancy Brubaker",
       "role_description": "The supportive but worried wife of a naval reservist pilot who must come to terms with the dangers her husband faces in the Korean War.",
       "plot": "A Navy pilot redeploys to fight in the Korean War and must bomb a set of highly defended bridges.",
-      "awards": "Notable War Film",
+      "awards": "Notable War Drama",
       "ratings": {
         "imdb": 6.8,
         "rotten_tomatoes_critic": 80,
         "rotten_tomatoes_popcorn": 62
       },
       "imdb_url": "https://www.imdb.com/title/tt0046806/"
+    },
+    {
+      "title": "To Catch a Thief",
+      "year": 1955,
+      "role": "Frances Stevens",
+      "role_description": "A wealthy, elegant American heiress vacationing on the French Riviera who sets out to seduce a retired cat burglar.",
+      "plot": "A retired jewel thief sets out to prove his innocence after being suspected of returning to his former occupation.",
+      "awards": "Notable Hitchcock Classic",
+      "ratings": {
+        "imdb": 7.4,
+        "rotten_tomatoes_critic": 92,
+        "rotten_tomatoes_popcorn": 86
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0048728/"
     },
     {
       "title": "The Swan",
@@ -141,18 +156,18 @@
       "imdb_url": "https://www.imdb.com/title/tt0049812/"
     },
     {
-      "title": "Fourteen Hours",
-      "year": 1951,
-      "role": "Louise Ann Fuller",
-      "role_description": "A young woman in a lawyer's office who becomes an onlooker to the unfolding drama of a man threatening suicide.",
-      "plot": "A police officer tries to talk a desperate man down from the ledge of a high-rise building.",
-      "awards": "Film Debut",
+      "title": "High Society",
+      "year": 1956,
+      "role": "Tracy Samantha Lord",
+      "role_description": "A headstrong, wealthy Newport socialite whose upcoming wedding is complicated by the arrival of her ex-husband and a reporter.",
+      "plot": "A spoiled heiress, planning to marry a stuffy man, is surprised by the arrival of her ex-husband and a tabloid reporter.",
+      "awards": "Musical Remake of 'The Philadelphia Story'",
       "ratings": {
-        "imdb": 7.1,
-        "rotten_tomatoes_critic": 63,
-        "rotten_tomatoes_popcorn": 58
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 87,
+        "rotten_tomatoes_popcorn": 79
       },
-      "imdb_url": "https://www.imdb.com/title/tt0043555/"
+      "imdb_url": "https://www.imdb.com/title/tt0049314/"
     }
   ]
 }
