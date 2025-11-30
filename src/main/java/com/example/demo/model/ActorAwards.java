@@ -14,4 +14,8 @@ public class ActorAwards {
     private int oscarsNominated;
     @JsonProperty("oscars_won")
     private int oscarsWon;
+    @JsonProperty("golden_globes_nominated")
+    private int goldenGlobessNominated;
+    @JsonProperty("golden_globes_won")
+    private int goldenGlobessWon;
 }

@@ -7,18 +7,103 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Audrey_Hepburn_1956.jpg",
     "year_of_first_film": 1948,
     "year_of_last_film": 1989,
-    "number_of_feature_films_made": 28,
+    "number_of_feature_films_made": 27,
     "actor_awards": {
       "oscars_won": 1,
+      "oscars_honorary": 1,
       "oscars_nominated": 5
     }
   },
   "filmography": [
     {
+      "title": "One Wild Oat",
+      "year": 1951,
+      "role": "Hotel Receptionist",
+      "role_description": "A very early minor role as a receptionist in this British comedy, marking one of her first screen appearances.",
+      "plot": "A barrister attempts to discourage his daughter's infatuation with a philanderer, leading to a series of comedic misunderstandings.",
+      "awards": "Early Role",
+      "ratings": {
+        "imdb": 6.0,
+        "rotten_tomatoes_critic": 40,
+        "rotten_tomatoes_popcorn": 35
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0043881/"
+    },
+    {
+      "title": "Laughter in Paradise",
+      "year": 1951,
+      "role": "Cigarette Girl",
+      "role_description": "A brief but charming appearance as a cigarette girl that showcased her natural screen presence before she became a star.",
+      "plot": "A practical joker leaves a fortune to his four relatives, provided they perform tasks completely against their nature.",
+      "awards": "Early Cameo",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 73
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0043728/"
+    },
+    {
+      "title": "The Lavender Hill Mob",
+      "year": 1951,
+      "role": "Chiquita",
+      "role_description": "A small but memorable cameo as a woman who briefly interacts with the protagonists in the opening scene of this classic Ealing comedy.",
+      "plot": "A meek bank clerk who oversees the shipment of bullion joins with an eccentric neighbor to steal gold bars and smuggle them out of the country as miniature Eiffel Towers.",
+      "awards": "Notable Classic",
+      "ratings": {
+        "imdb": 7.9,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 90
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0043729/"
+    },
+    {
+      "title": "Young Wives' Tale",
+      "year": 1951,
+      "role": "Eve Lester",
+      "role_description": "A shy lodger who becomes entangled in the domestic complications of two couples sharing a house in post-war London.",
+      "plot": "In post-war Britain, a housing shortage forces two couples to share a house, leading to comic misunderstandings with a new lodger.",
+      "awards": "Early Supporting Role",
+      "ratings": {
+        "imdb": 6.0,
+        "rotten_tomatoes_critic": 45,
+        "rotten_tomatoes_popcorn": 40
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0044225/"
+    },
+    {
+      "title": "Secret People",
+      "year": 1952,
+      "role": "Nora Brent",
+      "role_description": "A young dancer who is drawn into a plot to assassinate a dictator, showcasing her ballet training on screen.",
+      "plot": "A woman and her younger sister flee to London to escape a European dictator, only to be drawn into a plot against him years later.",
+      "awards": "Notable Dramatic Role",
+      "ratings": {
+        "imdb": 6.2,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 38
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0045131/"
+    },
+    {
+      "title": "Monte Carlo Baby",
+      "year": 1951,
+      "role": "Linda Farrel",
+      "role_description": "A young actress who gets involved in a mix-up over a missing baby; this film led to her discovery by Colette for 'Gigi'.",
+      "plot": "Confusion ensues when a baby is mistaken for the child of a wealthy movie star.",
+      "awards": "Role that led to Broadway",
+      "ratings": {
+        "imdb": 5.2,
+        "rotten_tomatoes_critic": 30,
+        "rotten_tomatoes_popcorn": 25
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0044919/"
+    },
+    {
       "title": "Roman Holiday",
       "year": 1953,
       "role": "Princess Ann",
-      "role_description": "A bored and sheltered European princess who escapes her guardians to explore Rome incognito, falling in love with an American reporter.",
+      "role_description": "A bored European princess who escapes her guardians to explore Rome incognito, falling in love with an American reporter.",
       "plot": "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.",
       "awards": "Oscar: Win – Best Actress",
       "ratings": {
@@ -32,7 +117,7 @@
       "title": "Sabrina",
       "year": 1954,
       "role": "Sabrina Fairchild",
-      "role_description": "The shy daughter of a wealthy family's chauffeur who returns from Paris as a sophisticated woman, capturing the attention of two very different brothers.",
+      "role_description": "The chauffeur's daughter who returns from Paris as a sophisticated woman, capturing the attention of two wealthy brothers.",
       "plot": "A playboy becomes interested in the daughter of his family's chauffeur, but it's his more serious brother who would be the better man for her.",
       "awards": "Oscar: Nomination – Best Actress",
       "ratings": {
@@ -62,7 +147,7 @@
       "role": "Jo Stockton",
       "role_description": "A shy bookstore clerk and amateur philosopher who is discovered by a fashion photographer and swept away to Paris to become a model.",
       "plot": "An impromptu fashion shoot at a book store brings about a new fashion standard and a new muse.",
-      "awards": "Notable Musical",
+      "awards": "National Board of Review: Top Ten Films",
       "ratings": {
         "imdb": 7.0,
         "rotten_tomatoes_critic": 88,
@@ -85,10 +170,24 @@
       "imdb_url": "https://www.imdb.com/title/tt0050658/"
     },
     {
+      "title": "Green Mansions",
+      "year": 1959,
+      "role": "Rima",
+      "role_description": "A mysterious girl living in the Venezuelan jungle who communicates with birds and falls in love with a fugitive explorer.",
+      "plot": "A young man seeking gold in the Venezuelan jungle meets a girl who speaks to birds and knows the secrets of the forest.",
+      "awards": "Directed by Mel Ferrer (then-husband)",
+      "ratings": {
+        "imdb": 5.9,
+        "rotten_tomatoes_critic": 30,
+        "rotten_tomatoes_popcorn": 38
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0052864/"
+    },
+    {
       "title": "The Nun's Story",
       "year": 1959,
       "role": "Sister Luke (Gabrielle van der Mal)",
-      "role_description": "A headstrong Belgian woman who enters a convent to serve in the Congo, but struggles against the vow of obedience and her own conscience during WWII.",
+      "role_description": "A headstrong Belgian woman who enters a convent to serve in the Congo, but struggles against the vow of obedience and her own conscience.",
       "plot": "After entering a convent, an independent-minded Belgian woman struggles with her vows, particularly the vow of obedience.",
       "awards": "Oscar: Nomination – Best Actress",
       "ratings": {
@@ -97,6 +196,20 @@
         "rotten_tomatoes_popcorn": 83
       },
       "imdb_url": "https://www.imdb.com/title/tt0053127/"
+    },
+    {
+      "title": "The Unforgiven",
+      "year": 1960,
+      "role": "Rachel Zachary",
+      "role_description": "A young woman raised by a frontier family who becomes the center of a conflict when it is revealed she is of Native American birth.",
+      "plot": "The neighbors of a frontier family turn on them when it is suspected that their adopted daughter was stolen from the local Kiowa tribe.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 54
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0054410/"
     },
     {
       "title": "Breakfast at Tiffany's",
@@ -139,6 +252,20 @@
         "rotten_tomatoes_popcorn": 94
       },
       "imdb_url": "https://www.imdb.com/title/tt0056923/"
+    },
+    {
+      "title": "Paris When It Sizzles",
+      "year": 1964,
+      "role": "Gabrielle Simpson",
+      "role_description": "A secretary hired to help a hungover screenwriter finish a script in two days, acting out the scenes as they write them.",
+      "plot": "A screenwriter with writer's block hires a secretary to help him finish his script, and they act out the possible scenarios.",
+      "awards": "Notable Comedy",
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": 40,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0058453/"
     },
     {
       "title": "My Fair Lady",
@@ -195,6 +322,62 @@
         "rotten_tomatoes_popcorn": 88
       },
       "imdb_url": "https://www.imdb.com/title/tt0062467/"
+    },
+    {
+      "title": "Robin and Marian",
+      "year": 1976,
+      "role": "Maid Marian",
+      "role_description": "An older, wiser Marian who has become an abbess, reuniting with an aging Robin Hood when he returns from the Crusades.",
+      "plot": "Robin Hood returns from the Crusades to woo Maid Marian and settle the score with the Sheriff of Nottingham.",
+      "awards": "Return to Screen After Hiatus",
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 74,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0075147/"
+    },
+    {
+      "title": "Bloodline",
+      "year": 1979,
+      "role": "Elizabeth Roffe",
+      "role_description": "The heiress to a pharmaceutical empire who becomes the target of a murder plot after her father's suspicious death.",
+      "plot": "A woman inherits her father's pharmaceutical company and investigates his death, suspecting one of the board members.",
+      "awards": "Notable Late Career Film",
+      "ratings": {
+        "imdb": 4.6,
+        "rotten_tomatoes_critic": 20,
+        "rotten_tomatoes_popcorn": 21
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0078879/"
+    },
+    {
+      "title": "They All Laughed",
+      "year": 1981,
+      "role": "Angela Niotes",
+      "role_description": "An elegant woman who becomes the object of a private detective's affection in this ensemble romantic comedy.",
+      "plot": "Three private detectives follow three women for their jealous husbands, but end up falling in love with the women they are tailing.",
+      "awards": "Last Leading Role",
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": 44,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0083189/"
+    },
+    {
+      "title": "Always",
+      "year": 1989,
+      "role": "Hap",
+      "role_description": "A graceful angel who guides a deceased pilot, helping him transition to the afterlife and let go of his past.",
+      "plot": "The spirit of a recently deceased expert pilot mentors a newer pilot while watching him fall in love with the girlfriend he left behind.",
+      "awards": "Final Film Appearance",
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 64,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0096794/"
     }
   ]
 }

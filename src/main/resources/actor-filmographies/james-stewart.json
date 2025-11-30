@@ -10,6 +10,7 @@
     "number_of_feature_films_made": 80,
     "actor_awards": {
       "oscars_won": 2,
+      "oscars_honorary": 1,
       "oscars_nominated": 5
     }
   },
@@ -18,7 +19,7 @@
       "title": "You Can't Take It With You",
       "year": 1938,
       "role": "Tony Kirby",
-      "role_description": "The son of a wealthy, uptight banker who falls in love with a woman from a delightfully eccentric and free-spirited family, forcing a clash of values.",
+      "role_description": "The son of a wealthy banker who falls in love with a woman from an eccentric, free-spirited family, leading to a clash of class and values.",
       "plot": "A man from a family of rich snobs becomes engaged to a woman from a good-natured but decidedly eccentric family.",
       "awards": "Oscar: Win – Best Picture",
       "ratings": {
@@ -32,7 +33,7 @@
       "title": "Mr. Smith Goes to Washington",
       "year": 1939,
       "role": "Jefferson Smith",
-      "role_description": "A naive and idealistic leader of the Boy Rangers who is appointed to the U.S. Senate and single-handedly fights against deep-seated political corruption.",
+      "role_description": "A naive and idealistic youth leader appointed to the U.S. Senate who single-handedly fights against deep-seated political corruption using a filibuster.",
       "plot": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
       "awards": "Oscar: Nomination – Best Actor",
       "ratings": {
@@ -43,14 +44,28 @@
       "imdb_url": "https://www.imdb.com/title/tt0031679/"
     },
     {
+      "title": "Destry Rides Again",
+      "year": 1939,
+      "role": "Tom Destry Jr.",
+      "role_description": "A mild-mannered deputy sheriff who refuses to carry a gun, preferring to use his wits to tame a lawless frontier town.",
+      "plot": "A soft-spoken deputy sheriff who doesn't like guns is hired to tame a wild Western town, where he meets a boisterous saloon singer.",
+      "awards": "National Film Registry (Inducted 1996)",
+      "ratings": {
+        "imdb": 7.6,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 83
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0031225/"
+    },
+    {
       "title": "The Shop Around the Corner",
       "year": 1940,
       "role": "Alfred Kralik",
-      "role_description": "A hardworking gift shop employee in Budapest who constantly bickers with a female co-worker, unaware that she is the anonymous pen pal he has fallen for.",
+      "role_description": "A hardworking gift shop employee in Budapest who constantly bickers with a female co-worker, unaware she is the anonymous pen pal he loves.",
       "plot": "Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the post as each other's anonymous pen pal.",
       "awards": "National Film Registry (Inducted 1999)",
       "ratings": {
-        "imdb": 8,
+        "imdb": 8.0,
         "rotten_tomatoes_critic": 100,
         "rotten_tomatoes_popcorn": 91
       },
@@ -60,7 +75,7 @@
       "title": "The Philadelphia Story",
       "year": 1940,
       "role": "Macaulay \"Mike\" Connor",
-      "role_description": "A cynical tabloid reporter who covers the wedding of a wealthy socialite but unexpectedly falls for her, challenging his own prejudices about the upper class.",
+      "role_description": "A cynical tabloid reporter covering a high-society wedding who unexpectedly falls for the bride, challenging his own prejudices about the rich.",
       "plot": "When a rich woman's ex-husband and a reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
       "awards": "Oscar: Win – Best Actor",
       "ratings": {
@@ -69,6 +84,20 @@
         "rotten_tomatoes_popcorn": 93
       },
       "imdb_url": "https://www.imdb.com/title/tt0032904/"
+    },
+    {
+      "title": "The Mortal Storm",
+      "year": 1940,
+      "role": "Martin Breitner",
+      "role_description": "A German farmer and pacifist who refuses to join the Nazi party, putting him at odds with his friends and society as fascism rises.",
+      "plot": "A family in a small German university town is torn apart by the rise of the Nazi party when the father and daughter refuse to conform.",
+      "awards": "Notable Anti-Nazi Film",
+      "ratings": {
+        "imdb": 7.6,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 83
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0032811/"
     },
     {
       "title": "It's a Wonderful Life",
@@ -85,12 +114,26 @@
       "imdb_url": "https://www.imdb.com/title/tt0038650/"
     },
     {
+      "title": "Call Northside 777",
+      "year": 1948,
+      "role": "P.J. McNeal",
+      "role_description": "A cynical Chicago reporter based on a true story who investigates a decade-old murder case, eventually uncovering the innocence of a convicted man.",
+      "plot": "A reporter proves a washerwoman's son innocent of the murder of a policeman 11 years after he was imprisoned.",
+      "awards": "Writers Guild of America: Win – Best Written American Drama",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 81,
+        "rotten_tomatoes_popcorn": 81
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0040202/"
+    },
+    {
       "title": "Rope",
       "year": 1948,
       "role": "Rupert Cadell",
-      "role_description": "A shrewd and suspicious prep school housemaster who attends a dinner party hosted by two former students and slowly realizes they have committed a murder.",
+      "role_description": "A shrewd prep school housemaster whose philosophical musings on murder inadvertently inspire two students to commit a crime, which he then unravels.",
       "plot": "Two men attempt to prove they committed the perfect crime by hosting a dinner party after strangling their former classmate to death.",
-      "awards": "Notable Classic",
+      "awards": "Notable Hitchcock Experimental Film",
       "ratings": {
         "imdb": 7.9,
         "rotten_tomatoes_critic": 92,
@@ -99,12 +142,26 @@
       "imdb_url": "https://www.imdb.com/title/tt0040746/"
     },
     {
+      "title": "The Stratton Story",
+      "year": 1949,
+      "role": "Monty Stratton",
+      "role_description": "The real-life Major League pitcher who loses his leg in a hunting accident but courageously learns to pitch again with a prosthetic.",
+      "plot": "The true story of Chicago White Sox pitcher Monty Stratton, who loses a leg in a hunting accident but fights his way back to professional baseball.",
+      "awards": "Oscar: Win – Best Motion Picture Story",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 73
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0041928/"
+    },
+    {
       "title": "Winchester '73",
       "year": 1950,
       "role": "Lin McAdam",
-      "role_description": "A hard-edged cowboy who relentlessly pursues an outlaw across the West to retrieve a prize-winning rifle and settle a personal vendetta.",
+      "role_description": "A hard-edged cowboy who relentlessly pursues an outlaw—his own brother—across the West to retrieve a prize-winning rifle and settle a blood feud.",
       "plot": "A cowboy's obsession with a prize-winning rifle leads him on a chase through the Wild West.",
-      "awards": "Notable Classic",
+      "awards": "Notable Western Classic",
       "ratings": {
         "imdb": 7.6,
         "rotten_tomatoes_critic": 100,
@@ -113,10 +170,24 @@
       "imdb_url": "https://www.imdb.com/title/tt0043139/"
     },
     {
+      "title": "Broken Arrow",
+      "year": 1950,
+      "role": "Tom Jeffords",
+      "role_description": "A former soldier who befriends Apache leader Cochise and marries an Apache woman, working tirelessly to broker peace between settlers and Native Americans.",
+      "plot": "Tom Jeffords tries to make peace between settlers and Apaches in the Arizona territory.",
+      "awards": "Golden Globe: Win – Best Film Promoting International Understanding",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 67,
+        "rotten_tomatoes_popcorn": 68
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0042286/"
+    },
+    {
       "title": "Harvey",
       "year": 1950,
       "role": "Elwood P. Dowd",
-      "role_description": "A gentle, eccentric, and constantly tipsy man whose best friend is a six-foot, three-and-a-half-inch tall invisible rabbit named Harvey.",
+      "role_description": "A gentle, eccentric man whose best friend is a six-foot, three-and-a-half-inch tall invisible rabbit named Harvey, confusing his social-climbing family.",
       "plot": "Due to his insistence that he has an invisible six-foot-tall rabbit for a best friend, a whimsical middle-aged man is thought by his family to be insane.",
       "awards": "Oscar: Nomination – Best Actor",
       "ratings": {
@@ -127,10 +198,52 @@
       "imdb_url": "https://www.imdb.com/title/tt0042546/"
     },
     {
+      "title": "Bend of the River",
+      "year": 1952,
+      "role": "Glyn McLyntock",
+      "role_description": "A former border raider with a dark past who tries to go straight by guiding a wagon train to Oregon, but must violently defend the settlers from betrayal.",
+      "plot": "A town-tamer with a past guides a wagon train to Oregon and battles hijackers to ensure the settlers get their food supplies.",
+      "awards": "Notable Mann/Stewart Western",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 73
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0044413/"
+    },
+    {
+      "title": "The Naked Spur",
+      "year": 1953,
+      "role": "Howard Kemp",
+      "role_description": "An embittered rancher turned bounty hunter who is driven by greed and vengeance to capture a killer, revealing his own psychological scars.",
+      "plot": "A bounty hunter trying to bring a murderer to justice is forced to accept the help of two less-than-trustworthy strangers.",
+      "awards": "Oscar: Nomination – Best Original Screenplay",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 78
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0046113/"
+    },
+    {
+      "title": "The Glenn Miller Story",
+      "year": 1954,
+      "role": "Glenn Miller",
+      "role_description": "The legendary big band leader and trombonist whose innovative sound defined an era before his tragic disappearance in WWII.",
+      "plot": "A biography of bandleader Glenn Miller from his early days in the music business in 1929 through to his 1944 death.",
+      "awards": "Oscar: Win – Best Sound Recording",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 87,
+        "rotten_tomatoes_popcorn": 82
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0045818/"
+    },
+    {
       "title": "Rear Window",
       "year": 1954,
       "role": "L.B. \"Jeff\" Jefferies",
-      "role_description": "A professional photographer confined to a wheelchair with a broken leg who passes the time by spying on his neighbors and becomes convinced one has committed murder.",
+      "role_description": "A professional photographer confined to a wheelchair with a broken leg who spies on his neighbors and becomes convinced one has committed murder.",
       "plot": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder.",
       "awards": "National Film Registry (Inducted 1997)",
       "ratings": {
@@ -141,12 +254,54 @@
       "imdb_url": "https://www.imdb.com/title/tt0047396/"
     },
     {
+      "title": "The Far Country",
+      "year": 1954,
+      "role": "Jeff Webster",
+      "role_description": "A self-interested cattleman who drives a herd to Dawson during the Gold Rush, initially refusing to help others until he is personally wronged.",
+      "plot": "A self-minded adventurer locks horns with a crooked lawman while driving cattle to the Klondike.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 73
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0046966/"
+    },
+    {
+      "title": "Strategic Air Command",
+      "year": 1955,
+      "role": "Lt. Col. Robert \"Dutch\" Holland",
+      "role_description": "A professional baseball player and WWII veteran who is recalled to active duty, struggling to balance his love for flying with his family and sports career.",
+      "plot": "A baseball star is recalled to military service to fly the new B-36 bomber for the Strategic Air Command.",
+      "awards": "Oscar: Nomination – Best Motion Picture Story",
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": 56,
+        "rotten_tomatoes_popcorn": 47
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0048667/"
+    },
+    {
+      "title": "The Man from Laramie",
+      "year": 1955,
+      "role": "Will Lockhart",
+      "role_description": "An ex-army officer who poses as a wagon hauler to find the man who sold guns to the Apaches that killed his brother.",
+      "plot": "A stranger defies a local cattle baron and his sadistic son by working for one of their oldest rivals.",
+      "awards": "Notable Western Classic",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0048342/"
+    },
+    {
       "title": "The Man Who Knew Too Much",
       "year": 1956,
       "role": "Dr. Ben McKenna",
-      "role_description": "An American physician vacationing in Morocco who, along with his wife, is drawn into an assassination plot when their son is kidnapped to ensure their silence.",
+      "role_description": "An American physician vacationing in Morocco who is drawn into an assassination plot when his son is kidnapped to ensure his silence.",
       "plot": "A family vacationing in Morocco accidentally stumbles on to an assassination plot and the conspirators look determined to prevent them from interfering.",
-      "awards": "Cannes Film Festival: Nominee – Palme d'Or",
+      "awards": "Oscar: Win – Best Original Song ('Que Sera, Sera')",
       "ratings": {
         "imdb": 7.4,
         "rotten_tomatoes_critic": 87,
@@ -155,10 +310,24 @@
       "imdb_url": "https://www.imdb.com/title/tt0049470/"
     },
     {
+      "title": "The Spirit of St. Louis",
+      "year": 1957,
+      "role": "Charles Lindbergh",
+      "role_description": "The determined aviator who meticulously plans and executes the first historic non-stop solo flight across the Atlantic Ocean.",
+      "plot": "Charles 'Slim' Lindbergh struggles to finance and design an airplane that will make his New York to Paris flight the first solo transatlantic crossing.",
+      "awards": "Oscar: Nomination – Best Special Effects",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 85,
+        "rotten_tomatoes_popcorn": 69
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0050997/"
+    },
+    {
       "title": "Vertigo",
       "year": 1958,
       "role": "John \"Scottie\" Ferguson",
-      "role_description": "A former police detective with a paralyzing fear of heights who becomes obsessively infatuated with the mysterious woman he has been hired to follow.",
+      "role_description": "A former police detective with a paralyzing fear of heights who becomes obsessively infatuated with the mysterious woman he is hired to follow.",
       "plot": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
       "awards": "Sight & Sound: Voted #1 Greatest Film of All Time (2012)",
       "ratings": {
@@ -169,14 +338,28 @@
       "imdb_url": "https://www.imdb.com/title/tt0052357/"
     },
     {
+      "title": "Bell, Book and Candle",
+      "year": 1958,
+      "role": "Shepherd \"Shep\" Henderson",
+      "role_description": "A New York publisher who becomes bewitched by his neighbor, a modern-day witch, leading him to fall in love with her under a spell.",
+      "plot": "A modern-day witch casts a spell on her neighbor to make him fall in love with her.",
+      "awards": "Oscar: Nomination – Best Art Direction",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 79,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0051406/"
+    },
+    {
       "title": "Anatomy of a Murder",
       "year": 1959,
       "role": "Paul Biegler",
-      "role_description": "A brilliant but humble small-town lawyer who battles a slick big-city prosecutor while defending an Army lieutenant in a complex and salacious murder trial.",
+      "role_description": "A brilliant but humble small-town lawyer who battles a slick big-city prosecutor while defending an Army lieutenant in a complex murder trial.",
       "plot": "An upstate Michigan lawyer defends a soldier who claims he killed an innkeeper due to 'irresistible impulse' after the man raped his wife.",
       "awards": "Oscar: Nomination – Best Actor",
       "ratings": {
-        "imdb": 8,
+        "imdb": 8.0,
         "rotten_tomatoes_critic": 100,
         "rotten_tomatoes_popcorn": 91
       },
@@ -191,10 +374,66 @@
       "awards": "National Film Registry (Inducted 2007)",
       "ratings": {
         "imdb": 8.1,
-        "rotten_tomatoes_critic": 94,
-        "rotten_tomatoes_popcorn": 92
+        "rotten_tomatoes_critic": 95,
+        "rotten_tomatoes_popcorn": 94
       },
       "imdb_url": "https://www.imdb.com/title/tt0056217/"
+    },
+    {
+      "title": "How the West Was Won",
+      "year": 1962,
+      "role": "Linus Rawlings",
+      "role_description": "A rugged mountain man and trapper who marries into a pioneer family, helping them settle the frontier.",
+      "plot": "A family saga covering several decades of Westward expansion in the 19th century, including the Gold Rush, the Civil War, and the building of the railroads.",
+      "awards": "Oscar: Win – Best Original Screenplay",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 86,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0056085/"
+    },
+    {
+      "title": "Shenandoah",
+      "year": 1965,
+      "role": "Charlie Anderson",
+      "role_description": "A stubborn Virginia farmer who tries to keep his family neutral during the Civil War, until the conflict tragically lands on his doorstep.",
+      "plot": "A Virginia farmer refuses to support the Confederacy because he is opposed to slavery, but he will not support the Union because he is deeply opposed to war.",
+      "awards": "Oscar: Nomination – Best Sound",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 82
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0059711/"
+    },
+    {
+      "title": "The Flight of the Phoenix",
+      "year": 1965,
+      "role": "Frank Towns",
+      "role_description": "A veteran cargo pilot who must lead a group of survivors to build a new plane from the wreckage of their crash in the Sahara desert.",
+      "plot": "After a cargo plane crashes in the Sahara desert, the survivors attempt to build a new plane from the wreckage to fly out.",
+      "awards": "Oscar: Nomination – Best Supporting Actor (Ian Bannen)",
+      "ratings": {
+        "imdb": 7.5,
+        "rotten_tomatoes_critic": 86,
+        "rotten_tomatoes_popcorn": 86
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0059183/"
+    },
+    {
+      "title": "The Shootist",
+      "year": 1976,
+      "role": "Dr. E.W. Hostetler",
+      "role_description": "A compassionate physician who delivers a terminal cancer diagnosis to a legendary gunfighter, advising him on his final days.",
+      "plot": "A dying gunfighter spends his last days looking for a way to die with a minimum of pain and a maximum of dignity.",
+      "awards": "Oscar: Nomination – Best Art Direction",
+      "ratings": {
+        "imdb": 7.6,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 87
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0075213/"
     }
   ]
 }

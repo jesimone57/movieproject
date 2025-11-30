@@ -1,0 +1,424 @@
+{
+  "actor_profile": {
+    "name": "John Wayne",
+    "year_born": 1907,
+    "year_died": 1979,
+    "imdb_url": "https://www.imdb.com/name/nm0000078/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/John_Wayne_Gainsborough_Pictures_1946_portrait.jpg",
+    "year_of_first_film": 1926,
+    "year_of_last_film": 1976,
+    "number_of_feature_films_made": 169,
+    "actor_awards": {
+      "oscars_won": 1,
+      "oscars_nominated": 3
+    }
+  },
+  "filmography": [
+    {
+      "title": "True Grit",
+      "year": 1969,
+      "role": "Rooster Cogburn",
+      "role_description": "A drunken, hard-nosed U.S. Marshal who is hired by a tenacious teenage girl to track down her father's murderer.",
+      "plot": "A U.S. Marshal and a Texas Ranger help a stubborn teenager track down her father's murderer in Indian territory.",
+      "awards": "Oscar: Win – Best Actor; Golden Globe: Win – Best Actor (Drama)",
+      "ratings": {
+        "imdb": 7.4,
+        "rotten_tomatoes_critic": 88,
+        "rotten_tomatoes_popcorn": 86
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0065126/"
+    },
+    {
+      "title": "The Searchers",
+      "year": 1956,
+      "role": "Ethan Edwards",
+      "role_description": "A bitter, racist Civil War veteran who spends years relentlessly searching for his niece who was abducted by Comanches.",
+      "plot": "An American Civil War veteran embarks on a years-long journey to rescue his niece from the Comanches after the rest of his brother's family is massacred.",
+      "awards": "National Film Registry (Inducted 1989)",
+      "ratings": {
+        "imdb": 7.8,
+        "rotten_tomatoes_critic": 94,
+        "rotten_tomatoes_popcorn": 88
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0049730/"
+    },
+    {
+      "title": "Stagecoach",
+      "year": 1939,
+      "role": "The Ringo Kid",
+      "role_description": "A notorious outlaw who escapes prison and joins a stagecoach journey, seeking revenge on the men who framed him.",
+      "plot": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.",
+      "awards": "Oscar: Win – Best Supporting Actor (Thomas Mitchell)",
+      "ratings": {
+        "imdb": 7.8,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 92
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0031971/"
+    },
+    {
+      "title": "The Quiet Man",
+      "year": 1952,
+      "role": "Sean Thornton",
+      "role_description": "A retired American boxer who returns to the village of his birth in Ireland to find peace and a wife.",
+      "plot": "A retired American boxer returns to the village of his birth in Ireland, where he finds love and conflict.",
+      "awards": "Oscar: Win – Best Director; Oscar: Nomination – Best Picture",
+      "ratings": {
+        "imdb": 7.7,
+        "rotten_tomatoes_critic": 91,
+        "rotten_tomatoes_popcorn": 92
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0045061/"
+    },
+    {
+      "title": "Red River",
+      "year": 1948,
+      "role": "Thomas Dunson",
+      "role_description": "A tyrannical cattle baron who drives his herd north on the Chisholm Trail, alienating his adopted son with his harsh methods.",
+      "plot": "A rancher's authoritarian ways lead to a mutiny on a cattle drive to Missouri.",
+      "awards": "Oscar: Nomination – Best Original Story",
+      "ratings": {
+        "imdb": 7.8,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 88
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0040724/"
+    },
+    {
+      "title": "Rio Bravo",
+      "year": 1959,
+      "role": "Sheriff John T. Chance",
+      "role_description": "A small-town sheriff who enlists the help of a 'cripple,' a drunk, and a young gunfighter to keep a local bad guy in jail.",
+      "plot": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter to hold in jail the brother of the local bad guy.",
+      "awards": "National Film Registry (Inducted 2014)",
+      "ratings": {
+        "imdb": 8.0,
+        "rotten_tomatoes_critic": 96,
+        "rotten_tomatoes_popcorn": 92
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0053221/"
+    },
+    {
+      "title": "The Man Who Shot Liberty Valance",
+      "year": 1962,
+      "role": "Tom Doniphon",
+      "role_description": "A tough, self-sufficient rancher who steps aside to let a lawyer take credit for a heroic deed, embodying the fading Old West.",
+      "plot": "A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.",
+      "awards": "Oscar: Nomination – Best Costume Design",
+      "ratings": {
+        "imdb": 8.1,
+        "rotten_tomatoes_critic": 95,
+        "rotten_tomatoes_popcorn": 94
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0056217/"
+    },
+    {
+      "title": "The Alamo",
+      "year": 1960,
+      "role": "Col. Davy Crockett",
+      "role_description": "The legendary frontiersman who leads a band of Tennesseans to defend the Alamo against the Mexican army.",
+      "plot": "In 1836, a small band of soldiers sacrifice their lives in hopeless combat against a massive army in order to prevent a tyrant from smashing the new Republic of Texas.",
+      "awards": "Oscar: Nomination – Best Picture",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 52,
+        "rotten_tomatoes_popcorn": 66
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0053580/"
+    },
+    {
+      "title": "Sands of Iwo Jima",
+      "year": 1949,
+      "role": "Sgt. John M. Stryker",
+      "role_description": "A tough-as-nails Marine sergeant who is disliked by his men for his rigorous training but respected for his leadership in battle.",
+      "plot": "A Marine sergeant is disliked by his men because of his rigorous training, but they come to respect him when they are led into battle.",
+      "awards": "Oscar: Nomination – Best Actor",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0041841/"
+    },
+    {
+      "title": "She Wore a Yellow Ribbon",
+      "year": 1949,
+      "role": "Captain Nathan Brittles",
+      "role_description": "An aging cavalry officer on the verge of retirement who takes out a last patrol to stop an impending Indian attack.",
+      "plot": "Captain Nathan Brittles, on the eve of retirement, takes out a last patrol to stop an impending Indian attack. Encumbered by women who must be evacuated, Brittles finds his mission imperiled.",
+      "awards": "Oscar: Win – Best Cinematography",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 95,
+        "rotten_tomatoes_popcorn": 83
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0041866/"
+    },
+    {
+      "title": "The Shootist",
+      "year": 1976,
+      "role": "J.B. Books",
+      "role_description": "A legendary gunfighter dying of cancer who seeks to go out with dignity in his final days; Wayne's last film role.",
+      "plot": "A dying gunfighter spends his last days looking for a way to die with a minimum of pain and a maximum of dignity.",
+      "awards": "Oscar: Nomination – Best Art Direction",
+      "ratings": {
+        "imdb": 7.6,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 87
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0075213/"
+    },
+    {
+      "title": "Fort Apache",
+      "year": 1948,
+      "role": "Capt. Kirby York",
+      "role_description": "A highly respected and experienced cavalry officer who clashes with his arrogant, glory-seeking new commander.",
+      "plot": "At a remote cavalry post, a strict and arrogant commander clashes with his troops and leads them into a disastrous confrontation with the Apaches.",
+      "awards": "Locarno International Film Festival: Win – Best Director",
+      "ratings": {
+        "imdb": 7.4,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 82
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0040366/"
+    },
+    {
+      "title": "Rio Grande",
+      "year": 1950,
+      "role": "Lt. Col. Kirby Yorke",
+      "role_description": "A cavalry officer tasked with defending settlers from Apaches while dealing with the arrival of his estranged son and wife.",
+      "plot": "A cavalry officer posted on the Rio Grande is faced with murderous raiding Apaches, a son who's a risk-taking recruit and his wife who wants to take their son home.",
+      "awards": "National Board of Review: Top Ten Films",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 80
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0042895/"
+    },
+    {
+      "title": "The Longest Day",
+      "year": 1962,
+      "role": "Lt. Col. Benjamin Vandervoort",
+      "role_description": "A real-life battalion commander in the 82nd Airborne Division who leads his troops on D-Day despite a broken ankle.",
+      "plot": "The events of D-Day, told on a grand scale from both the Allied and German points of view.",
+      "awards": "Oscar: Win – Best Cinematography; Oscar: Win – Best Special Effects",
+      "ratings": {
+        "imdb": 7.7,
+        "rotten_tomatoes_critic": 88,
+        "rotten_tomatoes_popcorn": 89
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0056197/"
+    },
+    {
+      "title": "El Dorado",
+      "year": 1966,
+      "role": "Cole Thornton",
+      "role_description": "A gunfighter who teams up with his old friend, a drunken sheriff, to help a rancher family fight off a rival landowner.",
+      "plot": "Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Hara. Together with an old Indian fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 7.5,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 89
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0061619/"
+    },
+    {
+      "title": "How the West Was Won",
+      "year": 1962,
+      "role": "Gen. William Tecumseh Sherman",
+      "role_description": "The famous Union Civil War general who appears in a segment discussing the war with General Grant.",
+      "plot": "A family saga covering several decades of Westward expansion in the 19th century, including the Gold Rush, the Civil War, and the building of the railroads.",
+      "awards": "Oscar: Win – Best Original Screenplay",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 86,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0056085/"
+    },
+    {
+      "title": "Big Jake",
+      "year": 1971,
+      "role": "Jacob McCandles",
+      "role_description": "An aging rancher who reunites with his estranged family to rescue his kidnapped grandson from a gang of outlaws.",
+      "plot": "The McCandles ranch is overrun by a gang of cutthroats led by the evil John Fain. They kidnap Little Jake and demand a ransom.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 92,
+        "rotten_tomatoes_popcorn": 75
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0066831/"
+    },
+    {
+      "title": "The Cowboys",
+      "year": 1972,
+      "role": "Wil Andersen",
+      "role_description": "A veteran rancher who is forced to hire a group of schoolboys to help him drive his cattle herd to market.",
+      "plot": "Rancher Wil Andersen is forced to hire inexperienced schoolboys as cowhands in order to get his herd to market on time.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 75,
+        "rotten_tomatoes_popcorn": 86
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0068421/"
+    },
+    {
+      "title": "McLintock!",
+      "year": 1963,
+      "role": "George Washington McLintock",
+      "role_description": "A wealthy, self-made cattle baron who tries to manage his ranch, his headstrong daughter, and his estranged wife.",
+      "plot": "Wealthy rancher G.W. McLintock uses his power and influence in the territory to keep the peace between farmers, ranchers, land-grabbers, Indians and corrupt government officials.",
+      "awards": "Notable Comedy Western",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 90,
+        "rotten_tomatoes_popcorn": 82
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0057296/"
+    },
+    {
+      "title": "The Sons of Katie Elder",
+      "year": 1965,
+      "role": "John Elder",
+      "role_description": "The eldest of four brothers who reunite for their mother's funeral and investigate the mysterious circumstances of their father's death.",
+      "plot": "Four brothers reunite at their mother's funeral and are determined to avenge the murder of their father and the swindling of their mother's land.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 81
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0059737/"
+    },
+    {
+      "title": "In Harm's Way",
+      "year": 1965,
+      "role": "Capt. Rockwell Torrey",
+      "role_description": "A disgraced naval officer who is given a second chance to command a critical operation in the Pacific theater of WWII.",
+      "plot": "A naval officer reprimanded after Pearl Harbor is later promoted to rear admiral and gets a second chance to prove himself against the Japanese.",
+      "awards": "Oscar: Nomination – Best Cinematography",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0059309/"
+    },
+    {
+      "title": "Hondo",
+      "year": 1953,
+      "role": "Hondo Lane",
+      "role_description": "A cavalry dispatch rider who protects a woman and her son living in isolated Apache territory.",
+      "plot": "Army dispatch rider Hondo Lane discovers a woman and her son living in the midst of warring Apaches and becomes their protector.",
+      "awards": "Oscar: Nomination – Best Supporting Actress (Geraldine Page)",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 68
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0045883/"
+    },
+    {
+      "title": "3 Godfathers",
+      "year": 1948,
+      "role": "Robert Marmaduke Hightower",
+      "role_description": "An outlaw on the run who, along with his partners, risks his freedom to care for an orphaned baby they find in the desert.",
+      "plot": "Three outlaws on the run find a dying woman and her baby. They swear to bring the infant to safety across the desert, even at the risk of their own lives.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 73
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0040064/"
+    },
+    {
+      "title": "They Were Expendable",
+      "year": 1945,
+      "role": "Lt. Rusty Ryan",
+      "role_description": "A PT boat commander in the Philippines during WWII who fights a losing battle against the Japanese invasion.",
+      "plot": "A story of the PT Boat squadrons in the Philippines during World War II.",
+      "awards": "Oscar: Nomination – Best Sound",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 92,
+        "rotten_tomatoes_popcorn": 70
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0038160/"
+    },
+    {
+      "title": "Angel and the Badman",
+      "year": 1947,
+      "role": "Quirt Evans",
+      "role_description": "A wounded gunfighter who is nursed back to health by a Quaker family and finds himself torn between his violent past and their peaceful life.",
+      "plot": "Quirt Evans, an all-round bad guy, is nursed back to health and sought after by Penelope Worth, a Quaker girl. He eventually finds himself having to choose between his world and the world Penelope lives in.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 75,
+        "rotten_tomatoes_popcorn": 64
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0039155/"
+    },
+    {
+      "title": "Hatari!",
+      "year": 1962,
+      "role": "Sean Mercer",
+      "role_description": "The leader of a group of professional game catchers in Africa who trap wild animals for zoos.",
+      "plot": "A group of men trap wild animals in Africa and sell them to zoos. Will the arrival of a female wildlife photographer change their ways?",
+      "awards": "Oscar: Nomination – Best Cinematography",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 64,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0056059/"
+    },
+    {
+      "title": "The Green Berets",
+      "year": 1968,
+      "role": "Col. Mike Kirby",
+      "role_description": "A Special Forces colonel who leads two elite units into South Vietnam to build a camp and kidnap a North Vietnamese general.",
+      "plot": "Col. Mike Kirby picks two teams of crack Green Berets for a mission in South Vietnam to build and control a camp that is trying to be taken by the enemy.",
+      "awards": "Notable War Film",
+      "ratings": {
+        "imdb": 5.6,
+        "rotten_tomatoes_critic": 23,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0063035/"
+    },
+    {
+      "title": "Chisum",
+      "year": 1970,
+      "role": "John Chisum",
+      "role_description": "A powerful cattle baron in New Mexico who fights against a corrupt businessman and land grabber to protect his empire.",
+      "plot": "A cattle baron takes on a corrupt businessman and his gang with the help of Billy the Kid and Pat Garrett.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 64
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0065547/"
+    },
+    {
+      "title": "Wake of the Red Witch",
+      "year": 1948,
+      "role": "Capt. Ralls",
+      "role_description": "A ruthless sea captain who battles a shipping magnate over a fortune in gold and the love of a woman.",
+      "plot": "In the 1860s South Pacific, a sea captain seeks revenge against a wealthy shipping tycoon.",
+      "awards": "Notable Adventure",
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 42
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0040947/"
+    }
+  ]
+}
