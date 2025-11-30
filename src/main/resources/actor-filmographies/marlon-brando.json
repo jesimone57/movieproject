@@ -18,9 +18,9 @@
       "title": "The Men",
       "year": 1950,
       "role": "Ken Wilocek",
-      "role_description": "A bitter, paraplegic World War II lieutenant struggling to adjust to civilian life and his new disability.",
+      "role_description": "A bitter, paraplegic World War II lieutenant struggling to adjust to civilian life and his new disability in Brando's film debut.",
       "plot": "A paralyzed war veteran faces the physical and emotional challenges of rehabilitation while trying to rebuild his relationship with his fiancée.",
-      "awards": "National Board of Review: Top Ten Films",
+      "awards": "Film Debut",
       "ratings": {
         "imdb": 7.2,
         "rotten_tomatoes_critic": 77,
@@ -48,7 +48,7 @@
       "role": "Emiliano Zapata",
       "role_description": "The legendary Mexican revolutionary who rises from peasant roots to lead a revolt against a corrupt dictatorship.",
       "plot": "Mexican revolutionary Emiliano Zapata leads a peasant uprising against the corrupt presidency of Porfirio Díaz.",
-      "awards": "Oscar: Nomination – Best Actor; BAFTA: Win – Best Foreign Actor; Cannes: Win – Best Actor",
+      "awards": "Oscar: Nomination – Best Actor; BAFTA: Win – Best Foreign Actor",
       "ratings": {
         "imdb": 7.4,
         "rotten_tomatoes_critic": 67,
@@ -71,18 +71,46 @@
       "imdb_url": "https://www.imdb.com/title/tt0045943/"
     },
     {
+      "title": "The Wild One",
+      "year": 1953,
+      "role": "Johnny Strabler",
+      "role_description": "The leather-clad leader of a motorcycle gang whose rebellious attitude became a cultural icon of the 1950s.",
+      "plot": "Two rival motorcycle gangs terrorize a small town after one of their leaders is thrown in jail.",
+      "awards": "Iconic Cultural Role",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 78,
+        "rotten_tomatoes_popcorn": 64
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0047677/"
+    },
+    {
       "title": "On the Waterfront",
       "year": 1954,
       "role": "Terry Malloy",
       "role_description": "A washed-up prizefighter turned longshoreman who struggles with his conscience before standing up to a corrupt union boss.",
       "plot": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
-      "awards": "Oscar: Win – Best Actor; Golden Globe: Win – Best Actor (Drama); BAFTA: Win – Best Foreign Actor",
+      "awards": "Oscar: Win – Best Actor; Golden Globe: Win – Best Actor (Drama)",
       "ratings": {
         "imdb": 8.1,
         "rotten_tomatoes_critic": 99,
         "rotten_tomatoes_popcorn": 95
       },
       "imdb_url": "https://www.imdb.com/title/tt0047296/"
+    },
+    {
+      "title": "Désirée",
+      "year": 1954,
+      "role": "Napoleon Bonaparte",
+      "role_description": "The French military leader and emperor depicted through his romance with his first love, Désirée Clary.",
+      "plot": "The story of the romance between Napoleon Bonaparte and Désirée Clary, the girl who would eventually become Queen of Sweden.",
+      "awards": "Notable Historical Drama",
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 29,
+        "rotten_tomatoes_popcorn": 48
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0046907/"
     },
     {
       "title": "Guys and Dolls",
@@ -97,6 +125,20 @@
         "rotten_tomatoes_popcorn": 78
       },
       "imdb_url": "https://www.imdb.com/title/tt0048140/"
+    },
+    {
+      "title": "The Teahouse of the August Moon",
+      "year": 1956,
+      "role": "Sakini",
+      "role_description": "A wily Okinawan interpreter who acts as a mediator between American occupying forces and the local villagers.",
+      "plot": "An American captain is sent to okinawan village to teach democracy, but the culture and the interpreter change him instead.",
+      "awards": "Golden Globe: Nomination – Best Actor (Comedy/Musical)",
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0049830/"
     },
     {
       "title": "Sayonara",
@@ -127,10 +169,24 @@
       "imdb_url": "https://www.imdb.com/title/tt0052415/"
     },
     {
+      "title": "The Fugitive Kind",
+      "year": 1960,
+      "role": "Valentine 'Snakeskin' Xavier",
+      "role_description": "A guitar-playing drifter in a snakeskin jacket who stirs up trouble and passion in a small, repressive Southern town.",
+      "plot": "A drifter arrives in a small Southern town and becomes involved with an older woman trapped in a loveless marriage.",
+      "awards": "San Sebastián International Film Festival: Win – Best Actor",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 71,
+        "rotten_tomatoes_popcorn": 61
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0053843/"
+    },
+    {
       "title": "One-Eyed Jacks",
       "year": 1961,
       "role": "Rio",
-      "role_description": "An outlaw betrayed by his partner who seeks revenge after spending years in a Mexican prison, only to find his enemy is now a sheriff.",
+      "role_description": "An outlaw betrayed by his partner who seeks revenge after spending years in a Mexican prison; the only film Brando directed.",
       "plot": "After robbing a Mexican bank, Dad Longworth takes the loot and leaves his partner Rio to be captured, but Rio eventually escapes and searches for revenge.",
       "awards": "San Sebastián International Film Festival: Win – Golden Shell (Best Film)",
       "ratings": {
@@ -146,7 +202,7 @@
       "role": "Fletcher Christian",
       "role_description": "An aristocratic first lieutenant who leads a mutiny against the sadistic Captain Bligh during a voyage to Tahiti.",
       "plot": "In 1787, the HMS Bounty sets sail for Tahiti under the command of the tyranny of Captain Bligh, whose cruelty leads to a mutiny led by Fletcher Christian.",
-      "awards": "Oscar: Nomination – Best Picture (Film)",
+      "awards": "Oscar: Nomination – Best Picture",
       "ratings": {
         "imdb": 7.2,
         "rotten_tomatoes_critic": 69,
@@ -155,18 +211,60 @@
       "imdb_url": "https://www.imdb.com/title/tt0056265/"
     },
     {
+      "title": "The Ugly American",
+      "year": 1963,
+      "role": "Harrison Carter MacWhite",
+      "role_description": "An intelligent but naive US ambassador to a Southeast Asian country who struggles to understand the local political complexities.",
+      "plot": "An American ambassador to a Southeast Asian country is swept up in the political turmoil of the region.",
+      "awards": "Golden Globe: Nomination – Best Actor (Drama)",
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 44
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0057632/"
+    },
+    {
+      "title": "The Chase",
+      "year": 1966,
+      "role": "Sheriff Calder",
+      "role_description": "An honest sheriff in a corrupt Texas town who tries to maintain order when a local convict escapes prison.",
+      "plot": "The escape of Bubber Reeves from prison affects the inhabitants of a small Southern town.",
+      "awards": "Notable Ensemble Drama",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 89,
+        "rotten_tomatoes_popcorn": 70
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0060232/"
+    },
+    {
       "title": "Reflections in a Golden Eye",
       "year": 1967,
       "role": "Major Weldon Penderton",
       "role_description": "A latent homosexual Army major stationed in the South who struggles with his repressed desires and a volatile marriage.",
       "plot": "An army major represses his homosexuality while his wife has an affair with a fellow officer on a military base in the South.",
-      "awards": "Notable Cult Classic",
+      "awards": "Notable Psychological Drama",
       "ratings": {
         "imdb": 6.6,
         "rotten_tomatoes_critic": 55,
         "rotten_tomatoes_popcorn": 48
       },
       "imdb_url": "https://www.imdb.com/title/tt0062185/"
+    },
+    {
+      "title": "Burn!",
+      "year": 1969,
+      "role": "Sir William Walker",
+      "role_description": "A British agent provocateur sent to a Caribbean island to incite a slave revolt for the benefit of a sugar company.",
+      "plot": "A British mercenary instigates a slave revolt in the Caribbean to overthrow the Portuguese colonial government.",
+      "awards": "Brando's Personal Favorite Performance",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 73
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0064866/"
     },
     {
       "title": "The Godfather",
@@ -197,6 +295,20 @@
       "imdb_url": "https://www.imdb.com/title/tt0069401/"
     },
     {
+      "title": "The Missouri Breaks",
+      "year": 1976,
+      "role": "Robert E. Lee Clayton",
+      "role_description": "An eccentric, sadistic regulator hired by a rancher to hunt down a gang of horse thieves.",
+      "plot": "A horse thief and his gang try to evade a regulator who is known for his unusual methods of hunting down criminals.",
+      "awards": "Notable Pairing with Jack Nicholson",
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 77,
+        "rotten_tomatoes_popcorn": 49
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0074906/"
+    },
+    {
       "title": "Superman",
       "year": 1978,
       "role": "Jor-El",
@@ -225,6 +337,20 @@
       "imdb_url": "https://www.imdb.com/title/tt0078788/"
     },
     {
+      "title": "The Formula",
+      "year": 1980,
+      "role": "Adam Steiffel",
+      "role_description": "A powerful, manipulative oil tycoon who is involved in a conspiracy to suppress a formula for synthetic fuel.",
+      "plot": "A police detective uncovers a formula for synthetic fuel that was developed by the Nazis and is now being suppressed by an oil cartel.",
+      "awards": "Golden Raspberry: Nomination – Worst Supporting Actor",
+      "ratings": {
+        "imdb": 5.6,
+        "rotten_tomatoes_critic": 25,
+        "rotten_tomatoes_popcorn": 23
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0080754/"
+    },
+    {
       "title": "A Dry White Season",
       "year": 1989,
       "role": "Ian McKenzie",
@@ -237,6 +363,48 @@
         "rotten_tomatoes_popcorn": 69
       },
       "imdb_url": "https://www.imdb.com/title/tt0097243/"
+    },
+    {
+      "title": "The Freshman",
+      "year": 1990,
+      "role": "Carmine Sabatini",
+      "role_description": "A powerful mob boss who bears a striking resemblance to Vito Corleone, in a comedic parody of his most famous role.",
+      "plot": "A film student in New York City gets involved with a mobster who looks exactly like The Godfather.",
+      "awards": "Notable Comedy Performance",
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 94,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0099615/"
+    },
+    {
+      "title": "Don Juan DeMarco",
+      "year": 1994,
+      "role": "Dr. Jack Mickler",
+      "role_description": "An aging psychiatrist who is revitalized by his treatment of a young man who believes himself to be Don Juan.",
+      "plot": "A psychiatrist must cure a young patient who presents himself as Don Juan, the greatest lover in the world.",
+      "awards": "Notable Late Role",
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": 70,
+        "rotten_tomatoes_popcorn": 67
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0112883/"
+    },
+    {
+      "title": "The Score",
+      "year": 2001,
+      "role": "Max",
+      "role_description": "An effeminate and manipulative fence who convinces a master thief to take on one last high-stakes job; Brando's final film.",
+      "plot": "An aging thief hopes to retire and live off his ill-gotten wealth when a young kid convinces him to do one last heist.",
+      "awards": "Final Film Role",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 73,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0227445/"
     }
   ]
 }

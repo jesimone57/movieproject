@@ -7,7 +7,7 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Claude_Rains_by_Burlington_Studios.jpg",
     "year_of_first_film": 1920,
     "year_of_last_film": 1965,
-    "number_of_feature_films_made": 79,
+    "number_of_feature_films_made": 63,
     "actor_awards": {
       "oscars_won": 0,
       "oscars_nominated": 4
@@ -17,8 +17,8 @@
     {
       "title": "The Invisible Man",
       "year": 1933,
-      "role": "Dr. Jack Griffin / The Invisible Man",
-      "role_description": "A brilliant scientist who discovers the secret of invisibility but is driven to homicidal madness by the drug's side effects.",
+      "role": "The Invisible Man / Dr. Jack Griffin",
+      "role_description": "A scientist who discovers the secret of invisibility but is driven to homicidal madness by the drug's side effects; Rains' breakout role where his face is only seen at the end.",
       "plot": "A scientist finds a way of becoming invisible, but in doing so, he becomes murderously insane.",
       "awards": "National Film Registry (Inducted 2008)",
       "ratings": {
@@ -29,10 +29,52 @@
       "imdb_url": "https://www.imdb.com/title/tt0024184/"
     },
     {
+      "title": "Anthony Adverse",
+      "year": 1936,
+      "role": "Don Luis",
+      "role_description": "A cruel Spanish nobleman who kills his wife's lover in a duel and abandons her illegitimate child.",
+      "plot": "In 18th-century Italy, a young man embarks on a journey of self-discovery that takes him across the world.",
+      "awards": "Oscar: Win – Best Supporting Actress (Gale Sondergaard)",
+      "ratings": {
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": 20,
+        "rotten_tomatoes_popcorn": 38
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0027300/"
+    },
+    {
+      "title": "The Prince and the Pauper",
+      "year": 1937,
+      "role": "Earl of Hertford",
+      "role_description": "The scheming and ambitious advisor to the King who plots to seize power when he discovers the Prince has switched places with a pauper.",
+      "plot": "A poor boy and a prince exchange identities, but events force the pauper to live the life of a king while the prince endures the hardships of the streets.",
+      "awards": "Notable Adventure",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 62
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0029440/"
+    },
+    {
+      "title": "They Won't Forget",
+      "year": 1937,
+      "role": "District Attorney Andy Griffin",
+      "role_description": "An ambitious prosecutor in the Deep South who uses a murder case to further his own political career, disregarding justice.",
+      "plot": "A Northern teacher is accused of murdering a student in a Southern town, and a prosecutor exploits the case for political gain.",
+      "awards": "National Board of Review: Top Ten Films",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 64
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0029658/"
+    },
+    {
       "title": "The Adventures of Robin Hood",
       "year": 1938,
       "role": "Prince John",
-      "role_description": "The treacherous and usurping younger brother of King Richard, who taxes the poor and plots to seize the throne for himself.",
+      "role_description": "The treacherous younger brother of King Richard who usurps the throne and taxes the poor, serving as the sophisticated villain to Robin Hood.",
       "plot": "When Prince John and the Norman Lords begin oppressing the Saxon commoners in King Richard's absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army.",
       "awards": "Notable Classic",
       "ratings": {
@@ -43,10 +85,38 @@
       "imdb_url": "https://www.imdb.com/title/tt0029843/"
     },
     {
+      "title": "Four Daughters",
+      "year": 1938,
+      "role": "Adam Lemp",
+      "role_description": "A gentle, music-loving father who presides over a household of four spirited daughters.",
+      "plot": "A musical family's life is disrupted when a cynical young composer enters their lives and charms the daughters.",
+      "awards": "Oscar: Nomination – Best Picture",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 64
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0030149/"
+    },
+    {
+      "title": "Juarez",
+      "year": 1939,
+      "role": "Napoleon III",
+      "role_description": "The French Emperor who installs a puppet government in Mexico, manipulating events from afar.",
+      "plot": "In the 1860s, Mexican President Benito Juarez fights the French occupation and the puppet Emperor Maximilian.",
+      "awards": "Notable Historical Drama",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 38
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0031516/"
+    },
+    {
       "title": "Mr. Smith Goes to Washington",
       "year": 1939,
       "role": "Senator Joseph Paine",
-      "role_description": "A senior senator who is outwardly distinguished and respected but has secretly compromised his values to serve a political machine.",
+      "role_description": "A distinguished senior senator who has compromised his integrity for political power, becoming the antagonist to the idealistic Jefferson Smith.",
       "plot": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
       "awards": "Oscar: Nomination – Best Supporting Actor",
       "ratings": {
@@ -60,9 +130,9 @@
       "title": "The Sea Hawk",
       "year": 1940,
       "role": "Don José Alvarez de Cordoba",
-      "role_description": "A slick and scheming Spanish ambassador to England who secretly plots Queen Elizabeth's downfall.",
-      "plot": "Geoffrey Thorpe, a buccaneer, is hired by Queen Elizabeth I to nag the Spanish Armada. The Armada is waiting for the attack on England and Thorpe surprises them with attacks on their galleons where he shows his skills on the sword.",
-      "awards": "Notable Classic",
+      "role_description": "A slick and scheming Spanish ambassador to the court of Queen Elizabeth I who plots the downfall of England.",
+      "plot": "Geoffrey Thorpe, a buccaneer, is hired by Queen Elizabeth I to nag the Spanish Armada. The Armada is waiting for the attack on England and Thorpe surprises them with attacks on their galleons.",
+      "awards": "Oscar: Nomination – Best Sound",
       "ratings": {
         "imdb": 7.6,
         "rotten_tomatoes_critic": 93,
@@ -71,12 +141,26 @@
       "imdb_url": "https://www.imdb.com/title/tt0033028/"
     },
     {
+      "title": "Here Comes Mr. Jordan",
+      "year": 1941,
+      "role": "Mr. Jordan",
+      "role_description": "A suave and authoritative heavenly supervisor who tries to rectify a mistake when a boxer is taken to the afterlife 50 years too early.",
+      "plot": "A boxer, mistakenly taken to heaven before his time, is given a second chance at life in a new body.",
+      "awards": "Oscar: Nomination – Best Picture",
+      "ratings": {
+        "imdb": 7.6,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0033712/"
+    },
+    {
       "title": "The Wolf Man",
       "year": 1941,
       "role": "Sir John Talbot",
-      "role_description": "The skeptical and protective father of Larry Talbot, who struggles to believe his son's claims about lycanthropy until it is too late.",
+      "role_description": "The stern but loving father of Larry Talbot, who refuses to believe in the werewolf curse until it is tragically too late.",
       "plot": "A practical man returns to his homeland, is attacked by a creature of folklore, and infected with a horrific disease his disciplined mind tells him can not possibly exist.",
-      "awards": "Notable Classic",
+      "awards": "Notable Horror Classic",
       "ratings": {
         "imdb": 7.3,
         "rotten_tomatoes_critic": 90,
@@ -85,24 +169,24 @@
       "imdb_url": "https://www.imdb.com/title/tt0034398/"
     },
     {
-      "title": "Casablanca",
+      "title": "Kings Row",
       "year": 1942,
-      "role": "Captain Louis Renault",
-      "role_description": "The cynical, corrupt, but undeniably charming French police prefect who bends his morals to survive in Vichy-controlled Morocco.",
-      "plot": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
-      "awards": "Oscar: Nomination – Best Supporting Actor",
+      "role": "Dr. Alexander Tower",
+      "role_description": "A brilliant but reclusive psychiatrist whose protective nature over his daughter masks a dark family secret.",
+      "plot": "Five children in an apparently ideal American small town grow up, their lives darkened by hidden secrets, madness, and tragedy.",
+      "awards": "Oscar: Nomination – Best Picture",
       "ratings": {
-        "imdb": 8.5,
-        "rotten_tomatoes_critic": 99,
-        "rotten_tomatoes_popcorn": 95
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 65,
+        "rotten_tomatoes_popcorn": 64
       },
-      "imdb_url": "https://www.imdb.com/title/tt0034583/"
+      "imdb_url": "https://www.imdb.com/title/tt0034946/"
     },
     {
       "title": "Now, Voyager",
       "year": 1942,
       "role": "Dr. Jaquith",
-      "role_description": "A wise and compassionate psychiatrist who helps a repressed spinster break free from her domineering mother's influence.",
+      "role_description": "A wise and compassionate psychiatrist who helps a repressed spinster break free from her domineering mother and find self-worth.",
       "plot": "A psychiatrist helps a repressed, unattractive woman blossom into an independent and elegant beauty, but her new lease on life is complicated by a doomed romance.",
       "awards": "Notable Film",
       "ratings": {
@@ -113,26 +197,26 @@
       "imdb_url": "https://www.imdb.com/title/tt0035140/"
     },
     {
-      "title": "Kings Row",
+      "title": "Casablanca",
       "year": 1942,
-      "role": "Dr. Alexander Tower",
-      "role_description": "A brilliant but reclusive doctor in a small town whose protective nature over his daughter hides a dark secret.",
-      "plot": "Five children in an apparently ideal American small town grow up, their lives darkened by hidden secrets, madness, and tragedy.",
-      "awards": "Notable Film",
+      "role": "Captain Louis Renault",
+      "role_description": "The corrupt, charming, and pragmatic French police prefect who navigates the politics of Vichy France and ultimately discovers his patriotism.",
+      "plot": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+      "awards": "Oscar: Nomination – Best Supporting Actor",
       "ratings": {
-        "imdb": 7.3,
-        "rotten_tomatoes_critic": 65,
-        "rotten_tomatoes_popcorn": 64
+        "imdb": 8.5,
+        "rotten_tomatoes_critic": 99,
+        "rotten_tomatoes_popcorn": 95
       },
-      "imdb_url": "https://www.imdb.com/title/tt0034946/"
+      "imdb_url": "https://www.imdb.com/title/tt0034583/"
     },
     {
       "title": "Phantom of the Opera",
       "year": 1943,
       "role": "Erique Claudin",
-      "role_description": "A timid violinist who is disfigured by acid and descends into madness, haunting the opera house to advance the career of a young soprano he secretly loves.",
+      "role_description": "A timid violinist who is disfigured by acid and descends into madness, haunting the Paris Opera House to advance the career of a young soprano.",
       "plot": "A disfigured violinist haunts the Paris Opera House, committing murder to further the career of the soprano he loves.",
-      "awards": "Notable Role",
+      "awards": "Notable Horror/Musical",
       "ratings": {
         "imdb": 6.4,
         "rotten_tomatoes_critic": 76,
@@ -141,10 +225,24 @@
       "imdb_url": "https://www.imdb.com/title/tt0036261/"
     },
     {
+      "title": "Passage to Marseille",
+      "year": 1944,
+      "role": "Capt. Freycinet",
+      "role_description": "A Free French liaison officer who recounts the story of French convicts escaping Devil's Island to fight for their country.",
+      "plot": "Five patriotic convicts escape Devil's Island to fight for Free French forces, becoming a bomber crew in England.",
+      "awards": "Notable War Drama",
+      "ratings": {
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 51
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0037166/"
+    },
+    {
       "title": "Mr. Skeffington",
       "year": 1944,
       "role": "Job Skeffington",
-      "role_description": "A patient and fiercely loyal Jewish stockbroker who marries a vain beauty and stands by her despite her selfishness and numerous affairs.",
+      "role_description": "A patient and fiercely loyal Jewish stockbroker who marries a vain beauty and stands by her despite her selfishness and anti-Semitism.",
       "plot": "A vain woman who has many suitors marries a stockbroker for his money, only to find her beauty fading as she alienates everyone around her.",
       "awards": "Oscar: Nomination – Best Supporting Actor",
       "ratings": {
@@ -158,9 +256,9 @@
       "title": "Caesar and Cleopatra",
       "year": 1945,
       "role": "Julius Caesar",
-      "role_description": "The aging, philosophical Roman conqueror who takes the young Egyptian queen under his wing, teaching her how to rule.",
+      "role_description": "The aging Roman conqueror who takes the young Egyptian queen under his wing, teaching her how to rule.",
       "plot": "Julius Caesar conquers Egypt and takes the young Cleopatra under his wing to train her as a ruler.",
-      "awards": "Notable Role",
+      "awards": "Notable British Production",
       "ratings": {
         "imdb": 6.2,
         "rotten_tomatoes_critic": 80,
@@ -172,7 +270,7 @@
       "title": "Notorious",
       "year": 1946,
       "role": "Alexander Sebastian",
-      "role_description": "A wealthy Nazi sympathizer in South America who marries an American spy, not realizing her true mission until it threatens his life.",
+      "role_description": "A wealthy Nazi sympathizer in South America who marries an American spy, only to discover her betrayal and plot her demise.",
       "plot": "A woman is asked to spy on a group of Nazi friends in South America. How far will she have to go to ingratiate herself with them?",
       "awards": "Oscar: Nomination – Best Supporting Actor",
       "ratings": {
@@ -183,12 +281,26 @@
       "imdb_url": "https://www.imdb.com/title/tt0038787/"
     },
     {
+      "title": "Deception",
+      "year": 1946,
+      "role": "Alexander Hollenius",
+      "role_description": "A wealthy, egomaniacal composer who torments his former mistress and her new husband, a cellist.",
+      "plot": "A music teacher marries her cellist lover after thinking her former lover, a famous composer, was dead, but the composer returns.",
+      "awards": "Notable Noir Melodrama",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 64,
+        "rotten_tomatoes_popcorn": 62
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0038461/"
+    },
+    {
       "title": "Angel on My Shoulder",
       "year": 1946,
       "role": "Nick",
-      "role_description": "The Devil himself, who makes a deal with a murdered gangster to return to Earth, hoping to corrupt a virtuous judge.",
+      "role_description": "The Devil himself, who makes a deal with a murdered gangster to return to Earth to corrupt a virtuous judge.",
       "plot": "A deceased gangster makes a deal with the Devil to return to Earth as a judge to avenge his murder.",
-      "awards": "Notable Film",
+      "awards": "Notable Fantasy",
       "ratings": {
         "imdb": 6.8,
         "rotten_tomatoes_critic": 71,
@@ -197,12 +309,54 @@
       "imdb_url": "https://www.imdb.com/title/tt0038300/"
     },
     {
+      "title": "The Unsuspected",
+      "year": 1947,
+      "role": "Victor Grandison",
+      "role_description": "A popular radio host who narrates murder mysteries on air while secretly committing the perfect crime in real life.",
+      "plot": "A radio host commits the perfect crime, but his niece's husband has ideas of his own.",
+      "awards": "Notable Film Noir",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 78,
+        "rotten_tomatoes_popcorn": 63
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0039922/"
+    },
+    {
+      "title": "The Passionate Friends",
+      "year": 1949,
+      "role": "Howard Justin",
+      "role_description": "The wealthy, understanding, yet ultimately heartbroken husband of a woman who cannot forget her first love.",
+      "plot": "A woman marries a wealthy banker for security but continues to meet her former lover over the years.",
+      "awards": "Notable David Lean Film",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 82,
+        "rotten_tomatoes_popcorn": 60
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0040683/"
+    },
+    {
+      "title": "The Man Who Watched Trains Go By",
+      "year": 1952,
+      "role": "Kees Popinga",
+      "role_description": "A meek Dutch bookkeeper who snaps after his boss embezzles the company funds, leading him on a criminal adventure in Paris.",
+      "plot": "A henpecked clerk runs away to Paris with his company's funds and becomes involved with a dangerous woman.",
+      "awards": "Notable Thriller",
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 49
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0046033/"
+    },
+    {
       "title": "Lawrence of Arabia",
       "year": 1962,
       "role": "Mr. Dryden",
-      "role_description": "A shrewd and cynical British diplomat who navigates the complex political landscape of the Arab Revolt.",
-      "plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
-      "awards": "Notable Role",
+      "role_description": "A shrewd British diplomat and intelligence leader who cynically manipulates the Arab Revolt for political gain.",
+      "plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I.",
+      "awards": "Notable Supporting Role",
       "ratings": {
         "imdb": 8.3,
         "rotten_tomatoes_critic": 94,
@@ -211,12 +365,26 @@
       "imdb_url": "https://www.imdb.com/title/tt0056172/"
     },
     {
+      "title": "Twilight of Honor",
+      "year": 1963,
+      "role": "Art Harper",
+      "role_description": "An aging, cynical lawyer who mentors a younger attorney defending a man accused of murder.",
+      "plot": "A young lawyer defends a man accused of murdering a town hero, aided by an older mentor.",
+      "awards": "Notable Late Career Role",
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": 40,
+        "rotten_tomatoes_popcorn": 38
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0057607/"
+    },
+    {
       "title": "The Greatest Story Ever Told",
       "year": 1965,
       "role": "King Herod",
-      "role_description": "The paranoid and ruthless King of Judea who orders the massacre of the innocents to protect his throne.",
+      "role_description": "The paranoid King of Judea who orders the massacre of the innocents to protect his throne; Rains' final film role.",
       "plot": "An all-star retelling of the life of Jesus Christ, from his birth in Bethlehem to his crucifixion and resurrection.",
-      "awards": "Notable Role (Final Film)",
+      "awards": "Final Film Role",
       "ratings": {
         "imdb": 6.5,
         "rotten_tomatoes_critic": 28,

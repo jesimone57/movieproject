@@ -18,4 +18,16 @@ public class ActorAwards {
     private int goldenGlobessNominated;
     @JsonProperty("golden_globes_won")
     private int goldenGlobessWon;
+    @JsonProperty("emmys_won")
+    private int emmysWon;
+    @JsonProperty("cannes_won")
+    private int cannesWon;
+    @JsonProperty("volpi_cup_won")
+    private int volpiCupWon;
+    @JsonProperty("bafta_nominated")
+    private int baftaNominated;
+    @JsonProperty("kennedy_center_honors")
+    private int kennedyCenterHonors;
+    @JsonProperty("national_board_of_review_won")
+    private int nationalBoardOfReviewWon;
 }

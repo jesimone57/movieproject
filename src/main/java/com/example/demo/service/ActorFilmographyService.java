@@ -20,7 +20,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class ActorFilmographyService {
 
-    private Logger logger = LoggerFactory.getLogger(ActorFilmographyService.class);
+    private final Logger logger = LoggerFactory.getLogger(ActorFilmographyService.class);
     private final List<ActorFilmography> actorFilmographies;
     private static final String RESOURCE_FILE = "actor-movies-sample.json";
     private static final String FILMOGRAPHIES_FOLDER = "actor-filmographies";
@@ -68,7 +68,7 @@ public class ActorFilmographyService {
             throw new IllegalArgumentException("folder cannot be null or empty");
         }
 
-        logger.info("Loading ActorFilmographies from resource folder: " + folder);
+        logger.info("Loading ActorFilmographies from resource folder: {}", folder);
         int addedFileCount = 0;
         ObjectMapper objectMapper = new ObjectMapper();
         PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
@@ -88,7 +88,7 @@ public class ActorFilmographyService {
                         if (single != null) {
                             this.actorFilmographies.add(single);
                             addedFileCount++;
-                            logger.info("\t" + addedFileCount + " added as single entry: " + resourceFileName);
+                            logger.info("\t {} added as single entry: {}", addedFileCount, resourceFileName);
                         }
                     } catch (IOException singleEx) {
                         // If single parse failed, try as an array/list
@@ -97,16 +97,16 @@ public class ActorFilmographyService {
                             if (list != null && !list.isEmpty()) {
                                 this.actorFilmographies.addAll(list);
                                 addedFileCount++;
-                                logger.info("\t" + addedFileCount + " added as multiple entries: " + resourceFileName);
+                                logger.info("\t {} added as multiple entries: {}", addedFileCount, resourceFileName);
                             }
                         } catch (IOException listEx) {
-                            logger.info("\t" + "Skip malformed resource " + resourceFileName + " and continue (malformed or unexpected structure)");
+                            logger.info("\t Skip malformed resource {} and continue (malformed or unexpected structure)", resourceFileName);
 
                         }
                     }
                 }
             }
-            logger.info("Loaded "+ addedFileCount + " ActorFilmographies from resource folder: " + folder);
+            logger.info("Loaded {} ActorFilmographies from resource folder: {}",addedFileCount, folder);
         } catch (IOException e) {
             // If we cannot scan the folder, simply ignore and continue with existing data
             // Optionally log in the future

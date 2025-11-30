@@ -10,10 +10,26 @@
     "number_of_feature_films_made": 101,
     "actor_awards": {
       "oscars_won": 2,
-      "oscars_nominated": 10
+      "oscars_nominated": 10,
+      "cannes_won": 1,
+      "volpi_cup_won": 1
     }
   },
   "filmography": [
+    {
+      "title": "The Man Who Played God",
+      "year": 1932,
+      "role": "Grace Blair",
+      "role_description": "A loyal young woman who stands by a famous musician after he loses his hearing; the role that convinced Warner Bros. to keep Davis under contract.",
+      "plot": "A deaf musician learns to read lips and uses his new skill to help others, while a young woman remains devoted to him.",
+      "awards": "Breakthrough Role",
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 45
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0023190/"
+    },
     {
       "title": "Of Human Bondage",
       "year": 1934,
@@ -32,7 +48,7 @@
       "title": "Dangerous",
       "year": 1935,
       "role": "Joyce Heath",
-      "role_description": "A self-destructive, alcoholic former stage star who acts as a curse to the men who try to help her.",
+      "role_description": "A self-destructive, alcoholic former stage star who acts as a 'jinx' to the men who try to help her.",
       "plot": "A prominent architect risks his career and engagement to rehabilitate a washed-up, jinxed actress he idolizes.",
       "awards": "Oscar: Win – Best Actress",
       "ratings": {
@@ -62,13 +78,27 @@
       "role": "Mary Dwight",
       "role_description": "A cynical nightclub hostess who courageously testifies against a powerful mob boss after he scars her sister.",
       "plot": "A district attorney persuades a nightclub hostess to testify against her gangster boss after a tragedy strikes her family.",
-      "awards": "Volpi Cup: Win – Best Actress",
+      "awards": "Venice Film Festival: Win – Volpi Cup (Best Actress)",
       "ratings": {
         "imdb": 7.0,
         "rotten_tomatoes_critic": 100,
         "rotten_tomatoes_popcorn": 62
       },
       "imdb_url": "https://www.imdb.com/title/tt0029214/"
+    },
+    {
+      "title": "Kid Galahad",
+      "year": 1937,
+      "role": "Louise 'Fluff' Phillips",
+      "role_description": "The mistress of a boxing promoter who falls for the naive young prizefighter she is helping to manage.",
+      "plot": "A boxing promoter discovers a bellhop with a knockout punch and grooms him for the championship, causing conflict with his girlfriend and a rival gangster.",
+      "awards": "Notable Noir/Sports Drama",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 63
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0029080/"
     },
     {
       "title": "Jezebel",
@@ -99,12 +129,40 @@
       "imdb_url": "https://www.imdb.com/title/tt0031210/"
     },
     {
+      "title": "Juarez",
+      "year": 1939,
+      "role": "Empress Carlota",
+      "role_description": "The tragic Empress of Mexico who descends into madness as her husband's puppet empire collapses.",
+      "plot": "Mexican President Benito Juarez fights the French occupation and the puppet Emperor Maximilian.",
+      "awards": "Notable Historical Drama",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 38
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0031516/"
+    },
+    {
+      "title": "The Old Maid",
+      "year": 1939,
+      "role": "Charlotte Lovell",
+      "role_description": "A woman who allows her cousin to raise her illegitimate daughter, living as the 'old maid' aunt to be near her child.",
+      "plot": "An unwed mother gives up her child to her cousin to raise, leading to a lifetime of jealousy and resentment.",
+      "awards": "Notable Melodrama",
+      "ratings": {
+        "imdb": 7.4,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 73
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0031749/"
+    },
+    {
       "title": "The Private Lives of Elizabeth and Essex",
       "year": 1939,
       "role": "Queen Elizabeth I",
       "role_description": "The aging, powerful Queen of England who is torn between her love for the Earl of Essex and her duty to the throne.",
       "plot": "A dramatization of the volatile relationship between Queen Elizabeth I and the Earl of Essex.",
-      "awards": "Oscar: Nomination – Best Cinematography",
+      "awards": "Notable Historical Romance",
       "ratings": {
         "imdb": 7.0,
         "rotten_tomatoes_critic": 83,
@@ -141,6 +199,34 @@
       "imdb_url": "https://www.imdb.com/title/tt0032701/"
     },
     {
+      "title": "The Great Lie",
+      "year": 1941,
+      "role": "Maggie Patterson",
+      "role_description": "A woman who makes a deal with her rival to raise the other woman's baby as her own to protect her husband's memory.",
+      "plot": "A woman keeps her marriage a secret and later adopts the baby of her husband's former lover after he goes missing.",
+      "awards": "Oscar: Win – Best Supporting Actress (Mary Astor)",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 75,
+        "rotten_tomatoes_popcorn": 64
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0033677/"
+    },
+    {
+      "title": "The Bride Came C.O.D.",
+      "year": 1941,
+      "role": "Joan Winfield",
+      "role_description": "A headstrong oil heiress who is kidnapped by a pilot hired by her father to stop her elopement.",
+      "plot": "A pilot agrees to help a father stop his daughter's wedding by kidnapping her, but they crash in the desert and fall in love.",
+      "awards": "Notable Comedy",
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 31
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0033430/"
+    },
+    {
       "title": "The Little Foxes",
       "year": 1941,
       "role": "Regina Giddens",
@@ -169,6 +255,20 @@
       "imdb_url": "https://www.imdb.com/title/tt0033874/"
     },
     {
+      "title": "In This Our Life",
+      "year": 1942,
+      "role": "Stanley Timberlake",
+      "role_description": "A selfish, destructive woman who steals her sister's husband and causes tragedy for everyone around her.",
+      "plot": "A neurotic woman ruins her sister's life by running off with her husband and then tries to pin a hit-and-run accident on a young black man.",
+      "awards": "Notable Melodrama",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0034890/"
+    },
+    {
       "title": "Now, Voyager",
       "year": 1942,
       "role": "Charlotte Vale",
@@ -195,6 +295,20 @@
         "rotten_tomatoes_popcorn": 62
       },
       "imdb_url": "https://www.imdb.com/title/tt0036513/"
+    },
+    {
+      "title": "Old Acquaintance",
+      "year": 1943,
+      "role": "Kit Marlowe",
+      "role_description": "A serious author who maintains a decades-long, turbulent friendship with a jealous and melodramatic rival writer.",
+      "plot": "Two friends who are both writers envy each other's success and struggle with their complicated relationship over two decades.",
+      "awards": "Notable 'Woman's Picture'",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 68
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0036230/"
     },
     {
       "title": "Mr. Skeffington",
@@ -237,6 +351,48 @@
         "rotten_tomatoes_popcorn": 57
       },
       "imdb_url": "https://www.imdb.com/title/tt0038984/"
+    },
+    {
+      "title": "Deception",
+      "year": 1946,
+      "role": "Christine Radcliffe",
+      "role_description": "A pianist who is tormented by her former lover, a wealthy composer, after she marries a cellist.",
+      "plot": "A music teacher marries her cellist lover after thinking her former lover, a famous composer, was dead, but the composer returns.",
+      "awards": "Notable Noir Melodrama",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 64,
+        "rotten_tomatoes_popcorn": 62
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0038461/"
+    },
+    {
+      "title": "June Bride",
+      "year": 1948,
+      "role": "Linda Gilman",
+      "role_description": "A sharp-witted magazine editor who must work with her ex-boyfriend to cover a winter wedding in Indiana.",
+      "plot": "A magazine editor and her former flame cover a 'typical American wedding' in winter, but complications ensue.",
+      "awards": "Notable Comedy",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 62
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0040498/"
+    },
+    {
+      "title": "Beyond the Forest",
+      "year": 1949,
+      "role": "Rosa Moline",
+      "role_description": "A bored, evil housewife who will stop at nothing, including murder, to escape her small town; famous for the line 'What a dump!'",
+      "plot": "A murderous, adulterous housewife tries to leave her small-town doctor husband for a wealthy industrialist.",
+      "awards": "Notable Camp Classic",
+      "ratings": {
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": 67,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0041172/"
     },
     {
       "title": "All About Eve",
