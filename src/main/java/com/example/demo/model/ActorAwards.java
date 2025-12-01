@@ -26,8 +26,25 @@ public class ActorAwards {
     private int volpiCupWon;
     @JsonProperty("bafta_nominated")
     private int baftaNominated;
+    @JsonProperty("bafta_won")
+    private int baftaWon;
     @JsonProperty("kennedy_center_honors")
     private int kennedyCenterHonors;
     @JsonProperty("national_board_of_review_won")
     private int nationalBoardOfReviewWon;
+    @JsonProperty("nyfcc_won")
+    private int nyfccWon;
+    @JsonProperty("walk_of_fame_stars")
+    private int walkOfFameStars;
+    @JsonProperty("berlin_silver_bear_won")
+    private int berlinSilverBearWon;
+    private String notes;
+    @JsonProperty("grammy_lifetime_achievement")
+    private int grammyLifetimeAchievement;
+    @JsonProperty("cecil_b_demille_award")
+    private int cecilBDemilleAward;
+    @JsonProperty("jean_hersholt_humanitarian_award")
+    private int jeanHersholtHumanitarianAward;
+    @JsonProperty("national_film_registry_inducted")
+    private int nationalFilmRegistryInducted;
 }
