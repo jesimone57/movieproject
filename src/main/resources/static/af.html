@@ -67,10 +67,42 @@
     .results { margin-top: 18px; display: grid; grid-template-columns: 1fr; gap: 12px; }
     /* Allow horizontal scroll for wide tables but keep vertical scrolling on the page
        so the sticky filter header can pin to the top of the viewport */
-    .table-wrap { overflow-x: auto; overflow-y: visible; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
-    table { border-collapse: collapse; width: 100%; min-width: 880px; }
+    .table-wrap { position: relative; overflow-x: auto; overflow-y: visible; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
+    /* Use separate border model to avoid Safari sticky bugs */
+    table { border-collapse: separate; border-spacing: 0; width: 100%; min-width: 880px; }
     th, td { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: left; font-size: 14px; }
-    th { background: #f1f5f9; font-weight: 700; color: #334155; position: sticky; top: 0; }
+    /* Disable sticky on native thead; use a cloned sticky header instead. Keep it in layout for width calc */
+    thead { position: static; z-index: auto; visibility: hidden; pointer-events: none; }
+    thead th { position: static; background: #f1f5f9; font-weight: 700; color: #334155; }
+
+    /* External header that mirrors the table header cells. We'll control its
+       positioning purely via JS (fixed/absolute) for cross‑browser reliability. */
+    .sticky-head {
+      position: absolute; /* default; JS switches to fixed while sticking */
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 20;
+      background: #f1f5f9;
+      border-bottom: 1px solid var(--border);
+      overflow: hidden; /* allow inner row to translate for horizontal sync */
+    }
+    .sticky-head.is-fixed { position: fixed; }
+    .sticky-head.at-bottom { /* remains absolute; marker class for debugging */ }
+    .sticky-head .row {
+      display: grid;
+      align-items: center;
+      grid-auto-rows: minmax(0, auto);
+      will-change: transform;
+    }
+    .sticky-head .cell { 
+      padding: 8px 10px; 
+      font-weight: 700; 
+      color: #334155; 
+      border-right: 0; 
+      white-space: normal;
+      font-size: 14px; /* match table header font size */
+    }
     tbody tr:hover { background: #f9fbfd; }
     .numcol { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
     /* Allow wrapping inside numeric headers so we can split labels across two lines */
@@ -86,12 +118,14 @@
     .footer { text-align: center; color: var(--muted); font-size: 12px; padding: 18px; }
 
     /* Column sizing tweaks per updated requirements */
-    /* 1: Name, 2: Life (Born–Died), 3: Oscars Nominated, 4: Oscars Won, 5: Filmography */
+    /* 1: Name, 2: Life (Born–Died), 3: Career (First–Last film), 4: Feature Films (#), 5: Oscars Nominated, 6: Oscars Won, 7: Filmography */
     th:nth-child(1), td:nth-child(1) { min-width: 195px; }
     th:nth-child(2), td:nth-child(2) { width: 80px; }                /* compact life span */
-    th:nth-child(3), td:nth-child(3) { width: 60px; }                /* Small two‑digit numbers */
-    th:nth-child(4), td:nth-child(4) { width: 60px; }                /* Small two‑digit numbers */
-    th:nth-child(5), td:nth-child(5) { width: 75%; }                 /* Make filmography column wider */
+    th:nth-child(3), td:nth-child(3) { width: 80px; }                /* compact career span */
+    th:nth-child(4), td:nth-child(4) { width: 60px; }                /* # of feature films */
+    th:nth-child(5), td:nth-child(5) { width: 60px; }                /* Small two‑digit numbers */
+    th:nth-child(6), td:nth-child(6) { width: 60px; }                /* Small two‑digit numbers */
+    th:nth-child(7), td:nth-child(7) { width: 73%; }                 /* Keep filmography width unchanged */
 
     /* Filmography cell: show each film on a separate line with light spacing */
     .film-line + .film-line { margin-top: 4px; }
@@ -155,13 +189,16 @@
 
     <div class="results">
         <div class="table-wrap">
+          <div id="stickyHead" class="sticky-head"></div>
           <table id="resultsTable">
             <colgroup>
-              <col style="width: 18%">   <!-- Name -->
-              <col style="width: 5%">    <!-- Life (Born–Died) -->
-              <col style="width: 2%">    <!-- Oscars Nominated (2-digit) -->
+              <col style="width: 14%">   <!-- Name -->
+              <col style="width: 4%">    <!-- Life (Born–Died) -->
+              <col style="width: 4%">    <!-- Career (First–Last film) -->
+              <col style="width: 2%">    <!-- # Feature Films -->
+              <col style="width: 1%">    <!-- Oscars Nominated (2-digit) -->
               <col style="width: 2%">    <!-- Oscars Won (2-digit) -->
-              <col style="width: 73%">   <!-- Filmography (wider) -->
+              <col style="width: 73%">   <!-- Filmography (wider, unchanged) -->
             </colgroup>
             <thead>
               <tr>
@@ -178,6 +215,22 @@
                     <span class="sort-controls">
                       <button data-col="life" data-dir="asc">▲</button>
                       <button data-col="life" data-dir="desc">▼</button>
+                    </span>
+                  </span>
+                </th>
+                <th class="numcol">
+                  <span class="sortable">Career
+                    <span class="sort-controls">
+                      <button data-col="career" data-dir="asc">▲</button>
+                      <button data-col="career" data-dir="desc">▼</button>
+                    </span>
+                  </span>
+                </th>
+                <th class="numcol">
+                  <span class="sortable">Feature<br>Films
+                    <span class="sort-controls">
+                      <button data-col="features" data-dir="asc">▲</button>
+                      <button data-col="features" data-dir="desc">▼</button>
                     </span>
                   </span>
                 </th>
@@ -348,27 +401,39 @@
       for (const it of rows) {
         const p = it.actor_profile || it.actorProfile || {}; // support JSON naming
         const awards = p.actor_awards || p.actorAwards || {};
+        const firstFilm = p.year_of_first_film ?? p.yearOfFirstFilm ?? null;
+        const lastFilm  = p.year_of_last_film ?? p.yearOfLastFilm ?? null;
+        const features  = p.number_of_feature_films_made ?? p.numberOfFeatureFilms ?? null;
+        let career = '';
+        if (firstFilm != null || lastFilm != null) {
+          if (firstFilm != null && lastFilm == null) career = `${firstFilm}–`;
+          else if (firstFilm == null && lastFilm != null) career = `–${lastFilm}`;
+          else career = `${firstFilm}–${lastFilm}`;
+        }
         const tr = document.createElement('tr');
         const cells = [
           fmt(p.name, ''),
           lifeSpan(p),
+          career,
+          features ?? '',
           awards.oscars_nominated ?? awards.oscarsNominated ?? '',
           awards.oscars_won ?? awards.oscarsWon ?? '',
           aggregateFilmographyHtml(it)
         ];
         cells.forEach((c, idx) => {
           const td = document.createElement('td');
-          if (idx === 4) {
+          if (idx === 6) {
             td.innerHTML = c || '';
           } else {
             td.textContent = c === null ? '' : c;
           }
-          if (idx >= 1 && idx <= 3) td.classList.add('numcol');
+          // numeric/small text alignment for columns 2..6 (all but Name and Filmography)
+          if (idx >= 1 && idx <= 5) td.classList.add('numcol');
           // Awards coloring: won -> bold green, else if nominated -> bold blue
-          if (idx === 2 || idx === 3) {
+          if (idx === 4 || idx === 5) {
             const n = Number(c);
             if (!Number.isNaN(n) && n > 0) {
-              if (idx === 3) {
+              if (idx === 5) {
                 td.classList.add('oscar-win');
               } else {
                 // Only apply nomination color if no wins (wins take precedence visually in adjacent cell)
@@ -392,6 +457,17 @@
       switch (col) {
         case 'name': va = (pA.name || '').toLowerCase(); vb = (pB.name || '').toLowerCase(); break;
         case 'life': va = pA.year_born ?? pA.yearBorn ?? null; vb = pB.year_born ?? pB.yearBorn ?? null; break; // sort by birth year
+        case 'career': {
+          const fa = pA.year_of_first_film ?? pA.yearOfFirstFilm ?? null;
+          const la = pA.year_of_last_film ?? pA.yearOfLastFilm ?? null;
+          const fb = pB.year_of_first_film ?? pB.yearOfFirstFilm ?? null;
+          const lb = pB.year_of_last_film ?? pB.yearOfLastFilm ?? null;
+          // Prefer first film year; if missing, fall back to last film year
+          va = fa ?? la ?? null;
+          vb = fb ?? lb ?? null;
+          break;
+        }
+        case 'features': va = pA.number_of_feature_films_made ?? pA.numberOfFeatureFilms ?? null; vb = pB.number_of_feature_films_made ?? pB.numberOfFeatureFilms ?? null; break;
         case 'noms': va = awA.oscars_nominated ?? awA.oscarsNominated ?? null; vb = awB.oscars_nominated ?? awB.oscarsNominated ?? null; break;
         case 'won':  va = awA.oscars_won ?? awA.oscarsWon ?? null;       vb = awB.oscars_won ?? awB.oscarsWon ?? null; break;
         default: va = 0; vb = 0;
@@ -413,6 +489,9 @@
         return dir === 'asc' ? r : -r;
       });
       render();
+      // After sorting, move the viewport to the top of the results so users
+      // see the list from the beginning with the new order.
+      scrollResultsToTop();
     }
 
     function updateActiveSortButtons() {
@@ -495,8 +574,207 @@
       $(id).addEventListener('keydown', (e) => { if (e.key === 'Enter') search(); });
     });
 
+    // Adjust sticky table header offset to sit below the sticky filters section
+    function updateStickyHeaderOffset() {
+      const filters = document.querySelector('.sticky-filters');
+      const wraps = document.querySelectorAll('.table-wrap');
+      let offset = 0;
+      if (filters) {
+        const rect = filters.getBoundingClientRect();
+        // Only offset the table header when the filters bar is actually stuck to the viewport top
+        if (rect.top <= 0) {
+          // subtract 1px to account for borders and prevent a visible gap
+          offset = Math.max(0, Math.ceil(rect.height) - 1);
+        }
+      }
+      wraps.forEach(w => w.style.setProperty('--filters-offset', offset + 'px'));
+    }
+    window.addEventListener('resize', updateStickyHeaderOffset);
+    window.addEventListener('load', updateStickyHeaderOffset);
+    window.addEventListener('scroll', updateStickyHeaderOffset, { passive: true });
+
+    // Sticky cloned header implementation (JS-driven fixed/absolute; reliable across Chrome/Safari)
+    const stickyApi = (function() {
+      const wrap = () => document.querySelector('.table-wrap');
+      const headHost = () => document.getElementById('stickyHead');
+      const table = () => document.getElementById('resultsTable');
+      const theadRow = () => document.querySelector('#resultsTable thead tr');
+      const filters = () => document.querySelector('.sticky-filters');
+
+      function rebuild() {
+        const host = headHost();
+        const tr = theadRow();
+        if (!host || !tr) return;
+
+        // Build container
+        host.innerHTML = '';
+        const row = document.createElement('div');
+        row.className = 'row';
+
+        // Clone each header cell into a matching div.cell
+        const ths = Array.from(tr.children);
+        ths.forEach((th) => {
+          const cell = document.createElement('div');
+          cell.className = 'cell';
+          // preserve inner HTML to keep sort controls/buttons
+          cell.innerHTML = th.innerHTML;
+          // numeric alignment
+          if (th.classList.contains('numcol')) cell.style.textAlign = 'right';
+          row.appendChild(cell);
+        });
+        host.appendChild(row);
+
+        // Wire sort buttons in the cloned header
+        host.querySelectorAll('.sort-controls button').forEach(btn => {
+          btn.addEventListener('click', () => sortData(btn.dataset.col, btn.dataset.dir));
+        });
+
+        // Apply widths now
+        syncWidths();
+        // Ensure horizontal sync
+        syncScroll();
+        // Reflect active sort state
+        updateActiveSortButtons();
+        // Update positioning mode
+        updateMode();
+      }
+
+      function syncWidths() {
+        const tr = theadRow();
+        const host = headHost();
+        if (!tr || !host) return;
+        const ths = Array.from(tr.children);
+        const widths = ths.map(th => Math.ceil(th.getBoundingClientRect().width));
+        const row = host.firstElementChild;
+        if (!row) return;
+        // Set grid columns to measured pixel widths to align perfectly
+        row.style.gridTemplateColumns = widths.map(w => (w > 0 ? w + 'px' : 'auto')).join(' ');
+      }
+
+      function syncScroll() {
+        const w = wrap();
+        const host = headHost();
+        if (!w || !host) return;
+        const row = host.firstElementChild;
+        if (!row) return;
+        // Translate inner row (not the sticky container) to follow horizontal scroll
+        row.style.transform = `translateX(${-w.scrollLeft}px)`;
+      }
+
+      function headerHeight() {
+        const host = headHost();
+        const row = host?.firstElementChild;
+        if (!row) return 0;
+        const h = Math.ceil(row.getBoundingClientRect().height);
+        return isFinite(h) ? h : 0;
+      }
+
+      function filtersOffset() {
+        const f = filters();
+        if (!f) return 0;
+        const rect = f.getBoundingClientRect();
+        if (rect.top <= 0) return Math.max(0, Math.ceil(rect.height) - 1);
+        return 0;
+      }
+
+      function updateMode() {
+        const w = wrap();
+        const host = headHost();
+        const tbl = table();
+        if (!w || !host || !tbl) return;
+
+        const wrapRect = w.getBoundingClientRect();
+        const tblRect = tbl.getBoundingClientRect();
+        const topLimit = filtersOffset();
+        const hdrH = headerHeight();
+
+        // Conditions:
+        // 1) Before table reaches filters area: header follows table (absolute at top of table)
+        // 2) While table is in view: header fixed under filters
+        // 3) After passing bottom: header sticks at table bottom (absolute)
+
+        // Case 1: table top below sticking line
+        if (tblRect.top > topLimit) {
+          host.classList.remove('is-fixed');
+          host.classList.remove('at-bottom');
+          host.style.position = 'absolute';
+          host.style.top = tbl.offsetTop + 'px';
+          host.style.left = '0px';
+          host.style.right = '0px';
+          host.style.width = '';
+          return;
+        }
+
+        // Case 3: bottom reached (ensure we don't go past the table)
+        if (tblRect.bottom <= topLimit + hdrH) {
+          host.classList.remove('is-fixed');
+          host.classList.add('at-bottom');
+          host.style.position = 'absolute';
+          const bottomTop = tbl.offsetTop + tbl.clientHeight - hdrH;
+          host.style.top = bottomTop + 'px';
+          host.style.left = '0px';
+          host.style.right = '0px';
+          host.style.width = '';
+          return;
+        }
+
+        // Case 2: fixed under filters bar
+        host.classList.add('is-fixed');
+        host.classList.remove('at-bottom');
+        host.style.position = 'fixed';
+        host.style.top = topLimit + 'px';
+        host.style.left = Math.round(wrapRect.left) + 'px';
+        host.style.width = Math.round(wrapRect.width) + 'px';
+      }
+
+      function bind() {
+        const w = wrap();
+        if (!w) return;
+        // Sync on resize and when horizontally scrolling
+        window.addEventListener('resize', syncWidths);
+        w.addEventListener('scroll', syncScroll, { passive: true });
+        // Update positioning on scroll/resize
+        window.addEventListener('scroll', updateMode, { passive: true });
+        window.addEventListener('resize', updateMode);
+      }
+
+      return { rebuild, syncWidths, syncScroll, bind, updateMode };
+    })();
+
+    // If the filters content changes height (e.g., result count appears), update offset after render
+    const _render = render;
+    render = function() { _render(); updateStickyHeaderOffset(); stickyApi.rebuild(); };
+
+    // Initial bindings
+    window.addEventListener('load', () => { stickyApi.bind(); stickyApi.rebuild(); stickyApi.updateMode(); });
+
     // Optional: perform an initial load (empty filters fetches all if backend supports it)
     // search();
+
+    // Smoothly scroll the page so the results list starts at the top of the viewport,
+    // accounting for the sticky filters height so the (cloned) header sits just below it.
+    function scrollResultsToTop() {
+      const wrap = document.querySelector('.table-wrap');
+      if (!wrap) return;
+      const filters = document.querySelector('.sticky-filters');
+      const wrapTop = wrap.getBoundingClientRect().top + window.pageYOffset;
+      let offset = 0;
+      if (filters) {
+        const fr = filters.getBoundingClientRect();
+        // Use current filters height; subtract 1px to avoid visual gap, mirroring header offset logic
+        offset = Math.max(0, Math.ceil(fr.height) - 1);
+      }
+      const target = Math.max(0, Math.round(wrapTop - offset));
+      try {
+        window.scrollTo({ top: target, behavior: 'smooth' });
+      } catch (_) {
+        window.scrollTo(0, target);
+      }
+      // Ensure sticky header recalculates immediately for the new scroll position
+      if (stickyApi && typeof stickyApi.updateMode === 'function') {
+        stickyApi.updateMode();
+      }
+    }
   </script>
 </body>
 </html>
