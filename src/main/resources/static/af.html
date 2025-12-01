@@ -28,7 +28,9 @@
     h1 { margin: 0 0 6px; font-size: 26px; letter-spacing: .2px; }
     .subtitle { color: var(--muted); font-size: 14px; }
 
-    .container { max-width: 1140px; margin: 0 auto; padding: 16px; }
+    /* Make the layout 50% wider to give more horizontal room,
+       which also makes the filmography column effectively 50% wider */
+    .container { max-width: 1710px; margin: 0 auto; padding: 16px; }
 
     .panel {
       background: var(--card);
@@ -36,6 +38,13 @@
       border-radius: 12px;
       padding: 16px;
       box-shadow: 0 6px 20px rgba(0,0,0,0.04);
+    }
+
+    /* Keep the search filters/header section accessible while scrolling */
+    .sticky-filters {
+      position: sticky;
+      top: 0;
+      z-index: 30;
     }
 
     .grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 12px; align-items: end; }
@@ -56,7 +65,9 @@
     .actions-right label { margin: 0; }
 
     .results { margin-top: 18px; display: grid; grid-template-columns: 1fr; gap: 12px; }
-    .table-wrap { overflow: auto; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
+    /* Allow horizontal scroll for wide tables but keep vertical scrolling on the page
+       so the sticky filter header can pin to the top of the viewport */
+    .table-wrap { overflow-x: auto; overflow-y: visible; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
     table { border-collapse: collapse; width: 100%; min-width: 880px; }
     th, td { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: left; font-size: 14px; }
     th { background: #f1f5f9; font-weight: 700; color: #334155; position: sticky; top: 0; }
@@ -106,7 +117,7 @@
   </header>
 
   <main class="container">
-    <section class="panel">
+    <section class="panel sticky-filters">
       <div class="grid">
         <div style="grid-column: span 4;">
           <label for="name">Actor Name</label>
@@ -140,8 +151,9 @@
           </select>
         </div>
       </div>
+    </section>
 
-      <div class="results">
+    <div class="results">
         <div class="table-wrap">
           <table id="resultsTable">
             <colgroup>
@@ -193,7 +205,6 @@
         </div>
         <div id="status" class="note"></div>
       </div>
-    </section>
 
     <p class="note">Tip: Use the sort arrows in the headers. The Search button requests the server, Clear removes filters and results.</p>
   </main>
