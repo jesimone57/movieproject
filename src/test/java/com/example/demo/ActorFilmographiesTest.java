@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import com.example.demo.model.ActorFilmography;
+import com.example.demo.model.ActorMovie;
 import com.example.demo.service.ActorFilmographyService;
 import java.util.List;
 import org.junit.jupiter.api.BeforeEach;
@@ -74,6 +75,36 @@ class ActorFilmographiesTest {
         for (ActorFilmography af : filmographies) {
             assertTrue(af.getActorProfile().isInRange(year));
         }
+    }
+
+
+    @Test
+    void getPlotByText() {
+        ActorMovie actorMovie = new ActorMovie();
+        actorMovie.setPlot(" a man with a plan!");
+        assertTrue(actorMovie.isPlotText("man"));
+        assertTrue(actorMovie.isPlotText("MAN"));
+        assertTrue(actorMovie.isPlotText(" Man   "));
+        assertTrue(actorMovie.isPlotText(" Man WITH a"));
+        assertFalse(actorMovie.isPlotText("asdf"));
+    }
+
+    @Test
+    void getPlotByTextNull() {
+        ActorMovie actorMovie = new ActorMovie();
+        assertFalse(actorMovie.isPlotText(null));
+        assertFalse(actorMovie.isPlotText(""));
+        assertFalse(actorMovie.isPlotText("   "));
+        assertFalse(actorMovie.isPlotText("asdf"));
+    }
+
+    @Test
+    void getPlotByTextBlank() {
+        ActorMovie actorMovie = new ActorMovie();
+        actorMovie.setPlot("   ");
+        assertFalse(actorMovie.isPlotText(""));
+        assertFalse(actorMovie.isPlotText("   "));
+        assertFalse(actorMovie.isPlotText("asdf"));
     }
     /*
 

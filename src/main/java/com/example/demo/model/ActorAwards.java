@@ -22,6 +22,8 @@ public class ActorAwards {
     private int emmysWon;
     @JsonProperty("cannes_won")
     private int cannesWon;
+    @JsonProperty("cannes_best_actor_won")
+    private int cannesBestActorWon;
     @JsonProperty("volpi_cup_won")
     private int volpiCupWon;
     @JsonProperty("bafta_nominated")
@@ -39,6 +41,8 @@ public class ActorAwards {
     @JsonProperty("berlin_silver_bear_won")
     private int berlinSilverBearWon;
     private String notes;
+    @JsonProperty("grammys_won")
+    private int grammysWon;
     @JsonProperty("grammy_lifetime_achievement")
     private int grammyLifetimeAchievement;
     @JsonProperty("cecil_b_demille_award")
@@ -47,4 +51,11 @@ public class ActorAwards {
     private int jeanHersholtHumanitarianAward;
     @JsonProperty("national_film_registry_inducted")
     private int nationalFilmRegistryInducted;
+    @JsonProperty("david_di_donatello_won")
+    private int davidDiDonatelloWon;
+    @JsonProperty("san_sebastian_won")
+    private int sanSebastianWon;
+    @JsonProperty("presidential_medal_of_freedom")
+    private int presidentialMedalOfFreedom;
+
 }
