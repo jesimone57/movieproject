@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -6,12 +6,11 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import com.example.demo.model.ActorFilmography;
-import com.example.demo.service.ActorFilmographyService;
 import java.util.List;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class ActorFilmographiesTest {
+class ActorFilmographyServiceTest {
 
     private static final String TEST_RESOURCE = "actor-movies-sample.json";
     private ActorFilmographyService actorFilmographyServiceService;
