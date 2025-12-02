@@ -52,6 +52,11 @@
 
     input, select { width: 100%; padding: 10px 12px; font-size: 14px; color: var(--text); background: #fff; border: 1px solid var(--border); border-radius: 8px; outline: none; transition: box-shadow .15s ease, border-color .15s ease; }
     input:focus, select:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(74,144,226,0.15); }
+    /* Visually mark inputs that participated in the most recent search */
+    input.filter-active {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(74,144,226,0.2);
+    }
 
     .btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 14px; border: 1px solid var(--primary); background: var(--primary); color: #fff; border-radius: 10px; font-weight: 600; cursor: pointer; transition: background .15s ease, transform .05s ease; text-decoration: none; white-space: nowrap; }
     .btn.secondary { background: #fff; color: var(--primary); }
@@ -63,6 +68,8 @@
     .actions-row { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 8px; }
     .actions-right { display: flex; align-items: center; gap: 8px; }
     .actions-right label { margin: 0; }
+    .actions-right .inline-field { display:flex; flex-direction: column; gap:4px; }
+    .actions-right .inline-field input { min-width: 260px; }
 
     .results { margin-top: 18px; display: grid; grid-template-columns: 1fr; gap: 12px; }
     /* Allow horizontal scroll for wide tables but keep vertical scrolling on the page
@@ -142,6 +149,7 @@
     /* Award emphasis */
     .oscar-win { color: #0a7a20; font-weight: 700; }
     .oscar-nom { color: #0b5ed7; font-weight: 700; }
+    .hl { background: yellow; }
   </style>
 </head>
 <body>
@@ -177,6 +185,10 @@
           <span id="resultCount" class="kpi" style="display:none"></span>
         </div>
         <div class="actions-right">
+          <div class="inline-field">
+            <label for="filmListSearchText">Search filmographies by</label>
+            <input id="filmListSearchText" type="text" placeholder="e.g., title, plot, awards, rating" />
+          </div>
           <label for="sort">Sort Filmographies By</label>
           <select id="sort">
             <option value="title" selected>Title</option>
@@ -278,13 +290,17 @@
       const year = $('year').value.trim();
       const noms = $('oscarsNominated').value.trim();
       const won = $('oscarsWon').value.trim();
+      const filmListSearchText = ($('filmListSearchText')?.value || '').trim();
       const sort = ($('sort')?.value || 'title').trim();
       if (name) params.set('name', name);
       if (year) params.set('year', year);
       if (noms) params.set('oscarsNominated', noms);
       if (won) params.set('oscarsWon', won);
+      if (filmListSearchText) params.set('filmListSearchText', filmListSearchText);
       // Always include sort, default to 'title'
       params.set('sort', sort || 'title');
+      // Remember current filmography search term for client-side highlighting
+      window.currentFilmSearch = filmListSearchText;
       return params.toString() ? api + '?' + params.toString() : api;
     }
 
@@ -328,6 +344,18 @@
       return out.join('; ');
     }
 
+    function escapeRegExp(str) {
+      return String(str).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    // Highlight occurrences of term inside an HTML string by simple textual replacement.
+    // Assumes the HTML was produced from escaped text (no unsafe input). Case-insensitive.
+    function highlightInHtml(html, term) {
+      if (!term) return html;
+      const pat = new RegExp(escapeRegExp(term), 'gi');
+      return html.replace(pat, (m) => `<span class="hl">${m}</span>`);
+    }
+
     function filmToHtml(f) {
       if (!f) return '';
       const title = escapeHtml(fmt(f.title, 'Untitled'));
@@ -340,7 +368,12 @@
       if (r.rottenRomatoesCriticScore) parts.push(`RT Critic ${escapeHtml(r.rottenRomatoesCriticScore)}`);
       if (r.rottenTomatoesPopcornScore) parts.push(`RT Popcorn ${escapeHtml(r.rottenTomatoesPopcornScore)}`);
       const ratings = parts.length ? ` — Ratings: ${parts.join(', ')}` : '';
-      return `<strong>${title}</strong>${year}${plot}${awards}${ratings}`;
+      let html = `<strong>${title}</strong>${year}${plot}${awards}${ratings}`;
+      const term = (window.currentFilmSearch || '').trim();
+      if (term) {
+        html = highlightInHtml(html, term);
+      }
+      return html;
     }
 
     function aggregateFilmographyHtml(entry) {
@@ -512,7 +545,24 @@
       }
     }
 
+    // Mark which filter inputs were used in the latest successful search
+    function setActiveFilters(usedIds) {
+      const all = ['name','year','oscarsNominated','oscarsWon','filmListSearchText'];
+      all.forEach(id => {
+        const el = $(id);
+        if (el) el.classList.toggle('filter-active', Array.isArray(usedIds) && usedIds.includes(id));
+      });
+    }
+
     async function search() {
+      // Determine which filter inputs are currently non-empty to mark as active upon success
+      const used = [];
+      if ($('name')?.value.trim()) used.push('name');
+      if ($('year')?.value.trim()) used.push('year');
+      if ($('oscarsNominated')?.value.trim()) used.push('oscarsNominated');
+      if ($('oscarsWon')?.value.trim()) used.push('oscarsWon');
+      if ($('filmListSearchText')?.value.trim()) used.push('filmListSearchText');
+
       const url = buildQuery();
       const status = $('status');
       status.textContent = 'Searching…';
@@ -530,6 +580,8 @@
         }
         status.textContent = `${data.length} result(s)`;
         setResultCount(data.length);
+        // Only after a successful search, update which filters are marked active
+        setActiveFilters(used);
       } catch (e) {
         console.error(e);
         data = [];
@@ -544,7 +596,11 @@
       $('year').value = '';
       $('oscarsNominated').value = '';
       $('oscarsWon').value = '';
+      if ($('filmListSearchText')) $('filmListSearchText').value = '';
+      window.currentFilmSearch = '';
       if ($('sort')) $('sort').value = 'title';
+      // Clear any active visual markers on inputs
+      setActiveFilters([]);
       data = [];
       sortState = { col: null, dir: null };
       $('tbody').innerHTML = '';
@@ -570,7 +626,7 @@
     });
 
     // Allow Enter to trigger search
-    ['name','year','oscarsNominated','oscarsWon','sort'].forEach(id => {
+    ['name','year','oscarsNominated','oscarsWon','sort','filmListSearchText'].forEach(id => {
       $(id).addEventListener('keydown', (e) => { if (e.key === 'Enter') search(); });
     });
 
