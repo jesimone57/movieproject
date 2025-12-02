@@ -155,20 +155,21 @@ public class ActorFilmographyService {
     }
 
     public List<ActorFilmography> filterActorFilmographies(String actorName, Integer year,
-                                                           Integer oscarsNominated, Integer oscarsWon, String sort) {
+                                                           Integer oscarsNominated, Integer oscarsWon, String filmographySearchText, String sort) {
 
         List<ActorFilmography> filteredActorFilmographies = actorFilmographies.stream()
                 .filter(af -> actorName == null || af.isActorName(actorName))
                 .filter(af -> year == null      || af.getActorProfile() != null && af.getActorProfile().isInRange(year))
                 .filter(af -> oscarsNominated == null || af.isOscarsNominated(oscarsNominated))
                 .filter(af -> oscarsWon == null      ||  af.isOscarsWon(oscarsWon))
+                .filter(af -> filmographySearchText == null      ||  af.isTextInCurrentFilmographyDisplayText(filmographySearchText))
                 .toList();
         return sortActorFilms(filteredActorFilmographies, sort);
     }
 
     public List<ActorFilmography> filterActorFilmographies(String actorName, Integer year,
-                                                           Integer oscarsNominated, Integer oscarsWon) {
-        return filterActorFilmographies(actorName, year, oscarsNominated, oscarsWon, null);
+                                                           Integer oscarsNominated, Integer oscarsWon, String filmographySearchText) {
+        return filterActorFilmographies(actorName, year, oscarsNominated, oscarsWon, filmographySearchText, null);
     }
 
     public List<ActorFilmography> sortActorFilms(List<ActorFilmography> filmsToSort, String sort) {

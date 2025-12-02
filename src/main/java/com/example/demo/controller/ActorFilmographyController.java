@@ -25,8 +25,9 @@ public class ActorFilmographyController {
             @RequestParam(value = "year",      required = false) Integer year,
             @RequestParam(value = "oscarsNominated", required = false) Integer oscarsNominated,
             @RequestParam(value = "oscarsWon", required = false) Integer oscarsWon,
+            @RequestParam(value = "filmListSearchText", required = false) String filmographySearchText,
             @RequestParam(value = "sort", required = false) String sort) {
-        return actorFilmographyService.filterActorFilmographies(actorName, year, oscarsNominated, oscarsWon, sort);
+        return actorFilmographyService.filterActorFilmographies(actorName, year, oscarsNominated, oscarsWon, filmographySearchText, sort);
     }
 
     // GET /api/filmographies/duplicates -> map of duplicate title to count

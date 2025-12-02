@@ -10,7 +10,7 @@ public class FilmographyCounter {
 
     public static void main(String[] args) {
         ActorFilmographyService actorFilmographyService = new ActorFilmographyService();
-        for (ActorFilmography af: actorFilmographyService.filterActorFilmographies(null, null, null, null)) {
+        for (ActorFilmography af: actorFilmographyService.filterActorFilmographies(null, null, null, null, null)) {
             logger.info("actor-filmographies for {} : {}", af.getActorProfile().getName(), af.getFilmography().size());
         }
 

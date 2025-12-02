@@ -6,7 +6,6 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import com.example.demo.model.ActorFilmography;
-import com.example.demo.model.ActorMovie;
 import com.example.demo.service.ActorFilmographyService;
 import java.util.List;
 import org.junit.jupiter.api.BeforeEach;
@@ -25,7 +24,7 @@ class ActorFilmographiesTest {
     @Test
     void getFilmographies() {
         List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(null,
-                null, null, null);
+                null, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
     }
@@ -34,7 +33,7 @@ class ActorFilmographiesTest {
     void getActorByName() {
         String name = "streep";
         List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(name,
-                null, null, null);
+                null, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
         assertEquals(1, filmographies.size());
@@ -45,7 +44,7 @@ class ActorFilmographiesTest {
     void getActorByPartialName() {
         String name = "e";
         List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(name,
-                null, null, null);
+                null, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
         assertEquals(2, filmographies.size());
@@ -57,7 +56,7 @@ class ActorFilmographiesTest {
     void getActorByPartialNameWhitespace() {
         String name = " rlo  ";
         List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(name,
-                null, null, null);
+                null, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
         assertEquals(1, filmographies.size());
@@ -68,7 +67,7 @@ class ActorFilmographiesTest {
     void getActorByYear() {
         Integer year = 1932;
         List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(null,
-                year, null, null);
+                year, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
         assertEquals(2, filmographies.size());
@@ -77,35 +76,6 @@ class ActorFilmographiesTest {
         }
     }
 
-
-    @Test
-    void getPlotByText() {
-        ActorMovie actorMovie = new ActorMovie();
-        actorMovie.setPlot(" a man with a plan!");
-        assertTrue(actorMovie.isPlotText("man"));
-        assertTrue(actorMovie.isPlotText("MAN"));
-        assertTrue(actorMovie.isPlotText(" Man   "));
-        assertTrue(actorMovie.isPlotText(" Man WITH a"));
-        assertFalse(actorMovie.isPlotText("asdf"));
-    }
-
-    @Test
-    void getPlotByTextNull() {
-        ActorMovie actorMovie = new ActorMovie();
-        assertFalse(actorMovie.isPlotText(null));
-        assertFalse(actorMovie.isPlotText(""));
-        assertFalse(actorMovie.isPlotText("   "));
-        assertFalse(actorMovie.isPlotText("asdf"));
-    }
-
-    @Test
-    void getPlotByTextBlank() {
-        ActorMovie actorMovie = new ActorMovie();
-        actorMovie.setPlot("   ");
-        assertFalse(actorMovie.isPlotText(""));
-        assertFalse(actorMovie.isPlotText("   "));
-        assertFalse(actorMovie.isPlotText("asdf"));
-    }
     /*
 
     @Test

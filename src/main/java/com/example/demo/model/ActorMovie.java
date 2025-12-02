@@ -18,7 +18,7 @@ public class ActorMovie {
     private String roleDescription;
     private String awards; // can be null
 
-    private Ratings ratings;
+    private Ratings ratings = new Ratings();
 
     @JsonProperty("imdb_url")
     private String imdbUrl;
@@ -50,6 +50,25 @@ public class ActorMovie {
         }
         return false;
     }
-    
+
+    /*
+        Star Wars: Episode IV - A New Hope
+        (1977)
+        — Luke Skywalker joins forces with a Jedi Knight, a cocky pilot,
+        a Wookiee and two droids to save the galaxy from the Empire's
+        world-destroying battle station.
+        — Awards: Oscar: Nomination – Best Supporting Actor
+        — Ratings: IMDb 8.6
+     */
+    public boolean isTextInCurrentFilmographyDisplayText(String searchText) {
+        boolean result = false;
+        String awardsString = awards != null ? awards : "";
+        if (searchText != null && !searchText.isBlank()) {
+            String currentFilmographyDisplayText = String.format("%s (%s) - %s - Awards: %s - Ratings: Imdb %s" ,
+                    title, year, plot, awardsString, ratings.getImdb());
+            result = StringUtils.containsIgnoreCase(currentFilmographyDisplayText, searchText.trim());
+        }
+        return result;
+    }
 
 }

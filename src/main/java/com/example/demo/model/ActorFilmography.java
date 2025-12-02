@@ -36,4 +36,11 @@ public class ActorFilmography {
         }
         return false;
     }
+
+    public boolean isTextInCurrentFilmographyDisplayText(String searchText) {
+        if (searchText != null && !StringUtils.isBlank(searchText)) {
+            return filmography.stream().anyMatch(movie -> movie.isTextInCurrentFilmographyDisplayText(searchText));
+        }
+        return false;
+    }
 }
