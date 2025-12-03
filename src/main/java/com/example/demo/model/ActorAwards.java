@@ -24,6 +24,8 @@ public class ActorAwards {
     private int cannesWon;
     @JsonProperty("cannes_best_actor_won")
     private int cannesBestActorWon;
+    @JsonProperty("cannes_best_actress_won")
+    private int cannesBestActressWon;
     @JsonProperty("volpi_cup_won")
     private int volpiCupWon;
     @JsonProperty("bafta_nominated")
@@ -51,11 +53,34 @@ public class ActorAwards {
     private int jeanHersholtHumanitarianAward;
     @JsonProperty("national_film_registry_inducted")
     private int nationalFilmRegistryInducted;
+    @JsonProperty("national_medal_of_arts_won")
+    private int nationalMedalOfArtsWon;
     @JsonProperty("david_di_donatello_won")
     private int davidDiDonatelloWon;
     @JsonProperty("san_sebastian_won")
     private int sanSebastianWon;
     @JsonProperty("presidential_medal_of_freedom")
     private int presidentialMedalOfFreedom;
-
+    @JsonProperty("honorary_golden_bear")
+    private int honoraryGoldenBear;
+    @JsonProperty("saturn_awards_won")
+    private int saturnAwardsWon;
+    @JsonProperty("disney_legends_inducted")
+    private int disneyLegendsInducted;
+    @JsonProperty("photoplay_awards_won")
+    private int photoplayAwardsWon;
+    @JsonProperty("golden_boots_won")
+    private int goldenBootsWon;
+    @JsonProperty("inventors_hall_of_fame")
+    private int inventorsHallOfFame;
+    @JsonProperty("independent_spirit_awards_nominated")
+    private int independentSpiritAwardsNominated;
+    @JsonProperty("sag_lifetime_achievement")
+    private int sagLifetimeAchievement;
+    @JsonProperty("tony_awards_won")
+    private int tonyAwardsWon;
+    @JsonProperty("golden_apple_awards_won")
+    private int goldenAppleAwardsWon;
+    @JsonProperty("screen_actors_guild_presidency")
+    private String screenActorsGuildPresidency;
 }
