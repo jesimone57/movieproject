@@ -18,6 +18,8 @@ public class ActorAwards {
     private int goldenGlobessNominated;
     @JsonProperty("golden_globes_won")
     private int goldenGlobessWon;
+    @JsonProperty("emmys_nominated")
+    private int emmysNominated;
     @JsonProperty("emmys_won")
     private int emmysWon;
     @JsonProperty("cannes_won")
@@ -89,4 +91,14 @@ public class ActorAwards {
     private int afiLifeAchievement;
     @JsonProperty("box_office_rank")
     private String boxOfficeRank;
+    @JsonProperty("venice_film_festival_won")
+    private int veniceFilmFestivalWon;
+    @JsonProperty("venice_film_festival_career_golden_lion")
+    private int veniceFilmFestivalCareerGoldenLion;
+    @JsonProperty("civilian_awards")
+    private String civilianAwards;
+    @JsonProperty("laurel_awards_won")
+    private int laurelAwardsWon;
+    @JsonProperty("french_legion_of_honour")
+    private int frenchLegionOfHonour;
 }
