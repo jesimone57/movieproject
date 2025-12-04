@@ -155,9 +155,8 @@ the following criteria:
         "rotten_tomatoes_critic": 88,
         "rotten_tomatoes_popcorn": 55
       },
-      "imdb_url": "https://www.imdb.com/title/tt0024353/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Morning_Glory_%281933%29_Katherine_Hepburn.jpg/440px-Morning_Glory_%281933%29_Katherine_Hepburn.jpg"
-    },
+      "imdb_url": "https://www.imdb.com/title/tt0024353/"
+     },
     {
       "title": "Little Women",
       "year": 1933,
@@ -170,8 +169,7 @@ the following criteria:
         "rotten_tomatoes_critic": 89,
         "rotten_tomatoes_popcorn": 78
       },
-      "imdb_url": "https://www.imdb.com/title/tt0024265/",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Little_Women_1933_trailer_Hepburn.jpg/520px-Little_Women_1933_trailer_Hepburn.jpg"
+      "imdb_url": "https://www.imdb.com/title/tt0024265/"
     }
   ]
 }
