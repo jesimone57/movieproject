@@ -1,0 +1,398 @@
+{
+  "actor_profile": {
+    "name": "Steve McQueen",
+    "year_born": 1930,
+    "year_died": 1980,
+    "imdb_url": "https://www.imdb.com/name/nm0000537/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Steve_McQueen_1960.jpg",
+    "year_of_first_film": 1953,
+    "year_of_last_film": 1980,
+    "number_of_feature_films_made": 27,
+    "actor_awards": {
+      "oscars_won": 0,
+      "oscars_nominated": 1,
+      "golden_globes_nominated": 4,
+      "moscow_film_festival_won": 1
+    }
+  },
+  "filmography": [
+    {
+      "title": "Somebody Up There Likes Me",
+      "year": 1956,
+      "role": "Fidel",
+      "role_description": "A young street thug and associate of Rocky Graziano in one of McQueen's earliest uncredited film appearances.",
+      "plot": "Biopic of middleweight boxing champion Rocky Graziano, detailing his rise from a life of crime to success in the ring.",
+      "awards": "Early Role",
+      "ratings": {
+        "imdb": 7.5,
+        "rotten_tomatoes_critic": 84,
+        "rotten_tomatoes_popcorn": 80
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0049778/"
+    },
+    {
+      "title": "Never Love a Stranger",
+      "year": 1958,
+      "role": "Martin Cabell",
+      "role_description": "A Jewish orphan who rises to become a powerful gangster in 1912 New York.",
+      "plot": "A young man befriends a Catholic boy in an orphanage and grows up to become a crime boss.",
+      "awards": "Early Leading Role",
+      "ratings": {
+        "imdb": 6.2,
+        "rotten_tomatoes_critic": 40,
+        "rotten_tomatoes_popcorn": 35
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0051986/"
+    },
+    {
+      "title": "The Blob",
+      "year": 1958,
+      "role": "Steve Andrews",
+      "role_description": "A teenager who tries to warn his town about a consuming alien entity; McQueen's first major leading role.",
+      "plot": "An alien lifeform consumes everything in its path as it grows and grows.",
+      "awards": "Cult Classic",
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 68,
+        "rotten_tomatoes_popcorn": 54
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0051418/"
+    },
+    {
+      "title": "The Great St. Louis Bank Robbery",
+      "year": 1959,
+      "role": "George Fowler",
+      "role_description": "A college dropout and getaway driver who gets caught up in a doomed heist.",
+      "plot": "A gang of robbers plans a heist on a bank in St. Louis, but internal tensions and police intervention threaten the job.",
+      "awards": "Notable Crime Drama",
+      "ratings": {
+        "imdb": 6.0,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 28
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0052863/"
+    },
+    {
+      "title": "Never So Few",
+      "year": 1959,
+      "role": "Bill Ringa",
+      "role_description": "A resourceful corporal in WWII Burma who catches the eye of Frank Sinatra's captain.",
+      "plot": "An American captain leads a band of guerilla fighters in Burma during World War II.",
+      "awards": "Breakout Supporting Role",
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 46
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0053108/"
+    },
+    {
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "role": "Vin Tanner",
+      "role_description": "A cool, drifting gunfighter who joins Yul Brynner to protect a Mexican village, stealing nearly every scene he is in.",
+      "plot": "Seven gunfighters are hired by Mexican peasants to liberate their village from oppressive bandits.",
+      "awards": "National Film Registry (Inducted 2013)",
+      "ratings": {
+        "imdb": 7.7,
+        "rotten_tomatoes_critic": 89,
+        "rotten_tomatoes_popcorn": 91
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0054047/"
+    },
+    {
+      "title": "The Honeymoon Machine",
+      "year": 1961,
+      "role": "Lt. Fergie Howard",
+      "role_description": "A Navy lieutenant who uses a ship's computer to calculate roulette outcomes in Venice.",
+      "plot": "Three men use a navy super computer to beat the roulette wheel at a Venice casino.",
+      "awards": "Notable Comedy",
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 44
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0054989/"
+    },
+    {
+      "title": "Hell Is for Heroes",
+      "year": 1962,
+      "role": "Reese",
+      "role_description": "A rebellious, anti-social soldier whose reckless bravery is needed to hold a defensive line against the Germans.",
+      "plot": "A squad of US soldiers must hold off a German company for 48 hours until reinforcements arrive.",
+      "awards": "Notable War Drama",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 68
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0056062/"
+    },
+    {
+      "title": "The War Lover",
+      "year": 1962,
+      "role": "Buzz Rickson",
+      "role_description": "An arrogant B-17 pilot who loves the thrill of combat more than anything else, alienating his crew.",
+      "plot": "During World War II, a reckless bomber pilot and his co-pilot clash over a woman and the pilot's dangerous behavior.",
+      "awards": "Notable Character Study",
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 42
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0056676/"
+    },
+    {
+      "title": "The Great Escape",
+      "year": 1963,
+      "role": "Hilts 'The Cooler King'",
+      "role_description": "A rebellious American POW who repeatedly attempts escape and performs a legendary motorcycle jump.",
+      "plot": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+      "awards": "Moscow International Film Festival: Win – Best Actor",
+      "ratings": {
+        "imdb": 8.2,
+        "rotten_tomatoes_critic": 94,
+        "rotten_tomatoes_popcorn": 95
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0057115/"
+    },
+    {
+      "title": "Soldier in the Rain",
+      "year": 1963,
+      "role": "Sgt. Eustis Clay",
+      "role_description": "A conniving supply sergeant who worships a smarter, older sergeant played by Jackie Gleason.",
+      "plot": "A sergeant and his idol, a master sergeant, navigate life on a peacetime military base.",
+      "awards": "Notable Comedy-Drama",
+      "ratings": {
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 45
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0057515/"
+    },
+    {
+      "title": "Love with the Proper Stranger",
+      "year": 1963,
+      "role": "Rocky Papasano",
+      "role_description": "A carefree musician who must face responsibility when a one-night stand results in pregnancy.",
+      "plot": "A young woman tracks down a musician she had a fling with to tell him she is pregnant, and they try to raise money for an abortion.",
+      "awards": "Golden Globe: Nomination – Best Actor (Drama)",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 78
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0057261/"
+    },
+    {
+      "title": "Baby the Rain Must Fall",
+      "year": 1965,
+      "role": "Henry Thomas",
+      "role_description": "A paroled convict and aspiring rockabilly singer whose violent temper threatens his family.",
+      "plot": "A woman travels with her young daughter to a small Texas town to reunite with her husband, who has just been released from prison.",
+      "awards": "Notable Drama",
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 35
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0058933/"
+    },
+    {
+      "title": "The Cincinnati Kid",
+      "year": 1965,
+      "role": "Eric 'The Kid' Stoner",
+      "role_description": "An up-and-coming poker player who challenges the reigning master in high-stakes Depression-era New Orleans.",
+      "plot": "An up-and-coming pool player plays a long-time champion in a single high-stakes match.",
+      "awards": "Classic Gambling Film",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 82,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0059037/"
+    },
+    {
+      "title": "Nevada Smith",
+      "year": 1966,
+      "role": "Max Sand / Nevada Smith",
+      "role_description": "A half-Indian cowboy who embarks on a brutal, years-long quest for vengeance against the men who killed his parents.",
+      "plot": "A mixed-race cowboy sets out to avenge the death of his parents at the hands of three outlaws.",
+      "awards": "Notable Western",
+      "ratings": {
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 64
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0060746/"
+    },
+    {
+      "title": "The Sand Pebbles",
+      "year": 1966,
+      "role": "Jake Holman",
+      "role_description": "A rebellious naval engineer on a gunboat in 1920s China who questions authority and racial prejudice; his only Oscar-nominated role.",
+      "plot": "An engineer on a U.S. Navy gunboat in 1926 China creates tension with his independent nature and respect for the locals.",
+      "awards": "Oscar: Nomination – Best Actor; Golden Globe: Nomination – Best Actor (Drama)",
+      "ratings": {
+        "imdb": 7.5,
+        "rotten_tomatoes_critic": 89,
+        "rotten_tomatoes_popcorn": 85
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0060934/"
+    },
+    {
+      "title": "The Thomas Crown Affair",
+      "year": 1968,
+      "role": "Thomas Crown",
+      "role_description": "A bored, wealthy tycoon who orchestrates a perfect bank heist for the thrill and engages in a cat-and-mouse game with an investigator.",
+      "plot": "A debonair, adventuresome bank executive believes he has pulled off the perfect bank robbery, only to match wits with a sexy insurance investigator.",
+      "awards": "Oscar: Win – Best Original Song",
+      "ratings": {
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": 72,
+        "rotten_tomatoes_popcorn": 76
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0063688/"
+    },
+    {
+      "title": "Bullitt",
+      "year": 1968,
+      "role": "Frank Bullitt",
+      "role_description": "A cool, determined San Francisco police lieutenant who protects a witness and engages in cinema's most famous car chase.",
+      "plot": "An all-guts, no-glory San Francisco cop becomes determined to find the underworld kingpin that killed the witness in his protection.",
+      "awards": "National Film Registry (Inducted 2007)",
+      "ratings": {
+        "imdb": 7.4,
+        "rotten_tomatoes_critic": 98,
+        "rotten_tomatoes_popcorn": 85
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0062765/"
+    },
+    {
+      "title": "The Reivers",
+      "year": 1969,
+      "role": "Boon Hogganbeck",
+      "role_description": "A mischievous handyman who takes his boss's young grandson and a new car on a joyride to Memphis.",
+      "plot": "A young boy, a handyman, and a black stowaway take a car for a joyride to Memphis in 1905.",
+      "awards": "Golden Globe: Nomination – Best Actor (Musical/Comedy)",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 51
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0064883/"
+    },
+    {
+      "title": "Le Mans",
+      "year": 1971,
+      "role": "Michael Delaney",
+      "role_description": "A professional race car driver competing in the grueling 24 Hours of Le Mans; a passion project for McQueen.",
+      "plot": "During the 24 Hours of Le Mans in France, a champion auto racer returns to the track that nearly killed him a year before.",
+      "awards": "Notable Racing Film",
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": 71,
+        "rotten_tomatoes_popcorn": 74
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0067334/"
+    },
+    {
+      "title": "Junior Bonner",
+      "year": 1972,
+      "role": "Junior Bonner",
+      "role_description": "An aging rodeo star who returns home to Prescott, Arizona, seeking one last triumph and reconnection with his family.",
+      "plot": "An aging rodeo rider returns to his hometown to compete and connect with his family, finding that time has moved on.",
+      "awards": "Notable Sam Peckinpah Film",
+      "ratings": {
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": 88,
+        "rotten_tomatoes_popcorn": 59
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0068786/"
+    },
+    {
+      "title": "The Getaway",
+      "year": 1972,
+      "role": "Carter 'Doc' McCoy",
+      "role_description": "A master thief released from prison who goes on the run with his wife after a bank heist goes wrong.",
+      "plot": "A recently released ex-convict and his loyal wife go on the run after a heist goes awry.",
+      "awards": "Notable Action Thriller",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 86,
+        "rotten_tomatoes_popcorn": 79
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0068638/"
+    },
+    {
+      "title": "Papillon",
+      "year": 1973,
+      "role": "Henri 'Papillon' Charrière",
+      "role_description": "A French convict sentenced to Devil's Island who is obsessed with escaping, forming a bond with a counterfeiter.",
+      "plot": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+      "awards": "Golden Globe: Nomination – Best Actor (Drama)",
+      "ratings": {
+        "imdb": 8.0,
+        "rotten_tomatoes_critic": 82,
+        "rotten_tomatoes_popcorn": 92
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0070511/"
+    },
+    {
+      "title": "The Towering Inferno",
+      "year": 1974,
+      "role": "Chief Michael O'Hallorhan",
+      "role_description": "A heroic fire chief who battles a massive blaze in a San Francisco skyscraper and clashes with the architect.",
+      "plot": "At the opening party of a colossal, but poorly constructed, office building, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+      "awards": "Oscar: Win – Best Cinematography; Oscar: Nomination – Best Picture",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 69,
+        "rotten_tomatoes_popcorn": 61
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0072308/"
+    },
+    {
+      "title": "An Enemy of the People",
+      "year": 1978,
+      "role": "Dr. Thomas Stockmann",
+      "role_description": "A heavily bearded, intellectual doctor who becomes a pariah for exposing contaminated water in his town; a rare departure from his action image.",
+      "plot": "A scientist stands against his town when he discovers their medicinal spa water is polluted.",
+      "awards": "Notable Ibsen Adaptation",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0077500/"
+    },
+    {
+      "title": "Tom Horn",
+      "year": 1980,
+      "role": "Tom Horn",
+      "role_description": "A legendary frontiersman hired to stop cattle rustling who finds himself framed and abandoned by the changing West.",
+      "plot": "A renowned former army scout is hired by ranchers to hunt down rustlers but finds himself fighting for his life when they turn on him.",
+      "awards": "Notable Late Western",
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": 75,
+        "rotten_tomatoes_popcorn": 54
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0081639/"
+    },
+    {
+      "title": "The Hunter",
+      "year": 1980,
+      "role": "Ralph 'Papa' Thorson",
+      "role_description": "Based on the real-life bounty hunter who tracks down fugitives while dealing with his own aging and impending fatherhood; McQueen's final film.",
+      "plot": "The true story of Ralph 'Papa' Thorson, a modern-day bounty hunter who tracks down bail jumpers.",
+      "awards": "Final Film Role",
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 44
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0080907/"
+    }
+  ]
+}

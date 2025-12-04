@@ -83,4 +83,10 @@ public class ActorAwards {
     private int goldenAppleAwardsWon;
     @JsonProperty("screen_actors_guild_presidency")
     private String screenActorsGuildPresidency;
+    @JsonProperty("moscow_film_festival_won")
+    private int moscowFilmFestivalWon;
+    @JsonProperty("afi_life_achievement")
+    private int afiLifeAchievement;
+    @JsonProperty("box_office_rank")
+    private String boxOfficeRank;
 }
