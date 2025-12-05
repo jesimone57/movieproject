@@ -35,7 +35,8 @@
     }
     .subtitle { color: var(--muted); font-size: 14px; }
 
-    .container { max-width: 1140px; margin: 0 auto; padding: 16px; }
+    /* Match af.html width so Filters and Results align exactly */
+    .container { max-width: 1710px; margin: 0 auto; padding: 16px; }
 
     .panel {
       background: var(--card);
@@ -121,11 +122,51 @@
       gap: 12px;
     }
 
-    .table-wrap { overflow: auto; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
-    table { border-collapse: collapse; width: 100%; min-width: 880px; }
+    /* Sticky filters/header like af.html */
+    .sticky-filters {
+      position: sticky;
+      top: 0;
+      z-index: 30;
+      /* Ensure the bar visually covers the full width when stuck */
+      background: var(--card);
+    }
+    /* White background mask across the filters area */
+    .sticky-filters::after {
+      content: '';
+      position: absolute;
+      inset: 0;            /* default: cover full panel box */
+      background: var(--card);
+      z-index: 0;
+      pointer-events: none;
+    }
+    /* When the filters are stuck, pin the mask to the viewport and
+       size/position it to exactly match the table viewport (table-wrap) */
+    .sticky-filters.is-stuck::after {
+      position: fixed;
+      inset: auto; /* we'll set explicit box */
+      top: 0;
+      left: var(--mask-left, 0px);
+      width: var(--mask-width, 100vw);
+      height: var(--mask-height, 0px);
+      background: var(--card);
+    }
+    /* Keep actual filters content above the background mask */
+    .sticky-filters > * { position: relative; z-index: 1; }
+
+    /* Allow horizontal scroll for wide tables but keep vertical on page for sticky sections */
+    .table-wrap { position: relative; overflow-x: auto; overflow-y: visible; border: 1px solid var(--border); border-radius: 12px; background: var(--card); }
+    /* Use separate border model to avoid Safari sticky bugs */
+    table { border-collapse: separate; border-spacing: 0; width: 100%; min-width: 880px; }
     /* Tighten column spacing a bit for a denser look */
     th, td { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: left; font-size: 14px; }
-    th { background: #f1f5f9; font-weight: 700; color: #334155; position: sticky; top: 0; }
+    /* Disable native sticky thead, we'll use a JS-managed cloned header */
+    thead { position: static; z-index: auto; visibility: hidden; pointer-events: none; }
+    th { background: #f1f5f9; font-weight: 700; color: #334155; }
+    /* External sticky header container */
+    .sticky-head { position: absolute; top: 0; left: 0; right: 0; z-index: 20; background: #f1f5f9; border-bottom: 1px solid var(--border); overflow: hidden; }
+    .sticky-head.is-fixed { position: fixed; }
+    .sticky-head .row { display: grid; align-items: center; grid-auto-rows: minmax(0, auto); will-change: transform; }
+    .sticky-head .cell { padding: 8px 10px; font-weight: 700; color: #334155; white-space: normal; font-size: 14px; }
     tbody tr:hover { background: #f9fbfd; }
 
     .row { display: contents; }
@@ -199,6 +240,15 @@
     .section-title { font-weight: 700; margin: 6px 2px 2px; font-size: 15px; color: #334155; }
 
     .note { color: var(--muted); font-size: 12px; }
+    /* Results header row with title and KPI next to each other */
+    .results-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: flex-start; /* keep KPI immediately to the right of "Results" */
+      gap: 8px;
+      flex-wrap: wrap;
+      margin: 0 0 8px 0;
+    }
 
     .footer { text-align: center; color: var(--muted); font-size: 12px; padding: 18px; }
 
@@ -238,7 +288,7 @@
   </header>
 
   <div class="container">
-    <div class="panel">
+    <div class="panel sticky-filters">
       <div class="section-title">Filters</div>
       <div class="grid" id="filters" style="margin-top:8px">
         <div class="col" style="grid-column: span 3;">
@@ -288,24 +338,22 @@
             <option value="rating">rating</option>
           </select>
         </div>
-        <!-- Clear button placed after Sort by -->
-        <div class="col" style="grid-column: span 1; display:flex; align-items:end;">
-          <button class="btn secondary" id="btnClear" title="Clear all filters">Clear</button>
-        </div>
       </div>
 
       <div class="section-title" style="margin-top:14px">API Actions</div>
       <div class="actions">
         <button class="btn" id="btnSearch">Search</button>
-        <button class="btn secondary" id="btnTopN">Top Rated</button>
+        <button class="btn secondary" id="btnClear" title="Clear all filters">Clear</button>
       </div>
       
     </div>
 
     <div class="results">
       <div class="panel">
-        <div class="section-title">Results</div>
-        <div id="kpis" style="margin:8px 0 12px 0; display:flex; gap:8px; flex-wrap:wrap;"></div>
+        <div id="resultsHeader" class="results-header">
+          <div class="section-title" style="margin: 6px 2px 2px;">Results</div>
+          <div id="kpis" style="display:flex; gap:8px; flex-wrap:wrap;"></div>
+        </div>
         <div id="results"></div>
       </div>
     </div>
@@ -533,7 +581,8 @@
       </tr>`).join('');
     return `
       <div class="table-wrap">
-        <table>
+        <div id="stickyHead" class="sticky-head"></div>
+        <table id="resultsTable">
           <thead>
             <tr>
               <th>
@@ -684,6 +733,19 @@
       container.innerHTML = renderMovies(data);
       wireSortHandlers(container);
       setActiveSortIndicators(container);
+      // Build/update sticky header to mirror the table header and stick below filters
+      if (typeof updateStickyHeaderOffset === 'function') updateStickyHeaderOffset();
+      // IMPORTANT: On index.html the table is injected dynamically, so bind sticky listeners AFTER render
+      if (window.stickyApi) {
+        try {
+          if (!window.__stickyBound) {
+            if (typeof window.stickyApi.bind === 'function') window.stickyApi.bind();
+            window.__stickyBound = true;
+          }
+          if (typeof window.stickyApi.rebuild === 'function') window.stickyApi.rebuild();
+          if (typeof window.stickyApi.updateMode === 'function') window.stickyApi.updateMode();
+        } catch (_) { /* no-op */ }
+      }
     }
 
     function escapeHtml(s) {
@@ -733,31 +795,20 @@
         const toRender = currentSort ? sortData(lastResults, currentSort.key, currentSort.dir) : lastResults;
         renderInto(el('results'), toRender);
         setKPIs(toRender.length, data);
+        // After rendering, reset scroll position so results start at the top
+        scrollResultsToTop();
       } else {
         el('results').innerHTML = renderMovies(data);
         setKPIs(undefined, data);
+        scrollResultsToTop();
       }
     }));
 
-    el('btnTopN').addEventListener('click', () => handle(el('btnTopN'), async () => {
-      const limit = 10; // default top rated count
-      const r = await api(`/api/movies/toprating/${encodeURIComponent(limit)}`);
-      const data = await r.json();
-      if (Array.isArray(data)) {
-        lastResults = data.slice();
-        const toRender = currentSort ? sortData(lastResults, currentSort.key, currentSort.dir) : lastResults;
-        renderInto(el('results'), toRender);
-        setKPIs(toRender.length, data);
-      } else {
-        el('results').innerHTML = renderMovies(data);
-        setKPIs(undefined, data);
-      }
-    }));
 
     // Optional: Load initial data
     // document.getElementById('btnAll').click();
 
-    // Clear button: reset all inputs and visual state
+    // Clear button: reset all inputs and reset the results view
     el('btnClear').addEventListener('click', () => {
       // Reset all filters
       el('title').value = '';
@@ -772,22 +823,36 @@
       // Revert the dropdown to default sort
       el('sort').value = 'title';
 
-      // Clear any column sort settings (client-side state and indicators)
-      currentSort = null; // remove custom column sort
+      // Clear any column sort settings and cached results
+      currentSort = null;
+      lastResults = [];
 
-      // If we have results in memory, re-render them in default order (title asc)
-      if (Array.isArray(lastResults) && lastResults.length > 0) {
-        const defaultSorted = sortData(lastResults, 'title', 'asc');
-        renderInto(el('results'), defaultSorted); // renderInto will also reset active indicators
-        setKPIs(defaultSorted.length, undefined);
-      } else {
-        // No cached results: clear the view
-        el('results').innerHTML = '';
-        el('kpis').innerHTML = '';
+      // Clear the results view and KPI count entirely
+      const resultsHost = el('results');
+      if (resultsHost) resultsHost.innerHTML = '';
+      const kpisHost = el('kpis');
+      if (kpisHost) kpisHost.innerHTML = '';
+
+      // Also clear any existing cloned sticky header content if present
+      const stickyHead = document.getElementById('stickyHead');
+      if (stickyHead) stickyHead.innerHTML = '';
+
+      // Refresh sticky offsets/mode and scroll the page so the header area is visible
+      if (typeof updateStickyHeaderOffset === 'function') {
+        try { updateStickyHeaderOffset(); } catch(_) {}
+      }
+      if (window.stickyApi && typeof window.stickyApi.updateMode === 'function') {
+        try { window.stickyApi.updateMode(); } catch(_) {}
+      }
+      // Reset viewport position to the top of the results header area
+      if (typeof scrollResultsToTop === 'function') {
+        try { scrollResultsToTop(); } catch (_) {}
       }
 
-      // update value-highlights
+      // update value-highlights and focus first input for convenience
       refreshValueHighlights();
+      const first = el('title');
+      if (first) first.focus();
     });
 
     // Add blue outline when inputs contain values
@@ -820,6 +885,222 @@
         }
       });
     }
+
+    // --- Sticky filters + external sticky header (modeled after af.html) ---
+    function updateStickyHeaderOffset() {
+      const filters = document.querySelector('.sticky-filters');
+      const wraps = document.querySelectorAll('.table-wrap');
+      let offset = 0;
+      let isStuck = false;
+      let maskLeft = 0;
+      let maskWidth = window.innerWidth;
+      let maskHeight = 0;
+
+      if (filters) {
+        const rect = filters.getBoundingClientRect();
+        isStuck = rect.top <= 0;
+        if (isStuck) {
+          offset = Math.max(0, Math.ceil(rect.height) - 1);
+        }
+        maskHeight = Math.max(0, Math.ceil(rect.height));
+      }
+
+      // Use the first results table-wrap as the viewport reference
+      const wrap = document.querySelector('#results .table-wrap') || document.querySelector('.table-wrap');
+      if (wrap && isStuck) {
+        const wr = wrap.getBoundingClientRect();
+        maskLeft = Math.round(wr.left);
+        maskWidth = Math.round(wr.width);
+      }
+
+      // Apply offset for sticky header positioning
+      wraps.forEach(w => w.style.setProperty('--filters-offset', offset + 'px'));
+
+      // Toggle stuck class and update CSS variables for mask sizing
+      if (filters) {
+        filters.classList.toggle('is-stuck', isStuck);
+        filters.style.setProperty('--mask-left', maskLeft + 'px');
+        filters.style.setProperty('--mask-width', maskWidth + 'px');
+        filters.style.setProperty('--mask-height', maskHeight + 'px');
+      }
+    }
+    window.addEventListener('resize', updateStickyHeaderOffset);
+    window.addEventListener('load', updateStickyHeaderOffset);
+    window.addEventListener('scroll', updateStickyHeaderOffset, { passive: true });
+
+    // Helpers for sorting from cloned header
+    function applySortFromButton(btn) {
+      const key = btn.getAttribute('data-key');
+      const dir = btn.getAttribute('data-dir');
+      currentSort = { key, dir };
+      if (Array.isArray(lastResults)) {
+        const data = sortData(lastResults, key, dir);
+        renderInto(el('results'), data);
+      }
+    }
+
+    window.stickyApi = (function() {
+      const wrap = () => document.querySelector('#results .table-wrap') || document.querySelector('.table-wrap');
+      const headHost = () => document.getElementById('stickyHead');
+      const table = () => document.getElementById('resultsTable');
+      const theadRow = () => document.querySelector('#resultsTable thead tr');
+      const filters = () => document.querySelector('.sticky-filters');
+
+      function rebuild() {
+        const host = headHost();
+        const tr = theadRow();
+        if (!host || !tr) return;
+        host.innerHTML = '';
+        const row = document.createElement('div');
+        row.className = 'row';
+        const ths = Array.from(tr.children);
+        ths.forEach((th) => {
+          const cell = document.createElement('div');
+          cell.className = 'cell';
+          cell.innerHTML = th.innerHTML;
+          if (th.classList.contains('numcol')) cell.style.textAlign = 'right';
+          row.appendChild(cell);
+        });
+        host.appendChild(row);
+        // Wire sort buttons in cloned header
+        host.querySelectorAll('button.sort').forEach(btn => {
+          btn.addEventListener('click', (e) => { e.preventDefault(); applySortFromButton(btn); });
+        });
+        syncWidths();
+        syncScroll();
+        updateMode();
+        // reflect active state
+        setActiveSortIndicators(host);
+      }
+
+      function syncWidths() {
+        const tr = theadRow();
+        const host = headHost();
+        if (!tr || !host) return;
+        const ths = Array.from(tr.children);
+        const widths = ths.map(th => Math.ceil(th.getBoundingClientRect().width));
+        const row = host.firstElementChild;
+        if (!row) return;
+        row.style.gridTemplateColumns = widths.map(w => (w > 0 ? w + 'px' : 'auto')).join(' ');
+      }
+
+      function syncScroll() {
+        const w = wrap();
+        const host = headHost();
+        if (!w || !host) return;
+        const row = host.firstElementChild;
+        if (!row) return;
+        row.style.transform = `translateX(${-w.scrollLeft}px)`;
+      }
+
+      function headerHeight() {
+        const host = headHost();
+        const row = host?.firstElementChild;
+        if (!row) return 0;
+        const h = Math.ceil(row.getBoundingClientRect().height);
+        return isFinite(h) ? h : 0;
+      }
+
+      function filtersOffset() {
+        const f = filters();
+        if (!f) return 0;
+        const rect = f.getBoundingClientRect();
+        if (rect.top <= 0) return Math.max(0, Math.ceil(rect.height) - 1);
+        return 0;
+      }
+
+      function updateMode() {
+        const w = wrap();
+        const host = headHost();
+        const tbl = table();
+        if (!w || !host || !tbl) return;
+        const wrapRect = w.getBoundingClientRect();
+        const tblRect = tbl.getBoundingClientRect();
+        const topLimit = filtersOffset();
+        const hdrH = headerHeight();
+
+        if (tblRect.top > topLimit) {
+          host.classList.remove('is-fixed');
+          host.style.position = 'absolute';
+          host.style.top = tbl.offsetTop + 'px';
+          host.style.left = '0px';
+          host.style.right = '0px';
+          host.style.width = '';
+          return;
+        }
+
+        if (tblRect.bottom <= topLimit + hdrH) {
+          host.classList.remove('is-fixed');
+          host.style.position = 'absolute';
+          const bottomTop = tbl.offsetTop + tbl.clientHeight - hdrH;
+          host.style.top = bottomTop + 'px';
+          host.style.left = '0px';
+          host.style.right = '0px';
+          host.style.width = '';
+          return;
+        }
+
+        host.classList.add('is-fixed');
+        host.style.position = 'fixed';
+        host.style.top = topLimit + 'px';
+        host.style.left = Math.round(wrapRect.left) + 'px';
+        host.style.width = Math.round(wrapRect.width) + 'px';
+      }
+
+      function bind() {
+        const w = wrap();
+        if (!w) return;
+        window.addEventListener('resize', syncWidths);
+        w.addEventListener('scroll', syncScroll, { passive: true });
+        window.addEventListener('scroll', updateMode, { passive: true });
+        window.addEventListener('resize', updateMode);
+      }
+
+      return { rebuild, syncWidths, syncScroll, bind, updateMode };
+    })();
+
+    // Initialize sticky system on load
+    window.addEventListener('load', () => { if (window.stickyApi) { window.stickyApi.bind(); window.stickyApi.rebuild(); window.stickyApi.updateMode(); } });
+
+    // Smoothly scroll so the Results header (with count on the right) is visible directly
+    // under the sticky filters, and reset horizontal scroll of the results table.
+    function scrollResultsToTop() {
+      const wrap = document.querySelector('#results .table-wrap') || document.querySelector('.table-wrap');
+      // Prefer the combined Results header (title + KPI) as the anchor so both are visible
+      const header = document.getElementById('resultsHeader');
+      const kpis = document.getElementById('kpis');
+      const anchor = (header || kpis || wrap);
+      if (!anchor) return;
+
+      // Reset any horizontal scroll so header/columns start aligned at the left
+      if (wrap) {
+        try { wrap.scrollLeft = 0; } catch (_) {}
+      }
+
+      // If our sticky layout depends on dynamic sizes (e.g., mask width), refresh before measuring
+      if (typeof updateStickyHeaderOffset === 'function') {
+        try { updateStickyHeaderOffset(); } catch (_) {}
+      }
+
+      const filters = document.querySelector('.sticky-filters');
+      const anchorTop = anchor.getBoundingClientRect().top + window.pageYOffset;
+      let offset = 0;
+      if (filters) {
+        const fr = filters.getBoundingClientRect();
+        // subtract 1px to avoid a visual gap, mirroring header offset logic
+        offset = Math.max(0, Math.ceil(fr.height) - 1);
+      }
+      const target = Math.max(0, Math.round(anchorTop - offset));
+      try {
+        window.scrollTo({ top: target, behavior: 'smooth' });
+      } catch (_) {
+        window.scrollTo(0, target);
+      }
+      // Ensure sticky header recalculates immediately for the new scroll position
+      if (window.stickyApi && typeof window.stickyApi.updateMode === 'function') {
+        try { window.stickyApi.updateMode(); } catch (_) {}
+      }
+    }
   </script>
 </body>
-<html>
+</html>

@@ -79,6 +79,8 @@ public class ActorAwards {
     private int independentSpiritAwardsNominated;
     @JsonProperty("sag_lifetime_achievement")
     private int sagLifetimeAchievement;
+    @JsonProperty("sag_awards_won")
+    private int sagAwardsWon;
     @JsonProperty("tony_awards_won")
     private int tonyAwardsWon;
     @JsonProperty("golden_apple_awards_won")

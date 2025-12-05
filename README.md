@@ -157,6 +157,7 @@ the following criteria:
 * all her most popular films and celebrated films
 * all her films she won or was nominated for awards (oscar, bafta, golden globe, etc.)
 * all films having an IMDB score of 7 or greater
+* American Film Institute (AFI) best of lists
 
 ```json
 {
@@ -210,4 +211,4 @@ Note: We used the following prompt for each actor thereafter:
 
 please do the same for notable, important and award winning films for marlon brando
 
-The resultant JSON files for actor filmeography may be found in the src/main/resourcee/actor-filmographies folder
+The resultant JSON files for actor filmeography may be found in the src/main/resources/actor-filmographies folder
