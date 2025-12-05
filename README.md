@@ -10,7 +10,7 @@ and thrilled movie goers at the time.
 And it's not just the movies that have been forgotten, it is the stars that have been forgotten as well.  One of my 
 favorites is Bette Davis who delivered some powerful performances during her long career.  Not to be missed are movies like
 "All About Eve" and "What Ever Happened to Baby Jane?". Another great film is James Cagney in "White Heat".
-Suppose you enjoy movies directed by Alfred Hitchcock, you can list all his most important works and see which ones one awards and 
+Suppose you enjoy movies directed by Alfred Hitchcock, you can list all his most important works and see which ones earned awards and 
 budget and revenue numbers for each of his films.
 
 ## Overview
