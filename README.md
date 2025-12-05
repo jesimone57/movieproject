@@ -1,28 +1,54 @@
-# Movie Project
+# Golden Age of Hollywood Movie Project
+
+## Motivation
+As a big cinema fan, I love old movies.  They hold a special interest for me.
+Most of these movies have long been forgotten by today's movie goers.
+Yet these films from the late 1920s to the mid 1960s are not to be missed. 
+Movies that won academy awards for Best Picture of Best Actor or Actress provided great performances
+and thrilled movie goers at the time.
+
+## Overview
+To create a golden age of hollywood movie explorer web application I relied upon the prodigious 
+power of both ChatGPT and Google Gemini to research and produce the data including the following:
+* one or more lists of noteworthy actors during this time-frame.  I started with a list of 100, then expanded to 125 and finally a list of 200 to draw from.
+* for each early decade and later each year, I asked the AI to create the definitive list of great movies.  What defines "great"?  For great I used movies that won or were nominated for academy awards, iconic and legendary actors, etc.
+* for each actor on the list, I asked AI to create their best movie filmographies - their best, award-winning roles and performances.
+Obviously "great" for movies and actors may be subjectlively interpretted by different movie fans, so we have to contend ourselves with what the AI was able to "dig-up" or discover.
+All this data is included in the main project folder either in the root folder of the src/main/resources folder.
+
+## Limitations
+As with any large undertaking unfortunately there are limitations that come into play.  These are:
+1. I had to limit the number of actor/actresses to around 150 for the actor filmographies.  Some of your faviorites may be missing from the list.
+All the important actors from this period are there.
+2. I had to limit the number of movies per actor filmography to around 25. Some actors/actress had short careers.
+Take Grace Kelley for example.  She only made 11 movies before leaving Hollywood.  Others had prolific careers spanning
+decades with over a hundred acting credits.  I started with 10 movies per actor, then went to 20 and finally settled on a minimum of 25 if possible.
+3. Unfortunately AI chatbot technology is not perfect and the data is not perfect.  There is gaps due to missing data that the chatbot could not find
+as well as IMDB actor, movie or director links that are incorrect.  This is just a deficiency we must live with.
+4. Approximately 4000 movies are currently in the movie database for searching.  This is not a comprehensive list, 
+but is representative of the "best" movies from 1890 up through 2007.
 
 Search Movies by Title
 -------------
-1. Search Movies
-    - Find movies by partial title text.
-    - Find movies in a given date range.
-    - Optional sort (title, year, rating).
-    - Optional filters: genre, release year.
+- Find movies by partial title text.
+- Find movies in a given date range.
+- Optional sort (title, year, rating).
+- Optional filters: genres (1 or more), release year, actor
 
 Search Actor Filmographies by Actor
 --------------
+- Find actors by partial actor name text.
+- 
 
 
-## How to run the single page Web UI
-- Added a single‑page web UI to exercise every `GET` endpoint in `MovieController`.
-- File created: `src/main/resources/static/index.html` (served automatically by Spring Boot at `/`).
-- Light background, clean layout, and the page title is “Juliet Movie Project”.
-
-### How to use
+## How to use
 1. Run the Spring Boot app (default port 8080).
 ```
 ./gradlew bootRun
 ```
-2. Open `http://localhost:8080/` in your browser.
+2. Open `http://localhost:8080/` in your browser for movie search or
+3. Open `http://localhost:8080/af.html` in your browser for actor filmography search
+
 
 ## AI data generation prompts for the Movie Finder
 * the same for 1959.  25 of the most popular, iconic, celebrated and award winning movies for that year.
@@ -114,7 +140,7 @@ how about 1994 please.  take your time and produce quality, complete and accurat
 you can add additional movies to ensure we have a  truly satisfying list. you can go to 40 or 50 movies if you wish.
 
 
-# AI Data generation prompt for Actor Filmographies
+## AI Data generation prompt for Actor Filmographies
 
 As a movie lover and as fan of cinema I would like a json dataset with a minimum of 25 or more unique films for a given actor or actress.
 Given the following example json dataset structure, produce a filmography for katherine hepburn which includes:
@@ -178,4 +204,4 @@ Note: We used the following prompt for each actor thereafter:
 
 please do the same for notable, important and award winning films for marlon brando
 
-The resultant JSON files for actor filmeography may be found in the src/resourcee/actor-filmographies folder
+The resultant JSON files for actor filmeography may be found in the src/main/resourcee/actor-filmographies folder
