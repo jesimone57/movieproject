@@ -38,6 +38,8 @@ public class ActorAwards {
     private int kennedyCenterHonors;
     @JsonProperty("national_board_of_review_won")
     private int nationalBoardOfReviewWon;
+    @JsonProperty("national_board_of_review")
+    private String nationalBoardOfReview;
     @JsonProperty("nyfcc_won")
     private int nyfccWon;
     @JsonProperty("walk_of_fame_stars")
@@ -99,8 +101,19 @@ public class ActorAwards {
     private int veniceFilmFestivalCareerGoldenLion;
     @JsonProperty("civilian_awards")
     private String civilianAwards;
+    @JsonProperty("laurel_awards_nominated")
+    private int laurelAwardsNominated;
     @JsonProperty("laurel_awards_won")
     private int laurelAwardsWon;
     @JsonProperty("french_legion_of_honour")
     private int frenchLegionOfHonour;
+    @JsonProperty("daytime_emmy_won")
+    private int daytimeEmmyWon;
+    @JsonProperty("national_society_of_film_critics_won")
+    private int nationalSocietyOfFilmCriticsWon;
+    @JsonProperty("military_honors")
+    private String militaryHonors;
+    @JsonProperty("razzie_awards_nominated")
+    private int razzieAwardsNominated;
+
 }
