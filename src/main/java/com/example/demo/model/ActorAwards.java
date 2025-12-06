@@ -83,6 +83,8 @@ public class ActorAwards {
     private int sagLifetimeAchievement;
     @JsonProperty("sag_awards_won")
     private int sagAwardsWon;
+    @JsonProperty("tony_awards_nominated")
+    private int tonyAwardsNominated;
     @JsonProperty("tony_awards_won")
     private int tonyAwardsWon;
     @JsonProperty("golden_apple_awards_won")
@@ -115,5 +117,9 @@ public class ActorAwards {
     private String militaryHonors;
     @JsonProperty("razzie_awards_nominated")
     private int razzieAwardsNominated;
+    @JsonProperty("fantafestival_won")
+    private int fantafestivalWon;
+    @JsonProperty("locarno_film_festival_won")
+    private int locarnoFilmFestivalWon;
 
 }
