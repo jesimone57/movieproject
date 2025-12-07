@@ -100,6 +100,7 @@ public class ActorFilmographyService {
                                 logger.info("\t {} added as multiple entries: {}", addedFileCount, resourceFileName);
                             }
                         } catch (IOException listEx) {
+                            logger.error(listEx.getMessage(), listEx);
                             logger.info("\t Skip malformed resource {} and continue (malformed or unexpected structure)", resourceFileName);
 
                         }
