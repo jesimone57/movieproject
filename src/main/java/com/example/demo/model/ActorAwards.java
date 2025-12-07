@@ -30,10 +30,10 @@ public class ActorAwards {
     private int cannesBestActressWon;
     @JsonProperty("volpi_cup_won")
     private int volpiCupWon;
-    @JsonProperty("bafta_nominated")
-    private int baftaNominated;
-    @JsonProperty("bafta_won")
-    private int baftaWon;
+    @JsonProperty("baftas_nominated")
+    private int baftasNominated;
+    @JsonProperty("baftas_won")
+    private int baftasWon;
     @JsonProperty("kennedy_center_honors")
     private int kennedyCenterHonors;
     @JsonProperty("national_board_of_review_won")
