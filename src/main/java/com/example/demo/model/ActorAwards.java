@@ -121,5 +121,5 @@ public class ActorAwards {
     private int fantafestivalWon;
     @JsonProperty("locarno_film_festival_won")
     private int locarnoFilmFestivalWon;
-
+    private String awards;
 }
