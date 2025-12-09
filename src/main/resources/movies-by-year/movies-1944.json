@@ -1,68 +1,16 @@
 [
   {
-    "title": "Going My Way",
-    "year": 1944,
-    "director": {
-      "name": "Leo McCarey",
-      "imdb_person_url": "https://www.imdb.com/name/nm0565590/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 1.0,
-    "gross_revenue_usd_millions": 16.3,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Bing Crosby",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001078/"
-      },
-      {
-        "name": "Barry Fitzgerald",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002075/"
-      },
-      {
-        "name": "Risë Stevens",
-        "imdb_person_url": "https://www.imdb.com/name/nm0828706/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 7,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor (Bing Crosby)",
-      "Best Supporting Actor (Barry Fitzgerald)",
-      "Best Writing, Screenplay",
-      "Best Writing, Original Motion Picture Story",
-      "Best Music, Original Song"
-    ],
-    "description": "A young, unconventional priest is assigned to a failing New York parish, where he clashes with the strict, aging pastor while trying to win over the neighborhood youth.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036872/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/going_my_way"
-  },
-  {
     "title": "Double Indemnity",
     "year": 1944,
     "director": {
       "name": "Billy Wilder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000697/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 107,
-    "budget_usd_millions": 0.92,
-    "gross_revenue_usd_millions": 2.5,
+    "budget_usd_millions": 0.98,
+    "gross_revenue_usd_millions": 5.0,
     "ratings": {
       "imdb": 8.3,
       "rotten_tomatoes_critic": "97%",
@@ -84,72 +32,77 @@
       },
       {
         "name": "Edward G. Robinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000064/"
       }
     ],
     "oscars_nominated": 7,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of his claims investigator friend.",
+    "description": "An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of his insurance investigator colleague.",
     "afi_ranking": 29,
     "imdb_url": "https://www.imdb.com/title/tt0036775/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/double_indemnity"
   },
   {
-    "title": "Gaslight",
+    "title": "Going My Way",
     "year": 1944,
     "director": {
-      "name": "George Cukor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
+      "name": "Leo McCarey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565576/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 2.0,
-    "gross_revenue_usd_millions": 4.6,
+    "runtime_minutes": 126,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 16.3,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "88%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
-      "Crime",
+      "Comedy",
       "Drama",
-      "Mystery"
+      "Music"
     ],
     "actors": [
       {
-        "name": "Charles Boyer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000964/"
+        "name": "Bing Crosby",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001078/"
       },
       {
-        "name": "Ingrid Bergman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
+        "name": "Barry Fitzgerald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002076/"
       },
       {
-        "name": "Joseph Cotten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001070/"
+        "name": "Frank McHugh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0570417/"
       }
     ],
-    "oscars_nominated": 7,
-    "oscars_won": 2,
+    "oscars_nominated": 10,
+    "oscars_won": 7,
     "oscars_won_details": [
-      "Best Actress (Ingrid Bergman)",
-      "Best Art Direction"
+      "Best Picture",
+      "Best Director",
+      "Best Actor in a Leading Role",
+      "Best Actor in a Supporting Role",
+      "Best Writing, Screenplay",
+      "Best Writing, Original Story",
+      "Best Music, Original Song"
     ],
-    "description": "Years after her aunt was murdered in their London home, a young woman returns to the house with her new husband, who slowly attempts to drive her insane.",
+    "description": "A young, unconventional priest is assigned to a parish run by an old-fashioned, strict clergyman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036855/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008098-gaslight"
+    "imdb_url": "https://www.imdb.com/title/tt0036872/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/going_my_way"
   },
   {
     "title": "Laura",
     "year": 1944,
     "director": {
       "name": "Otto Preminger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000616/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000593/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "Passed",
     "runtime_minutes": 88,
     "budget_usd_millions": 1.0,
@@ -171,11 +124,11 @@
       },
       {
         "name": "Dana Andrews",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000763/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000762/"
       },
       {
         "name": "Clifton Webb",
-        "imdb_person_url": "https://www.imdb.com/name/nm0916066/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0916075/"
       }
     ],
     "oscars_nominated": 5,
@@ -183,23 +136,70 @@
     "oscars_won_details": [
       "Best Cinematography, Black-and-White"
     ],
-    "description": "A police detective falls in love with the woman whose murder he is investigating, only to find that the case is far more complex than it seems.",
-    "afi_ranking": null,
+    "description": "A police detective falls in love with the woman whose murder he is investigating.",
+    "afi_ranking": 7,
     "imdb_url": "https://www.imdb.com/title/tt0037008/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012007-laura"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/laura"
+  },
+  {
+    "title": "Gaslight",
+    "year": 1944,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002030/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 4.6,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Charles Boyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000966/"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
+      },
+      {
+        "name": "Joseph Cotten",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actress in a Leading Role",
+      "Best Art Direction-Interior Decoration, Black-and-White"
+    ],
+    "description": "Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret that he will do anything to protect, even if it means driving his wife insane.",
+    "afi_ranking": 78,
+    "imdb_url": "https://www.imdb.com/title/tt0036855/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008130-gaslight"
   },
   {
     "title": "Meet Me in St. Louis",
     "year": 1944,
     "director": {
       "name": "Vincente Minnelli",
-      "imdb_person_url": "https://www.imdb.com/name/nm0591486/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001540/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 113,
-    "budget_usd_millions": 1.8,
-    "gross_revenue_usd_millions": 6.5,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 12.8,
     "ratings": {
       "imdb": 7.5,
       "rotten_tomatoes_critic": "100%",
@@ -217,18 +217,18 @@
       },
       {
         "name": "Margaret O'Brien",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000551/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001573/"
       },
       {
         "name": "Mary Astor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000803/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000799/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In the year leading up to the 1904 World's Fair, the four Smith daughters learn lessons of life and love, even as they prepare for a reluctant move to New York.",
-    "afi_ranking": null,
+    "description": "In the year leading up to the 1904 St. Louis World's Fair, the four Smith daughters learn lessons of life and love, even as they prepare for a reluctant move to New York.",
+    "afi_ranking": 10,
     "imdb_url": "https://www.imdb.com/title/tt0037059/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/meet_me_in_st_louis"
   },
@@ -243,11 +243,11 @@
     "mpaa_rating": "Passed",
     "runtime_minutes": 118,
     "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 4.7,
+    "gross_revenue_usd_millions": 4.8,
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
       "Comedy",
@@ -261,11 +261,11 @@
       },
       {
         "name": "Priscilla Lane",
-        "imdb_person_url": "https://www.imdb.com/name/nm0485509/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002187/"
       },
       {
         "name": "Raymond Massey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002280/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002283/"
       }
     ],
     "oscars_nominated": 0,
@@ -309,14 +309,14 @@
       },
       {
         "name": "Walter Brennan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001970/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000974/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "During WWII, an American expatriate fishing boat captain in Martinique is coerced into helping the French Resistance.",
-    "afi_ranking": null,
+    "description": "During World War II, American expatriate Harry Morgan helps transport a French Resistance leader and his beautiful wife to Martinique while romancing a sexy lounge singer.",
+    "afi_ranking": 60,
     "imdb_url": "https://www.imdb.com/title/tt0037382/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/to_have_and_have_not"
   },
@@ -327,11 +327,11 @@
       "name": "Alfred Hitchcock",
       "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "Passed",
     "runtime_minutes": 97,
     "budget_usd_millions": 1.59,
-    "gross_revenue_usd_millions": null,
+    "gross_revenue_usd_millions": 1.0,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "93%",
@@ -348,37 +348,169 @@
       },
       {
         "name": "John Hodiak",
-        "imdb_person_url": "https://www.imdb.com/name/nm0388138/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0388147/"
       },
       {
-        "name": "William Bendix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0070612/"
+        "name": "Walter Slezak",
+        "imdb_person_url": "https://www.imdb.com/name/nm0805872/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Several survivors of a torpedoed merchant ship in World War II find themselves in the same lifeboat with one of the U-boat crew members who sank their ship.",
+    "description": "Several survivors of a torpedoed merchant ship in World War II find themselves in the same lifeboat with one of the U-boat men who sunk it.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0037017/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lifeboat"
+  },
+  {
+    "title": "The Miracle of Morgan's Creek",
+    "year": 1944,
+    "director": {
+      "name": "Preston Sturges",
+      "imdb_person_url": "https://www.imdb.com/name/nm0836414/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 0.775,
+    "gross_revenue_usd_millions": 9.0,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Eddie Bracken",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001968/"
+      },
+      {
+        "name": "Betty Hutton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404595/"
+      },
+      {
+        "name": "Diana Lynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0528659/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small-town girl wakes up after a wild send-off party for the troops to find herself married and pregnant, but she can't remember her husband's name.",
+    "afi_ranking": 54,
+    "imdb_url": "https://www.imdb.com/title/tt0037077/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/miracle_of_morgans_creek"
+  },
+  {
+    "title": "The Woman in the Window",
+    "year": 1944,
+    "director": {
+      "name": "Fritz Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000485/"
+    },
+    "production_studio": "International Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 107,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Edward G. Robinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000064/"
+      },
+      {
+        "name": "Joan Bennett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0071836/"
+      },
+      {
+        "name": "Raymond Massey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002283/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A conservative college professor engages in a harmless flirtation with a femme fatale, only to find himself ensnared in a web of murder and blackmail.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037466/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/woman_in_the_window"
+  },
+  {
+    "title": "Murder, My Sweet",
+    "year": 1944,
+    "director": {
+      "name": "Edward Dmytryk",
+      "imdb_person_url": "https://www.imdb.com/name/nm0229424/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.45,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Dick Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0694092/"
+      },
+      {
+        "name": "Claire Trevor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001802/"
+      },
+      {
+        "name": "Anne Shirley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0794303/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After his release from prison, Moose Malloy hires private investigator Philip Marlowe to find his former girlfriend, Velma, leading Marlowe into a complex web of deceit.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037101/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/murder_my_sweet"
   },
   {
     "title": "National Velvet",
     "year": 1944,
     "director": {
       "name": "Clarence Brown",
-      "imdb_person_url": "https://www.imdb.com/name/nm0113252/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0113264/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Passed",
+    "production_studio": "MGM",
+    "mpaa_rating": "G",
     "runtime_minutes": 123,
-    "budget_usd_millions": 1.9,
+    "budget_usd_millions": 2.8,
     "gross_revenue_usd_millions": 5.8,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "83%"
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
       "Drama",
@@ -396,342 +528,26 @@
       },
       {
         "name": "Donald Crisp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0188028/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0187884/"
       }
     ],
     "oscars_nominated": 5,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Supporting Actress",
+      "Best Actress in a Supporting Role",
       "Best Film Editing"
     ],
     "description": "A jaded former jockey helps a young girl prepare a wild but gifted horse for England's Grand National Sweepstakes.",
-    "afi_ranking": null,
+    "afi_ranking": 24,
     "imdb_url": "https://www.imdb.com/title/tt0037120/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/national_velvet"
-  },
-  {
-    "title": "Since You Went Away",
-    "year": 1944,
-    "director": {
-      "name": "John Cromwell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0188560/"
-    },
-    "production_studio": "Selznick International Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 177,
-    "budget_usd_millions": 2.4,
-    "gross_revenue_usd_millions": 4.9,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Claudette Colbert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
-      },
-      {
-        "name": "Jennifer Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0428358/"
-      },
-      {
-        "name": "Joseph Cotten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001070/"
-      }
-    ],
-    "oscars_nominated": 9,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Scoring"
-    ],
-    "description": "An epic drama about an American family trying to hold itself together on the home front while the father is away serving in World War II.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037280/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/since_you_went_away"
-  },
-  {
-    "title": "Wilson",
-    "year": 1944,
-    "director": {
-      "name": "Henry King",
-      "imdb_person_url": "https://www.imdb.com/name/nm0454780/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 154,
-    "budget_usd_millions": 5.2,
-    "gross_revenue_usd_millions": 2.0,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "31%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Alexander Knox",
-        "imdb_person_url": "https://www.imdb.com/name/nm0461500/"
-      },
-      {
-        "name": "Charles Coburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0167940/"
-      },
-      {
-        "name": "Geraldine Fitzgerald",
-        "imdb_person_url": "https://www.imdb.com/name/nm0280236/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 5,
-    "oscars_won_details": [
-      "Best Original Screenplay",
-      "Best Cinematography, Color",
-      "Best Art Direction",
-      "Best Sound",
-      "Best Film Editing"
-    ],
-    "description": "A biography of Woodrow Wilson, the 28th President of the United States, covering his political rise and his struggle to establish the League of Nations.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037465/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1023700-wilson"
-  },
-  {
-    "title": "The Miracle of Morgan's Creek",
-    "year": 1944,
-    "director": {
-      "name": "Preston Sturges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001784/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 98,
-    "budget_usd_millions": 0.7,
-    "gross_revenue_usd_millions": 9.0,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Eddie Bracken",
-        "imdb_person_url": "https://www.imdb.com/name/nm0091204/"
-      },
-      {
-        "name": "Betty Hutton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0404600/"
-      },
-      {
-        "name": "Diana Lynn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0528663/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After a wild send-off party for soldiers, a small-town girl wakes up pregnant and married to a man she can't remember, forcing a local 4-F boy to step in and help.",
-    "afi_ranking": 54,
-    "imdb_url": "https://www.imdb.com/title/tt0037077/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/miracle_of_morgans_creek"
-  },
-  {
-    "title": "Hail the Conquering Hero",
-    "year": 1944,
-    "director": {
-      "name": "Preston Sturges",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001784/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 0.57,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Eddie Bracken",
-        "imdb_person_url": "https://www.imdb.com/name/nm0091204/"
-      },
-      {
-        "name": "Ella Raines",
-        "imdb_person_url": "https://www.imdb.com/name/nm0707010/"
-      },
-      {
-        "name": "William Demarest",
-        "imdb_person_url": "https://www.imdb.com/name/nm0218267/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Discharged from the Marines for hay fever, a man is afraid to return home until a group of Marines force him to pose as a war hero.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036891/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hail_the_conquering_hero"
-  },
-  {
-    "title": "Murder, My Sweet",
-    "year": 1944,
-    "director": {
-      "name": "Edward Dmytryk",
-      "imdb_person_url": "https://www.imdb.com/name/nm0229422/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 0.4,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Crime",
-      "Film-Noir",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Dick Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0694090/"
-      },
-      {
-        "name": "Claire Trevor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001799/"
-      },
-      {
-        "name": "Anne Shirley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0794297/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Private eye Philip Marlowe is hired by a hulking ex-convict to find his missing girlfriend, leading him into a complex web of blackmail and murder.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037101/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/murder_my_sweet"
-  },
-  {
-    "title": "The Woman in the Window",
-    "year": 1944,
-    "director": {
-      "name": "Fritz Lang",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000485/"
-    },
-    "production_studio": "International Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 0.75,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Crime",
-      "Film-Noir",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Edward G. Robinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
-      },
-      {
-        "name": "Joan Bennett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000910/"
-      },
-      {
-        "name": "Raymond Massey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002280/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A conservative psychology professor meets a beautiful woman and is inadvertently drawn into a plot of murder and blackmail.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037469/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/woman_in_the_window"
-  },
-  {
-    "title": "Henry V",
-    "year": 1944,
-    "director": {
-      "name": "Laurence Olivier",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
-    },
-    "production_studio": "Two Cities Films",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 2.0,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Laurence Olivier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
-      },
-      {
-        "name": "Robert Newton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0628583/"
-      },
-      {
-        "name": "Leslie Banks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052199/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Honorary Award (Laurence Olivier for his outstanding achievement as actor, producer and director)"
-    ],
-    "description": "In the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036910/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009462-henry_v"
   },
   {
     "title": "The Uninvited",
     "year": 1944,
     "director": {
       "name": "Lewis Allen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0020741/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0020755/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
@@ -740,8 +556,8 @@
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
       "Fantasy",
@@ -758,39 +574,82 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0404046/"
       },
       {
-        "name": "Gail Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0751158/"
+        "name": "Donald Crisp",
+        "imdb_person_url": "https://www.imdb.com/name/nm0187884/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A brother and sister purchase a beautiful gothic house on the Cornish coast, only to find it haunted by a tragic past.",
+    "description": "A brother and sister move into an old seaside house in Cornwall, only to find it haunted by a mysterious presence.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0037408/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/uninvited"
+  },
+  {
+    "title": "Hail the Conquering Hero",
+    "year": 1944,
+    "director": {
+      "name": "Preston Sturges",
+      "imdb_person_url": "https://www.imdb.com/name/nm0836414/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 0.58,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Eddie Bracken",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001968/"
+      },
+      {
+        "name": "Ella Raines",
+        "imdb_person_url": "https://www.imdb.com/name/nm0707010/"
+      },
+      {
+        "name": "Raymond Walburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0906969/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man discharged from the Marines for hay fever is mistaken for a war hero by his hometown.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036891/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hail_the_conquering_hero"
   },
   {
     "title": "Thirty Seconds Over Tokyo",
     "year": 1944,
     "director": {
       "name": "Mervyn LeRoy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0503649/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0503613/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 138,
-    "budget_usd_millions": 3.0,
+    "budget_usd_millions": 2.9,
     "gross_revenue_usd_millions": 6.2,
     "ratings": {
-      "imdb": 7.3,
+      "imdb": 7.2,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
+      "Drama",
       "History",
-      "War",
-      "Drama"
+      "War"
     ],
     "actors": [
       {
@@ -799,118 +658,215 @@
       },
       {
         "name": "Van Johnson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002173/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
       },
       {
         "name": "Robert Walker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0908153/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0908154/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Special Effects"
+      "Best Effects, Special Effects"
     ],
-    "description": "A dramatization of the Doolittle Raid, the first American retaliatory air strike against Japan during World War II.",
+    "description": "Based on the true story of the Doolittle Raid, America's first retaliatory air strike against Japan during World War II.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0037366/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thirty_seconds_over_tokyo"
   },
   {
-    "title": "Cover Girl",
+    "title": "Since You Went Away",
     "year": 1944,
     "director": {
-      "name": "Charles Vidor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0896506/"
+      "name": "John Cromwell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0188669/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "Selznick International Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 6.5,
+    "runtime_minutes": 177,
+    "budget_usd_millions": 3.2,
+    "gross_revenue_usd_millions": 7.0,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "44%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Rita Hayworth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
-      },
-      {
-        "name": "Gene Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000038/"
-      },
-      {
-        "name": "Lee Bowman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001965/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Scoring"
-    ],
-    "description": "A nightclub dancer gets a shot at stardom when she wins a contest to be on the cover of a magazine, threatening her relationship with her mentor.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036723/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cover_girl"
-  },
-  {
-    "title": "Mr. Skeffington",
-    "year": 1944,
-    "director": {
-      "name": "Vincent Sherman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0792609/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 146,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 3.8,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "60%",
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "83%",
       "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
       "Drama",
-      "Romance"
+      "Romance",
+      "War"
     ],
     "actors": [
       {
-        "name": "Bette Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+        "name": "Claudette Colbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
       },
       {
-        "name": "Claude Rains",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001647/"
+        "name": "Jennifer Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0428359/"
       },
       {
-        "name": "Walter Abel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000719/"
+        "name": "Joseph Cotten",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 9,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Scoring of a Dramatic or Comedy Picture"
+    ],
+    "description": "The story of an American family on the home front during World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037280/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/since_you_went_away"
+  },
+  {
+    "title": "Henry V",
+    "year": 1944,
+    "director": {
+      "name": "Laurence Olivier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
+    },
+    "production_studio": "Two Cities Films",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 137,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Laurence Olivier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
+      },
+      {
+        "name": "Robert Newton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0628620/"
+      },
+      {
+        "name": "Leslie Banks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0052208/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Honorary Award (Laurence Olivier)"
+    ],
+    "description": "In the midst of the Hundred Years' War, the young King Henry V of England embarks on the conquest of France in 1415.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036910/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009511-henry_v"
+  },
+  {
+    "title": "A Canterbury Tale",
+    "year": 1944,
+    "director": {
+      "name": "Michael Powell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0694247/"
+    },
+    "production_studio": "The Archers",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 124,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Eric Portman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0692288/"
+      },
+      {
+        "name": "Sheila Sim",
+        "imdb_person_url": "https://www.imdb.com/name/nm0799279/"
+      },
+      {
+        "name": "Dennis Price",
+        "imdb_person_url": "https://www.imdb.com/name/nm0696860/"
+      }
+    ],
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A vain and self-absorbed socialite marries a wealthy stockbroker for his money to save her brother from embezzlement charges, but discovers true love too late.",
+    "description": "A British soldier, an American soldier, and a Land Girl find themselves together in a small Kent town on the road to Canterbury, where they unravel a local mystery.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037099/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mr_skeffington"
+    "imdb_url": "https://www.imdb.com/title/tt0036695/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/canterbury_tale"
+  },
+  {
+    "title": "Wilson",
+    "year": 1944,
+    "director": {
+      "name": "Henry King",
+      "imdb_person_url": "https://www.imdb.com/name/nm0454763/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 154,
+    "budget_usd_millions": 5.2,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Alexander Knox",
+        "imdb_person_url": "https://www.imdb.com/name/nm0461601/"
+      },
+      {
+        "name": "Charles Coburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002013/"
+      },
+      {
+        "name": "Geraldine Fitzgerald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002076/"
+      }
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Writing, Original Screenplay",
+      "Best Cinematography, Color",
+      "Best Art Direction-Interior Decoration, Color",
+      "Best Sound, Recording",
+      "Best Film Editing"
+    ],
+    "description": "A biography of Woodrow Wilson, the 28th President of the United States, covering his time as head of Princeton University, Governor of New Jersey, and President during World War I.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037463/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wilson"
   },
   {
     "title": "Ivan the Terrible, Part I",
     "year": 1944,
     "director": {
       "name": "Sergei Eisenstein",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001178/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0002057/"
     },
     "production_studio": "Mosfilm",
     "mpaa_rating": "Not Rated",
@@ -919,8 +875,8 @@
     "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.9,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "85%"
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Biography",
@@ -930,41 +886,217 @@
     "actors": [
       {
         "name": "Nikolay Cherkasov",
-        "imdb_person_url": "https://www.imdb.com/name/nm0155886/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0155845/"
       },
       {
         "name": "Lyudmila Tselikovskaya",
-        "imdb_person_url": "https://www.imdb.com/name/nm0874825/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0874836/"
       },
       {
         "name": "Serafima Birman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0083725/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0083652/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In 16th-century Russia, Ivan IV crowns himself Tsar and attempts to unite the country while facing betrayal from the aristocracy.",
+    "description": "In 16th-century Russia, Tsar Ivan IV struggles to unite the country against foreign enemies and domestic traitors.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036939/",
+    "imdb_url": "https://www.imdb.com/title/tt0037824/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ivan_the_terrible_part_i"
+  },
+  {
+    "title": "Phantom Lady",
+    "year": 1944,
+    "director": {
+      "name": "Robert Siodmak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0802379/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 87,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Franchot Tone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0867144/"
+      },
+      {
+        "name": "Ella Raines",
+        "imdb_person_url": "https://www.imdb.com/name/nm0707010/"
+      },
+      {
+        "name": "Alan Curtis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0193237/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man accused of murdering his wife relies on his loyal secretary to find the mysterious woman who can provide him with an alibi.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037174/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/phantom_lady"
+  },
+  {
+    "title": "The Curse of the Cat People",
+    "year": 1944,
+    "director": {
+      "name": "Robert Wise",
+      "imdb_person_url": "https://www.imdb.com/name/nm0936404/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 70,
+    "budget_usd_millions": 0.212,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Simone Simon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0800000/"
+      },
+      {
+        "name": "Kent Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0809028/"
+      },
+      {
+        "name": "Jane Randolph",
+        "imdb_person_url": "https://www.imdb.com/name/nm0709923/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The young, friendless daughter of Oliver and Alice Reed befriends the spirit of her father's first wife, Irena.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036733/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/curse_of_the_cat_people"
+  },
+  {
+    "title": "The Lodger",
+    "year": 1944,
+    "director": {
+      "name": "John Brahm",
+      "imdb_person_url": "https://www.imdb.com/name/nm0103984/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 84,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Laird Cregar",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002022/"
+      },
+      {
+        "name": "Merle Oberon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001579/"
+      },
+      {
+        "name": "George Sanders",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001695/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A landlady suspects her new lodger is Jack the Ripper.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037021/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012620-lodger"
+  },
+  {
+    "title": "Torment",
+    "year": 1944,
+    "director": {
+      "name": "Alf Sjöberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0803623/"
+    },
+    "production_studio": "Svensk Filmindustri",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 101,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Stig Järrel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0433469/"
+      },
+      {
+        "name": "Alf Kjellin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0458021/"
+      },
+      {
+        "name": "Mai Zetterling",
+        "imdb_person_url": "https://www.imdb.com/name/nm0955140/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sadistic Latin teacher terrorizes his students, particularly a sensitive boy who falls in love with a girl who is also being tormented by the teacher.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036914/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/torment"
   },
   {
     "title": "The Fighting Sullivans",
     "year": 1944,
     "director": {
       "name": "Lloyd Bacon",
-      "imdb_person_url": "https://www.imdb.com/name/nm0045811/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0045800/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "Passed",
     "runtime_minutes": 112,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.4,
+      "imdb": 7.5,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "58%"
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
       "Biography",
@@ -978,81 +1110,80 @@
       },
       {
         "name": "Thomas Mitchell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0593758/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0593775/"
       },
       {
         "name": "Selena Royle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0747430/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0747372/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Based on a true story, five inseparable brothers from Iowa enlist in the Navy together during WWII, leading to a tragic end.",
+    "description": "The true story of five close-knit brothers who enlist in the Navy together during World War II.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0037323/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fighting_sullivans"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sullivans"
   },
   {
-    "title": "Passage to Marseille",
+    "title": "Maria Candelaria",
     "year": 1944,
     "director": {
-      "name": "Michael Curtiz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0193249/"
+      "name": "Emilio Fernández",
+      "imdb_person_url": "https://www.imdb.com/name/nm0273492/"
     },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 109,
-    "budget_usd_millions": 1.7,
-    "gross_revenue_usd_millions": 4.0,
+    "production_studio": "Films Mundiales",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 101,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "63%",
-      "rotten_tomatoes_popcorn": "48%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
-      "Adventure",
       "Drama",
-      "War"
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Humphrey Bogart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+        "name": "Dolores del Río",
+        "imdb_person_url": "https://www.imdb.com/name/nm0215942/"
       },
       {
-        "name": "Claude Rains",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001647/"
+        "name": "Pedro Armendáriz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000787/"
       },
       {
-        "name": "Michèle Morgan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0604901/"
+        "name": "Alberto Galán",
+        "imdb_person_url": "https://www.imdb.com/name/nm0303531/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Five patriotic convicts escape from Devil's Island to fight for the Free French against the Nazis.",
+    "description": "A young journalist asks an old artist about the portrait of a beautiful indigenous woman he has in his studio. The artist tells the tragic story of Maria Candelaria.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037166/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/passage_to_marseille"
+    "imdb_url": "https://www.imdb.com/title/tt0036142/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/maria_candelaria"
   },
   {
     "title": "The Keys of the Kingdom",
     "year": 1944,
     "director": {
       "name": "John M. Stahl",
-      "imdb_person_url": "https://www.imdb.com/name/nm0819607/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0821469/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "Passed",
     "runtime_minutes": 137,
     "budget_usd_millions": 3.0,
-    "gross_revenue_usd_millions": 5.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Drama"
@@ -1064,7 +1195,7 @@
       },
       {
         "name": "Thomas Mitchell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0593758/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0593775/"
       },
       {
         "name": "Vincent Price",
@@ -1074,10 +1205,184 @@
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Scottish priest establishes a Catholic mission in a remote Chinese province, facing years of struggle, war, and disease.",
+    "description": "A Scottish priest establishes a mission in China, facing hostility, disease, poverty, and war over several decades.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037849/",
+    "imdb_url": "https://www.imdb.com/title/tt0036983/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/keys_of_the_kingdom"
+  },
+  {
+    "title": "Mr. Skeffington",
+    "year": 1944,
+    "director": {
+      "name": "Vincent Sherman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0792612/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 146,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Claude Rains",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+      },
+      {
+        "name": "Walter Abel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0008215/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A vain woman enters a loveless marriage with a wealthy financier to save her brother from embezzlement charges.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037098/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mr_skeffington"
+  },
+  {
+    "title": "This Happy Breed",
+    "year": 1944,
+    "director": {
+      "name": "David Lean",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000180/"
+    },
+    "production_studio": "Two Cities Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 111,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Robert Newton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0628620/"
+      },
+      {
+        "name": "Celia Johnson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0424729/"
+      },
+      {
+        "name": "John Mills",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001538/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of a British family from the end of World War I to the beginning of World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037365/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/this_happy_breed"
+  },
+  {
+    "title": "The Pearl of Death",
+    "year": 1944,
+    "director": {
+      "name": "Roy William Neill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624765/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 69,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
+      },
+      {
+        "name": "Nigel Bruce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0115556/"
+      },
+      {
+        "name": "Dennis Hoey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0388562/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Sherlock Holmes must recover a valuable pearl that has been stolen by a master criminal who uses a hulking brute as his enforcer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037166/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pearl_of_death"
+  },
+  {
+    "title": "The Scarlet Claw",
+    "year": 1944,
+    "director": {
+      "name": "Roy William Neill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624765/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 74,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
+      },
+      {
+        "name": "Nigel Bruce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0115556/"
+      },
+      {
+        "name": "Gerald Hamer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0357608/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Sherlock Holmes investigates a series of murders in a Canadian village that the locals attribute to a legendary phantom monster.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037248/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scarlet_claw"
   },
   {
     "title": "Ministry of Fear",
@@ -1089,273 +1394,12 @@
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 86,
-    "budget_usd_millions": 0.9,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "83%",
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
       "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Film-Noir",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Ray Milland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001537/"
-      },
-      {
-        "name": "Marjorie Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0721852/"
-      },
-      {
-        "name": "Carl Esmond",
-        "imdb_person_url": "https://www.imdb.com/name/nm0260644/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Just released from an asylum, a man inadvertently wins a cake that contains microfilm wanted by a Nazi spy ring.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037075/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ministry_of_fear"
-  },
-  {
-    "title": "Phantom Lady",
-    "year": 1944,
-    "director": {
-      "name": "Robert Siodmak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 87,
-    "budget_usd_millions": 0.36,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "74%"
-    },
-    "genres": [
-      "Film-Noir",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Franchot Tone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0867163/"
-      },
-      {
-        "name": "Ella Raines",
-        "imdb_person_url": "https://www.imdb.com/name/nm0707010/"
-      },
-      {
-        "name": "Alan Curtis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0193231/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A secretary tries to find the mysterious woman who can provide an alibi for her boss, who has been sentenced to death for murder.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037174/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/phantom_lady"
-  },
-  {
-    "title": "Dragon Seed",
-    "year": 1944,
-    "director": {
-      "name": "Jack Conway",
-      "imdb_person_url": "https://www.imdb.com/name/nm0176630/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 148,
-    "budget_usd_millions": 2.9,
-    "gross_revenue_usd_millions": 4.6,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "37%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Katharine Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
-      },
-      {
-        "name": "Walter Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
-      },
-      {
-        "name": "Aline MacMahon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0532920/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A peaceful Chinese village is invaded by the Japanese Army, forcing a family of farmers to choose between collaboration and resistance.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036778/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dragon_seed"
-  },
-  {
-    "title": "The White Cliffs of Dover",
-    "year": 1944,
-    "director": {
-      "name": "Clarence Brown",
-      "imdb_person_url": "https://www.imdb.com/name/nm0113252/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 2.4,
-    "gross_revenue_usd_millions": 6.2,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Drama",
-      "Romance",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Irene Dunne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002051/"
-      },
-      {
-        "name": "Alan Marshal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0550827/"
-      },
-      {
-        "name": "Roddy McDowall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001522/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An American woman travels to England in 1914, marries an aristocrat, and lives through two World Wars while waiting for her loved ones to return.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037462/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white_cliffs_of_dover"
-  },
-  {
-    "title": "A Canterbury Tale",
-    "year": 1944,
-    "director": {
-      "name": "Michael Powell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0694256/"
-    },
-    "production_studio": "The Archers",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 124,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "79%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Eric Portman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0692188/"
-      },
-      {
-        "name": "Sheila Sim",
-        "imdb_person_url": "https://www.imdb.com/name/nm0799309/"
-      },
-      {
-        "name": "Dennis Price",
-        "imdb_person_url": "https://www.imdb.com/name/nm0696860/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A British soldier, an American GI, and a Land Girl join forces to solve a bizarre mystery involving a 'Glue Man' in a Kent village.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036695/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_canterbury_tale"
-  },
-  {
-    "title": "The Curse of the Cat People",
-    "year": 1944,
-    "director": {
-      "name": "Robert Wise",
-      "imdb_person_url": "https://www.imdb.com/name/nm0936404/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 70,
-    "budget_usd_millions": 0.21,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Simone Simon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0800027/"
-      },
-      {
-        "name": "Kent Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0808994/"
-      },
-      {
-        "name": "Jane Randolph",
-        "imdb_person_url": "https://www.imdb.com/name/nm0709921/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The young, lonely daughter of Oliver Reed befriends the spirit of his deceased first wife, who helps her navigate her own imaginative world.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036738/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/curse_of_the_cat_people"
-  },
-  {
-    "title": "Christmas Holiday",
-    "year": 1944,
-    "director": {
-      "name": "Robert Siodmak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 93,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.0,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "45%"
     },
     "genres": [
       "Crime",
@@ -1364,130 +1408,86 @@
     ],
     "actors": [
       {
-        "name": "Deanna Durbin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002052/"
+        "name": "Ray Milland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001537/"
       },
       {
-        "name": "Gene Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000038/"
+        "name": "Marjorie Reynolds",
+        "imdb_person_url": "https://www.imdb.com/name/nm0721848/"
       },
       {
-        "name": "Richard Whorf",
-        "imdb_person_url": "https://www.imdb.com/name/nm0924156/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A soldier meets a singer in a New Orleans nightclub who tells him the dark story of her marriage to a convicted killer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036711/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/christmas_holiday"
-  },
-  {
-    "title": "The Lodger",
-    "year": 1944,
-    "director": {
-      "name": "John Brahm",
-      "imdb_person_url": "https://www.imdb.com/name/nm0103973/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 84,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "66%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Merle Oberon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0643353/"
-      },
-      {
-        "name": "George Sanders",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001695/"
-      },
-      {
-        "name": "Laird Cregar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0187310/"
+        "name": "Carl Esmond",
+        "imdb_person_url": "https://www.imdb.com/name/nm0260717/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A landlady in turn-of-the-century London suspects her new lodger might be Jack the Ripper.",
+    "description": "After being released from a mental asylum, a man is unwittingly drawn into a Nazi spy ring.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037024/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012596-lodger"
+    "imdb_url": "https://www.imdb.com/title/tt0037075/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ministry_of_fear"
   },
   {
-    "title": "Kismet",
+    "title": "Cobra Woman",
     "year": 1944,
     "director": {
-      "name": "William Dieterle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0226150/"
+      "name": "Robert Siodmak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0802379/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 3.0,
-    "gross_revenue_usd_millions": 4.0,
+    "runtime_minutes": 71,
+    "budget_usd_millions": 0.46,
+    "gross_revenue_usd_millions": 1.9,
     "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "35%"
+      "imdb": 6.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "51%"
     },
     "genres": [
+      "Action",
       "Adventure",
-      "Fantasy",
-      "Romance"
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Ronald Colman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0172848/"
+        "name": "Maria Montez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0599688/"
       },
       {
-        "name": "Marlene Dietrich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+        "name": "Jon Hall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0355755/"
       },
       {
-        "name": "James Craig",
-        "imdb_person_url": "https://www.imdb.com/name/nm0185887/"
+        "name": "Sabu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0754940/"
       }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A wily beggar-magician in ancient Baghdad schemes to get his daughter married to a Prince while wooing the Queen of the Grand Vizier.",
+    "description": "A woman discovers she has a twin sister who is the evil High Priestess of a Cobra cult on a Pacific island.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036987/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1044541-kismet"
+    "imdb_url": "https://www.imdb.com/title/tt0036716/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cobra_woman"
   },
   {
     "title": "The Three Caballeros",
     "year": 1944,
     "director": {
       "name": "Norman Ferguson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0272573/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0272551/"
     },
     "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "Passed",
+    "mpaa_rating": "G",
     "runtime_minutes": 71,
-    "budget_usd_millions": null,
+    "budget_usd_millions": 2.0,
     "gross_revenue_usd_millions": 3.3,
     "ratings": {
       "imdb": 6.3,
       "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "66%"
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
       "Animation",
@@ -1496,130 +1496,306 @@
     ],
     "actors": [
       {
-        "name": "Sterling Holloway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0391400/"
+        "name": "Aurora Miranda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0592120/"
       },
       {
-        "name": "Clarence Nash",
-        "imdb_person_url": "https://www.imdb.com/name/nm0621699/"
+        "name": "Carmen Molina",
+        "imdb_person_url": "https://www.imdb.com/name/nm0596660/"
       },
       {
-        "name": "Joaquin Garay",
-        "imdb_person_url": "https://www.imdb.com/name/nm0304875/"
+        "name": "Dora Luz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0527814/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Donald Duck receives a birthday gift package from his friends in Latin America, leading to a musical tour of the continent.",
+    "description": "Donald Duck celebrates his birthday with his friends from Latin America, engaging in a series of musical adventures.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0038166/",
+    "imdb_url": "https://www.imdb.com/title/tt0037376/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_caballeros"
   },
   {
-    "title": "Up in Arms",
+    "title": "None But the Lonely Heart",
     "year": 1944,
     "director": {
-      "name": "Elliott Nugent",
-      "imdb_person_url": "https://www.imdb.com/name/nm0637780/"
+      "name": "Clifford Odets",
+      "imdb_person_url": "https://www.imdb.com/name/nm0644062/"
     },
-    "production_studio": "Samuel Goldwyn Productions",
+    "production_studio": "RKO Radio Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 1.8,
-    "gross_revenue_usd_millions": 3.3,
+    "runtime_minutes": 113,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 1.4,
     "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "42%"
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "41%"
     },
     "genres": [
-      "Comedy",
-      "Musical",
+      "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Danny Kaye",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001414/"
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
       },
       {
-        "name": "Dinah Shore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0794914/"
+        "name": "Ethel Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000858/"
       },
       {
-        "name": "Dana Andrews",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000763/"
+        "name": "Barry Fitzgerald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002076/"
       }
     ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A hypochondriac elevator operator gets drafted into the army and smuggles his girlfriend onto the transport ship.",
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Supporting Role"
+    ],
+    "description": "A wayward cockney drifter returns home to help his dying mother run her shop, but gets involved with a gangster.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037417/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/up_in_arms"
+    "imdb_url": "https://www.imdb.com/title/tt0037136/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/none_but_the_lonely_heart"
   },
   {
-    "title": "The Princess and the Pirate",
+    "title": "Passage to Marseille",
     "year": 1944,
     "director": {
-      "name": "David Butler",
-      "imdb_person_url": "https://www.imdb.com/name/nm0124890/"
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
     },
-    "production_studio": "Samuel Goldwyn Productions",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 1.3,
-    "gross_revenue_usd_millions": 3.0,
+    "runtime_minutes": 109,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 4.1,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "83%",
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      },
+      {
+        "name": "Claude Rains",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+      },
+      {
+        "name": "Michèle Morgan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0604909/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Five French convicts escape Devil's Island to join the Free French forces fighting the Nazis.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037164/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/passage_to_marseille"
+  },
+  {
+    "title": "The Mask of Dimitrios",
+    "year": 1944,
+    "director": {
+      "name": "Jean Negulesco",
+      "imdb_person_url": "https://www.imdb.com/name/nm0624535/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Sydney Greenstreet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002113/"
+      },
+      {
+        "name": "Zachary Scott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0779919/"
+      },
+      {
+        "name": "Faye Emerson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0256214/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mystery writer becomes fascinated by the career of a notorious criminal and sets out to trace his history across Europe.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037055/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mask_of_dimitrios"
+  },
+  {
+    "title": "Between Two Worlds",
+    "year": 1944,
+    "director": {
+      "name": "Edward A. Blatt",
+      "imdb_person_url": "https://www.imdb.com/name/nm0087814/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 112,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "70%",
       "rotten_tomatoes_popcorn": "55%"
     },
     "genres": [
-      "Adventure",
-      "Comedy",
-      "Romance"
+      "Drama",
+      "Fantasy",
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "Bob Hope",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000456/"
+        "name": "John Garfield",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002092/"
       },
       {
-        "name": "Virginia Mayo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0562920/"
+        "name": "Paul Henreid",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002134/"
       },
       {
-        "name": "Walter Brennan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001970/"
+        "name": "Sydney Greenstreet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002113/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of passengers on an ocean liner realize they are all dead and are being transported to the afterlife.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036641/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/between_two_worlds_1944"
+  },
+  {
+    "title": "The Canterville Ghost",
+    "year": 1944,
+    "director": {
+      "name": "Jules Dassin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202088/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Charles Laughton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
+      },
+      {
+        "name": "Robert Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950007/"
+      },
+      {
+        "name": "Margaret O'Brien",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001573/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A cowardly ghost doomed to haunt his family castle is aided by a descendant and American soldiers to find peace.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036696/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1003534-canterville_ghost"
+  },
+  {
+    "title": "It Happened Tomorrow",
+    "year": 1944,
+    "director": {
+      "name": "René Clair",
+      "imdb_person_url": "https://www.imdb.com/name/nm0163259/"
+    },
+    "production_studio": "Arnold Pressburger Films",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Dick Powell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0694092/"
+      },
+      {
+        "name": "Linda Darnell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002034/"
+      },
+      {
+        "name": "Jack Oakie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0642965/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A cowardly actor on the run tries to save a princess from a notorious pirate while disguised as a gypsy.",
+    "description": "A journalist receives tomorrow's newspaper today, which helps him get scoops but also predicts his own death.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037196/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/princess_and_the_pirate"
+    "imdb_url": "https://www.imdb.com/title/tt0036962/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/it_happened_tomorrow"
   },
   {
     "title": "The Seventh Cross",
     "year": 1944,
     "director": {
       "name": "Fred Zinnemann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0957049/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001876/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 110,
     "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 4.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.6,
+      "imdb": 7.3,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "64%"
     },
     "genres": [
       "Drama",
@@ -1633,37 +1809,301 @@
       },
       {
         "name": "Signe Hasso",
-        "imdb_person_url": "https://www.imdb.com/name/nm0368551/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0368541/"
       },
       {
         "name": "Hume Cronyn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002027/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001079/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Seven prisoners escape from a Nazi concentration camp in 1936; the commandant vows to execute them and erects seven crosses, one for each man.",
+    "description": "Seven prisoners escape from a concentration camp in Nazi Germany; the commandant erects seven crosses for their execution, but one remains empty.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0037264/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/seventh_cross"
   },
   {
-    "title": "Cobra Woman",
+    "title": "Dragon Seed",
     "year": 1944,
     "director": {
-      "name": "Robert Siodmak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001741/"
+      "name": "Jack Conway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0176558/"
     },
-    "production_studio": "Universal Pictures",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 71,
-    "budget_usd_millions": 0.72,
-    "gross_revenue_usd_millions": null,
+    "runtime_minutes": 148,
+    "budget_usd_millions": 2.6,
+    "gross_revenue_usd_millions": 4.6,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
+      },
+      {
+        "name": "Walter Huston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404158/"
+      },
+      {
+        "name": "Aline MacMahon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0533878/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Chinese family village resists the Japanese invasion during World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036779/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dragon_seed"
+  },
+  {
+    "title": "Kismet",
+    "year": 1944,
+    "director": {
+      "name": "William Dieterle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0226162/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 4.2,
     "ratings": {
       "imdb": 6.4,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "58%"
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ronald Colman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002015/"
+      },
+      {
+        "name": "Marlene Dietrich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+      },
+      {
+        "name": "James Craig",
+        "imdb_person_url": "https://www.imdb.com/name/nm0185885/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In ancient Baghdad, the king of beggars schemes to marry his daughter to a prince and win the queen of the grand vizier's harem for himself.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036986/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011666-kismet"
+  },
+  {
+    "title": "The Princess and the Pirate",
+    "year": 1944,
+    "director": {
+      "name": "David Butler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0124888/"
+    },
+    "production_studio": "Samuel Goldwyn Company",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 4.2,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Bob Hope",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
+      },
+      {
+        "name": "Virginia Mayo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0562943/"
+      },
+      {
+        "name": "Walter Brennan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000974/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A coward entertainer on the run finds himself on a pirate ship with a runaway princess, trying to save her and himself from the villainous pirates.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037198/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/princess_and_the_pirate"
+  },
+  {
+    "title": "Up in Arms",
+    "year": 1944,
+    "director": {
+      "name": "Elliott Nugent",
+      "imdb_person_url": "https://www.imdb.com/name/nm0637798/"
+    },
+    "production_studio": "Samuel Goldwyn Company",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 4.7,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Danny Kaye",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001416/"
+      },
+      {
+        "name": "Dinah Shore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001735/"
+      },
+      {
+        "name": "Dana Andrews",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000762/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A hypochondriac is drafted into the army and eventually captures a squad of Japanese soldiers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037410/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/up_in_arms"
+  },
+  {
+    "title": "Cover Girl",
+    "year": 1944,
+    "director": {
+      "name": "Charles Vidor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0896489/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 6.3,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "62%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Rita Hayworth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
+      },
+      {
+        "name": "Gene Kelly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
+      },
+      {
+        "name": "Lee Bowman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0101357/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Scoring of a Musical Picture"
+    ],
+    "description": "A nightclub dancer wins a contest and becomes a cover girl model, threatening her relationship with her manager.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036723/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cover_girl"
+  },
+  {
+    "title": "Lady in the Dark",
+    "year": 1944,
+    "director": {
+      "name": "Mitchell Leisen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0500626/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
+      },
+      {
+        "name": "Ray Milland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001537/"
+      },
+      {
+        "name": "Warner Baxter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0007936/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A fashion magazine editor undergoes psychoanalysis to explore her strange dreams and unhappiness.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037002/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lady_in_the_dark"
+  },
+  {
+    "title": "The Story of Dr. Wassell",
+    "year": 1944,
+    "director": {
+      "name": "Cecil B. DeMille",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 2.6,
+    "gross_revenue_usd_millions": 6.3,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "35%"
     },
     "genres": [
       "Action",
@@ -1672,85 +2112,86 @@
     ],
     "actors": [
       {
-        "name": "Maria Montez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0599677/"
+        "name": "Gary Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000011/"
       },
       {
-        "name": "Jon Hall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0355742/"
+        "name": "Laraine Day",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002036/"
       },
       {
-        "name": "Sabu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0754934/"
+        "name": "Signe Hasso",
+        "imdb_person_url": "https://www.imdb.com/name/nm0368541/"
       }
     ],
-    "oscars_nominated": 0,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A girl is kidnapped and taken to a secret island where her evil twin sister rules a cult that worships a giant cobra.",
+    "description": "An American doctor tries to evacuate wounded soldiers from Java as the Japanese invade during World War II.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036716/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cobra_woman"
+    "imdb_url": "https://www.imdb.com/title/tt0037314/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/story_of_dr_wassell"
   },
   {
-    "title": "It Happened Tomorrow",
+    "title": "The White Cliffs of Dover",
     "year": 1944,
     "director": {
-      "name": "René Clair",
-      "imdb_person_url": "https://www.imdb.com/name/nm0163261/"
+      "name": "Clarence Brown",
+      "imdb_person_url": "https://www.imdb.com/name/nm0113264/"
     },
-    "production_studio": "Arnold Pressburger Films",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 85,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "runtime_minutes": 126,
+    "budget_usd_millions": 2.4,
+    "gross_revenue_usd_millions": 6.2,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
-      "Comedy",
-      "Fantasy"
+      "Drama",
+      "Romance",
+      "War"
     ],
     "actors": [
       {
-        "name": "Dick Powell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0694090/"
+        "name": "Irene Dunne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002052/"
       },
       {
-        "name": "Linda Darnell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002033/"
+        "name": "Alan Marshal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0550889/"
       },
       {
-        "name": "Jack Oakie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0642959/"
+        "name": "Roddy McDowall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001522/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A reporter meets a mysterious man who gives him tomorrow's newspaper, allowing him to scoop stories but also predicting his own death.",
+    "description": "An American woman moves to England, marries an aristocrat, and experiences two World Wars.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036962/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/it_happened_tomorrow"
+    "imdb_url": "https://www.imdb.com/title/tt0037462/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white_cliffs_of_dover"
   },
   {
-    "title": "None But the Lonely Heart",
+    "title": "I'll Be Seeing You",
     "year": 1944,
     "director": {
-      "name": "Clifford Odets",
-      "imdb_person_url": "https://www.imdb.com/name/nm0644054/"
+      "name": "William Dieterle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0226162/"
     },
-    "production_studio": "RKO Radio Pictures",
+    "production_studio": "Vanguard Films",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 0.9,
-    "gross_revenue_usd_millions": 1.5,
+    "runtime_minutes": 85,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 6.0,
     "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "50%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Drama",
@@ -1758,44 +2199,352 @@
     ],
     "actors": [
       {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
       },
       {
-        "name": "Ethel Barrymore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000857/"
+        "name": "Joseph Cotten",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
       },
       {
-        "name": "Barry Fitzgerald",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002075/"
+        "name": "Shirley Temple",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000073/"
       }
     ],
-    "oscars_nominated": 4,
+    "oscars_nominated": 0,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Supporting Actress (Ethel Barrymore)"
+      "Best Music, Original Song"
     ],
-    "description": "A Cockney drifter returns home to help his dying mother run her thrift shop and gets involved with a local gangster.",
+    "description": "A soldier suffering from shell shock and a woman on furlough from prison meet on a train and fall in love during the Christmas holidays.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0037138/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/none_but_the_lonely_heart"
+    "imdb_url": "https://www.imdb.com/title/tt0036940/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ill_be_seeing_you"
+  },
+  {
+    "title": "Christmas Holiday",
+    "year": 1944,
+    "director": {
+      "name": "Robert Siodmak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0802379/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "Deanna Durbin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002051/"
+      },
+      {
+        "name": "Gene Kelly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
+      },
+      {
+        "name": "Richard Whorf",
+        "imdb_person_url": "https://www.imdb.com/name/nm0924255/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young singer marries a Southern charmer who turns out to be a murderer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036711/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/christmas_holiday"
+  },
+  {
+    "title": "The Climax",
+    "year": 1944,
+    "director": {
+      "name": "George Waggner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0905666/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 0.77,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "30%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Boris Karloff",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+      },
+      {
+        "name": "Susanna Foster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0288062/"
+      },
+      {
+        "name": "Turhan Bey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0079860/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mad doctor revives his dead mistress's voice in a young opera singer through hypnosis.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036715/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/climax"
+  },
+  {
+    "title": "Follow the Boys",
+    "year": 1944,
+    "director": {
+      "name": "A. Edward Sutherland",
+      "imdb_person_url": "https://www.imdb.com/name/nm0840026/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 3.0,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "George Raft",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+      },
+      {
+        "name": "Vera Zorina",
+        "imdb_person_url": "https://www.imdb.com/name/nm0957962/"
+      },
+      {
+        "name": "Charles Grapewin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0336025/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A variety show honoring the Hollywood stars who entertained the troops during World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036832/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/follow_the_boys"
+  },
+  {
+    "title": "Ali Baba and the Forty Thieves",
+    "year": 1944,
+    "director": {
+      "name": "Arthur Lubin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0523826/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 0.76,
+    "gross_revenue_usd_millions": 2.4,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Maria Montez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0599688/"
+      },
+      {
+        "name": "Jon Hall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0355755/"
+      },
+      {
+        "name": "Turhan Bey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0079860/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Ali Baba, the son of the Caliph of Baghdad, is raised by thieves after his father is killed by Mongol invaders.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036591/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ali_baba_and_the_forty_thieves"
+  },
+  {
+    "title": "The Fighting Seabees",
+    "year": 1944,
+    "director": {
+      "name": "Edward Ludwig",
+      "imdb_person_url": "https://www.imdb.com/name/nm0525091/"
+    },
+    "production_studio": "Republic Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Susan Hayward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001334/"
+      },
+      {
+        "name": "Dennis O'Keefe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641443/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A construction boss in the Pacific theater of WWII fights to get his men armed and trained to defend themselves.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036824/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fighting_seabees"
+  },
+  {
+    "title": "Tall in the Saddle",
+    "year": 1944,
+    "director": {
+      "name": "Edwin L. Marin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0547468/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 87,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "John Wayne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
+      },
+      {
+        "name": "Ella Raines",
+        "imdb_person_url": "https://www.imdb.com/name/nm0707010/"
+      },
+      {
+        "name": "Ward Bond",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000955/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A cowboy arrives in a town to start a new job, but finds himself in the middle of a power struggle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037346/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tall_in_the_saddle"
+  },
+  {
+    "title": "Uncertain Glory",
+    "year": 1944,
+    "director": {
+      "name": "Raoul Walsh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0909848/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Errol Flynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
+      },
+      {
+        "name": "Paul Lukas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0525543/"
+      },
+      {
+        "name": "Jean Sullivan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0838127/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A French criminal condemned to death escapes during a bombing raid and tries to bargain with the authorities.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037402/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/uncertain_glory"
   },
   {
     "title": "Bathing Beauty",
     "year": 1944,
     "director": {
       "name": "George Sidney",
-      "imdb_person_url": "https://www.imdb.com/name/nm0796629/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0796522/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 101,
-    "budget_usd_millions": 2.3,
-    "gross_revenue_usd_millions": 6.9,
+    "budget_usd_millions": 2.36,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "50%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "51%"
     },
     "genres": [
       "Comedy",
@@ -1804,7 +2553,7 @@
     "actors": [
       {
         "name": "Red Skelton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001744/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001746/"
       },
       {
         "name": "Esther Williams",
@@ -1818,52 +2567,183 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A songwriter enrolls in a women's college to win back his estranged swimming instructor fiancée.",
+    "description": "A songwriter enrolls in a women's college to win back his estranged wife, a swimming instructor.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036631/",
+    "imdb_url": "https://www.imdb.com/title/tt0036633/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bathing_beauty"
   },
   {
-    "title": "Ali Baba and the Forty Thieves",
+    "title": "Two Girls and a Sailor",
     "year": 1944,
     "director": {
-      "name": "Arthur Lubin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0523848/"
+      "name": "Richard Thorpe",
+      "imdb_person_url": "https://www.imdb.com/name/nm0861698/"
     },
-    "production_studio": "Universal Pictures",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 87,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.9,
+    "runtime_minutes": 124,
+    "budget_usd_millions": 1.4,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
-      "imdb": 6.2,
+      "imdb": 6.8,
       "rotten_tomatoes_critic": "60%",
-      "rotten_tomatoes_popcorn": "35%"
+      "rotten_tomatoes_popcorn": "41%"
     },
     "genres": [
-      "Action",
-      "Adventure"
+      "Comedy",
+      "Musical",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Maria Montez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0599677/"
+        "name": "Van Johnson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
       },
       {
-        "name": "Jon Hall",
-        "imdb_person_url": "https://www.imdb.com/name/nm0355742/"
+        "name": "June Allyson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000742/"
       },
       {
-        "name": "Turhan Bey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0079847/"
+        "name": "Gloria DeHaven",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002040/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two sisters start a canteen for servicemen and fall for the same sailor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0037400/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/two_girls_and_a_sailor"
+  },
+  {
+    "title": "Hollywood Canteen",
+    "year": 1944,
+    "director": {
+      "name": "Delmer Daves",
+      "imdb_person_url": "https://www.imdb.com/name/nm0202604/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 2.1,
+    "gross_revenue_usd_millions": 5.1,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "45%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Joan Leslie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0504157/"
+      },
+      {
+        "name": "Robert Hutton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404658/"
+      },
+      {
+        "name": "Dane Clark",
+        "imdb_person_url": "https://www.imdb.com/name/nm0163829/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A star-studded musical revue set in the famous Hollywood Canteen, where stars entertained the troops during WWII.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036922/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hollywood_canteen"
+  },
+  {
+    "title": "Janie",
+    "year": 1944,
+    "director": {
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "40%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Joyce Reynolds",
+        "imdb_person_url": "https://www.imdb.com/name/nm0721799/"
+      },
+      {
+        "name": "Robert Hutton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404658/"
+      },
+      {
+        "name": "Edward Arnold",
+        "imdb_person_url": "https://www.imdb.com/name/nm0036427/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The son of the Caliph of Baghdad, raised by thieves after his father's murder, returns to reclaim his city from Mongol invaders.",
+    "description": "A small town is overrun by soldiers from a nearby base, causing chaos for the local girls and their families.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0036591/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1000613-ali_baba_and_the_forty_thieves"
+    "imdb_url": "https://www.imdb.com/title/tt0036969/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/janie"
+  },
+  {
+    "title": "Can't Help Singing",
+    "year": 1944,
+    "director": {
+      "name": "Frank Ryan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0752538/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 2.6,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Musical",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Deanna Durbin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002051/"
+      },
+      {
+        "name": "Robert Paige",
+        "imdb_person_url": "https://www.imdb.com/name/nm0656722/"
+      },
+      {
+        "name": "Akim Tamiroff",
+        "imdb_person_url": "https://www.imdb.com/name/nm0848667/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A senator's daughter runs away from home to follow her boyfriend out West, singing all the way.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0036694/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cant_help_singing"
   }
 ]

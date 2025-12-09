@@ -101,7 +101,7 @@ public class ActorFilmographyService {
                             }
                         } catch (IOException listEx) {
                             logger.error(listEx.getMessage(), listEx);
-                            logger.info("\t Skip malformed resource {} and continue (malformed or unexpected structure)", resourceFileName);
+                            logger.warn("\t Skip malformed resource {} and continue (malformed or unexpected structure)", resourceFileName);
 
                         }
                     }

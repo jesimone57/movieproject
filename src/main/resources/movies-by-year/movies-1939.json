@@ -4,7 +4,7 @@
     "year": 1939,
     "director": {
       "name": "Victor Fleming",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002076/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001219/"
     },
     "production_studio": "Selznick International Pictures",
     "mpaa_rating": "Passed",
@@ -14,7 +14,7 @@
     "ratings": {
       "imdb": 8.2,
       "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "92%"
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
       "Drama",
@@ -32,7 +32,7 @@
       },
       {
         "name": "Thomas Mitchell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0593758/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0593775/"
       }
     ],
     "oscars_nominated": 13,
@@ -40,14 +40,14 @@
     "oscars_won_details": [
       "Best Picture",
       "Best Director",
-      "Best Actress",
-      "Best Supporting Actress",
-      "Best Screenplay",
+      "Best Actress in a Leading Role",
+      "Best Actress in a Supporting Role",
+      "Best Writing, Screenplay",
       "Best Cinematography, Color",
-      "Best Film Editing",
-      "Best Art Direction"
+      "Best Art Direction",
+      "Best Film Editing"
     ],
-    "description": "A manipulative Southern belle carries on a turbulent affair with a blockade runner during the American Civil War and Reconstruction periods.",
+    "description": "The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.",
     "afi_ranking": 6,
     "imdb_url": "https://www.imdb.com/title/tt0031381/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gone_with_the_wind"
@@ -57,13 +57,13 @@
     "year": 1939,
     "director": {
       "name": "Victor Fleming",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002076/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001219/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 102,
-    "budget_usd_millions": 2.8,
-    "gross_revenue_usd_millions": 29.7,
+    "budget_usd_millions": 2.7,
+    "gross_revenue_usd_millions": 26.1,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "98%",
@@ -72,8 +72,7 @@
     "genres": [
       "Adventure",
       "Family",
-      "Fantasy",
-      "Musical"
+      "Fantasy"
     ],
     "actors": [
       {
@@ -86,19 +85,19 @@
       },
       {
         "name": "Ray Bolger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001958/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001959/"
       }
     ],
     "oscars_nominated": 6,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Music, Original Song (Over the Rainbow)",
+      "Best Music, Original Song",
       "Best Music, Original Score"
     ],
-    "description": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard.",
+    "description": "Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home.",
     "afi_ranking": 10,
     "imdb_url": "https://www.imdb.com/title/tt0032138/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_wizard_of_oz"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_wizard_of_oz_1939"
   },
   {
     "title": "Mr. Smith Goes to Washington",
@@ -111,10 +110,10 @@
     "mpaa_rating": "Passed",
     "runtime_minutes": 129,
     "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 9.6,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_critic": "96%",
       "rotten_tomatoes_popcorn": "94%"
     },
     "genres": [
@@ -132,15 +131,15 @@
       },
       {
         "name": "Claude Rains",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001647/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
       }
     ],
     "oscars_nominated": 11,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Original Story"
+      "Best Writing, Original Story"
     ],
-    "description": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and conflict with his hero, the senior senator.",
+    "description": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
     "afi_ranking": 26,
     "imdb_url": "https://www.imdb.com/title/tt0031679/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mr_smith_goes_to_washington"
@@ -160,7 +159,7 @@
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Adventure",
@@ -174,7 +173,7 @@
       },
       {
         "name": "Claire Trevor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001799/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001802/"
       },
       {
         "name": "Andy Devine",
@@ -184,12 +183,12 @@
     "oscars_nominated": 7,
     "oscars_won": 2,
     "oscars_won_details": [
-      "Best Supporting Actor",
+      "Best Actor in a Supporting Role",
       "Best Music, Scoring"
     ],
     "description": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.",
     "afi_ranking": 63,
-    "imdb_url": "https://www.imdb.com/title/tt0031971/",
+    "imdb_url": "https://www.imdb.com/title/tt0031981/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stagecoach"
   },
   {
@@ -199,15 +198,15 @@
       "name": "William Wyler",
       "imdb_person_url": "https://www.imdb.com/name/nm0943758/"
     },
-    "production_studio": "Samuel Goldwyn Productions",
+    "production_studio": "Samuel Goldwyn Company",
     "mpaa_rating": "Passed",
     "runtime_minutes": 104,
     "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 2.5,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "82%"
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Drama",
@@ -216,7 +215,7 @@
     "actors": [
       {
         "name": "Merle Oberon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0643353/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001579/"
       },
       {
         "name": "Laurence Olivier",
@@ -232,19 +231,19 @@
     "oscars_won_details": [
       "Best Cinematography, Black-and-White"
     ],
-    "description": "A servant in the house of Wuthering Heights tells a traveler the unfortunate tale of lovers Heathcliff and Cathy.",
+    "description": "A foundling in 19th-century Yorkshire, raised by a wealthy family, falls in love with his foster sister, but their class differences incite a lifelong feud.",
     "afi_ranking": 73,
     "imdb_url": "https://www.imdb.com/title/tt0032145/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1024162-wuthering_heights"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1024190-wuthering_heights"
   },
   {
     "title": "Ninotchka",
     "year": 1939,
     "director": {
       "name": "Ernst Lubitsch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002281/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0523932/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 110,
     "budget_usd_millions": 1.36,
@@ -252,7 +251,7 @@
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "87%"
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
       "Comedy",
@@ -261,15 +260,15 @@
     "actors": [
       {
         "name": "Greta Garbo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001254/"
       },
       {
         "name": "Melvyn Douglas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0235182/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002047/"
       },
       {
         "name": "Ina Claire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0163163/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0163231/"
       }
     ],
     "oscars_nominated": 4,
@@ -285,7 +284,7 @@
     "year": 1939,
     "director": {
       "name": "Jean Renoir",
-      "imdb_person_url": "https://www.imdb.com/name/nm0719645/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0719660/"
     },
     "production_studio": "Nouvelle Édition Française",
     "mpaa_rating": "Not Rated",
@@ -293,8 +292,8 @@
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "96%",
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "97%",
       "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
@@ -304,15 +303,15 @@
     "actors": [
       {
         "name": "Marcel Dalio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0197900/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0197905/"
       },
       {
         "name": "Nora Gregor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0339654/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0339678/"
       },
       {
-        "name": "Paulette Dubost",
-        "imdb_person_url": "https://www.imdb.com/name/nm0239426/"
+        "name": "Jean Renoir",
+        "imdb_person_url": "https://www.imdb.com/name/nm0719660/"
       }
     ],
     "oscars_nominated": 0,
@@ -321,24 +320,24 @@
     "description": "A bourgeois life in France at the onset of World War II, as the rich and their poor servants meet up at a French chateau.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0031885/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_rules_of_the_game"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rules_of_the_game"
   },
   {
     "title": "Goodbye, Mr. Chips",
     "year": 1939,
     "director": {
       "name": "Sam Wood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0939997/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0939989/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 114,
-    "budget_usd_millions": 1.0,
-    "gross_revenue_usd_millions": 3.2,
+    "budget_usd_millions": 1.05,
+    "gross_revenue_usd_millions": 3.25,
     "ratings": {
-      "imdb": 7.8,
+      "imdb": 7.7,
       "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "87%"
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Drama",
@@ -347,43 +346,131 @@
     "actors": [
       {
         "name": "Robert Donat",
-        "imdb_person_url": "https://www.imdb.com/name/nm0232047/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0002045/"
       },
       {
         "name": "Greer Garson",
         "imdb_person_url": "https://www.imdb.com/name/nm0002093/"
       },
       {
-        "name": "Paul Henreid",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002134/"
+        "name": "Terry Kilburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0452925/"
       }
     ],
     "oscars_nominated": 7,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Actor"
+      "Best Actor in a Leading Role"
     ],
-    "description": "An aged teacher looks back over his long career, including his days as a starched young schoolmaster, his courtship and marriage, and the horrors of World War I.",
-    "afi_ranking": null,
+    "description": "An aged teacher and former headmaster of a boarding school recalls his career and his personal life over the decades.",
+    "afi_ranking": 72,
     "imdb_url": "https://www.imdb.com/title/tt0031385/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008674-goodbye_mr_chips"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1008678-goodbye_mr_chips"
+  },
+  {
+    "title": "The Roaring Twenties",
+    "year": 1939,
+    "director": {
+      "name": "Raoul Walsh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0909848/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
+      },
+      {
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      },
+      {
+        "name": "Priscilla Lane",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002187/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three men attempt to make a living in Prohibitionist America after returning home from fighting together in World War I.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031867/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/roaring_twenties"
+  },
+  {
+    "title": "Only Angels Have Wings",
+    "year": 1939,
+    "director": {
+      "name": "Howard Hawks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 121,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Jean Arthur",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
+      },
+      {
+        "name": "Rita Hayworth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The manager of an air freight company in the Andes is forced to risk his pilots' lives in order to win a contract.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031762/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/only_angels_have_wings"
   },
   {
     "title": "The Hunchback of Notre Dame",
     "year": 1939,
     "director": {
       "name": "William Dieterle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0226150/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0226162/"
     },
     "production_studio": "RKO Radio Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 116,
     "budget_usd_millions": 1.8,
-    "gross_revenue_usd_millions": 3.1,
+    "gross_revenue_usd_millions": 3.2,
     "ratings": {
       "imdb": 7.8,
       "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Drama",
@@ -409,405 +496,14 @@
     "description": "In 15th-century France, a gypsy girl is framed for murder by the infatuated Chief Justice, and only the deformed bellringer of Notre Dame Cathedral can save her.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0031455/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010216-hunchback_of_notre_dame"
-  },
-  {
-    "title": "Only Angels Have Wings",
-    "year": 1939,
-    "director": {
-      "name": "Howard Hawks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 121,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "87%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Jean Arthur",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
-      },
-      {
-        "name": "Rita Hayworth",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000030/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "At a remote South American trading port, the manager of an air freight company is forced to risk his pilots' lives in order to win a major contract.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031762/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/only_angels_have_wings"
-  },
-  {
-    "title": "Dark Victory",
-    "year": 1939,
-    "director": {
-      "name": "Edmund Goulding",
-      "imdb_person_url": "https://www.imdb.com/name/nm0332616/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": 1.9,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Bette Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
-      },
-      {
-        "name": "George Brent",
-        "imdb_person_url": "https://www.imdb.com/name/nm0107574/"
-      },
-      {
-        "name": "Humphrey Bogart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young socialite is diagnosed with an inoperable brain tumor and must decide whether to meet her final days with dignity or live them up wildly.",
-    "afi_ranking": 32,
-    "imdb_url": "https://www.imdb.com/title/tt0031210/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_victory"
-  },
-  {
-    "title": "Young Mr. Lincoln",
-    "year": 1939,
-    "director": {
-      "name": "John Ford",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "69%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Alice Brady",
-        "imdb_person_url": "https://www.imdb.com/name/nm0103566/"
-      },
-      {
-        "name": "Marjorie Weaver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0915898/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A fictionalized account of the early life of the American president as a young lawyer facing his greatest court case.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032135/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/young_mr_lincoln"
-  },
-  {
-    "title": "Gunga Din",
-    "year": 1939,
-    "director": {
-      "name": "George Stevens",
-      "imdb_person_url": "https://www.imdb.com/name/nm0828416/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 1.9,
-    "gross_revenue_usd_millions": 2.8,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "75%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Cary Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
-      },
-      {
-        "name": "Victor McLaglen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0572149/"
-      },
-      {
-        "name": "Douglas Fairbanks Jr.",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002068/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Three British soldiers and a native waterbearer must stop a Thuggee cult from starting an uprising in 19th-century British India.",
-    "afi_ranking": 74,
-    "imdb_url": "https://www.imdb.com/title/tt0031398/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gunga_din"
-  },
-  {
-    "title": "The Women",
-    "year": 1939,
-    "director": {
-      "name": "George Cukor",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002029/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 133,
-    "budget_usd_millions": 1.6,
-    "gross_revenue_usd_millions": 2.3,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Norma Shearer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0790452/"
-      },
-      {
-        "name": "Joan Crawford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001076/"
-      },
-      {
-        "name": "Rosalind Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0751426/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A wealthy New Yorker unaware of her husband's infidelity is surrounded by a circle of gossip-mongering friends who make matters worse.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032134/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1023897-women"
-  },
-  {
-    "title": "The Roaring Twenties",
-    "year": 1939,
-    "director": {
-      "name": "Raoul Walsh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0909818/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 0.9,
-    "gross_revenue_usd_millions": 1.7,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Film-Noir"
-    ],
-    "actors": [
-      {
-        "name": "James Cagney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
-      },
-      {
-        "name": "Priscilla Lane",
-        "imdb_person_url": "https://www.imdb.com/name/nm0485509/"
-      },
-      {
-        "name": "Humphrey Bogart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Three army friends return from WWI and drift apart, but their lives intersect again during the Prohibition era of the 1920s.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031867/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/roaring_twenties"
-  },
-  {
-    "title": "Love Affair",
-    "year": 1939,
-    "director": {
-      "name": "Leo McCarey",
-      "imdb_person_url": "https://www.imdb.com/name/nm0565590/"
-    },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 0.8,
-    "gross_revenue_usd_millions": 1.3,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Irene Dunne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002051/"
-      },
-      {
-        "name": "Charles Boyer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000964/"
-      },
-      {
-        "name": "Maria Ouspenskaya",
-        "imdb_person_url": "https://www.imdb.com/name/nm0652685/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A French playboy and an American former nightclub singer fall in love aboard a ship and agree to reunite six months later at the Empire State Building.",
-    "afi_ranking": 83,
-    "imdb_url": "https://www.imdb.com/title/tt0031593/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012817-love_affair"
-  },
-  {
-    "title": "Destry Rides Again",
-    "year": 1939,
-    "director": {
-      "name": "George Marshall",
-      "imdb_person_url": "https://www.imdb.com/name/nm0550873/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 0.7,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Comedy",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Marlene Dietrich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
-      },
-      {
-        "name": "James Stewart",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
-      },
-      {
-        "name": "Mischa Auer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0041681/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A mild-mannered deputy who doesn't like guns is called to tame a lawless town, where he meets a feisty saloon singer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031225/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/destry_rides_again"
-  },
-  {
-    "title": "Of Mice and Men",
-    "year": 1939,
-    "director": {
-      "name": "Lewis Milestone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0587246/"
-    },
-    "production_studio": "Hal Roach Studios",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 106,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Lon Chaney Jr.",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001037/"
-      },
-      {
-        "name": "Burgess Meredith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000539/"
-      },
-      {
-        "name": "Betty Field",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004298/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two migrant field workers in California during the Great Depression—one witty but cynical, the other strong but mentally disabled—dream of having their own farm.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031742/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015424-of_mice_and_men"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010215-hunchback_of_notre_dame"
   },
   {
     "title": "Midnight",
     "year": 1939,
     "director": {
       "name": "Mitchell Leisen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0500603/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0500626/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
@@ -830,7 +526,7 @@
       },
       {
         "name": "Don Ameche",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000746/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000266/"
       },
       {
         "name": "John Barrymore",
@@ -840,27 +536,550 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An unemployed American showgirl stranded in Paris is hired by an aristocrat to seduce the gigolo who is pursuing his wife.",
+    "description": "An unemployed showgirl poses as a Hungarian countess to crash Paris society and attracts the attention of a wealthy man and his suspicious wife.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0031647/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013840-midnight"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013824-midnight"
+  },
+  {
+    "title": "Destry Rides Again",
+    "year": 1939,
+    "director": {
+      "name": "George Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0550882/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 0.8,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      },
+      {
+        "name": "Marlene Dietrich",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000017/"
+      },
+      {
+        "name": "Mischa Auer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0041708/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A deputy sheriff who doesn't like guns is called to tame the lawless town of Bottleneck.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031225/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/destry_rides_again"
+  },
+  {
+    "title": "The Women",
+    "year": 1939,
+    "director": {
+      "name": "George Cukor",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002030/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 133,
+    "budget_usd_millions": 1.68,
+    "gross_revenue_usd_millions": 2.3,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Norma Shearer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001730/"
+      },
+      {
+        "name": "Joan Crawford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001076/"
+      },
+      {
+        "name": "Rosalind Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001691/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A happily married woman lets her catty friends talk her into divorce when her husband strays.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032135/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1023963-women"
+  },
+  {
+    "title": "Dark Victory",
+    "year": 1939,
+    "director": {
+      "name": "Edmund Goulding",
+      "imdb_person_url": "https://www.imdb.com/name/nm0332356/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 3.2,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "George Brent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0107574/"
+      },
+      {
+        "name": "Humphrey Bogart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000007/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A flighty heiress discovers she has a brain tumor and has only months to live.",
+    "afi_ranking": 32,
+    "imdb_url": "https://www.imdb.com/title/tt0031210/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_victory"
+  },
+  {
+    "title": "Young Mr. Lincoln",
+    "year": 1939,
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Henry Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "Alice Brady",
+        "imdb_person_url": "https://www.imdb.com/name/nm0103562/"
+      },
+      {
+        "name": "Marjorie Weaver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0915907/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A fictionalized account of the early life of the American president as a young lawyer facing his greatest court case.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032155/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/young_mr_lincoln"
+  },
+  {
+    "title": "Le Jour se Lève",
+    "year": 1939,
+    "director": {
+      "name": "Marcel Carné",
+      "imdb_person_url": "https://www.imdb.com/name/nm0138836/"
+    },
+    "production_studio": "Sigma",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jean Gabin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0300064/"
+      },
+      {
+        "name": "Jacqueline Laurent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0491223/"
+      },
+      {
+        "name": "Jules Berry",
+        "imdb_person_url": "https://www.imdb.com/name/nm0077598/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A foundry worker kills a man and barricades himself in his apartment, reflecting on the events that led him to the crime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031514/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/le_jour_se_leve"
+  },
+  {
+    "title": "Of Mice and Men",
+    "year": 1939,
+    "director": {
+      "name": "Lewis Milestone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0587289/"
+    },
+    "production_studio": "Hal Roach Studios",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 106,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Burgess Meredith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001532/"
+      },
+      {
+        "name": "Lon Chaney Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0151607/"
+      },
+      {
+        "name": "Betty Field",
+        "imdb_person_url": "https://www.imdb.com/name/nm0275908/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two itinerant migrant workers, one mentally disabled and the other his caretaker, take jobs on a ranch in the hopes of one day owning their own farm.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031742/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015354-of_mice_and_men"
+  },
+  {
+    "title": "Gunga Din",
+    "year": 1939,
+    "director": {
+      "name": "George Stevens",
+      "imdb_person_url": "https://www.imdb.com/name/nm0828416/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 1.9,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Cary Grant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000026/"
+      },
+      {
+        "name": "Victor McLaglen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0572145/"
+      },
+      {
+        "name": "Douglas Fairbanks Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001193/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three British soldiers and their native water bearer face a Thuggee cult in 19th-century India.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031398/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gunga_din"
+  },
+  {
+    "title": "Love Affair",
+    "year": 1939,
+    "director": {
+      "name": "Leo McCarey",
+      "imdb_person_url": "https://www.imdb.com/name/nm0565576/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.84,
+    "gross_revenue_usd_millions": 1.9,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Irene Dunne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002052/"
+      },
+      {
+        "name": "Charles Boyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000966/"
+      },
+      {
+        "name": "Maria Ouspenskaya",
+        "imdb_person_url": "https://www.imdb.com/name/nm0652542/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A French playboy and an American woman fall in love aboard a ship, but tragedy strikes when they plan to reunite six months later.",
+    "afi_ranking": 83,
+    "imdb_url": "https://www.imdb.com/title/tt0031593/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012822-love_affair"
+  },
+  {
+    "title": "The Four Feathers",
+    "year": 1939,
+    "director": {
+      "name": "Zoltan Korda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0466089/"
+    },
+    "production_studio": "London Film Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 130,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "John Clements",
+        "imdb_person_url": "https://www.imdb.com/name/nm0166205/"
+      },
+      {
+        "name": "Ralph Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001669/"
+      },
+      {
+        "name": "C. Aubrey Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0807584/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A British officer resigns his commission just before his regiment is shipped out to battle, prompting his friends and fiancée to brand him a coward.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031335/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1007736-four_feathers"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "year": 1939,
+    "director": {
+      "name": "Sidney Lanfield",
+      "imdb_person_url": "https://www.imdb.com/name/nm0485671/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 80,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Crime",
+      "Horror",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
+      },
+      {
+        "name": "Nigel Bruce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0115556/"
+      },
+      {
+        "name": "Richard Greene",
+        "imdb_person_url": "https://www.imdb.com/name/nm0338902/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Sherlock Holmes and Dr. Watson investigate the legend of a supernatural hound, a beast that may be stalking a young heir on the fog-shrouded moorland that makes up his estate.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031448/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009949-hound_of_the_baskervilles"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "year": 1939,
+    "director": {
+      "name": "Alfred L. Werker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0921319/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 85,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
+      },
+      {
+        "name": "Nigel Bruce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0115556/"
+      },
+      {
+        "name": "Ida Lupino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0526946/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The master sleuth hunts his archenemy, Professor Moriarty, who is planning the crime of the century.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031022/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/adventures_of_sherlock_holmes"
+  },
+  {
+    "title": "Son of Frankenstein",
+    "year": 1939,
+    "director": {
+      "name": "Rowland V. Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0498177/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 0.42,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "71%"
+    },
+    "genres": [
+      "Drama",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Boris Karloff",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+      },
+      {
+        "name": "Bela Lugosi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000509/"
+      },
+      {
+        "name": "Basil Rathbone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Baron Wolf von Frankenstein returns to his ancestral castle to vindicate his father but encounters his creation instead.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031951/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/son_of_frankenstein"
   },
   {
     "title": "Beau Geste",
     "year": 1939,
     "director": {
       "name": "William A. Wellman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0920025/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0920042/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 112,
     "budget_usd_millions": 1.4,
-    "gross_revenue_usd_millions": null,
+    "gross_revenue_usd_millions": 1.0,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "78%"
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
       "Action",
@@ -878,33 +1097,164 @@
       },
       {
         "name": "Robert Preston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0696481/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Three brothers join the French Foreign Legion in North Africa after one of them takes the blame for the theft of a valuable family jewel.",
+    "description": "Three adopted English brothers join the French Foreign Legion in North Africa to escape a scandal at home.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031090/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1002021-beau_geste"
+    "imdb_url": "https://www.imdb.com/title/tt0031088/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1001923-beau_geste"
+  },
+  {
+    "title": "Bachelor Mother",
+    "year": 1939,
+    "director": {
+      "name": "Garson Kanin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0437751/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 82,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 1.9,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Ginger Rogers",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
+      },
+      {
+        "name": "David Niven",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000057/"
+      },
+      {
+        "name": "Charles Coburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002013/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A department store clerk is mistakenly identified as the mother of an abandoned baby.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031067/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bachelor_mother"
+  },
+  {
+    "title": "Five Came Back",
+    "year": 1939,
+    "director": {
+      "name": "John Farrow",
+      "imdb_person_url": "https://www.imdb.com/name/nm0268574/"
+    },
+    "production_studio": "RKO Radio Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 75,
+    "budget_usd_millions": 0.225,
+    "gross_revenue_usd_millions": 0.262,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Chester Morris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0606412/"
+      },
+      {
+        "name": "Lucille Ball",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000840/"
+      },
+      {
+        "name": "Wendy Barrie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0057375/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When a plane crashes in a jungle, the pilot must repair it while the passengers cope with the dangers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031314/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/five_came_back"
+  },
+  {
+    "title": "Drums Along the Mohawk",
+    "year": 1939,
+    "director": {
+      "name": "John Ford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 3.7,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "57%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Claudette Colbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
+      },
+      {
+        "name": "Henry Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "Edna May Oliver",
+        "imdb_person_url": "https://www.imdb.com/name/nm0646830/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Newlyweds Gil and Lana Martin try to establish a farm in the Mohawk Valley but are menaced by Indians and Tories as the Revolutionary War begins.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031252/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/drums_along_the_mohawk"
   },
   {
     "title": "The Private Lives of Elizabeth and Essex",
     "year": 1939,
     "director": {
       "name": "Michael Curtiz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0193249/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "Passed",
     "runtime_minutes": 106,
     "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 2.8,
     "ratings": {
       "imdb": 7.0,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "57%"
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "49%"
     },
     "genres": [
       "Biography",
@@ -928,289 +1278,157 @@
     "oscars_nominated": 5,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A fictionalized account of the tumultuous romance between Queen Elizabeth I and the Earl of Essex, which threatens to destroy the kingdom.",
+    "description": "Queen Elizabeth I of England falls in love with the Earl of Essex, but their relationship is threatened by political intrigue.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0031826/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/private_lives_of_elizabeth_and_essex"
   },
   {
-    "title": "Drums Along the Mohawk",
+    "title": "Confessions of a Nazi Spy",
     "year": 1939,
     "director": {
-      "name": "John Ford",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000406/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "87%",
-      "rotten_tomatoes_popcorn": "66%"
-    },
-    "genres": [
-      "Drama",
-      "History",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Claudette Colbert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001055/"
-      },
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Edna May Oliver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0646825/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Newlyweds on the New York frontier must protect their farm and survive Indian attacks during the American Revolutionary War.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031252/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/drums_along_the_mohawk"
-  },
-  {
-    "title": "Intermezzo",
-    "year": 1939,
-    "director": {
-      "name": "Gregory Ratoff",
-      "imdb_person_url": "https://www.imdb.com/name/nm0711786/"
-    },
-    "production_studio": "Selznick International Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 70,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "55%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Leslie Howard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
-      },
-      {
-        "name": "Ingrid Bergman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
-      },
-      {
-        "name": "Edna Best",
-        "imdb_person_url": "https://www.imdb.com/name/nm0078934/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A famous violinist has a passionate affair with his daughter's piano teacher during an interval in his marriage.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031493/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/intermezzo_a_love_story"
-  },
-  {
-    "title": "The Hound of the Baskervilles",
-    "year": 1939,
-    "director": {
-      "name": "Sidney Lanfield",
-      "imdb_person_url": "https://www.imdb.com/name/nm0485847/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 80,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "82%"
-    },
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Basil Rathbone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
-      },
-      {
-        "name": "Nigel Bruce",
-        "imdb_person_url": "https://www.imdb.com/name/nm0115556/"
-      },
-      {
-        "name": "Richard Greene",
-        "imdb_person_url": "https://www.imdb.com/name/nm0338904/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Sherlock Holmes and Dr. Watson investigate the legend of a supernatural hound that may be stalking a young heir on the moors of Devonshire.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031448/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010065-hound_of_the_baskervilles"
-  },
-  {
-    "title": "Son of Frankenstein",
-    "year": 1939,
-    "director": {
-      "name": "Rowland V. Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0498166/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 0.42,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Horror",
-      "Sci-Fi",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Boris Karloff",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
-      },
-      {
-        "name": "Bela Lugosi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000509/"
-      },
-      {
-        "name": "Basil Rathbone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001651/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Baron Wolf von Frankenstein returns to his family castle, where he discovers his father's Monster and tries to clear the family name by reviving him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031951/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/son_of_frankenstein"
-  },
-  {
-    "title": "Dodge City",
-    "year": 1939,
-    "director": {
-      "name": "Michael Curtiz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0193249/"
+      "name": "Anatole Litvak",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514867/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "Passed",
     "runtime_minutes": 104,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 2.5,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": 3.4,
     "ratings": {
       "imdb": 7.0,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "58%"
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "51%"
     },
     "genres": [
-      "Western",
-      "Romance"
+      "Thriller",
+      "War"
     ],
     "actors": [
       {
-        "name": "Errol Flynn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
+        "name": "Edward G. Robinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000064/"
       },
       {
-        "name": "Olivia de Havilland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000014/"
+        "name": "Francis Lederer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0496525/"
       },
       {
-        "name": "Ann Sheridan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0792133/"
+        "name": "George Sanders",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001695/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A cattle agent in Kansas accepts the job of sheriff in the lawless town of Dodge City to bring justice to a gang of outlaws.",
+    "description": "An FBI agent exposes a Nazi spy ring operating in the United States on the eve of World War II.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031235/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dodge_city"
+    "imdb_url": "https://www.imdb.com/title/tt0031173/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/confessions_of_a_nazi_spy"
   },
   {
-    "title": "Bachelor Mother",
+    "title": "The Story of the Last Chrysanthemums",
     "year": 1939,
     "director": {
-      "name": "Garson Kanin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0437737/"
+      "name": "Kenji Mizoguchi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0594659/"
     },
-    "production_studio": "RKO Radio Pictures",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 82,
-    "budget_usd_millions": 0.6,
-    "gross_revenue_usd_millions": 0.9,
+    "production_studio": "Shochiku",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 143,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
+      "imdb": 7.9,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
-      "Comedy",
+      "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Ginger Rogers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001677/"
+        "name": "Shôtarô Hanayagi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0359302/"
       },
       {
-        "name": "David Niven",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000057/"
+        "name": "Kôkichi Takada",
+        "imdb_person_url": "https://www.imdb.com/name/nm0847087/"
       },
       {
-        "name": "Charles Coburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0167940/"
+        "name": "Gonjurô Kawarazaki",
+        "imdb_person_url": "https://www.imdb.com/name/nm0442840/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When a shopgirl finds a foundling baby on a doorstep, the world and her boss mistakenly assume it is hers.",
+    "description": "The adopted son of a Kabuki actor, who is not very good at his craft, finds support and love from the wet nurse of his infant brother.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031067/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bachelor_mother"
+    "imdb_url": "https://www.imdb.com/title/tt0032156/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/story_of_the_last_chrysanthemum"
+  },
+  {
+    "title": "The Little Princess",
+    "year": 1939,
+    "director": {
+      "name": "Walter Lang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0485959/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "G",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 6.7,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Shirley Temple",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000073/"
+      },
+      {
+        "name": "Richard Greene",
+        "imdb_person_url": "https://www.imdb.com/name/nm0338902/"
+      },
+      {
+        "name": "Anita Louise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0521764/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wealthy girl is placed in a seminary for young ladies, but when her father is reported missing in the Boer War, she is forced to work as a servant.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031580/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_little_princess"
   },
   {
     "title": "Another Thin Man",
     "year": 1939,
     "director": {
       "name": "W.S. Van Dyke",
-      "imdb_person_url": "https://www.imdb.com/name/nm0886459/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0886485/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "Passed",
     "runtime_minutes": 103,
     "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 2.2,
+    "gross_revenue_usd_millions": 3.2,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "78%"
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "72%"
     },
     "genres": [
       "Comedy",
@@ -1227,216 +1445,297 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
       },
       {
-        "name": "Virginia Grey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0340716/"
+        "name": "C. Aubrey Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0807584/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Nick and Nora Charles return with their new baby and dog Asta to investigate the murder of a Cuban estate owner on Long Island.",
+    "description": "Nick and Nora Charles return with their new baby to investigate a murder at a country estate on Long Island.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0031047/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/another_thin_man"
   },
   {
-    "title": "Union Pacific",
+    "title": "Dodge City",
     "year": 1939,
     "director": {
-      "name": "Cecil B. DeMille",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
+      "name": "Michael Curtiz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002031/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 4.1,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Errol Flynn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000021/"
+      },
+      {
+        "name": "Olivia de Havilland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000014/"
+      },
+      {
+        "name": "Ann Sheridan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001733/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A cattle agent in Dodge City, Kansas, takes on the job of sheriff to clean up the town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031235/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dodge_city"
+  },
+  {
+    "title": "The Old Maid",
+    "year": 1939,
+    "director": {
+      "name": "Edmund Goulding",
+      "imdb_person_url": "https://www.imdb.com/name/nm0332356/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.85,
+    "gross_revenue_usd_millions": 2.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "44%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Bette Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
+      },
+      {
+        "name": "Miriam Hopkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0394236/"
+      },
+      {
+        "name": "George Brent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0107574/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A woman's illegitimate child is raised by her cousin, unaware of her true parentage.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031749/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/old_maid"
+  },
+  {
+    "title": "On Borrowed Time",
+    "year": 1939,
+    "director": {
+      "name": "Harold S. Bucquet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0118779/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 99,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Lionel Barrymore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000854/"
+      },
+      {
+        "name": "Cedric Hardwicke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002126/"
+      },
+      {
+        "name": "Beulah Bondi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001961/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Death comes for an old man but is tricked into climbing an apple tree, trapping him there and suspending death worldwide.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031754/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/on_borrowed_time"
+  },
+  {
+    "title": "Each Dawn I Die",
+    "year": 1939,
+    "director": {
+      "name": "William Keighley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0445070/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.65,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
+      },
+      {
+        "name": "George Raft",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+      },
+      {
+        "name": "Jane Bryan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0116939/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A reporter is framed for manslaughter and sent to prison, where he befriends a gangster and plots to clear his name.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031288/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/each_dawn_i_die"
+  },
+  {
+    "title": "The Cat and the Canary",
+    "year": 1939,
+    "director": {
+      "name": "Elliott Nugent",
+      "imdb_person_url": "https://www.imdb.com/name/nm0637798/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 135,
-    "budget_usd_millions": 1.0,
-    "gross_revenue_usd_millions": 3.3,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "45%"
-    },
-    "genres": [
-      "Drama",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Barbara Stanwyck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001766/"
-      },
-      {
-        "name": "Joel McCrea",
-        "imdb_person_url": "https://www.imdb.com/name/nm0566909/"
-      },
-      {
-        "name": "Akim Tamiroff",
-        "imdb_person_url": "https://www.imdb.com/name/nm0848647/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Honorary Award (To the studio for the movie)"
-    ],
-    "description": "The construction of the railroad across the West is impeded by sabotage, Indian attacks, and a love triangle.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0032080/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021987-union_pacific"
-  },
-  {
-    "title": "Babes in Arms",
-    "year": 1939,
-    "director": {
-      "name": "Busby Berkeley",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000922/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 0.75,
-    "gross_revenue_usd_millions": 3.3,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "46%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Mickey Rooney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001682/"
-      },
-      {
-        "name": "Judy Garland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000023/"
-      },
-      {
-        "name": "Charles Winninger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0935422/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A group of talented teenagers put on a show to prove to their vaudevillian parents that they can make it in show business.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031066/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/babes_in_arms"
-  },
-  {
-    "title": "Jesse James",
-    "year": 1939,
-    "director": {
-      "name": "Henry King",
-      "imdb_person_url": "https://www.imdb.com/name/nm0454780/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 1.1,
-    "gross_revenue_usd_millions": 2.4,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "50%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Tyrone Power",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001634/"
-      },
-      {
-        "name": "Henry Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
-      },
-      {
-        "name": "Nancy Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0446705/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After railroad agents kill their mother, brothers Jesse and Frank James turn to a life of crime to get revenge.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031507/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010968-jesse_james"
-  },
-  {
-    "title": "The Little Princess",
-    "year": 1939,
-    "director": {
-      "name": "Walter Lang",
-      "imdb_person_url": "https://www.imdb.com/name/nm0007211/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": null,
+    "runtime_minutes": 72,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 3.5,
     "ratings": {
       "imdb": 7.1,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "70%"
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "64%"
     },
     "genres": [
       "Comedy",
-      "Drama",
-      "Family"
+      "Horror",
+      "Mystery"
     ],
     "actors": [
       {
-        "name": "Shirley Temple",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000073/"
+        "name": "Bob Hope",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
       },
       {
-        "name": "Richard Greene",
-        "imdb_person_url": "https://www.imdb.com/name/nm0338904/"
+        "name": "Paulette Goddard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002104/"
       },
       {
-        "name": "Anita Louise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0521819/"
+        "name": "John Beal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0063625/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young girl is relegated to servitude at a boarding school when her father goes missing during the Second Boer War.",
+    "description": "Relatives of an eccentric millionaire gather in his spooky mansion on the 10th anniversary of his death for the reading of his will.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031580/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012531-little_princess"
+    "imdb_url": "https://www.imdb.com/title/tt0031143/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1003714-cat_and_the_canary"
+  },
+  {
+    "title": "You Can't Cheat an Honest Man",
+    "year": 1939,
+    "director": {
+      "name": "George Marshall",
+      "imdb_person_url": "https://www.imdb.com/name/nm0550882/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 79,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "W.C. Fields",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002074/"
+      },
+      {
+        "name": "Edgar Bergen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001943/"
+      },
+      {
+        "name": "Charlie McCarthy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0565103/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Larson E. Whipsnade runs a shady circus while trying to stay one step ahead of the law and his creditors.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032151/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/you_cant_cheat_an_honest_man"
   },
   {
     "title": "The Story of Vernon and Irene Castle",
     "year": 1939,
     "director": {
       "name": "H.C. Potter",
-      "imdb_person_url": "https://www.imdb.com/name/nm0693279/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0693278/"
     },
     "production_studio": "RKO Radio Pictures",
     "mpaa_rating": "Passed",
     "runtime_minutes": 93,
-    "budget_usd_millions": 0.95,
+    "budget_usd_millions": 1.0,
     "gross_revenue_usd_millions": 1.8,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "42%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "41%"
     },
     "genres": [
       "Biography",
       "Drama",
-      "Music"
+      "Musical"
     ],
     "actors": [
       {
@@ -1449,82 +1748,168 @@
       },
       {
         "name": "Edna May Oliver",
-        "imdb_person_url": "https://www.imdb.com/name/nm0646825/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0646830/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A biopic of the famous dance team who rose to fame in the early 20th century, only to face tragedy during World War I.",
+    "description": "A biography of the famous dance team Vernon and Irene Castle, who became fashion icons and ballroom dancing stars.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0031983/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/story_of_vernon_and_irene_castle"
   },
   {
-    "title": "The Four Feathers",
+    "title": "They Made Me a Criminal",
     "year": 1939,
     "director": {
-      "name": "Zoltan Korda",
-      "imdb_person_url": "https://www.imdb.com/name/nm0466068/"
+      "name": "Busby Berkeley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000922/"
     },
-    "production_studio": "London Film Productions",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 115,
+    "runtime_minutes": 92,
+    "budget_usd_millions": 0.44,
+    "gross_revenue_usd_millions": 1.25,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "45%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "actors": [
+      {
+        "name": "John Garfield",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002092/"
+      },
+      {
+        "name": "The Dead End Kids",
+        "imdb_person_url": "https://www.imdb.com/name/nm1063388/"
+      },
+      {
+        "name": "Claude Rains",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001646/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A boxer flees to Arizona after thinking he killed a man, where he joins a ranch for delinquents.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0032017/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/they_made_me_a_criminal"
+  },
+  {
+    "title": "The Spy in Black",
+    "year": 1939,
+    "director": {
+      "name": "Michael Powell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0694247/"
+    },
+    "production_studio": "Harefield Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 82,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "79%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "41%"
     },
     "genres": [
-      "Adventure",
-      "Drama",
+      "Thriller",
       "War"
     ],
     "actors": [
       {
-        "name": "John Clements",
-        "imdb_person_url": "https://www.imdb.com/name/nm0166168/"
+        "name": "Conrad Veidt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0891998/"
       },
+      {
+        "name": "Sebastian Shaw",
+        "imdb_person_url": "https://www.imdb.com/name/nm0789965/"
+      },
+      {
+        "name": "Valerie Hobson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0387667/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During WWI, a German U-boat captain is sent on a spy mission to the north of Scotland.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031968/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_spy_in_black"
+  },
+  {
+    "title": "Q Planes",
+    "year": 1939,
+    "director": {
+      "name": "Tim Whelan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0924083/"
+    },
+    "production_studio": "Harefield Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 82,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "36%"
+    },
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
       {
         "name": "Ralph Richardson",
         "imdb_person_url": "https://www.imdb.com/name/nm0001669/"
       },
       {
-        "name": "C. Aubrey Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0807521/"
+        "name": "Laurence Olivier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
+      },
+      {
+        "name": "Valerie Hobson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0387667/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A British officer resigns his commission on the eve of battle in the Sudan, and must redeem his honor by helping his friends in disguise.",
+    "description": "British secret service agents investigate the mysterious disappearances of new bomber planes.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031330/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1007758-four_feathers"
+    "imdb_url": "https://www.imdb.com/title/tt0031828/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/clouds_over_europe"
   },
   {
-    "title": "Golden Boy",
+    "title": "Union Pacific",
     "year": 1939,
     "director": {
-      "name": "Rouben Mamoulian",
-      "imdb_person_url": "https://www.imdb.com/name/nm0541138/"
+      "name": "Cecil B. DeMille",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 99,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
+    "runtime_minutes": 135,
+    "budget_usd_millions": 1.3,
+    "gross_revenue_usd_millions": 4.1,
     "ratings": {
       "imdb": 6.8,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "34%"
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "35%"
     },
     "genres": [
       "Drama",
-      "Romance",
-      "Sport"
+      "Western"
     ],
     "actors": [
       {
@@ -1532,326 +1917,287 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0001766/"
       },
       {
-        "name": "Adolphe Menjou",
-        "imdb_person_url": "https://www.imdb.com/name/nm0579639/"
+        "name": "Joel McCrea",
+        "imdb_person_url": "https://www.imdb.com/name/nm0566861/"
       },
       {
-        "name": "William Holden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
+        "name": "Akim Tamiroff",
+        "imdb_person_url": "https://www.imdb.com/name/nm0848667/"
       }
     ],
     "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A talented young violinist is torn between his passion for music and the financial rewards of being a professional boxer.",
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "First Award (Special Effects)"
+    ],
+    "description": "The struggle to build the first transcontinental railroad is hindered by Indians, saboteurs, and politicians.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031383/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/golden_boy"
+    "imdb_url": "https://www.imdb.com/title/tt0032080/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/union_pacific"
   },
   {
-    "title": "Jamaica Inn",
+    "title": "The Rains Came",
     "year": 1939,
     "director": {
-      "name": "Alfred Hitchcock",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000033/"
+      "name": "Clarence Brown",
+      "imdb_person_url": "https://www.imdb.com/name/nm0113264/"
     },
-    "production_studio": "Mayflower Pictures Corporation",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 98,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 3.7,
+    "runtime_minutes": 103,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "63%",
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "71%",
       "rotten_tomatoes_popcorn": "30%"
     },
     "genres": [
       "Adventure",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Charles Laughton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000487/"
-      },
-      {
-        "name": "Maureen O'Hara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000058/"
-      },
-      {
-        "name": "Leslie Banks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052199/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In Cornwall, a young woman discovers that the inn run by her aunt and uncle is a front for a gang of pirates who wreck ships.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031505/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jamaica_inn"
-  },
-  {
-    "title": "Confessions of a Nazi Spy",
-    "year": 1939,
-    "director": {
-      "name": "Anatole Litvak",
-      "imdb_person_url": "https://www.imdb.com/name/nm0514854/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 104,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "52%"
-    },
-    "genres": [
-      "Thriller",
-      "War",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Edward G. Robinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
-      },
-      {
-        "name": "Francis Lederer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0496539/"
-      },
-      {
-        "name": "George Sanders",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001695/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An FBI agent investigates a Nazi spy ring operating within the United States in this controversial, pre-war political thriller.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031173/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/confessions_of_a_nazi_spy"
-  },
-  {
-    "title": "Juarez",
-    "year": 1939,
-    "director": {
-      "name": "William Dieterle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0226150/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 1.75,
-    "gross_revenue_usd_millions": 2.0,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "33%"
-    },
-    "genres": [
-      "Biography",
       "Drama",
-      "History"
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Paul Muni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002237/"
+        "name": "Myrna Loy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001485/"
       },
       {
-        "name": "Bette Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
-      },
-      {
-        "name": "Brian Aherne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0013877/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of Mexican President Benito Juarez and his fight against the French-installed puppet Emperor Maximilian von Habsburg.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031516/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/juarez"
-  },
-  {
-    "title": "Gulliver's Travels",
-    "year": 1939,
-    "director": {
-      "name": "Dave Fleischer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0281487/"
-    },
-    "production_studio": "Fleischer Studios",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 76,
-    "budget_usd_millions": 0.7,
-    "gross_revenue_usd_millions": 3.2,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "48%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Jessica Dragonette",
-        "imdb_person_url": "https://www.imdb.com/name/nm0236744/"
-      },
-      {
-        "name": "Lanny Ross",
-        "imdb_person_url": "https://www.imdb.com/name/nm0743586/"
-      },
-      {
-        "name": "Pinto Colvig",
-        "imdb_person_url": "https://www.imdb.com/name/nm0173403/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A shipwrecked sailor washes ashore on the island of Lilliput, where the tiny inhabitants are at war with a neighboring island.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031397/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009052-gullivers_travels"
-  },
-  {
-    "title": "The Old Maid",
-    "year": 1939,
-    "director": {
-      "name": "Edmund Goulding",
-      "imdb_person_url": "https://www.imdb.com/name/nm0332616/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "Passed",
-    "runtime_minutes": 95,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "72%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Bette Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000012/"
-      },
-      {
-        "name": "Miriam Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0394237/"
+        "name": "Tyrone Power",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000061/"
       },
       {
         "name": "George Brent",
         "imdb_person_url": "https://www.imdb.com/name/nm0107574/"
       }
     ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A woman allows her cousin to raise her illegitimate daughter to give the child a better life, leading to years of jealousy and secrets.",
+    "oscars_nominated": 6,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Effects, Special Effects"
+    ],
+    "description": "A diverse group of people in India are brought together by an earthquake and a flood.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031747/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/old_maid"
+    "imdb_url": "https://www.imdb.com/title/tt0031835/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rains_came"
   },
   {
-    "title": "Five Came Back",
+    "title": "Intermezzo",
     "year": 1939,
     "director": {
-      "name": "John Farrow",
-      "imdb_person_url": "https://www.imdb.com/name/nm0268451/"
+      "name": "Gregory Ratoff",
+      "imdb_person_url": "https://www.imdb.com/name/nm0711762/"
     },
-    "production_studio": "RKO Radio Pictures",
+    "production_studio": "Selznick International Pictures",
     "mpaa_rating": "Passed",
-    "runtime_minutes": 75,
-    "budget_usd_millions": 0.22,
-    "gross_revenue_usd_millions": 0.26,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "49%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Chester Morris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0606423/"
-      },
-      {
-        "name": "Lucille Ball",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000840/"
-      },
-      {
-        "name": "Wendy Barrie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0057384/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A commercial airliner crashes in the Amazon jungle, forcing the passengers to repair the plane while facing headhunters and internal conflict.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031314/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/five_came_back"
-  },
-  {
-    "title": "Daybreak",
-    "year": 1939,
-    "director": {
-      "name": "Marcel Carné",
-      "imdb_person_url": "https://www.imdb.com/name/nm0138887/"
-    },
-    "production_studio": "Vog Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 93,
+    "runtime_minutes": 70,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "84%"
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "30%"
     },
     "genres": [
-      "Crime",
       "Drama",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Jean Gabin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002088/"
+        "name": "Leslie Howard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000034/"
       },
       {
-        "name": "Jules Berry",
-        "imdb_person_url": "https://www.imdb.com/name/nm0077601/"
+        "name": "Ingrid Bergman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000006/"
       },
       {
-        "name": "Arletty",
-        "imdb_person_url": "https://www.imdb.com/name/nm0035146/"
+        "name": "Edna Best",
+        "imdb_person_url": "https://www.imdb.com/name/nm0078923/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A famous violinist falls in love with his daughter's piano teacher, leading to an affair that threatens his marriage.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031495/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010667-intermezzo"
+  },
+  {
+    "title": "Jesse James",
+    "year": 1939,
+    "director": {
+      "name": "Henry King",
+      "imdb_person_url": "https://www.imdb.com/name/nm0454763/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 1.6,
+    "gross_revenue_usd_millions": 5.9,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Tyrone Power",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000061/"
+      },
+      {
+        "name": "Henry Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000020/"
+      },
+      {
+        "name": "Nancy Kelly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0446714/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A factory worker kills a man and barricades himself in his apartment, recalling the tragic romance that led to the murder as police surround him.",
+    "description": "A fictionalized biography of the famous outlaw brothers Jesse and Frank James.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0031514/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/le_jour_se_leve"
+    "imdb_url": "https://www.imdb.com/title/tt0031512/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011037-jesse_james"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "year": 1939,
+    "director": {
+      "name": "Dave Fleischer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0281432/"
+    },
+    "production_studio": "Fleischer Studios",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 76,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 3.27,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Jessica Dragonette",
+        "imdb_person_url": "https://www.imdb.com/name/nm0236746/"
+      },
+      {
+        "name": "Lanny Ross",
+        "imdb_person_url": "https://www.imdb.com/name/nm0743603/"
+      },
+      {
+        "name": "Pinto Colvig",
+        "imdb_person_url": "https://www.imdb.com/name/nm0173418/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Lemuel Gulliver is shipwrecked on the island of Lilliput, where the tiny inhabitants are at war with a neighboring island.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031397/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009080-gullivers_travels"
+  },
+  {
+    "title": "The Man in the Iron Mask",
+    "year": 1939,
+    "director": {
+      "name": "James Whale",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000082/"
+    },
+    "production_studio": "Edward Small Productions",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 112,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Louis Hayward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0371765/"
+      },
+      {
+        "name": "Joan Bennett",
+        "imdb_person_url": "https://www.imdb.com/name/nm0071836/"
+      },
+      {
+        "name": "Warren William",
+        "imdb_person_url": "https://www.imdb.com/name/nm0931923/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Three Musketeers attempt to rescue the twin brother of King Louis XIV, who is being held captive in the Bastille.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031619/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013233-man_in_the_iron_mask"
+  },
+  {
+    "title": "Made for Each Other",
+    "year": 1939,
+    "director": {
+      "name": "John Cromwell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0188669/"
+    },
+    "production_studio": "Selznick International Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 92,
+    "budget_usd_millions": 1.48,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Carole Lombard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
+      },
+      {
+        "name": "James Stewart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000071/"
+      },
+      {
+        "name": "Charles Coburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002013/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young couple marries after a whirlwind romance, but then struggles with financial difficulties and disapproving in-laws.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0031604/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012975-made_for_each_other"
   }
 ]

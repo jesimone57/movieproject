@@ -1,48 +1,51 @@
 [
   {
-    "title": "Top Gun",
+    "title": "Platoon",
     "year": 1986,
     "director": {
-      "name": "Tony Scott",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
+      "name": "Oliver Stone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
     },
-    "production_studio": "Paramount Pictures, Don Simpson/Jerry Bruckheimer Films",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 357.3,
+    "production_studio": "Hemdale",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 138.5,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "58%",
-      "rotten_tomatoes_popcorn": "83%"
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
-      "Action",
-      "Drama"
+      "Drama",
+      "War"
     ],
     "actors": [
       {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+        "name": "Charlie Sheen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000221/"
       },
       {
-        "name": "Kelly McGillis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000534/"
+        "name": "Tom Berenger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000297/"
       },
       {
-        "name": "Val Kilmer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000174/"
+        "name": "Willem Dafoe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
       }
     ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
+    "oscars_nominated": 8,
+    "oscars_won": 4,
     "oscars_won_details": [
-      "Best Music, Original Song"
+      "Best Picture",
+      "Best Director",
+      "Best Film Editing",
+      "Best Sound"
     ],
-    "description": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0092099/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/top_gun"
+    "description": "A young recruit in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
+    "afi_ranking": 86,
+    "imdb_url": "https://www.imdb.com/title/tt0091763/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/platoon"
   },
   {
     "title": "Aliens",
@@ -51,7 +54,7 @@
       "name": "James Cameron",
       "imdb_person_url": "https://www.imdb.com/name/nm0000116/"
     },
-    "production_studio": "20th Century Fox, Brandywine Productions",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "R",
     "runtime_minutes": 137,
     "budget_usd_millions": 18.5,
@@ -86,10 +89,144 @@
       "Best Sound Effects Editing",
       "Best Visual Effects"
     ],
-    "description": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+    "description": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0090605/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/aliens"
+  },
+  {
+    "title": "Stand by Me",
+    "year": 1986,
+    "director": {
+      "name": "Rob Reiner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000205/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 89,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 52.3,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Wil Wheaton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000696/"
+      },
+      {
+        "name": "River Phoenix",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000203/"
+      },
+      {
+        "name": "Corey Feldman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000397/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092005/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stand_by_me"
+  },
+  {
+    "title": "Blue Velvet",
+    "year": 1986,
+    "director": {
+      "name": "David Lynch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
+    },
+    "production_studio": "De Laurentiis Entertainment Group (DEG)",
+    "mpaa_rating": "R",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 8.6,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Isabella Rossellini",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000618/"
+      },
+      {
+        "name": "Kyle MacLachlan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000512/"
+      },
+      {
+        "name": "Dennis Hopper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000454/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+    "afi_ranking": 96,
+    "imdb_url": "https://www.imdb.com/title/tt0090756/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_velvet"
+  },
+  {
+    "title": "Hannah and Her Sisters",
+    "year": 1986,
+    "director": {
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 6.4,
+    "gross_revenue_usd_millions": 40.1,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Mia Farrow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001201/"
+      },
+      {
+        "name": "Dianne Wiest",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001848/"
+      },
+      {
+        "name": "Michael Caine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Actor in a Supporting Role",
+      "Best Actress in a Supporting Role",
+      "Best Screenplay, Written Directly for the Screen"
+    ],
+    "description": "Between two Thanksgivings two years apart, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091167/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hannah_and_her_sisters"
   },
   {
     "title": "Ferris Bueller's Day Off",
@@ -101,11 +238,11 @@
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 103,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 70.7,
+    "budget_usd_millions": 5.8,
+    "gross_revenue_usd_millions": 70.1,
     "ratings": {
       "imdb": 7.8,
-      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_critic": "80%",
       "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
@@ -128,192 +265,10 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A high school wise guy is determined to have a day off from school, despite what the principal thinks of that.",
+    "description": "A high school wise guy is determined to have a day off from school, despite what the Principal thinks of that.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0091042/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ferris_buellers_day_off"
-  },
-  {
-    "title": "Platoon",
-    "year": 1986,
-    "director": {
-      "name": "Oliver Stone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
-    },
-    "production_studio": "Orion Pictures, Hemdale Film",
-    "mpaa_rating": "R",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 138.5,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Charlie Sheen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000221/"
-      },
-      {
-        "name": "Tom Berenger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000297/"
-      },
-      {
-        "name": "Willem Dafoe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000353/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Sound",
-      "Best Film Editing"
-    ],
-    "description": "A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
-    "afi_ranking": 86,
-    "imdb_url": "https://www.imdb.com/title/tt0091763/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/platoon"
-  },
-  {
-    "title": "Blue Velvet",
-    "year": 1986,
-    "director": {
-      "name": "David Lynch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000186/"
-    },
-    "production_studio": "De Laurentiis Entertainment Group (DEG)",
-    "mpaa_rating": "R",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 8.6,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Isabella Rossellini",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000618/"
-      },
-      {
-        "name": "Kyle MacLachlan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001499/"
-      },
-      {
-        "name": "Dennis Hopper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001364/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0090756/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_velvet"
-  },
-  {
-    "title": "Stand by Me",
-    "year": 1986,
-    "director": {
-      "name": "Rob Reiner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001661/"
-    },
-    "production_studio": "Columbia Pictures, The Body",
-    "mpaa_rating": "R",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 52.3,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "94%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Wil Wheaton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000696/"
-      },
-      {
-        "name": "River Phoenix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000202/"
-      },
-      {
-        "name": "Corey Feldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000397/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After the death of one of his friends, a writer recounts a boyhood journey with his friends to find the body of a missing boy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0092005/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stand_by_me"
-  },
-  {
-    "title": "Hannah and Her Sisters",
-    "year": 1986,
-    "director": {
-      "name": "Woody Allen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
-    },
-    "production_studio": "Orion Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 6.4,
-    "gross_revenue_usd_millions": 40.1,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Woody Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
-      },
-      {
-        "name": "Mia Farrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001201/"
-      },
-      {
-        "name": "Michael Caine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role",
-      "Best Actress in a Supporting Role",
-      "Best Writing, Screenplay Written Directly for the Screen"
-    ],
-    "description": "The story of three sisters and their complex relationships with each other and the men in their lives.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091167/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hannah_and_her_sisters"
   },
   {
     "title": "The Fly",
@@ -322,10 +277,10 @@
       "name": "David Cronenberg",
       "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
     },
-    "production_studio": "Brooksfilms, 20th Century Fox",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "R",
     "runtime_minutes": 96,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 60.6,
     "ratings": {
       "imdb": 7.6,
@@ -348,7 +303,7 @@
       },
       {
         "name": "John Getz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0315252/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0315264/"
       }
     ],
     "oscars_nominated": 1,
@@ -359,23 +314,67 @@
     "description": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0091064/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1007602-fly"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fly"
+  },
+  {
+    "title": "Castle in the Sky",
+    "year": 1986,
+    "director": {
+      "name": "Hayao Miyazaki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0594503/"
+    },
+    "production_studio": "Studio Ghibli",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 15.5,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Mayumi Tanaka",
+        "imdb_person_url": "https://www.imdb.com/name/nm0849040/"
+      },
+      {
+        "name": "Keiko Yokozawa",
+        "imdb_person_url": "https://www.imdb.com/name/nm0948466/"
+      },
+      {
+        "name": "Kotoe Hatsui",
+        "imdb_person_url": "https://www.imdb.com/name/nm0369046/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092067/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/castle_in_the_sky"
   },
   {
     "title": "Labyrinth",
     "year": 1986,
     "director": {
       "name": "Jim Henson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001345/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000448/"
     },
-    "production_studio": "TriStar Pictures, Henson Associates",
+    "production_studio": "Lucasfilm",
     "mpaa_rating": "PG",
     "runtime_minutes": 101,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 13.8,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 12.7,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_critic": "76%",
       "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
@@ -386,7 +385,7 @@
     "actors": [
       {
         "name": "David Bowie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000309/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000110/"
       },
       {
         "name": "Jennifer Connelly",
@@ -394,237 +393,16 @@
       },
       {
         "name": "Toby Froud",
-        "imdb_person_url": "https://www.imdb.com/name/nm0296629/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0296556/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Sixteen-year-old Sarah is given 13 hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.",
+    "description": "Sixteen-year-old Sarah is given thirteen hours to solve a labyrinth and rescue her baby brother when her wish for him to be taken away is granted by the Goblin King.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0091369/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/labyrinth"
-  },
-  {
-    "title": "Hoosiers",
-    "year": 1986,
-    "director": {
-      "name": "David Anspaugh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000770/"
-    },
-    "production_studio": "Hemdale Film, De Haven Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 28.6,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Drama",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
-      },
-      {
-        "name": "Barbara Hershey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001347/"
-      },
-      {
-        "name": "Dennis Hopper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001364/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A coach with a checkered past and a local drunk train a small town high school basketball team to become a top contender for the state championship.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091217/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hoosiers"
-  },
-  {
-    "title": "The Color of Money",
-    "year": 1986,
-    "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
-    },
-    "production_studio": "Touchstone Pictures, Silver Screen Partners II",
-    "mpaa_rating": "R",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 13.8,
-    "gross_revenue_usd_millions": 52.3,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Tom Cruise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
-      },
-      {
-        "name": "Mary Elizabeth Mastrantonio",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000525/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actor in a Leading Role"
-    ],
-    "description": "Fast Eddie Felson teaches a cocky but talented pool player the ropes of hustling.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0090863/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/color_of_money"
-  },
-  {
-    "title": "Children of a Lesser God",
-    "year": 1986,
-    "director": {
-      "name": "Randa Haines",
-      "imdb_person_url": "https://www.imdb.com/name/nm0354483/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 10.5,
-    "gross_revenue_usd_millions": 31.9,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "William Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
-      },
-      {
-        "name": "Marlee Matlin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005204/"
-      },
-      {
-        "name": "Piper Laurie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001453/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role"
-    ],
-    "description": "A new teacher at a school for the deaf falls in love with a deaf woman who is a former student.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0090830/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/children_of_a_lesser_god"
-  },
-  {
-    "title": "Little Shop of Horrors",
-    "year": 1986,
-    "director": {
-      "name": "Frank Oz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000566/"
-    },
-    "production_studio": "The Geffen Company",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 39,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Rick Moranis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001548/"
-      },
-      {
-        "name": "Ellen Greene",
-        "imdb_person_url": "https://www.imdb.com/name/nm0338006/"
-      },
-      {
-        "name": "Vincent Gardenia",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001256/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091419/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/little_shop_of_horrors"
-  },
-  {
-    "title": "Crocodile Dundee",
-    "year": 1986,
-    "director": {
-      "name": "Peter Faiman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0265649/"
-    },
-    "production_studio": "Rimfire Films",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 8.8,
-    "gross_revenue_usd_millions": 328.2,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Paul Hogan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001357/"
-      },
-      {
-        "name": "Linda Kozlowski",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001439/"
-      },
-      {
-        "name": "John Meillon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0577009/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0090555/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crocodile_dundee"
   },
   {
     "title": "Star Trek IV: The Voyage Home",
@@ -636,12 +414,12 @@
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 119,
-    "budget_usd_millions": 21,
-    "gross_revenue_usd_millions": 133,
+    "budget_usd_millions": 21.0,
+    "gross_revenue_usd_millions": 133.0,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Adventure",
@@ -659,13 +437,13 @@
       },
       {
         "name": "DeForest Kelley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001419/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001420/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to 1986 San Francisco to retrieve the only beings who can communicate with it: humpback whales.",
+    "description": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0092007/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/star_trek_iv_the_voyage_home"
@@ -680,12 +458,12 @@
     "production_studio": "De Laurentiis Entertainment Group (DEG)",
     "mpaa_rating": "R",
     "runtime_minutes": 120,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 8.6,
     "ratings": {
       "imdb": 7.2,
       "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Crime",
@@ -695,111 +473,71 @@
     "actors": [
       {
         "name": "William Petersen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001610/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0676973/"
       },
       {
         "name": "Kim Greist",
         "imdb_person_url": "https://www.imdb.com/name/nm0001297/"
       },
       {
-        "name": "Joan Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000260/"
+        "name": "Brian Cox",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000342/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former FBI profiler is called out of retirement to catch a serial killer.",
+    "description": "Former FBI profiler Will Graham returns to service to pursue a deranged serial killer dubbed 'the Tooth Fairy' by the media.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0091474/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/manhunter"
   },
   {
-    "title": "Highlander",
+    "title": "A Room with a View",
     "year": 1986,
     "director": {
-      "name": "Russell Mulcahy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0611683/"
+      "name": "James Ivory",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001389/"
     },
-    "production_studio": "EMI Films, Thorn EMI Screen Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 19,
-    "gross_revenue_usd_millions": 12.9,
+    "production_studio": "Merchant Ivory Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 20.9,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "71%",
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
       "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
+      "Drama",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Christopher Lambert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001442/"
+        "name": "Maggie Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001749/"
       },
       {
-        "name": "Sean Connery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
+        "name": "Helena Bonham Carter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000307/"
       },
       {
-        "name": "Clancy Brown",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000317/"
+        "name": "Denholm Elliott",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001186/"
       }
     ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An immortal Scottish swordsman must confront the last of his immortal opponents, a murderously brutal barbarian who lusts for the fabled 'Prize'.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091203/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/highlander"
-  },
-  {
-    "title": "The Hitcher",
-    "year": 1986,
-    "director": {
-      "name": "Robert Harmon",
-      "imdb_person_url": "https://www.imdb.com/name/nm0363784/"
-    },
-    "production_studio": "HBO Pictures, Silver Screen Partners",
-    "mpaa_rating": "R",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 5.8,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Action",
-      "Thriller"
+    "oscars_nominated": 8,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design"
     ],
-    "actors": [
-      {
-        "name": "Rutger Hauer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000442/"
-      },
-      {
-        "name": "C. Thomas Howell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001367/"
-      },
-      {
-        "name": "Jennifer Jason Leigh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young man who transports a car from Chicago to San Diego is stalked by a mysterious and deadly hitchhiker.",
+    "description": "In a Florence pension, the inhibited Lucy Honeychurch and her chaperone cousin Charlotte Bartlett find themselves in a socially awkward situation when they are offered rooms with a view by the liberal Mr. Emerson and his son George.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091209/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hitcher"
+    "imdb_url": "https://www.imdb.com/title/tt0091877/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/room_with_a_view"
   },
   {
     "title": "Big Trouble in Little China",
@@ -808,15 +546,15 @@
       "name": "John Carpenter",
       "imdb_person_url": "https://www.imdb.com/name/nm0000118/"
     },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 99,
-    "budget_usd_millions": 25,
+    "budget_usd_millions": 25.0,
     "gross_revenue_usd_millions": 11.1,
     "ratings": {
       "imdb": 7.2,
       "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
       "Action",
@@ -834,77 +572,33 @@
       },
       {
         "name": "Dennis Dun",
-        "imdb_person_url": "https://www.imdb.com/name/nm0242273/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0241775/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A rough-and-tumble trucker and his sidekick get caught up in a centuries-old mystical battle in San Francisco's Chinatown.",
+    "description": "A rough-and-tumble trucker and his sidekick face off with an ancient sorcerer in a supernatural battle beneath Chinatown.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0090728/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_trouble_in_little_china"
-  },
-  {
-    "title": "Pretty in Pink",
-    "year": 1986,
-    "director": {
-      "name": "Howard Deutch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0222040/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 40.5,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Molly Ringwald",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000208/"
-      },
-      {
-        "name": "Jon Cryer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001083/"
-      },
-      {
-        "name": "Andrew McCarthy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000527/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A poor girl who is a social outcast at her high school must choose between the affections of her quirky best friend and a rich, sensitive playboy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091790/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pretty_in_pink"
   },
   {
     "title": "The Mission",
     "year": 1986,
     "director": {
       "name": "Roland Joffé",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002167/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0423646/"
     },
-    "production_studio": "Warner Bros., Goldcrest Films International",
+    "production_studio": "Goldcrest Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 125,
     "budget_usd_millions": 24.5,
     "gross_revenue_usd_millions": 17.2,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "66%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "63%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Adventure",
@@ -922,7 +616,7 @@
       },
       {
         "name": "Ray McAnally",
-        "imdb_person_url": "https://www.imdb.com/name/nm0564344/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0564024/"
       }
     ],
     "oscars_nominated": 7,
@@ -930,8 +624,8 @@
     "oscars_won_details": [
       "Best Cinematography"
     ],
-    "description": "In the 18th century, a Spanish Jesuit priest goes into the South American jungle to build a mission and convert a community of Guarani Indians to Christianity.",
-    "afi_ranking": null,
+    "description": "Eighteenth-century Spanish Jesuits try to protect a remote South American tribe in danger of falling under the rule of pro-slavery Portugal.",
+    "afi_ranking": 23,
     "imdb_url": "https://www.imdb.com/title/tt0091530/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_mission"
   },
@@ -940,21 +634,21 @@
     "year": 1986,
     "director": {
       "name": "Jean-Jacques Annaud",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000266/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000767/"
     },
-    "production_studio": "Constantin Film, Cristaldifilm",
+    "production_studio": "Neue Constantin Film",
     "mpaa_rating": "R",
     "runtime_minutes": 130,
-    "budget_usd_millions": 20,
+    "budget_usd_millions": 17.5,
     "gross_revenue_usd_millions": 77.2,
     "ratings": {
       "imdb": 7.7,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
+      "Crime",
       "Drama",
-      "History",
       "Mystery"
     ],
     "actors": [
@@ -968,16 +662,16 @@
       },
       {
         "name": "Helmut Qualtinger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0702951/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0702875/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An intellectually nonconformist monk investigates a series of mysterious deaths in a medieval monastery.",
+    "description": "An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0091605/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_name_of_the_rose"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/name_of_the_rose"
   },
   {
     "title": "Down by Law",
@@ -986,15 +680,15 @@
       "name": "Jim Jarmusch",
       "imdb_person_url": "https://www.imdb.com/name/nm0000464/"
     },
-    "production_studio": "Black Snake, Grokenberger Film Produktion",
+    "production_studio": "Black Snake",
     "mpaa_rating": "R",
     "runtime_minutes": 107,
-    "budget_usd_millions": 1.1,
+    "budget_usd_millions": 0.45,
     "gross_revenue_usd_millions": 1.4,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Comedy",
@@ -1008,7 +702,7 @@
       },
       {
         "name": "John Lurie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0527124/"
       },
       {
         "name": "Roberto Benigni",
@@ -1018,27 +712,415 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of three men who escape from a Louisiana prison and their journey through the bayou.",
+    "description": "Two men are framed and sent to jail, where they meet a murderer who helps them escape and leave the state.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0090967/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/down_by_law"
+  },
+  {
+    "title": "Jean de Florette",
+    "year": 1986,
+    "director": {
+      "name": "Claude Berri",
+      "imdb_person_url": "https://www.imdb.com/name/nm0077271/"
+    },
+    "production_studio": "Renn Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 87.0,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Yves Montand",
+        "imdb_person_url": "https://www.imdb.com/name/nm0599696/"
+      },
+      {
+        "name": "Gérard Depardieu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
+      },
+      {
+        "name": "Daniel Auteuil",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000808/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A greedy landowner and his backward nephew conspire to block the only water source for an adjoining property in order to bankrupt the owner and force him to sell.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091288/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jean_de_florette"
+  },
+  {
+    "title": "Manon of the Spring",
+    "year": 1986,
+    "director": {
+      "name": "Claude Berri",
+      "imdb_person_url": "https://www.imdb.com/name/nm0077271/"
+    },
+    "production_studio": "Renn Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 3.9,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Yves Montand",
+        "imdb_person_url": "https://www.imdb.com/name/nm0599696/"
+      },
+      {
+        "name": "Daniel Auteuil",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000808/"
+      },
+      {
+        "name": "Emmanuelle Béart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000322/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A beautiful but shy shepherdess plots vengeance on the men whose greedy conspiracy to acquire her father's land caused his death years earlier.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091480/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/manon_of_the_spring"
+  },
+  {
+    "title": "Hoosiers",
+    "year": 1986,
+    "director": {
+      "name": "David Anspaugh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0030644/"
+    },
+    "production_studio": "Hemdale",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 114,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 28.6,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Gene Hackman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
+      },
+      {
+        "name": "Barbara Hershey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001347/"
+      },
+      {
+        "name": "Dennis Hopper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000454/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A coach with a checkered past and a local drunk train a small-town high school basketball team to become a top contender for the state championship in 1950s Indiana.",
+    "afi_ranking": 13,
+    "imdb_url": "https://www.imdb.com/title/tt0091217/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hoosiers"
+  },
+  {
+    "title": "Little Shop of Horrors",
+    "year": 1986,
+    "director": {
+      "name": "Frank Oz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000568/"
+    },
+    "production_studio": "The Geffen Company",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 39.0,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Rick Moranis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001548/"
+      },
+      {
+        "name": "Ellen Greene",
+        "imdb_person_url": "https://www.imdb.com/name/nm0338746/"
+      },
+      {
+        "name": "Vincent Gardenia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0306631/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091419/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/little_shop_of_horrors_1986"
+  },
+  {
+    "title": "The Sacrifice",
+    "year": 1986,
+    "director": {
+      "name": "Andrei Tarkovsky",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001789/"
+    },
+    "production_studio": "Svenska Filminstitutet (SFI)",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 149,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.3,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Erland Josephson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0430802/"
+      },
+      {
+        "name": "Susan Fleetwood",
+        "imdb_person_url": "https://www.imdb.com/name/nm0281475/"
+      },
+      {
+        "name": "Allan Edwall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0249767/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "At the dawn of World War III, a man searches for a way to restore peace to the world and finds he must give something in return.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091670/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_sacrifice"
+  },
+  {
+    "title": "River's Edge",
+    "year": 1986,
+    "director": {
+      "name": "Tim Hunter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0403006/"
+    },
+    "production_studio": "Hemdale",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 1.7,
+    "gross_revenue_usd_millions": 4.6,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Crispin Glover",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000417/"
+      },
+      {
+        "name": "Keanu Reeves",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
+      },
+      {
+        "name": "Ione Skye",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001746/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of high school friends must come to terms with the fact that one of them killed his girlfriend and left her body by the river.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091860/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rivers_edge"
+  },
+  {
+    "title": "Sid and Nancy",
+    "year": 1986,
+    "director": {
+      "name": "Alex Cox",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002022/"
+    },
+    "production_studio": "Zenith Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 2.8,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Gary Oldman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
+      },
+      {
+        "name": "Chloe Webb",
+        "imdb_person_url": "https://www.imdb.com/name/nm0916053/"
+      },
+      {
+        "name": "David Hayman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0371369/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The relationship between Sid Vicious, bassist for British punk group Sex Pistols, and his girlfriend Nancy Spungen is portrayed.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091954/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sid_and_nancy"
+  },
+  {
+    "title": "Mona Lisa",
+    "year": 1986,
+    "director": {
+      "name": "Neil Jordan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001403/"
+    },
+    "production_studio": "HandMade Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 5.8,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Bob Hoskins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001366/"
+      },
+      {
+        "name": "Cathy Tyson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0879203/"
+      },
+      {
+        "name": "Michael Caine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man recently released from prison manages to get a job driving a call girl from customer to customer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091538/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mona_lisa"
+  },
+  {
+    "title": "Something Wild",
+    "year": 1986,
+    "director": {
+      "name": "Jonathan Demme",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
+    },
+    "production_studio": "Religioso Primitiva",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 8.4,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jeff Daniels",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001099/"
+      },
+      {
+        "name": "Melanie Griffith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000429/"
+      },
+      {
+        "name": "Ray Liotta",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000498/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A free-spirited woman \"kidnaps\" a yuppie for a weekend of adventure. But the fun quickly takes a dangerous turn when her ex-convict husband shows up.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091993/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/something_wild"
   },
   {
     "title": "'Round Midnight",
     "year": 1986,
     "director": {
       "name": "Bertrand Tavernier",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001789/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0851838/"
     },
-    "production_studio": "Warner Bros.",
+    "production_studio": "Little Bear",
     "mpaa_rating": "R",
     "runtime_minutes": 133,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 3.2,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 10.0,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Drama",
@@ -1047,15 +1129,15 @@
     "actors": [
       {
         "name": "Dexter Gordon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0330453/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0330138/"
       },
       {
         "name": "François Cluzet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0167232/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0167388/"
       },
       {
         "name": "Gabrielle Haker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0354483/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0354674/"
       }
     ],
     "oscars_nominated": 2,
@@ -1063,54 +1145,1012 @@
     "oscars_won_details": [
       "Best Music, Original Score"
     ],
-    "description": "An aging, alcoholic jazz musician in Paris is befriended by a young fan who tries to help him get his life back on track.",
+    "description": "A fan tries to help a talented but self-destructive American jazz musician living in Paris in the 1950s.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0090557/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/round_midnight"
   },
   {
-    "title": "Heartbreak Ridge",
+    "title": "Henry: Portrait of a Serial Killer",
     "year": 1986,
     "director": {
-      "name": "Clint Eastwood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+      "name": "John McNaughton",
+      "imdb_person_url": "https://www.imdb.com/name/nm0573981/"
     },
-    "production_studio": "The Malpaso Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 121.7,
+    "production_studio": "Maljack Productions",
+    "mpaa_rating": "X",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 0.11,
+    "gross_revenue_usd_millions": 0.6,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Michael Rooker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0740264/"
+      },
+      {
+        "name": "Tracy Arnold",
+        "imdb_person_url": "https://www.imdb.com/name/nm0036647/"
+      },
+      {
+        "name": "Tom Towles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0870104/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099763/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/henry_portrait_of_a_serial_killer"
+  },
+  {
+    "title": "A Better Tomorrow",
+    "year": 1986,
+    "director": {
+      "name": "John Woo",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000247/"
+    },
+    "production_studio": "Cinema City Film Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 0.45,
+    "gross_revenue_usd_millions": 4.4,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
       "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Lung Ti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0859942/"
+      },
+      {
+        "name": "Leslie Cheung",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002000/"
+      },
+      {
+        "name": "Chow Yun-Fat",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000334/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A reforming ex-gangster tries to reconcile with his estranged policeman brother, but the ties to his former gang are difficult to break.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092263/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/better_tomorrow"
+  },
+  {
+    "title": "Children of a Lesser God",
+    "year": 1986,
+    "director": {
+      "name": "Randa Haines",
+      "imdb_person_url": "https://www.imdb.com/name/nm0354279/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 10.5,
+    "gross_revenue_usd_millions": 31.9,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "William Hurt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
+      },
+      {
+        "name": "Marlee Matlin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000522/"
+      },
+      {
+        "name": "Piper Laurie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001453/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Leading Role"
+    ],
+    "description": "A new speech teacher at a school for the deaf falls in love with the janitor, a deaf woman speechless by choice.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0090830/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/children_of_a_lesser_god"
+  },
+  {
+    "title": "The Color of Money",
+    "year": 1986,
+    "director": {
+      "name": "Martin Scorsese",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": 14.5,
+    "gross_revenue_usd_millions": 52.3,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "74%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
+      },
+      {
+        "name": "Tom Cruise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+      },
+      {
+        "name": "Mary Elizabeth Mastrantonio",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001512/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actor in a Leading Role"
+    ],
+    "description": "Fast Eddie Felson teaches a cocky but immensely talented protégé the ropes of pool hustling, which in turn inspires him to make an unlikely comeback.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0090863/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/color_of_money"
+  },
+  {
+    "title": "Salvador",
+    "year": 1986,
+    "director": {
+      "name": "Oliver Stone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
+    },
+    "production_studio": "Hemdale",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "James Woods",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000248/"
+      },
+      {
+        "name": "Jim Belushi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000908/"
+      },
+      {
+        "name": "Michael Murphy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0614539/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American photojournalist gets caught in a political struggle in El Salvador in 1980.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091886/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/salvador"
+  },
+  {
+    "title": "Sherman's March",
+    "year": 1986,
+    "director": {
+      "name": "Ross McElwee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0568449/"
+    },
+    "production_studio": "First Run Features",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 155,
+    "budget_usd_millions": 0.075,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Documentary",
+      "Biography",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Ross McElwee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0568449/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Ross McElwee sets out to make a documentary about the lingering effects of General Sherman's march of destruction through the South during the Civil War, but is continually sidetracked by his own love life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091943/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shermans_march"
+  },
+  {
+    "title": "The Decline of the American Empire",
+    "year": 1986,
+    "director": {
+      "name": "Denys Arcand",
+      "imdb_person_url": "https://www.imdb.com/name/nm0033502/"
+    },
+    "production_studio": "National Film Board of Canada (NFB)",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 1.8,
+    "gross_revenue_usd_millions": 30.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
       "Comedy",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Clint Eastwood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+        "name": "Dominique Michel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0584904/"
       },
       {
-        "name": "Marsha Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
+        "name": "Dorothée Berryman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0077741/"
       },
       {
-        "name": "Everett McGill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001522/"
+        "name": "Louise Portal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0691974/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A hard-nosed, hard-living Marine gunnery sergeant is assigned to train a group of undisciplined recruits.",
+    "description": "Secrets are shared and spilled when a group of academics and their partners spend a weekend at a country retreat.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091187/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heartbreak_ridge"
+    "imdb_url": "https://www.imdb.com/title/tt0090985/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/decline_of_the_american_empire"
+  },
+  {
+    "title": "The Assault",
+    "year": 1986,
+    "director": {
+      "name": "Fons Rademakers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0705466/"
+    },
+    "production_studio": "Cannon Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 144,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Derek de Lint",
+        "imdb_person_url": "https://www.imdb.com/name/nm0513195/"
+      },
+      {
+        "name": "Marc van Uchelen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0879685/"
+      },
+      {
+        "name": "Monique van de Ven",
+        "imdb_person_url": "https://www.imdb.com/name/nm0890670/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "A Dutch man's life is forever marked by the assassination of a collaborator during World War II.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0090576/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/assault"
+  },
+  {
+    "title": "My Sweet Little Village",
+    "year": 1986,
+    "director": {
+      "name": "Jiří Menzel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0580046/"
+    },
+    "production_studio": "Filmové studio Barrandov",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "János Bán",
+        "imdb_person_url": "https://www.imdb.com/name/nm0126442/"
+      },
+      {
+        "name": "Marián Labuda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0479767/"
+      },
+      {
+        "name": "Rudolf Hrušínský",
+        "imdb_person_url": "https://www.imdb.com/name/nm0398606/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In a small Czech village, a mentally disabled young man works as a truck driver's assistant, leading to various humorous and touching situations.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0090213/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_sweet_little_village"
+  },
+  {
+    "title": "Betty Blue",
+    "year": 1986,
+    "director": {
+      "name": "Jean-Jacques Beineix",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000900/"
+    },
+    "production_studio": "Cargo Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 120,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Jean-Hugues Anglade",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001911/"
+      },
+      {
+        "name": "Béatrice Dalle",
+        "imdb_person_url": "https://www.imdb.com/name/nm0198031/"
+      },
+      {
+        "name": "Gérard Darmon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0201655/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lackadaisical handyman and aspiring novelist tries to support his younger girlfriend as she slowly succumbs to madness.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0090563/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/betty_blue"
+  },
+  {
+    "title": "The Green Ray",
+    "year": 1986,
+    "director": {
+      "name": "Éric Rohmer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0006445/"
+    },
+    "production_studio": "Les Films du Losange",
+    "mpaa_rating": "R",
+    "runtime_minutes": 98,
+    "budget_usd_millions": 0.6,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Marie Rivière",
+        "imdb_person_url": "https://www.imdb.com/name/nm0729792/"
+      },
+      {
+        "name": "Amira Chemakhi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0155416/"
+      },
+      {
+        "name": "Sylvie Richez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0724896/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After being dumped by her boyfriend, a young Parisian secretary finds it hard to enjoy her summer vacation until she meets a man who seems perfect for her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091830/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/summer_1986"
+  },
+  {
+    "title": "Matador",
+    "year": 1986,
+    "director": {
+      "name": "Pedro Almodóvar",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
+    },
+    "production_studio": "Compañía Iberoamericana de TV",
+    "mpaa_rating": "NC-17",
+    "runtime_minutes": 110,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.28,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Assumpta Serna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0785191/"
+      },
+      {
+        "name": "Antonio Banderas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000104/"
+      },
+      {
+        "name": "Nacho Martínez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0554760/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A former bullfighter who gets sexual pleasure from killing, and a female lawyer who has similar tendencies, are destined to meet.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091495/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/matador"
+  },
+  {
+    "title": "Mauvais Sang",
+    "year": 1986,
+    "director": {
+      "name": "Leos Carax",
+      "imdb_person_url": "https://www.imdb.com/name/nm0136014/"
+    },
+    "production_studio": "Les Films Plain Chant",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Michel Piccoli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
+      },
+      {
+        "name": "Juliette Binoche",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000300/"
+      },
+      {
+        "name": "Denis Lavant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0491823/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young man is hired to steal a serum for a mysterious disease that kills people who make love without emotional involvement.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091497/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mauvais_sang"
+  },
+  {
+    "title": "Shadows in Paradise",
+    "year": 1986,
+    "director": {
+      "name": "Aki Kaurismäki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0442454/"
+    },
+    "production_studio": "Villealfa Filmproductions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 74,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Matti Pellonpää",
+        "imdb_person_url": "https://www.imdb.com/name/nm0671183/"
+      },
+      {
+        "name": "Kati Outinen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0653846/"
+      },
+      {
+        "name": "Sakari Kuosmanen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0474888/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lonely garbage collector falls in love with a supermarket cashier, and they try to build a life together despite their personal struggles.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092149/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shadows_in_paradise"
+  },
+  {
+    "title": "Kin-dza-dza!",
+    "year": 1986,
+    "director": {
+      "name": "Georgiy Daneliya",
+      "imdb_person_url": "https://www.imdb.com/name/nm0199395/"
+    },
+    "production_studio": "Mosfilm",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 135,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Stanislav Lyubshin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0529367/"
+      },
+      {
+        "name": "Evgeniy Leonov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0503004/"
+      },
+      {
+        "name": "Yuriy Yakovlev",
+        "imdb_person_url": "https://www.imdb.com/name/nm0944983/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two Soviets are teleported to a desert planet called Pluke, where society is divided into two categories: those who have matches and those who don't.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091341/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/kin_dza_dza"
+  },
+  {
+    "title": "True Stories",
+    "year": 1986,
+    "director": {
+      "name": "David Byrne",
+      "imdb_person_url": "https://www.imdb.com/name/nm0126154/"
+    },
+    "production_studio": "True Stories Venture",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "David Byrne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0126154/"
+      },
+      {
+        "name": "John Goodman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000422/"
+      },
+      {
+        "name": "Swoosie Kurtz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001436/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A visitor to a small Texas town introduces us to the quirky inhabitants as they prepare for their sesquicentennial celebration.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092117/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/true_stories"
+  },
+  {
+    "title": "Top Gun",
+    "year": 1986,
+    "director": {
+      "name": "Tony Scott",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001716/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 357.3,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Tom Cruise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000129/"
+      },
+      {
+        "name": "Kelly McGillis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000533/"
+      },
+      {
+        "name": "Val Kilmer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000174/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song"
+    ],
+    "description": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092099/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/top_gun"
+  },
+  {
+    "title": "Highlander",
+    "year": 1986,
+    "director": {
+      "name": "Russell Mulcahy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003009/"
+    },
+    "production_studio": "Thorn EMI Screen Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 19.0,
+    "gross_revenue_usd_millions": 12.9,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Christopher Lambert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000483/"
+      },
+      {
+        "name": "Sean Connery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
+      },
+      {
+        "name": "Clancy Brown",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000314/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled \"Prize\".",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091203/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/highlander"
+  },
+  {
+    "title": "She's Gotta Have It",
+    "year": 1986,
+    "director": {
+      "name": "Spike Lee",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
+    },
+    "production_studio": "40 Acres & A Mule Filmworks",
+    "mpaa_rating": "R",
+    "runtime_minutes": 84,
+    "budget_usd_millions": 0.175,
+    "gross_revenue_usd_millions": 7.1,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Tracy Camilla Johns",
+        "imdb_person_url": "https://www.imdb.com/name/nm0424245/"
+      },
+      {
+        "name": "Tommy Redmond Hicks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0380894/"
+      },
+      {
+        "name": "John Canada Terrell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0855663/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of a woman and her three lovers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091939/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shes_gotta_have_it"
+  },
+  {
+    "title": "An American Tail",
+    "year": 1986,
+    "director": {
+      "name": "Don Bluth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0089937/"
+    },
+    "production_studio": "Amblin Entertainment",
+    "mpaa_rating": "G",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 84.5,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Dom DeLuise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001128/"
+      },
+      {
+        "name": "Christopher Plummer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001626/"
+      },
+      {
+        "name": "Erica Yohn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0948366/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "While emigrating to the United States, a young Russian mouse gets separated from his family and must locate them while trying to survive in a new country.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0090633/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/an_american_tail"
+  },
+  {
+    "title": "Ruthless People",
+    "year": 1986,
+    "director": {
+      "name": "Jim Abrahams",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000715/"
+    },
+    "production_studio": "Touchstone Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 13.0,
+    "gross_revenue_usd_millions": 71.6,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "69%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Danny DeVito",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000362/"
+      },
+      {
+        "name": "Bette Midler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000541/"
+      },
+      {
+        "name": "Judge Reinhold",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001662/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A couple, cheated by a vile businessman, kidnap his wife in retaliation, without knowing that their enemy is delighted they did.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091877/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ruthless_people"
+  },
+  {
+    "title": "The Great Mouse Detective",
+    "year": 1986,
+    "director": {
+      "name": "Ron Clements",
+      "imdb_person_url": "https://www.imdb.com/name/nm0166241/"
+    },
+    "production_studio": "Walt Disney Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 74,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 38.6,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "actors": [
+      {
+        "name": "Vincent Price",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
+      },
+      {
+        "name": "Barrie Ingham",
+        "imdb_person_url": "https://www.imdb.com/name/nm0408799/"
+      },
+      {
+        "name": "Val Bettin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0079373/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Basil, the rodent Sherlock Holmes, investigates the kidnapping of a toy maker and uncovers its link to his archenemy, Professor Ratigan.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091129/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/great_mouse_detective"
+  },
+  {
+    "title": "Night of the Creeps",
+    "year": 1986,
+    "director": {
+      "name": "Fred Dekker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0215281/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 0.59,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "70%"
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Jason Lively",
+        "imdb_person_url": "https://www.imdb.com/name/nm0515128/"
+      },
+      {
+        "name": "Steve Marshall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0551187/"
+      },
+      {
+        "name": "Jill Whitlow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0926188/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Alien brain parasites, entering humans through the mouth, turn their host into a killing zombie. Some teenagers start to fight against them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0091630/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/night_of_the_creeps"
   },
   {
     "title": "Peggy Sue Got Married",
@@ -1119,15 +2159,15 @@
       "name": "Francis Ford Coppola",
       "imdb_person_url": "https://www.imdb.com/name/nm0000338/"
     },
-    "production_studio": "TriStar Pictures, Rastar Pictures",
+    "production_studio": "TriStar Pictures",
     "mpaa_rating": "PG-13",
     "runtime_minutes": 103,
-    "budget_usd_millions": 18,
+    "budget_usd_millions": 18.0,
     "gross_revenue_usd_millions": 41.4,
     "ratings": {
       "imdb": 6.4,
       "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "65%"
+      "rotten_tomatoes_popcorn": "56%"
     },
     "genres": [
       "Comedy",
@@ -1145,583 +2185,190 @@
       },
       {
         "name": "Barry Miller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0588235/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0587930/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A woman on the verge of a divorce faints at her high school reunion and wakes up in 1960, with a chance to change her life.",
+    "description": "Peggy Sue, on the verge of a divorce, faints at her 25th high school reunion and wakes up to find herself back in 1960.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0091738/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/peggy_sue_got_married"
   },
   {
-    "title": "Crimes of the Heart",
+    "title": "Crocodile Dundee",
     "year": 1986,
     "director": {
-      "name": "Bruce Beresford",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000914/"
+      "name": "Peter Faiman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0265403/"
     },
-    "production_studio": "De Laurentiis Entertainment Group (DEG)",
+    "production_studio": "Rimfire Films",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 22.9,
+    "runtime_minutes": 97,
+    "budget_usd_millions": 8.8,
+    "gross_revenue_usd_millions": 328.2,
     "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "33%",
-      "rotten_tomatoes_popcorn": "41%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Diane Keaton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000473/"
-      },
-      {
-        "name": "Jessica Lange",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001448/"
-      },
-      {
-        "name": "Sissy Spacek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000647/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Three sisters with a history of family dysfunction are reunited in their Mississippi hometown.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0090886/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crimes_of_the_heart"
-  },
-  {
-    "title": "Mona Lisa",
-    "year": 1986,
-    "director": {
-      "name": "Neil Jordan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001402/"
-    },
-    "production_studio": "HandMade Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 4,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "96%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Bob Hoskins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000451/"
-      },
-      {
-        "name": "Cathy Tyson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
-      },
-      {
-        "name": "Michael Caine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000323/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An ex-con hired to be the driver for a high-class call girl finds himself drawn into a dangerous world of crime and obsession.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091538/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1013998-mona_lisa"
-  },
-  {
-    "title": "Sid and Nancy",
-    "year": 1986,
-    "director": {
-      "name": "Alex Cox",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002022/"
-    },
-    "production_studio": "Initial Pictures, Zenith Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 112,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 2.8,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Gary Oldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
-      },
-      {
-        "name": "Chloe Webb",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001838/"
-      },
-      {
-        "name": "David Hayman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0371300/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the self-destructive relationship between Sex Pistols bassist Sid Vicious and his girlfriend, Nancy Spungen.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091954/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sid_and_nancy"
-  },
-  {
-    "title": "Something Wild",
-    "year": 1986,
-    "director": {
-      "name": "Jonathan Demme",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001129/"
-    },
-    "production_studio": "Religiosa Primitiva",
-    "mpaa_rating": "R",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 8.7,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "68%"
     },
     "genres": [
       "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Jeff Daniels",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001099/"
-      },
-      {
-        "name": "Melanie Griffith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000426/"
-      },
-      {
-        "name": "Ray Liotta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000501/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A straitlaced businessman's life is turned upside down when he gets involved with a free-spirited woman and her dangerous ex-convict husband.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091983/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/something_wild"
-  },
-  {
-    "title": "The Mosquito Coast",
-    "year": 1986,
-    "director": {
-      "name": "Peter Weir",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001837/"
-    },
-    "production_studio": "The Saul Zaentz Company",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 14.3,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
       "Adventure",
-      "Drama",
-      "Thriller"
+      "Comedy"
     ],
     "actors": [
       {
-        "name": "Harrison Ford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000148/"
+        "name": "Paul Hogan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001357/"
       },
       {
-        "name": "Helen Mirren",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000545/"
+        "name": "Linda Kozlowski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0468817/"
       },
       {
-        "name": "River Phoenix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000202/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An idealistic inventor who is disillusioned with American consumerism moves his family to a remote jungle in Central America to start a new life.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091557/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mosquito_coast"
-  },
-  {
-    "title": "An American Tail",
-    "year": 1986,
-    "director": {
-      "name": "Don Bluth",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
-    },
-    "production_studio": "Universal Pictures, Amblin Entertainment",
-    "mpaa_rating": "G",
-    "runtime_minutes": 80,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 84.5,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Dom DeLuise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
-      },
-      {
-        "name": "Christopher Plummer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001626/"
-      },
-      {
-        "name": "Erica Yohn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0948935/"
+        "name": "John Meillon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0576856/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young Russian mouse gets separated from his family while they are emigrating to the United States.",
+    "description": "An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0090633/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/an_american_tail"
+    "imdb_url": "https://www.imdb.com/title/tt0090555/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/crocodile_dundee"
   },
   {
-    "title": "She's Gotta Have It",
+    "title": "When the Wind Blows",
     "year": 1986,
     "director": {
-      "name": "Spike Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
+      "name": "Jimmy T. Murakami",
+      "imdb_person_url": "https://www.imdb.com/name/nm0613508/"
     },
-    "production_studio": "40 Acres and a Mule Filmworks",
-    "mpaa_rating": "R",
-    "runtime_minutes": 84,
-    "budget_usd_millions": 0.175,
-    "gross_revenue_usd_millions": 7.1,
+    "production_studio": "Meltdown Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 0.005,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
-      "Comedy",
-      "Romance"
+      "Animation",
+      "Drama",
+      "War"
     ],
     "actors": [
       {
-        "name": "Tracy Camilla Johns",
-        "imdb_person_url": "https://www.imdb.com/name/nm0424681/"
+        "name": "Peggy Ashcroft",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000796/"
       },
       {
-        "name": "Tommy Redmond Hicks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0382833/"
+        "name": "John Mills",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001538/"
       },
       {
-        "name": "John Canada Terrell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0855352/"
+        "name": "Robin Houston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0396898/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of a young, independent woman in Brooklyn who is juggling three different lovers.",
+    "description": "A naive elderly British rural couple survive the initial onslaught of a nuclear war.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091939/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shes_gotta_have_it"
+    "imdb_url": "https://www.imdb.com/title/tt0092206/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/when_the_wind_blows"
   },
   {
-    "title": "Short Circuit",
+    "title": "The Transformers: The Movie",
     "year": 1986,
     "director": {
-      "name": "John Badham",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000824/"
+      "name": "Nelson Shin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0793796/"
     },
-    "production_studio": "TriStar Pictures, PSO",
+    "production_studio": "Sunbow Productions",
     "mpaa_rating": "PG",
-    "runtime_minutes": 98,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 40.7,
+    "runtime_minutes": 84,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 5.8,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      {
+        "name": "Peter Cullen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0191538/"
+      },
+      {
+        "name": "Frank Welker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0919798/"
+      },
+      {
+        "name": "Orson Welles",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000080/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The Autobots must stop a colossal planet-consuming robot who goes after the Autobot Matrix of Leadership.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0092106/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/transformers_the_movie"
+  },
+  {
+    "title": "From Beyond",
+    "year": 1986,
+    "director": {
+      "name": "Stuart Gordon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002579/"
+    },
+    "production_studio": "Empire Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 1.3,
     "ratings": {
       "imdb": 6.6,
-      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_critic": "80%",
       "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
-      "Comedy",
-      "Family",
+      "Horror",
       "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "Ally Sheedy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000639/"
+        "name": "Jeffrey Combs",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001062/"
       },
       {
-        "name": "Steve Guttenberg",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000429/"
+        "name": "Barbara Crampton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0186225/"
       },
       {
-        "name": "Fisher Stevens",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001768/"
+        "name": "Ken Foree",
+        "imdb_person_url": "https://www.imdb.com/name/nm0286016/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An experimental military robot is struck by lightning and gains a human-like intelligence.",
+    "description": "A group of scientists have developed the Resonator, a machine which allows whoever is within range to see beyond normal perceptible reality.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091949/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/short_circuit"
-  },
-  {
-    "title": "Jean de Florette",
-    "year": 1986,
-    "director": {
-      "name": "Claude Berri",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001944/"
-    },
-    "production_studio": "Renn Productions, Films A2",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 4.9,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Yves Montand",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002001/"
-      },
-      {
-        "name": "Gérard Depardieu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
-      },
-      {
-        "name": "Daniel Auteuil",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000810/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In a rural French village, an old man and his nephew conspire to cheat a naive city dweller out of his inheritance.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091288/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jean_de_florette"
-  },
-  {
-    "title": "The Great Mouse Detective",
-    "year": 1986,
-    "director": {
-      "name": "Ron Clements, Burny Mattinson, David Michener, John Musker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0166256/"
-    },
-    "production_studio": "Walt Disney Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 74,
-    "budget_usd_millions": 14,
-    "gross_revenue_usd_millions": 38.7,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Vincent Price",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001637/"
-      },
-      {
-        "name": "Barrie Ingham",
-        "imdb_person_url": "https://www.imdb.com/name/nm0408729/"
-      },
-      {
-        "name": "Val Bettin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0079555/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A mouse detective and his faithful partner must stop a diabolical rat from taking over the British monarchy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0091149/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_great_mouse_detective"
-  },
-  {
-    "title": "Back to School",
-    "year": 1986,
-    "director": {
-      "name": "Alan Metter",
-      "imdb_person_url": "https://www.imdb.com/name/nm0582695/"
-    },
-    "production_studio": "Orion Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 96,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 91.3,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Rodney Dangerfield",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001098/"
-      },
-      {
-        "name": "Sally Kellerman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001416/"
-      },
-      {
-        "name": "Burt Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001875/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "To help his son get through college, a fun-loving and obnoxious millionaire decides to join him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0090685/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/back_to_school"
-  },
-  {
-    "title": "Cobra",
-    "year": 1986,
-    "director": {
-      "name": "George P. Cosmatos",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
-    },
-    "production_studio": "Warner Bros., The Cannon Group",
-    "mpaa_rating": "R",
-    "runtime_minutes": 87,
-    "budget_usd_millions": 25,
-    "gross_revenue_usd_millions": 160,
-    "ratings": {
-      "imdb": 5.8,
-      "rotten_tomatoes_critic": "18%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Sylvester Stallone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
-      },
-      {
-        "name": "Brigitte Nielsen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000557/"
-      },
-      {
-        "name": "Reni Santoni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0763914/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far-reaching plans.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0090859/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cobra"
-  },
-  {
-    "title": "About Last Night...",
-    "year": 1986,
-    "director": {
-      "name": "Edward Zwick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001880/"
-    },
-    "production_studio": "TriStar Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 8.5,
-    "gross_revenue_usd_millions": 38.7,
-    "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "59%",
-      "rotten_tomatoes_popcorn": "55%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Rob Lowe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000507/"
-      },
-      {
-        "name": "Demi Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000193/"
-      },
-      {
-        "name": "James Belushi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000902/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man and a woman who have a one-night stand try to turn it into a real relationship.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0090583/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/about_last_night"
+    "imdb_url": "https://www.imdb.com/title/tt0091083/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/from_beyond"
   }
 ]

@@ -4,17 +4,17 @@
     "year": 1967,
     "director": {
       "name": "Mike Nichols",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001569/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001566/"
     },
     "production_studio": "Lawrence Turman",
     "mpaa_rating": "PG",
     "runtime_minutes": 106,
-    "budget_usd_millions": 3,
+    "budget_usd_millions": 3.0,
     "gross_revenue_usd_millions": 104.9,
     "ratings": {
       "imdb": 8.0,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "88%"
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
       "Comedy",
@@ -40,27 +40,77 @@
     "oscars_won_details": [
       "Best Director"
     ],
-    "description": "A disillusioned college graduate finds himself torn between his older, married mistress and her daughter.",
+    "description": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
     "afi_ranking": 17,
     "imdb_url": "https://www.imdb.com/title/tt0061722/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_graduate"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/graduate"
+  },
+  {
+    "title": "In the Heat of the Night",
+    "year": 1967,
+    "director": {
+      "name": "Norman Jewison",
+      "imdb_person_url": "https://www.imdb.com/name/nm0422476/"
+    },
+    "production_studio": "The Mirisch Corporation",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 24.4,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Sidney Poitier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001627/"
+      },
+      {
+        "name": "Rod Steiger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001768/"
+      },
+      {
+        "name": "Warren Oates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0643168/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 5,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Actor in a Leading Role",
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Film Editing",
+      "Best Sound"
+    ],
+    "description": "A black Philadelphia police detective is mistakenly suspected of a local murder while passing through a racially hostile Mississippi town, and after being cleared is reluctantly asked by the police chief to investigate the case.",
+    "afi_ranking": 75,
+    "imdb_url": "https://www.imdb.com/title/tt0061811/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_the_heat_of_the_night"
   },
   {
     "title": "Bonnie and Clyde",
     "year": 1967,
     "director": {
       "name": "Arthur Penn",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001607/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0006611/"
     },
-    "production_studio": "Warner Bros./Seven Arts",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 111,
     "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 70,
+    "gross_revenue_usd_millions": 70.0,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "87%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Action",
@@ -74,11 +124,11 @@
       },
       {
         "name": "Faye Dunaway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001159/"
       },
       {
         "name": "Michael J. Pollard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0689489/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0689488/"
       }
     ],
     "oscars_nominated": 10,
@@ -87,8 +137,8 @@
       "Best Actress in a Supporting Role",
       "Best Cinematography"
     ],
-    "description": "Bored waitress Bonnie Parker falls in love with ex-con Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
-    "afi_ranking": 42,
+    "description": "Bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+    "afi_ranking": 27,
     "imdb_url": "https://www.imdb.com/title/tt0061418/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bonnie_and_clyde"
   },
@@ -97,17 +147,17 @@
     "year": 1967,
     "director": {
       "name": "Stuart Rosenberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0742211/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0742344/"
     },
     "production_studio": "Jalem Productions",
-    "mpaa_rating": "PG",
+    "mpaa_rating": "GP",
     "runtime_minutes": 127,
     "budget_usd_millions": 3.2,
     "gross_revenue_usd_millions": 16.2,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
+      "rotten_tomatoes_popcorn": "95%"
     },
     "genres": [
       "Crime",
@@ -120,11 +170,11 @@
       },
       {
         "name": "George Kennedy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001422/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001421/"
       },
       {
         "name": "Strother Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0553011/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0005192/"
       }
     ],
     "oscars_nominated": 4,
@@ -132,159 +182,19 @@
     "oscars_won_details": [
       "Best Actor in a Supporting Role"
     ],
-    "description": "A man who refuses to conform to life in a rural prison camp becomes a symbol of hope to the other inmates.",
-    "afi_ranking": null,
+    "description": "A laid-back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+    "afi_ranking": 71,
     "imdb_url": "https://www.imdb.com/title/tt0061512/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cool_hand_luke"
-  },
-  {
-    "title": "In the Heat of the Night",
-    "year": 1967,
-    "director": {
-      "name": "Norman Jewison",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001400/"
-    },
-    "production_studio": "The Mirisch Corporation",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 24.4,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Sidney Poitier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000593/"
-      },
-      {
-        "name": "Rod Steiger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001768/"
-      },
-      {
-        "name": "Warren Oates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001570/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 5,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Actor in a Leading Role",
-      "Best Writing, Screenplay Based on Material from Another Medium",
-      "Best Sound",
-      "Best Film Editing"
-    ],
-    "description": "A black Philadelphia police detective is mistakenly suspected of a local murder while passing through a racially hostile Mississippi town, and after being cleared is reluctantly asked to investigate the case.",
-    "afi_ranking": 75,
-    "imdb_url": "https://www.imdb.com/title/tt0061811/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_the_heat_of_the_night"
-  },
-  {
-    "title": "The Jungle Book",
-    "year": 1967,
-    "director": {
-      "name": "Wolfgang Reitherman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0718625/"
-    },
-    "production_studio": "Walt Disney Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 78,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 205.8,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "82%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Phil Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
-      },
-      {
-        "name": "Sebastian Cabot",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001000/"
-      },
-      {
-        "name": "Louis Prima",
-        "imdb_person_url": "https://www.imdb.com/name/nm0697521/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of a young boy raised in the jungle by wolves, who is befriended by a bear and a panther.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061852/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1011110-jungle_book"
-  },
-  {
-    "title": "Guess Who's Coming to Dinner",
-    "year": 1967,
-    "director": {
-      "name": "Stanley Kramer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0469831/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 56.7,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Spencer Tracy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
-      },
-      {
-        "name": "Sidney Poitier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000593/"
-      },
-      {
-        "name": "Katharine Hepburn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actress in a Leading Role",
-      "Best Writing, Story and Screenplay - Written Directly for the Screen"
-    ],
-    "description": "A liberal white couple's progressive attitudes are put to the test when their daughter brings home her black fiancé.",
-    "afi_ranking": 99,
-    "imdb_url": "https://www.imdb.com/title/tt0061735/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/guess_whos_coming_to_dinner"
   },
   {
     "title": "The Dirty Dozen",
     "year": 1967,
     "director": {
       "name": "Robert Aldrich",
-      "imdb_person_url": "https://www.imdb.com/name/nm0017639/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000736/"
     },
-    "production_studio": "MGM",
+    "production_studio": "MKH",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 150,
     "budget_usd_millions": 5.4,
@@ -292,7 +202,7 @@
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
       "Action",
@@ -316,112 +226,70 @@
     "oscars_nominated": 4,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Effects, Sound Effects"
+      "Best Sound Effects"
     ],
-    "description": "A U.S. Army major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers in World War II.",
+    "description": "During World War II, a rebellious U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass-assassination mission of German officers.",
     "afi_ranking": 65,
     "imdb_url": "https://www.imdb.com/title/tt0061578/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dirty_dozen"
   },
   {
-    "title": "You Only Live Twice",
+    "title": "Guess Who's Coming to Dinner",
     "year": 1967,
     "director": {
-      "name": "Lewis Gilbert",
-      "imdb_person_url": "https://www.imdb.com/name/nm0318107/"
+      "name": "Stanley Kramer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001433/"
     },
-    "production_studio": "Eon Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 9.5,
-    "gross_revenue_usd_millions": 111.6,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "68%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Sean Connery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
-      },
-      {
-        "name": "Akiko Wakabayashi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0906536/"
-      },
-      {
-        "name": "Mie Hama",
-        "imdb_person_url": "https://www.imdb.com/name/nm0357283/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "James Bond and the Japanese secret service must find and stop the true culprit of a series of spacejackings before nuclear war is provoked.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0062512/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/you_only_live_twice"
-  },
-  {
-    "title": "Le Samouraï",
-    "year": 1967,
-    "director": {
-      "name": "Jean-Pierre Melville",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001533/"
-    },
-    "production_studio": "Compagnie Industrielle et Commerciale Cinématographique (CICC)",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 105,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.1,
+    "runtime_minutes": 108,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 56.7,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
+      "Comedy",
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Alain Delon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001128/"
+        "name": "Spencer Tracy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000075/"
       },
       {
-        "name": "François Périer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0702167/"
+        "name": "Sidney Poitier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001627/"
       },
       {
-        "name": "Nathalie Delon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0217983/"
+        "name": "Katharine Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000031/"
       }
     ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A professional hitman finds himself in a cat-and-mouse game with the police and his employers.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0062229/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/le_samourai"
+    "oscars_nominated": 10,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actress in a Leading Role",
+      "Best Writing, Story and Screenplay - Written Directly for the Screen"
+    ],
+    "description": "A couple's attitudes are challenged when their daughter introduces them to her African-American fiancé.",
+    "afi_ranking": 99,
+    "imdb_url": "https://www.imdb.com/title/tt0061735/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/guess_whos_coming_to_dinner"
   },
   {
     "title": "Wait Until Dark",
     "year": 1967,
     "director": {
       "name": "Terence Young",
-      "imdb_person_url": "https://www.imdb.com/name/nm0949910/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0949242/"
     },
-    "production_studio": "Warner Bros./Seven Arts",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 108,
-    "budget_usd_millions": 3,
+    "budget_usd_millions": 3.0,
     "gross_revenue_usd_millions": 17.6,
     "ratings": {
       "imdb": 7.7,
@@ -429,7 +297,6 @@
       "rotten_tomatoes_popcorn": "89%"
     },
     "genres": [
-      "Horror",
       "Thriller"
     ],
     "actors": [
@@ -439,11 +306,11 @@
       },
       {
         "name": "Alan Arkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000273/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000271/"
       },
       {
         "name": "Richard Crenna",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001079/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001077/"
       }
     ],
     "oscars_nominated": 1,
@@ -455,52 +322,220 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wait_until_dark"
   },
   {
-    "title": "Camelot",
+    "title": "Le Samouraï",
     "year": 1967,
     "director": {
-      "name": "Joshua Logan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0517594/"
+      "name": "Jean-Pierre Melville",
+      "imdb_person_url": "https://www.imdb.com/name/nm0578483/"
     },
-    "production_studio": "Warner Bros./Seven Arts",
-    "mpaa_rating": "G",
-    "runtime_minutes": 179,
-    "budget_usd_millions": 13,
-    "gross_revenue_usd_millions": 31.1,
+    "production_studio": "Filmel",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "41%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "94%"
     },
     "genres": [
-      "Adventure",
+      "Crime",
       "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Alain Delon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001128/"
+      },
+      {
+        "name": "François Périer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0702684/"
+      },
+      {
+        "name": "Nathalie Delon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0217684/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a professional hitman is seen by witnesses, his efforts to provide himself an alibi drive him further into a corner.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062229/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/le_samourai"
+  },
+  {
+    "title": "Belle de Jour",
+    "year": 1967,
+    "director": {
+      "name": "Luis Buñuel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000320/"
+    },
+    "production_studio": "Paris Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Catherine Deneuve",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000363/"
+      },
+      {
+        "name": "Jean Sorel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0814798/"
+      },
+      {
+        "name": "Michel Piccoli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A beautiful young housewife, bored with her marriage, finds release by working during the week at a brothel.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061395/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/belle_de_jour"
+  },
+  {
+    "title": "Playtime",
+    "year": 1967,
+    "director": {
+      "name": "Jacques Tati",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000664/"
+    },
+    "production_studio": "Specta Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 3.4,
+    "gross_revenue_usd_millions": 0.07,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Jacques Tati",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000664/"
+      },
+      {
+        "name": "Barbara Dennek",
+        "imdb_person_url": "https://www.imdb.com/name/nm0219277/"
+      },
+      {
+        "name": "Rita Maiden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0537449/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Monsieur Hulot curiously wanders around a high-tech Paris, paralleling a trip with a group of American tourists.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062136/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/playtime"
+  },
+  {
+    "title": "The Jungle Book",
+    "year": 1967,
+    "director": {
+      "name": "Wolfgang Reitherman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0718627/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 78,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 205.8,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
       "Family"
     ],
     "actors": [
       {
-        "name": "Richard Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
+        "name": "Phil Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0365176/"
       },
       {
-        "name": "Vanessa Redgrave",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
+        "name": "Sebastian Cabot",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001982/"
       },
       {
-        "name": "Franco Nero",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001560/"
+        "name": "Louis Prima",
+        "imdb_person_url": "https://www.imdb.com/name/nm0697491/"
       }
     ],
-    "oscars_nominated": 5,
-    "oscars_won": 3,
-    "oscars_won_details": [
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design",
-      "Best Music, Scoring of Music, Adaptation or Treatment"
-    ],
-    "description": "The story of the marriage of England's King Arthur to Guinevere. The plot of illegitimate Mordred to gain the throne and Guinevere's growing attachment to Sir Lancelot, threaten to topple Arthur and his \"Round Table.\"",
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Bagheera the Panther and Baloo the Bear have a difficult time trying to convince a boy to leave the jungle for human civilization.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061439/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/camelot"
+    "imdb_url": "https://www.imdb.com/title/tt0061854/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jungle_book"
+  },
+  {
+    "title": "In Cold Blood",
+    "year": 1967,
+    "director": {
+      "name": "Richard Brooks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0112217/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 13.0,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robert Blake",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000951/"
+      },
+      {
+        "name": "Scott Wilson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0934113/"
+      },
+      {
+        "name": "John Forsythe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001234/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061809/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_cold_blood"
   },
   {
     "title": "Point Blank",
@@ -509,15 +544,15 @@
       "name": "John Boorman",
       "imdb_person_url": "https://www.imdb.com/name/nm0000958/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "Not Rated",
     "runtime_minutes": 92,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 9,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 9.0,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "80%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Crime",
@@ -531,36 +566,265 @@
       },
       {
         "name": "Angie Dickinson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001141/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001140/"
       },
       {
         "name": "Keenan Wynn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001870/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0943978/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After being double-crossed and left for dead, a mysterious man named Walker violently wreaks vengeance on his former partners.",
+    "description": "After being double-crossed and left for dead, a mysterious crook named Walker single-mindedly tries to retrieve the money that was stolen from him.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0062138/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/point_blank"
+  },
+  {
+    "title": "You Only Live Twice",
+    "year": 1967,
+    "director": {
+      "name": "Lewis Gilbert",
+      "imdb_person_url": "https://www.imdb.com/name/nm0318151/"
+    },
+    "production_studio": "Eon Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 117,
+    "budget_usd_millions": 9.5,
+    "gross_revenue_usd_millions": 111.6,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Sean Connery",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
+      },
+      {
+        "name": "Akiko Wakabayashi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0906689/"
+      },
+      {
+        "name": "Mie Hama",
+        "imdb_person_url": "https://www.imdb.com/name/nm0357283/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "James Bond and the Japanese Secret Service must find and stop the true culprit of a series of space hijackings, before war is provoked between Russia and the United States.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062504/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/you_only_live_twice"
+  },
+  {
+    "title": "Barefoot in the Park",
+    "year": 1967,
+    "director": {
+      "name": "Gene Saks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0757271/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "G",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 30.0,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Robert Redford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
+      },
+      {
+        "name": "Jane Fonda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
+      },
+      {
+        "name": "Charles Boyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000966/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Conservative young lawyer Paul Bratter marries the vivacious Corie. Their highly passionate relationship descends into comical discord in a five-flight New York City walk-up apartment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061385/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/barefoot_in_the_park"
+  },
+  {
+    "title": "To Sir, with Love",
+    "year": 1967,
+    "director": {
+      "name": "James Clavell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0165406/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "Passed",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 0.64,
+    "gross_revenue_usd_millions": 42.4,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Sidney Poitier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001627/"
+      },
+      {
+        "name": "Judy Geeson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002095/"
+      },
+      {
+        "name": "Christian Roberts",
+        "imdb_person_url": "https://www.imdb.com/name/nm0730913/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Idealistic engineer-trainee and his experiences in teaching a group of rambunctious white high school students from the slums of London's East End.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062376/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/to_sir_with_love"
+  },
+  {
+    "title": "Camelot",
+    "year": 1967,
+    "director": {
+      "name": "Joshua Logan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0517600/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "G",
+    "runtime_minutes": 179,
+    "budget_usd_millions": 13.0,
+    "gross_revenue_usd_millions": 31.5,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Richard Harris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
+      },
+      {
+        "name": "Vanessa Redgrave",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000603/"
+      },
+      {
+        "name": "Franco Nero",
+        "imdb_person_url": "https://www.imdb.com/name/nm0626259/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 3,
+    "oscars_won_details": [
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design",
+      "Best Music, Scoring of Music, Adaptation or Treatment"
+    ],
+    "description": "The story of the marriage of King Arthur to Guinevere. The plot of illegitimate Mordred to gain the throne and Guinevere's growing attachment to Sir Lancelot, threaten to topple the Round Table.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061439/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/camelot"
+  },
+  {
+    "title": "Doctor Dolittle",
+    "year": 1967,
+    "director": {
+      "name": "Richard Fleischer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001217/"
+    },
+    "production_studio": "20th Century Fox",
+    "mpaa_rating": "G",
+    "runtime_minutes": 152,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 9.0,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "30%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Rex Harrison",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
+      },
+      {
+        "name": "Samantha Eggar",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002058/"
+      },
+      {
+        "name": "Anthony Newley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0628045/"
+      }
+    ],
+    "oscars_nominated": 9,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Effects, Special Visual Effects",
+      "Best Music, Original Song"
+    ],
+    "description": "A doctor turns from treating people to treating animals and can speak their language.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061584/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/doctor_dolittle"
   },
   {
     "title": "Two for the Road",
     "year": 1967,
     "director": {
       "name": "Stanley Donen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0232478/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0002045/"
     },
     "production_studio": "Stanley Donen Films",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "PG",
     "runtime_minutes": 111,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 12,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 12.0,
     "ratings": {
       "imdb": 7.4,
-      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_critic": "82%",
       "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
@@ -579,383 +843,33 @@
       },
       {
         "name": "Eleanor Bron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001954/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0111364/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A couple in the south of France non-sequentially spin down the highways of memory, examining their twelve years of marriage.",
+    "description": "A couple in the south of France non-sequentially spin down the highways of infidelity in their troubled ten-year marriage.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0062407/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/two_for_the_road"
-  },
-  {
-    "title": "In Cold Blood",
-    "year": 1967,
-    "director": {
-      "name": "Richard Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0112139/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 13,
-    "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Robert Blake",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000945/"
-      },
-      {
-        "name": "Scott Wilson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001854/"
-      },
-      {
-        "name": "John Forsythe",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001236/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of two ex-convicts who break into a Kansas farm home, tie up the family of four, and murder them.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061809/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_cold_blood"
-  },
-  {
-    "title": "To Sir, with Love",
-    "year": 1967,
-    "director": {
-      "name": "James Clavell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001047/"
-    },
-    "production_studio": "Columbia British Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 0.64,
-    "gross_revenue_usd_millions": 42.4,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Sidney Poitier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000593/"
-      },
-      {
-        "name": "Christian Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0730999/"
-      },
-      {
-        "name": "Judy Geeson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0312012/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An idealistic engineer-trainee and his experiences in teaching a group of unruly white high school students from the slums of London's East End.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0062376/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/to_sir_with_love"
-  },
-  {
-    "title": "The Taming of the Shrew",
-    "year": 1967,
-    "director": {
-      "name": "Franco Zeffirelli",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001877/"
-    },
-    "production_studio": "Royal Films International",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 12,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Elizabeth Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
-      },
-      {
-        "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
-      },
-      {
-        "name": "Cyril Cusack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002030/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A wealthy Paduan merchant is trying to marry off his two daughters, but the younger, beautiful one cannot be married before her older, shrewish sister.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0062333/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/taming_of_the_shrew"
-  },
-  {
-    "title": "Doctor Dolittle",
-    "year": 1967,
-    "director": {
-      "name": "Richard Fleischer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0281697/"
-    },
-    "production_studio": "APJAC Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 152,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 9.1,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "29%",
-      "rotten_tomatoes_popcorn": "41%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Rex Harrison",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001322/"
-      },
-      {
-        "name": "Samantha Eggar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001174/"
-      },
-      {
-        "name": "Anthony Newley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001567/"
-      }
-    ],
-    "oscars_nominated": 9,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Music, Original Song",
-      "Best Effects, Special Visual Effects"
-    ],
-    "description": "A veterinarian who can talk to animals goes on a quest to find the legendary Great Pink Sea Snail.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061584/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005991-doctor_dolittle"
-  },
-  {
-    "title": "Belle de Jour",
-    "year": 1967,
-    "director": {
-      "name": "Luis Buñuel",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000320/"
-    },
-    "production_studio": "Paris Film Production",
-    "mpaa_rating": "R",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 4.1,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "95%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Catherine Deneuve",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000366/"
-      },
-      {
-        "name": "Jean Sorel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0814785/"
-      },
-      {
-        "name": "Michel Piccoli",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A beautiful but frigid young housewife decides to spend her weekday afternoons as a prostitute.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061395/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/belle_de_jour"
-  },
-  {
-    "title": "The Producers",
-    "year": 1967,
-    "director": {
-      "name": "Mel Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000316/"
-    },
-    "production_studio": "Embassy Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 0.941,
-    "gross_revenue_usd_millions": 0.3,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Zero Mostel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001550/"
-      },
-      {
-        "name": "Gene Wilder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
-      },
-      {
-        "name": "Dick Shawn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0790100/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Writing, Story and Screenplay - Written Directly for the Screen"
-    ],
-    "description": "A failing producer and his accountant scheme to produce a Broadway flop and make off with the investors' money.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0063462/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016824-producers"
-  },
-  {
-    "title": "Far from the Madding Crowd",
-    "year": 1967,
-    "director": {
-      "name": "John Schlesinger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001704/"
-    },
-    "production_studio": "Appia Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 168,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 2.5,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "64%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Drama",
-      "History",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Julie Christie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
-      },
-      {
-        "name": "Terence Stamp",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000648/"
-      },
-      {
-        "name": "Peter Finch",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001214/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of a beautiful and independent young woman in Victorian England who is courted by three very different men.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061648/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/far_from_the_madding_crowd"
-  },
-  {
-    "title": "Barefoot in the Park",
-    "year": 1967,
-    "director": {
-      "name": "Gene Saks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0757471/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "G",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 30,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Robert Redford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000602/"
-      },
-      {
-        "name": "Jane Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
-      },
-      {
-        "name": "Charles Boyer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000965/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A newlywed couple's blissful marriage is tested when they move into a small, fifth-floor walk-up apartment in New York City.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061385/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/barefoot_in_the_park"
   },
   {
     "title": "The Fearless Vampire Killers",
     "year": 1967,
     "director": {
       "name": "Roman Polanski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000591/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer British Studios",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Cadre Films",
+    "mpaa_rating": "PG-13",
     "runtime_minutes": 108,
-    "budget_usd_millions": 1.9,
-    "gross_revenue_usd_millions": 1.1,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.0,
+      "imdb": 7.1,
       "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "74%"
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
       "Comedy",
@@ -964,24 +878,758 @@
     "actors": [
       {
         "name": "Jack MacGowran",
-        "imdb_person_url": "https://www.imdb.com/name/nm0532297/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0532292/"
       },
       {
         "name": "Roman Polanski",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000591/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000204/"
       },
       {
         "name": "Sharon Tate",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001788/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000666/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A bumbling professor and his inept assistant travel to a remote Transylvanian village to hunt vampires.",
+    "description": "A dedicated professor and his timid assistant arrive in Transylvania to destroy the vampires and rescue a beautiful damsel in distress.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0061655/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fearless_vampire_killers"
+  },
+  {
+    "title": "Bedazzled",
+    "year": 1967,
+    "director": {
+      "name": "Stanley Donen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002045/"
+    },
+    "production_studio": "Stanley Donen Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 103,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Peter Cook",
+        "imdb_person_url": "https://www.imdb.com/name/nm0177228/"
+      },
+      {
+        "name": "Dudley Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001547/"
+      },
+      {
+        "name": "Eleanor Bron",
+        "imdb_person_url": "https://www.imdb.com/name/nm0111364/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A hopeless young man sells his soul to the Devil in exchange for seven wishes, but trouble ensues when each wish goes wrong.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061391/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1001948-bedazzled"
+  },
+  {
+    "title": "Far from the Madding Crowd",
+    "year": 1967,
+    "director": {
+      "name": "John Schlesinger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001705/"
+    },
+    "production_studio": "Vic Films Productions",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 168,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 12.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Julie Christie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
+      },
+      {
+        "name": "Peter Finch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002075/"
+      },
+      {
+        "name": "Alan Bates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000868/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Bathsheba Everdene, a willful, flirtatious, young woman, unexpectedly inherits a large farm and is romantically pursued by three very different men.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061648/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1007056-far_from_the_madding_crowd"
+  },
+  {
+    "title": "The Young Girls of Rochefort",
+    "year": 1967,
+    "director": {
+      "name": "Jacques Demy",
+      "imdb_person_url": "https://www.imdb.com/name/nm0218790/"
+    },
+    "production_studio": "Madeleine Films",
+    "mpaa_rating": "G",
+    "runtime_minutes": 125,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Catherine Deneuve",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000363/"
+      },
+      {
+        "name": "George Chakiris",
+        "imdb_person_url": "https://www.imdb.com/name/nm0149791/"
+      },
+      {
+        "name": "Françoise Dorléac",
+        "imdb_person_url": "https://www.imdb.com/name/nm0233668/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two sisters leave their small seaside town of Rochefort in search of romance. Hired as carnival singers, one falls for an American musician, while the other searches for her ideal partner.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061590/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/young_girls_of_rochefort"
+  },
+  {
+    "title": "Weekend",
+    "year": 1967,
+    "director": {
+      "name": "Jean-Luc Godard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000419/"
+    },
+    "production_studio": "Cinecidi",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 0.25,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Mireille Darc",
+        "imdb_person_url": "https://www.imdb.com/name/nm0201026/"
+      },
+      {
+        "name": "Jean Yanne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0946114/"
+      },
+      {
+        "name": "Jean-Pierre Kalfon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0435677/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A surreal tale of a married couple going on a road trip to visit the wife's parents with the intention of killing them for the inheritance.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062480/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/weekend_1967"
+  },
+  {
+    "title": "Samurai Rebellion",
+    "year": 1967,
+    "director": {
+      "name": "Masaki Kobayashi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0462039/"
+    },
+    "production_studio": "Toho Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 128,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Toshirô Mifune",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001536/"
+      },
+      {
+        "name": "Yôko Tsukasa",
+        "imdb_person_url": "https://www.imdb.com/name/nm0875323/"
+      },
+      {
+        "name": "Gô Katô",
+        "imdb_person_url": "https://www.imdb.com/name/nm0441584/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The mother of a feudal lord's only heir is kidnapped away from her husband by the lord. The husband and his samurai father must decide whether to accept the unjust decision, or risk death to get her back.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061869/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/samurai_rebellion"
+  },
+  {
+    "title": "Marketa Lazarová",
+    "year": 1967,
+    "director": {
+      "name": "Frantisek Vlácil",
+      "imdb_person_url": "https://www.imdb.com/name/nm0900725/"
+    },
+    "production_studio": "Filmové studio Barrandov",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 162,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Josef Kemr",
+        "imdb_person_url": "https://www.imdb.com/name/nm0447385/"
+      },
+      {
+        "name": "Magda Vásáryová",
+        "imdb_person_url": "https://www.imdb.com/name/nm0904671/"
+      },
+      {
+        "name": "Nada Hejna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0374620/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the middle ages, a daughter of a feudal lord is kidnapped by neighbouring robber knights and becomes the mistress of one of them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061955/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/marketa_lazarova"
+  },
+  {
+    "title": "The Firemen's Ball",
+    "year": 1967,
+    "director": {
+      "name": "Milos Forman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002080/"
+    },
+    "production_studio": "Filmové studio Barrandov",
+    "mpaa_rating": "G",
+    "runtime_minutes": 71,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jan Vostrcil",
+        "imdb_person_url": "https://www.imdb.com/name/nm0903823/"
+      },
+      {
+        "name": "Josef Sebánek",
+        "imdb_person_url": "https://www.imdb.com/name/nm0781033/"
+      },
+      {
+        "name": "Josef Valnoha",
+        "imdb_person_url": "https://www.imdb.com/name/nm0885235/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A volunteer fire department throws a party for their dying ex-boss, but everything goes wrong.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061834/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/firemens_ball"
+  },
+  {
+    "title": "Mouchette",
+    "year": 1967,
+    "director": {
+      "name": "Robert Bresson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000975/"
+    },
+    "production_studio": "Argos Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 81,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Nadine Nortier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0636040/"
+      },
+      {
+        "name": "Jean-Claude Guilbert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0346932/"
+      },
+      {
+        "name": "Marie Cardinal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0136427/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young girl living in the French countryside lives a life of abject misery with her dying mother and alcoholic father.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061996/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mouchette"
+  },
+  {
+    "title": "Branded to Kill",
+    "year": 1967,
+    "director": {
+      "name": "Seijun Suzuki",
+      "imdb_person_url": "https://www.imdb.com/name/nm0840669/"
+    },
+    "production_studio": "Nikkatsu",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jô Shishido",
+        "imdb_person_url": "https://www.imdb.com/name/nm0794406/"
+      },
+      {
+        "name": "Kôji Nanbara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0620822/"
+      },
+      {
+        "name": "Isao Tamagawa",
+        "imdb_person_url": "https://www.imdb.com/name/nm0848419/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A yakuza hitman ranked as the No. 3 killer in the Japanese underworld, takes a job and soon finds himself the target of the No. 1 killer.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061862/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/branded_to_kill"
+  },
+  {
+    "title": "Dragon Inn",
+    "year": 1967,
+    "director": {
+      "name": "King Hu",
+      "imdb_person_url": "https://www.imdb.com/name/nm0398863/"
+    },
+    "production_studio": "Union Film Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 111,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "actors": [
+      {
+        "name": "Lingfeng Shangguan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0788118/"
+      },
+      {
+        "name": "Chun Shih",
+        "imdb_person_url": "https://www.imdb.com/name/nm0793405/"
+      },
+      {
+        "name": "Ying Bai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0046988/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The children of an executed general are pursued by the secret police but are aided by a group of heroic martial artists.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061922/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dragon_inn"
+  },
+  {
+    "title": "A Colt Is My Passport",
+    "year": 1967,
+    "director": {
+      "name": "Takashi Nomura",
+      "imdb_person_url": "https://www.imdb.com/name/nm0634629/"
+    },
+    "production_studio": "Nikkatsu",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 84,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jô Shishido",
+        "imdb_person_url": "https://www.imdb.com/name/nm0794406/"
+      },
+      {
+        "name": "Jerry Fujio",
+        "imdb_person_url": "https://www.imdb.com/name/nm1060938/"
+      },
+      {
+        "name": "Chitose Kobayashi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0461986/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A hitman and his partner are hired to take out a mob boss, but soon find themselves betrayed and on the run.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061864/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_colt_is_my_passport"
+  },
+  {
+    "title": "Viy",
+    "year": 1967,
+    "director": {
+      "name": "Konstantin Yershov",
+      "imdb_person_url": "https://www.imdb.com/name/nm0947545/"
+    },
+    "production_studio": "Mosfilm",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 77,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Leonid Kuravlyov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0475586/"
+      },
+      {
+        "name": "Natalya Varley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0890013/"
+      },
+      {
+        "name": "Aleksey Glazyrin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0322129/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young seminary student is forced to spend three nights praying over the corpse of a witch who died after he beat her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062453/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/viy"
+  },
+  {
+    "title": "Hombre",
+    "year": 1967,
+    "director": {
+      "name": "Martin Ritt",
+      "imdb_person_url": "https://www.imdb.com/name/nm0728669/"
+    },
+    "production_studio": "Hombre Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 111,
+    "budget_usd_millions": 5.86,
+    "gross_revenue_usd_millions": 12.0,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Western"
+    ],
+    "actors": [
+      {
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
+      },
+      {
+        "name": "Fredric March",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000521/"
+      },
+      {
+        "name": "Richard Boone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0095521/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "John Russell, a white man raised by Apaches, faces prejudice from the passengers of a stagecoach until they are robbed and he becomes their only hope for survival.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061770/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hombre"
+  },
+  {
+    "title": "Reflections in a Golden Eye",
+    "year": 1967,
+    "director": {
+      "name": "John Huston",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "M",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "54%",
+      "rotten_tomatoes_popcorn": "49%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Elizabeth Taylor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
+      },
+      {
+        "name": "Marlon Brando",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
+      },
+      {
+        "name": "Brian Keith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001417/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A repressed homosexual Army officer, his unsatisfied wife, and a private become involved in a tragedy of desire and jealousy on a Southern army base.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062185/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/reflections_in_a_golden_eye"
+  },
+  {
+    "title": "Up the Down Staircase",
+    "year": 1967,
+    "director": {
+      "name": "Robert Mulligan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0612262/"
+    },
+    "production_studio": "Park Place Production",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 124,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 9.8,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Sandy Dennis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002040/"
+      },
+      {
+        "name": "Patrick Bedford",
+        "imdb_person_url": "https://www.imdb.com/name/nm0066038/"
+      },
+      {
+        "name": "Eileen Heckart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0373030/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A new teacher at an inner-city high school struggles to connect with her students while battling the school's bureaucracy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062425/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/up_the_down_staircase"
+  },
+  {
+    "title": "The Whisperers",
+    "year": 1967,
+    "director": {
+      "name": "Bryan Forbes",
+      "imdb_person_url": "https://www.imdb.com/name/nm0285292/"
+    },
+    "production_studio": "Seven Pines",
+    "mpaa_rating": "M",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Edith Evans",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002066/"
+      },
+      {
+        "name": "Eric Portman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0692288/"
+      },
+      {
+        "name": "Nanette Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0628205/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An elderly, poor, eccentric woman living in a ground floor flat imagines that she is being spied on by people in the flat upstairs.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062489/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whisperers"
+  },
+  {
+    "title": "Divorce American Style",
+    "year": 1967,
+    "director": {
+      "name": "Bud Yorkin",
+      "imdb_person_url": "https://www.imdb.com/name/nm0948834/"
+    },
+    "production_studio": "Tandem Enterprises",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 109,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 5.15,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Dick Van Dyke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001813/"
+      },
+      {
+        "name": "Debbie Reynolds",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001666/"
+      },
+      {
+        "name": "Jason Robards",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After 17 years, a suburban couple drifts toward divorce, then finds that the split is not as easy or liberating as they expected.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061579/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/divorce_american_style"
   },
   {
     "title": "Thoroughly Modern Millie",
@@ -993,11 +1641,11 @@
     "production_studio": "Ross Hunter Productions",
     "mpaa_rating": "G",
     "runtime_minutes": 138,
-    "budget_usd_millions": 6,
+    "budget_usd_millions": 6.0,
     "gross_revenue_usd_millions": 34.3,
     "ratings": {
       "imdb": 6.9,
-      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_critic": "90%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
@@ -1011,12 +1659,12 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000267/"
       },
       {
-        "name": "James Fox",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001231/"
+        "name": "Mary Tyler Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000547/"
       },
       {
-        "name": "Mary Tyler Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001546/"
+        "name": "Carol Channing",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002001/"
       }
     ],
     "oscars_nominated": 7,
@@ -1024,74 +1672,491 @@
     "oscars_won_details": [
       "Best Music, Original Music Score"
     ],
-    "description": "A young woman from a small town moves to New York City in the 1920s to marry a wealthy man, but her plans are complicated by a series of comic misadventures.",
+    "description": "An innocent small-town girl comes to the big city in search of a husband and becomes involved in a white slavery ring.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0062362/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thoroughly_modern_millie"
   },
   {
-    "title": "Casino Royale",
+    "title": "The Taming of the Shrew",
     "year": 1967,
     "director": {
-      "name": "Ken Hughes, John Huston, Joseph McGrath, Robert Parrish, Val Guest",
-      "imdb_person_url": "https://www.imdb.com/name/nm0400688/"
+      "name": "Franco Zeffirelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001874/"
     },
-    "production_studio": "Famous Artists Productions",
+    "production_studio": "Royal Films International",
     "mpaa_rating": "Not Rated",
-    "runtime_minutes": 131,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 41.7,
+    "runtime_minutes": 122,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": 8.0,
     "ratings": {
-      "imdb": 5.0,
-      "rotten_tomatoes_critic": "25%",
-      "rotten_tomatoes_popcorn": "35%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
-      "Comedy"
+      "Comedy",
+      "Drama",
+      "Romance"
     ],
     "actors": [
       {
-        "name": "David Niven",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000055/"
+        "name": "Elizabeth Taylor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
       },
       {
-        "name": "Peter Sellers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
+        "name": "Richard Burton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
       },
       {
-        "name": "Ursula Andress",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000266/"
+        "name": "Cyril Cusack",
+        "imdb_person_url": "https://www.imdb.com/name/nm0193630/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In an early spy spoof, aging Sir James Bond comes out of retirement to take on SMERSH.",
+    "description": "Brutish, fortune-hunting Petruchio tames his wealthy, shrewish wife, Katharina.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061452/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/casino_royale"
+    "imdb_url": "https://www.imdb.com/title/tt0062336/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1020815-taming_of_the_shrew"
+  },
+  {
+    "title": "Quatermass and the Pit",
+    "year": 1967,
+    "director": {
+      "name": "Roy Ward Baker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0048906/"
+    },
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "75%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "James Donald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0232148/"
+      },
+      {
+        "name": "Andrew Keir",
+        "imdb_person_url": "https://www.imdb.com/name/nm0445039/"
+      },
+      {
+        "name": "Barbara Shelley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0791168/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mysterious artifact is unearthed in London, and famous scientist Bernard Quatermass is called in to divine its origins and explain the strange effects on people.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062168/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quatermass_and_the_pit"
+  },
+  {
+    "title": "Frankenstein Created Woman",
+    "year": 1967,
+    "director": {
+      "name": "Terence Fisher",
+      "imdb_person_url": "https://www.imdb.com/name/nm0279816/"
+    },
+    "production_studio": "Hammer Film Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 92,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "62%",
+      "rotten_tomatoes_popcorn": "47%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Peter Cushing",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001088/"
+      },
+      {
+        "name": "Susan Denberg",
+        "imdb_person_url": "https://www.imdb.com/name/nm0218940/"
+      },
+      {
+        "name": "Thorley Walters",
+        "imdb_person_url": "https://www.imdb.com/name/nm0910390/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After being reanimated, Baron Frankenstein transfers the soul of an executed young man into the body of his lover, prompting her to kill the men who wronged them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061685/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/frankenstein_created_woman"
+  },
+  {
+    "title": "The Sorcerers",
+    "year": 1967,
+    "director": {
+      "name": "Michael Reeves",
+      "imdb_person_url": "https://www.imdb.com/name/nm0716262/"
+    },
+    "production_studio": "Curtwel Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 87,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.4,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "47%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Boris Karloff",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000472/"
+      },
+      {
+        "name": "Catherine Lacey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0479986/"
+      },
+      {
+        "name": "Ian Ogilvy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0644675/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An elderly couple invent a mind control device and use it to control a young man to experience new thrills.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062288/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sorcerers"
+  },
+  {
+    "title": "Don't Look Back",
+    "year": 1967,
+    "director": {
+      "name": "D.A. Pennebaker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0672061/"
+    },
+    "production_studio": "Leacock-Pennebaker",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Bob Dylan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001168/"
+      },
+      {
+        "name": "Albert Grossman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0343564/"
+      },
+      {
+        "name": "Bob Neuwirth",
+        "imdb_person_url": "https://www.imdb.com/name/nm0627259/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Documentary covering Bob Dylan's 1965 tour of England, capturing the atmosphere of his concerts and his interactions with fans and the press.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061588/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dont_look_back"
+  },
+  {
+    "title": "Titicut Follies",
+    "year": 1967,
+    "director": {
+      "name": "Frederick Wiseman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0936466/"
+    },
+    "production_studio": "Titicut Follies Distributing Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 84,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Documentary"
+    ],
+    "actors": [],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A stark and graphic documentary exposing the conditions at the Massachusetts Correctional Institution at Bridgewater for the criminally insane.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062374/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/titicut_follies"
+  },
+  {
+    "title": "La Chinoise",
+    "year": 1967,
+    "director": {
+      "name": "Jean-Luc Godard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000419/"
+    },
+    "production_studio": "Anouchka Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Anne Wiazemsky",
+        "imdb_person_url": "https://www.imdb.com/name/nm0924467/"
+      },
+      {
+        "name": "Jean-Pierre Léaud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0529596/"
+      },
+      {
+        "name": "Juliet Berto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0078125/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A small group of French students are studying Mao, trying to find out their position in the world and how to change the world to a Maoist community using terrorism.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061473/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_chinoise"
+  },
+  {
+    "title": "The Stranger",
+    "year": 1967,
+    "director": {
+      "name": "Luchino Visconti",
+      "imdb_person_url": "https://www.imdb.com/name/nm0899577/"
+    },
+    "production_studio": "Dino de Laurentiis Cinematografica",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Marcello Mastroianni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000052/"
+      },
+      {
+        "name": "Anna Karina",
+        "imdb_person_url": "https://www.imdb.com/name/nm0439343/"
+      },
+      {
+        "name": "Bernard Blier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0088365/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Arthur Meursault, a French man living in Algiers during the 1930s, is seemingly indifferent to everything, from his mother's death to killing an Arab man on the beach.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0062310/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1051515-stranger"
+  },
+  {
+    "title": "Oedipus Rex",
+    "year": 1967,
+    "director": {
+      "name": "Pier Paolo Pasolini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000574/"
+    },
+    "production_studio": "Arco Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Silvana Mangano",
+        "imdb_person_url": "https://www.imdb.com/name/nm0542146/"
+      },
+      {
+        "name": "Franco Citti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0162947/"
+      },
+      {
+        "name": "Alida Valli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0885060/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In pre-war Italy, a young couple have a baby boy. The father, motivated by jealousy, takes the baby into the desert to be abandoned.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061614/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/oedipus_rex"
+  },
+  {
+    "title": "I Am Curious (Yellow)",
+    "year": 1967,
+    "director": {
+      "name": "Vilgot Sjöman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0803672/"
+    },
+    "production_studio": "Sandrew",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 121,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 8.0,
+    "ratings": {
+      "imdb": 6.1,
+      "rotten_tomatoes_critic": "52%",
+      "rotten_tomatoes_popcorn": "35%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Lena Nyman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0638753/"
+      },
+      {
+        "name": "Vilgot Sjöman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0803672/"
+      },
+      {
+        "name": "Börje Ahlstedt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0014022/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young woman explores her sexuality and social conscience in 1960s Sweden.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061834/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/i_am_curious_yellow"
+  },
+  {
+    "title": "How to Succeed in Business Without Really Trying",
+    "year": 1967,
+    "director": {
+      "name": "David Swift",
+      "imdb_person_url": "https://www.imdb.com/name/nm0842571/"
+    },
+    "production_studio": "The Mirisch Corporation",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 121,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "actors": [
+      {
+        "name": "Robert Morse",
+        "imdb_person_url": "https://www.imdb.com/name/nm0607669/"
+      },
+      {
+        "name": "Michele Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0497887/"
+      },
+      {
+        "name": "Rudy Vallee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0885002/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A window washer finds a book on how to get ahead in the business world and follows its advice to the letter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0061791/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/how_to_succeed_in_business_without_really_trying"
   },
   {
     "title": "The President's Analyst",
     "year": 1967,
     "director": {
       "name": "Theodore J. Flicker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0282464/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0282305/"
     },
-    "production_studio": "Panpiper",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "Approved",
     "runtime_minutes": 103,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.9,
+      "imdb": 6.8,
       "rotten_tomatoes_critic": "79%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Comedy",
-      "Sci-Fi",
-      "Thriller"
+      "Sci-Fi"
     ],
     "actors": [
       {
@@ -1100,428 +2165,40 @@
       },
       {
         "name": "Godfrey Cambridge",
-        "imdb_person_url": "https://www.imdb.com/name/nm0131494/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0131376/"
       },
       {
         "name": "Severn Darden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0201108/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0201083/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The President's psychiatrist becomes a target for spies and counterspies when he gets tired of the stress of the job.",
+    "description": "A psychiatrist is selected to treat the President of the United States, but the stress of the job makes him paranoid and he runs away.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0062153/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/presidents_analyst"
-  },
-  {
-    "title": "Playtime",
-    "year": 1967,
-    "director": {
-      "name": "Jacques Tati",
-      "imdb_person_url": "https://www.imdb.com/name/nm0004244/"
-    },
-    "production_studio": "Specta Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 124,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Jacques Tati",
-        "imdb_person_url": "https://www.imdb.com/name/nm0004244/"
-      },
-      {
-        "name": "Barbara Dennek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0219323/"
-      },
-      {
-        "name": "Rita Maiden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0537446/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Monsieur Hulot wanders through a futuristic, high-tech Paris.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0062136/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/playtime"
-  },
-  {
-    "title": "The Trip",
-    "year": 1967,
-    "director": {
-      "name": "Roger Corman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000339/"
-    },
-    "production_studio": "American International Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 79,
-    "budget_usd_millions": 0.1,
-    "gross_revenue_usd_millions": 6,
-    "ratings": {
-      "imdb": 6.0,
-      "rotten_tomatoes_critic": "44%",
-      "rotten_tomatoes_popcorn": "46%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Peter Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
-      },
-      {
-        "name": "Susan Strasberg",
-        "imdb_person_url": "https://www.imdb.com/name/nm0833441/"
-      },
-      {
-        "name": "Bruce Dern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A television commercial director takes his first LSD trip.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0062395/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_trip"
-  },
-  {
-    "title": "Samurai Rebellion",
-    "year": 1967,
-    "director": {
-      "name": "Masaki Kobayashi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0462030/"
-    },
-    "production_studio": "Toho Company",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 128,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.3,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
-    },
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Toshirô Mifune",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001536/"
-      },
-      {
-        "name": "Yôko Tsukasa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0875429/"
-      },
-      {
-        "name": "Gô Katô",
-        "imdb_person_url": "https://www.imdb.com/name/nm0441223/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In 18th-century Japan, a samurai defies his feudal lord and risks his life to protect his family.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061847/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/samurai_rebellion"
-  },
-  {
-    "title": "The Young Girls of Rochefort",
-    "year": 1967,
-    "director": {
-      "name": "Jacques Demy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0218939/"
-    },
-    "production_studio": "Parc Film",
-    "mpaa_rating": "G",
-    "runtime_minutes": 125,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Catherine Deneuve",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000366/"
-      },
-      {
-        "name": "Françoise Dorléac",
-        "imdb_person_url": "https://www.imdb.com/name/nm0233777/"
-      },
-      {
-        "name": "Gene Kelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000037/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two sisters, a dance instructor and a music teacher, dream of finding love and fame in Paris.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061554/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_young_girls_of_rochefort"
-  },
-  {
-    "title": "Branded to Kill",
-    "year": 1967,
-    "director": {
-      "name": "Seijun Suzuki",
-      "imdb_person_url": "https://www.imdb.com/name/nm0840620/"
-    },
-    "production_studio": "Nikkatsu",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 91,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Action",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Jô Shishido",
-        "imdb_person_url": "https://www.imdb.com/name/nm0794354/"
-      },
-      {
-        "name": "Mariko Ogawa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0644485/"
-      },
-      {
-        "name": "Annu Mari",
-        "imdb_person_url": "https://www.imdb.com/name/nm0550348/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The number three killer in Japan is hired by a mysterious woman to do a job, but he soon finds himself the target of the number one killer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061882/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/branded_to_kill"
-  },
-  {
-    "title": "Closely Watched Trains",
-    "year": 1967,
-    "director": {
-      "name": "Jirí Menzel",
-      "imdb_person_url": "https://www.imdb.com/name/nm0579895/"
-    },
-    "production_studio": "Filmové studio Barrandov",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 93,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1.5,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Václav Neckár",
-        "imdb_person_url": "https://www.imdb.com/name/nm0624083/"
-      },
-      {
-        "name": "Jitka Bendová",
-        "imdb_person_url": "https://www.imdb.com/name/nm0070776/"
-      },
-      {
-        "name": "Vladimír Valenta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0884260/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "During the German occupation of Czechoslovakia, a young man working at a train station finds himself embroiled in a plot to blow up a German munitions train.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060802/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/closely_watched_trains"
-  },
-  {
-    "title": "Bedazzled",
-    "year": 1967,
-    "director": {
-      "name": "Stanley Donen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0232478/"
-    },
-    "production_studio": "Stanley Donen Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 0.7,
-    "gross_revenue_usd_millions": 1.2,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "53%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Peter Cook",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001068/"
-      },
-      {
-        "name": "Dudley Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001546/"
-      },
-      {
-        "name": "Eleanor Bron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001954/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A meek man sells his soul to the devil for seven wishes, but the devil finds a way to twist each wish into a comic disaster.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061391/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1001859-bedazzled"
-  },
-  {
-    "title": "How I Won the War",
-    "year": 1967,
-    "director": {
-      "name": "Richard Lester",
-      "imdb_person_url": "https://www.imdb.com/name/nm0504495/"
-    },
-    "production_studio": "Petersham Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 109,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1.1,
-    "ratings": {
-      "imdb": 5.7,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "45%"
-    },
-    "genres": [
-      "Comedy",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Michael Crawford",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001077/"
-      },
-      {
-        "name": "John Lennon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001468/"
-      },
-      {
-        "name": "Roy Kinnear",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An inept British officer leads his platoon through a series of misadventures in World War II.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061789/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/how_i_won_the_war"
-  },
-  {
-    "title": "Hombre",
-    "year": 1967,
-    "director": {
-      "name": "Martin Ritt",
-      "imdb_person_url": "https://www.imdb.com/name/nm0728682/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 111,
-    "budget_usd_millions": 5.9,
-    "gross_revenue_usd_millions": 12,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Fredric March",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001503/"
-      },
-      {
-        "name": "Richard Boone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000942/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A white man raised by Apaches must confront his own divided loyalties when he and a group of strangers are attacked by outlaws.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061770/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hombre"
   },
   {
     "title": "The War Wagon",
     "year": 1967,
     "director": {
       "name": "Burt Kennedy",
-      "imdb_person_url": "https://www.imdb.com/name/nm0448046/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0447953/"
     },
     "production_studio": "Batjac Productions",
-    "mpaa_rating": "Not Rated",
+    "mpaa_rating": "M",
     "runtime_minutes": 101,
-    "budget_usd_millions": 2.8,
-    "gross_revenue_usd_millions": 6.3,
+    "budget_usd_millions": 4.14,
+    "gross_revenue_usd_millions": 5.95,
     "ratings": {
       "imdb": 6.8,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "80%"
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
+      "Action",
       "Western"
     ],
     "actors": [
@@ -1535,275 +2212,59 @@
       },
       {
         "name": "Howard Keel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001416/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0444458/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A man who was framed and sent to prison returns to seek revenge on the man who wronged him and steal a shipment of gold.",
+    "description": "A cowboy joins forces with an Indian to steal a gold shipment from a man who framed him years earlier.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0062472/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/war_wagon"
   },
   {
-    "title": "El Dorado",
+    "title": "The Incident",
     "year": 1967,
     "director": {
-      "name": "Howard Hawks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001328/"
+      "name": "Larry Peerce",
+      "imdb_person_url": "https://www.imdb.com/name/nm0670271/"
     },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 4.6,
-    "gross_revenue_usd_millions": 12,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Drama",
-      "Romance",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "John Wayne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000078/"
-      },
-      {
-        "name": "Robert Mitchum",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000053/"
-      },
-      {
-        "name": "James Caan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A gunfighter comes to the aid of an old friend, a drunken sheriff, in a range war.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061619/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/el_dorado"
-  },
-  {
-    "title": "A Countess from Hong Kong",
-    "year": 1967,
-    "director": {
-      "name": "Charles Chaplin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000122/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 120,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 2,
-    "ratings": {
-      "imdb": 6.0,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "36%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Marlon Brando",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000008/"
-      },
-      {
-        "name": "Sophia Loren",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000047/"
-      },
-      {
-        "name": "Sydney Chaplin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0152223/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A Russian countess stows away in the cabin of an American diplomat on a cruise ship.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061523/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_countess_from_hong_kong"
-  },
-  {
-    "title": "The Valley of the Dolls",
-    "year": 1967,
-    "director": {
-      "name": "Mark Robson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0733470/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 123,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 44.4,
-    "ratings": {
-      "imdb": 5.4,
-      "rotten_tomatoes_critic": "31%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Barbara Parkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001594/"
-      },
-      {
-        "name": "Patty Duke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001157/"
-      },
-      {
-        "name": "Sharon Tate",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001788/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Three young women in show business fall prey to the pressures of fame and fortune.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0062430/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/valley_of_the_dolls"
-  },
-  {
-    "title": "The St. Valentine's Day Massacre",
-    "year": 1967,
-    "director": {
-      "name": "Roger Corman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000339/"
-    },
-    "production_studio": "Los Altos Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 2.6,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Jason Robards",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001673/"
-      },
-      {
-        "name": "George Segal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001718/"
-      },
-      {
-        "name": "Ralph Meeker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0576184/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of the 1929 Chicago massacre, in which Al Capone's men gunned down seven members of a rival gang.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0062301/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/st_valentines_day_massacre"
-  },
-  {
-    "title": "The Comedians",
-    "year": 1967,
-    "director": {
-      "name": "Peter Glenville",
-      "imdb_person_url": "https://www.imdb.com/name/nm0322474/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 152,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 5.3,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "55%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
-      },
-      {
-        "name": "Elizabeth Taylor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000072/"
-      },
-      {
-        "name": "Alec Guinness",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000027/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A group of people in Haiti under the brutal Duvalier regime find their lives intersecting in unexpected ways.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0061502/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_comedians"
-  },
-  {
-    "title": "Dragon Inn",
-    "year": 1967,
-    "director": {
-      "name": "King Hu",
-      "imdb_person_url": "https://www.imdb.com/name/nm0398925/"
-    },
-    "production_studio": "Union Film Company",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 111,
-    "budget_usd_millions": null,
+    "production_studio": "Moned",
+    "mpaa_rating": "Approved",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 1.05,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "91%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Action",
-      "Adventure"
+      "Crime",
+      "Drama",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Lingfeng Shangguan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0788390/"
+        "name": "Tony Musante",
+        "imdb_person_url": "https://www.imdb.com/name/nm0615582/"
       },
       {
-        "name": "Chun Shih",
-        "imdb_person_url": "https://www.imdb.com/name/nm0793753/"
+        "name": "Martin Sheen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000640/"
       },
       {
-        "name": "Ying Bai",
-        "imdb_person_url": "https://www.imdb.com/name/nm0047321/"
+        "name": "Beau Bridges",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000312/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "During the Ming dynasty, the emperor's minister of defense is framed by a corrupt eunuch and executed, and his children are exiled. As the children are being escorted to the border, the eunuch plots to have them killed.",
+    "description": "Two young hoodlums terrorize the passengers of a New York City subway train.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0060635/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dragon-inn-1967"
+    "imdb_url": "https://www.imdb.com/title/tt0061814/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/incident_1967"
   }
 ]

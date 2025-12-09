@@ -304,7 +304,7 @@
           <input id="director" type="text" placeholder="e.g. Hitchcock" />
         </div>
         <div class="col" style="grid-column: span 3;">
-          <label for="actor">Actor contains</label>
+          <label for="actor">Actor(s) (comma-separated)</label>
           <input id="actor" type="text" placeholder="e.g. Gable, Hepburn" />
         </div>
         <div class="col" style="grid-column: span 3;">
@@ -340,20 +340,20 @@
         </div>
       </div>
 
-      <div class="section-title" style="margin-top:14px">API Actions</div>
       <div class="actions">
         <button class="btn" id="btnSearch">Search</button>
         <button class="btn secondary" id="btnClear" title="Clear all filters">Clear</button>
+        <!-- Results tally pill (kept sticky, matches af.html) -->
+        <span id="resultCount" class="kpi" style="display:none"></span>
+        <!-- Quick switch to Actor Filmographies view -->
+        <span style="align-self:center; color: var(--muted); font-size: 12px;">View</span>
+        <a href="af.html" class="btn secondary" id="btnViewAF" title="Switch to Actor Filmographies">Actor Filmography</a>
       </div>
       
     </div>
 
     <div class="results">
       <div class="panel">
-        <div id="resultsHeader" class="results-header">
-          <div class="section-title" style="margin: 6px 2px 2px;">Results</div>
-          <div id="kpis" style="display:flex; gap:8px; flex-wrap:wrap;"></div>
-        </div>
         <div id="results"></div>
       </div>
     </div>
@@ -760,6 +760,8 @@
 
     function setKPIs(listCount, raw) {
       const k = el('kpis');
+      // If KPI container is removed from the page, safely no-op
+      if (!k) return;
       const parts = [];
       if (typeof listCount === 'number') parts.push(kpi(`${listCount} item${listCount!==1?'s':''}`));
       if (raw && typeof raw === 'object' && !Array.isArray(raw)) parts.push(kpi(`${Object.keys(raw).length} keys`));
@@ -767,9 +769,26 @@
     }
     function kpi(text) { return `<span class="kpi">${escapeHtml(text)}</span>`; }
 
+    // Mirror af.html behavior: sticky results tally next to Clear button
+    function setResultCount(n) {
+      const rc = el('resultCount');
+      if (!rc) return;
+      if (typeof n === 'number') {
+        rc.textContent = `${n} result${n === 1 ? '' : 's'}`;
+        rc.style.display = 'inline-block';
+      } else {
+        rc.textContent = '';
+        rc.style.display = 'none';
+      }
+    }
+
     async function handle(button, fn) {
       try { showLoading(button, true); await fn(); }
-      catch (e) { el('results').innerHTML = `<div class="panel" style="border-color:#fecaca;background:#fff1f2;color:#7f1d1d">Error: ${escapeHtml(e.message || String(e))}</div>`; }
+      catch (e) {
+        el('results').innerHTML = `<div class="panel" style="border-color:#fecaca;background:#fff1f2;color:#7f1d1d">Error: ${escapeHtml(e.message || String(e))}</div>`;
+        // Hide tally on errors to match af.html behavior
+        setResultCount(null);
+      }
       finally { showLoading(button, false); }
     }
 
@@ -795,11 +814,13 @@
         const toRender = currentSort ? sortData(lastResults, currentSort.key, currentSort.dir) : lastResults;
         renderInto(el('results'), toRender);
         setKPIs(toRender.length, data);
+        setResultCount(toRender.length);
         // After rendering, reset scroll position so results start at the top
         scrollResultsToTop();
       } else {
         el('results').innerHTML = renderMovies(data);
         setKPIs(undefined, data);
+        setResultCount(null);
         scrollResultsToTop();
       }
     }));
@@ -832,6 +853,8 @@
       if (resultsHost) resultsHost.innerHTML = '';
       const kpisHost = el('kpis');
       if (kpisHost) kpisHost.innerHTML = '';
+      // Hide the sticky results tally
+      setResultCount(null);
 
       // Also clear any existing cloned sticky header content if present
       const stickyHead = document.getElementById('stickyHead');
