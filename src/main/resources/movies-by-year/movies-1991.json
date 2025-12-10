@@ -4,7 +4,7 @@
     "year": 1991,
     "director": {
       "name": "Jonathan Demme",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001130/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
     },
     "production_studio": "Orion Pictures",
     "mpaa_rating": "R",
@@ -40,9 +40,9 @@
     "oscars_won_details": [
       "Best Picture",
       "Best Director",
-      "Best Actor (Anthony Hopkins)",
-      "Best Actress (Jodie Foster)",
-      "Best Adapted Screenplay"
+      "Best Actor in a Leading Role",
+      "Best Actress in a Leading Role",
+      "Best Writing, Screenplay Based on Material from Another Medium"
     ],
     "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
     "afi_ranking": 74,
@@ -87,13 +87,13 @@
     "oscars_nominated": 6,
     "oscars_won": 4,
     "oscars_won_details": [
-      "Best Sound Effects Editing",
-      "Best Visual Effects",
-      "Best Makeup",
-      "Best Sound"
+      "Best Sound",
+      "Best Effects, Sound Effects Editing",
+      "Best Effects, Visual Effects",
+      "Best Makeup"
     ],
     "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg.",
-    "afi_ranking": null,
+    "afi_ranking": 77,
     "imdb_url": "https://www.imdb.com/title/tt0103064/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/terminator_2_judgment_day"
   },
@@ -102,7 +102,7 @@
     "year": 1991,
     "director": {
       "name": "Gary Trousdale",
-      "imdb_person_url": "https://www.imdb.com/name/nm0873736/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0873766/"
     },
     "production_studio": "Walt Disney Pictures",
     "mpaa_rating": "G",
@@ -118,12 +118,13 @@
       "Animation",
       "Family",
       "Fantasy",
-      "Musical"
+      "Musical",
+      "Romance"
     ],
     "actors": [
       {
         "name": "Paige O'Hara",
-        "imdb_person_url": "https://www.imdb.com/name/nm0641317/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0641314/"
       },
       {
         "name": "Robby Benson",
@@ -131,19 +132,66 @@
       },
       {
         "name": "Richard White",
-        "imdb_person_url": "https://www.imdb.com/name/nm0925359/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0925357/"
       }
     ],
     "oscars_nominated": 6,
     "oscars_won": 2,
     "oscars_won_details": [
       "Best Music, Original Score",
-      "Best Music, Original Song (Beauty and the Beast)"
+      "Best Music, Original Song"
     ],
     "description": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
-    "afi_ranking": null,
+    "afi_ranking": 34,
     "imdb_url": "https://www.imdb.com/title/tt0101414/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beauty_and_the_beast"
+  },
+  {
+    "title": "JFK",
+    "year": 1991,
+    "director": {
+      "name": "Oliver Stone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 189,
+    "budget_usd_millions": 40.0,
+    "gross_revenue_usd_millions": 205.4,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Kevin Costner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
+      },
+      {
+        "name": "Gary Oldman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
+      }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Cinematography",
+      "Best Film Editing"
+    ],
+    "description": "New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102138/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jfk"
   },
   {
     "title": "Thelma & Louise",
@@ -160,7 +208,7 @@
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "83%"
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Adventure",
@@ -184,59 +232,12 @@
     "oscars_nominated": 6,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Original Screenplay"
+      "Best Writing, Screenplay Written Directly for the Screen"
     ],
     "description": "Two best friends set out on an adventure, but it soon turns into a terrifying escape from being hunted by the police, as these two girls escape for the crimes they committed.",
-    "afi_ranking": null,
+    "afi_ranking": 77,
     "imdb_url": "https://www.imdb.com/title/tt0103074/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thelma_and_louise"
-  },
-  {
-    "title": "JFK",
-    "year": 1991,
-    "director": {
-      "name": "Oliver Stone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 189,
-    "budget_usd_millions": 40.0,
-    "gross_revenue_usd_millions": 205.4,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Drama",
-      "History",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Kevin Costner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
-      },
-      {
-        "name": "Gary Oldman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000198/"
-      },
-      {
-        "name": "Jack Lemmon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000493/"
-      }
-    ],
-    "oscars_nominated": 8,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Cinematography",
-      "Best Film Editing"
-    ],
-    "description": "New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102138/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jfk"
   },
   {
     "title": "Boyz n the Hood",
@@ -282,47 +283,351 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boyz_n_the_hood"
   },
   {
-    "title": "The Addams Family",
+    "title": "Fried Green Tomatoes",
     "year": 1991,
     "director": {
-      "name": "Barry Sonnenfeld",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001756/"
+      "name": "Jon Avnet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000816/"
     },
-    "production_studio": "Paramount Pictures",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG-13",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 30.0,
-    "gross_revenue_usd_millions": 191.5,
+    "runtime_minutes": 130,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 119.4,
     "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "66%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Kathy Bates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000290/"
+      },
+      {
+        "name": "Jessica Tandy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001788/"
+      },
+      {
+        "name": "Mary Stuart Masterson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000524/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A housewife who is unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101921/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fried_green_tomatoes"
+  },
+  {
+    "title": "The Fisher King",
+    "year": 1991,
+    "director": {
+      "name": "Terry Gilliam",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001272/"
+    },
+    "production_studio": "TriStar Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 137,
+    "budget_usd_millions": 24.0,
+    "gross_revenue_usd_millions": 41.9,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Comedy",
+      "Drama",
       "Fantasy"
     ],
     "actors": [
       {
-        "name": "Anjelica Huston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001378/"
+        "name": "Robin Williams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
       },
       {
-        "name": "Raul Julia",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000471/"
+        "name": "Jeff Bridges",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
       },
       {
-        "name": "Christopher Lloyd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000502/"
+        "name": "Mercedes Ruehl",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001689/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Supporting Role"
+    ],
+    "description": "A former radio DJ, suicidally despondent because of a terrible mistake he made, finds redemption in helping a deranged homeless man who was an unwitting victim of that mistake.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101889/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fisher_king"
+  },
+  {
+    "title": "Barton Fink",
+    "year": 1991,
+    "director": {
+      "name": "Joel Coen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001054/"
+    },
+    "production_studio": "Circle Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 6.1,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "John Turturro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001806/"
+      },
+      {
+        "name": "John Goodman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000422/"
+      },
+      {
+        "name": "Judy Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000359/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101410/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/barton_fink"
+  },
+  {
+    "title": "Raise the Red Lantern",
+    "year": 1991,
+    "director": {
+      "name": "Yimou Zhang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0955443/"
+    },
+    "production_studio": "ERA International",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 1.0,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "94%"
+    },
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Gong Li",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000046/"
+      },
+      {
+        "name": "Ma Jingwu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531393/"
+      },
+      {
+        "name": "He Caifei",
+        "imdb_person_url": "https://www.imdb.com/name/nm0372274/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "Con artists plan to fleece an eccentric family using an accomplice who claims to be their long-lost uncle.",
+    "description": "China in the 1920s. After her father's death, 19 year old Songlian is forced to marry Chen Zuoqian, the lord of a powerful family. Fifty year old Chen has already three wives, each of them living in a separate house within the great castle.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101272/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/addams_family"
+    "imdb_url": "https://www.imdb.com/title/tt0101640/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/raise_the_red_lantern"
+  },
+  {
+    "title": "Delicatessen",
+    "year": 1991,
+    "director": {
+      "name": "Jean-Pierre Jeunet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000466/"
+    },
+    "production_studio": "Constellation",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 3.8,
+    "gross_revenue_usd_millions": 1.8,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Dominique Pinon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0684503/"
+      },
+      {
+        "name": "Marie-Laure Dougnac",
+        "imdb_person_url": "https://www.imdb.com/name/nm0234771/"
+      },
+      {
+        "name": "Jean-Claude Dreyfus",
+        "imdb_person_url": "https://www.imdb.com/name/nm0237841/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Post-apocalyptic surrealist black comedy about the landlord of an apartment building who occasionally prepares a delicacy for his odd tenants.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101700/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/delicatessen"
+  },
+  {
+    "title": "The Double Life of Véronique",
+    "year": 1991,
+    "director": {
+      "name": "Krzysztof Kieslowski",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001425/"
+    },
+    "production_studio": "Sideral Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Irène Jacob",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001390/"
+      },
+      {
+        "name": "Wladyslaw Kowalski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0468350/"
+      },
+      {
+        "name": "Halina Gryglaszewska",
+        "imdb_person_url": "https://www.imdb.com/name/nm0344498/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two parallel stories about two identical women; one living in Poland, the other in France. They don't know each other, but their lives are nevertheless profoundly connected.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102721/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/double_life_of_veronique"
+  },
+  {
+    "title": "My Own Private Idaho",
+    "year": 1991,
+    "director": {
+      "name": "Gus Van Sant",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000679/"
+    },
+    "production_studio": "New Line Cinema",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 6.4,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "River Phoenix",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000203/"
+      },
+      {
+        "name": "Keanu Reeves",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
+      },
+      {
+        "name": "James Russo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0751648/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two best friends living on the streets of Portland as hustlers embark on a journey of self discovery and find their relationship stumbling along the way.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102494/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_own_private_idaho"
+  },
+  {
+    "title": "Night on Earth",
+    "year": 1991,
+    "director": {
+      "name": "Jim Jarmusch",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000464/"
+    },
+    "production_studio": "Locus Solus Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 129,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.0,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Gena Rowlands",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001687/"
+      },
+      {
+        "name": "Winona Ryder",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
+      },
+      {
+        "name": "Roberto Benigni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102536/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/night_on_earth"
   },
   {
     "title": "Point Break",
@@ -375,7 +680,7 @@
       "name": "Martin Scorsese",
       "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
     },
-    "production_studio": "Universal Pictures",
+    "production_studio": "Amblin Entertainment",
     "mpaa_rating": "R",
     "runtime_minutes": 128,
     "budget_usd_millions": 35.0,
@@ -383,7 +688,7 @@
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "77%"
+      "rotten_tomatoes_popcorn": "75%"
     },
     "genres": [
       "Crime",
@@ -409,586 +714,58 @@
     "description": "A convicted rapist, released from prison after serving a fourteen-year sentence, stalks the family of the lawyer who originally defended him.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0101540/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1037865-cape_fear"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cape_fear"
   },
   {
-    "title": "Hook",
+    "title": "The Commitments",
     "year": 1991,
     "director": {
-      "name": "Steven Spielberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
+      "name": "Alan Parker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000570/"
     },
-    "production_studio": "TriStar Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 142,
-    "budget_usd_millions": 70.0,
-    "gross_revenue_usd_millions": 300.9,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "29%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Dustin Hoffman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
-      },
-      {
-        "name": "Robin Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
-      },
-      {
-        "name": "Julia Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000210/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102057/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hook"
-  },
-  {
-    "title": "The Fisher King",
-    "year": 1991,
-    "director": {
-      "name": "Terry Gilliam",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000417/"
-    },
-    "production_studio": "TriStar Pictures",
+    "production_studio": "Beacon Communications",
     "mpaa_rating": "R",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 24.0,
-    "gross_revenue_usd_millions": 41.9,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Jeff Bridges",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
-      },
-      {
-        "name": "Robin Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
-      },
-      {
-        "name": "Mercedes Ruehl",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001689/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Supporting Actress (Mercedes Ruehl)"
-    ],
-    "description": "A former radio DJ, suicidally despondent because of a terrible mistake he made, finds redemption in helping a deranged homeless man who was an unwitting victim of that mistake.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101889/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fisher_king"
-  },
-  {
-    "title": "Barton Fink",
-    "year": 1991,
-    "director": {
-      "name": "Joel Coen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001053/"
-    },
-    "production_studio": "Circle Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 9.0,
-    "gross_revenue_usd_millions": 6.1,
+    "runtime_minutes": 118,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 14.9,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Comedy",
       "Drama",
-      "Thriller"
+      "Music"
     ],
     "actors": [
       {
-        "name": "John Turturro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001806/"
+        "name": "Robert Arkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0035100/"
       },
       {
-        "name": "John Goodman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000422/"
+        "name": "Michael Aherne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0013917/"
       },
       {
-        "name": "Judy Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000360/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101410/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/barton_fink"
-  },
-  {
-    "title": "My Own Private Idaho",
-    "year": 1991,
-    "director": {
-      "name": "Gus Van Sant",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000243/"
-    },
-    "production_studio": "New Line Cinema",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 6.4,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "River Phoenix",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000203/"
-      },
-      {
-        "name": "Keanu Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
-      },
-      {
-        "name": "James Russo",
-        "imdb_person_url": "https://www.imdb.com/name/nm0751648/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two best friends living on the streets of Portland as hustlers embark on a journey of self discovery and find their relationship stumbling along the way.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102494/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_own_private_idaho"
-  },
-  {
-    "title": "City Slickers",
-    "year": 1991,
-    "director": {
-      "name": "Ron Underwood",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005523/"
-    },
-    "production_studio": "Castle Rock Entertainment",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 27.0,
-    "gross_revenue_usd_millions": 179.0,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "63%"
-    },
-    "genres": [
-      "Comedy",
-      "Western"
-    ],
-    "actors": [
-      {
-        "name": "Billy Crystal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000345/"
-      },
-      {
-        "name": "Jack Palance",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
-      },
-      {
-        "name": "Daniel Stern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0827663/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Supporting Actor (Jack Palance)"
-    ],
-    "description": "On the verge of turning 40, an unhappy Manhattan yuppie is roped into joining his two friends on a cattle drive in the southwest.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101587/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/city_slickers"
-  },
-  {
-    "title": "Fried Green Tomatoes",
-    "year": 1991,
-    "director": {
-      "name": "Jon Avnet",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000813/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 130,
-    "budget_usd_millions": 11.0,
-    "gross_revenue_usd_millions": 119.4,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Kathy Bates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000291/"
-      },
-      {
-        "name": "Jessica Tandy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001788/"
-      },
-      {
-        "name": "Mary-Louise Parker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000571/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A housewife who is unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101921/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fried_green_tomatoes"
-  },
-  {
-    "title": "Bugsy",
-    "year": 1991,
-    "director": {
-      "name": "Barry Levinson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005144/"
-    },
-    "production_studio": "TriStar Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 136,
-    "budget_usd_millions": 30.0,
-    "gross_revenue_usd_millions": 49.1,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "63%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Warren Beatty",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000902/"
-      },
-      {
-        "name": "Annette Bening",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000906/"
-      },
-      {
-        "name": "Harvey Keitel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Art Direction",
-      "Best Costume Design"
-    ],
-    "description": "The story of how Bugsy Siegel started Las Vegas.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101516/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bugsy"
-  },
-  {
-    "title": "The Prince of Tides",
-    "year": 1991,
-    "director": {
-      "name": "Barbra Streisand",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000659/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 30.0,
-    "gross_revenue_usd_millions": 110.9,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "62%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Barbra Streisand",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000659/"
-      },
-      {
-        "name": "Nick Nolte",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000560/"
-      },
-      {
-        "name": "Blythe Danner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001100/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A troubled man talks to his suicidal sister's psychiatrist about their family history and falls in love with her in the process.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102713/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/prince_of_tides"
-  },
-  {
-    "title": "Backdraft",
-    "year": 1991,
-    "director": {
-      "name": "Ron Howard",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
-    },
-    "production_studio": "Imagine Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 137,
-    "budget_usd_millions": 40.0,
-    "gross_revenue_usd_millions": 152.4,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "75%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Kurt Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
-      },
-      {
-        "name": "William Baldwin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000287/"
-      },
-      {
-        "name": "Robert De Niro",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two Chicago firefighter brothers, who don't get along, have to work together while a dangerous arsonist is on the loose.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101392/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/backdraft"
-  },
-  {
-    "title": "Robin Hood: Prince of Thieves",
-    "year": 1991,
-    "director": {
-      "name": "Kevin Reynolds",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001667/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 143,
-    "budget_usd_millions": 48.0,
-    "gross_revenue_usd_millions": 390.5,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "52%",
-      "rotten_tomatoes_popcorn": "72%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Kevin Costner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000126/"
-      },
-      {
-        "name": "Morgan Freeman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000151/"
-      },
-      {
-        "name": "Alan Rickman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000614/"
+        "name": "Angeline Ball",
+        "imdb_person_url": "https://www.imdb.com/name/nm0050361/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "When Robin and his Moorish companion come to England and the tyranny of the Sheriff of Nottingham, he decides to fight back as an outlaw.",
+    "description": "Jimmy Rabbitte, an unemployed Dublin boy, decides to put together a soul band made up entirely of the Irish working class.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102798/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/robin_hood_prince_of_thieves"
-  },
-  {
-    "title": "Father of the Bride",
-    "year": 1991,
-    "director": {
-      "name": "Charles Shyer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0796124/"
-    },
-    "production_studio": "Touchstone Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 105,
-    "budget_usd_millions": 20.0,
-    "gross_revenue_usd_millions": 89.3,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "70%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Family",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Steve Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000188/"
-      },
-      {
-        "name": "Diane Keaton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000473/"
-      },
-      {
-        "name": "Martin Short",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001737/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "With his oldest daughter's wedding approaching, a father finds himself reluctant to let go.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101862/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/father_of_the_bride"
-  },
-  {
-    "title": "What About Bob?",
-    "year": 1991,
-    "director": {
-      "name": "Frank Oz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000568/"
-    },
-    "production_studio": "Touchstone Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 35.0,
-    "gross_revenue_usd_millions": 63.7,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Bill Murray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000195/"
-      },
-      {
-        "name": "Richard Dreyfuss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
-      },
-      {
-        "name": "Julie Hagerty",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001308/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A successful psychotherapist loses his mind after one of his most dependent patients, a highly manipulative obsessive-compulsive, tracks him down during his family vacation.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0103241/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/what_about_bob"
-  },
-  {
-    "title": "The Rocketeer",
-    "year": 1991,
-    "director": {
-      "name": "Joe Johnston",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002653/"
-    },
-    "production_studio": "Walt Disney Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 35.0,
-    "gross_revenue_usd_millions": 46.7,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Family"
-    ],
-    "actors": [
-      {
-        "name": "Billy Campbell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001007/"
-      },
-      {
-        "name": "Jennifer Connelly",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000124/"
-      },
-      {
-        "name": "Alan Arkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000273/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young pilot stumbles onto a prototype jetpack that allows him to become a high-flying masked hero.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102803/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rocketeer"
+    "imdb_url": "https://www.imdb.com/title/tt0101605/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/commitments"
   },
   {
     "title": "Star Trek VI: The Undiscovered Country",
     "year": 1991,
     "director": {
       "name": "Nicholas Meyer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0583307/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001534/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
@@ -1022,141 +799,10 @@
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned.",
+    "description": "On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned. The Enterprise crew must help them escape to thwart a conspiracy aimed at sabotaging the last best hope for peace.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0102975/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/star_trek_vi_the_undiscovered_country"
-  },
-  {
-    "title": "New Jack City",
-    "year": 1991,
-    "director": {
-      "name": "Mario Van Peebles",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001813/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 8.0,
-    "gross_revenue_usd_millions": 47.6,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Wesley Snipes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000227/"
-      },
-      {
-        "name": "Ice-T",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001374/"
-      },
-      {
-        "name": "Allen Payne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0668245/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A crime lord ascends to power and becomes megalomaniacal while a maverick police detective vows to stop him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102526/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/new_jack_city"
-  },
-  {
-    "title": "Jungle Fever",
-    "year": 1991,
-    "director": {
-      "name": "Spike Lee",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 14.0,
-    "gross_revenue_usd_millions": 43.9,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "81%",
-      "rotten_tomatoes_popcorn": "62%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Wesley Snipes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000227/"
-      },
-      {
-        "name": "Annabella Sciorra",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001712/"
-      },
-      {
-        "name": "Spike Lee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000490/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A successful black lawyer engages in an interracial affair with his white secretary, leading to fallout within their families and communities.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102175/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jungle_fever"
-  },
-  {
-    "title": "The Commitments",
-    "year": 1991,
-    "director": {
-      "name": "Alan Parker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000570/"
-    },
-    "production_studio": "Beacon Communications",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 12.0,
-    "gross_revenue_usd_millions": 14.9,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Robert Arkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0035098/"
-      },
-      {
-        "name": "Michael Aherne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0013885/"
-      },
-      {
-        "name": "Angeline Ball",
-        "imdb_person_url": "https://www.imdb.com/name/nm0050334/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Jimmy Rabbitte, an unemployed Dublin boy, decides to put together a soul band made up entirely of the Irish working class.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101605/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/commitments"
   },
   {
     "title": "Defending Your Life",
@@ -1168,7 +814,7 @@
     "production_studio": "Geffen Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 112,
-    "budget_usd_millions": null,
+    "budget_usd_millions": 10.0,
     "gross_revenue_usd_millions": 16.4,
     "ratings": {
       "imdb": 7.2,
@@ -1203,455 +849,20 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/defending_your_life"
   },
   {
-    "title": "Slacker",
-    "year": 1991,
-    "director": {
-      "name": "Richard Linklater",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
-    },
-    "production_studio": "Detour Filmproduction",
-    "mpaa_rating": "R",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 0.023,
-    "gross_revenue_usd_millions": 1.2,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Richard Linklater",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000500/"
-      },
-      {
-        "name": "Rudy Basquez",
-        "imdb_person_url": "https://www.imdb.com/name/nm0060302/"
-      },
-      {
-        "name": "Jean Caffeine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0128497/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A camera follows various misfits and eccentrics through a day in the life of Austin, Texas.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102943/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/slacker"
-  },
-  {
-    "title": "Delicatessen",
-    "year": 1991,
-    "director": {
-      "name": "Marc Caro",
-      "imdb_person_url": "https://www.imdb.com/name/nm0138972/"
-    },
-    "production_studio": "Constellation",
-    "mpaa_rating": "R",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 3.8,
-    "gross_revenue_usd_millions": 1.8,
-    "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Marie-Laure Dougnac",
-        "imdb_person_url": "https://www.imdb.com/name/nm0234837/"
-      },
-      {
-        "name": "Dominique Pinon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0684508/"
-      },
-      {
-        "name": "Pascal Benezech",
-        "imdb_person_url": "https://www.imdb.com/name/nm0071277/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Post-apocalyptic surrealist black comedy about the landlord of an apartment building who occasionally prepares a delicacy for his odd tenants.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101700/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/delicatessen"
-  },
-  {
-    "title": "Naked Lunch",
-    "year": 1991,
-    "director": {
-      "name": "David Cronenberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
-    },
-    "production_studio": "Recorded Picture Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 18.0,
-    "gross_revenue_usd_millions": 2.6,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "70%",
-      "rotten_tomatoes_popcorn": "73%"
-    },
-    "genres": [
-      "Drama",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Peter Weller",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000693/"
-      },
-      {
-        "name": "Judy Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000360/"
-      },
-      {
-        "name": "Ian Holm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000453/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "After developing an addiction to the substance he uses to kill bugs, an exterminator accidentally kills his wife, and becomes involved in a secret government plot being orchestrated by giant bugs in a port town in North Africa.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102511/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/naked_lunch"
-  },
-  {
-    "title": "Raise the Red Lantern",
-    "year": 1991,
-    "director": {
-      "name": "Yimou Zhang",
-      "imdb_person_url": "https://www.imdb.com/name/nm0955443/"
-    },
-    "production_studio": "Century Communications",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 125,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.6,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "96%"
-    },
-    "genres": [
-      "Drama",
-      "History",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Gong Li",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000423/"
-      },
-      {
-        "name": "Jingwu Ma",
-        "imdb_person_url": "https://www.imdb.com/name/nm0531028/"
-      },
-      {
-        "name": "Saifei He",
-        "imdb_person_url": "https://www.imdb.com/name/nm0372133/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "China in the 1920s. After her father's death, 19-year-old Songlian is forced to marry Chen Zuoqian, the lord of a powerful family. Fifty-year-old Chen already has three wives, each of them living in a separate house within the great castle.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101640/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/raise_the_red_lantern"
-  },
-  {
-    "title": "The Double Life of Véronique",
-    "year": 1991,
-    "director": {
-      "name": "Krzysztof Kieslowski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001425/"
-    },
-    "production_studio": "Sideral Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 98,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.0,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Irène Jacob",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001396/"
-      },
-      {
-        "name": "Wladyslaw Kowalski",
-        "imdb_person_url": "https://www.imdb.com/name/nm0472897/"
-      },
-      {
-        "name": "Halina Gryglaszewska",
-        "imdb_person_url": "https://www.imdb.com/name/nm0344657/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two parallel stories about two identical women; one living in Poland, the other in France. They don't know each other, but their lives are nevertheless profoundly connected.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102703/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/double_life_of_veronique"
-  },
-  {
-    "title": "Dead Again",
-    "year": 1991,
-    "director": {
-      "name": "Kenneth Branagh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000110/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 15.0,
-    "gross_revenue_usd_millions": 38.0,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "67%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Kenneth Branagh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000110/"
-      },
-      {
-        "name": "Emma Thompson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
-      },
-      {
-        "name": "Andy Garcia",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000412/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A woman who has lost her memory is taken in by a Los Angeles orphanage, and a private investigator is enlisted to track down her identity.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101669/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_again"
-  },
-  {
-    "title": "Soapdish",
-    "year": 1991,
-    "director": {
-      "name": "Michael Hoffman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0389018/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 25.0,
-    "gross_revenue_usd_millions": 36.5,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "58%"
-    },
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Sally Field",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000398/"
-      },
-      {
-        "name": "Kevin Kline",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000177/"
-      },
-      {
-        "name": "Robert Downey Jr.",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000375/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Ambitious TV soap actress Celeste Talbert has problems with her show's producer, who is trying to get her to leave, by bringing back her old flame and hiring her niece.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102959/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/soapdish"
-  },
-  {
-    "title": "L.A. Story",
-    "year": 1991,
-    "director": {
-      "name": "Mick Jackson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0413861/"
-    },
-    "production_studio": "Carolco Pictures",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 95,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 28.9,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Steve Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000188/"
-      },
-      {
-        "name": "Victoria Tennant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001793/"
-      },
-      {
-        "name": "Richard E. Grant",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001290/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "With the help of a talking freeway billboard, a wacky weatherman tries to win the heart of an English newspaper reporter, who is struggling to make sense of the strange world of early 90s Los Angeles.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102250/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_story"
-  },
-  {
-    "title": "Hot Shots!",
-    "year": 1991,
-    "director": {
-      "name": "Jim Abrahams",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000720/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "PG-13",
-    "runtime_minutes": 84,
-    "budget_usd_millions": 26.0,
-    "gross_revenue_usd_millions": 181.1,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "83%",
-      "rotten_tomatoes_popcorn": "63%"
-    },
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Charlie Sheen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000221/"
-      },
-      {
-        "name": "Cary Elwes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000144/"
-      },
-      {
-        "name": "Valeria Golino",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000420/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A parody of Top Gun (1986) in which a talented but unstable fighter pilot must overcome the ghosts of his father and save a mission sabotaged by greedy weapons manufacturers.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102059/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hot_shots"
-  },
-  {
-    "title": "Bill & Ted's Bogus Journey",
-    "year": 1991,
-    "director": {
-      "name": "Peter Hewitt",
-      "imdb_person_url": "https://www.imdb.com/name/nm0382079/"
-    },
-    "production_studio": "Orion Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 20.0,
-    "gross_revenue_usd_millions": 38.0,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "57%",
-      "rotten_tomatoes_popcorn": "57%"
-    },
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Keanu Reeves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000206/"
-      },
-      {
-        "name": "Alex Winter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0935653/"
-      },
-      {
-        "name": "William Sadler",
-        "imdb_person_url": "https://www.imdb.com/name/nm0006669/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A tyrant from the future creates evil android doubles of Bill and Ted and sends them back to eliminate the originals.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101452/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/bill_and_teds_bogus_journey"
-  },
-  {
     "title": "The Doors",
     "year": 1991,
     "director": {
       "name": "Oliver Stone",
       "imdb_person_url": "https://www.imdb.com/name/nm0000231/"
     },
-    "production_studio": "Carolco Pictures",
+    "production_studio": "Bill Graham Films",
     "mpaa_rating": "R",
     "runtime_minutes": 140,
     "budget_usd_millions": 38.0,
     "gross_revenue_usd_millions": 34.4,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "57%",
+      "rotten_tomatoes_critic": "56%",
       "rotten_tomatoes_popcorn": "78%"
     },
     "genres": [
@@ -1670,7 +881,7 @@
       },
       {
         "name": "Kyle MacLachlan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000513/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000512/"
       }
     ],
     "oscars_nominated": 0,
@@ -1682,152 +893,63 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/doors"
   },
   {
-    "title": "A Brighter Summer Day",
+    "title": "What About Bob?",
     "year": 1991,
     "director": {
-      "name": "Edward Yang",
-      "imdb_person_url": "https://www.imdb.com/name/nm0945981/"
+      "name": "Frank Oz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000568/"
     },
-    "production_studio": "Yang & His Gang Filmmakers",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 237,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 8.3,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Chen Chang",
-        "imdb_person_url": "https://www.imdb.com/name/nm0151656/"
-      },
-      {
-        "name": "Lisa Yang",
-        "imdb_person_url": "https://www.imdb.com/name/nm0946011/"
-      },
-      {
-        "name": "Kuo-Chu Chang",
-        "imdb_person_url": "https://www.imdb.com/name/nm0151663/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A boy experiences first love, friendship, and the injustice of adult life amidst the street gangs of 1960s Taipei.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0101985/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/a_brighter_summer_day"
-  },
-  {
-    "title": "Only Yesterday",
-    "year": 1991,
-    "director": {
-      "name": "Isao Takahata",
-      "imdb_person_url": "https://www.imdb.com/name/nm0847223/"
-    },
-    "production_studio": "Studio Ghibli",
+    "production_studio": "Touchstone Pictures",
     "mpaa_rating": "PG",
-    "runtime_minutes": 118,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 18.8,
+    "runtime_minutes": 99,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 63.7,
     "ratings": {
-      "imdb": 7.6,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "83%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
-      "Animation",
-      "Drama",
-      "Romance"
+      "Comedy"
     ],
     "actors": [
       {
-        "name": "Miki Imai",
-        "imdb_person_url": "https://www.imdb.com/name/nm0408030/"
+        "name": "Bill Murray",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000195/"
       },
       {
-        "name": "Toshirô Yanagiba",
-        "imdb_person_url": "https://www.imdb.com/name/nm0945849/"
+        "name": "Richard Dreyfuss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
       },
       {
-        "name": "Yoko Honna",
-        "imdb_person_url": "https://www.imdb.com/name/nm0393307/"
+        "name": "Julie Hagerty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001308/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A twenty-seven-year-old office worker travels to the countryside while remembering her childhood in Tokyo.",
+    "description": "A successful psychotherapist loses his mind after one of his most dependent patients, a highly manipulative obsessive-compulsive, tracks him down during his family vacation.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102587/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/only_yesterday_1991"
-  },
-  {
-    "title": "Night on Earth",
-    "year": 1991,
-    "director": {
-      "name": "Jim Jarmusch",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000464/"
-    },
-    "production_studio": "Locus Solus Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 2.0,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "88%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Winona Ryder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000213/"
-      },
-      {
-        "name": "Gena Rowlands",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000619/"
-      },
-      {
-        "name": "Roberto Benigni",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000905/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0102536/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/night_on_earth"
+    "imdb_url": "https://www.imdb.com/title/tt0103241/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/what_about_bob"
   },
   {
     "title": "Dogfight",
     "year": 1991,
     "director": {
       "name": "Nancy Savoca",
-      "imdb_person_url": "https://www.imdb.com/name/nm0767739/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0767773/"
     },
     "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 94,
-    "budget_usd_millions": null,
+    "budget_usd_millions": 6.0,
     "gross_revenue_usd_millions": 0.4,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "87%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Drama",
@@ -1845,15 +967,1355 @@
       },
       {
         "name": "Richard Panebianco",
-        "imdb_person_url": "https://www.imdb.com/name/nm0659259/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0659345/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In 1963, on the night before they leave for Vietnam, a group of young Marines set out to play a cruel game: who can bring the ugliest date to a party?",
+    "description": "Before they leave for Vietnam, a group of Marines bet on who can bring the ugliest date to a party. One of them brings a shy waitress, but their night doesn't go as planned.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0101748/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dogfight"
+  },
+  {
+    "title": "Homicide",
+    "year": 1991,
+    "director": {
+      "name": "David Mamet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000519/"
+    },
+    "production_studio": "Bison Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Joe Mantegna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
+      },
+      {
+        "name": "William H. Macy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000513/"
+      },
+      {
+        "name": "Ving Rhames",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000609/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Jewish homicide detective investigating the murder of an elderly Jewish woman discovers a Zionist organization operating in the city.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102048/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1036365-homicide"
+  },
+  {
+    "title": "Life Is Sweet",
+    "year": 1991,
+    "director": {
+      "name": "Mike Leigh",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005139/"
+    },
+    "production_studio": "Thin Man Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.6,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Alison Steadman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0824147/"
+      },
+      {
+        "name": "Jim Broadbent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000978/"
+      },
+      {
+        "name": "Claire Skinner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0804230/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A working-class North London family deals with the ups and downs of everyday life, including the launch of a new business and the struggles of their two daughters.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100024/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/life_is_sweet"
+  },
+  {
+    "title": "Trust",
+    "year": 1991,
+    "director": {
+      "name": "Hal Hartley",
+      "imdb_person_url": "https://www.imdb.com/name/nm0366855/"
+    },
+    "production_studio": "True Fiction Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 0.7,
+    "gross_revenue_usd_millions": 0.35,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Adrienne Shelly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005417/"
+      },
+      {
+        "name": "Martin Donovan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0232998/"
+      },
+      {
+        "name": "Merritt Nelson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0625603/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A pregnant high school dropout bonds with an electronics repairman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100822/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1032890-trust"
+  },
+  {
+    "title": "Riff-Raff",
+    "year": 1991,
+    "director": {
+      "name": "Ken Loach",
+      "imdb_person_url": "https://www.imdb.com/name/nm0516360/"
+    },
+    "production_studio": "Channel Four Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robert Carlyle",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001015/"
+      },
+      {
+        "name": "Emer McCourt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0566668/"
+      },
+      {
+        "name": "Jimmy Coleman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0171092/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A construction worker finds work and romance in London, but struggles with the harsh realities of working class life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100491/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/riffraff"
+  },
+  {
+    "title": "Europa",
+    "year": 1991,
+    "director": {
+      "name": "Lars von Trier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000675/"
+    },
+    "production_studio": "Nordisk Film & TV Fond",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.05,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Jean-Marc Barr",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000849/"
+      },
+      {
+        "name": "Barbara Sukowa",
+        "imdb_person_url": "https://www.imdb.com/name/nm0837775/"
+      },
+      {
+        "name": "Udo Kier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001424/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American of German descent arrives in post-war Germany to take a job as a sleeping car conductor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101829/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/zentropa"
+  },
+  {
+    "title": "Toto the Hero",
+    "year": 1991,
+    "director": {
+      "name": "Jaco Van Dormael",
+      "imdb_person_url": "https://www.imdb.com/name/nm0886470/"
+    },
+    "production_studio": "Iblis Films",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 1.4,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Michel Bouquet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0099612/"
+      },
+      {
+        "name": "Jo De Backer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0213890/"
+      },
+      {
+        "name": "Thomas Godet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0323984/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An elderly man named Thomas reflects on his life, believing he was switched at birth with his wealthy neighbor Alfred, and plots his revenge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103105/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/toto_the_hero"
+  },
+  {
+    "title": "Mediterraneo",
+    "year": 1991,
+    "director": {
+      "name": "Gabriele Salvatores",
+      "imdb_person_url": "https://www.imdb.com/name/nm0759364/"
+    },
+    "production_studio": "A.M.A. Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Diego Abatantuono",
+        "imdb_person_url": "https://www.imdb.com/name/nm0007802/"
+      },
+      {
+        "name": "Claudio Bigagli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0081708/"
+      },
+      {
+        "name": "Giuseppe Cederna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0147743/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "In WWII, a group of Italian soldiers are stranded on a remote Greek island where they eventually bond with the locals and forget about the war.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102426/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mediterraneo"
+  },
+  {
+    "title": "Black Robe",
+    "year": 1991,
+    "director": {
+      "name": "Bruce Beresford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000924/"
+    },
+    "production_studio": "Alliance Communications Corporation",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 14.0,
+    "gross_revenue_usd_millions": 8.2,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Lothaire Bluteau",
+        "imdb_person_url": "https://www.imdb.com/name/nm0089965/"
+      },
+      {
+        "name": "Aden Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0949242/"
+      },
+      {
+        "name": "Sandrine Holt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002141/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the 17th century, a Jesuit priest and a young companion are escorted through the wilderness of Quebec by Algonquin Indians to find a distant mission.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101465/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/black_robe"
+  },
+  {
+    "title": "Hear My Song",
+    "year": 1991,
+    "director": {
+      "name": "Peter Chelsom",
+      "imdb_person_url": "https://www.imdb.com/name/nm0155231/"
+    },
+    "production_studio": "Channel Four Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 4.6,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Ned Beatty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000885/"
+      },
+      {
+        "name": "Adrian Dunbar",
+        "imdb_person_url": "https://www.imdb.com/name/nm0241857/"
+      },
+      {
+        "name": "Tara Fitzgerald",
+        "imdb_person_url": "https://www.imdb.com/name/nm0280404/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "To save his failing nightclub, a promoter heads to Ireland to find and book the legendary singer Josef Locke, who fled the UK decades earlier to escape tax evasion charges.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102014/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hear_my_song"
+  },
+  {
+    "title": "Enchanted April",
+    "year": 1991,
+    "director": {
+      "name": "Mike Newell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001565/"
+    },
+    "production_studio": "BBC",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 13.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Miranda Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001669/"
+      },
+      {
+        "name": "Josie Lawrence",
+        "imdb_person_url": "https://www.imdb.com/name/nm0492850/"
+      },
+      {
+        "name": "Polly Walker",
+        "imdb_person_url": "https://www.imdb.com/name/nm0908116/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Four English women, struggling with their dreary lives in 1920s London, rent a castle in Italy for a month of freedom and relaxation.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101811/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/enchanted_april"
+  },
+  {
+    "title": "Proof",
+    "year": 1991,
+    "director": {
+      "name": "Jocelyn Moorhouse",
+      "imdb_person_url": "https://www.imdb.com/name/nm0602167/"
+    },
+    "production_studio": "House & Moorhouse Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 1.1,
+    "gross_revenue_usd_millions": 2.1,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Hugo Weaving",
+        "imdb_person_url": "https://www.imdb.com/name/nm0915989/"
+      },
+      {
+        "name": "Geneviève Picot",
+        "imdb_person_url": "https://www.imdb.com/name/nm0682084/"
+      },
+      {
+        "name": "Russell Crowe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000128/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A blind photographer, who takes pictures to prove to himself that the world is really as others describe it, develops a complex relationship with a restaurant worker.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102721/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/proof"
+  },
+  {
+    "title": "Paris Is Burning",
+    "year": 1991,
+    "director": {
+      "name": "Jennie Livingston",
+      "imdb_person_url": "https://www.imdb.com/name/nm0515254/"
+    },
+    "production_studio": "Off White Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 71,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 3.8,
+    "ratings": {
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Documentary"
+    ],
+    "actors": [
+      {
+        "name": "Brooke Xtravaganza",
+        "imdb_person_url": "https://www.imdb.com/name/nm1088748/"
+      },
+      {
+        "name": "André Christian",
+        "imdb_person_url": "https://www.imdb.com/name/nm1088746/"
+      },
+      {
+        "name": "Dorian Corey",
+        "imdb_person_url": "https://www.imdb.com/name/nm1088747/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A chronicle of New York's drag scene in the 1980s, focusing on balls, voguing and the ambitions and dreams of those who gave the era its warmth and vitality.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0100332/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/paris_is_burning"
+  },
+  {
+    "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+    "year": 1991,
+    "director": {
+      "name": "Fax Bahr",
+      "imdb_person_url": "https://www.imdb.com/name/nm0046985/"
+    },
+    "production_studio": "American Zoetrope",
+    "mpaa_rating": "R",
+    "runtime_minutes": 96,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Documentary"
+    ],
+    "actors": [
+      {
+        "name": "Francis Ford Coppola",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000338/"
+      },
+      {
+        "name": "Eleanor Coppola",
+        "imdb_person_url": "https://www.imdb.com/name/nm0178877/"
+      },
+      {
+        "name": "Martin Sheen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000640/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A documentary that chronicles the production problems of Francis Ford Coppola's 'Apocalypse Now', including bad weather, actor health issues, and war.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102015/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hearts_of_darkness_a_filmmakers_apocalypse"
+  },
+  {
+    "title": "Only Yesterday",
+    "year": 1991,
+    "director": {
+      "name": "Isao Takahata",
+      "imdb_person_url": "https://www.imdb.com/name/nm0847223/"
+    },
+    "production_studio": "Studio Ghibli",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 118,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Miki Imai",
+        "imdb_person_url": "https://www.imdb.com/name/nm0408013/"
+      },
+      {
+        "name": "Toshirô Yanagiba",
+        "imdb_person_url": "https://www.imdb.com/name/nm0945826/"
+      },
+      {
+        "name": "Yoko Honna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0393226/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A twenty-seven-year-old office worker travels to the countryside while reminiscing about her childhood in Tokyo.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102587/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/only_yesterday_1991"
+  },
+  {
+    "title": "Center Stage",
+    "year": 1991,
+    "director": {
+      "name": "Stanley Kwan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0477123/"
+    },
+    "production_studio": "Golden Harvest Company",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 154,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Maggie Cheung",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001041/"
+      },
+      {
+        "name": "Han Chin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0157771/"
+      },
+      {
+        "name": "Tony Ka Fai Leung",
+        "imdb_person_url": "https://www.imdb.com/name/nm0504900/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A biopic of the silent film actress Ruan Lingyu, who committed suicide at age 24.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102816/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/actress"
+  },
+  {
+    "title": "Once Upon a Time in China",
+    "year": 1991,
+    "director": {
+      "name": "Tsui Hark",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002934/"
+    },
+    "production_studio": "Golden Harvest Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 134,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.77,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jet Li",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001472/"
+      },
+      {
+        "name": "Yuen Biao",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950699/"
+      },
+      {
+        "name": "Rosamund Kwan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0477112/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Martial arts master Wong Fei-hung faces off against foreign forces plundering China and a local gang involved in human trafficking.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103285/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/once_upon_a_time_in_china"
+  },
+  {
+    "title": "Armour of God II: Operation Condor",
+    "year": 1991,
+    "director": {
+      "name": "Jackie Chan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000329/"
+    },
+    "production_studio": "Golden Harvest Company",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 10.4,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Jackie Chan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000329/"
+      },
+      {
+        "name": "Carol Cheng",
+        "imdb_person_url": "https://www.imdb.com/name/nm0155552/"
+      },
+      {
+        "name": "Eva Cobo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0167909/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Asian Hawk (Jackie Chan) is hired to find 240 tons of gold stolen from the desert by Nazis during WWII.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0099558/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/operation_condor"
+  },
+  {
+    "title": "Riki-Oh: The Story of Ricky",
+    "year": 1991,
+    "director": {
+      "name": "Ngai Choi Lam",
+      "imdb_person_url": "https://www.imdb.com/name/nm0482650/"
+    },
+    "production_studio": "Golden Harvest Company",
+    "mpaa_rating": "NC-17",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Siu-Wong Fan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0266675/"
+      },
+      {
+        "name": "Mei Sheng Fan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0266668/"
+      },
+      {
+        "name": "Ka-Kui Ho",
+        "imdb_person_url": "https://www.imdb.com/name/nm0387323/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young man with superhuman strength is incarcerated in a private prison where inmates are treated like slaves. He takes on the corrupt warden and his henchmen.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102293/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/riki_oh_the_story_of_ricky"
+  },
+  {
+    "title": "The Indian Runner",
+    "year": 1991,
+    "director": {
+      "name": "Sean Penn",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
+    },
+    "production_studio": "Mount Film Group",
+    "mpaa_rating": "R",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 0.43,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "David Morse",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001556/"
+      },
+      {
+        "name": "Viggo Mortensen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000551/"
+      },
+      {
+        "name": "Valeria Golino",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000420/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two brothers, a small-town deputy and a violent ex-con, struggle to connect as they deal with their past and the changing world around them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102116/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/indian_runner"
+  },
+  {
+    "title": "La Belle Noiseuse",
+    "year": 1991,
+    "director": {
+      "name": "Jacques Rivette",
+      "imdb_person_url": "https://www.imdb.com/name/nm0729646/"
+    },
+    "production_studio": "Pierre Grise Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 238,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.41,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Michel Piccoli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001618/"
+      },
+      {
+        "name": "Jane Birkin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001951/"
+      },
+      {
+        "name": "Emmanuelle Béart",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000322/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A famous painter is inspired to return to a masterpiece he abandoned years ago when he meets a beautiful young woman who becomes his model.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101428/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_belle_noiseuse"
+  },
+  {
+    "title": "Lovers on the Bridge",
+    "year": 1991,
+    "director": {
+      "name": "Leos Carax",
+      "imdb_person_url": "https://www.imdb.com/name/nm0136014/"
+    },
+    "production_studio": "Films Christian Fechner",
+    "mpaa_rating": "R",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 28.0,
+    "gross_revenue_usd_millions": 0.8,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Juliette Binoche",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000300/"
+      },
+      {
+        "name": "Denis Lavant",
+        "imdb_person_url": "https://www.imdb.com/name/nm0491823/"
+      },
+      {
+        "name": "Klaus-Michael Grüber",
+        "imdb_person_url": "https://www.imdb.com/name/nm0344814/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A homeless circus performer and a painter with failing eyesight form a romance while living on Paris's Pont Neuf bridge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101318/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lovers_on_the_bridge"
+  },
+  {
+    "title": "Tous les Matins du Monde",
+    "year": 1991,
+    "director": {
+      "name": "Alain Corneau",
+      "imdb_person_url": "https://www.imdb.com/name/nm0180252/"
+    },
+    "production_studio": "Film par Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 115,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 3.7,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Gérard Depardieu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
+      },
+      {
+        "name": "Jean-Pierre Marielle",
+        "imdb_person_url": "https://www.imdb.com/name/nm0547180/"
+      },
+      {
+        "name": "Anne Brochet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0110543/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of Monsieur de Sainte-Colombe, a recluse musician, and his pupil, Marin Marais, in 17th century France.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103110/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tous_les_matins_du_monde"
+  },
+  {
+    "title": "Van Gogh",
+    "year": 1991,
+    "director": {
+      "name": "Maurice Pialat",
+      "imdb_person_url": "https://www.imdb.com/name/nm0681146/"
+    },
+    "production_studio": "Erato Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 158,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 0.44,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jacques Dutronc",
+        "imdb_person_url": "https://www.imdb.com/name/nm0246416/"
+      },
+      {
+        "name": "Alexandra London",
+        "imdb_person_url": "https://www.imdb.com/name/nm0518683/"
+      },
+      {
+        "name": "Bernard Le Coq",
+        "imdb_person_url": "https://www.imdb.com/name/nm0494291/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The last 67 days of painter Vincent van Gogh's life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103189/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/van_gogh"
+  },
+  {
+    "title": "Jacquot de Nantes",
+    "year": 1991,
+    "director": {
+      "name": "Agnès Varda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0889513/"
+    },
+    "production_studio": "Ciné-Tamaris",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 118,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Philippe Maron",
+        "imdb_person_url": "https://www.imdb.com/name/nm0549506/"
+      },
+      {
+        "name": "Edouard Joubeaud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0430932/"
+      },
+      {
+        "name": "Laurent Monnier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0598286/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Agnès Varda's tribute to her husband, director Jacques Demy, focusing on his childhood in Nantes and his love for cinema.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102137/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jacquot_de_nantes"
+  },
+  {
+    "title": "The Elementary School",
+    "year": 1991,
+    "director": {
+      "name": "Jan Svêrák",
+      "imdb_person_url": "https://www.imdb.com/name/nm0841285/"
+    },
+    "production_studio": "Filmové studio Barrandov",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 100,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Jan Triska",
+        "imdb_person_url": "https://www.imdb.com/name/nm0873130/"
+      },
+      {
+        "name": "Zdenek Sverák",
+        "imdb_person_url": "https://www.imdb.com/name/nm0841293/"
+      },
+      {
+        "name": "Libuse Safránková",
+        "imdb_person_url": "https://www.imdb.com/name/nm0755866/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In post-WWII Czechoslovakia, a strict schoolteacher with a reputation for discipline is assigned to a class of unruly boys.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102593/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/elementary_school"
+  },
+  {
+    "title": "Urga",
+    "year": 1991,
+    "director": {
+      "name": "Nikita Mikhalkov",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000542/"
+    },
+    "production_studio": "Camera One",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 118,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.44,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Badema",
+        "imdb_person_url": "https://www.imdb.com/name/nm0046045/"
+      },
+      {
+        "name": "Bayaertu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0062725/"
+      },
+      {
+        "name": "Vladimir Gostyukhin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0331668/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Mongolian shepherd living in Inner Mongolia meets a Russian truck driver who is stuck in the steppe.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103176/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/close_to_eden"
+  },
+  {
+    "title": "High Heels",
+    "year": 1991,
+    "director": {
+      "name": "Pedro Almodóvar",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000264/"
+    },
+    "production_studio": "El Deseo",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.6,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Victoria Abril",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000721/"
+      },
+      {
+        "name": "Marisa Paredes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0661304/"
+      },
+      {
+        "name": "Miguel Bosé",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001962/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A news broadcaster murders her husband, who was once her mother's lover, and tries to reconnect with her mother who returns after a long absence.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0103030/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/high_heels"
+  },
+  {
+    "title": "City of Hope",
+    "year": 1991,
+    "director": {
+      "name": "John Sayles",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000626/"
+    },
+    "production_studio": "Esperanza Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 129,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Vincent Spano",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001759/"
+      },
+      {
+        "name": "Stephen Mendillo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0579124/"
+      },
+      {
+        "name": "Chris Cooper",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001066/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The intersecting lives of residents in a fictional American city, exploring corruption, politics, and personal struggles.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101588/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/city_of_hope"
+  },
+  {
+    "title": "Flirting",
+    "year": 1991,
+    "director": {
+      "name": "John Duigan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0241031/"
+    },
+    "production_studio": "Kennedy Miller Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 4.1,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Noah Taylor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0852965/"
+      },
+      {
+        "name": "Thandie Newton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0628601/"
+      },
+      {
+        "name": "Nicole Kidman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000173/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1965 Australia, a young boy at a strict boys' boarding school falls in love with a girl from a nearby girls' school.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101893/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/flirting"
+  },
+  {
+    "title": "The Man in the Moon",
+    "year": 1991,
+    "director": {
+      "name": "Robert Mulligan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0612262/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 99,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 20.0,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Reese Witherspoon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000702/"
+      },
+      {
+        "name": "Jason London",
+        "imdb_person_url": "https://www.imdb.com/name/nm0518712/"
+      },
+      {
+        "name": "Sam Waterston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001832/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A coming-of-age story about a young girl in 1950s rural Louisiana who falls in love with her older neighbor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0102388/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_in_the_moon"
+  },
+  {
+    "title": "Rhapsody in August",
+    "year": 1991,
+    "director": {
+      "name": "Akira Kurosawa",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000041/"
+    },
+    "production_studio": "Feature Film Enterprise II",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 98,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.05,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "58%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Sachiko Murase",
+        "imdb_person_url": "https://www.imdb.com/name/nm0613615/"
+      },
+      {
+        "name": "Hisashi Igawa",
+        "imdb_person_url": "https://www.imdb.com/name/nm0406983/"
+      },
+      {
+        "name": "Richard Gere",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An elderly woman living in Nagasaki takes care of her four grandchildren over their summer holidays. They learn about the atomic bomb that fell in 1945 and how it killed their grandfather.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0101991/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rhapsody_in_august"
   }
 ]

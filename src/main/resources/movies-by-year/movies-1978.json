@@ -6,15 +6,15 @@
       "name": "Michael Cimino",
       "imdb_person_url": "https://www.imdb.com/name/nm0001047/"
     },
-    "production_studio": "EMI Films, Universal Pictures",
+    "production_studio": "EMI Films",
     "mpaa_rating": "R",
     "runtime_minutes": 183,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 49,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 49.0,
     "ratings": {
       "imdb": 8.1,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "91%"
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
       "Drama",
@@ -30,8 +30,8 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000686/"
       },
       {
-        "name": "John Cazale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001030/"
+        "name": "Meryl Streep",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
       }
     ],
     "oscars_nominated": 9,
@@ -49,50 +49,6 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/deer_hunter"
   },
   {
-    "title": "Grease",
-    "year": 1978,
-    "director": {
-      "name": "Randal Kleiser",
-      "imdb_person_url": "https://www.imdb.com/name/nm0459385/"
-    },
-    "production_studio": "Paramount Pictures, Allan Carr Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 396,
-    "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "83%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "John Travolta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
-      },
-      {
-        "name": "Olivia Newton-John",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000556/"
-      },
-      {
-        "name": "Stockard Channing",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001037/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Good girl Sandy Olsson and greaser Danny Zuko fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077631/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grease"
-  },
-  {
     "title": "Halloween",
     "year": 1978,
     "director": {
@@ -102,8 +58,8 @@
     "production_studio": "Compass International Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 91,
-    "budget_usd_millions": 0.325,
-    "gross_revenue_usd_millions": 70,
+    "budget_usd_millions": 0.3,
+    "gross_revenue_usd_millions": 70.0,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "96%",
@@ -116,36 +72,124 @@
     "actors": [
       {
         "name": "Donald Pleasence",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000587/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000588/"
       },
       {
         "name": "Jamie Lee Curtis",
         "imdb_person_url": "https://www.imdb.com/name/nm0000130/"
       },
       {
-        "name": "Nancy Kyes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0477432/"
+        "name": "Tony Moran",
+        "imdb_person_url": "https://www.imdb.com/name/nm0602985/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
     "description": "Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
-    "afi_ranking": null,
+    "afi_ranking": 68,
     "imdb_url": "https://www.imdb.com/title/tt0077651/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/halloween_1978"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009113-halloween"
+  },
+  {
+    "title": "Dawn of the Dead",
+    "year": 1978,
+    "director": {
+      "name": "George A. Romero",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001681/"
+    },
+    "production_studio": "Laurel Group",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 1.5,
+    "gross_revenue_usd_millions": 55.0,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "David Emge",
+        "imdb_person_url": "https://www.imdb.com/name/nm0256242/"
+      },
+      {
+        "name": "Ken Foree",
+        "imdb_person_url": "https://www.imdb.com/name/nm0286016/"
+      },
+      {
+        "name": "Scott H. Reiniger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0718137/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077402/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1005339-dawn_of_the_dead"
+  },
+  {
+    "title": "Days of Heaven",
+    "year": 1978,
+    "director": {
+      "name": "Terrence Malick",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000517/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 94,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 3.4,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Richard Gere",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
+      },
+      {
+        "name": "Brooke Adams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000724/"
+      },
+      {
+        "name": "Sam Shepard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Cinematography"
+    ],
+    "description": "A hot-tempered farm laborer convinces the woman he loves to marry their rich but dying boss so that they can have a claim to his fortune.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077405/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/days_of_heaven"
   },
   {
     "title": "Superman",
     "year": 1978,
     "director": {
       "name": "Richard Donner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001152/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001149/"
     },
     "production_studio": "Dovemead Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 143,
-    "budget_usd_millions": 55,
+    "budget_usd_millions": 55.0,
     "gross_revenue_usd_millions": 300.5,
     "ratings": {
       "imdb": 7.4,
@@ -160,29 +204,72 @@
     "actors": [
       {
         "name": "Christopher Reeve",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001659/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
       },
       {
         "name": "Margot Kidder",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001423/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000475/"
       },
       {
         "name": "Gene Hackman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000432/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Special Achievement Award for Visual Effects"
+      "Special Achievement Award (Visual Effects)"
     ],
     "description": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
-    "afi_ranking": 26,
+    "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0078346/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/superman_the_movie"
   },
   {
-    "title": "Animal House",
+    "title": "Grease",
+    "year": 1978,
+    "director": {
+      "name": "Randal Kleiser",
+      "imdb_person_url": "https://www.imdb.com/name/nm0459038/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 366.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "John Travolta",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
+      },
+      {
+        "name": "Olivia Newton-John",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000559/"
+      },
+      {
+        "name": "Stockard Channing",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000330/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Good girl Sandy and greaser Danny fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077631/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/grease"
+  },
+  {
+    "title": "National Lampoon's Animal House",
     "year": 1978,
     "director": {
       "name": "John Landis",
@@ -191,12 +278,12 @@
     "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 109,
-    "budget_usd_millions": 3,
+    "budget_usd_millions": 3.0,
     "gross_revenue_usd_millions": 141.6,
     "ratings": {
       "imdb": 7.4,
       "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Comedy"
@@ -207,12 +294,12 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000004/"
       },
       {
-        "name": "Tim Matheson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001515/"
+        "name": "Karen Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000261/"
       },
       {
-        "name": "John Vernon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001819/"
+        "name": "Tom Hulce",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001371/"
       }
     ],
     "oscars_nominated": 0,
@@ -221,71 +308,24 @@
     "description": "At a 1962 college, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
     "afi_ranking": 36,
     "imdb_url": "https://www.imdb.com/title/tt0077975/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/animal_house"
-  },
-  {
-    "title": "Midnight Express",
-    "year": 1978,
-    "director": {
-      "name": "Alan Parker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000571/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 121,
-    "budget_usd_millions": 2.3,
-    "gross_revenue_usd_millions": 35,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Brad Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001115/"
-      },
-      {
-        "name": "Irene Miracle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0592070/"
-      },
-      {
-        "name": "Bo Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001362/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Writing, Screenplay Based on Material from Another Medium",
-      "Best Music, Original Score"
-    ],
-    "description": "The true story of Billy Hayes, an American college student who is caught smuggling drugs out of Turkey and is thrown into a brutal Turkish prison.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077928/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/midnight_express"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/national_lampoons_animal_house"
   },
   {
     "title": "Coming Home",
     "year": 1978,
     "director": {
       "name": "Hal Ashby",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000795/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000797/"
     },
-    "production_studio": "United Artists",
+    "production_studio": "Jerome Hellman Productions",
     "mpaa_rating": "R",
     "runtime_minutes": 127,
-    "budget_usd_millions": 3,
+    "budget_usd_millions": 3.0,
     "gross_revenue_usd_millions": 32.7,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
       "Drama",
@@ -303,7 +343,7 @@
       },
       {
         "name": "Bruce Dern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001136/"
       }
     ],
     "oscars_nominated": 8,
@@ -313,361 +353,10 @@
       "Best Actress in a Leading Role",
       "Best Writing, Screenplay Written Directly for the Screen"
     ],
-    "description": "A woman whose husband is serving in Vietnam falls in love with a paralyzed veteran.",
+    "description": "A woman whose husband is fighting in Vietnam falls in love with another man who suffered a paralyzing combat injury there.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0077362/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/coming_home"
-  },
-  {
-    "title": "Days of Heaven",
-    "year": 1978,
-    "director": {
-      "name": "Terrence Malick",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000517/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 3.4,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Richard Gere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
-      },
-      {
-        "name": "Brooke Adams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000726/"
-      },
-      {
-        "name": "Sam Shepard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001731/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Cinematography"
-    ],
-    "description": "A farm laborer convinces his lover to marry their wealthy but terminally ill boss so they can inherit his fortune.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077405/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/days_of_heaven"
-  },
-  {
-    "title": "Dawn of the Dead",
-    "year": 1978,
-    "director": {
-      "name": "George A. Romero",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001681/"
-    },
-    "production_studio": "Laurel Group",
-    "mpaa_rating": "Unrated",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 0.65,
-    "gross_revenue_usd_millions": 66,
-    "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "90%"
-    },
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "David Emge",
-        "imdb_person_url": "https://www.imdb.com/name/nm0256519/"
-      },
-      {
-        "name": "Ken Foree",
-        "imdb_person_url": "https://www.imdb.com/name/nm0286069/"
-      },
-      {
-        "name": "Scott H. Reiniger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0718002/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077402/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dawn_of_the_dead_1978"
-  },
-  {
-    "title": "Invasion of the Body Snatchers",
-    "year": 1978,
-    "director": {
-      "name": "Philip Kaufman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001412/"
-    },
-    "production_studio": "Solofilm",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 25,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Donald Sutherland",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
-      },
-      {
-        "name": "Brooke Adams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000726/"
-      },
-      {
-        "name": "Jeff Goldblum",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000156/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "When strange seeds drift to earth from space, mysterious pods begin to grow and invade San Francisco, replicating the city's residents one body at a time.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077745/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/invasion_of_the_body_snatchers"
-  },
-  {
-    "title": "An Unmarried Woman",
-    "year": 1978,
-    "director": {
-      "name": "Paul Mazursky",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005202/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 24,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Jill Clayburgh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001048/"
-      },
-      {
-        "name": "Alan Bates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000876/"
-      },
-      {
-        "name": "Michael Murphy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001556/"
-      }
-    ],
-    "oscars_nominated": 3,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A wealthy woman from Manhattan's Upper East Side is forced to re-evaluate her life after her husband of 17 years leaves her for a younger woman.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078444/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/an_unmarried_woman"
-  },
-  {
-    "title": "The Last Waltz",
-    "year": 1978,
-    "director": {
-      "name": "Martin Scorsese",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
-    },
-    "production_studio": "Last Waltz Inc.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 117,
-    "budget_usd_millions": 0.6,
-    "gross_revenue_usd_millions": 2,
-    "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Documentary",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Robbie Robertson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005377/"
-      },
-      {
-        "name": "Rick Danko",
-        "imdb_person_url": "https://www.imdb.com/name/nm0199279/"
-      },
-      {
-        "name": "Levon Helm",
-        "imdb_person_url": "https://www.imdb.com/name/nm0375427/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A film account of the final concert of The Band, with guest performances by rock legends such as Bob Dylan, Van Morrison, Eric Clapton, and Joni Mitchell.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077838/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_last_waltz"
-  },
-  {
-    "title": "Heaven Can Wait",
-    "year": 1978,
-    "director": {
-      "name": "Warren Beatty, Buck Henry",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000886/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 101,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 98.7,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Warren Beatty",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000886/"
-      },
-      {
-        "name": "Julie Christie",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
-      },
-      {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
-      }
-    ],
-    "oscars_nominated": 9,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Art Direction-Set Decoration"
-    ],
-    "description": "A Los Angeles Rams quarterback, accidentally taken to heaven, is sent back to Earth in the body of a millionaire whose wife and lover are plotting to murder him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077663/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heaven_can_wait"
-  },
-  {
-    "title": "Up in Smoke",
-    "year": 1978,
-    "director": {
-      "name": "Lou Adler",
-      "imdb_person_url": "https://www.imdb.com/name/nm0012192/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 86,
-    "budget_usd_millions": 2,
-    "gross_revenue_usd_millions": 44.4,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "47%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Comedy",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Cheech Marin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001507/"
-      },
-      {
-        "name": "Tommy Chong",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001045/"
-      },
-      {
-        "name": "Strother Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0553011/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two stoners unknowingly smuggle a van made entirely of marijuana from Mexico to L.A., with incompetent Sgt. Stedenko on their trail.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078446/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/up_in_smoke"
-  },
-  {
-    "title": "The Lord of the Rings",
-    "year": 1978,
-    "director": {
-      "name": "Ralph Bakshi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000835/"
-    },
-    "production_studio": "Fantasy Films",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 132,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 30.5,
-    "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "52%",
-      "rotten_tomatoes_popcorn": "56%"
-    },
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Christopher Guard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0345474/"
-      },
-      {
-        "name": "William Squire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0820050/"
-      },
-      {
-        "name": "Michael Scholes",
-        "imdb_person_url": "https://www.imdb.com/name/nm0774690/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077869/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lord_of_the_rings"
   },
   {
     "title": "Autumn Sonata",
@@ -679,12 +368,12 @@
     "production_studio": "Personafilm",
     "mpaa_rating": "PG",
     "runtime_minutes": 99,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 1.7,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "93%"
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
       "Drama",
@@ -697,37 +386,80 @@
       },
       {
         "name": "Liv Ullmann",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001808/"
       },
       {
         "name": "Lena Nyman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0638069/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0638753/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A famous but emotionally distant concert pianist is reunited with her two daughters, one of whom is disabled, and old resentments and buried truths emerge.",
+    "description": "A celebrated classical pianist visits her neglected daughter in Sweden, where old wounds resurface.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077711/",
+    "imdb_url": "https://www.imdb.com/title/tt0077696/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/autumn_sonata"
+  },
+  {
+    "title": "The Last Waltz",
+    "year": 1978,
+    "director": {
+      "name": "Martin Scorsese",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+    },
+    "production_studio": "FM Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 117,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.3,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Robbie Robertson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005374/"
+      },
+      {
+        "name": "Muddy Waters",
+        "imdb_person_url": "https://www.imdb.com/name/nm0914156/"
+      },
+      {
+        "name": "Neil Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0949918/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A documentary about the 1976 farewell concert of The Band, featuring performances by their friends and influences.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077838/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_waltz"
   },
   {
     "title": "Watership Down",
     "year": 1978,
     "director": {
       "name": "Martin Rosen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0742211/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0741991/"
     },
     "production_studio": "Nepenthe Productions",
     "mpaa_rating": "PG",
     "runtime_minutes": 91,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": null,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 3.7,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "87%"
     },
     "genres": [
       "Animation",
@@ -737,85 +469,656 @@
     "actors": [
       {
         "name": "John Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000457/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000459/"
       },
       {
         "name": "Richard Briers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0109214/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000977/"
       },
       {
-        "name": "Michael Graham Cox",
-        "imdb_person_url": "https://www.imdb.com/name/nm0185078/"
+        "name": "Ralph Richardson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001669/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A group of rabbits flee their doomed warren and face many dangers to find and establish a new home.",
+    "description": "Hoping to escape destruction by human developers and save their community, a colony of rabbits, led by Hazel and Fiver, seek out a safe place to set up a new warren.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0078480/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/watership_down"
   },
   {
-    "title": "The Boys from Brazil",
+    "title": "An Unmarried Woman",
     "year": 1978,
     "director": {
-      "name": "Franklin J. Schaffner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0769822/"
+      "name": "Paul Mazursky",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005199/"
     },
-    "production_studio": "Producers Circle",
+    "production_studio": "Twentieth Century Fox",
     "mpaa_rating": "R",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 19,
+    "runtime_minutes": 124,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 24.0,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "57%"
     },
     "genres": [
+      "Comedy",
       "Drama",
-      "Sci-Fi",
-      "Thriller"
+      "Romance"
     ],
     "actors": [
       {
-        "name": "Gregory Peck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
+        "name": "Jill Clayburgh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001049/"
       },
       {
-        "name": "Laurence Olivier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000057/"
+        "name": "Alan Bates",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000868/"
       },
       {
-        "name": "James Mason",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001511/"
+        "name": "Michael Murphy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0614539/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A Nazi hunter in Paraguay discovers a plot to clone Adolf Hitler.",
+    "description": "A wealthy woman re-evaluates her life when her husband leaves her for a younger woman.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077269/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boys_from_brazil"
+    "imdb_url": "https://www.imdb.com/title/tt0078444/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/unmarried_woman"
   },
   {
-    "title": "Every Which Way but Loose",
+    "title": "Blue Collar",
     "year": 1978,
     "director": {
-      "name": "James Fargo",
-      "imdb_person_url": "https://www.imdb.com/name/nm0267272/"
+      "name": "Paul Schrader",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001707/"
     },
-    "production_studio": "The Malpaso Company",
-    "mpaa_rating": "PG",
+    "production_studio": "T.A.T. Communications Company",
+    "mpaa_rating": "R",
     "runtime_minutes": 114,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 104.3,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "29%",
-      "rotten_tomatoes_popcorn": "55%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Richard Pryor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001639/"
+      },
+      {
+        "name": "Harvey Keitel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000172/"
+      },
+      {
+        "name": "Yaphet Kotto",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001433/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three auto workers, fed up with their union leadership and their working conditions, plan to rob the union safe.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077248/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blue_collar"
+  },
+  {
+    "title": "The Tree of Wooden Clogs",
+    "year": 1978,
+    "director": {
+      "name": "Ermanno Olmi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0647432/"
+    },
+    "production_studio": "Rai",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 186,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Luigi Ornaghi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0650269/"
+      },
+      {
+        "name": "Francesca Moriggi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0605389/"
+      },
+      {
+        "name": "Omar Brignoli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0109312/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The life of four peasant families living in a farm in Lombardy, Italy, at the end of the 19th century.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077138/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tree_of_wooden_clogs"
+  },
+  {
+    "title": "Invasion of the Body Snatchers",
+    "year": 1978,
+    "director": {
+      "name": "Philip Kaufman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001413/"
+    },
+    "production_studio": "Solofilm",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 115,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 24.9,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Donald Sutherland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
+      },
+      {
+        "name": "Brooke Adams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000724/"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000156/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "When strange seeds drift to earth from space, mysterious pods begin to grow and invade San Francisco, replicating the residents one body at a time.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077745/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1010679-invasion_of_the_body_snatchers"
+  },
+  {
+    "title": "Midnight Express",
+    "year": 1978,
+    "director": {
+      "name": "Alan Parker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000570/"
+    },
+    "production_studio": "Casablanca Filmworks",
+    "mpaa_rating": "R",
+    "runtime_minutes": 121,
+    "budget_usd_millions": 2.3,
+    "gross_revenue_usd_millions": 35.0,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "87%"
+    },
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Brad Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0204273/"
+      },
+      {
+        "name": "Irene Miracle",
+        "imdb_person_url": "https://www.imdb.com/name/nm0591547/"
+      },
+      {
+        "name": "Bo Hopkins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0394114/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Writing, Screenplay Based on Material from Another Medium",
+      "Best Music, Original Score"
+    ],
+    "description": "Billy Hayes, an American college student, is caught smuggling drugs out of Turkey and thrown into prison.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077928/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/midnight_express"
+  },
+  {
+    "title": "Get Out Your Handkerchiefs",
+    "year": 1978,
+    "director": {
+      "name": "Bertrand Blier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0088365/"
+    },
+    "production_studio": "Les Films Ariane",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Gérard Depardieu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
+      },
+      {
+        "name": "Patrick Dewaere",
+        "imdb_person_url": "https://www.imdb.com/name/nm0223030/"
+      },
+      {
+        "name": "Carole Laure",
+        "imdb_person_url": "https://www.imdb.com/name/nm0490947/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Foreign Language Film"
+    ],
+    "description": "A man's wife is depressed, so he finds her a lover in the hopes of cheering her up.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078122/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/get_out_your_handkerchiefs"
+  },
+  {
+    "title": "The Silent Partner",
+    "year": 1978,
+    "director": {
+      "name": "Daryl Duke",
+      "imdb_person_url": "https://www.imdb.com/name/nm0241199/"
+    },
+    "production_studio": "Carolco Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Elliott Gould",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001285/"
+      },
+      {
+        "name": "Christopher Plummer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001626/"
+      },
+      {
+        "name": "Susannah York",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001868/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A timid bank teller anticipates a bank robbery and steals the money himself before the robber arrives. The sadist robber realizes he's been tricked and tracks down the teller.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078269/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/silent_partner"
+  },
+  {
+    "title": "Big Wednesday",
+    "year": 1978,
+    "director": {
+      "name": "John Milius",
+      "imdb_person_url": "https://www.imdb.com/name/nm0587518/"
+    },
+    "production_studio": "A-Team",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 120,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 4.5,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Jan-Michael Vincent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001821/"
+      },
+      {
+        "name": "William Katt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001416/"
+      },
+      {
+        "name": "Gary Busey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000997/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The lives of three friends who are united by their love for surfing, spanning from the 1960s to the 1970s.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077235/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/big_wednesday"
+  },
+  {
+    "title": "The Driver",
+    "year": 1978,
+    "director": {
+      "name": "Walter Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 91,
+    "budget_usd_millions": 4.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "74%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Ryan O'Neal",
+        "imdb_person_url": "https://www.imdb.com/name/nm0641939/"
+      },
+      {
+        "name": "Bruce Dern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001136/"
+      },
+      {
+        "name": "Isabelle Adjani",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000254/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A specialist driver for getaway cars finds himself pursued by a detective obsessed with catching him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077474/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/driver"
+  },
+  {
+    "title": "Straight Time",
+    "year": 1978,
+    "director": {
+      "name": "Ulu Grosbard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0342981/"
+    },
+    "production_studio": "First Artists",
+    "mpaa_rating": "R",
+    "runtime_minutes": 114,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Dustin Hoffman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
+      },
+      {
+        "name": "Theresa Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
+      },
+      {
+        "name": "Harry Dean Stanton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001765/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A career criminal is released on parole but finds it impossible to go straight, leading him back to a life of crime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078326/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/straight_time"
+  },
+  {
+    "title": "Girlfriends",
+    "year": 1978,
+    "director": {
+      "name": "Claudia Weill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0917950/"
+    },
+    "production_studio": "Cyclops",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Melanie Mayron",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001524/"
+      },
+      {
+        "name": "Anita Skinner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0804212/"
+      },
+      {
+        "name": "Eli Wallach",
+        "imdb_person_url": "https://www.imdb.com/name/nm0908919/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young photographer deals with loneliness and her career after her roommate and best friend moves out to get married.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077613/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/girlfriends"
+  },
+  {
+    "title": "The Chant of Jimmie Blacksmith",
+    "year": 1978,
+    "director": {
+      "name": "Fred Schepisi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001703/"
+    },
+    "production_studio": "The Film House",
+    "mpaa_rating": "R",
+    "runtime_minutes": 122,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Tommy Lewis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0507850/"
+      },
+      {
+        "name": "Freddy Reynolds",
+        "imdb_person_url": "https://www.imdb.com/name/nm0721708/"
+      },
+      {
+        "name": "Angela Punch McGregor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0700595/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A half-white, half-Aboriginal man in turn-of-the-century Australia is driven to madness by racism and mistreatment.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077318/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chant_of_jimmie_blacksmith"
+  },
+  {
+    "title": "Newsfront",
+    "year": 1978,
+    "director": {
+      "name": "Phillip Noyce",
+      "imdb_person_url": "https://www.imdb.com/name/nm0637570/"
+    },
+    "production_studio": "Palm Beach Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 1.1,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "41%"
+    },
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Bill Hunter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0402735/"
+      },
+      {
+        "name": "Wendy Hughes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0401037/"
+      },
+      {
+        "name": "Gerard Kennedy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0448057/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The story of newsreel cameramen in Australia from the late 1940s to the 1950s.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077983/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/newsfront"
+  },
+  {
+    "title": "The 36th Chamber of Shaolin",
+    "year": 1978,
+    "director": {
+      "name": "Chia-Liang Liu",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514936/"
+    },
+    "production_studio": "Shaw Brothers",
+    "mpaa_rating": "R",
+    "runtime_minutes": 115,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Chia-Hui Liu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0514947/"
+      },
+      {
+        "name": "Lieh Lo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0516358/"
+      },
+      {
+        "name": "Chia-Yung Liu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0514937/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man learns martial arts at the Shaolin temple to fight against the oppressive Manchu government.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078243/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/36th_chamber_of_shaolin"
+  },
+  {
+    "title": "Drunken Master",
+    "year": 1978,
+    "director": {
+      "name": "Woo-Ping Yuen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0950759/"
+    },
+    "production_studio": "Seasonal Film Corporation",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 111,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Action",
@@ -823,86 +1126,811 @@
     ],
     "actors": [
       {
-        "name": "Clint Eastwood",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000142/"
+        "name": "Jackie Chan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000329/"
       },
       {
-        "name": "Sondra Locke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001476/"
+        "name": "Siu-Tin Yuen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950754/"
       },
       {
-        "name": "Geoffrey Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0507208/"
+        "name": "Jang-Lee Hwang",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404987/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The San Fernando Valley adventures of a trucker-turned-bare-knuckle-brawler and his 165-pound orangutan.",
+    "description": "A mischievous young man is trained in martial arts by his drunken master to defeat an assassin.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077523/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/every_which_way_but_loose"
+    "imdb_url": "https://www.imdb.com/title/tt0077407/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/drunken_master"
   },
   {
-    "title": "Foul Play",
+    "title": "Snake in the Eagle's Shadow",
     "year": 1978,
     "director": {
-      "name": "Colin Higgins",
-      "imdb_person_url": "https://www.imdb.com/name/nm0383480/"
+      "name": "Woo-Ping Yuen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0950759/"
     },
-    "production_studio": "Paramount Pictures",
+    "production_studio": "Seasonal Film Corporation",
     "mpaa_rating": "PG",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 45,
+    "runtime_minutes": 90,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "74%",
-      "rotten_tomatoes_popcorn": "71%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Comedy",
-      "Mystery",
-      "Thriller"
+      "Action",
+      "Comedy"
     ],
     "actors": [
       {
-        "name": "Goldie Hawn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000440/"
+        "name": "Jackie Chan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000329/"
       },
       {
-        "name": "Chevy Chase",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000331/"
+        "name": "Siu-Tin Yuen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950754/"
       },
       {
-        "name": "Burgess Meredith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001529/"
+        "name": "Jang-Lee Hwang",
+        "imdb_person_url": "https://www.imdb.com/name/nm0404987/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A shy librarian and a bumbling detective get mixed up in a plot to assassinate the Pope.",
+    "description": "An orphan who is bullied at a kung fu school is taught a unique fighting style by a beggar.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077578/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/foul_play"
+    "imdb_url": "https://www.imdb.com/title/tt0078244/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/snake_in_the_eagles_shadow"
+  },
+  {
+    "title": "Five Deadly Venoms",
+    "year": 1978,
+    "director": {
+      "name": "Cheh Chang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0151706/"
+    },
+    "production_studio": "Shaw Brothers",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Sheng Chiang",
+        "imdb_person_url": "https://www.imdb.com/name/nm0157070/"
+      },
+      {
+        "name": "Philip Kwok",
+        "imdb_person_url": "https://www.imdb.com/name/nm0477145/"
+      },
+      {
+        "name": "Feng Lu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0523821/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A dying master sends his last student to check up on five former pupils, who each know a special style of kung fu, to see if they are using their skills for good or evil.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077559/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/five_deadly_venoms"
+  },
+  {
+    "title": "Heroes of the East",
+    "year": 1978,
+    "director": {
+      "name": "Chia-Liang Liu",
+      "imdb_person_url": "https://www.imdb.com/name/nm0514936/"
+    },
+    "production_studio": "Shaw Brothers",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 100,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Chia-Hui Liu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0514947/"
+      },
+      {
+        "name": "Yuka Mizuno",
+        "imdb_person_url": "https://www.imdb.com/name/nm0594689/"
+      },
+      {
+        "name": "Yasuaki Kurata",
+        "imdb_person_url": "https://www.imdb.com/name/nm0475603/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Chinese man marries a Japanese woman through an arranged marriage and he manages to insult all of her Japanese martial arts family by issuing a challenge to her.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078516/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heroes_of_the_east"
+  },
+  {
+    "title": "Crippled Avengers",
+    "year": 1978,
+    "director": {
+      "name": "Cheh Chang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0151706/"
+    },
+    "production_studio": "Shaw Brothers",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Kuan-Chun Chen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0155299/"
+      },
+      {
+        "name": "Feng Lu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0523821/"
+      },
+      {
+        "name": "Philip Kwok",
+        "imdb_person_url": "https://www.imdb.com/name/nm0477145/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After a group of martial artists are crippled by a ruthless warlord, they learn kung fu to take their revenge.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077292/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/return_of_the_5_deadly_venoms"
+  },
+  {
+    "title": "Warriors Two",
+    "year": 1978,
+    "director": {
+      "name": "Sammo Kam-Bo Hung",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005033/"
+    },
+    "production_studio": "Golden Harvest Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Sammo Kam-Bo Hung",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005033/"
+      },
+      {
+        "name": "Casanova Wong",
+        "imdb_person_url": "https://www.imdb.com/name/nm0938971/"
+      },
+      {
+        "name": "Biao Yuen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950699/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man learns Wing Chun to defeat a gang of thugs who are trying to take over his town.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078517/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/warriors_two"
+  },
+  {
+    "title": "The Avenging Eagle",
+    "year": 1978,
+    "director": {
+      "name": "Chung Sun",
+      "imdb_person_url": "https://www.imdb.com/name/nm0838965/"
+    },
+    "production_studio": "Shaw Brothers",
+    "mpaa_rating": "R",
+    "runtime_minutes": 86,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Lung Ti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0859942/"
+      },
+      {
+        "name": "Sheng Fu",
+        "imdb_person_url": "https://www.imdb.com/name/nm0298889/"
+      },
+      {
+        "name": "Feng Ku",
+        "imdb_person_url": "https://www.imdb.com/name/nm0473551/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A renegade killer from a criminal clan teams up with a stranger to defeat the clan's leader.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077868/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/avenging_eagle"
+  },
+  {
+    "title": "Killer of Sheep",
+    "year": 1978,
+    "director": {
+      "name": "Charles Burnett",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001978/"
+    },
+    "production_studio": "Charles Burnett Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 0.01,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Henry G. Sanders",
+        "imdb_person_url": "https://www.imdb.com/name/nm0761569/"
+      },
+      {
+        "name": "Kaycee Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0601460/"
+      },
+      {
+        "name": "Charles Bracy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0102693/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A slaughterhouse worker struggles to survive in the Watts neighborhood of Los Angeles.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0076263/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/killer_of_sheep"
+  },
+  {
+    "title": "Gates of Heaven",
+    "year": 1978,
+    "director": {
+      "name": "Errol Morris",
+      "imdb_person_url": "https://www.imdb.com/name/nm0606517/"
+    },
+    "production_studio": "Gates of Heaven",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.12,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Documentary"
+    ],
+    "actors": [],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A documentary about the pet cemetery business, and the people who get involved in it.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077598/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gates_of_heaven"
+  },
+  {
+    "title": "The Whole Shootin' Match",
+    "year": 1978,
+    "director": {
+      "name": "Eagle Pennell",
+      "imdb_person_url": "https://www.imdb.com/name/nm0672076/"
+    },
+    "production_studio": "Watchmaker Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 0.045,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Lou Perryman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0675276/"
+      },
+      {
+        "name": "Sonny Carl Davis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0205526/"
+      },
+      {
+        "name": "Doris Hargrave",
+        "imdb_person_url": "https://www.imdb.com/name/nm0362947/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two friends in Texas struggle to get rich quick with a series of failed schemes.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078491/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whole_shootin_match"
+  },
+  {
+    "title": "Northern Lights",
+    "year": 1978,
+    "director": {
+      "name": "John Hanson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0361021/"
+    },
+    "production_studio": "Cine Manifest",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 95,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "60%"
+    },
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Robert Behling",
+        "imdb_person_url": "https://www.imdb.com/name/nm0066925/"
+      },
+      {
+        "name": "Susan Lynch",
+        "imdb_person_url": "https://www.imdb.com/name/nm0528456/"
+      },
+      {
+        "name": "Joe Spano",
+        "imdb_person_url": "https://www.imdb.com/name/nm0816876/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Camera d'Or (Cannes)"
+    ],
+    "description": "A dramatization of the early days of the Nonpartisan League in North Dakota.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0079641/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1015243-northern_lights"
+  },
+  {
+    "title": "Perceval le Gallois",
+    "year": 1978,
+    "director": {
+      "name": "Éric Rohmer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0006445/"
+    },
+    "production_studio": "Les Films du Losange",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 138,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "72%"
+    },
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Fabrice Luchini",
+        "imdb_person_url": "https://www.imdb.com/name/nm0524502/"
+      },
+      {
+        "name": "André Dussollier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0244747/"
+      },
+      {
+        "name": "Marie-Christine Barrault",
+        "imdb_person_url": "https://www.imdb.com/name/nm0056763/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A stylized adaptation of Chrétien de Troyes' Arthurian romance about a naive youth who becomes a knight.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078073/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/perceval"
+  },
+  {
+    "title": "Molière",
+    "year": 1978,
+    "director": {
+      "name": "Ariane Mnouchkine",
+      "imdb_person_url": "https://www.imdb.com/name/nm0594801/"
+    },
+    "production_studio": "Les Films du Soleil et de la Nuit",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 260,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Philippe Caubère",
+        "imdb_person_url": "https://www.imdb.com/name/nm0146399/"
+      },
+      {
+        "name": "Marie-Françoise Audollent",
+        "imdb_person_url": "https://www.imdb.com/name/nm0041603/"
+      },
+      {
+        "name": "Frédéric Ladonne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0480620/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A biopic of the French playwright Molière.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077941/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/moliere"
+  },
+  {
+    "title": "Dossier 51",
+    "year": 1978,
+    "director": {
+      "name": "Michel Deville",
+      "imdb_person_url": "https://www.imdb.com/name/nm0222830/"
+    },
+    "production_studio": "Philippe Dussart",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 108,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "François Marthouret",
+        "imdb_person_url": "https://www.imdb.com/name/nm0552097/"
+      },
+      {
+        "name": "Claude Marcault",
+        "imdb_person_url": "https://www.imdb.com/name/nm0545228/"
+      },
+      {
+        "name": "Roger Planchon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0686460/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A secret service agency compiles a dossier on a diplomat in order to find a way to manipulate him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077457/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dossier_51"
+  },
+  {
+    "title": "Orchestra Rehearsal",
+    "year": 1978,
+    "director": {
+      "name": "Federico Fellini",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000019/"
+    },
+    "production_studio": "Daimo Cinematografica",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 70,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Balduin Baas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0044697/"
+      },
+      {
+        "name": "Clara Colosimo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0173169/"
+      },
+      {
+        "name": "Elisabeth Labi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0479529/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An Italian television crew films an orchestra rehearsal in a 13th-century church, which descends into chaos.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0078122/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/orchestra_rehearsal"
+  },
+  {
+    "title": "Max Havelaar",
+    "year": 1978,
+    "director": {
+      "name": "Fons Rademakers",
+      "imdb_person_url": "https://www.imdb.com/name/nm0705466/"
+    },
+    "production_studio": "Fons Rademakers Produktie",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 170,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": null,
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Peter Faber",
+        "imdb_person_url": "https://www.imdb.com/name/nm0264870/"
+      },
+      {
+        "name": "Sacha Bulthuis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0120188/"
+      },
+      {
+        "name": "Rutger Hauer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000442/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Dutch colonial administrator in the East Indies tries to reform the corrupt system but faces opposition from his superiors and local rulers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0074880/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/max_havelaar"
+  },
+  {
+    "title": "The Rutles: All You Need Is Cash",
+    "year": 1978,
+    "director": {
+      "name": "Gary Weis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0918910/"
+    },
+    "production_studio": "Rutles Corps",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 76,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Eric Idle",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001385/"
+      },
+      {
+        "name": "John Halsey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0357065/"
+      },
+      {
+        "name": "Ricky Fataar",
+        "imdb_person_url": "https://www.imdb.com/name/nm0268800/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A mockumentary that follows the career of a Beatles-like band called The Rutles.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077147/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rutles_all_you_need_is_cash"
+  },
+  {
+    "title": "The Medusa Touch",
+    "year": 1978,
+    "director": {
+      "name": "Jack Gold",
+      "imdb_person_url": "https://www.imdb.com/name/nm0324976/"
+    },
+    "production_studio": "Coatesgold",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "70%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Richard Burton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
+      },
+      {
+        "name": "Lino Ventura",
+        "imdb_person_url": "https://www.imdb.com/name/nm0893322/"
+      },
+      {
+        "name": "Lee Remick",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001664/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A French detective in London investigates a series of disasters that seem to be caused by a man with telekinetic powers.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077921/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/medusa_touch"
+  },
+  {
+    "title": "The Buddy Holly Story",
+    "year": 1978,
+    "director": {
+      "name": "Steve Rash",
+      "imdb_person_url": "https://www.imdb.com/name/nm0711102/"
+    },
+    "production_studio": "Innovisions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 114,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 14.3,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Gary Busey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000997/"
+      },
+      {
+        "name": "Don Stroud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0835154/"
+      },
+      {
+        "name": "Charles Martin Smith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0807693/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Adaptation Score"
+    ],
+    "description": "The life history of rock and roll singer Buddy Holly.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077280/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/buddy_holly_story"
   },
   {
     "title": "Death on the Nile",
     "year": 1978,
     "director": {
       "name": "John Guillermin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0346892/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0347113/"
     },
-    "production_studio": "EMI Films",
+    "production_studio": "Mersham Productions Ltd.",
     "mpaa_rating": "PG",
     "runtime_minutes": 140,
-    "budget_usd_millions": 7.8,
-    "gross_revenue_usd_millions": 14.6,
+    "budget_usd_millions": 7.9,
+    "gross_revenue_usd_millions": 14.5,
     "ratings": {
       "imdb": 7.2,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
       "Crime",
@@ -920,7 +1948,7 @@
       },
       {
         "name": "Simon MacCorkindale",
-        "imdb_person_url": "https://www.imdb.com/name/nm0532297/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0531542/"
       }
     ],
     "oscars_nominated": 1,
@@ -928,145 +1956,268 @@
     "oscars_won_details": [
       "Best Costume Design"
     ],
-    "description": "As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board. Can he identify the killer before the ship reaches the end of its journey?",
+    "description": "As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0077413/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/death_on_the_nile"
   },
   {
-    "title": "The Tree of Wooden Clogs",
+    "title": "The Boys from Brazil",
     "year": 1978,
     "director": {
-      "name": "Ermanno Olmi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0647467/"
+      "name": "Franklin J. Schaffner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001701/"
     },
-    "production_studio": "Ital-Noleggio Cinematografico",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 186,
-    "budget_usd_millions": 0.3,
-    "gross_revenue_usd_millions": null,
+    "production_studio": "ITC Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 125,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 19.0,
     "ratings": {
-      "imdb": 7.9,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "89%"
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "67%"
     },
     "genres": [
       "Drama",
-      "History"
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Luigi Ornaghi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0650117/"
+        "name": "Gregory Peck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000060/"
       },
       {
-        "name": "Francesca Moriggi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0605330/"
+        "name": "Laurence Olivier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000059/"
       },
       {
-        "name": "Omar Brignoli",
-        "imdb_person_url": "https://www.imdb.com/name/nm0109214/"
+        "name": "James Mason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001512/"
+      }
+    ],
+    "oscars_nominated": 3,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Nazi hunter in Paraguay discovers a sinister plot to revive the Third Reich using cloning.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077269/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/boys_from_brazil"
+  },
+  {
+    "title": "Stevie",
+    "year": 1978,
+    "director": {
+      "name": "Robert Enders",
+      "imdb_person_url": "https://www.imdb.com/name/nm0256820/"
+    },
+    "production_studio": "First Artists",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 102,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Glenda Jackson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001392/"
+      },
+      {
+        "name": "Mona Washbourne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0913386/"
+      },
+      {
+        "name": "Alec McCowen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0566654/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of several peasant families living on a farm in late 19th-century Italy.",
+    "description": "A biopic of the British poet Stevie Smith.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077138/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_tree_of_wooden_clogs"
+    "imdb_url": "https://www.imdb.com/title/tt0078314/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stevie_1978"
   },
   {
-    "title": "The Buddy Holly Story",
+    "title": "In a Year of 13 Moons",
     "year": 1978,
     "director": {
-      "name": "Steve Rash",
-      "imdb_person_url": "https://www.imdb.com/name/nm0711075/"
+      "name": "Rainer Werner Fassbinder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001202/"
     },
-    "production_studio": "Innovisions, ECA",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 14.3,
+    "production_studio": "Tango Film",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 124,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Biography",
-      "Drama",
-      "Music"
+      "Drama"
     ],
     "actors": [
       {
-        "name": "Gary Busey",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000997/"
+        "name": "Volker Spengler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0818239/"
       },
       {
-        "name": "Don Stroud",
-        "imdb_person_url": "https://www.imdb.com/name/nm0834923/"
+        "name": "Ingrid Caven",
+        "imdb_person_url": "https://www.imdb.com/name/nm0146937/"
       },
       {
-        "name": "Charles Martin Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001748/"
+        "name": "Gottfried John",
+        "imdb_person_url": "https://www.imdb.com/name/nm0424166/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A transsexual woman struggles with identity and rejection in late 1970s Germany.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077737/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/in_a_year_of_13_moons"
+  },
+  {
+    "title": "Without Anesthesia",
+    "year": 1978,
+    "director": {
+      "name": "Andrzej Wajda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0906667/"
+    },
+    "production_studio": "Zespol Filmowy \"X\"",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 131,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Zbigniew Zapasiewicz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0953186/"
+      },
+      {
+        "name": "Ewa Dalkowska",
+        "imdb_person_url": "https://www.imdb.com/name/nm0198007/"
+      },
+      {
+        "name": "Andrzej Seweryn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0786595/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A well-known foreign correspondent finds his personal and professional life crumbling when his wife leaves him and he falls out of favor with the regime.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0077224/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/without_anesthesia"
+  },
+  {
+    "title": "La Cage aux Folles",
+    "year": 1978,
+    "director": {
+      "name": "Édouard Molinaro",
+      "imdb_person_url": "https://www.imdb.com/name/nm0596766/"
+    },
+    "production_studio": "Da Ma Produzione",
+    "mpaa_rating": "R",
+    "runtime_minutes": 97,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 20.4,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Ugo Tognazzi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0865586/"
+      },
+      {
+        "name": "Michel Serrault",
+        "imdb_person_url": "https://www.imdb.com/name/nm0785640/"
+      },
+      {
+        "name": "Claire Maurier",
+        "imdb_person_url": "https://www.imdb.com/name/nm0560949/"
       }
     ],
     "oscars_nominated": 3,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score"
-    ],
-    "description": "The story of the life and career of the pioneering rock and roll singer.",
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two gay men living in St. Tropez have their lives turned upside down when the son of one of the men announces he is getting married to a girl whose father is a right-wing politician.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077280/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/buddy_holly_story"
+    "imdb_url": "https://www.imdb.com/title/tt0077288/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/la_cage_aux_folles"
   },
   {
-    "title": "California Suite",
+    "title": "Heaven Can Wait",
     "year": 1978,
     "director": {
-      "name": "Herbert Ross",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001684/"
+      "name": "Warren Beatty",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000886/"
     },
-    "production_studio": "Columbia Pictures",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 42.9,
+    "runtime_minutes": 101,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 81.6,
     "ratings": {
-      "imdb": 6.1,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "51%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
       "Comedy",
-      "Drama",
+      "Fantasy",
       "Romance"
     ],
     "actors": [
       {
-        "name": "Jane Fonda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000404/"
+        "name": "Warren Beatty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000886/"
       },
       {
-        "name": "Alan Alda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000257/"
+        "name": "Julie Christie",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001046/"
       },
       {
-        "name": "Maggie Smith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001749/"
+        "name": "James Mason",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001512/"
       }
     ],
-    "oscars_nominated": 3,
+    "oscars_nominated": 9,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Actress in a Supporting Role"
+      "Best Art Direction-Set Decoration"
     ],
-    "description": "Four groups of guests at a California hotel find their lives intersecting in unexpected ways.",
+    "description": "A football player is taken to heaven prematurely, and must be returned to Earth in the body of a millionaire who has just been murdered by his wife and accountant.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077292/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/california_suite"
+    "imdb_url": "https://www.imdb.com/title/tt0077663/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1009422-heaven_can_wait"
   },
   {
     "title": "Interiors",
@@ -1077,13 +2228,13 @@
     },
     "production_studio": "Jack Rollins & Charles H. Joffe Productions",
     "mpaa_rating": "PG",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 3,
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": 10.4,
     "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
       "Drama"
@@ -1095,804 +2246,62 @@
       },
       {
         "name": "Geraldine Page",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001587/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0656193/"
       },
       {
-        "name": "Maureen Stapleton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001766/"
+        "name": "Kristin Griffith",
+        "imdb_person_url": "https://www.imdb.com/name/nm0341538/"
       }
     ],
     "oscars_nominated": 5,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of three sisters whose lives are turned upside down when their parents separate.",
+    "description": "Three sisters find their lives spinning out of control in the wake of their parents' sudden and unexpected divorce.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077742/",
+    "imdb_url": "https://www.imdb.com/title/tt0077741/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/interiors"
   },
   {
-    "title": "The Driver",
+    "title": "Up in Smoke",
     "year": 1978,
     "director": {
-      "name": "Walter Hill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
-    },
-    "production_studio": "20th Century Fox",
-    "mpaa_rating": "R",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 5,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Ryan O'Neal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001577/"
-      },
-      {
-        "name": "Bruce Dern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001131/"
-      },
-      {
-        "name": "Isabelle Adjani",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000084/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A skilled getaway driver for hire finds himself in a cat-and-mouse game with a determined detective.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077474/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/driver"
-  },
-  {
-    "title": "Jaws 2",
-    "year": 1978,
-    "director": {
-      "name": "Jeannot Szwarc",
-      "imdb_person_url": "https://www.imdb.com/name/nm0844238/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 30,
-    "gross_revenue_usd_millions": 208,
-    "ratings": {
-      "imdb": 5.8,
-      "rotten_tomatoes_critic": "61%",
-      "rotten_tomatoes_popcorn": "41%"
-    },
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Roy Scheider",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001702/"
-      },
-      {
-        "name": "Lorraine Gary",
-        "imdb_person_url": "https://www.imdb.com/name/nm0308891/"
-      },
-      {
-        "name": "Murray Hamilton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0358043/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Police chief Martin Brody must protect the citizens of Amity after a second monstrous shark begins terrorizing the waters.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077766/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/jaws_2"
-  },
-  {
-    "title": "The Wiz",
-    "year": 1978,
-    "director": {
-      "name": "Sidney Lumet",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
-    },
-    "production_studio": "Universal Pictures, Motown Productions",
-    "mpaa_rating": "G",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 24,
-    "gross_revenue_usd_millions": 21,
-    "ratings": {
-      "imdb": 5.5,
-      "rotten_tomatoes_critic": "46%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Adventure",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Diana Ross",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005383/"
-      },
-      {
-        "name": "Michael Jackson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001391/"
-      },
-      {
-        "name": "Nipsey Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0751381/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An adaptation of 'The Wizard of Oz' that tries to capture the essence of the African-American experience.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078504/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wiz"
-  },
-  {
-    "title": "Hooper",
-    "year": 1978,
-    "director": {
-      "name": "Hal Needham",
-      "imdb_person_url": "https://www.imdb.com/name/nm0624128/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 78,
-    "ratings": {
-      "imdb": 6.3,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Burt Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
-      },
-      {
-        "name": "Jan-Michael Vincent",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001822/"
-      },
-      {
-        "name": "Sally Field",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000398/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An aging stuntman tries to prove that he's still the best in the business.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077696/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/hooper"
-  },
-  {
-    "title": "Magic",
-    "year": 1978,
-    "director": {
-      "name": "Richard Attenborough",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000277/"
-    },
-    "production_studio": "Joseph E. Levine Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 107,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 23.8,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "68%"
-    },
-    "genres": [
-      "Drama",
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Anthony Hopkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000164/"
-      },
-      {
-        "name": "Ann-Margret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000767/"
-      },
-      {
-        "name": "Burgess Meredith",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001529/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A ventriloquist is at the mercy of his vicious dummy.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077889/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1012928-magic"
-  },
-  {
-    "title": "Piranha",
-    "year": 1978,
-    "director": {
-      "name": "Joe Dante",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001094/"
-    },
-    "production_studio": "New World Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 94,
-    "budget_usd_millions": 0.6,
-    "gross_revenue_usd_millions": 16,
-    "ratings": {
-      "imdb": 5.9,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Bradford Dillman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0226848/"
-      },
-      {
-        "name": "Heather Menzies-Urich",
-        "imdb_person_url": "https://www.imdb.com/name/nm0580795/"
-      },
-      {
-        "name": "Kevin McCarthy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005200/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A river is infested with flesh-eating piranhas, and a group of people must find a way to stop them.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078087/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/piranha"
-  },
-  {
-    "title": "The Silent Partner",
-    "year": 1978,
-    "director": {
-      "name": "Daryl Duke",
-      "imdb_person_url": "https://www.imdb.com/name/nm0241032/"
-    },
-    "production_studio": "Carolco Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 2.6,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Elliott Gould",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001285/"
-      },
-      {
-        "name": "Christopher Plummer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001626/"
-      },
-      {
-        "name": "Susannah York",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001867/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A meek bank teller has a plan to rob his own bank, but he gets into trouble when a real bank robber shows up.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078274/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_silent_partner"
-  },
-  {
-    "title": "Eyes of Laura Mars",
-    "year": 1978,
-    "director": {
-      "name": "Irvin Kershner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001423/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 104,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 20,
-    "ratings": {
-      "imdb": 6.1,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "46%"
-    },
-    "genres": [
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Faye Dunaway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
-      },
-      {
-        "name": "Tommy Lee Jones",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000169/"
-      },
-      {
-        "name": "Brad Dourif",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000374/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A fashion photographer develops the ability to see through the eyes of a killer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077530/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eyes_of_laura_mars"
-  },
-  {
-    "title": "The Wild Geese",
-    "year": 1978,
-    "director": {
-      "name": "Andrew V. McLaglen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0572124/"
-    },
-    "production_studio": "Richmond Film Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 11.5,
-    "gross_revenue_usd_millions": 6.5,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Richard Burton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000319/"
-      },
-      {
-        "name": "Roger Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000549/"
-      },
-      {
-        "name": "Richard Harris",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001321/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A group of mercenaries is hired to rescue a deposed African leader.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078492/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wild_geese"
-  },
-  {
-    "title": "Who Is Killing the Great Chefs of Europe?",
-    "year": 1978,
-    "director": {
-      "name": "Ted Kotcheff",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002169/"
-    },
-    "production_studio": "Aldrich Company",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 112,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 8,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Comedy",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "George Segal",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001718/"
-      },
-      {
-        "name": "Jacqueline Bisset",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000302/"
-      },
-      {
-        "name": "Robert Morley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001552/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A series of bizarre murders of Europe's top chefs has a beautiful and talented chef and her ex-husband on the case.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078499/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/who_is_killing_the_great_chefs_of_europe"
-  },
-  {
-    "title": "Pretty Baby",
-    "year": 1978,
-    "director": {
-      "name": "Louis Malle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001501/"
+      "name": "Lou Adler",
+      "imdb_person_url": "https://www.imdb.com/name/nm0012199/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 2.7,
-    "gross_revenue_usd_millions": 5.8,
+    "runtime_minutes": 86,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 44.4,
     "ratings": {
-      "imdb": 6.5,
+      "imdb": 6.9,
       "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "55%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Brooke Shields",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000222/"
-      },
-      {
-        "name": "Keith Carradine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001018/"
-      },
-      {
-        "name": "Susan Sarandon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of a 12-year-old girl who is raised in a New Orleans brothel.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078111/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pretty_baby"
-  },
-  {
-    "title": "The Big Fix",
-    "year": 1978,
-    "director": {
-      "name": "Jeremy Kagan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0434825/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 6.8,
-    "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "51%"
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
       "Comedy",
-      "Mystery",
-      "Thriller"
+      "Music"
     ],
     "actors": [
       {
-        "name": "Richard Dreyfuss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
+        "name": "Cheech Marin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001507/"
       },
       {
-        "name": "Susan Anspach",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000769/"
+        "name": "Tommy Chong",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001045/"
       },
       {
-        "name": "Bonnie Bedelia",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000889/"
+        "name": "Strother Martin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005192/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A former 1960s radical, now a private detective, is hired by a former girlfriend to investigate a political smear campaign.",
+    "description": "Two stoners unknowingly smuggle a van - made entirely of marijuana - from Mexico to L.A., with incompetent Sgt. Stedenko on their trail.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077233/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_big_fix"
-  },
-  {
-    "title": "The Chant of Jimmie Blacksmith",
-    "year": 1978,
-    "director": {
-      "name": "Fred Schepisi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001700/"
-    },
-    "production_studio": "The Film House",
-    "mpaa_rating": "R",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 1.2,
-    "gross_revenue_usd_millions": 1,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Biography",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tommy Lewis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0507208/"
-      },
-      {
-        "name": "Freddy Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0721473/"
-      },
-      {
-        "name": "Ray Barrett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0057116/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The true story of an Aboriginal man who goes on a killing spree in early 20th-century Australia.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077321/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_chant_of_jimmie_blacksmith"
-  },
-  {
-    "title": "Gates of Heaven",
-    "year": 1978,
-    "director": {
-      "name": "Errol Morris",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001554/"
-    },
-    "production_studio": "Errol Morris Films",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 85,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Documentary"
-    ],
-    "actors": [
-      {
-        "name": "Floyd 'Mac' McClure",
-        "imdb_person_url": "https://www.imdb.com/name/nm0566580/"
-      },
-      {
-        "name": "Cal Harberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0362547/"
-      },
-      {
-        "name": "Dan Harberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0362547/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A documentary about two pet cemeteries in Northern California.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077600/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gates_of_heaven"
-  },
-  {
-    "title": "Get Out Your Handkerchiefs",
-    "year": 1978,
-    "director": {
-      "name": "Bertrand Blier",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000949/"
-    },
-    "production_studio": "Les Films Ariane",
-    "mpaa_rating": "R",
-    "runtime_minutes": 109,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 1,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Gérard Depardieu",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000367/"
-      },
-      {
-        "name": "Carole Laure",
-        "imdb_person_url": "https://www.imdb.com/name/nm0491032/"
-      },
-      {
-        "name": "Patrick Dewaere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0223022/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Foreign Language Film"
-    ],
-    "description": "A man who is trying to cheer up his depressed wife offers her to a stranger.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077224/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/get_out_your_handkerchiefs"
-  },
-  {
-    "title": "Revenge of the Pink Panther",
-    "year": 1978,
-    "director": {
-      "name": "Blake Edwards",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001175/"
-    },
-    "production_studio": "United Artists",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 49.6,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Peter Sellers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000065/"
-      },
-      {
-        "name": "Herbert Lom",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001479/"
-      },
-      {
-        "name": "Dyan Cannon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001007/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "To prove that he is still alive, the former Chief Inspector Dreyfus goes to great lengths to kill the now-famous Inspector Clouseau.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078163/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/revenge_of_the_pink_panther"
-  },
-  {
-    "title": "Same Time, Next Year",
-    "year": 1978,
-    "director": {
-      "name": "Robert Mulligan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0612322/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 119,
-    "budget_usd_millions": 4,
-    "gross_revenue_usd_millions": 20,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Ellen Burstyn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000995/"
-      },
-      {
-        "name": "Alan Alda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000257/"
-      },
-      {
-        "name": "Ivan Bonar",
-        "imdb_person_url": "https://www.imdb.com/name/nm0094052/"
-      }
-    ],
-    "oscars_nominated": 4,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A man and a woman who are both married to other people meet once a year for a romantic weekend.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0078200/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/same_time_next_year"
-  },
-  {
-    "title": "The Cheap Detective",
-    "year": 1978,
-    "director": {
-      "name": "Robert Moore",
-      "imdb_person_url": "https://www.imdb.com/name/nm0601785/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 20,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Comedy",
-      "Mystery"
-    ],
-    "actors": [
-      {
-        "name": "Peter Falk",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000393/"
-      },
-      {
-        "name": "Ann-Margret",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000767/"
-      },
-      {
-        "name": "Eileen Brennan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000976/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A spoof of Humphrey Bogart's classic detective films.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0077321/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cheap_detective"
+    "imdb_url": "https://www.imdb.com/title/tt0078446/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/up_in_smoke"
   }
 ]
