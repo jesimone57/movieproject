@@ -122,4 +122,6 @@ public class ActorAwards {
     @JsonProperty("locarno_film_festival_won")
     private int locarnoFilmFestivalWon;
     private String awards;
+    @JsonProperty("peabody_awards_won")
+    private int peabodyAwardsWon;
 }

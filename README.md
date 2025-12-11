@@ -162,8 +162,8 @@ or omitting important films.    Start with the year 1950.
 
 ## AI Data generation prompt for Actor Filmographies
 
-As a movie lover and as fan of cinema I would like a json dataset with a minimum of 25 or more unique films for a given actor or actress.
-Given the following example json dataset structure, produce a filmography for katherine hepburn which includes:
+As a movie lover and as fan of cinema I would like a JSON dataset with a minimum of 25 or more unique films for a given actor or actress.
+Given the following example JSON dataset structure, produce a filmography for katherine hepburn which includes:
 the following criteria:
 
 * all her most notable and important films
@@ -172,6 +172,12 @@ the following criteria:
 * all her films she won or was nominated for awards (oscar, bafta, golden globe, etc.)
 * all films having an IMDB score of 7 or greater
 * American Film Institute (AFI) best of lists
+* include any notes in the awards section to elaborate further on awards
+* omit the suffix award and use grammys_won instead of grammy_awards_won.  Use cannes_won, oscars_won, golden_globes_won, emmys_won , etc for other awards you can use _award.
+* try to reach a total of 25 films for each actor, but if that is not possible then as many as you can that are noteworthy
+* some actors/actresses have not won any awards yet their films are still important.  try to do the best you can.
+* if there are no awards, use null instead of "None".
+* do not include URLs in notes
 
 ```json
 {
