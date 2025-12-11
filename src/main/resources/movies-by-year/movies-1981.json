@@ -6,14 +6,14 @@
       "name": "Steven Spielberg",
       "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "Lucasfilm, Paramount Pictures",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 115,
-    "budget_usd_millions": 18,
+    "budget_usd_millions": 18.0,
     "gross_revenue_usd_millions": 389.9,
     "ratings": {
       "imdb": 8.4,
-      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_critic": "95%",
       "rotten_tomatoes_popcorn": "96%"
     },
     "genres": [
@@ -31,7 +31,7 @@
       },
       {
         "name": "Paul Freeman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0293499/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0293550/"
       }
     ],
     "oscars_nominated": 9,
@@ -41,29 +41,122 @@
       "Best Sound",
       "Best Film Editing",
       "Best Effects, Visual Effects",
-      "Special Achievement Award for Sound Effects Editing"
+      "Special Achievement Award (Sound Effects Editing)"
     ],
-    "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its supernatural powers.",
+    "description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
     "afi_ranking": 66,
     "imdb_url": "https://www.imdb.com/title/tt0082971/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/raiders_of_the_lost_ark"
+  },
+  {
+    "title": "Chariots of Fire",
+    "year": 1981,
+    "director": {
+      "name": "Hugh Hudson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0399853/"
+    },
+    "production_studio": "Enigma Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 5.5,
+    "gross_revenue_usd_millions": 59.0,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Ben Cross",
+        "imdb_person_url": "https://www.imdb.com/name/nm0189115/"
+      },
+      {
+        "name": "Ian Charleson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0153139/"
+      },
+      {
+        "name": "Nicholas Farrell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0268297/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Writing, Screenplay Written Directly for the Screen",
+      "Best Costume Design",
+      "Best Music, Original Score"
+    ],
+    "description": "Two British track athletes, one a determined Jew and the other a devout Christian, compete in the 1924 Olympics.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082158/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chariots_of_fire"
+  },
+  {
+    "title": "Das Boot",
+    "year": 1981,
+    "director": {
+      "name": "Wolfgang Petersen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000583/"
+    },
+    "production_studio": "Bavaria Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 149,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 84.9,
+    "ratings": {
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Jürgen Prochnow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000593/"
+      },
+      {
+        "name": "Herbert Grönemeyer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0344464/"
+      },
+      {
+        "name": "Klaus Wennemann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0921040/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082096/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/das_boot"
   },
   {
     "title": "On Golden Pond",
     "year": 1981,
     "director": {
       "name": "Mark Rydell",
-      "imdb_person_url": "https://www.imdb.com/name/nm0753238/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0005394/"
     },
-    "production_studio": "IPC Films, ITC Entertainment",
+    "production_studio": "IPC Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 109,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 119.3,
     "ratings": {
       "imdb": 7.6,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Drama"
@@ -89,59 +182,10 @@
       "Best Actress in a Leading Role",
       "Best Writing, Screenplay Based on Material from Another Medium"
     ],
-    "description": "An aging couple, their estranged daughter, and her new boyfriend's son spend a summer together at a lake house in New England.",
+    "description": "Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082854/",
+    "imdb_url": "https://www.imdb.com/title/tt0082846/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/on_golden_pond"
-  },
-  {
-    "title": "Chariots of Fire",
-    "year": 1981,
-    "director": {
-      "name": "Hugh Hudson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0399853/"
-    },
-    "production_studio": "20th Century Fox, Allied Stars",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 125,
-    "budget_usd_millions": 5.5,
-    "gross_revenue_usd_millions": 59,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "84%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "Sport"
-    ],
-    "actors": [
-      {
-        "name": "Ben Cross",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001082/"
-      },
-      {
-        "name": "Ian Charleson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001036/"
-      },
-      {
-        "name": "Nicholas Farrell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0268153/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Writing, Screenplay Written Directly for the Screen",
-      "Best Costume Design",
-      "Best Music, Original Score"
-    ],
-    "description": "The story of two British track athletes, one a determined Jew and the other a devout Christian, who compete in the 1924 Olympics.",
-    "afi_ranking": 100,
-    "imdb_url": "https://www.imdb.com/title/tt0082158/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chariots_of_fire"
   },
   {
     "title": "Reds",
@@ -153,12 +197,12 @@
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 195,
-    "budget_usd_millions": 32,
-    "gross_revenue_usd_millions": 50,
+    "budget_usd_millions": 32.0,
+    "gross_revenue_usd_millions": 40.4,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "79%"
     },
     "genres": [
       "Biography",
@@ -175,8 +219,8 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000473/"
       },
       {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
+        "name": "Edward Herrmann",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001346/"
       }
     ],
     "oscars_nominated": 12,
@@ -186,143 +230,10 @@
       "Best Actress in a Supporting Role",
       "Best Cinematography"
     ],
-    "description": "A radical American journalist becomes involved with the Russian Revolution and tries to bring its communist ideals to the United States.",
+    "description": "A radical American journalist becomes involved with the Communist revolution in Russia, and hopes to bring its spirit and idealism to the United States.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082979/",
+    "imdb_url": "https://www.imdb.com/title/tt0082988/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/reds"
-  },
-  {
-    "title": "Das Boot",
-    "year": 1981,
-    "director": {
-      "name": "Wolfgang Petersen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000583/"
-    },
-    "production_studio": "Bavaria Film, Radiant Film GmbH",
-    "mpaa_rating": "R",
-    "runtime_minutes": 149,
-    "budget_usd_millions": 18.5,
-    "gross_revenue_usd_millions": 11.5,
-    "ratings": {
-      "imdb": 8.4,
-      "rotten_tomatoes_critic": "98%",
-      "rotten_tomatoes_popcorn": "96%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Jürgen Prochnow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
-      },
-      {
-        "name": "Herbert Grönemeyer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0343387/"
-      },
-      {
-        "name": "Klaus Wennemann",
-        "imdb_person_url": "https://www.imdb.com/name/nm0921471/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082096/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/das_boot"
-  },
-  {
-    "title": "An American Werewolf in London",
-    "year": 1981,
-    "director": {
-      "name": "John Landis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000484/"
-    },
-    "production_studio": "PolyGram Filmed Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 62,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Comedy",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "David Naughton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0622791/"
-      },
-      {
-        "name": "Jenny Agutter",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000256/"
-      },
-      {
-        "name": "Griffin Dunne",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001159/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Makeup"
-    ],
-    "description": "Two American college students on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082010/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/an_american_werewolf_in_london"
-  },
-  {
-    "title": "Escape from New York",
-    "year": 1981,
-    "director": {
-      "name": "John Carpenter",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000118/"
-    },
-    "production_studio": "AVCO Embassy Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 25.2,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "77%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Kurt Russell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
-      },
-      {
-        "name": "Lee Van Cleef",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001811/"
-      },
-      {
-        "name": "Ernest Borgnine",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000308/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082340/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/escape_from_new_york"
   },
   {
     "title": "Mad Max 2: The Road Warrior",
@@ -331,15 +242,15 @@
       "name": "George Miller",
       "imdb_person_url": "https://www.imdb.com/name/nm0004306/"
     },
-    "production_studio": "Kennedy Miller Entertainment",
+    "production_studio": "Kennedy Miller Productions",
     "mpaa_rating": "R",
     "runtime_minutes": 96,
-    "budget_usd_millions": 4.5,
-    "gross_revenue_usd_millions": 23.7,
+    "budget_usd_millions": 3.3,
+    "gross_revenue_usd_millions": 23.6,
     "ratings": {
       "imdb": 7.6,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "93%"
     },
     "genres": [
       "Action",
@@ -357,7 +268,7 @@
       },
       {
         "name": "Michael Preston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0696144/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0696457/"
       }
     ],
     "oscars_nominated": 0,
@@ -366,24 +277,330 @@
     "description": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community escape a horde of bandits.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0082694/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/road_warrior"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mad_max_2_the_road_warrior"
+  },
+  {
+    "title": "The Evil Dead",
+    "year": 1981,
+    "director": {
+      "name": "Sam Raimi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
+    },
+    "production_studio": "Renaissance Pictures",
+    "mpaa_rating": "NC-17",
+    "runtime_minutes": 85,
+    "budget_usd_millions": 0.35,
+    "gross_revenue_usd_millions": 2.4,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "95%",
+      "rotten_tomatoes_popcorn": "84%"
+    },
+    "genres": [
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Bruce Campbell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0132257/"
+      },
+      {
+        "name": "Ellen Sandweiss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0762391/"
+      },
+      {
+        "name": "Richard DeManincor",
+        "imdb_person_url": "https://www.imdb.com/name/nm0218151/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083907/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_evil_dead"
+  },
+  {
+    "title": "Body Heat",
+    "year": 1981,
+    "director": {
+      "name": "Lawrence Kasdan",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001410/"
+    },
+    "production_studio": "The Ladd Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 24.0,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "77%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "William Hurt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
+      },
+      {
+        "name": "Kathleen Turner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000678/"
+      },
+      {
+        "name": "Richard Crenna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001077/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In the midst of a searing Florida heat wave, a woman convinces her lover, a small-town lawyer, to murder her rich husband.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082089/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/body_heat"
+  },
+  {
+    "title": "Blow Out",
+    "year": 1981,
+    "director": {
+      "name": "Brian De Palma",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000361/"
+    },
+    "production_studio": "Filmways Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 13.8,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "John Travolta",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
+      },
+      {
+        "name": "Nancy Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000262/"
+      },
+      {
+        "name": "John Lithgow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001475/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually a murder and consequently finds himself in danger.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082085/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blow_out"
+  },
+  {
+    "title": "Escape from New York",
+    "year": 1981,
+    "director": {
+      "name": "John Carpenter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000118/"
+    },
+    "production_studio": "AVCO Embassy Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 25.2,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "78%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "actors": [
+      {
+        "name": "Kurt Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
+      },
+      {
+        "name": "Lee Van Cleef",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001812/"
+      },
+      {
+        "name": "Ernest Borgnine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000308/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082340/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/escape_from_new_york"
+  },
+  {
+    "title": "Gallipoli",
+    "year": 1981,
+    "director": {
+      "name": "Peter Weir",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001837/"
+    },
+    "production_studio": "R&R Films",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 2.8,
+    "gross_revenue_usd_millions": 5.7,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "86%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Mel Gibson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
+      },
+      {
+        "name": "Mark Lee",
+        "imdb_person_url": "https://www.imdb.com/name/nm0497818/"
+      },
+      {
+        "name": "Bill Kerr",
+        "imdb_person_url": "https://www.imdb.com/name/nm0449831/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two Australian sprinters face the brutal realities of war when they are sent to fight in the Gallipoli campaign in Turkey during World War I.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082432/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gallipoli"
+  },
+  {
+    "title": "Thief",
+    "year": 1981,
+    "director": {
+      "name": "Michael Mann",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "R",
+    "runtime_minutes": 123,
+    "budget_usd_millions": 5.5,
+    "gross_revenue_usd_millions": 11.5,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "85%"
+    },
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "James Caan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
+      },
+      {
+        "name": "Tuesday Weld",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001840/"
+      },
+      {
+        "name": "Willie Nelson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0625828/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An expert safecracker wants to make one last big score before settling down with his girlfriend, but gets entangled with the mob.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083190/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/thief"
+  },
+  {
+    "title": "My Dinner with Andre",
+    "year": 1981,
+    "director": {
+      "name": "Louis Malle",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000519/"
+    },
+    "production_studio": "Saga Productions Inc.",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 0.475,
+    "gross_revenue_usd_millions": 5.2,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "89%"
+    },
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Andre Gregory",
+        "imdb_person_url": "https://www.imdb.com/name/nm0339735/"
+      },
+      {
+        "name": "Wallace Shawn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001728/"
+      },
+      {
+        "name": "Jean Lenauer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0501710/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082784/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_dinner_with_andre"
   },
   {
     "title": "Time Bandits",
     "year": 1981,
     "director": {
       "name": "Terry Gilliam",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000416/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001272/"
     },
     "production_studio": "HandMade Films",
     "mpaa_rating": "PG",
     "runtime_minutes": 110,
-    "budget_usd_millions": 5,
+    "budget_usd_millions": 5.0,
     "gross_revenue_usd_millions": 42.4,
     "ratings": {
       "imdb": 6.9,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
       "Adventure",
@@ -407,357 +624,10 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young boy accidentally joins a band of time-traveling dwarves as they jump from era to era looking for treasure to steal.",
+    "description": "A young boy accidentally joins a band of time travelling dwarves, as they jump from era to era looking for treasure to steal.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0081633/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/time_bandits"
-  },
-  {
-    "title": "Body Heat",
-    "year": 1981,
-    "director": {
-      "name": "Lawrence Kasdan",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001410/"
-    },
-    "production_studio": "The Ladd Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 113,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 24.1,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Crime",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "William Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000458/"
-      },
-      {
-        "name": "Kathleen Turner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000678/"
-      },
-      {
-        "name": "Richard Crenna",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001079/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In the midst of a searing Florida heat wave, a woman persuades her lover, a small-town lawyer, to murder her wealthy husband.",
-    "afi_ranking": 94,
-    "imdb_url": "https://www.imdb.com/title/tt0082089/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/body_heat"
-  },
-  {
-    "title": "The Evil Dead",
-    "year": 1981,
-    "director": {
-      "name": "Sam Raimi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000600/"
-    },
-    "production_studio": "Renaissance Pictures",
-    "mpaa_rating": "NC-17",
-    "runtime_minutes": 85,
-    "budget_usd_millions": 0.35,
-    "gross_revenue_usd_millions": 29.4,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Bruce Campbell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0132257/"
-      },
-      {
-        "name": "Ellen Sandweiss",
-        "imdb_person_url": "https://www.imdb.com/name/nm0762438/"
-      },
-      {
-        "name": "Richard DeManincor",
-        "imdb_person_url": "https://www.imdb.com/name/nm0218318/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Five college students vacationing in an isolated cabin in a remote wooded area find an ancient book that releases a legion of demons and spirits.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083907/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_evil_dead"
-  },
-  {
-    "title": "Scanners",
-    "year": 1981,
-    "director": {
-      "name": "David Cronenberg",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
-    },
-    "production_studio": "Canadian Film Development Corporation (CFDC)",
-    "mpaa_rating": "R",
-    "runtime_minutes": 103,
-    "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 14.2,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Jennifer O'Neill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001576/"
-      },
-      {
-        "name": "Stephen Lack",
-        "imdb_person_url": "https://www.imdb.com/name/nm0480357/"
-      },
-      {
-        "name": "Patrick McGoohan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001526/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A scientist sends a man with extraordinary psychic powers to hunt others like him.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0081455/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scanners"
-  },
-  {
-    "title": "Stripes",
-    "year": 1981,
-    "director": {
-      "name": "Ivan Reitman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001661/"
-    },
-    "production_studio": "Columbia Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 106,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 85.3,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "80%"
-    },
-    "genres": [
-      "Comedy",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Bill Murray",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000195/"
-      },
-      {
-        "name": "Harold Ramis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000601/"
-      },
-      {
-        "name": "Warren Oates",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001570/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two friends who are dissatisfied with their jobs decide to join the army for a bit of fun.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083131/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/stripes"
-  },
-  {
-    "title": "For Your Eyes Only",
-    "year": 1981,
-    "director": {
-      "name": "John Glen",
-      "imdb_person_url": "https://www.imdb.com/name/nm0322515/"
-    },
-    "production_studio": "Eon Productions, United Artists",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 127,
-    "budget_usd_millions": 28,
-    "gross_revenue_usd_millions": 195.3,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Roger Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000549/"
-      },
-      {
-        "name": "Carole Bouquet",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000961/"
-      },
-      {
-        "name": "Topol",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001800/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "James Bond is assigned to find a missing British vessel, equipped with a weapons encryption device and prevent it from falling into enemy hands.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082398/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/for_your_eyes_only"
-  },
-  {
-    "title": "Thief",
-    "year": 1981,
-    "director": {
-      "name": "Michael Mann",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000520/"
-    },
-    "production_studio": "United Artists",
-    "mpaa_rating": "R",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 5.5,
-    "gross_revenue_usd_millions": 11.5,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "James Caan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001001/"
-      },
-      {
-        "name": "Tuesday Weld",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001838/"
-      },
-      {
-        "name": "Willie Nelson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001563/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A professional safe cracker's plan to settle down with his girlfriend is disrupted when he gets involved with a powerful crime boss.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083190/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021239-thief"
-  },
-  {
-    "title": "Gallipoli",
-    "year": 1981,
-    "director": {
-      "name": "Peter Weir",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001837/"
-    },
-    "production_studio": "Associated R&R Films",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 2.8,
-    "gross_revenue_usd_millions": 5.7,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Adventure",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Mel Gibson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
-      },
-      {
-        "name": "Mark Lee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0497181/"
-      },
-      {
-        "name": "Bill Kerr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0449622/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of two young Australian sprinters who are sent to fight in the Gallipoli campaign during World War I.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082432/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gallipoli"
-  },
-  {
-    "title": "The French Lieutenant's Woman",
-    "year": 1981,
-    "director": {
-      "name": "Karel Reisz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0718536/"
-    },
-    "production_studio": "Juniper Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 26.8,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Meryl Streep",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
-      },
-      {
-        "name": "Jeremy Irons",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000460/"
-      },
-      {
-        "name": "Hilton McRae",
-        "imdb_person_url": "https://www.imdb.com/name/nm0574312/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A film-within-a-film, in which the actors in a Victorian period drama have an affair that mirrors the story of their characters.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082402/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/french_lieutenants_woman"
   },
   {
     "title": "Excalibur",
@@ -769,12 +639,12 @@
     "production_studio": "Orion Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 140,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 34.9,
+    "budget_usd_millions": 11.0,
+    "gross_revenue_usd_millions": 35.0,
     "ratings": {
       "imdb": 7.3,
-      "rotten_tomatoes_critic": "80%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "84%"
     },
     "genres": [
       "Adventure",
@@ -784,58 +654,58 @@
     "actors": [
       {
         "name": "Nigel Terry",
-        "imdb_person_url": "https://www.imdb.com/name/nm0855747/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0856073/"
       },
       {
         "name": "Helen Mirren",
         "imdb_person_url": "https://www.imdb.com/name/nm0000545/"
       },
       {
-        "name": "Nicholas Clay",
-        "imdb_person_url": "https://www.imdb.com/name/nm0165439/"
+        "name": "Nicol Williamson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0932116/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A retelling of the legend of King Arthur and the Knights of the Round Table.",
+    "description": "Merlin the wizard helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as forces conspire to tear it apart.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0082348/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/excalibur"
   },
   {
-    "title": "Quest for Fire",
+    "title": "An American Werewolf in London",
     "year": 1981,
     "director": {
-      "name": "Jean-Jacques Annaud",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000266/"
+      "name": "John Landis",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000484/"
     },
-    "production_studio": "International Cinema Corporation",
+    "production_studio": "PolyGram Filmed Entertainment",
     "mpaa_rating": "R",
-    "runtime_minutes": 100,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 65,
+    "runtime_minutes": 97,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 30.6,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
-      "Adventure",
-      "Drama"
+      "Comedy",
+      "Horror"
     ],
     "actors": [
       {
-        "name": "Everett McGill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001522/"
+        "name": "David Naughton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0622543/"
       },
       {
-        "name": "Ron Perlman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000579/"
+        "name": "Jenny Agutter",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000256/"
       },
       {
-        "name": "Nameer El-Kadi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0253457/"
+        "name": "Griffin Dunne",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000379/"
       }
     ],
     "oscars_nominated": 1,
@@ -843,44 +713,43 @@
     "oscars_won_details": [
       "Best Makeup"
     ],
-    "description": "In prehistoric times, a tribe of primitive humans must find a new source of fire after their old one is extinguished.",
+    "description": "Two American college students on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082484/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quest_for_fire"
+    "imdb_url": "https://www.imdb.com/title/tt0082010/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/american_werewolf_in_london"
   },
   {
     "title": "Mephisto",
     "year": 1981,
     "director": {
       "name": "István Szabó",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001784/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0843640/"
     },
-    "production_studio": "Mafilm, Objektív Film",
-    "mpaa_rating": "R",
+    "production_studio": "Mafilm",
+    "mpaa_rating": "Not Rated",
     "runtime_minutes": 144,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": 3.9,
     "ratings": {
-      "imdb": 7.8,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "89%"
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "92%"
     },
     "genres": [
-      "Drama",
-      "War"
+      "Drama"
     ],
     "actors": [
       {
         "name": "Klaus Maria Brandauer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000969/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001968/"
       },
       {
         "name": "Krystyna Janda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0417210/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0417387/"
       },
       {
         "name": "Ildikó Bánsági",
-        "imdb_person_url": "https://www.imdb.com/name/nm0052411/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0126620/"
       }
     ],
     "oscars_nominated": 1,
@@ -888,114 +757,27 @@
     "oscars_won_details": [
       "Best Foreign Language Film"
     ],
-    "description": "A German actor and director sells his soul to the Nazi regime to advance his career.",
+    "description": "A German stage actor finds unexpected success and popularity by the popularity of his performance in a Faustian play as the Nazis take power.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0082736/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mephisto"
-  },
-  {
-    "title": "The Cannonball Run",
-    "year": 1981,
-    "director": {
-      "name": "Hal Needham",
-      "imdb_person_url": "https://www.imdb.com/name/nm0624128/"
-    },
-    "production_studio": "Golden Harvest Company",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 72.2,
-    "ratings": {
-      "imdb": 6.1,
-      "rotten_tomatoes_critic": "32%",
-      "rotten_tomatoes_popcorn": "55%"
-    },
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "actors": [
-      {
-        "name": "Burt Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
-      },
-      {
-        "name": "Roger Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000549/"
-      },
-      {
-        "name": "Farrah Fawcett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000396/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A group of eccentric characters participate in an illegal cross-country road race.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082136/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cannonball_run"
-  },
-  {
-    "title": "My Dinner with Andre",
-    "year": 1981,
-    "director": {
-      "name": "Louis Malle",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001501/"
-    },
-    "production_studio": "Saga Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 0.45,
-    "gross_revenue_usd_millions": 5.2,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "91%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Andre Gregory",
-        "imdb_person_url": "https://www.imdb.com/name/nm0339833/"
-      },
-      {
-        "name": "Wallace Shawn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001728/"
-      },
-      {
-        "name": "Jean Lenauer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0501867/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Two old friends have a long and philosophical conversation over dinner.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082783/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_dinner_with_andre"
   },
   {
     "title": "Pixote",
     "year": 1981,
     "director": {
       "name": "Hector Babenco",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000824/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000823/"
     },
-    "production_studio": "Embrafilme",
-    "mpaa_rating": "Not Rated",
+    "production_studio": "HB Filmes",
+    "mpaa_rating": "R",
     "runtime_minutes": 128,
-    "budget_usd_millions": 0.4,
-    "gross_revenue_usd_millions": 1.2,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "91%"
+      "imdb": 7.9,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
       "Crime",
@@ -1004,129 +786,129 @@
     "actors": [
       {
         "name": "Fernando Ramos da Silva",
-        "imdb_person_url": "https://www.imdb.com/name/nm0199279/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0708681/"
       },
       {
         "name": "Jorge Julião",
-        "imdb_person_url": "https://www.imdb.com/name/nm0432241/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0432328/"
       },
       {
         "name": "Gilberto Moura",
-        "imdb_person_url": "https://www.imdb.com/name/nm0609867/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0609951/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "The story of a young boy who escapes from a brutal Brazilian youth detention center and becomes a street criminal.",
+    "description": "The life of a young street kid in Sao Paulo who escapes from a reform school and gets involved in drug dealing, theft and violence.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0082912/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pixote"
   },
   {
-    "title": "Arthur",
+    "title": "Diva",
     "year": 1981,
     "director": {
-      "name": "Steve Gordon",
-      "imdb_person_url": "https://www.imdb.com/name/nm0330453/"
+      "name": "Jean-Jacques Beineix",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000900/"
     },
-    "production_studio": "Orion Pictures",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 97,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 95.5,
+    "production_studio": "Les Films Galaxie",
+    "mpaa_rating": "R",
+    "runtime_minutes": 117,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "98%",
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
-      "Comedy",
-      "Romance"
+      "Crime",
+      "Drama",
+      "Music"
     ],
     "actors": [
       {
-        "name": "Dudley Moore",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001546/"
+        "name": "Frédéric Andréi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0028264/"
       },
       {
-        "name": "Liza Minnelli",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000541/"
+        "name": "Wilhelmenia Fernandez",
+        "imdb_person_url": "https://www.imdb.com/name/nm0272991/"
       },
       {
-        "name": "John Gielgud",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
+        "name": "Richard Bohringer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0092178/"
       }
     ],
-    "oscars_nominated": 4,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role",
-      "Best Music, Original Song"
-    ],
-    "description": "A drunken millionaire is forced to choose between a wealthy bride and a poor waitress.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young opera-loving mailman gets involved with an opera singer, a corrupt policeman, and a mob boss in this stylish French thriller.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082031/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1001117-arthur"
+    "imdb_url": "https://www.imdb.com/title/tt0082269/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/diva"
   },
   {
-    "title": "Ragtime",
+    "title": "The Professional",
     "year": 1981,
     "director": {
-      "name": "Milos Forman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001232/"
+      "name": "Georges Lautner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0492211/"
     },
-    "production_studio": "Sunley Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 155,
-    "budget_usd_millions": 32,
-    "gross_revenue_usd_millions": 21,
+    "production_studio": "Cerito Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.2,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": null,
+      "rotten_tomatoes_popcorn": "81%"
     },
     "genres": [
+      "Action",
+      "Crime",
       "Drama"
     ],
     "actors": [
       {
-        "name": "James Cagney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000010/"
+        "name": "Jean-Paul Belmondo",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000901/"
       },
       {
-        "name": "Brad Dourif",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000374/"
+        "name": "Jean Desailly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0220863/"
       },
       {
-        "name": "Moses Gunn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0348182/"
+        "name": "Cyrielle Clair",
+        "imdb_person_url": "https://www.imdb.com/name/nm0163236/"
       }
     ],
-    "oscars_nominated": 8,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A tapestry of American life in the early 20th century, as seen through the lives of a wealthy family, a black musician, and a Jewish immigrant.",
+    "description": "A French secret agent is betrayed by his government and returns to Paris to seek revenge.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082970/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ragtime"
+    "imdb_url": "https://www.imdb.com/title/tt0082949/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_professional_1981"
   },
   {
-    "title": "The Postman Always Rings Twice",
+    "title": "Garde à vue",
     "year": 1981,
     "director": {
-      "name": "Bob Rafelson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001647/"
+      "name": "Claude Miller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0003006/"
     },
-    "production_studio": "Lorimar Film Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 122,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 12.4,
+    "production_studio": "Les Films Ariane",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 84,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "42%",
-      "rotten_tomatoes_popcorn": "46%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": null,
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Crime",
@@ -1135,69 +917,457 @@
     ],
     "actors": [
       {
-        "name": "Jack Nicholson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000197/"
+        "name": "Lino Ventura",
+        "imdb_person_url": "https://www.imdb.com/name/nm0893322/"
       },
       {
-        "name": "Jessica Lange",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001448/"
+        "name": "Michel Serrault",
+        "imdb_person_url": "https://www.imdb.com/name/nm0785640/"
       },
       {
-        "name": "John Colicos",
-        "imdb_person_url": "https://www.imdb.com/name/nm0171804/"
+        "name": "Romy Schneider",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001704/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A drifter and the wife of a roadside diner owner have a passionate affair and plot to murder her husband.",
+    "description": "On New Year's Eve, a prominent lawyer is questioned by police about the rape and murder of two young girls.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082934/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/postman_always_rings_twice"
+    "imdb_url": "https://www.imdb.com/title/tt0082436/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/under_suspicion"
   },
   {
-    "title": "Blow Out",
+    "title": "Man of Iron",
     "year": 1981,
     "director": {
-      "name": "Brian De Palma",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000361/"
+      "name": "Andrzej Wajda",
+      "imdb_person_url": "https://www.imdb.com/name/nm0906667/"
     },
-    "production_studio": "Filmways Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 12,
+    "production_studio": "Zespol Filmowy \"X\"",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 153,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Crime",
       "Drama",
-      "Mystery"
+      "History"
     ],
     "actors": [
       {
-        "name": "John Travolta",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000237/"
+        "name": "Jerzy Radziwilowicz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0705973/"
       },
       {
-        "name": "Nancy Allen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000261/"
+        "name": "Krystyna Janda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0417387/"
       },
       {
-        "name": "John Lithgow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001475/"
+        "name": "Marian Opania",
+        "imdb_person_url": "https://www.imdb.com/name/nm0649479/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1980 Poland, a radio reporter is sent to Gdansk to dig up dirt on a strike leader, but begins to sympathize with the solidarity movement.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082222/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_of_iron"
+  },
+  {
+    "title": "Lola",
+    "year": 1981,
+    "director": {
+      "name": "Rainer Werner Fassbinder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001202/"
+    },
+    "production_studio": "Rialto Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 113,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Barbara Sukowa",
+        "imdb_person_url": "https://www.imdb.com/name/nm0837775/"
+      },
+      {
+        "name": "Armin Mueller-Stahl",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001556/"
+      },
+      {
+        "name": "Mario Adorf",
+        "imdb_person_url": "https://www.imdb.com/name/nm0012431/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
+    "description": "In 1950s West Germany, a strait-laced building commissioner falls in love with a brothel singer, unaware she is the mistress of a corrupt developer.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082085/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blow_out"
+    "imdb_url": "https://www.imdb.com/title/tt0082671/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lola_1982"
+  },
+  {
+    "title": "Coup de Torchon",
+    "year": 1981,
+    "director": {
+      "name": "Bertrand Tavernier",
+      "imdb_person_url": "https://www.imdb.com/name/nm0851838/"
+    },
+    "production_studio": "Les Films de la Tour",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 128,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Philippe Noiret",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001569/"
+      },
+      {
+        "name": "Isabelle Huppert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001377/"
+      },
+      {
+        "name": "Jean-Pierre Marielle",
+        "imdb_person_url": "https://www.imdb.com/name/nm0547180/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In 1938 French West Africa, a weak-willed police chief decides to kill everyone who has ever tormented him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082206/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/coup_de_torchon"
+  },
+  {
+    "title": "Three Brothers",
+    "year": 1981,
+    "director": {
+      "name": "Francesco Rosi",
+      "imdb_person_url": "https://www.imdb.com/name/nm0742944/"
+    },
+    "production_studio": "Iter Film",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 113,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "92%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Philippe Noiret",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001569/"
+      },
+      {
+        "name": "Michele Placido",
+        "imdb_person_url": "https://www.imdb.com/name/nm0686375/"
+      },
+      {
+        "name": "Vittorio Mezzogiorno",
+        "imdb_person_url": "https://www.imdb.com/name/nm0583853/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Three brothers return to their southern Italian village for their mother's funeral and confront their pasts and futures.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083236/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/three_brothers_1982"
+  },
+  {
+    "title": "Muddy River",
+    "year": 1981,
+    "director": {
+      "name": "Kôhei Oguri",
+      "imdb_person_url": "https://www.imdb.com/name/nm0644810/"
+    },
+    "production_studio": "Kimura Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 105,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Takahiro Tamura",
+        "imdb_person_url": "https://www.imdb.com/name/nm0848834/"
+      },
+      {
+        "name": "Mariko Kaga",
+        "imdb_person_url": "https://www.imdb.com/name/nm0434559/"
+      },
+      {
+        "name": "Nobutaka Asahara",
+        "imdb_person_url": "https://www.imdb.com/name/nm0038437/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "In post-war Osaka, a young boy befriends the son of a woman working on a houseboat, leading to a poignant look at friendship and class differences.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082293/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/muddy_river"
+  },
+  {
+    "title": "Gregory's Girl",
+    "year": 1981,
+    "director": {
+      "name": "Bill Forsyth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0287024/"
+    },
+    "production_studio": "Lake Film",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 91,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 25.8,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "94%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "John Gordon Sinclair",
+        "imdb_person_url": "https://www.imdb.com/name/nm0801648/"
+      },
+      {
+        "name": "Dee Hepburn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0378415/"
+      },
+      {
+        "name": "Jake D'Arcy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0195431/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An awkward Scottish teenager falls for the new girl on the school football team, leading to humorous romantic entanglements.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082477/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gregorys_girl"
+  },
+  {
+    "title": "Prince of the City",
+    "year": 1981,
+    "director": {
+      "name": "Sidney Lumet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 167,
+    "budget_usd_millions": 8.6,
+    "gross_revenue_usd_millions": 8.1,
+    "ratings": {
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "82%"
+    },
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Treat Williams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001852/"
+      },
+      {
+        "name": "Jerry Orbach",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001583/"
+      },
+      {
+        "name": "Richard Foronjy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0286524/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A New York City narcotics detective agrees to cooperate with a commission investigating police corruption, but finds himself in over his head.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082945/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/prince_of_the_city"
+  },
+  {
+    "title": "Southern Comfort",
+    "year": 1981,
+    "director": {
+      "name": "Walter Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
+    },
+    "production_studio": "Cinema Group Ventures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 106,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Keith Carradine",
+        "imdb_person_url": "https://www.imdb.com/name/nm0139989/"
+      },
+      {
+        "name": "Powers Boothe",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
+      },
+      {
+        "name": "Fred Ward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0911532/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "During a training exercise in the Louisiana bayou, a squad of National Guardsmen angers local Cajuns and finds themselves fighting for their lives.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083111/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/southern_comfort"
+  },
+  {
+    "title": "Quest for Fire",
+    "year": 1981,
+    "director": {
+      "name": "Jean-Jacques Annaud",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000767/"
+    },
+    "production_studio": "International Cinema Corporation",
+    "mpaa_rating": "R",
+    "runtime_minutes": 100,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 21.0,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Everett McGill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0569259/"
+      },
+      {
+        "name": "Ron Perlman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000579/"
+      },
+      {
+        "name": "Rae Dawn Chong",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001043/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Makeup"
+    ],
+    "description": "Three tribesmen go on a quest to find fire in prehistoric times, encountering various dangers and other tribes along the way.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082484/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/quest_for_fire"
+  },
+  {
+    "title": "Ragtime",
+    "year": 1981,
+    "director": {
+      "name": "Milos Forman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002080/"
+    },
+    "production_studio": "Dino De Laurentiis Company",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 155,
+    "budget_usd_millions": 32.0,
+    "gross_revenue_usd_millions": 11.8,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "James Cagney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000009/"
+      },
+      {
+        "name": "Elizabeth McGovern",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001527/"
+      },
+      {
+        "name": "Howard E. Rollins Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0738419/"
+      }
+    ],
+    "oscars_nominated": 8,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young black pianist becomes embroiled in the lives of an upper-class white family in early 1900s New York City.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082970/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ragtime"
   },
   {
     "title": "Absence of Malice",
@@ -1209,12 +1379,12 @@
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 116,
-    "budget_usd_millions": 12,
+    "budget_usd_millions": 12.0,
     "gross_revenue_usd_millions": 40.7,
     "ratings": {
       "imdb": 6.9,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "71%"
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "55%"
     },
     "genres": [
       "Drama",
@@ -1238,188 +1408,195 @@
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A prosecutor leaks a false story to a reporter, and a man's life is ruined.",
-    "afi_ranking": null,
+    "description": "A liquor wholesaler is accused of murder by a reporter based on a leak from a federal prosecutor.",
+    "afi_ranking": 92,
     "imdb_url": "https://www.imdb.com/title/tt0081974/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/absence_of_malice"
   },
   {
-    "title": "Mommie Dearest",
+    "title": "Arthur",
     "year": 1981,
     "director": {
-      "name": "Frank Perry",
-      "imdb_person_url": "https://www.imdb.com/name/nm0675037/"
+      "name": "Steve Gordon",
+      "imdb_person_url": "https://www.imdb.com/name/nm0330623/"
     },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 39,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "48%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Faye Dunaway",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000380/"
-      },
-      {
-        "name": "Diana Scarwid",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001705/"
-      },
-      {
-        "name": "Steve Forrest",
-        "imdb_person_url": "https://www.imdb.com/name/nm0286069/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of Joan Crawford's abusive and traumatic upbringing of her adopted daughter, Christina.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082766/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/mommie_dearest"
-  },
-  {
-    "title": "The Howling",
-    "year": 1981,
-    "director": {
-      "name": "Joe Dante",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001094/"
-    },
-    "production_studio": "AVCO Embassy Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 91,
-    "budget_usd_millions": 1.5,
-    "gross_revenue_usd_millions": 17.9,
-    "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "72%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Dee Wallace",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001828/"
-      },
-      {
-        "name": "Patrick Macnee",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001526/"
-      },
-      {
-        "name": "Dennis Dugan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001158/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A television newswoman is sent to a remote mountain resort after a traumatic experience, but she soon discovers that the residents are werewolves.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082533/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/howling"
-  },
-  {
-    "title": "Taps",
-    "year": 1981,
-    "director": {
-      "name": "Harold Becker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0065403/"
-    },
-    "production_studio": "20th Century Fox",
+    "production_studio": "Orion Pictures",
     "mpaa_rating": "PG",
-    "runtime_minutes": 126,
-    "budget_usd_millions": 14,
-    "gross_revenue_usd_millions": 35,
+    "runtime_minutes": 97,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 95.5,
     "ratings": {
-      "imdb": 6.8,
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "88%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Dudley Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001547/"
+      },
+      {
+        "name": "Liza Minnelli",
+        "imdb_person_url": "https://www.imdb.com/name/nm0591485/"
+      },
+      {
+        "name": "John Gielgud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
+      }
+    ],
+    "oscars_nominated": 4,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actor in a Supporting Role",
+      "Best Music, Original Song"
+    ],
+    "description": "A drunken playboy stands to lose a wealthy inheritance when he falls for a woman his family doesn't like.",
+    "afi_ranking": 53,
+    "imdb_url": "https://www.imdb.com/title/tt0082031/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1001229-arthur"
+  },
+  {
+    "title": "The French Lieutenant's Woman",
+    "year": 1981,
+    "director": {
+      "name": "Karel Reisz",
+      "imdb_person_url": "https://www.imdb.com/name/nm0718469/"
+    },
+    "production_studio": "Juniper Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 26.8,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Meryl Streep",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000658/"
+      },
+      {
+        "name": "Jeremy Irons",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000460/"
+      },
+      {
+        "name": "Hilton McRae",
+        "imdb_person_url": "https://www.imdb.com/name/nm0574466/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Dual stories of a Victorian-era affair and the actors playing the roles in a modern film production.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082416/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/french_lieutenants_woman"
+  },
+  {
+    "title": "Scanners",
+    "year": 1981,
+    "director": {
+      "name": "David Cronenberg",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000343/"
+    },
+    "production_studio": "Filmplan International",
+    "mpaa_rating": "R",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 14.2,
+    "ratings": {
+      "imdb": 6.7,
       "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "71%"
+      "rotten_tomatoes_popcorn": "65%"
     },
     "genres": [
-      "Drama"
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "George C. Scott",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001715/"
+        "name": "Jennifer O'Neill",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001577/"
       },
       {
-        "name": "Timothy Hutton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000459/"
+        "name": "Stephen Lack",
+        "imdb_person_url": "https://www.imdb.com/name/nm0480036/"
       },
       {
-        "name": "Ronny Cox",
-        "imdb_person_url": "https://www.imdb.com/name/nm0002022/"
+        "name": "Patrick McGoohan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001526/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A group of military cadets takes over their academy to prevent it from being shut down.",
+    "description": "A scientist sends a man with extraordinary psychic powers to hunt down others like him who are using their abilities for evil.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083169/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/taps"
+    "imdb_url": "https://www.imdb.com/title/tt0081455/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/scanners"
   },
   {
-    "title": "Dragonslayer",
+    "title": "The Fox and the Hound",
     "year": 1981,
     "director": {
-      "name": "Matthew Robbins",
-      "imdb_person_url": "https://www.imdb.com/name/nm0730472/"
+      "name": "Ted Berman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0075846/"
     },
-    "production_studio": "Paramount Pictures, Walt Disney Productions",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 14,
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 83,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 63.5,
     "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "85%",
-      "rotten_tomatoes_popcorn": "68%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
-      "Action",
+      "Animation",
       "Adventure",
-      "Fantasy"
+      "Drama",
+      "Family"
     ],
     "actors": [
       {
-        "name": "Peter MacNicol",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001523/"
+        "name": "Mickey Rooney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001682/"
       },
       {
-        "name": "Caitlin Clarke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0164479/"
+        "name": "Kurt Russell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000621/"
       },
       {
-        "name": "Ralph Richardson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001667/"
+        "name": "Pearl Bailey",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001926/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young wizard's apprentice is sent to kill a dragon that has been terrorizing a kingdom.",
+    "description": "Two childhood friends, a fox and a hound puppy, struggle to preserve their friendship despite their emerging instincts and the surrounding social pressures demanding them to be adversaries.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082288/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dragonslayer"
+    "imdb_url": "https://www.imdb.com/title/tt0082406/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fox_and_the_hound"
   },
   {
     "title": "Heavy Metal",
     "year": 1981,
     "director": {
       "name": "Gerald Potterton",
-      "imdb_person_url": "https://www.imdb.com/name/nm0693240/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0693354/"
     },
     "production_studio": "Columbia Pictures",
     "mpaa_rating": "R",
@@ -1433,370 +1610,416 @@
     },
     "genres": [
       "Animation",
-      "Action",
-      "Adventure"
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "Don Francks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0291470/"
-      },
-      {
-        "name": "Caroline Semple",
-        "imdb_person_url": "https://www.imdb.com/name/nm0784139/"
-      },
-      {
         "name": "Richard Romanus",
-        "imdb_person_url": "https://www.imdb.com/name/nm0739019/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0738988/"
+      },
+      {
+        "name": "John Candy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001006/"
+      },
+      {
+        "name": "Joe Flaherty",
+        "imdb_person_url": "https://www.imdb.com/name/nm0280886/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A glowing green orb that is the personification of ultimate evil travels through space and time, spreading its influence in this animated anthology film.",
+    "description": "A glowing green orb terrifies a young girl with a collection of stories of dark fantasy, eroticism and horror.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0082509/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/heavy_metal"
   },
   {
-    "title": "Outland",
+    "title": "For Your Eyes Only",
     "year": 1981,
     "director": {
-      "name": "Peter Hyams",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001382/"
+      "name": "John Glen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0322150/"
     },
-    "production_studio": "The Ladd Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 109,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 17.4,
+    "production_studio": "Eon Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 127,
+    "budget_usd_millions": 28.0,
+    "gross_revenue_usd_millions": 195.3,
     "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "54%",
-      "rotten_tomatoes_popcorn": "51%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "72%",
+      "rotten_tomatoes_popcorn": "64%"
     },
     "genres": [
       "Action",
-      "Crime",
-      "Sci-Fi"
+      "Adventure",
+      "Thriller"
     ],
     "actors": [
       {
-        "name": "Sean Connery",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000125/"
+        "name": "Roger Moore",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000549/"
       },
       {
-        "name": "Peter Boyle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001968/"
+        "name": "Carole Bouquet",
+        "imdb_person_url": "https://www.imdb.com/name/nm0099666/"
       },
       {
-        "name": "Frances Sternhagen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001768/"
+        "name": "Topol",
+        "imdb_person_url": "https://www.imdb.com/name/nm0867694/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A federal marshal stationed at a mining colony on the Jupiter moon of Io uncovers a drug-smuggling ring.",
+    "description": "James Bond is assigned to find a missing British vessel equipped with a weapons encryption device and prevent it from falling into enemy hands.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082869/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/outland"
+    "imdb_url": "https://www.imdb.com/title/tt0082398/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/for_your_eyes_only"
   },
   {
-    "title": "Man of Iron",
+    "title": "The Beyond",
     "year": 1981,
     "director": {
-      "name": "Andrzej Wajda",
-      "imdb_person_url": "https://www.imdb.com/name/nm0906691/"
+      "name": "Lucio Fulci",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002086/"
     },
-    "production_studio": "Zespol Filmowy \"X\"",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 153,
+    "production_studio": "Fulvia Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 87,
     "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 7.5,
+      "imdb": 6.7,
       "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Catriona MacColl",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531518/"
+      },
+      {
+        "name": "David Warbeck",
+        "imdb_person_url": "https://www.imdb.com/name/nm0911326/"
+      },
+      {
+        "name": "Cinzia Monreale",
+        "imdb_person_url": "https://www.imdb.com/name/nm0598440/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young woman inherits an old hotel in Louisiana where, following a series of supernatural accidents, she learns that the building was built over one of the entrances to Hell.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082307/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_beyond"
+  },
+  {
+    "title": "The House by the Cemetery",
+    "year": 1981,
+    "director": {
+      "name": "Lucio Fulci",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002086/"
+    },
+    "production_studio": "Fulvia Film",
+    "mpaa_rating": "Unrated",
+    "runtime_minutes": 86,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "46%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Horror"
+    ],
+    "actors": [
+      {
+        "name": "Catriona MacColl",
+        "imdb_person_url": "https://www.imdb.com/name/nm0531518/"
+      },
+      {
+        "name": "Paolo Malco",
+        "imdb_person_url": "https://www.imdb.com/name/nm0539160/"
+      },
+      {
+        "name": "Ania Pieroni",
+        "imdb_person_url": "https://www.imdb.com/name/nm0682607/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A researcher moves his family to an old house near a cemetery, where they are terrorized by a mysterious creature inhabiting the basement.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082966/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/house_by_the_cemetery"
+  },
+  {
+    "title": "Ms. 45",
+    "year": 1981,
+    "director": {
+      "name": "Abel Ferrara",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002072/"
+    },
+    "production_studio": "Navaron Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 80,
+    "budget_usd_millions": 0.062,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "68%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Zoë Lund",
+        "imdb_person_url": "https://www.imdb.com/name/nm0848037/"
+      },
+      {
+        "name": "Boguslaw Linda",
+        "imdb_person_url": "https://www.imdb.com/name/nm0511314/"
+      },
+      {
+        "name": "Albert Sinkys",
+        "imdb_person_url": "https://www.imdb.com/name/nm0802462/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A timid mute seamstress goes on a killing spree against men after being raped twice in one day.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082776/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ms_45"
+  },
+  {
+    "title": "Cutter's Way",
+    "year": 1981,
+    "director": {
+      "name": "Ivan Passer",
+      "imdb_person_url": "https://www.imdb.com/name/nm0664875/"
+    },
+    "production_studio": "Gurian Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 105,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 1.8,
+    "ratings": {
+      "imdb": 6.9,
+      "rotten_tomatoes_critic": "94%",
       "rotten_tomatoes_popcorn": "76%"
     },
     "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Jeff Bridges",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
+      },
+      {
+        "name": "John Heard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001336/"
+      },
+      {
+        "name": "Lisa Eichhorn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0251508/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "After witnessing a murder, a slacker and his Vietnam vet friend investigate the case when the police show no interest.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082220/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cutters_way"
+  },
+  {
+    "title": "Modern Romance",
+    "year": 1981,
+    "director": {
+      "name": "Albert Brooks",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000983/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 93,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 2.9,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Albert Brooks",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000983/"
+      },
+      {
+        "name": "Kathryn Harrold",
+        "imdb_person_url": "https://www.imdb.com/name/nm0365944/"
+      },
+      {
+        "name": "Tyne Daly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002033/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A film editor tries to win back his ex-girlfriend while dealing with his own neuroses and jealousy.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082764/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/modern_romance"
+  },
+  {
+    "title": "Lion of the Desert",
+    "year": 1981,
+    "director": {
+      "name": "Moustapha Akkad",
+      "imdb_person_url": "https://www.imdb.com/name/nm0015330/"
+    },
+    "production_studio": "Falcon International Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 173,
+    "budget_usd_millions": 35.0,
+    "gross_revenue_usd_millions": 1.5,
+    "ratings": {
+      "imdb": 8.3,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Biography",
       "Drama",
       "History"
     ],
     "actors": [
       {
-        "name": "Jerzy Radziwilowicz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0705910/"
+        "name": "Anthony Quinn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000063/"
       },
       {
-        "name": "Krystyna Janda",
-        "imdb_person_url": "https://www.imdb.com/name/nm0417210/"
+        "name": "Oliver Reed",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001657/"
       },
       {
-        "name": "Marian Opania",
-        "imdb_person_url": "https://www.imdb.com/name/nm0649061/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A cynical journalist is sent to cover the 1980 Solidarity strikes in Poland and has a crisis of conscience.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082222/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_of_iron"
-  },
-  {
-    "title": "Possession",
-    "year": 1981,
-    "director": {
-      "name": "Andrzej Zulawski",
-      "imdb_person_url": "https://www.imdb.com/name/nm0958735/"
-    },
-    "production_studio": "Oliane Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 2.4,
-    "gross_revenue_usd_millions": 1.1,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Drama",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Isabelle Adjani",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000084/"
-      },
-      {
-        "name": "Sam Neill",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000554/"
-      },
-      {
-        "name": "Margit Carstensen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0141369/"
+        "name": "Rod Steiger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001768/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A woman's increasingly bizarre behavior after she asks her husband for a divorce is revealed to be the result of a sinister and otherworldly secret.",
+    "description": "In 1929, Italian fascist dictator Benito Mussolini appoints General Rodolfo Graziani to suppress the Libyan resistance led by Omar Mukhtar.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082933/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/possession"
+    "imdb_url": "https://www.imdb.com/title/tt0081059/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/lion_of_the_desert"
   },
   {
-    "title": "Cannibal Ferox",
+    "title": "The Prodigal Son",
     "year": 1981,
     "director": {
-      "name": "Umberto Lenzi",
-      "imdb_person_url": "https://www.imdb.com/name/nm0502213/"
+      "name": "Sammo Kam-Bo Hung",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005033/"
     },
-    "production_studio": "Dania Film",
-    "mpaa_rating": "Unrated",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 0.5,
+    "production_studio": "Golden Harvest Company",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": null,
     "gross_revenue_usd_millions": null,
     "ratings": {
-      "imdb": 5.7,
-      "rotten_tomatoes_critic": "40%",
-      "rotten_tomatoes_popcorn": "36%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
-      "Adventure",
-      "Horror"
-    ],
-    "actors": [
-      {
-        "name": "Giovanni Lombardo Radice",
-        "imdb_person_url": "https://www.imdb.com/name/nm0496669/"
-      },
-      {
-        "name": "Lorraine De Selle",
-        "imdb_person_url": "https://www.imdb.com/name/nm0221464/"
-      },
-      {
-        "name": "Danilo Mattei",
-        "imdb_person_url": "https://www.imdb.com/name/nm0560273/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An anthropologist travels to the Amazon rainforest to disprove the existence of cannibalism, but she and her companions soon find themselves at the mercy of a tribe of flesh-eating natives.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082142/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cannibal_ferox"
-  },
-  {
-    "title": "History of the World: Part I",
-    "year": 1981,
-    "director": {
-      "name": "Mel Brooks",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000316/"
-    },
-    "production_studio": "Brooksfilms",
-    "mpaa_rating": "R",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 11,
-    "gross_revenue_usd_millions": 31.7,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "59%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
+      "Action",
       "Comedy",
-      "History",
-      "Musical"
+      "History"
     ],
     "actors": [
       {
-        "name": "Mel Brooks",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000316/"
+        "name": "Biao Yuen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0950699/"
       },
       {
-        "name": "Dom DeLuise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
+        "name": "Ching-Ying Lam",
+        "imdb_person_url": "https://www.imdb.com/name/nm0482651/"
       },
       {
-        "name": "Madeline Kahn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001404/"
+        "name": "Sammo Kam-Bo Hung",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005033/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A series of comedic vignettes that satirize events in world history.",
+    "description": "A young man, who believes he is a martial arts master, discovers his father has been paying his opponents to lose. He then seeks out a real master to learn proper kung fu.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082517/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/history_of_the_world_part_i"
-  },
-  {
-    "title": "The Prowler",
-    "year": 1981,
-    "director": {
-      "name": "Joseph Zito",
-      "imdb_person_url": "https://www.imdb.com/name/nm0957388/"
-    },
-    "production_studio": "Graduation",
-    "mpaa_rating": "R",
-    "runtime_minutes": 89,
-    "budget_usd_millions": 1,
-    "gross_revenue_usd_millions": 2.2,
-    "ratings": {
-      "imdb": 6.1,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Vicky Dawson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0206085/"
-      },
-      {
-        "name": "Christopher Goutman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0332845/"
-      },
-      {
-        "name": "Lawrence Tierney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001793/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A group of college students are stalked and murdered by an unknown assailant in a small New Jersey town.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082951/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_prowler"
-  },
-  {
-    "title": "My Bloody Valentine",
-    "year": 1981,
-    "director": {
-      "name": "George Mihalka",
-      "imdb_person_url": "https://www.imdb.com/name/nm0586321/"
-    },
-    "production_studio": "Paramount Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 90,
-    "budget_usd_millions": 2.3,
-    "gross_revenue_usd_millions": 5.7,
-    "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "58%",
-      "rotten_tomatoes_popcorn": "46%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Paul Kelman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0447190/"
-      },
-      {
-        "name": "Lori Hallier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0356247/"
-      },
-      {
-        "name": "Neil Affleck",
-        "imdb_person_url": "https://www.imdb.com/name/nm0012752/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A decades-old folk tale about a deranged murderer killing those who celebrate Valentine's Day turns out to be true to a group of partying teenagers.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082782/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_bloody_valentine"
+    "imdb_url": "https://www.imdb.com/title/tt0085211/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/prodigal_son"
   },
   {
     "title": "The Great Muppet Caper",
     "year": 1981,
     "director": {
       "name": "Jim Henson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001345/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000448/"
     },
-    "production_studio": "ITC Entertainment",
+    "production_studio": "Henson Associates",
     "mpaa_rating": "G",
     "runtime_minutes": 97,
-    "budget_usd_millions": 14,
+    "budget_usd_millions": 14.0,
     "gross_revenue_usd_millions": 31.2,
     "ratings": {
-      "imdb": 7.2,
+      "imdb": 7.1,
       "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_popcorn": "77%"
     },
     "genres": [
+      "Adventure",
       "Comedy",
+      "Crime",
       "Family",
-      "Musical"
+      "Musical",
+      "Mystery"
     ],
     "actors": [
       {
         "name": "Jim Henson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001345/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000448/"
       },
       {
         "name": "Frank Oz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000566/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000568/"
       },
       {
         "name": "Dave Goelz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0324316/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0324391/"
       }
     ],
     "oscars_nominated": 1,
@@ -1804,155 +2027,25 @@
     "oscars_won_details": [],
     "description": "Kermit, Gonzo, and Fozzie are reporters who travel to Britain to interview a rich victim of jewel thieves and help her along with her secretary, Miss Piggy.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082488/",
+    "imdb_url": "https://www.imdb.com/title/tt0082474/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/great_muppet_caper"
-  },
-  {
-    "title": "Clash of the Titans",
-    "year": 1981,
-    "director": {
-      "name": "Desmond Davis",
-      "imdb_person_url": "https://www.imdb.com/name/nm0204739/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 41.1,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "65%"
-    },
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Laurence Olivier",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000057/"
-      },
-      {
-        "name": "Harry Hamlin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001314/"
-      },
-      {
-        "name": "Judi Bowker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0100938/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The myth of Perseus and his quest to battle Medusa and the Kraken to save the Princess Andromeda.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082186/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1004144-clash_of_the_titans"
-  },
-  {
-    "title": "Wolfen",
-    "year": 1981,
-    "director": {
-      "name": "Michael Wadleigh",
-      "imdb_person_url": "https://www.imdb.com/name/nm0905581/"
-    },
-    "production_studio": "Orion Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 115,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 10.6,
-    "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Albert Finney",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001215/"
-      },
-      {
-        "name": "Diane Venora",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001819/"
-      },
-      {
-        "name": "Edward James Olmos",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001579/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A New York City detective investigates a series of brutal murders that may be the work of a pack of intelligent wolves.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083336/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/wolfen"
-  },
-  {
-    "title": "Halloween II",
-    "year": 1981,
-    "director": {
-      "name": "Rick Rosenthal",
-      "imdb_person_url": "https://www.imdb.com/name/nm0742211/"
-    },
-    "production_studio": "Dino De Laurentiis Company",
-    "mpaa_rating": "R",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 25.5,
-    "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "32%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Jamie Lee Curtis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000130/"
-      },
-      {
-        "name": "Donald Pleasence",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000587/"
-      },
-      {
-        "name": "Charles Cyphers",
-        "imdb_person_url": "https://www.imdb.com/name/nm0194212/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "While Sheriff Brackett and Dr. Loomis hunt for Michael Myers, a traumatized Laurie is rushed to Haddonfield Memorial Hospital, and the serial killer is not far behind her.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082495/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/halloween_ii"
   },
   {
     "title": "Pennies from Heaven",
     "year": 1981,
     "director": {
       "name": "Herbert Ross",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001684/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0743467/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "R",
     "runtime_minutes": 108,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 9.2,
+    "budget_usd_millions": 22.0,
+    "gross_revenue_usd_millions": 9.1,
     "ratings": {
-      "imdb": 6.4,
-      "rotten_tomatoes_critic": "82%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "83%",
+      "rotten_tomatoes_popcorn": "51%"
     },
     "genres": [
       "Drama",
@@ -1970,15 +2063,230 @@
       },
       {
         "name": "Jessica Harper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001320/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0363888/"
       }
     ],
     "oscars_nominated": 3,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A musical fantasy in which a sheet music salesman and a schoolteacher find their lives intersecting in a series of dreamlike sequences.",
+    "description": "A sheet music salesman in Depression-era Chicago dreams of opening his own record store but falls into a life of despair.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0082900/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pennies_from_heaven"
+    "imdb_url": "https://www.imdb.com/title/tt0082894/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016132-pennies_from_heaven"
+  },
+  {
+    "title": "Whose Life Is It Anyway?",
+    "year": 1981,
+    "director": {
+      "name": "John Badham",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000824/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "R",
+    "runtime_minutes": 119,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 8.2,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Richard Dreyfuss",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000377/"
+      },
+      {
+        "name": "John Cassavetes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001023/"
+      },
+      {
+        "name": "Christine Lahti",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001440/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sculptor paralyzed from the neck down contests his hospital treatment and demands the right to die.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083326/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/whose_life_is_it_anyway"
+  },
+  {
+    "title": "Eye of the Needle",
+    "year": 1981,
+    "director": {
+      "name": "Richard Marquand",
+      "imdb_person_url": "https://www.imdb.com/name/nm0549658/"
+    },
+    "production_studio": "Kings Road Entertainment",
+    "mpaa_rating": "R",
+    "runtime_minutes": 112,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 17.5,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Romance",
+      "Thriller",
+      "War"
+    ],
+    "actors": [
+      {
+        "name": "Donald Sutherland",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000661/"
+      },
+      {
+        "name": "Kate Nelligan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001563/"
+      },
+      {
+        "name": "Stephen MacKenna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0533669/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A German spy is stranded on a remote island off the coast of Scotland during WWII, where he becomes involved with a lonely woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0082351/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eye_of_the_needle"
+  },
+  {
+    "title": "True Confessions",
+    "year": 1981,
+    "director": {
+      "name": "Ulu Grosbard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0342981/"
+    },
+    "production_studio": "Chartoff-Winkler Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 12.9,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
+      },
+      {
+        "name": "Robert Duvall",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000378/"
+      },
+      {
+        "name": "Charles Durning",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001164/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two brothers, a priest and a cop, are drawn together after the brutal murder of a prostitute in 1940s Los Angeles.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083232/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/true_confessions"
+  },
+  {
+    "title": "Ticket to Heaven",
+    "year": 1981,
+    "director": {
+      "name": "Ralph L. Thomas",
+      "imdb_person_url": "https://www.imdb.com/name/nm0859392/"
+    },
+    "production_studio": "International Cinema Corporation",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 109,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": 0.4,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Nick Mancuso",
+        "imdb_person_url": "https://www.imdb.com/name/nm0541576/"
+      },
+      {
+        "name": "Saul Rubinek",
+        "imdb_person_url": "https://www.imdb.com/name/nm0007210/"
+      },
+      {
+        "name": "Meg Foster",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001236/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A man is lured into a religious cult, and his friends and family try to deprogram him.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083199/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/ticket_to_heaven"
+  },
+  {
+    "title": "Smash Palace",
+    "year": 1981,
+    "director": {
+      "name": "Roger Donaldson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001147/"
+    },
+    "production_studio": "Aardvark Films",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": null,
+    "gross_revenue_usd_millions": null,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Bruno Lawrence",
+        "imdb_person_url": "https://www.imdb.com/name/nm0492661/"
+      },
+      {
+        "name": "Anna Jemison",
+        "imdb_person_url": "https://www.imdb.com/name/nm0420650/"
+      },
+      {
+        "name": "Greer Robson-Kirk",
+        "imdb_person_url": "https://www.imdb.com/name/nm0733475/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A race car driver's obsession with cars destroys his marriage and leads him to take desperate measures to keep his daughter.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083092/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/smash_palace"
   }
 ]

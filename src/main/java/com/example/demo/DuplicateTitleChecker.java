@@ -15,7 +15,7 @@ public class DuplicateTitleChecker {
         MovieService movieService;
         String folder = "movies-by-year/";
 
-        for (int i = 1930; i <= 2007; i++) {
+        for (int i = 1930; i <= 2010; i++) {
             String filename = folder + "movies-" + i + ".json";
             logger.info("Duplicates checking for resource file " + filename);
 

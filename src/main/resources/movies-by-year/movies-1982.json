@@ -6,7 +6,7 @@
       "name": "Steven Spielberg",
       "imdb_person_url": "https://www.imdb.com/name/nm0000229/"
     },
-    "production_studio": "Universal Pictures, Amblin Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 115,
     "budget_usd_millions": 10.5,
@@ -14,7 +14,7 @@
     "ratings": {
       "imdb": 7.9,
       "rotten_tomatoes_critic": "99%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "72%"
     },
     "genres": [
       "Adventure",
@@ -24,7 +24,7 @@
     "actors": [
       {
         "name": "Henry Thomas",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000668/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001795/"
       },
       {
         "name": "Drew Barrymore",
@@ -32,7 +32,7 @@
       },
       {
         "name": "Dee Wallace",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001828/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0908914/"
       }
     ],
     "oscars_nominated": 9,
@@ -40,10 +40,10 @@
     "oscars_won_details": [
       "Best Music, Original Score",
       "Best Sound",
-      "Best Sound Effects Editing",
-      "Best Visual Effects"
+      "Best Effects, Sound Effects Editing",
+      "Best Effects, Visual Effects"
     ],
-    "description": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home planet.",
+    "description": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.",
     "afi_ranking": 24,
     "imdb_url": "https://www.imdb.com/title/tt0083866/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/et_the_extraterrestrial"
@@ -55,20 +55,20 @@
       "name": "Ridley Scott",
       "imdb_person_url": "https://www.imdb.com/name/nm0000631/"
     },
-    "production_studio": "The Ladd Company, Shaw Brothers",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 117,
-    "budget_usd_millions": 28,
-    "gross_revenue_usd_millions": 41.6,
+    "budget_usd_millions": 30.0,
+    "gross_revenue_usd_millions": 41.5,
     "ratings": {
       "imdb": 8.1,
       "rotten_tomatoes_critic": "89%",
       "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
-      "Action",
+      "Sci-Fi",
       "Drama",
-      "Sci-Fi"
+      "Thriller"
     ],
     "actors": [
       {
@@ -93,115 +93,16 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/blade_runner"
   },
   {
-    "title": "Gandhi",
-    "year": 1982,
-    "director": {
-      "name": "Richard Attenborough",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000277/"
-    },
-    "production_studio": "International Film Investors, Goldcrest Films International",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 191,
-    "budget_usd_millions": 22,
-    "gross_revenue_usd_millions": 127.8,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "92%"
-    },
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "actors": [
-      {
-        "name": "Ben Kingsley",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001426/"
-      },
-      {
-        "name": "John Gielgud",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000024/"
-      },
-      {
-        "name": "Rohini Hattangadi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0368943/"
-      }
-    ],
-    "oscars_nominated": 11,
-    "oscars_won": 8,
-    "oscars_won_details": [
-      "Best Picture",
-      "Best Director",
-      "Best Actor in a Leading Role",
-      "Best Writing, Screenplay Written Directly for the Screen",
-      "Best Cinematography",
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design",
-      "Best Film Editing"
-    ],
-    "description": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083987/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gandhi"
-  },
-  {
-    "title": "Tootsie",
-    "year": 1982,
-    "director": {
-      "name": "Sydney Pollack",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001628/"
-    },
-    "production_studio": "Columbia Pictures, Mirage Enterprises",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 116,
-    "budget_usd_millions": 21,
-    "gross_revenue_usd_millions": 177.2,
-    "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "85%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Dustin Hoffman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
-      },
-      {
-        "name": "Jessica Lange",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001448/"
-      },
-      {
-        "name": "Teri Garr",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000414/"
-      }
-    ],
-    "oscars_nominated": 10,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Actress in a Supporting Role"
-    ],
-    "description": "Michael Dorsey, a talented but difficult actor, struggles to find work until one desperate attempt for a female role lands him the part of a lifetime.",
-    "afi_ranking": 69,
-    "imdb_url": "https://www.imdb.com/title/tt0084805/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tootsie"
-  },
-  {
     "title": "The Thing",
     "year": 1982,
     "director": {
       "name": "John Carpenter",
       "imdb_person_url": "https://www.imdb.com/name/nm0000118/"
     },
-    "production_studio": "Universal Pictures, Turman-Foster Company",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 109,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 19.6,
     "ratings": {
       "imdb": 8.2,
@@ -224,7 +125,7 @@
       },
       {
         "name": "Keith David",
-        "imdb_person_url": "https://www.imdb.com/name/nm0202965/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0202966/"
       }
     ],
     "oscars_nominated": 0,
@@ -236,17 +137,207 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021244-thing"
   },
   {
+    "title": "Gandhi",
+    "year": 1982,
+    "director": {
+      "name": "Richard Attenborough",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000277/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 191,
+    "budget_usd_millions": 22.0,
+    "gross_revenue_usd_millions": 52.7,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "85%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "actors": [
+      {
+        "name": "Ben Kingsley",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001426/"
+      },
+      {
+        "name": "John Gielgud",
+        "imdb_person_url": "https://www.imdb.com/name/nm0002099/"
+      },
+      {
+        "name": "Candice Bergen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000298/"
+      }
+    ],
+    "oscars_nominated": 11,
+    "oscars_won": 8,
+    "oscars_won_details": [
+      "Best Picture",
+      "Best Director",
+      "Best Actor",
+      "Best Screenplay, Written Directly for the Screen",
+      "Best Art Direction-Set Decoration",
+      "Best Cinematography",
+      "Best Costume Design",
+      "Best Film Editing"
+    ],
+    "description": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+    "afi_ranking": 29,
+    "imdb_url": "https://www.imdb.com/title/tt0083987/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/gandhi"
+  },
+  {
+    "title": "The King of Comedy",
+    "year": 1982,
+    "director": {
+      "name": "Martin Scorsese",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000217/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 109,
+    "budget_usd_millions": 19.0,
+    "gross_revenue_usd_millions": 2.5,
+    "ratings": {
+      "imdb": 7.8,
+      "rotten_tomatoes_critic": "89%",
+      "rotten_tomatoes_popcorn": "90%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robert De Niro",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000134/"
+      },
+      {
+        "name": "Jerry Lewis",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000496/"
+      },
+      {
+        "name": "Sandra Bernhard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000923/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A passionate yet delusional aspiring comic kidnaps his idol in a desperate attempt to take the spotlight.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084207/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/king_of_comedy"
+  },
+  {
+    "title": "Tootsie",
+    "year": 1982,
+    "director": {
+      "name": "Sydney Pollack",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001628/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 116,
+    "budget_usd_millions": 21.0,
+    "gross_revenue_usd_millions": 177.2,
+    "ratings": {
+      "imdb": 7.4,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Dustin Hoffman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000163/"
+      },
+      {
+        "name": "Jessica Lange",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000486/"
+      },
+      {
+        "name": "Teri Garr",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001258/"
+      }
+    ],
+    "oscars_nominated": 10,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Actress in a Supporting Role"
+    ],
+    "description": "Michael Dorsey, an unsuccessful actor, disguises himself as a woman in order to get a role on a trashy hospital soap.",
+    "afi_ranking": 69,
+    "imdb_url": "https://www.imdb.com/title/tt0084805/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tootsie"
+  },
+  {
+    "title": "Fanny and Alexander",
+    "year": 1982,
+    "director": {
+      "name": "Ingmar Bergman",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
+    },
+    "production_studio": "Cinematograph AB",
+    "mpaa_rating": "R",
+    "runtime_minutes": 188,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 6.8,
+    "ratings": {
+      "imdb": 8.1,
+      "rotten_tomatoes_critic": "100%",
+      "rotten_tomatoes_popcorn": "93%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Bertil Guve",
+        "imdb_person_url": "https://www.imdb.com/name/nm0349405/"
+      },
+      {
+        "name": "Pernilla Allwin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0021666/"
+      },
+      {
+        "name": "Kristina Adolphson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0012376/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 4,
+    "oscars_won_details": [
+      "Best Foreign Language Film",
+      "Best Cinematography",
+      "Best Art Direction-Set Decoration",
+      "Best Costume Design"
+    ],
+    "description": "Two young Swedish children in the 1900s experience the many comedies and tragedies of their family, the Ekdahls.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083929/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fanny_and_alexander"
+  },
+  {
     "title": "Poltergeist",
     "year": 1982,
     "director": {
       "name": "Tobe Hooper",
       "imdb_person_url": "https://www.imdb.com/name/nm0001361/"
     },
-    "production_studio": "Metro-Goldwyn-Mayer, SLM Production Group",
+    "production_studio": "MGM",
     "mpaa_rating": "PG",
     "runtime_minutes": 114,
     "budget_usd_millions": 10.7,
-    "gross_revenue_usd_millions": 121.7,
+    "gross_revenue_usd_millions": 76.6,
     "ratings": {
       "imdb": 7.3,
       "rotten_tomatoes_critic": "88%",
@@ -258,16 +349,16 @@
     ],
     "actors": [
       {
-        "name": "Craig T. Nelson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005266/"
-      },
-      {
         "name": "JoBeth Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001851/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001850/"
       },
       {
         "name": "Heather O'Rourke",
         "imdb_person_url": "https://www.imdb.com/name/nm0001576/"
+      },
+      {
+        "name": "Craig T. Nelson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005266/"
       }
     ],
     "oscars_nominated": 3,
@@ -276,69 +367,23 @@
     "description": "A family's home is haunted by a host of demonic ghosts.",
     "afi_ranking": 84,
     "imdb_url": "https://www.imdb.com/title/tt0084516/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/poltergeist"
-  },
-  {
-    "title": "An Officer and a Gentleman",
-    "year": 1982,
-    "director": {
-      "name": "Taylor Hackford",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
-    },
-    "production_studio": "Paramount Pictures, Lorimar Film Entertainment",
-    "mpaa_rating": "R",
-    "runtime_minutes": 124,
-    "budget_usd_millions": 7.5,
-    "gross_revenue_usd_millions": 130,
-    "ratings": {
-      "imdb": 6.9,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Richard Gere",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
-      },
-      {
-        "name": "Debra Winger",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000709/"
-      },
-      {
-        "name": "Louis Gossett Jr.",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001283/"
-      }
-    ],
-    "oscars_nominated": 6,
-    "oscars_won": 2,
-    "oscars_won_details": [
-      "Best Actor in a Supporting Role",
-      "Best Music, Original Song"
-    ],
-    "description": "A young man must complete his work at a Navy Officer Candidate School to become an aviator, with the help of a tough Gunnery Sergeant and his new girlfriend.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084434/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/officer_and_a_gentleman"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1016513-poltergeist"
   },
   {
     "title": "Star Trek II: The Wrath of Khan",
     "year": 1982,
     "director": {
       "name": "Nicholas Meyer",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001533/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0583296/"
     },
     "production_studio": "Paramount Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 113,
     "budget_usd_millions": 11.2,
-    "gross_revenue_usd_millions": 97,
+    "gross_revenue_usd_millions": 79.9,
     "ratings": {
       "imdb": 7.7,
-      "rotten_tomatoes_critic": "87%",
+      "rotten_tomatoes_critic": "86%",
       "rotten_tomatoes_popcorn": "90%"
     },
     "genres": [
@@ -363,112 +408,27 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using his son's life-generating device, the Genesis Device, as the ultimate weapon.",
+    "description": "With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0084726/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/star_trek_ii_the_wrath_of_khan"
-  },
-  {
-    "title": "Fast Times at Ridgemont High",
-    "year": 1982,
-    "director": {
-      "name": "Amy Heckerling",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002132/"
-    },
-    "production_studio": "Universal Pictures, Refugee Films",
-    "mpaa_rating": "R",
-    "runtime_minutes": 90,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 27.1,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Sean Penn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
-      },
-      {
-        "name": "Jennifer Jason Leigh",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
-      },
-      {
-        "name": "Judge Reinhold",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000606/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A group of Southern California high school students are enjoying their most important subjects: sex, drugs, and rock n' roll.",
-    "afi_ranking": 87,
-    "imdb_url": "https://www.imdb.com/title/tt0083929/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fast_times_at_ridgemont_high"
-  },
-  {
-    "title": "The Verdict",
-    "year": 1982,
-    "director": {
-      "name": "Sidney Lumet",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
-    },
-    "production_studio": "20th Century Fox, Zanuck/Brown Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 129,
-    "budget_usd_millions": 16,
-    "gross_revenue_usd_millions": 54,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "89%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Paul Newman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
-      },
-      {
-        "name": "Charlotte Rampling",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001648/"
-      },
-      {
-        "name": "Jack Warden",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001826/"
-      }
-    ],
-    "oscars_nominated": 5,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A down-on-his-luck lawyer sees a chance to redeem himself when he takes on a medical malpractice case.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084855/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_verdict"
   },
   {
     "title": "Sophie's Choice",
     "year": 1982,
     "director": {
       "name": "Alan J. Pakula",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001587/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001590/"
     },
-    "production_studio": "ITC Entertainment, Keith Barish Productions",
+    "production_studio": "ITC Entertainment",
     "mpaa_rating": "R",
     "runtime_minutes": 150,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 30,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 30.0,
     "ratings": {
       "imdb": 7.5,
-      "rotten_tomatoes_critic": "76%",
-      "rotten_tomatoes_popcorn": "81%"
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Drama",
@@ -485,7 +445,7 @@
       },
       {
         "name": "Peter MacNicol",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001523/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0005170/"
       }
     ],
     "oscars_nominated": 5,
@@ -493,27 +453,115 @@
     "oscars_won_details": [
       "Best Actress in a Leading Role"
     ],
-    "description": "The story of a Polish immigrant who is a survivor of the Holocaust and her tumultuous relationship with a brilliant but unstable American intellectual.",
+    "description": "Sophie is the survivor of Nazi concentration camps, who has found a reason to live with Nathan, a sparkling if unsteady American Jew obsessed with the Holocaust.",
     "afi_ranking": 91,
     "imdb_url": "https://www.imdb.com/title/tt0084707/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/sophies_choice"
+  },
+  {
+    "title": "An Officer and a Gentleman",
+    "year": 1982,
+    "director": {
+      "name": "Taylor Hackford",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000431/"
+    },
+    "production_studio": "Lorimar Productions",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 6.0,
+    "gross_revenue_usd_millions": 129.8,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "81%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Richard Gere",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000152/"
+      },
+      {
+        "name": "Debra Winger",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000698/"
+      },
+      {
+        "name": "Louis Gossett Jr.",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001283/"
+      }
+    ],
+    "oscars_nominated": 6,
+    "oscars_won": 2,
+    "oscars_won_details": [
+      "Best Actor in a Supporting Role",
+      "Best Music, Original Song"
+    ],
+    "description": "A young man must complete his work at a Navy Flight school to become an aviator, with the help of a tough gunnery sergeant and his new girlfriend.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084434/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/officer_and_a_gentleman"
+  },
+  {
+    "title": "The Verdict",
+    "year": 1982,
+    "director": {
+      "name": "Sidney Lumet",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001486/"
+    },
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "R",
+    "runtime_minutes": 129,
+    "budget_usd_millions": 16.0,
+    "gross_revenue_usd_millions": 54.0,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "90%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Paul Newman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000056/"
+      },
+      {
+        "name": "Charlotte Rampling",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001648/"
+      },
+      {
+        "name": "Jack Warden",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001830/"
+      }
+    ],
+    "oscars_nominated": 5,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A lawyer sees the chance to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084855/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/verdict"
   },
   {
     "title": "First Blood",
     "year": 1982,
     "director": {
       "name": "Ted Kotcheff",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002169/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001433/"
     },
-    "production_studio": "Anabasis N.V., Carolco Pictures",
+    "production_studio": "Orion Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 93,
-    "budget_usd_millions": 15,
+    "budget_usd_millions": 15.0,
     "gross_revenue_usd_millions": 125.2,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "84%"
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Action",
@@ -526,12 +574,12 @@
         "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
       },
       {
-        "name": "Richard Crenna",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001079/"
+        "name": "Brian Dennehy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001132/"
       },
       {
-        "name": "Brian Dennehy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001133/"
+        "name": "Richard Crenna",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001077/"
       }
     ],
     "oscars_nominated": 0,
@@ -543,111 +591,152 @@
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/first_blood"
   },
   {
-    "title": "Rocky III",
+    "title": "Tron",
     "year": 1982,
     "director": {
-      "name": "Sylvester Stallone",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
+      "name": "Steven Lisberger",
+      "imdb_person_url": "https://www.imdb.com/name/nm0513955/"
     },
-    "production_studio": "United Artists",
+    "production_studio": "Walt Disney Productions",
     "mpaa_rating": "PG",
-    "runtime_minutes": 99,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 270,
+    "runtime_minutes": 96,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 33.0,
     "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "65%",
-      "rotten_tomatoes_popcorn": "76%"
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "70%"
     },
     "genres": [
-      "Drama",
-      "Sport"
+      "Action",
+      "Adventure",
+      "Sci-Fi"
     ],
     "actors": [
       {
-        "name": "Sylvester Stallone",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
+        "name": "Jeff Bridges",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
       },
       {
-        "name": "Talia Shire",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000640/"
+        "name": "Bruce Boxleitner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000309/"
       },
       {
-        "name": "Burt Young",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001875/"
+        "name": "David Warner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001831/"
       }
     ],
-    "oscars_nominated": 1,
+    "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "After winning the ultimate title and being the world champion, Rocky Balboa is enjoying his life. That is, until he is defeated by a brutal challenger and must regain his fighting spirit.",
+    "description": "A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084602/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rocky_iii"
+    "imdb_url": "https://www.imdb.com/title/tt0084827/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tron"
   },
   {
-    "title": "Fanny and Alexander",
+    "title": "The Dark Crystal",
     "year": 1982,
     "director": {
-      "name": "Ingmar Bergman",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000005/"
+      "name": "Jim Henson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000449/"
     },
-    "production_studio": "Cinematograph AB, Svensk Filmindustri (SF)",
-    "mpaa_rating": "R",
-    "runtime_minutes": 188,
-    "budget_usd_millions": 6,
-    "gross_revenue_usd_millions": 6.8,
+    "production_studio": "ITC Entertainment",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 93,
+    "budget_usd_millions": 25.0,
+    "gross_revenue_usd_millions": 41.3,
     "ratings": {
-      "imdb": 8.1,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "93%"
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "79%",
+      "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Jim Henson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000449/"
+      },
+      {
+        "name": "Frank Oz",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000568/"
+      },
+      {
+        "name": "Kathryn Mullen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0611986/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal, and so restore order to his world.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083791/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_crystal"
+  },
+  {
+    "title": "Fast Times at Ridgemont High",
+    "year": 1982,
+    "director": {
+      "name": "Amy Heckerling",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002132/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 27.1,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "78%",
+      "rotten_tomatoes_popcorn": "79%"
+    },
+    "genres": [
+      "Comedy",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Kristina Adolphson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0012229/"
+        "name": "Sean Penn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000576/"
       },
       {
-        "name": "Börje Ahlstedt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0014310/"
+        "name": "Jennifer Jason Leigh",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000492/"
       },
       {
-        "name": "Pernilla Allwin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0022002/"
+        "name": "Judge Reinhold",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001662/"
       }
     ],
-    "oscars_nominated": 6,
-    "oscars_won": 4,
-    "oscars_won_details": [
-      "Best Foreign Language Film",
-      "Best Cinematography",
-      "Best Art Direction-Set Decoration",
-      "Best Costume Design"
-    ],
-    "description": "The story of a wealthy Swedish family in the early 20th century, as seen through the eyes of two young children.",
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of Southern California high school students are enjoying their most important subjects: sex, drugs and rock n' roll.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083922/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fanny_and_alexander"
+    "imdb_url": "https://www.imdb.com/title/tt0083929/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fast_times_at_ridgemont_high"
   },
   {
     "title": "Conan the Barbarian",
     "year": 1982,
     "director": {
       "name": "John Milius",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001537/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0587517/"
     },
-    "production_studio": "Universal Pictures, Dino De Laurentiis Company",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 129,
-    "budget_usd_millions": 20,
-    "gross_revenue_usd_millions": 79.1,
+    "budget_usd_millions": 20.0,
+    "gross_revenue_usd_millions": 68.9,
     "ratings": {
       "imdb": 6.9,
-      "rotten_tomatoes_critic": "66%",
-      "rotten_tomatoes_popcorn": "73%"
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "75%"
     },
     "genres": [
       "Action",
@@ -671,187 +760,54 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young barbarian warrior sets off to get revenge on the evil warlord who murdered his parents.",
+    "description": "A vengeful barbarian warrior sets off to avenge his tribe and his parents whom were slain by an evil sorcerer and his warriors when he was a boy.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0082198/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/conan_the_barbarian"
   },
   {
-    "title": "The Dark Crystal",
+    "title": "The Secret of NIMH",
     "year": 1982,
     "director": {
-      "name": "Jim Henson, Frank Oz",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001345/"
+      "name": "Don Bluth",
+      "imdb_person_url": "https://www.imdb.com/name/nm0089940/"
     },
-    "production_studio": "ITC Entertainment, Henson Associates",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 93,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 41.2,
+    "production_studio": "Aurora Productions",
+    "mpaa_rating": "G",
+    "runtime_minutes": 82,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 14.7,
     "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "79%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.5,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "83%"
     },
     "genres": [
+      "Animation",
       "Adventure",
-      "Family",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Jim Henson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001345/"
-      },
-      {
-        "name": "Frank Oz",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000566/"
-      },
-      {
-        "name": "Kathryn Mullen",
-        "imdb_person_url": "https://www.imdb.com/name/nm0611942/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal, and so restore order to his world.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083791/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dark_crystal"
-  },
-  {
-    "title": "Diner",
-    "year": 1982,
-    "director": {
-      "name": "Barry Levinson",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001469/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer",
-    "mpaa_rating": "R",
-    "runtime_minutes": 110,
-    "budget_usd_millions": 5,
-    "gross_revenue_usd_millions": 14.1,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "81%"
-    },
-    "genres": [
-      "Comedy",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Steve Guttenberg",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000429/"
+        "name": "Elizabeth Hartman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0366946/"
       },
       {
-        "name": "Daniel Stern",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001768/"
+        "name": "Derek Jacobi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001390/"
       },
       {
-        "name": "Mickey Rourke",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000620/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A group of college-age friends in 1950s Baltimore struggle with their transition to adulthood.",
-    "afi_ranking": 57,
-    "imdb_url": "https://www.imdb.com/title/tt0083833/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/diner"
-  },
-  {
-    "title": "Pink Floyd – The Wall",
-    "year": 1982,
-    "director": {
-      "name": "Alan Parker",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000571/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer, Goldcrest Films International",
-    "mpaa_rating": "R",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 12,
-    "gross_revenue_usd_millions": 22.2,
-    "ratings": {
-      "imdb": 8.0,
-      "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Bob Geldof",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001260/"
-      },
-      {
-        "name": "Christine Hargreaves",
-        "imdb_person_url": "https://www.imdb.com/name/nm0363023/"
-      },
-      {
-        "name": "James Laurenson",
-        "imdb_person_url": "https://www.imdb.com/name/nm0491032/"
+        "name": "Dom DeLuise",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001130/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A confined but troubled rock star descends into madness in the midst of his physical and social isolation.",
+    "description": "To save her ill son, a field mouse must seek the aid of a colony of rats, with whom she has a deeper link than she suspected.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084503/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pink_floyd_the_wall"
-  },
-  {
-    "title": "Victor/Victoria",
-    "year": 1982,
-    "director": {
-      "name": "Blake Edwards",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001175/"
-    },
-    "production_studio": "Metro-Goldwyn-Mayer, Ladbroke Entertainment",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 134,
-    "budget_usd_millions": 15,
-    "gross_revenue_usd_millions": 20,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Julie Andrews",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000267/"
-      },
-      {
-        "name": "James Garner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001258/"
-      },
-      {
-        "name": "Robert Preston",
-        "imdb_person_url": "https://www.imdb.com/name/nm0696236/"
-      }
-    ],
-    "oscars_nominated": 7,
-    "oscars_won": 1,
-    "oscars_won_details": [
-      "Best Music, Original Song Score and Its Adaptation or Best Adaptation Score"
-    ],
-    "description": "A struggling female soprano finds work playing a male female impersonator, but it complicates her personal life.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084865/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/victor_victoria"
+    "imdb_url": "https://www.imdb.com/title/tt0084649/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/secret_of_nimh"
   },
   {
     "title": "48 Hrs.",
@@ -860,15 +816,15 @@
       "name": "Walter Hill",
       "imdb_person_url": "https://www.imdb.com/name/nm0001353/"
     },
-    "production_studio": "Paramount Pictures, Lawrence Gordon Productions",
+    "production_studio": "Paramount Pictures",
     "mpaa_rating": "R",
     "runtime_minutes": 96,
-    "budget_usd_millions": 12,
+    "budget_usd_millions": 12.0,
     "gross_revenue_usd_millions": 78.9,
     "ratings": {
-      "imdb": 7.0,
+      "imdb": 6.9,
       "rotten_tomatoes_critic": "92%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "70%"
     },
     "genres": [
       "Action",
@@ -886,76 +842,33 @@
       },
       {
         "name": "Annette O'Toole",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001578/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001579/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him in order to catch a killer.",
+    "description": "A hard-nosed cop reluctantly teams up with a wise-cracking criminal temporarily paroled to him, in order to track down a killer.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0083511/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/48_hrs"
-  },
-  {
-    "title": "The World According to Garp",
-    "year": 1982,
-    "director": {
-      "name": "George Roy Hill",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001351/"
-    },
-    "production_studio": "Warner Bros.",
-    "mpaa_rating": "R",
-    "runtime_minutes": 136,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 29.8,
-    "ratings": {
-      "imdb": 7.1,
-      "rotten_tomatoes_critic": "69%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Robin Williams",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
-      },
-      {
-        "name": "Mary Beth Hurt",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001378/"
-      },
-      {
-        "name": "Glenn Close",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000335/"
-      }
-    ],
-    "oscars_nominated": 2,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of a young writer's life and his relationships with his eccentric family.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084917/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/world_according_to_garp"
   },
   {
     "title": "Missing",
     "year": 1982,
     "director": {
       "name": "Costa-Gavras",
-      "imdb_person_url": "https://www.imdb.com/name/nm0002111/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
     },
-    "production_studio": "Universal Pictures, PolyGram Filmed Entertainment",
+    "production_studio": "Universal Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 122,
     "budget_usd_millions": 9.5,
-    "gross_revenue_usd_millions": 14,
+    "gross_revenue_usd_millions": 14.0,
     "ratings": {
       "imdb": 7.7,
       "rotten_tomatoes_critic": "94%",
-      "rotten_tomatoes_popcorn": "86%"
+      "rotten_tomatoes_popcorn": "88%"
     },
     "genres": [
       "Biography",
@@ -969,39 +882,202 @@
       },
       {
         "name": "Sissy Spacek",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000647/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0000651/"
       },
       {
         "name": "Melanie Mayron",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001524/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0563032/"
       }
     ],
     "oscars_nominated": 4,
     "oscars_won": 1,
     "oscars_won_details": [
-      "Best Writing, Screenplay Based on Material from Another Medium"
+      "Best Screenplay Based on Material from Another Medium"
     ],
-    "description": "The true story of an American journalist who disappeared in Chile during the 1973 military coup.",
+    "description": "When an American writer disappears during the Chilean coup of 1973, his wife and father try to find him.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0084335/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/missing"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1014006-missing"
+  },
+  {
+    "title": "Victor/Victoria",
+    "year": 1982,
+    "director": {
+      "name": "Blake Edwards",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000381/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 134,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 28.2,
+    "ratings": {
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "97%",
+      "rotten_tomatoes_popcorn": "88%"
+    },
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Julie Andrews",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000267/"
+      },
+      {
+        "name": "James Garner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001257/"
+      },
+      {
+        "name": "Robert Preston",
+        "imdb_person_url": "https://www.imdb.com/name/nm0696481/"
+      }
+    ],
+    "oscars_nominated": 7,
+    "oscars_won": 1,
+    "oscars_won_details": [
+      "Best Music, Original Song Score and Its Adaptation"
+    ],
+    "description": "A struggling female soprano finds work playing a male female impersonator, but it complicates her personal life.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084865/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/victor_victoria"
+  },
+  {
+    "title": "Diner",
+    "year": 1982,
+    "director": {
+      "name": "Barry Levinson",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005144/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "R",
+    "runtime_minutes": 110,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 11.8,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Steve Guttenberg",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000430/"
+      },
+      {
+        "name": "Mickey Rourke",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000619/"
+      },
+      {
+        "name": "Kevin Bacon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000102/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A group of college-age buddies struggle with their imminent passage into adulthood in 1959 Baltimore.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083833/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/diner"
+  },
+  {
+    "title": "Pink Floyd: The Wall",
+    "year": 1982,
+    "director": {
+      "name": "Alan Parker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000570/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "R",
+    "runtime_minutes": 95,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 22.2,
+    "ratings": {
+      "imdb": 8.0,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "95%"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Music"
+    ],
+    "actors": [
+      {
+        "name": "Bob Geldof",
+        "imdb_person_url": "https://www.imdb.com/name/nm0004955/"
+      },
+      {
+        "name": "Christine Hargreaves",
+        "imdb_person_url": "https://www.imdb.com/name/nm0362947/"
+      },
+      {
+        "name": "James Laurenson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0491325/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084503/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/pink_floyd_the_wall"
+  },
+  {
+    "title": "Koyaanisqatsi",
+    "year": 1982,
+    "director": {
+      "name": "Godfrey Reggio",
+      "imdb_person_url": "https://www.imdb.com/name/nm0716597/"
+    },
+    "production_studio": "IRE Productions",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 86,
+    "budget_usd_millions": 2.5,
+    "gross_revenue_usd_millions": 2.7,
+    "ratings": {
+      "imdb": 8.2,
+      "rotten_tomatoes_critic": "91%",
+      "rotten_tomatoes_popcorn": "91%"
+    },
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "actors": [],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A collection of expertly photographed phenomena with no conventional plot, exploring the effect of humanity on nature.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0085809/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/koyaanisqatsi_life_out_of_balance"
   },
   {
     "title": "Fitzcarraldo",
     "year": 1982,
     "director": {
       "name": "Werner Herzog",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001348/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000450/"
     },
     "production_studio": "Werner Herzog Filmproduktion",
     "mpaa_rating": "PG",
     "runtime_minutes": 158,
-    "budget_usd_millions": 10,
-    "gross_revenue_usd_millions": 1.7,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 1.0,
     "ratings": {
-      "imdb": 7.9,
+      "imdb": 8.0,
       "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "89%"
+      "rotten_tomatoes_popcorn": "91%"
     },
     "genres": [
       "Adventure",
@@ -1018,16 +1094,102 @@
       },
       {
         "name": "José Lewgoy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0504495/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0507662/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A would-be rubber baron in Peru is determined to transport a steamship over a mountain in order to access a rich rubber territory.",
+    "description": "The story of Brian Sweeney Fitzgerald, an extremely determined man who intends to build an opera house in the middle of a jungle.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0083946/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/fitzcarraldo"
+  },
+  {
+    "title": "The World According to Garp",
+    "year": 1982,
+    "director": {
+      "name": "George Roy Hill",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001351/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 136,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 29.7,
+    "ratings": {
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "65%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Robin Williams",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000245/"
+      },
+      {
+        "name": "Mary Beth Hurt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001375/"
+      },
+      {
+        "name": "Glenn Close",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000335/"
+      }
+    ],
+    "oscars_nominated": 2,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A struggling young writer, surrounded by eccentric characters, gets inspired by his mother, a feminist icon.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084917/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/world_according_to_garp"
+  },
+  {
+    "title": "Rocky III",
+    "year": 1982,
+    "director": {
+      "name": "Sylvester Stallone",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
+    },
+    "production_studio": "United Artists",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 99,
+    "budget_usd_millions": 17.0,
+    "gross_revenue_usd_millions": 125.0,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "67%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Sylvester Stallone",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000230/"
+      },
+      {
+        "name": "Talia Shire",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001735/"
+      },
+      {
+        "name": "Burt Young",
+        "imdb_person_url": "https://www.imdb.com/name/nm0949352/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Rocky faces the ultimate challenge from a powerful new contender, and must turn to a former rival to help regain his throne.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084602/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/rocky_iii"
   },
   {
     "title": "The Year of Living Dangerously",
@@ -1039,12 +1201,12 @@
     "production_studio": "MGM",
     "mpaa_rating": "PG",
     "runtime_minutes": 115,
-    "budget_usd_millions": 6,
+    "budget_usd_millions": 13.0,
     "gross_revenue_usd_millions": 10.3,
     "ratings": {
       "imdb": 7.1,
       "rotten_tomatoes_critic": "88%",
-      "rotten_tomatoes_popcorn": "76%"
+      "rotten_tomatoes_popcorn": "75%"
     },
     "genres": [
       "Drama",
@@ -1070,27 +1232,27 @@
     "oscars_won_details": [
       "Best Actress in a Supporting Role"
     ],
-    "description": "A young Australian reporter travels to Indonesia to cover the political turmoil of the 1960s.",
+    "description": "A young Australian reporter tries to navigate the political turmoil of Indonesia during the rule of President Sukarno with the help of a diminutive photographer.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0086617/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_year_of_living_dangerously"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/year_of_living_dangerously"
   },
   {
-    "title": "Tron",
+    "title": "Mad Max 2: The Road Warrior",
     "year": 1982,
     "director": {
-      "name": "Steven Lisberger",
-      "imdb_person_url": "https://www.imdb.com/name/nm0514102/"
+      "name": "George Miller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0004306/"
     },
-    "production_studio": "Walt Disney Productions, Lisberger-Kushner Productions",
-    "mpaa_rating": "PG",
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
     "runtime_minutes": 96,
-    "budget_usd_millions": 17,
-    "gross_revenue_usd_millions": 50,
+    "budget_usd_millions": 4.5,
+    "gross_revenue_usd_millions": 23.7,
     "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "71%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 7.6,
+      "rotten_tomatoes_critic": "93%",
+      "rotten_tomatoes_popcorn": "86%"
     },
     "genres": [
       "Action",
@@ -1099,25 +1261,25 @@
     ],
     "actors": [
       {
-        "name": "Jeff Bridges",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
+        "name": "Mel Gibson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000154/"
       },
       {
-        "name": "Bruce Boxleitner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000961/"
+        "name": "Bruce Spence",
+        "imdb_person_url": "https://www.imdb.com/name/nm0817748/"
       },
       {
-        "name": "David Warner",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001831/"
+        "name": "Vernon Wells",
+        "imdb_person_url": "https://www.imdb.com/name/nm0920460/"
       }
     ],
-    "oscars_nominated": 2,
+    "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A computer hacker is abducted into the digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.",
+    "description": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community escape a horde of bandits.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084827/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tron"
+    "imdb_url": "https://www.imdb.com/title/tt0082694/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/road_warrior"
   },
   {
     "title": "Creepshow",
@@ -1126,15 +1288,15 @@
       "name": "George A. Romero",
       "imdb_person_url": "https://www.imdb.com/name/nm0001681/"
     },
-    "production_studio": "Laurel-Show",
+    "production_studio": "Warner Bros.",
     "mpaa_rating": "R",
     "runtime_minutes": 120,
-    "budget_usd_millions": 8,
-    "gross_revenue_usd_millions": 21,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 21.0,
     "ratings": {
       "imdb": 6.8,
-      "rotten_tomatoes_critic": "67%",
-      "rotten_tomatoes_popcorn": "68%"
+      "rotten_tomatoes_critic": "69%",
+      "rotten_tomatoes_popcorn": "73%"
     },
     "genres": [
       "Comedy",
@@ -1158,7 +1320,7 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An anthology of five short, horrific tales inspired by the E.C. comics of the 1950s.",
+    "description": "An anthology which tells five terrifying tales inspired by the E.C. horror comic books of the 1950s.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0083767/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/creepshow"
@@ -1168,59 +1330,60 @@
     "year": 1982,
     "director": {
       "name": "Richard Benjamin",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000908/"
+      "imdb_person_url": "https://www.imdb.com/name/nm0000910/"
     },
-    "production_studio": "Brooksfilms, Metro-Goldwyn-Mayer",
+    "production_studio": "MGM",
     "mpaa_rating": "PG",
     "runtime_minutes": 92,
-    "budget_usd_millions": 5.9,
-    "gross_revenue_usd_millions": 20,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 20.1,
     "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "97%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "82%"
     },
     "genres": [
-      "Comedy"
+      "Comedy",
+      "Drama"
     ],
     "actors": [
       {
         "name": "Peter O'Toole",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000564/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0001578/"
       },
       {
         "name": "Mark Linn-Baker",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005147/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0513028/"
       },
       {
         "name": "Jessica Harper",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001320/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0363888/"
       }
     ],
     "oscars_nominated": 1,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A young comedy writer is assigned to be the caretaker of a flamboyant, alcoholic movie star who is a guest on a live television show.",
+    "description": "A dissolute matinee idol is slated to appear on a popular live TV comedy show in 1954, and a junior comedy writer is given the job of keeping him sober.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0084370/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/my_favorite_year"
   },
   {
-    "title": "The Secret of NIMH",
+    "title": "The Last Unicorn",
     "year": 1982,
     "director": {
-      "name": "Don Bluth",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000959/"
+      "name": "Jules Bass",
+      "imdb_person_url": "https://www.imdb.com/name/nm0060086/"
     },
-    "production_studio": "Don Bluth Productions, Aurora",
+    "production_studio": "ITC Entertainment",
     "mpaa_rating": "G",
-    "runtime_minutes": 82,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 14.7,
+    "runtime_minutes": 92,
+    "budget_usd_millions": 3.5,
+    "gross_revenue_usd_millions": 6.5,
     "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "93%",
-      "rotten_tomatoes_popcorn": "86%"
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "73%",
+      "rotten_tomatoes_popcorn": "85%"
     },
     "genres": [
       "Animation",
@@ -1229,25 +1392,69 @@
     ],
     "actors": [
       {
-        "name": "Elizabeth Hartman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0366881/"
+        "name": "Jeff Bridges",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
       },
       {
-        "name": "Derek Jacobi",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001398/"
+        "name": "Mia Farrow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001199/"
       },
       {
-        "name": "Dom DeLuise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
+        "name": "Alan Arkin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000273/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A widowed mouse must move her family to a new home before the farmer's plow destroys their current one, and she gets help from a colony of intelligent rats.",
+    "description": "A beautiful unicorn sets out on a quest to find others like her after learning she may be the last of her kind.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084649/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/secret_of_nimh"
+    "imdb_url": "https://www.imdb.com/title/tt0084237/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_unicorn"
+  },
+  {
+    "title": "Dead Men Don't Wear Plaid",
+    "year": 1982,
+    "director": {
+      "name": "Carl Reiner",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005348/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 18.2,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Steve Martin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000188/"
+      },
+      {
+        "name": "Rachel Ward",
+        "imdb_person_url": "https://www.imdb.com/name/nm0911768/"
+      },
+      {
+        "name": "Carl Reiner",
+        "imdb_person_url": "https://www.imdb.com/name/nm0005348/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Juliet Forrest hires a private eye to track down her father's killer, leading him into a complex plot involving cheese molds and Nazis.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083806/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_men_dont_wear_plaid"
   },
   {
     "title": "Annie",
@@ -1256,15 +1463,15 @@
       "name": "John Huston",
       "imdb_person_url": "https://www.imdb.com/name/nm0001379/"
     },
-    "production_studio": "Columbia Pictures, Rastar Pictures",
+    "production_studio": "Columbia Pictures",
     "mpaa_rating": "PG",
     "runtime_minutes": 127,
-    "budget_usd_millions": 50,
-    "gross_revenue_usd_millions": 57,
+    "budget_usd_millions": 50.0,
+    "gross_revenue_usd_millions": 57.0,
     "ratings": {
       "imdb": 6.6,
-      "rotten_tomatoes_critic": "50%",
-      "rotten_tomatoes_popcorn": "56%"
+      "rotten_tomatoes_critic": "49%",
+      "rotten_tomatoes_popcorn": "67%"
     },
     "genres": [
       "Comedy",
@@ -1274,7 +1481,7 @@
     "actors": [
       {
         "name": "Aileen Quinn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0703831/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0703750/"
       },
       {
         "name": "Albert Finney",
@@ -1282,618 +1489,104 @@
       },
       {
         "name": "Carol Burnett",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000994/"
+        "imdb_person_url": "https://www.imdb.com/name/nm0004786/"
       }
     ],
     "oscars_nominated": 2,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A plucky orphan's life is changed forever when she is adopted by a billionaire.",
+    "description": "A young orphan is invited to spend a week with a billionaire, but her happy new life is threatened by the orphanage's cruel headmistress.",
     "afi_ranking": null,
     "imdb_url": "https://www.imdb.com/title/tt0083564/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1001053-annie"
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/annie"
   },
   {
-    "title": "The Last Unicorn",
+    "title": "The Man from Snowy River",
     "year": 1982,
     "director": {
-      "name": "Jules Bass, Arthur Rankin Jr.",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000876/"
+      "name": "George Miller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0588365/"
     },
-    "production_studio": "Rankin/Bass Productions, ITC Entertainment",
-    "mpaa_rating": "G",
-    "runtime_minutes": 92,
-    "budget_usd_millions": 3.5,
-    "gross_revenue_usd_millions": 6.5,
+    "production_studio": "Twentieth Century Fox",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 102,
+    "budget_usd_millions": 3.0,
+    "gross_revenue_usd_millions": 20.6,
     "ratings": {
-      "imdb": 7.4,
-      "rotten_tomatoes_critic": "72%",
-      "rotten_tomatoes_popcorn": "81%"
+      "imdb": 7.2,
+      "rotten_tomatoes_critic": "80%",
+      "rotten_tomatoes_popcorn": "80%"
     },
     "genres": [
-      "Animation",
       "Drama",
-      "Family"
+      "Romance",
+      "Western"
     ],
     "actors": [
       {
-        "name": "Alan Arkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000273/"
+        "name": "Kirk Douglas",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000018/"
       },
       {
-        "name": "Jeff Bridges",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000313/"
+        "name": "Tom Burlinson",
+        "imdb_person_url": "https://www.imdb.com/name/nm0122176/"
       },
       {
-        "name": "Mia Farrow",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001201/"
+        "name": "Terence Donovan",
+        "imdb_person_url": "https://www.imdb.com/name/nm0233066/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A unicorn leaves her enchanted forest to find out what happened to the rest of her kind.",
+    "description": "A young man fights to prove his worth as a mountain horseman and win the heart of a rancher's daughter.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084237/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/last_unicorn"
+    "imdb_url": "https://www.imdb.com/title/tt0084296/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/man_from_snowy_river"
   },
   {
-    "title": "The Best Little Whorehouse in Texas",
+    "title": "Class of 1984",
     "year": 1982,
     "director": {
-      "name": "Colin Higgins",
-      "imdb_person_url": "https://www.imdb.com/name/nm0383480/"
+      "name": "Mark L. Lester",
+      "imdb_person_url": "https://www.imdb.com/name/nm0504488/"
     },
-    "production_studio": "Universal Pictures, RKO Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 114,
-    "budget_usd_millions": 35,
-    "gross_revenue_usd_millions": 69.7,
-    "ratings": {
-      "imdb": 6.2,
-      "rotten_tomatoes_critic": "56%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Comedy",
-      "Musical"
-    ],
-    "actors": [
-      {
-        "name": "Burt Reynolds",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000608/"
-      },
-      {
-        "name": "Dolly Parton",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000574/"
-      },
-      {
-        "name": "Dom DeLuise",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001124/"
-      }
-    ],
-    "oscars_nominated": 1,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A Texas sheriff and a brothel madam team up to stop a crusading television reporter from shutting down the local brothel.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083642/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/best_little_whorehouse_in_texas"
-  },
-  {
-    "title": "Friday the 13th Part III",
-    "year": 1982,
-    "director": {
-      "name": "Steve Miner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0591299/"
-    },
-    "production_studio": "Paramount Pictures, Jason Productions",
-    "mpaa_rating": "R",
-    "runtime_minutes": 95,
-    "budget_usd_millions": 2.2,
-    "gross_revenue_usd_millions": 36.7,
-    "ratings": {
-      "imdb": 5.6,
-      "rotten_tomatoes_critic": "7%",
-      "rotten_tomatoes_popcorn": "36%"
-    },
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Dana Kimmell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0454460/"
-      },
-      {
-        "name": "Paul Kratka",
-        "imdb_person_url": "https://www.imdb.com/name/nm0470355/"
-      },
-      {
-        "name": "Tracie Savage",
-        "imdb_person_url": "https://www.imdb.com/name/nm0767355/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "Having revived from his wounds, Jason Voorhees takes refuge at a cabin near Crystal Lake. As a group of co-eds arrive for their vacation, Jason continues his killing spree.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083972/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/friday_the_13th_part_3"
-  },
-  {
-    "title": "Halloween III: Season of the Witch",
-    "year": 1982,
-    "director": {
-      "name": "Tommy Lee Wallace",
-      "imdb_person_url": "https://www.imdb.com/name/nm0908868/"
-    },
-    "production_studio": "Dino De Laurentiis Company",
+    "production_studio": "United Film Distribution",
     "mpaa_rating": "R",
     "runtime_minutes": 98,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 14.4,
+    "budget_usd_millions": 4.3,
+    "gross_revenue_usd_millions": 6.9,
     "ratings": {
-      "imdb": 5.1,
-      "rotten_tomatoes_critic": "47%",
-      "rotten_tomatoes_popcorn": "26%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "actors": [
-      {
-        "name": "Tom Atkins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000769/"
-      },
-      {
-        "name": "Stacey Nelkin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0625725/"
-      },
-      {
-        "name": "Dan O'Herlihy",
-        "imdb_person_url": "https://www.imdb.com/name/nm0005260/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A doctor and the daughter of a murder victim uncover a plot by a toy maker to kill millions of children on Halloween.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0085636/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/halloween_3_season_of_the_witch"
-  },
-  {
-    "title": "The Beastmaster",
-    "year": 1982,
-    "director": {
-      "name": "Don Coscarelli",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001072/"
-    },
-    "production_studio": "MGM, Eaves Movie Ranch",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 14,
-    "ratings": {
-      "imdb": 6.1,
-      "rotten_tomatoes_critic": "53%",
-      "rotten_tomatoes_popcorn": "61%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "75%",
+      "rotten_tomatoes_popcorn": "55%"
     },
     "genres": [
       "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "actors": [
-      {
-        "name": "Marc Singer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001743/"
-      },
-      {
-        "name": "Tanya Roberts",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000619/"
-      },
-      {
-        "name": "Rip Torn",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001799/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A sword-and-sorcery fantasy about a young man's search for revenge. Armed with supernatural powers, the handsome hero and his animal allies wage war against marauding forces.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083630/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beastmaster"
-  },
-  {
-    "title": "Tenebrae",
-    "year": 1982,
-    "director": {
-      "name": "Dario Argento",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000783/"
-    },
-    "production_studio": "Sigma Cinematografica",
-    "mpaa_rating": "R",
-    "runtime_minutes": 101,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": null,
-    "ratings": {
-      "imdb": 7.0,
-      "rotten_tomatoes_critic": "78%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Anthony Franciosa",
-        "imdb_person_url": "https://www.imdb.com/name/nm0289839/"
-      },
-      {
-        "name": "Giuliano Gemma",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001262/"
-      },
-      {
-        "name": "John Saxon",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001693/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "An American writer in Rome is stalked by a serial killer who is inspired by his novels.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084777/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tenebrae"
-  },
-  {
-    "title": "Dead Men Don't Wear Plaid",
-    "year": 1982,
-    "director": {
-      "name": "Carl Reiner",
-      "imdb_person_url": "https://www.imdb.com/name/nm0005348/"
-    },
-    "production_studio": "Aspen Film Society",
-    "mpaa_rating": "PG",
-    "runtime_minutes": 88,
-    "budget_usd_millions": 9,
-    "gross_revenue_usd_millions": 18.2,
-    "ratings": {
-      "imdb": 6.8,
-      "rotten_tomatoes_critic": "77%",
-      "rotten_tomatoes_popcorn": "71%"
-    },
-    "genres": [
-      "Comedy",
       "Crime",
-      "Thriller"
-    ],
-    "actors": [
-      {
-        "name": "Steve Martin",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000188/"
-      },
-      {
-        "name": "Rachel Ward",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001828/"
-      },
-      {
-        "name": "Alan Ladd",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000042/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A private eye's case is solved by interacting with classic movie clips.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083798/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/dead_men_dont_wear_plaid"
-  },
-  {
-    "title": "Cat People",
-    "year": 1982,
-    "director": {
-      "name": "Paul Schrader",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001707/"
-    },
-    "production_studio": "Universal Pictures",
-    "mpaa_rating": "R",
-    "runtime_minutes": 118,
-    "budget_usd_millions": 18,
-    "gross_revenue_usd_millions": 21.2,
-    "ratings": {
-      "imdb": 6.1,
-      "rotten_tomatoes_critic": "62%",
-      "rotten_tomatoes_popcorn": "51%"
-    },
-    "genres": [
-      "Fantasy",
-      "Horror",
-      "Romance"
-    ],
-    "actors": [
-      {
-        "name": "Nastassja Kinski",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000175/"
-      },
-      {
-        "name": "Malcolm McDowell",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000532/"
-      },
-      {
-        "name": "John Heard",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001334/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A young woman's sexual awakening is complicated by the fact that she is descended from a race of people who turn into panthers when they make love.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083722/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cat_people"
-  },
-  {
-    "title": "Koyaanisqatsi",
-    "year": 1982,
-    "director": {
-      "name": "Godfrey Reggio",
-      "imdb_person_url": "https://www.imdb.com/name/nm0716654/"
-    },
-    "production_studio": "IRE Productions",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 86,
-    "budget_usd_millions": 2.5,
-    "gross_revenue_usd_millions": 3.2,
-    "ratings": {
-      "imdb": 8.2,
-      "rotten_tomatoes_critic": "90%",
-      "rotten_tomatoes_popcorn": "91%"
-    },
-    "genres": [
-      "Documentary",
-      "Music"
-    ],
-    "actors": [
-      {
-        "name": "Lou Dobbs",
-        "imdb_person_url": "https://www.imdb.com/name/nm0230138/"
-      },
-      {
-        "name": "Ted Koppel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0465910/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A collection of expertly photographed phenomena with no conventional plot. The footage focuses on the relationship between humanity, nature, and technology.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0085809/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/koyaanisqatsi"
-  },
-  {
-    "title": "The Draughtsman's Contract",
-    "year": 1982,
-    "director": {
-      "name": "Peter Greenaway",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000425/"
-    },
-    "production_studio": "British Film Institute (BFI)",
-    "mpaa_rating": "R",
-    "runtime_minutes": 108,
-    "budget_usd_millions": 0.3,
-    "gross_revenue_usd_millions": 1.7,
-    "ratings": {
-      "imdb": 7.3,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
       "Drama"
     ],
     "actors": [
       {
-        "name": "Anthony Higgins",
-        "imdb_person_url": "https://www.imdb.com/name/nm0383480/"
+        "name": "Perry King",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001424/"
       },
       {
-        "name": "Janet Suzman",
-        "imdb_person_url": "https://www.imdb.com/name/nm0840498/"
+        "name": "Merrie Lynn Ross",
+        "imdb_person_url": "https://www.imdb.com/name/nm0743666/"
       },
       {
-        "name": "Anne-Louise Lambert",
-        "imdb_person_url": "https://www.imdb.com/name/nm0483241/"
+        "name": "Timothy Van Patten",
+        "imdb_person_url": "https://www.imdb.com/name/nm0887677/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "In 17th-century England, a draughtsman is hired by a wealthy woman to make a series of drawings of her husband's estate, but he becomes entangled in a web of sexual intrigue and murder.",
+    "description": "A new teacher at a troubled inner-city high school faces off against a gang of violent punks dominating the school.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083851/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_draughtsmans_contract"
-  },
-  {
-    "title": "Querelle",
-    "year": 1982,
-    "director": {
-      "name": "Rainer Werner Fassbinder",
-      "imdb_person_url": "https://www.imdb.com/name/nm0001202/"
-    },
-    "production_studio": "Planet Film",
-    "mpaa_rating": "R",
-    "runtime_minutes": 108,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.4,
-    "ratings": {
-      "imdb": 6.6,
-      "rotten_tomatoes_critic": "58%",
-      "rotten_tomatoes_popcorn": "61%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Brad Davis",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001115/"
-      },
-      {
-        "name": "Franco Nero",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001560/"
-      },
-      {
-        "name": "Jeanne Moreau",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001549/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A handsome, amoral sailor in a French port town becomes a prostitute and a murderer.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084565/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/querelle"
-  },
-  {
-    "title": "The Night of the Shooting Stars",
-    "year": 1982,
-    "director": {
-      "name": "Paolo Taviani, Vittorio Taviani",
-      "imdb_person_url": "https://www.imdb.com/name/nm0851694/"
-    },
-    "production_studio": "RAI, Ager Cinematografica",
-    "mpaa_rating": "R",
-    "runtime_minutes": 105,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.4,
-    "ratings": {
-      "imdb": 7.5,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "84%"
-    },
-    "genres": [
-      "Drama",
-      "War"
-    ],
-    "actors": [
-      {
-        "name": "Omero Antonutti",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000769/"
-      },
-      {
-        "name": "Margarita Lozano",
-        "imdb_person_url": "https://www.imdb.com/name/nm0523009/"
-      },
-      {
-        "name": "Claudio Bigagli",
-        "imdb_person_url": "https://www.imdb.com/name/nm0081822/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "In the last days of World War II, a group of Italian villagers flee their town to escape the retreating German army.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084422/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/the_night_of_the_shooting_stars"
-  },
-  {
-    "title": "Yol",
-    "year": 1982,
-    "director": {
-      "name": "Yilmaz Güney, Serif Gören",
-      "imdb_person_url": "https://www.imdb.com/name/nm0348182/"
-    },
-    "production_studio": "Güney Film",
-    "mpaa_rating": "Not Rated",
-    "runtime_minutes": 114,
-    "budget_usd_millions": null,
-    "gross_revenue_usd_millions": 0.2,
-    "ratings": {
-      "imdb": 7.7,
-      "rotten_tomatoes_critic": "100%",
-      "rotten_tomatoes_popcorn": "89%"
-    },
-    "genres": [
-      "Drama"
-    ],
-    "actors": [
-      {
-        "name": "Tarik Akan",
-        "imdb_person_url": "https://www.imdb.com/name/nm0014310/"
-      },
-      {
-        "name": "Serif Sezer",
-        "imdb_person_url": "https://www.imdb.com/name/nm0786843/"
-      },
-      {
-        "name": "Halil Ergün",
-        "imdb_person_url": "https://www.imdb.com/name/nm0259148/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "The story of several Turkish prisoners who are given a week's leave to visit their families.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0084934/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/yol"
-  },
-  {
-    "title": "Eating Raoul",
-    "year": 1982,
-    "director": {
-      "name": "Paul Bartel",
-      "imdb_person_url": "https://www.imdb.com/name/nm0000876/"
-    },
-    "production_studio": "Bartel Film",
-    "mpaa_rating": "R",
-    "runtime_minutes": 83,
-    "budget_usd_millions": 0.3,
-    "gross_revenue_usd_millions": 4,
-    "ratings": {
-      "imdb": 6.7,
-      "rotten_tomatoes_critic": "86%",
-      "rotten_tomatoes_popcorn": "76%"
-    },
-    "genres": [
-      "Comedy",
-      "Crime"
-    ],
-    "actors": [
-      {
-        "name": "Paul Bartel",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000876/"
-      },
-      {
-        "name": "Mary Woronov",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001861/"
-      },
-      {
-        "name": "Robert Beltran",
-        "imdb_person_url": "https://www.imdb.com/name/nm0000901/"
-      }
-    ],
-    "oscars_nominated": 0,
-    "oscars_won": 0,
-    "oscars_won_details": [],
-    "description": "A stuffy, square couple in Los Angeles come up with a bizarre way to solve their financial problems.",
-    "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083869/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eating_raoul"
+    "imdb_url": "https://www.imdb.com/title/tt0083739/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/class_of_1984"
   },
   {
     "title": "Deathtrap",
@@ -1905,12 +1598,12 @@
     "production_studio": "Warner Bros.",
     "mpaa_rating": "PG",
     "runtime_minutes": 116,
-    "budget_usd_millions": 7,
-    "gross_revenue_usd_millions": 19.3,
+    "budget_usd_millions": 10.0,
+    "gross_revenue_usd_millions": 19.0,
     "ratings": {
       "imdb": 7.0,
-      "rotten_tomatoes_critic": "73%",
-      "rotten_tomatoes_popcorn": "71%"
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "67%"
     },
     "genres": [
       "Comedy",
@@ -1934,53 +1627,699 @@
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "A once-successful playwright who is desperate for a new hit receives a manuscript from a former student and plots to kill him and steal the play.",
+    "description": "A washed-up playwright plans to kill a student and steal his brilliant script.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083806/",
+    "imdb_url": "https://www.imdb.com/title/tt0083815/",
     "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/deathtrap"
   },
   {
-    "title": "Class of 1984",
+    "title": "Night Shift",
     "year": 1982,
     "director": {
-      "name": "Mark L. Lester",
-      "imdb_person_url": "https://www.imdb.com/name/nm0504495/"
+      "name": "Ron Howard",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000165/"
     },
-    "production_studio": "Guerilla High Productions",
+    "production_studio": "The Ladd Company",
     "mpaa_rating": "R",
-    "runtime_minutes": 98,
-    "budget_usd_millions": 3,
-    "gross_revenue_usd_millions": 6,
+    "runtime_minutes": 106,
+    "budget_usd_millions": 8.0,
+    "gross_revenue_usd_millions": 21.0,
     "ratings": {
-      "imdb": 6.5,
-      "rotten_tomatoes_critic": "75%",
-      "rotten_tomatoes_popcorn": "65%"
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "92%",
+      "rotten_tomatoes_popcorn": "62%"
     },
     "genres": [
-      "Action",
-      "Crime",
-      "Drama"
+      "Comedy"
     ],
     "actors": [
       {
-        "name": "Perry King",
-        "imdb_person_url": "https://www.imdb.com/name/nm0001429/"
+        "name": "Henry Winkler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000699/"
       },
       {
-        "name": "Merrie Lynn Ross",
-        "imdb_person_url": "https://www.imdb.com/name/nm0743329/"
+        "name": "Michael Keaton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000474/"
       },
       {
-        "name": "Timothy Van Patten",
-        "imdb_person_url": "https://www.imdb.com/name/nm0888636/"
+        "name": "Shelley Long",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000503/"
       }
     ],
     "oscars_nominated": 0,
     "oscars_won": 0,
     "oscars_won_details": [],
-    "description": "An idealistic teacher in a violent, inner-city high school finds himself in a deadly confrontation with a gang of ruthless students.",
+    "description": "A timid morgue attendant is dragged into a wild prostitution scheme by his new coworker.",
     "afi_ranking": null,
-    "imdb_url": "https://www.imdb.com/title/tt0083739/",
-    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/class_of_1984"
+    "imdb_url": "https://www.imdb.com/title/tt0084412/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/night_shift"
+  },
+  {
+    "title": "White Dog",
+    "year": 1982,
+    "director": {
+      "name": "Samuel Fuller",
+      "imdb_person_url": "https://www.imdb.com/name/nm0002087/"
+    },
+    "production_studio": "Paramount Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 90,
+    "budget_usd_millions": 7.0,
+    "gross_revenue_usd_millions": 0.05,
+    "ratings": {
+      "imdb": 7.1,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Kristy McNichol",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001530/"
+      },
+      {
+        "name": "Paul Winfield",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001857/"
+      },
+      {
+        "name": "Burl Ives",
+        "imdb_person_url": "https://www.imdb.com/name/nm0412359/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A trainer attempts to retrain a vicious dog that has been conditioned to attack Black people.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084899/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/white_dog"
+  },
+  {
+    "title": "Tenebrae",
+    "year": 1982,
+    "director": {
+      "name": "Dario Argento",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000783/"
+    },
+    "production_studio": "Sigma Cinematografica",
+    "mpaa_rating": "R",
+    "runtime_minutes": 101,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 1.7,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "77%",
+      "rotten_tomatoes_popcorn": "80%"
+    },
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Anthony Franciosa",
+        "imdb_person_url": "https://www.imdb.com/name/nm0290483/"
+      },
+      {
+        "name": "Giuliano Gemma",
+        "imdb_person_url": "https://www.imdb.com/name/nm0312604/"
+      },
+      {
+        "name": "John Saxon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0768393/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An American writer in Rome is stalked by a serial killer bent on harassing him while killing all people associated with his work on his latest book.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084777/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tenebrae"
+  },
+  {
+    "title": "Veronika Voss",
+    "year": 1982,
+    "director": {
+      "name": "Rainer Werner Fassbinder",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001202/"
+    },
+    "production_studio": "Laura Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 104,
+    "budget_usd_millions": 2.0,
+    "gross_revenue_usd_millions": 0.5,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "82%",
+      "rotten_tomatoes_popcorn": "76%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Rosel Zech",
+        "imdb_person_url": "https://www.imdb.com/name/nm0954045/"
+      },
+      {
+        "name": "Hilmar Thate",
+        "imdb_person_url": "https://www.imdb.com/name/nm0857147/"
+      },
+      {
+        "name": "Cornelia Froboess",
+        "imdb_person_url": "https://www.imdb.com/name/nm0296383/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sports reporter meets a faded UFA starlet who is kept under the influence of morphine by her doctor.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084681/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/veronika_voss"
+  },
+  {
+    "title": "Chan Is Missing",
+    "year": 1982,
+    "director": {
+      "name": "Wayne Wang",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005534/"
+    },
+    "production_studio": "New Yorker Films",
+    "mpaa_rating": "Not Rated",
+    "runtime_minutes": 81,
+    "budget_usd_millions": 0.022,
+    "gross_revenue_usd_millions": 0.2,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "65%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Wood Moy",
+        "imdb_person_url": "https://www.imdb.com/name/nm0610335/"
+      },
+      {
+        "name": "Marc Hayashi",
+        "imdb_person_url": "https://www.imdb.com/name/nm0370642/"
+      },
+      {
+        "name": "Laureen Chew",
+        "imdb_person_url": "https://www.imdb.com/name/nm0156730/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two cabbies search San Francisco's Chinatown for a man who stole their money.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083728/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/chan_is_missing"
+  },
+  {
+    "title": "Eating Raoul",
+    "year": 1982,
+    "director": {
+      "name": "Paul Bartel",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000862/"
+    },
+    "production_studio": "Bartel Film",
+    "mpaa_rating": "R",
+    "runtime_minutes": 84,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 4.1,
+    "ratings": {
+      "imdb": 6.8,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "actors": [
+      {
+        "name": "Mary Woronov",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001861/"
+      },
+      {
+        "name": "Paul Bartel",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000862/"
+      },
+      {
+        "name": "Robert Beltran",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000296/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A quaint, prudish couple in need of money lure swingers into their apartment to kill and rob them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083869/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/eating_raoul"
+  },
+  {
+    "title": "The Plague Dogs",
+    "year": 1982,
+    "director": {
+      "name": "Martin Rosen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0742055/"
+    },
+    "production_studio": "Embassy Pictures",
+    "mpaa_rating": "PG-13",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 0.9,
+    "gross_revenue_usd_millions": 0.4,
+    "ratings": {
+      "imdb": 7.7,
+      "rotten_tomatoes_critic": "60%",
+      "rotten_tomatoes_popcorn": "81%"
+    },
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "John Hurt",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000459/"
+      },
+      {
+        "name": "Christopher Benjamin",
+        "imdb_person_url": "https://www.imdb.com/name/nm0071304/"
+      },
+      {
+        "name": "James Bolam",
+        "imdb_person_url": "https://www.imdb.com/name/nm0092688/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two dogs escape from a laboratory and are hunted as possible carriers of the bubonic plague.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084509/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/plague_dogs"
+  },
+  {
+    "title": "One from the Heart",
+    "year": 1982,
+    "director": {
+      "name": "Francis Ford Coppola",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000338/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 107,
+    "budget_usd_millions": 26.0,
+    "gross_revenue_usd_millions": 0.6,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "53%",
+      "rotten_tomatoes_popcorn": "51%"
+    },
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "actors": [
+      {
+        "name": "Frederic Forrest",
+        "imdb_person_url": "https://www.imdb.com/name/nm0286121/"
+      },
+      {
+        "name": "Teri Garr",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001258/"
+      },
+      {
+        "name": "Raul Julia",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000471/"
+      }
+    ],
+    "oscars_nominated": 1,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A Las Vegas couple breaks up on the 4th of July, and they both go out into the night seeking new romance.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084445/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/one_from_the_heart"
+  },
+  {
+    "title": "Cat People",
+    "year": 1982,
+    "director": {
+      "name": "Paul Schrader",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001707/"
+    },
+    "production_studio": "Universal Pictures",
+    "mpaa_rating": "R",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 18.0,
+    "gross_revenue_usd_millions": 21.0,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "61%",
+      "rotten_tomatoes_popcorn": "50%"
+    },
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "actors": [
+      {
+        "name": "Nastassja Kinski",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000478/"
+      },
+      {
+        "name": "Malcolm McDowell",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000532/"
+      },
+      {
+        "name": "John Heard",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001336/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A young woman's sexual awakening brings horror when she discovers her Galloping lust transforms her into a black leopard.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083722/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/cat_people"
+  },
+  {
+    "title": "The Beastmaster",
+    "year": 1982,
+    "director": {
+      "name": "Don Coscarelli",
+      "imdb_person_url": "https://www.imdb.com/name/nm0181744/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 118,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 14.0,
+    "ratings": {
+      "imdb": 6.2,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "56%"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actors": [
+      {
+        "name": "Marc Singer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001743/"
+      },
+      {
+        "name": "Tanya Roberts",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000617/"
+      },
+      {
+        "name": "Rip Torn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001800/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A sword-and-sorcery hero fights an evil wizard with his animal allies.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083630/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/beastmaster"
+  },
+  {
+    "title": "Tex",
+    "year": 1982,
+    "director": {
+      "name": "Tim Hunter",
+      "imdb_person_url": "https://www.imdb.com/name/nm0403004/"
+    },
+    "production_studio": "Walt Disney Productions",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 103,
+    "budget_usd_millions": 5.0,
+    "gross_revenue_usd_millions": 7.4,
+    "ratings": {
+      "imdb": 6.6,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "67%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Matt Dillon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000369/"
+      },
+      {
+        "name": "Jim Metzler",
+        "imdb_person_url": "https://www.imdb.com/name/nm0582705/"
+      },
+      {
+        "name": "Meg Tilly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000672/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two brothers growing up in rural Oklahoma struggle to find a new life for themselves after their mother dies and their father leaves them.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084783/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/tex"
+  },
+  {
+    "title": "Personal Best",
+    "year": 1982,
+    "director": {
+      "name": "Robert Towne",
+      "imdb_person_url": "https://www.imdb.com/name/nm0001798/"
+    },
+    "production_studio": "Warner Bros.",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 15.0,
+    "gross_revenue_usd_millions": 5.6,
+    "ratings": {
+      "imdb": 6.3,
+      "rotten_tomatoes_critic": "71%",
+      "rotten_tomatoes_popcorn": "47%"
+    },
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "actors": [
+      {
+        "name": "Mariel Hemingway",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000446/"
+      },
+      {
+        "name": "Scott Glenn",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001277/"
+      },
+      {
+        "name": "Patrice Donnelly",
+        "imdb_person_url": "https://www.imdb.com/name/nm0232759/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "Two women track stars compete for a spot on the 1980 U.S. Olympic team and fall in love.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084489/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/personal_best"
+  },
+  {
+    "title": "Tempest",
+    "year": 1982,
+    "director": {
+      "name": "Paul Mazursky",
+      "imdb_person_url": "https://www.imdb.com/name/nm0005202/"
+    },
+    "production_studio": "Columbia Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 140,
+    "budget_usd_millions": 13.0,
+    "gross_revenue_usd_millions": 5.0,
+    "ratings": {
+      "imdb": 6.5,
+      "rotten_tomatoes_critic": "50%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "John Cassavetes",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001023/"
+      },
+      {
+        "name": "Gena Rowlands",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001687/"
+      },
+      {
+        "name": "Susan Sarandon",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000215/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A successful New York architect undergoing a mid-life crisis brings his daughter to a Greek island and meets a free-spirited woman.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084776/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/1021021-tempest"
+  },
+  {
+    "title": "A Midsummer Night's Sex Comedy",
+    "year": 1982,
+    "director": {
+      "name": "Woody Allen",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+    },
+    "production_studio": "Orion Pictures",
+    "mpaa_rating": "PG",
+    "runtime_minutes": 88,
+    "budget_usd_millions": 9.0,
+    "gross_revenue_usd_millions": 9.1,
+    "ratings": {
+      "imdb": 6.7,
+      "rotten_tomatoes_critic": "76%",
+      "rotten_tomatoes_popcorn": "55%"
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "actors": [
+      {
+        "name": "Woody Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000095/"
+      },
+      {
+        "name": "Mia Farrow",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001199/"
+      },
+      {
+        "name": "Jose Ferrer",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001207/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A wacky inventor and his wife invite two other couples for a weekend party at a romantic summer house in the 1900s countryside.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084329/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/midsummer_nights_sex_comedy"
+  },
+  {
+    "title": "Shoot the Moon",
+    "year": 1982,
+    "director": {
+      "name": "Alan Parker",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000570/"
+    },
+    "production_studio": "MGM",
+    "mpaa_rating": "R",
+    "runtime_minutes": 124,
+    "budget_usd_millions": 12.0,
+    "gross_revenue_usd_millions": 9.2,
+    "ratings": {
+      "imdb": 7.0,
+      "rotten_tomatoes_critic": "86%",
+      "rotten_tomatoes_popcorn": "73%"
+    },
+    "genres": [
+      "Drama"
+    ],
+    "actors": [
+      {
+        "name": "Albert Finney",
+        "imdb_person_url": "https://www.imdb.com/name/nm0001215/"
+      },
+      {
+        "name": "Diane Keaton",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000473/"
+      },
+      {
+        "name": "Karen Allen",
+        "imdb_person_url": "https://www.imdb.com/name/nm0000261/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "A bitter, separation and divorce between two writers, George and Faith Dunlap, destroy their family.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0084675/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/shoot_the_moon"
+  },
+  {
+    "title": "The Draughtsman's Contract",
+    "year": 1982,
+    "director": {
+      "name": "Peter Greenaway",
+      "imdb_person_url": "https://www.imdb.com/name/nm0000425/"
+    },
+    "production_studio": "British Film Institute",
+    "mpaa_rating": "R",
+    "runtime_minutes": 108,
+    "budget_usd_millions": 0.5,
+    "gross_revenue_usd_millions": 2.6,
+    "ratings": {
+      "imdb": 7.3,
+      "rotten_tomatoes_critic": "96%",
+      "rotten_tomatoes_popcorn": "83%"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "actors": [
+      {
+        "name": "Anthony Higgins",
+        "imdb_person_url": "https://www.imdb.com/name/nm0383344/"
+      },
+      {
+        "name": "Janet Suzman",
+        "imdb_person_url": "https://www.imdb.com/name/nm0840552/"
+      },
+      {
+        "name": "Anne-Louise Lambert",
+        "imdb_person_url": "https://www.imdb.com/name/nm0483087/"
+      }
+    ],
+    "oscars_nominated": 0,
+    "oscars_won": 0,
+    "oscars_won_details": [],
+    "description": "An artist is commissioned by the wife of a wealthy landowner to make a series of drawings of the estate while her husband is away.",
+    "afi_ranking": null,
+    "imdb_url": "https://www.imdb.com/title/tt0083851/",
+    "rotten_tomatoes_url": "https://www.rottentomatoes.com/m/draughtsmans_contract"
   }
 ]
