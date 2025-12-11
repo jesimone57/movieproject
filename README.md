@@ -4,7 +4,7 @@
 As a huge cinema fan, I love old movies.  They hold a special interest for me.
 Most of these movies have long been forgotten by today's movie goers.
 Yet these films from the late 1920s to the mid 1960s are not to be missed. 
-Movies that won academy awards for Best Picture of Best Actor or Actress provided great performances
+Movies that won academy awards for Best Picture, Best Actor or Best Actress provided great performances
 and thrilled movie goers at the time.
 
 And it's not just the movies that have been forgotten, it is the stars that have been forgotten as well.  One of my 
@@ -12,6 +12,14 @@ favorites is Bette Davis who delivered some powerful performances during her lon
 "All About Eve" and "What Ever Happened to Baby Jane?". Another great film is James Cagney in "White Heat".
 Suppose you enjoy movies directed by Alfred Hitchcock, you can list all his most important works and see which ones earned awards and 
 budget and revenue numbers for each of his films.
+
+## What this is Not
+* this project is not designed to be a complete and concise compendium of every movie ever made.  There is IMDB [http://imdb.com](imdb.com) for that.
+* Not meant to be comprehensive listing of all the actors for a given movie and all the movie details
+* Not intended to be the authoritative source of data for a given movie
+* Not designed to publish or host reviews for movies.  There is Rotten Tomatoes [https://www.rottentomatoes.com/](https://www.rottentomatoes.com/) for that purpose.
+* Not intended to be a critical analysis of the BEST movies ever made.
+* Not my own subjective list of the BEST movies and the BEST actor filmographies
 
 ## Overview
 To create a golden age of hollywood movie explorer web application I relied upon the prodigious 
@@ -24,22 +32,31 @@ All this data is included in the main project folder either in the root folder o
 
 ## Limitations
 As with any large undertaking unfortunately there are limitations that come into play.  These are:
-1. I had to limit the number of actor/actresses to around 150 for the actor filmographies.  Some of your faviorites may be missing from the list.
-All the important actors from this period are there.
+1. I had to limit the number of actor/actresses to around 250 for the actor filmographies.  Some of your favorites may be missing from the list.
+All the important actors from this period are there though.
 2. I had to limit the number of movies per actor filmography to around 25. Some actors/actress had short careers.
 Take Grace Kelley for example.  She only made 11 movies before leaving Hollywood.  Others had prolific careers spanning
 decades with over a hundred acting credits.  I started with 10 movies per actor, then went to 20 and finally settled on a minimum of 25 if possible.
-3. Unfortunately AI chatbot technology is not perfect and the data is not perfect.  There is gaps due to missing data that the chatbot could not find
+3. Unfortunately AI chatbot technology is not perfect and the data is not perfect.  There are gaps due to missing data that the chatbot could not find
 as well as IMDB actor, movie or director links that are incorrect.  This is just a deficiency we must live with.
-4. Approximately 4000 movies are currently in the movie database for searching.  This is not a comprehensive list, 
-but is representative of the "best" movies from 1890 up through 2007.
+4. Approximately 4200 movies are currently in the movie database for searching.  This is not a comprehensive list, 
+but is representative of the "best" movies from the birth of cinema in 1890 up through 2010.
 
-Search Movies by Title
+Search Movies 
 -------------
-- Find movies by partial title text.
-- Find movies in a given date range.
-- Optional sort (title, year, rating).
-- Optional filters: genres (1 or more), release year, actor
+- Search the entire database of all movies (approximately 4200) by simply clicking the search button
+- Search movies by complete or partial title text.
+- Search movies by genre:  Drama.
+- Search movies by multiple genres:  Rom,Com  (Note: OK to abbreviate)
+- Search movies by director: hitch  (OK to abbreviate hitch for Alfred Hitchcock)
+- Search movies by actors either one or more:  gable, colbert  (This will list all movies starring Clark Gable and Claudette Colbert)
+- Search movies in a given year or year range
+- Search for movies that won Oscars for Best Picture, Best Actress, etc.
+- Search all movies having a minimum IMDB rating or above
+- Search movies by production studio
+- Optional sort any column either ascending or descending by clicking the up/down arrows on the given column
+- Optional default sort the results by title, year or rating.
+
 
 Search Actor Filmographies by Actor
 --------------
@@ -123,7 +140,7 @@ look at the following JSON data structure describing a single movie:
 ```
 
 As a movie lover and as fan of cinema I would like a json dataset of a minimum of 53 unique elements
-for the most popular, iconic, celebrated and award-winning movies for that year.  
+for the most popular, iconic, celebrated or award-winning movies for that year.  
 Movies for inclusion should have a minimum IMDB rating of 6.5 and include all movies with 
 IMDB rating of 7.5 or above.
 Use the above data structure as a sample of the type of data to return.
