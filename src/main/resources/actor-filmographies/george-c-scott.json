@@ -1,0 +1,386 @@
+{
+  "actor_profile": {
+    "name": "George C. Scott",
+    "year_born": 1927,
+    "year_died": 1999,
+    "imdb_url": "https://www.imdb.com/name/nm0001715/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/George_C._Scott_1963.jpg",
+    "year_of_first_film": 1959,
+    "year_of_last_film": 1999,
+    "number_of_feature_films_made": 67,
+    "actor_awards": {
+      "oscars_won": 1,
+      "oscars_nominated": 4,
+      "golden_globes_won": 2,
+      "golden_globes_nominated": 5,
+      "emmys_won": 2,
+      "notes": "Won the Academy Award for Best Actor for 'Patton' (1970) but famously refused the award, becoming the first actor to do so, citing his dislike of the voting process. He also won Emmys for 'The Price' and '12 Angry Men'."
+    }
+  },
+  "filmography": [
+    {
+      "title": "Patton",
+      "year": 1970,
+      "role": "General George S. Patton Jr.",
+      "role_description": "The brilliant but volatile American general whose personality and tactics during WWII are chronicled in this epic biographical war film.",
+      "plot": "The World War II phase of the career of the controversial American general, George S. Patton.",
+      "awards": "Oscar: Win – Best Actor (Refused); AFI: 100 Years...100 Movies",
+      "ratings": {
+        "imdb": 7.9,
+        "rotten_tomatoes_critic": 90,
+        "rotten_tomatoes_popcorn": 93
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0066206/"
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "role": "General 'Buck' Turgidson",
+      "role_description": "A hawkish and animated Air Force general who advocates for military action during a nuclear crisis.",
+      "plot": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room of politicians and generals frantically tries to stop.",
+      "awards": "AFI: 100 Years...100 Movies",
+      "ratings": {
+        "imdb": 8.4,
+        "rotten_tomatoes_critic": 98,
+        "rotten_tomatoes_popcorn": 94
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0057012/"
+    },
+    {
+      "title": "Anatomy of a Murder",
+      "year": 1959,
+      "role": "Asst. State Atty. Gen. Claude Dancer",
+      "role_description": "A slick, big-city prosecutor brought in to assist the local district attorney in a high-profile murder trial.",
+      "plot": "A small-town lawyer takes on the defense of a lieutenant accused of murdering the bartender who raped his wife.",
+      "awards": "Oscar: Nomination – Best Supporting Actor",
+      "ratings": {
+        "imdb": 8.0,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 90
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0052561/"
+    },
+    {
+      "title": "The Hustler",
+      "year": 1961,
+      "role": "Bert Gordon",
+      "role_description": "A ruthless professional gambler who manages and manipulates the pool shark Fast Eddie Felson.",
+      "plot": "An up-and-coming pool player plays a high-stakes game against the long-time champion but eventually loses all his money, leading to a journey of self-discovery.",
+      "awards": "Oscar: Nomination – Best Supporting Actor",
+      "ratings": {
+        "imdb": 8.0,
+        "rotten_tomatoes_critic": 98,
+        "rotten_tomatoes_popcorn": 95
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0054997/"
+    },
+    {
+      "title": "The Hospital",
+      "year": 1971,
+      "role": "Dr. Herbert Bock",
+      "role_description": "A suicidal, alcoholic Chief of Medicine at a chaotic teaching hospital who finds a new reason to live.",
+      "plot": "The life of a brilliant but depressed doctor is further complicated by a series of inexplicable deaths at his hospital.",
+      "awards": "Oscar: Nomination – Best Actor",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 73
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0067217/"
+    },
+    {
+      "title": "The Changeling",
+      "year": 1980,
+      "role": "John Russell",
+      "role_description": "A composer grieving the death of his family who moves into a secluded mansion that turns out to be haunted.",
+      "plot": "A man staying at a secluded historical mansion finds himself being haunted by the presence of a spectre.",
+      "awards": "Genie Award: Win – Best Performance by a Foreign Actor",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0080516/"
+    },
+    {
+      "title": "A Christmas Carol",
+      "year": 1984,
+      "role": "Ebenezer Scrooge",
+      "role_description": "Scott delivers a definitive performance as the miserly Victorian businessman in this acclaimed adaptation. (TV Movie)",
+      "plot": "An old bitter miser is given a chance for redemption when he is haunted by three ghosts on Christmas Eve.",
+      "awards": "Primetime Emmy: Nomination – Outstanding Lead Actor in a Limited Series or Special",
+      "ratings": {
+        "imdb": 7.8,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 90
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0087056/"
+    },
+    {
+      "title": "Hardcore",
+      "year": 1979,
+      "role": "Jake VanDorn",
+      "role_description": "A conservative Midwestern father who journeys into the seedy underworld of pornography to find his missing daughter.",
+      "plot": "A father searches for his missing teenage daughter in the red-light district of California.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 79,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0079271/"
+    },
+    {
+      "title": "They Might Be Giants",
+      "year": 1971,
+      "role": "Justin Playfair",
+      "role_description": "A wealthy eccentric who believes he is Sherlock Holmes and is treated by a psychiatrist named Dr. Watson.",
+      "plot": "A psychiatrist becomes fascinated by a patient who believes he is Sherlock Holmes, and the two embark on a quest through New York City.",
+      "awards": "BAFTA: Nomination – Best Actor",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 75,
+        "rotten_tomatoes_popcorn": 82
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0067848/"
+    },
+    {
+      "title": "Petulia",
+      "year": 1968,
+      "role": "Dr. Archie Bollen",
+      "role_description": "A newly divorced San Francisco doctor who becomes involved with an unhappily married young woman.",
+      "plot": "A free-spirited socialite begins a romance with a strait-laced doctor, changing both their lives.",
+      "awards": "National Society of Film Critics: Nomination – Best Actor",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 85,
+        "rotten_tomatoes_popcorn": 69
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0063427/"
+    },
+    {
+      "title": "The Flim-Flam Man",
+      "year": 1967,
+      "role": "Mordecai Jones",
+      "role_description": "An aging grifter who takes a young army deserter under his wing as they travel the South.",
+      "plot": "A veteran con man takes on a young apprentice, but their partnership is tested by the law and a local girl.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 68
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0061678/"
+    },
+    {
+      "title": "Islands in the Stream",
+      "year": 1977,
+      "role": "Thomas Hudson",
+      "role_description": "A reclusive artist living in the Bahamas whose peace is shattered by the arrival of his children and the onset of WWII.",
+      "plot": "An artist living in the Bahamas reconnects with his sons before being drawn into aiding refugees during World War II.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 67,
+        "rotten_tomatoes_popcorn": 47
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0076211/"
+    },
+    {
+      "title": "The Rescuers Down Under",
+      "year": 1990,
+      "role": "Percival C. McLeach",
+      "role_description": "The voice of the villainous poacher who kidnaps a boy to find a rare eagle.",
+      "plot": "The R.A.S. agents, Miss Bianca and Bernard, race to Australia to save a little boy and a rare golden eagle from a murderous poacher.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 71,
+        "rotten_tomatoes_popcorn": 69
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0100477/"
+    },
+    {
+      "title": "Jane Eyre",
+      "year": 1970,
+      "role": "Edward Rochester",
+      "role_description": "The brooding and mysterious master of Thornfield Hall who employs Jane Eyre as a governess. (TV Movie)",
+      "plot": "An orphan girl grows up to become a governess and finds love with her employer, a man hiding a terrible secret.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 63
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0065920/"
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1997,
+      "role": "Juror #3",
+      "role_description": "The antagonistic juror who holds out on the guilty verdict due to personal bias against his own son. (TV Movie)",
+      "plot": "Twelve jurors must decide the fate of a teenager accused of murdering his father.",
+      "awards": "Primetime Emmy: Win – Outstanding Supporting Actor in a Miniseries or a Movie",
+      "ratings": {
+        "imdb": 7.8,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0118528/"
+    },
+    {
+      "title": "The Exorcist III",
+      "year": 1990,
+      "role": "Lt. William Kinderman",
+      "role_description": "A police lieutenant investigating a series of murders that resemble the work of a deceased serial killer.",
+      "plot": "A police lieutenant uncovers more than he bargained for as his investigation of a series of murders brings him face-to-face with the supernatural.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 58,
+        "rotten_tomatoes_popcorn": 56
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0099528/"
+    },
+    {
+      "title": "The Hanging Tree",
+      "year": 1959,
+      "role": "Dr. George Grubb",
+      "role_description": "A crazed, fire-and-brimstone faith healer who antagonizes the town doctor. (Film Debut)",
+      "plot": "A doctor saves a criminal from a lynch mob and then tries to control the life of the young man.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 68
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0052876/"
+    },
+    {
+      "title": "Taps",
+      "year": 1981,
+      "role": "General Harlan Bache",
+      "role_description": "The head of a military academy whose accidental killing of a local teen sparks a siege.",
+      "plot": "Military cadets take extreme measures to ensure the future of their academy when its existence is threatened by local condo developers.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 68,
+        "rotten_tomatoes_popcorn": 67
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0083169/"
+    },
+    {
+      "title": "The New Centurions",
+      "year": 1972,
+      "role": "Kilvinski",
+      "role_description": "A veteran police officer who mentors a rookie cop on the streets of Los Angeles.",
+      "plot": "A veteran cop shows a rookie the ropes, but the job takes a heavy toll on their personal lives.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0068997/"
+    },
+    {
+      "title": "Movie Movie",
+      "year": 1978,
+      "role": "Gloves Malloy / Spats Baxter",
+      "role_description": "Scott plays two roles in this double-feature parody of 1930s cinema.",
+      "plot": "A double feature of 1930s-style movies: a boxing picture and a busby berkeley-style musical.",
+      "awards": "Golden Globe: Nomination – Best Actor in a Motion Picture - Musical or Comedy",
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 44
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0077952/"
+    },
+    {
+      "title": "Firestarter",
+      "year": 1984,
+      "role": "John Rainbird",
+      "role_description": "A government assassin who poses as an orderly to befriend a young girl with pyrokinetic abilities.",
+      "plot": "A couple who participated in a potent medical experiment gain telepathic ability and then have a child who is pyrokinetic.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.0,
+        "rotten_tomatoes_critic": 37,
+        "rotten_tomatoes_popcorn": 48
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0087262/"
+    },
+    {
+      "title": "The List of Adrian Messenger",
+      "year": 1963,
+      "role": "Anthony Gethryn",
+      "role_description": "A retired MI5 officer who investigates a list of names left by a friend who died in a plane crash.",
+      "plot": "A retired intelligence officer investigates a series of 'accidental' deaths after receiving a list of names from a friend.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 57,
+        "rotten_tomatoes_popcorn": 60
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0057254/"
+    },
+    {
+      "title": "The Day of the Dolphin",
+      "year": 1973,
+      "role": "Dr. Jake Terrell",
+      "role_description": "A marine biologist who trains dolphins to communicate with humans, unaware they are being used for a political assassination.",
+      "plot": "A marine biologist trains a dolphin to speak English, but the animal is stolen to be used in an assassination plot.",
+      "awards": null,
+      "ratings": {
+        "imdb": 5.9,
+        "rotten_tomatoes_critic": 46,
+        "rotten_tomatoes_popcorn": 32
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0069946/"
+    },
+    {
+      "title": "The Hindenburg",
+      "year": 1975,
+      "role": "Col. Franz Ritter",
+      "role_description": "A Luftwaffe colonel assigned to security on the ill-fated airship to prevent sabotage.",
+      "plot": "A film that speculates on a sabotage plot that causes the Hindenburg disaster in 1937.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.1,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 33
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0073115/"
+    },
+    {
+      "title": "The Prince and the Pauper",
+      "year": 1977,
+      "role": "The Ruffler",
+      "role_description": "The leader of a gang of thieves who takes in the disguised prince.",
+      "plot": "A poor boy and the Prince of Wales trade places, but events force them to live the other's life longer than expected.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0076572/"
+    },
+    {
+      "title": "Malice",
+      "year": 1993,
+      "role": "Dr. Martin Kessler",
+      "role_description": "A senior doctor who questions the actions of Alec Baldwin's arrogant surgeon character.",
+      "plot": "A tale about a happily married couple who would like to have children and a surgeon who moves into their lives.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 55,
+        "rotten_tomatoes_popcorn": 41
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0107497/"
+    }
+  ]
+}
