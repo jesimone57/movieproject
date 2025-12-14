@@ -67,6 +67,8 @@ public class ActorAwards {
     private int presidentialMedalOfFreedom;
     @JsonProperty("honorary_golden_bear")
     private int honoraryGoldenBear;
+    @JsonProperty("saturn_awards_nominated")
+    private int saturnAwardsNominated;
     @JsonProperty("saturn_awards_won")
     private int saturnAwardsWon;
     @JsonProperty("disney_legends_inducted")
@@ -124,4 +126,8 @@ public class ActorAwards {
     private String awards;
     @JsonProperty("peabody_awards_won")
     private int peabodyAwardsWon;
+    @JsonProperty("disney_legends_award")
+    private int disneyLegendsAward;
+    @JsonProperty("western_heritage_awards_won")
+    private int westernHeritageAwardsWon;
 }

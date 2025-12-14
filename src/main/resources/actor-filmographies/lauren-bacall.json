@@ -4,15 +4,18 @@
     "year_born": 1924,
     "year_died": 2014,
     "imdb_url": "https://www.imdb.com/name/nm0000004/",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lauren_Bacall_1945.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lauren_Bacall_promo_photo_1945.jpg",
     "year_of_first_film": 1944,
     "year_of_last_film": 2012,
-    "number_of_feature_films_made": 53,
+    "number_of_feature_films_made": 54,
     "actor_awards": {
-      "oscars_won": 0,
       "oscars_honorary": 1,
       "oscars_nominated": 1,
-      "golden_globes_won": 1
+      "golden_globes_won": 1,
+      "golden_globes_nominated": 1,
+      "baftas_nominated": 2,
+      "tony_awards_won": 2,
+      "notes": "Received an Academy Honorary Award in 2009. Won a Golden Globe and SAG Award for Best Supporting Actress for 'The Mirror Has Two Faces'. Known for her distinctive husky voice and sultry looks."
     }
   },
   "filmography": [
@@ -20,13 +23,13 @@
       "title": "To Have and Have Not",
       "year": 1944,
       "role": "Marie 'Slim' Browning",
-      "role_description": "A sultry young drifter in Martinique who famously teaches Humphrey Bogart how to whistle in her screen debut.",
-      "plot": "During World War II, an American expatriate helps transport a French Resistance leader and his wife to Martinique while romancing a lounge singer.",
-      "awards": "Film Debut",
+      "role_description": "A seductive drifter in Martinique who falls for a fishing boat captain, delivering the famous line, 'You know how to whistle, don't you?'",
+      "plot": "An American expatriate in Martinique is reluctant to get involved in the French Resistance until he falls for a young woman.",
+      "awards": null,
       "ratings": {
         "imdb": 7.8,
         "rotten_tomatoes_critic": 97,
-        "rotten_tomatoes_popcorn": 88
+        "rotten_tomatoes_popcorn": 86
       },
       "imdb_url": "https://www.imdb.com/title/tt0037382/"
     },
@@ -34,9 +37,9 @@
       "title": "The Big Sleep",
       "year": 1946,
       "role": "Vivian Rutledge",
-      "role_description": "The sharp-witted, mysterious elder daughter of a wealthy general who hires private eye Philip Marlowe.",
-      "plot": "Private detective Philip Marlowe is hired by a rich family. Before the complex case is over, he's seen murder, blackmail, and what might be love.",
-      "awards": "National Film Registry (Inducted 1997)",
+      "role_description": "The mysterious and sharp-witted daughter of a wealthy general who becomes involved with private eye Philip Marlowe.",
+      "plot": "Private detective Philip Marlowe is hired by a rich family to investigate a blackmail case, which leads to a trail of murders.",
+      "awards": "National Film Registry: Inducted (1997)",
       "ratings": {
         "imdb": 7.9,
         "rotten_tomatoes_critic": 97,
@@ -45,128 +48,100 @@
       "imdb_url": "https://www.imdb.com/title/tt0038355/"
     },
     {
-      "title": "Dark Passage",
-      "year": 1947,
-      "role": "Irene Jansen",
-      "role_description": "A sympathetic artist who shelters an escaped convict wrongly accused of murdering his wife.",
-      "plot": "A man convicted of murdering his wife escapes from prison and works with a young woman to prove his innocence.",
-      "awards": "Notable Film Noir",
-      "ratings": {
-        "imdb": 7.5,
-        "rotten_tomatoes_critic": 90,
-        "rotten_tomatoes_popcorn": 86
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0039302/"
-    },
-    {
       "title": "Key Largo",
       "year": 1948,
       "role": "Nora Temple",
-      "role_description": "A war widow running a hotel in the Florida Keys who is held hostage by a gangster during a hurricane.",
+      "role_description": "A war widow running a hotel in the Florida Keys which is taken over by a mobster during a hurricane.",
       "plot": "A man visits his war buddy's family hotel and finds a gangster running things. As a hurricane approaches, the two end up confronting each other.",
-      "awards": "Final Bogart/Bacall Film",
+      "awards": "Oscar: Win – Best Supporting Actress (Claire Trevor)",
       "ratings": {
-        "imdb": 7.7,
+        "imdb": 7.8,
         "rotten_tomatoes_critic": 97,
         "rotten_tomatoes_popcorn": 88
       },
       "imdb_url": "https://www.imdb.com/title/tt0040506/"
     },
     {
-      "title": "Young Man with a Horn",
-      "year": 1950,
-      "role": "Amy North",
-      "role_description": "A wealthy, emotionally unstable student who enters a destructive marriage with a jazz trumpeter.",
-      "plot": "A young trumpet player rises to fame but struggles with the pressures of his personal life and career.",
-      "awards": "Notable Musical Drama",
+      "title": "Dark Passage",
+      "year": 1947,
+      "role": "Irene Jansen",
+      "role_description": "A sympathetic artist who shelters a man wrongly convicted of murder after he escapes from prison.",
+      "plot": "A man convicted of murdering his wife escapes from prison and works with a young woman to prove his innocence.",
+      "awards": null,
       "ratings": {
-        "imdb": 7.0,
-        "rotten_tomatoes_critic": 83,
-        "rotten_tomatoes_popcorn": 69
+        "imdb": 7.5,
+        "rotten_tomatoes_critic": 90,
+        "rotten_tomatoes_popcorn": 83
       },
-      "imdb_url": "https://www.imdb.com/title/tt0043153/"
-    },
-    {
-      "title": "Bright Leaf",
-      "year": 1950,
-      "role": "Sonia Kovac",
-      "role_description": "A brothel madam who finances and supports a driven tobacco tycoon, despite his love for another woman.",
-      "plot": "A man returns to his hometown to seek revenge on the tobacco tycoon who ruined his family, building his own empire in the process.",
-      "awards": "Notable Melodrama",
-      "ratings": {
-        "imdb": 6.7,
-        "rotten_tomatoes_critic": 60,
-        "rotten_tomatoes_popcorn": 42
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0042283/"
+      "imdb_url": "https://www.imdb.com/title/tt0039302/"
     },
     {
       "title": "How to Marry a Millionaire",
       "year": 1953,
       "role": "Schatze Page",
-      "role_description": "The cynical leader of three models who pool their resources to rent a penthouse in hopes of snagging rich husbands.",
+      "role_description": "The resourceful leader of three models who rent a penthouse in an attempt to snag wealthy husbands.",
       "plot": "Three women set out to find eligible millionaires to marry, but find true love in the process.",
       "awards": "BAFTA: Nomination – Best Film",
       "ratings": {
         "imdb": 6.8,
         "rotten_tomatoes_critic": 85,
-        "rotten_tomatoes_popcorn": 73
+        "rotten_tomatoes_popcorn": 76
       },
       "imdb_url": "https://www.imdb.com/title/tt0045891/"
     },
     {
-      "title": "Woman's World",
-      "year": 1954,
-      "role": "Elizabeth Burns",
-      "role_description": "The sophisticated, intelligent wife of an executive competing for a top position in an automobile company.",
-      "plot": "The owner of a car company invites three regional managers and their wives to New York to decide who will be the new general manager.",
-      "awards": "Notable Ensemble Drama",
+      "title": "The Mirror Has Two Faces",
+      "year": 1996,
+      "role": "Hannah Morgan",
+      "role_description": "The vain and critical mother of the protagonist who struggles with her own aging beauty.",
+      "plot": "A professor who enters a platonic marriage to avoid sex falls in love with her husband, but complications arise when she undergoes a makeover.",
+      "awards": "Golden Globe: Win – Best Supporting Actress",
       "ratings": {
         "imdb": 6.6,
-        "rotten_tomatoes_critic": 50,
-        "rotten_tomatoes_popcorn": 38
+        "rotten_tomatoes_critic": 53,
+        "rotten_tomatoes_popcorn": 73
       },
-      "imdb_url": "https://www.imdb.com/title/tt0047679/"
+      "imdb_url": "https://www.imdb.com/title/tt0117057/"
     },
     {
-      "title": "The Cobweb",
-      "year": 1955,
-      "role": "Meg Faversen Rinehart",
-      "role_description": "A staff member at a psychiatric clinic who becomes involved in the personal and professional conflicts of the institution.",
-      "plot": "Staff and patients at a psychiatric clinic clash over drapes for the library, revealing deep personal dysfunctions.",
-      "awards": "Notable Minelli Drama",
+      "title": "The Shootist",
+      "year": 1976,
+      "role": "Bond Rogers",
+      "role_description": "A widow who runs a boarding house and befriends a dying legendary gunfighter.",
+      "plot": "A dying gunfighter spends his last days looking for a way to die with a minimum of pain and a maximum of dignity.",
+      "awards": "BAFTA: Nomination – Best Actress",
       "ratings": {
-        "imdb": 6.5,
-        "rotten_tomatoes_critic": 60,
-        "rotten_tomatoes_popcorn": 29
+        "imdb": 7.6,
+        "rotten_tomatoes_critic": 86,
+        "rotten_tomatoes_popcorn": 83
       },
-      "imdb_url": "https://www.imdb.com/title/tt0047943/"
+      "imdb_url": "https://www.imdb.com/title/tt0075213/"
     },
     {
-      "title": "Blood Alley",
-      "year": 1955,
-      "role": "Cathy Grainger",
-      "role_description": "A doctor's daughter who helps an American merchant marine captain smuggle Chinese villagers to Hong Kong.",
-      "plot": "A merchant marine captain rescues a village of Chinese peasants from Communist China and transports them to Hong Kong.",
-      "awards": "Notable Adventure",
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "role": "Mrs. Hubbard",
+      "role_description": "A loud and talkative American widow who is one of the suspects on the famous train.",
+      "plot": "In December 1935, when his train is stopped by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before.",
+      "awards": null,
       "ratings": {
-        "imdb": 6.3,
-        "rotten_tomatoes_critic": 60,
-        "rotten_tomatoes_popcorn": 39
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 90,
+        "rotten_tomatoes_popcorn": 80
       },
-      "imdb_url": "https://www.imdb.com/title/tt0047889/"
+      "imdb_url": "https://www.imdb.com/title/tt0071877/"
     },
     {
       "title": "Written on the Wind",
       "year": 1956,
       "role": "Lucy Moore Hadley",
-      "role_description": "A sensible executive secretary who marries into a wealthy, dysfunctional Texas oil family.",
-      "plot": "The alcoholic son of a Texas oil tycoon marries a secretary, but his jealousy and his sister's interference threaten to destroy them.",
-      "awards": "Notable Melodrama",
+      "role_description": "A level-headed woman who marries into a wealthy, dysfunctional oil family.",
+      "plot": "The alcoholic son of a Texas oil tycoon and his best friend fall for the same woman.",
+      "awards": "Oscar: Win – Best Supporting Actress (Dorothy Malone)",
       "ratings": {
-        "imdb": 7.5,
-        "rotten_tomatoes_critic": 83,
-        "rotten_tomatoes_popcorn": 77
+        "imdb": 7.4,
+        "rotten_tomatoes_critic": 90,
+        "rotten_tomatoes_popcorn": 81
       },
       "imdb_url": "https://www.imdb.com/title/tt0049966/"
     },
@@ -174,135 +149,51 @@
       "title": "Designing Woman",
       "year": 1957,
       "role": "Marilla Brown Hagen",
-      "role_description": "A sophisticated fashion designer who marries a sportswriter, leading to clashes between their very different social circles.",
-      "plot": "A sportswriter and a fashion designer marry after a whirlwind romance, but their different lifestyles and friends cause friction.",
+      "role_description": "A fashion designer who marries a sportswriter, leading to a clash of their very different worlds.",
+      "plot": "A sportswriter and a fashion designer marry after a brief romance, but their lifestyles clash when they return to New York.",
       "awards": "Oscar: Win – Best Original Screenplay",
       "ratings": {
-        "imdb": 6.8,
-        "rotten_tomatoes_critic": 69,
-        "rotten_tomatoes_popcorn": 49
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": 67,
+        "rotten_tomatoes_popcorn": 52
       },
       "imdb_url": "https://www.imdb.com/title/tt0050306/"
     },
     {
-      "title": "The Gift of Love",
-      "year": 1958,
-      "role": "Julie Beck",
-      "role_description": "A terminally ill woman who adopts a child to comfort her husband after she is gone.",
-      "plot": "A woman with a heart condition adopts a young girl to keep her husband company after her inevitable death.",
-      "awards": "Remake of Sentimental Journey",
+      "title": "Young Man with a Horn",
+      "year": 1950,
+      "role": "Amy North",
+      "role_description": "A wealthy but troubled socialite whose complex psychology distracts a dedicated jazz musician.",
+      "plot": "The rise and fall of a talented trumpet player who is torn between his music and a destructive relationship.",
+      "awards": null,
       "ratings": {
-        "imdb": 6.6,
-        "rotten_tomatoes_critic": 40,
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": 83,
         "rotten_tomatoes_popcorn": 57
       },
-      "imdb_url": "https://www.imdb.com/title/tt0051656/"
-    },
-    {
-      "title": "North West Frontier",
-      "year": 1959,
-      "role": "Catherine Wyatt",
-      "role_description": "A resourceful governess who helps a British officer smuggle a young Hindu prince to safety across rebellion-torn India.",
-      "plot": "A British Army officer must transport a young prince to safety via an old steam train through rebel-held territory in India.",
-      "awards": "Notable Adventure",
-      "ratings": {
-        "imdb": 7.1,
-        "rotten_tomatoes_critic": 100,
-        "rotten_tomatoes_popcorn": 59
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0053126/"
-    },
-    {
-      "title": "Sex and the Single Girl",
-      "year": 1964,
-      "role": "Sylvia Broderick",
-      "role_description": "A feuding wife involved in a comedic battle of the sexes alongside her husband, played by Henry Fonda.",
-      "plot": "A tabloid editor tries to expose the author of a guide for single women, but complications ensue when they meet.",
-      "awards": "Notable Comedy",
-      "ratings": {
-        "imdb": 6.1,
-        "rotten_tomatoes_critic": 40,
-        "rotten_tomatoes_popcorn": 34
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0058580/"
+      "imdb_url": "https://www.imdb.com/title/tt0043153/"
     },
     {
       "title": "Harper",
       "year": 1966,
       "role": "Elaine Sampson",
-      "role_description": "A cynical, wealthy woman who hires private investigator Lew Harper to find her missing husband.",
-      "plot": "Private investigator Lew Harper is hired by a wealthy California matron to locate her kidnapped husband.",
-      "awards": "Notable Mystery",
+      "role_description": "The cynical, disabled wife of a missing millionaire who hires a private investigator.",
+      "plot": "Private investigator Lew Harper is hired by a wealthy woman to investigate the disappearance of her husband.",
+      "awards": null,
       "ratings": {
         "imdb": 6.9,
-        "rotten_tomatoes_critic": 90,
-        "rotten_tomatoes_popcorn": 61
+        "rotten_tomatoes_critic": 92,
+        "rotten_tomatoes_popcorn": 64
       },
       "imdb_url": "https://www.imdb.com/title/tt0060491/"
-    },
-    {
-      "title": "Murder on the Orient Express",
-      "year": 1974,
-      "role": "Mrs. Hubbard",
-      "role_description": "A loud, talkative American tourist aboard the famous train who becomes a suspect in a murder investigation.",
-      "plot": "In December 1935, when his train is stopped by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before.",
-      "awards": "BAFTA: Nomination – Best Supporting Actress",
-      "ratings": {
-        "imdb": 7.3,
-        "rotten_tomatoes_critic": 90,
-        "rotten_tomatoes_popcorn": 82
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0071877/"
-    },
-    {
-      "title": "The Shootist",
-      "year": 1976,
-      "role": "Bond Rogers",
-      "role_description": "A widowed boarding house owner who befriends a dying gunfighter, John Wayne, in his final days.",
-      "plot": "A dying gunfighter spends his last days looking for a way to die with a minimum of pain and a maximum of dignity.",
-      "awards": "BAFTA: Nomination – Best Actress",
-      "ratings": {
-        "imdb": 7.6,
-        "rotten_tomatoes_critic": 83,
-        "rotten_tomatoes_popcorn": 87
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0075213/"
-    },
-    {
-      "title": "The Fan",
-      "year": 1981,
-      "role": "Sally Ross",
-      "role_description": "A famous stage actress who is stalked by a deranged fan, leading to a violent confrontation.",
-      "plot": "A deranged fan begins stalking a Broadway actress, and his obsession turns violent when she rejects his advances.",
-      "awards": "Notable Thriller",
-      "ratings": {
-        "imdb": 5.4,
-        "rotten_tomatoes_critic": 30,
-        "rotten_tomatoes_popcorn": 23
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0082362/"
-    },
-    {
-      "title": "Appointment with Death",
-      "year": 1988,
-      "role": "Lady Westholme",
-      "role_description": "A domineering, aristocratic Member of Parliament who becomes involved in a murder mystery in the Holy Land.",
-      "plot": "Hercule Poirot investigates the murder of a wealthy and tyrannical woman during a tour of the Holy Land.",
-      "awards": "Notable Agatha Christie Adaptation",
-      "ratings": {
-        "imdb": 6.1,
-        "rotten_tomatoes_critic": 40,
-        "rotten_tomatoes_popcorn": 41
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0094669/"
     },
     {
       "title": "Misery",
       "year": 1990,
       "role": "Marcia Sindell",
       "role_description": "The literary agent of a famous author who becomes concerned when he goes missing.",
-      "plot": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care she is providing him is only the beginning of a nightmare.",
-      "awards": "Notable Supporting Role",
+      "plot": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+      "awards": "Oscar: Win – Best Actress (Kathy Bates)",
       "ratings": {
         "imdb": 7.8,
         "rotten_tomatoes_critic": 91,
@@ -311,54 +202,152 @@
       "imdb_url": "https://www.imdb.com/title/tt0100157/"
     },
     {
-      "title": "The Mirror Has Two Faces",
-      "year": 1996,
-      "role": "Hannah Morgan",
-      "role_description": "The critical and glamorous mother of a dowdy professor, whose relationship with her daughter is strained by vanity.",
-      "plot": "A professor enters a platonic marriage with a colleague, but complications arise when she undergoes a makeover to win his affection.",
-      "awards": "Oscar: Nomination – Best Supporting Actress; Golden Globe: Win – Best Supporting Actress",
-      "ratings": {
-        "imdb": 6.6,
-        "rotten_tomatoes_critic": 53,
-        "rotten_tomatoes_popcorn": 69
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0117057/"
-    },
-    {
-      "title": "My Fellow Americans",
-      "year": 1996,
-      "role": "Margaret Kramer",
-      "role_description": "The former First Lady and wife of a fictional ex-president, bringing wit and dignity to the political comedy.",
-      "plot": "Two former U.S. Presidents, hated rivals, join forces to expose the current corrupt President at the risk of their lives.",
-      "awards": "Notable Comedy",
-      "ratings": {
-        "imdb": 6.5,
-        "rotten_tomatoes_critic": 47,
-        "rotten_tomatoes_popcorn": 48
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0117119/"
-    },
-    {
       "title": "Dogville",
       "year": 2003,
       "role": "Ma Ginger",
-      "role_description": "A cynical shopkeeper in a small, isolated town who turns against a fugitive seeking refuge.",
-      "plot": "A woman on the run from the mob is reluctantly accepted in a small Colorado town, but the price of their protection is high.",
-      "awards": "Notable Art House Film",
+      "role_description": "A shopkeeper in a small, isolated town who eventually turns against the woman seeking refuge there.",
+      "plot": "A woman on the run from the mob is reluctantly accepted in a small Colorado town, but the price of her safety turns into enslavement.",
+      "awards": "Cannes Film Festival: Nomination – Palme d'Or",
       "ratings": {
         "imdb": 8.0,
         "rotten_tomatoes_critic": 71,
-        "rotten_tomatoes_popcorn": 89
+        "rotten_tomatoes_popcorn": 85
       },
       "imdb_url": "https://www.imdb.com/title/tt0276919/"
     },
     {
+      "title": "Bright Leaf",
+      "year": 1950,
+      "role": "Sonia Kovac",
+      "role_description": "A madam who supports a tobacco tycoon in his rise to power and his rivalry with an old family.",
+      "plot": "A ruthless tobacco tycoon builds an empire to destroy the family that ruined him, but alienates the woman who loves him.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 39
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0042283/"
+    },
+    {
+      "title": "Blood Alley",
+      "year": 1955,
+      "role": "Cathy Grainger",
+      "role_description": "A doctor's daughter who helps an American sea captain ferry Chinese refugees to safety.",
+      "plot": "A merchant marine captain rescues a village of Chinese from the Communists and transports them to Hong Kong.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 44
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0047889/"
+    },
+    {
+      "title": "The Cobweb",
+      "year": 1955,
+      "role": "Meg Rinehart",
+      "role_description": "A staff member at a psychiatric clinic who becomes involved in the personal and professional conflicts of the institution.",
+      "plot": "At a psychiatric clinic, the staff and patients are drawn into a conflict over new drapes for the library, masking deeper personal and professional tensions.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 45
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0047943/"
+    },
+    {
+      "title": "Woman's World",
+      "year": 1954,
+      "role": "Elizabeth Burns",
+      "role_description": "One of three wives whose behavior is scrutinized as their husbands compete for a top executive position.",
+      "plot": "The owner of a major automobile company brings three managers and their wives to New York to choose a new general manager.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 44
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0047680/"
+    },
+    {
+      "title": "Sex and the Single Girl",
+      "year": 1964,
+      "role": "Sylvia Broderick",
+      "role_description": "A feuding wife involved in a comedic battle of the sexes.",
+      "plot": "A tabloid reporter tries to expose a famous psychologist by impersonating her neighbor.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 34
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0058580/"
+    },
+    {
+      "title": "The Fan",
+      "year": 1981,
+      "role": "Sally Ross",
+      "role_description": "A famous stage and screen star who is stalked by a deranged fan.",
+      "plot": "A deranged fan begins stalking his favorite actress, and his obsession turns violent when she rejects his letters.",
+      "awards": null,
+      "ratings": {
+        "imdb": 5.9,
+        "rotten_tomatoes_critic": 36,
+        "rotten_tomatoes_popcorn": 22
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0082362/"
+    },
+    {
+      "title": "Birth",
+      "year": 2004,
+      "role": "Eleanor",
+      "role_description": "The mother of a widow who is confronted by a young boy claiming to be the reincarnation of her late husband.",
+      "plot": "A young boy attempts to convince a woman that he is her dead husband reborn.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.2,
+        "rotten_tomatoes_critic": 39,
+        "rotten_tomatoes_popcorn": 44
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0337876/"
+    },
+    {
+      "title": "Manderlay",
+      "year": 2005,
+      "role": "Mam",
+      "role_description": "The owner of a plantation where slavery continues 70 years after the Civil War.",
+      "plot": "A woman discovers a plantation where slavery is still practiced and attempts to impose democracy on the inhabitants.",
+      "awards": "Cannes Film Festival: Nomination – Palme d'Or",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 70
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0342735/"
+    },
+    {
+      "title": "Appointment with Death",
+      "year": 1988,
+      "role": "Lady Westholme",
+      "role_description": "A dominating Member of Parliament involved in a murder mystery in the Middle East.",
+      "plot": "Hercule Poirot investigates the murder of the sadistic matriarch of a wealthy family during a vacation in the Holy Land.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.1,
+        "rotten_tomatoes_critic": 40,
+        "rotten_tomatoes_popcorn": 37
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0094669/"
+    },
+    {
       "title": "Howl's Moving Castle",
       "year": 2004,
-      "role": "Witch of the Waste (Voice)",
-      "role_description": "The voice of the vain and powerful witch who curses the protagonist Sophie in the English dub of Miyazaki's masterpiece.",
+      "role": "Witch of the Waste",
+      "role_description": "The voice of the jealous witch who curses Sophie in the English dub of Miyazaki's animated classic.",
       "plot": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
-      "awards": "Notable Voice Role",
+      "awards": "Oscar: Nomination – Best Animated Feature",
       "ratings": {
         "imdb": 8.2,
         "rotten_tomatoes_critic": 87,
@@ -370,15 +359,43 @@
       "title": "The Walker",
       "year": 2007,
       "role": "Natalie Van Miter",
-      "role_description": "A Washington D.C. society dame and one of the women escorted by the protagonist, offering sharp wit and gossip.",
-      "plot": "An escort who caters to the socialite wives of Washington D.C. men becomes involved in a murder investigation.",
-      "awards": "Notable Late Career Role",
+      "role_description": "A Washington society dame who is part of the circle of a popular escort.",
+      "plot": "An escort who caters to Washington D.C.'s society ladies becomes involved in a murder investigation.",
+      "awards": null,
       "ratings": {
-        "imdb": 5.8,
-        "rotten_tomatoes_critic": 52,
-        "rotten_tomatoes_popcorn": 30
+        "imdb": 5.9,
+        "rotten_tomatoes_critic": 54,
+        "rotten_tomatoes_popcorn": 28
       },
-      "imdb_url": "https://www.imdb.com/title/tt0498387/"
+      "imdb_url": "https://www.imdb.com/title/tt0496397/"
+    },
+    {
+      "title": "My Fellow Americans",
+      "year": 1996,
+      "role": "Margaret Kramer",
+      "role_description": "The wife of a former U.S. President in this political comedy.",
+      "plot": "Two former U.S. Presidents, hated rivals, join forces to expose the current President's corruption.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 47,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0117119/"
+    },
+    {
+      "title": "Confidential Agent",
+      "year": 1945,
+      "role": "Rose Cullen",
+      "role_description": "The daughter of a coal magnate who aids a Spanish agent during the Spanish Civil War.",
+      "plot": "During the Spanish Civil War, a musician becomes a secret agent and travels to England to secure a coal contract, where he meets a wealthy woman.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 31
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0037610/"
     }
   ]
 }
