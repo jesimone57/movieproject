@@ -341,8 +341,8 @@
       </div>
 
       <div class="actions">
-        <button class="btn" id="btnSearch">Search</button>
-        <button class="btn secondary" id="btnClear" title="Clear all filters">Clear</button>
+        <button class="btn" id="btnSearch" title="Search">🔎 Search</button>
+        <button class="btn secondary" id="btnClear" title="Clear filters">✖ Clear</button>
         <!-- Results tally pill (kept sticky, matches af.html) -->
         <span id="resultCount" class="kpi" style="display:none"></span>
         <!-- Quick switch to Actor Filmographies view -->
@@ -406,6 +406,48 @@
     // In-memory cache and sorting state for client-side sorting
     let lastResults = [];
     let currentSort = null; // { key: string, dir: 'asc'|'desc' }
+
+    // ---- UI State Persistence (single-session; store only UI state) ----
+    const MOVIES_STATE_KEY = 'ui.movies.state';
+
+    function readMoviesState() {
+      try {
+        const raw = sessionStorage.getItem(MOVIES_STATE_KEY);
+        return raw ? JSON.parse(raw) : null;
+      } catch (_) { return null; }
+    }
+    function writeMoviesState(state) {
+      try { sessionStorage.setItem(MOVIES_STATE_KEY, JSON.stringify(state)); } catch (_) {}
+    }
+    function clearMoviesState() {
+      try { sessionStorage.removeItem(MOVIES_STATE_KEY); } catch (_) {}
+    }
+    function collectMovieFilters() {
+      return {
+        title: (el('title')?.value || '').trim(),
+        sortDropdown: el('sort')?.value || 'title',
+        genre: (el('genre')?.value || '').trim(),
+        director: (el('director')?.value || '').trim(),
+        actor: (el('actor')?.value || '').trim(),
+        oscarsWonDetails: (el('oscarsWonDetails')?.value || '').trim(),
+        studio: (el('studio')?.value || '').trim(),
+        minRating: el('minRating')?.value || '',
+        yearStart: el('yearStart')?.value || '',
+        yearEnd: el('yearEnd')?.value || ''
+      };
+    }
+    function collectMoviesState(extra={}) {
+      const filters = collectMovieFilters();
+      const colSort = currentSort ? { key: currentSort.key, dir: currentSort.dir } : null;
+      const scrollY = window.scrollY || window.pageYOffset || 0;
+      // try to capture horizontal scroll of results table
+      const wrap = document.querySelector('.table-wrap');
+      const scrollX = wrap ? wrap.scrollLeft : 0;
+      return { filters, colSort, scrollY, scrollX, ...extra };
+    }
+    function saveMoviesState(extra={}) {
+      writeMoviesState(collectMoviesState(extra));
+    }
 
     // Parse strings like "98%" into numeric 98 for proper sorting
     function parsePercent(val) {
@@ -529,6 +571,8 @@
             const data = sortData(lastResults, key, dir);
             renderInto(el('results'), data);
           }
+          // Persist updated column sort
+          saveMoviesState();
         });
       });
     }
@@ -817,11 +861,15 @@
         setResultCount(toRender.length);
         // After rendering, reset scroll position so results start at the top
         scrollResultsToTop();
+        // Persist state after successful search, include a marker to allow restore without filters
+        saveMoviesState({ lastSearched: Date.now(), lastResultsLength: Array.isArray(toRender) ? toRender.length : null });
       } else {
         el('results').innerHTML = renderMovies(data);
         setKPIs(undefined, data);
         setResultCount(null);
         scrollResultsToTop();
+        // Persist state after successful search of non-array payload as well
+        saveMoviesState({ lastSearched: Date.now(), lastResultsLength: null });
       }
     }));
 
@@ -876,6 +924,8 @@
       refreshValueHighlights();
       const first = el('title');
       if (first) first.focus();
+      // Clear persisted UI state for Movies page
+      clearMoviesState();
     });
 
     // Add blue outline when inputs contain values
@@ -1084,6 +1134,78 @@
 
     // Initialize sticky system on load
     window.addEventListener('load', () => { if (window.stickyApi) { window.stickyApi.bind(); window.stickyApi.rebuild(); window.stickyApi.updateMode(); } });
+
+    // --- Persist and restore state across page switches (single session) ---
+    function debounce(fn, wait) {
+      let t = null; return function(...args){ clearTimeout(t); t = setTimeout(() => fn.apply(this, args), wait); };
+    }
+
+    function restoreMoviesOnLoad() {
+      const st = readMoviesState();
+      if (!st || !st.filters) return;
+      const f = st.filters;
+      // Restore inputs
+      if (el('title')) el('title').value = f.title || '';
+      if (el('genre')) el('genre').value = f.genre || '';
+      if (el('director')) el('director').value = f.director || '';
+      if (el('actor')) el('actor').value = f.actor || '';
+      if (el('oscarsWonDetails')) el('oscarsWonDetails').value = f.oscarsWonDetails || '';
+      if (el('studio')) el('studio').value = f.studio || '';
+      if (el('minRating')) el('minRating').value = f.minRating || '';
+      if (el('yearStart')) el('yearStart').value = f.yearStart || '';
+      if (el('yearEnd')) el('yearEnd').value = f.yearEnd || '';
+      if (el('sort')) el('sort').value = f.sortDropdown || 'title';
+      refreshValueHighlights();
+
+      const hasAnyFilter = Object.entries(f).some(([k,v]) => k !== 'sortDropdown' && v && String(v).trim() !== '');
+      // Trigger a fetch if prior filters exist OR we know a search ran previously this session
+      if (hasAnyFilter || st.lastSearched) {
+        // Trigger a fetch using restored inputs
+        const btn = el('btnSearch');
+        if (btn && !btn.disabled) btn.click();
+        // After results arrive, optionally re-apply column sort and restore scroll
+        const start = Date.now();
+        const timer = setInterval(() => {
+          const ready = Array.isArray(lastResults) && lastResults.length >= 0; // allow 0 results case
+          const tablePresent = !!document.getElementById('resultsTable');
+          if (ready && tablePresent) {
+            clearInterval(timer);
+            // Re-apply column sort if any
+            if (st.colSort && st.colSort.key && st.colSort.dir) {
+              currentSort = { key: st.colSort.key, dir: st.colSort.dir };
+              if (Array.isArray(lastResults)) {
+                const data = sortData(lastResults, currentSort.key, currentSort.dir);
+                renderInto(el('results'), data);
+              }
+            }
+            // Restore horizontal scroll
+            const wrap = document.querySelector('#results .table-wrap') || document.querySelector('.table-wrap');
+            if (wrap && typeof st.scrollX === 'number') {
+              try { wrap.scrollLeft = st.scrollX; } catch (_) {}
+            }
+            // Restore vertical scroll
+            if (typeof st.scrollY === 'number') {
+              try { window.scrollTo(0, st.scrollY); } catch (_) {}
+            }
+            if (window.stickyApi && typeof window.stickyApi.updateMode === 'function') {
+              try { window.stickyApi.updateMode(); } catch (_) {}
+            }
+          } else if (Date.now() - start > 4000) {
+            clearInterval(timer);
+          }
+        }, 120);
+      }
+    }
+
+    // Save scroll positions while interacting
+    const saveScrollDebounced = debounce(() => saveMoviesState(), 200);
+    window.addEventListener('scroll', saveScrollDebounced, { passive: true });
+    document.addEventListener('DOMContentLoaded', () => {
+      const wrap = document.querySelector('#results .table-wrap') || document.querySelector('.table-wrap');
+      if (wrap) wrap.addEventListener('scroll', saveScrollDebounced, { passive: true });
+      restoreMoviesOnLoad();
+    });
+    window.addEventListener('beforeunload', () => { saveMoviesState(); });
 
     // Smoothly scroll so the Results header (with count on the right) is visible directly
     // under the sticky filters, and reset horizontal scroll of the results table.

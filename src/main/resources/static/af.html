@@ -284,6 +284,31 @@
     let data = [];
     let sortState = { col: null, dir: null };
 
+    // ---- UI State Persistence (single-session; store only UI state) ----
+    const AF_STATE_KEY = 'ui.af.state';
+    const readAfState = () => { try { const raw = sessionStorage.getItem(AF_STATE_KEY); return raw ? JSON.parse(raw) : null; } catch(_) { return null; } };
+    const writeAfState = (st) => { try { sessionStorage.setItem(AF_STATE_KEY, JSON.stringify(st)); } catch(_) {} };
+    const clearAfState = () => { try { sessionStorage.removeItem(AF_STATE_KEY); } catch(_) {} };
+    function collectAfFilters() {
+      return {
+        name: ($('name')?.value || '').trim(),
+        year: ($('year')?.value || '').trim(),
+        oscarsNominated: ($('oscarsNominated')?.value || '').trim(),
+        oscarsWon: ($('oscarsWon')?.value || '').trim(),
+        filmListSearchText: ($('filmListSearchText')?.value || '').trim(),
+        sortDropdown: ($('sort')?.value || 'title').trim(),
+      };
+    }
+    function collectAfState(extra={}) {
+      const filters = collectAfFilters();
+      const colSort = (sortState && sortState.col && sortState.dir) ? { col: sortState.col, dir: sortState.dir } : null;
+      const scrollY = window.scrollY || window.pageYOffset || 0;
+      const wrap = document.querySelector('.table-wrap');
+      const scrollX = wrap ? wrap.scrollLeft : 0;
+      return { filters, colSort, scrollY, scrollX, ...extra };
+    }
+    function saveAfState(extra={}) { writeAfState(collectAfState(extra)); }
+
     // Helpers
     const $ = (id) => document.getElementById(id);
 
@@ -585,6 +610,8 @@
         setResultCount(data.length);
         // Only after a successful search, update which filters are marked active
         setActiveFilters(used);
+        // Persist UI state after a successful search
+        saveAfState();
       } catch (e) {
         console.error(e);
         data = [];
@@ -610,6 +637,8 @@
       $('status').textContent = '';
       updateActiveSortButtons();
       setResultCount(null);
+      // Clear persisted state for AF page
+      clearAfState();
       // After clearing, immediately perform the default search to repopulate results
       // Default search = no filters, sort title, and default actor sort by name asc
       search();
@@ -617,7 +646,7 @@
 
     // Events
     document.querySelectorAll('.sort-controls button').forEach(btn => {
-      btn.addEventListener('click', () => sortData(btn.dataset.col, btn.dataset.dir));
+      btn.addEventListener('click', () => { sortData(btn.dataset.col, btn.dataset.dir); saveAfState(); });
     });
     $('searchBtn').addEventListener('click', search);
     $('clearBtn').addEventListener('click', clearFilters);
@@ -626,7 +655,13 @@
     $('sort').addEventListener('change', () => {
       sortFilmographiesInPlace($('sort').value);
       render();
+      saveAfState();
     });
+
+    // Persist inline filmography search typing
+    if ($('filmListSearchText')) {
+      $('filmListSearchText').addEventListener('input', () => { window.currentFilmSearch = $('filmListSearchText').value.trim(); saveAfState(); });
+    }
 
     // Allow Enter to trigger search
     ['name','year','oscarsNominated','oscarsWon','sort','filmListSearchText'].forEach(id => {
@@ -806,6 +841,53 @@
 
     // Initial bindings
     window.addEventListener('load', () => { stickyApi.bind(); stickyApi.rebuild(); stickyApi.updateMode(); });
+
+    // --- Persist and restore state across page switches (single session) ---
+    function debounce(fn, wait) { let t=null; return function(...args){ clearTimeout(t); t=setTimeout(() => fn.apply(this,args), wait); }; }
+    function restoreAfOnLoad() {
+      const st = readAfState();
+      if (!st || !st.filters) return;
+      const f = st.filters;
+      if ($('name')) $('name').value = f.name || '';
+      if ($('year')) $('year').value = f.year || '';
+      if ($('oscarsNominated')) $('oscarsNominated').value = f.oscarsNominated || '';
+      if ($('oscarsWon')) $('oscarsWon').value = f.oscarsWon || '';
+      if ($('filmListSearchText')) $('filmListSearchText').value = f.filmListSearchText || '';
+      window.currentFilmSearch = f.filmListSearchText || '';
+      if ($('sort')) $('sort').value = f.sortDropdown || 'title';
+
+      const hasAny = Object.entries(f).some(([k,v]) => k !== 'sortDropdown' && v && String(v).trim() !== '');
+      if (hasAny) {
+        // Trigger fetch
+        const btn = $('searchBtn');
+        if (btn) btn.click();
+        const start = Date.now();
+        const timer = setInterval(() => {
+          const tablePresent = !!document.getElementById('resultsTable');
+          if (Array.isArray(data) && tablePresent) {
+            clearInterval(timer);
+            // Re-apply column sort
+            if (st.colSort && st.colSort.col && st.colSort.dir) {
+              sortState = { col: st.colSort.col, dir: st.colSort.dir };
+              sortData(sortState.col, sortState.dir);
+            }
+            // Restore horizontal and vertical scroll
+            const wrap = document.querySelector('.table-wrap');
+            if (wrap && typeof st.scrollX === 'number') { try { wrap.scrollLeft = st.scrollX; } catch(_) {} }
+            if (typeof st.scrollY === 'number') { try { window.scrollTo(0, st.scrollY); } catch(_) {} }
+            if (stickyApi && typeof stickyApi.updateMode === 'function') stickyApi.updateMode();
+          } else if (Date.now() - start > 4000) {
+            clearInterval(timer);
+          }
+        }, 120);
+      }
+    }
+    const saveScrollDebounced = debounce(() => saveAfState(), 200);
+    window.addEventListener('scroll', saveScrollDebounced, { passive: true });
+    const wrapNode = document.querySelector('.table-wrap');
+    if (wrapNode) wrapNode.addEventListener('scroll', saveScrollDebounced, { passive: true });
+    document.addEventListener('DOMContentLoaded', restoreAfOnLoad);
+    window.addEventListener('beforeunload', () => { saveAfState(); });
 
     // Optional: perform an initial load (empty filters fetches all if backend supports it)
     // search();
