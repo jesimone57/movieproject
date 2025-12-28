@@ -130,4 +130,6 @@ public class ActorAwards {
     private int disneyLegendsAward;
     @JsonProperty("western_heritage_awards_won")
     private int westernHeritageAwardsWon;
+    @JsonProperty("cesar_awards_won")
+    private int cesarAwardsWon;
 }
