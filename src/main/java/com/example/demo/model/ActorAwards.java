@@ -132,4 +132,8 @@ public class ActorAwards {
     private int westernHeritageAwardsWon;
     @JsonProperty("cesar_awards_won")
     private int cesarAwardsWon;
+    @JsonProperty("theatre_world_awards_won")
+    private int theatreWorldAwardsWon;
+    @JsonProperty("rock_and_roll_hall_of_fame_inductee")
+    private int rockAndRollHallOfFameInductee;
 }
