@@ -24,10 +24,10 @@ budget and revenue numbers for each of his films.
 ## Overview
 To create a golden age of hollywood movie explorer web application I relied upon the prodigious 
 power of both ChatGPT and Google Gemini to research and produce the data including the following:
-* one or more lists of noteworthy actors during this time-frame.  I started with a list of 100, then expanded to 125 and finally a list of 200 to draw from.
+* one or more lists of noteworthy actors during this time-frame.  I started with a list of 100, then expanded to 200 and finally a list of over 300 to draw from.
 * for each early decade and later each year, I asked the AI to create the definitive list of great movies.  What defines "great"?  For great I used movies that won or were nominated for academy awards, iconic and legendary actors, etc.
 * for each actor on the list, I asked AI to create their best movie filmographies - their best, award-winning roles and performances.
-Obviously "great" for movies and actors may be subjectlively interpretted by different movie fans, so we have to contend ourselves with what the AI was able to "dig-up" or discover.
+Obviously "great" for movies and actors may be subjectively interpreted by different movie fans, so we have to contend ourselves with what the AI was able to "dig-up" or discover.
 All this data is included in the main project folder either in the root folder of the src/main/resources folder.
 
 ## Limitations
@@ -74,14 +74,6 @@ Search Actor Filmographies by Actor
 
 
 ## AI data generation prompts for the Movie Finder
-* the same for 1959.  25 of the most popular, iconic, celebrated and award winning movies for that year.
-
-* as a cinema lover I want the BEST movies for 1942.  25 of the most popular, iconic, celebrated and award winning movies for that year.
-
-* as a cinema lover I want the BEST movies for 1930.  25 of the most popular, iconic, celebrated and award winning movies for that year.  Please provide a complete list of 25 films - no cheating.
-
-* nice work.  now as a cinema lover I want the BEST movies for 1956.  30 of the most popular, iconic, celebrated and award winning movies for that year.  
-Please provide a complete list with a minimum of 25 films.  more films is better.
 
 
 
@@ -139,7 +131,7 @@ look at the following JSON data structure describing a single movie:
 }
 ```
 
-As a movie lover and as fan of cinema I would like a json dataset of a minimum of 53 unique elements
+As a movie lover and as fan of cinema I would like a JSON dataset of a minimum of 53 unique elements
 for the most popular, iconic, celebrated or award-winning movies for that year.  
 Movies for inclusion should have a minimum IMDB rating of 6.5 and include all movies with 
 IMDB rating of 7.5 or above.
