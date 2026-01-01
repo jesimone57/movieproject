@@ -136,4 +136,6 @@ public class ActorAwards {
     private int theatreWorldAwardsWon;
     @JsonProperty("rock_and_roll_hall_of_fame_inductee")
     private int rockAndRollHallOfFameInductee;
+    @JsonProperty("grammy_hall_of_fame_awards")
+    private int grammyHallOfFameAwards;
 }

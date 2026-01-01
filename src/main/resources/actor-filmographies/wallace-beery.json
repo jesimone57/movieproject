@@ -1,0 +1,412 @@
+{
+  "actor_profile": {
+    "name": "Wallace Beery",
+    "year_born": 1885,
+    "year_died": 1949,
+    "imdb_url": "https://www.imdb.com/name/nm0000888/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Wallace_Beery_1934.jpg",
+    "year_of_first_film": 1913,
+    "year_of_last_film": 1949,
+    "number_of_feature_films_made": 230,
+    "actor_awards": {
+      "oscars_won": 1,
+      "oscars_nominated": 2,
+      "venice_film_festival_won": 1,
+      "notes": "Won the Academy Award for Best Actor for 'The Champ' (1931), famously sharing the honor with Fredric March in a tie. He won the Volpi Cup for Best Actor at the Venice Film Festival for 'Viva Villa!'. Known for his gruff, tough-guy persona often paired with a heart of gold, particularly in his frequent collaborations with Marie Dressler and child actor Jackie Cooper."
+    }
+  },
+  "filmography": [
+    {
+      "title": "The Champ",
+      "year": 1931,
+      "role": "Andy \"Champ\" Purcell",
+      "role_description": "A washed-up, alcoholic former heavyweight champion trying to make a comeback for the sake of his adoring young son.",
+      "plot": "A down-on-his-luck boxer struggles with gambling and drinking while trying to provide a better future for his loyal son, Dink.",
+      "awards": "Oscar: Win – Best Actor",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 90,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0021730/"
+    },
+    {
+      "title": "Grand Hotel",
+      "year": 1932,
+      "role": "General Director Preysing",
+      "role_description": "A desperate industrialist who resorts to fraud and deceit to save his failing textile business.",
+      "plot": "A group of very different individuals staying at a luxurious hotel in Berlin deal with each of their respective dramas over the course of one day.",
+      "awards": "Oscar: Win – Best Picture (Film)",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 87,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0022958/"
+    },
+    {
+      "title": "The Big House",
+      "year": 1930,
+      "role": "Butch",
+      "role_description": "A menacing yet charismatic prison inmate who rules the cell block and leads a violent riot.",
+      "plot": "A young man convicted of manslaughter is sent to a brutal overcrowded prison where he shares a cell with a hardened career criminal.",
+      "awards": "Oscar: Nomination – Best Actor",
+      "ratings": {
+        "imdb": 7.1,
+        "rotten_tomatoes_critic": 75,
+        "rotten_tomatoes_popcorn": 68
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0020683/"
+    },
+    {
+      "title": "Viva Villa!",
+      "year": 1934,
+      "role": "Pancho Villa",
+      "role_description": "The legendary Mexican revolutionary leader, portrayed as a boisterous and passionate fighter for the people.",
+      "plot": "A fictionalized biography of Pancho Villa as he rises from bandit to revolutionary general fighting against the tyrannical rule in Mexico.",
+      "awards": "Venice Film Festival: Win – Best Actor (Volpi Cup)",
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 40
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0025950/"
+    },
+    {
+      "title": "Treasure Island",
+      "year": 1934,
+      "role": "Long John Silver",
+      "role_description": "The one-legged pirate cook who befriends young Jim Hawkins while plotting to mutiny and steal the treasure.",
+      "plot": "Young Jim Hawkins finds a map to a legendary pirate treasure and sets sail to find it, unaware that the ship's crew are pirates led by Long John Silver.",
+      "awards": "Venice Film Festival: Nomination – Mussolini Cup",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 67
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0025905/"
+    },
+    {
+      "title": "Dinner at Eight",
+      "year": 1933,
+      "role": "Dan Packard",
+      "role_description": "A ruthless, loudmouthed mining tycoon who is secretly trying to ruin the business of the dinner party's host.",
+      "plot": "A New York socialite tries to organize a perfect dinner party for visiting nobility, but her guests are secretly dealing with major life crises and intrigues.",
+      "awards": "National Film Registry: Inducted (2023)",
+      "ratings": {
+        "imdb": 7.9,
+        "rotten_tomatoes_critic": 90,
+        "rotten_tomatoes_popcorn": 87
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0023947/"
+    },
+    {
+      "title": "Min and Bill",
+      "year": 1930,
+      "role": "Bill",
+      "role_description": "A drunken fisherman who lives and quarrels with the owner of a waterfront hotel.",
+      "plot": "The owner of a dockside inn tries to protect her adopted daughter from the girl's biological mother while managing her relationship with a fisherman.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 56
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0021148/"
+    },
+    {
+      "title": "China Seas",
+      "year": 1935,
+      "role": "Jamesy McArdle",
+      "role_description": "A jovial but treacherous trader who is secretly in league with Malay pirates to rob a ship's gold shipment.",
+      "plot": "The captain of a steamer carrying a valuable gold shipment must deal with typhoons, pirates, and his former mistress on a voyage from Hong Kong to Singapore.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0026204/"
+    },
+    {
+      "title": "Tugboat Annie",
+      "year": 1933,
+      "role": "Terry Brennan",
+      "role_description": "The good-hearted but constantly drunk husband of a formidable tugboat captain.",
+      "plot": "The female captain of a tugboat struggles to keep her business afloat and her alcoholic husband out of trouble while their son commands a luxury liner.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 36
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0024701/"
+    },
+    {
+      "title": "The Last of the Mohicans",
+      "year": 1920,
+      "role": "Magua",
+      "role_description": "The villainous Huron warrior who seeks revenge against Colonel Munro by targeting his daughters.",
+      "plot": "During the French and Indian War, the daughters of a British colonel are escorted through dangerous territory by a Mohican scout and his white adopted son.",
+      "awards": "National Film Registry: Inducted (1995)",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 60
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0011387/"
+    },
+    {
+      "title": "Hell Divers",
+      "year": 1931,
+      "role": "C.P.O. H.W. 'Windy' Riker",
+      "role_description": "A veteran naval chief petty officer who engages in a rivalry with a younger officer.",
+      "plot": "Leading Chief Petty Officer Windy Riker and young C.P.O. Steve Nelson are rivals in a Naval aviation squadron until disaster strikes.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 29
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0023000/"
+    },
+    {
+      "title": "Ah, Wilderness!",
+      "year": 1935,
+      "role": "Sid Miller",
+      "role_description": "The alcoholic but beloved uncle of a young man coming of age in a small New England town.",
+      "plot": "In a turn-of-the-century American town, a teenage boy experiences growing pains and first love while his family deals with his eccentric uncle.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0026046/"
+    },
+    {
+      "title": "The Secret Six",
+      "year": 1931,
+      "role": "Louis 'Slaughterhouse' Scorpio",
+      "role_description": "A brutal stockyard worker who rises to become a powerful gang leader.",
+      "plot": "Two reporters team up with a secret vigilante group to bring down a vicious bootlegging gang led by a former slaughterhouse worker.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 48
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0022357/"
+    },
+    {
+      "title": "Flesh",
+      "year": 1932,
+      "role": "Polakai",
+      "role_description": "A gentle, simple-minded German wrestler who is manipulated by a woman and her criminal lover.",
+      "plot": "A kind-hearted waiter and wrestler falls for a woman who uses him to help her convict boyfriend, but eventually discovers his own strength.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 45
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0022894/"
+    },
+    {
+      "title": "The Bowery",
+      "year": 1933,
+      "role": "Chuck Connors",
+      "role_description": "A rough-and-tumble saloon owner in 1890s New York involved in a rivalry with a fellow daredevil.",
+      "plot": "Two rival saloon owners in the Bowery district of New York City constantly try to outdo each other with pranks and wagers.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 29
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0023835/"
+    },
+    {
+      "title": "A Date with Judy",
+      "year": 1948,
+      "role": "Melvin R. Foster",
+      "role_description": "The misunderstood father of a teenager who mistakenly believes he is having an affair.",
+      "plot": "A teenager prepares for her high school dance while suspecting her father of infidelity when he takes rumba lessons.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 46
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0040273/"
+    },
+    {
+      "title": "The Lost World",
+      "year": 1925,
+      "role": "Professor Challenger",
+      "role_description": "An eccentric and blustering scientist who leads an expedition to a plateau inhabited by dinosaurs.",
+      "plot": "An expedition team travels to a remote plateau in the Amazon jungle where prehistoric creatures still roam.",
+      "awards": "National Film Registry: Inducted (1998)",
+      "ratings": {
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 60
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0016039/"
+    },
+    {
+      "title": "Robin Hood",
+      "year": 1922,
+      "role": "King Richard the Lion-Hearted",
+      "role_description": "The noble King of England who goes on a Crusade, leaving the kingdom vulnerable to his brother.",
+      "plot": "The Earl of Huntingdon adopts the persona of Robin Hood to fight against the tyranny of Prince John while King Richard is away.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.5,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0013556/"
+    },
+    {
+      "title": "Bad Bascomb",
+      "year": 1946,
+      "role": "Zeb Bascomb",
+      "role_description": "A notorious outlaw who hides from the law by joining a Mormon wagon train.",
+      "plot": "A bank robber fleeing the law joins a wagon train of Mormons and is gradually reformed by the friendship of a little girl.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 38
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0038323/"
+    },
+    {
+      "title": "Slave Ship",
+      "year": 1937,
+      "role": "Jack Thompson",
+      "role_description": "The treacherous first mate of a ship who refuses to give up the slave trade.",
+      "plot": "A ship's captain wants to give up the slave trade and settle down, but his mutinous first mate has other plans.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 29
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0029577/"
+    },
+    {
+      "title": "20 Mule Team",
+      "year": 1940,
+      "role": "Skinner Bill Bragg",
+      "role_description": "A mule team driver in Death Valley who gets mixed up with a claim jumper.",
+      "plot": "A mule driver transporting borax across Death Valley is pursued by a man who knows he is a fugitive from justice.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": null
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0033187/"
+    },
+    {
+      "title": "Barnacle Bill",
+      "year": 1941,
+      "role": "Bill Johansen",
+      "role_description": "A lazy, heavy-drinking fisherman who tries to avoid marriage and responsibility.",
+      "plot": "A shiftless fisherman faces the prospect of actually working when his estranged daughter arrives to live with him.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0033376/"
+    },
+    {
+      "title": "The Mighty Barnum",
+      "year": 1934,
+      "role": "P.T. Barnum",
+      "role_description": "The legendary showman P.T. Barnum, portrayed in his rise to fame with attractions like Tom Thumb.",
+      "plot": "A biographical comedy-drama about the life of P.T.[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQH25F0DRBSNihruVZs9_Q32NB0cjmCFKQNVB_qMcDd4srtKhLC_Yo3L-bE9-ak9Pxs6lg1-r8oDSFj--uljegAOyHlT34rNK-SDQGFcON0o2cR-XiD205i9AdEtMpN4)] Barnum, his exhibits, and his relationship with the Swedish Nightingale, Jenny Lind.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.2,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": null
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0025499/"
+    },
+    {
+      "title": "Big Jack",
+      "year": 1949,
+      "role": "Big Jack Horner",
+      "role_description": "An outlaw leader who rescues a doctor from hanging in his final film role.",
+      "plot": "In the early 19th century, an outlaw gang leader saves a doctor from a lynch mob so he can treat the outlaw's leg.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.2,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": null
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0041175/"
+    },
+    {
+      "title": "Port of Seven Seas",
+      "year": 1938,
+      "role": "Cesar",
+      "role_description": "A Marseille bar owner who tries to help his son's pregnant lover.",
+      "plot": "A young woman discovers she is pregnant after her lover leaves for sea, and an older man offers to marry her to give the child a name.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": null
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0030615/"
+    },
+    {
+      "title": "Alias a Gentleman",
+      "year": 1948,
+      "role": "Jim Breedin",
+      "role_description": "An ex-convict who tries to go legitimate as a farmer but is confronted by his past.",
+      "plot": "An aging ex-con tries to live an honest life on a farm but his former associates and a woman claiming to be his daughter complicate matters.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": null
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0040084/"
+    },
+    {
+      "title": "Barbary Coast Gent",
+      "year": 1944,
+      "role": "Honest Plush Brannon",
+      "role_description": "A con artist who heads west and inadvertently becomes a respected citizen.",
+      "plot": "A con man forced to leave San Francisco travels to a mining town where he tries to go straight but falls back into old habits.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": null
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0036629/"
+    },
+    {
+      "title": "The Bugle Sounds",
+      "year": 1942,
+      "role": "Sgt. Patrick Aloysius 'Hap' Doan",
+      "role_description": "A veteran cavalry sergeant who resists the transition to mechanized warfare.",
+      "plot": "An old-school cavalry sergeant struggles to adapt when his regiment trades in their horses for tanks at the start of WWII.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": null
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0034557/"
+    }
+  ]
+}
