@@ -24,7 +24,7 @@ budget and revenue numbers for each of his films.
 ## Overview
 To create a golden age of hollywood movie explorer web application I relied upon the prodigious 
 power of both ChatGPT and Google Gemini to research and produce the data including the following:
-* one or more lists of noteworthy actors during this time-frame.  I started with a list of 100, then expanded to 200 and finally a list of over 300 to draw from.
+* one or more lists of noteworthy actors during this time-frame.  I started with a list of 100, then expanded to 200 and finally a list of 320 to draw from.
 * for each early decade and later each year, I asked the AI to create the definitive list of great movies.  What defines "great"?  For great I used movies that won or were nominated for academy awards, iconic and legendary actors, etc.
 * for each actor on the list, I asked AI to create their best movie filmographies - their best, award-winning roles and performances.
 Obviously "great" for movies and actors may be subjectively interpreted by different movie fans, so we have to contend ourselves with what the AI was able to "dig-up" or discover.
