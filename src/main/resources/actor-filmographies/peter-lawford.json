@@ -3,57 +3,84 @@
     "name": "Peter Lawford",
     "year_born": 1923,
     "year_died": 1984,
-    "imdb_url": "https://www.imdb.com/name/nm0001452/",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Peter_Lawford_in_Royal_Wedding.jpg",
+    "imdb_url": "https://www.imdb.com/name/nm0001453/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Peter_Lawford_1959.jpg",
     "year_of_first_film": 1938,
     "year_of_last_film": 1983,
-    "number_of_feature_films_made": 71,
+    "number_of_feature_films_made": 70,
     "actor_awards": {
-      "photoplay_awards_won": 2,
       "walk_of_fame_stars": 1,
-      "notes": "Lawford received a Star on the Hollywood Walk of Fame at 6920 Hollywood Blvd. He won Photoplay Awards for Best Performance for his roles in 'It Happened in Brooklyn' (1947) and 'Julia Misbehaves' (1948)."
+      "notes": "A member of the 'Rat Pack', Lawford was known for his charm, aristocratic persona, and connection to the Kennedy family (he was John F. Kennedy's brother-in-law). He received a Star on the Hollywood Walk of Fame in 1960."
     }
   },
   "filmography": [
     {
+      "title": "Mrs. Miniver",
+      "year": 1942,
+      "role": "Vin Miniver",
+      "role_description": "The idealistic son of the Miniver family who joins the Royal Air Force to fight in World War II.",
+      "plot": "A British family struggles to survive the first months of World War II.",
+      "awards": "Oscar: Win – Best Picture",
+      "ratings": {
+        "imdb": 7.6,
+        "rotten_tomatoes_critic": 93,
+        "rotten_tomatoes_popcorn": 80
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0035093/"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "year": 1945,
+      "role": "David Stone",
+      "role_description": "A friend of Dorian Gray who becomes concerned about his behavior and moral decay.",
+      "plot": "A corrupt young man somehow keeps his youthful beauty eternally, but a special painting gradually reveals his inner ugliness to all.",
+      "awards": "Oscar: Win – Best Cinematography, Black-and-White",
+      "ratings": {
+        "imdb": 7.5,
+        "rotten_tomatoes_critic": 93,
+        "rotten_tomatoes_popcorn": 82
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0037988/"
+    },
+    {
+      "title": "Little Women",
+      "year": 1949,
+      "role": "Theodore 'Laurie' Laurence",
+      "role_description": "The charming and wealthy boy next door who becomes the close friend of the March sisters.",
+      "plot": "The four March sisters grow up in New England during the Civil War.",
+      "awards": "Oscar: Win – Best Art Direction",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 85,
+        "rotten_tomatoes_popcorn": 80
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0041596/"
+    },
+    {
       "title": "Ocean's 11",
       "year": 1960,
       "role": "Jimmy Foster",
-      "role_description": "A wealthy, stylish member of Danny Ocean's team whose mother is the intended target's fiancée, complicating the heist logistics.",
-      "plot": "Danny Ocean gathers a group of his World War II compatriots to pull off the ultimate Las Vegas heist: robbing five casinos simultaneously on New Year's Eve.",
-      "awards": "None",
+      "role_description": "A member of Danny Ocean's gang who helps execute the heist of five Las Vegas casinos.",
+      "plot": "Danny Ocean gathers a group of his World War II compatriots to pull off the ultimate Las Vegas heist.",
+      "awards": null,
       "ratings": {
-        "imdb": 6.6,
+        "imdb": 6.5,
         "rotten_tomatoes_critic": 48,
         "rotten_tomatoes_popcorn": 60
       },
       "imdb_url": "https://www.imdb.com/title/tt0054135/"
     },
     {
-      "title": "The Picture of Dorian Gray",
-      "year": 1945,
-      "role": "David Stone",
-      "role_description": "A decent, upright young man who is a suitor to Gladys Hallward and stands as a moral contrast to the corrupt and hedonistic Dorian Gray.",
-      "plot": "A corrupt young man somehow keeps his youthful beauty eternally, but a special painting gradually reveals his inner ugliness to all.",
-      "awards": "Oscar: Win – Best Cinematography (Black-and-White)",
-      "ratings": {
-        "imdb": 7.6,
-        "rotten_tomatoes_critic": 93,
-        "rotten_tomatoes_popcorn": 86
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0037988/"
-    },
-    {
       "title": "Easter Parade",
       "year": 1948,
       "role": "Jonathan Harrow III",
-      "role_description": "The wealthy, well-meaning best friend of Don Hewes (Fred Astaire) who inadvertently complicates Don's romantic life by falling for his former partner.",
-      "plot": "A nightclub performer hires a naive chorus girl to become his new partner to make his former partner jealous and prove he can make a star out of anyone.",
-      "awards": "Oscar: Win – Best Music (Scoring of a Musical Picture)",
+      "role_description": "A wealthy friend of Don Hewes who inadvertently becomes a romantic rival.",
+      "plot": "A nightclub performer hires a naive chorus girl to become his new partner to make his former partner jealous.",
+      "awards": "Oscar: Win – Best Music (Scoring)",
       "ratings": {
-        "imdb": 7.4,
-        "rotten_tomatoes_critic": 100,
-        "rotten_tomatoes_popcorn": 83
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 91,
+        "rotten_tomatoes_popcorn": 77
       },
       "imdb_url": "https://www.imdb.com/title/tt0040308/"
     },
@@ -61,41 +88,27 @@
       "title": "The Longest Day",
       "year": 1962,
       "role": "Lord Lovat",
-      "role_description": "The eccentric, sweater-wearing British commando leader who marches his men onto Sword Beach accompanied by his personal bagpiper.",
+      "role_description": "The commander of the 1st Special Service Brigade who lands at Sword Beach on D-Day with his bagpiper.",
       "plot": "The events of D-Day, told on a grand scale from both the Allied and German points of view.",
-      "awards": "Oscar: Win – Best Cinematography, Best Special Effects",
+      "awards": "Oscar: Win – Best Cinematography",
       "ratings": {
-        "imdb": 7.8,
-        "rotten_tomatoes_critic": 67,
-        "rotten_tomatoes_popcorn": 88
+        "imdb": 7.7,
+        "rotten_tomatoes_critic": 88,
+        "rotten_tomatoes_popcorn": 90
       },
       "imdb_url": "https://www.imdb.com/title/tt0056197/"
-    },
-    {
-      "title": "Little Women",
-      "year": 1949,
-      "role": "Theodore \"Laurie\" Laurence",
-      "role_description": "The charming, lonely boy next door who becomes the best friend of the March sisters, particularly Jo, before eventually marrying Amy.",
-      "plot": "The four March sisters grow up in New England during the Civil War, facing love, loss, and the transition to womanhood.",
-      "awards": "Oscar: Win – Best Art Direction",
-      "ratings": {
-        "imdb": 7.2,
-        "rotten_tomatoes_critic": 86,
-        "rotten_tomatoes_popcorn": 78
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0041596/"
     },
     {
       "title": "Good News",
       "year": 1947,
       "role": "Tommy Marlowe",
-      "role_description": "A popular college football hero who struggles with his French class and falls for his tutor while trying to impress a snobbish transfer student.",
-      "plot": "A football hero falls for a studious girl who is tutoring him so he can pass his grades and play in the big game.",
-      "awards": "Oscar: Nominated – Best Original Song",
+      "role_description": "A popular college football hero who falls for a studious girl.",
+      "plot": "A college football hero falls for a studious girl who helps him study so he can play in the big game.",
+      "awards": "Oscar: Nomination – Best Original Song",
       "ratings": {
-        "imdb": 6.4,
-        "rotten_tomatoes_critic": 100,
-        "rotten_tomatoes_popcorn": 63
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 88,
+        "rotten_tomatoes_popcorn": 59
       },
       "imdb_url": "https://www.imdb.com/title/tt0039428/"
     },
@@ -103,13 +116,13 @@
       "title": "Royal Wedding",
       "year": 1951,
       "role": "Lord John Brindale",
-      "role_description": "A dashing British nobleman who romances an American dancer (Jane Powell) in London during the festivities of Princess Elizabeth's wedding.",
-      "plot": "A brother and sister dance act travel to London for the Royal Wedding and both find romance.",
-      "awards": "Oscar: Nominated – Best Original Song",
+      "role_description": "A British aristocrat who falls in love with an American dancer played by Jane Powell.",
+      "plot": "Brother and sister dance act Tom and Ellen Bowen travel to London in 1947 when the royal wedding is capturing the public's imagination.",
+      "awards": "Oscar: Nomination – Best Original Song",
       "ratings": {
-        "imdb": 6.7,
-        "rotten_tomatoes_critic": 91,
-        "rotten_tomatoes_popcorn": 68
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": 92,
+        "rotten_tomatoes_popcorn": 63
       },
       "imdb_url": "https://www.imdb.com/title/tt0043983/"
     },
@@ -117,13 +130,13 @@
       "title": "Advise & Consent",
       "year": 1962,
       "role": "Senator Lafe Smith",
-      "role_description": "A charismatic, womanizing young Senator from Rhode Island (loosely based on JFK) who navigates the treacherous political landscape of Washington.",
-      "plot": "A controversial Senate investigation into the President's nominee for Secretary of State uncovers blackmail and secrets that threaten to destroy careers.",
-      "awards": "Cannes Film Festival: Nominated – Palme d'Or",
+      "role_description": "A playboy senator who becomes involved in the fierce political battle over a Secretary of State nomination.",
+      "plot": "A controversy swirls around the President's nominee for Secretary of State, leading to blackmail and political maneuvering in the Senate.",
+      "awards": "Cannes Film Festival: Nomination – Palme d'Or",
       "ratings": {
         "imdb": 7.7,
-        "rotten_tomatoes_critic": 86,
-        "rotten_tomatoes_popcorn": 84
+        "rotten_tomatoes_critic": 85,
+        "rotten_tomatoes_popcorn": 82
       },
       "imdb_url": "https://www.imdb.com/title/tt0055728/"
     },
@@ -131,13 +144,13 @@
       "title": "It Should Happen to You",
       "year": 1954,
       "role": "Evan Adams III",
-      "role_description": "A wealthy, soap-manufacturing playboy who romances a woman seeking fame (Judy Holliday) but doesn't quite understand her need for validation.",
-      "plot": "A woman determined to make a name for herself rents a billboard in Columbus Circle, attracting the attention of a documentary filmmaker and a wealthy businessman.",
-      "awards": "Oscar: Nominated – Best Costume Design",
+      "role_description": "A wealthy soap manufacturer who romances a woman seeking fame.",
+      "plot": "A woman seeking fame rents a billboard with her name on it, attracting the attention of a soap manufacturer and a documentary filmmaker.",
+      "awards": "Oscar: Nomination – Best Costume Design",
       "ratings": {
-        "imdb": 7.3,
+        "imdb": 7.2,
         "rotten_tomatoes_critic": 100,
-        "rotten_tomatoes_popcorn": 78
+        "rotten_tomatoes_popcorn": 73
       },
       "imdb_url": "https://www.imdb.com/title/tt0047123/"
     },
@@ -145,41 +158,111 @@
       "title": "Exodus",
       "year": 1960,
       "role": "Major Caldwell",
-      "role_description": "A rigid, anti-Zionist British officer stationed in Cyprus who clashes with the Jewish refugees and their leaders.",
-      "plot": "The state of Israel is created in 1948, leading to war with its Arab neighbors.",
+      "role_description": "A British officer in Cyprus who is sympathetic to the Jewish refugees but bound by his orders.",
+      "plot": "The state of Israel is founded in 1948 after a group of Jewish refugees are spirited out of British Mandate Palestine.",
       "awards": "Oscar: Win – Best Music (Score)",
       "ratings": {
-        "imdb": 7.7,
+        "imdb": 6.7,
         "rotten_tomatoes_critic": 63,
-        "rotten_tomatoes_popcorn": 84
+        "rotten_tomatoes_popcorn": 78
       },
       "imdb_url": "https://www.imdb.com/title/tt0053804/"
+    },
+    {
+      "title": "Dead Ringer",
+      "year": 1964,
+      "role": "Tony Collins",
+      "role_description": "The deceitful lover of a woman who murders her twin sister and assumes her identity.",
+      "plot": "A wealthy woman is murdered by her poor twin sister, who then takes over her identity.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 78
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0057997/"
     },
     {
       "title": "Son of Lassie",
       "year": 1945,
       "role": "Joe Carraclough",
-      "role_description": "The grown-up owner of Lassie's son, Laddie, who becomes an RAF flyer and is shot down over Nazi-occupied Norway with his loyal dog.",
-      "plot": "Lassie's son Laddie stows away on a bomber with his master and they must parachute into enemy territory in Norway.",
-      "awards": "None",
+      "role_description": "The owner of Lassie's son, Laddie, who becomes an RAF flyer during WWII.",
+      "plot": "Lassie's son Laddie, considered a failure as a war dog, stows away on a bomber and parachutes into Nazi-occupied Norway.",
+      "awards": null,
       "ratings": {
         "imdb": 6.3,
-        "rotten_tomatoes_critic": 50,
-        "rotten_tomatoes_popcorn": 42
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 39
       },
       "imdb_url": "https://www.imdb.com/title/tt0038096/"
+    },
+    {
+      "title": "The White Cliffs of Dover",
+      "year": 1944,
+      "role": "John Ashwood II (Young Man)",
+      "role_description": "The son of an American woman living in England who grows up to fight in WWII.",
+      "plot": "An American woman travels to England in 1914, meets a baronet, loses him in WWI, and raises her son to fight in WWII.",
+      "awards": "Oscar: Nomination – Best Cinematography",
+      "ratings": {
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 71
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0037462/"
+    },
+    {
+      "title": "Cluny Brown",
+      "year": 1946,
+      "role": "Andrew Carmel",
+      "role_description": "A charming and idealistic young man who becomes infatuated with the unconventional Cluny Brown.",
+      "plot": "An amateur plumber and a Czech refugee writer meet in England before WWII and upset the social order.",
+      "awards": "National Board of Review: Top Ten Films",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 84
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0038420/"
+    },
+    {
+      "title": "It Happened in Brooklyn",
+      "year": 1947,
+      "role": "Jamie Shellgrove",
+      "role_description": "A shy English composer and aristocrat who befriends a group of musicians in Brooklyn.",
+      "plot": "An ex-GI tries to become a singer in Brooklyn, aided by a janitor and a music teacher.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 71
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0039500/"
+    },
+    {
+      "title": "Buona Sera, Mrs. Campbell",
+      "year": 1968,
+      "role": "Justin Young",
+      "role_description": "One of three American soldiers who may be the father of an Italian woman's daughter.",
+      "plot": "During a reunion of his squadron in Italy, a man tries to find out if he is the father of a local woman's daughter.",
+      "awards": "Golden Globe: Nomination – Best Actress (Gina Lollobrigida)",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 67,
+        "rotten_tomatoes_popcorn": 69
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0062767/"
     },
     {
       "title": "Salt and Pepper",
       "year": 1968,
       "role": "Christopher Pepper",
-      "role_description": "One half of a hip London nightclub owning duo (with Sammy Davis Jr.) who get caught up in a spy plot involving a plan to overthrow the government.",
-      "plot": "Two Soho nightclub owners find themselves in trouble when a secret agent is murdered in their club.",
-      "awards": "None",
+      "role_description": "A London club owner who, along with his partner, gets mixed up in espionage.",
+      "plot": "Two hip London club owners are dragged into a plot to overthrow the British government.",
+      "awards": null,
       "ratings": {
-        "imdb": 5.7,
-        "rotten_tomatoes_critic": 20,
-        "rotten_tomatoes_popcorn": 40
+        "imdb": 5.6,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 26
       },
       "imdb_url": "https://www.imdb.com/title/tt0063541/"
     },
@@ -187,211 +270,169 @@
       "title": "One More Time",
       "year": 1970,
       "role": "Christopher Pepper / Lord Sydney Pepper",
-      "role_description": "In this sequel directed by Jerry Lewis, Lawford plays dual roles: the club owner and his aristocratic twin brother who is murdered.",
-      "plot": "Chris Pepper assumes the identity of his murdered twin brother to solve the crime, dragging his partner Charlie Salt into the mystery.",
-      "awards": "None",
+      "role_description": "Lawford reprises his role and plays his character's aristocratic twin brother in this sequel directed by Jerry Lewis.",
+      "plot": "Two club owners get involved in a diamond smuggling ring after one assumes the identity of his deceased twin brother.",
+      "awards": null,
       "ratings": {
-        "imdb": 5.3,
-        "rotten_tomatoes_critic": 0,
-        "rotten_tomatoes_popcorn": 23
+        "imdb": 5.0,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 18
       },
-      "imdb_url": "https://www.imdb.com/title/tt0066185/"
+      "imdb_url": "https://www.imdb.com/title/tt0066160/"
     },
     {
-      "title": "Dead Ringer",
-      "year": 1964,
-      "role": "Tony Collins",
-      "role_description": "The cynical, opportunist lover of the murdered twin sister who discovers the identity switch and blackmails the survivor.",
-      "plot": "A wealthy woman is murdered by her twin sister, who then assumes her identity, only to find that her sister's life was full of dark secrets.",
-      "awards": "None",
+      "title": "Never So Few",
+      "year": 1959,
+      "role": "Capt. Grey Travis",
+      "role_description": "A medical officer and friend to Frank Sinatra's character during WWII in Burma.",
+      "plot": "A hard-bitten American captain takes command of a band of Kachin guerrillas in Burma during World War II.",
+      "awards": null,
       "ratings": {
-        "imdb": 7.3,
-        "rotten_tomatoes_critic": 100,
-        "rotten_tomatoes_popcorn": 82
+        "imdb": 5.9,
+        "rotten_tomatoes_critic": 40,
+        "rotten_tomatoes_popcorn": 37
       },
-      "imdb_url": "https://www.imdb.com/title/tt0058001/"
+      "imdb_url": "https://www.imdb.com/title/tt0053108/"
+    },
+    {
+      "title": "Sergeants 3",
+      "year": 1962,
+      "role": "Sgt. Larry Barrett",
+      "role_description": "A cavalry sergeant in this 'Rat Pack' western remake of Gunga Din.",
+      "plot": "Three cavalry sergeants and a trumpet player team up to stop a group of fanatics from seizing the West.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.1,
+        "rotten_tomatoes_critic": 80,
+        "rotten_tomatoes_popcorn": 57
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0056469/"
+    },
+    {
+      "title": "The Oscar",
+      "year": 1966,
+      "role": "Steve Marks",
+      "role_description": "A Hollywood agent who helps a ruthless actor climb to the top.",
+      "plot": "An unscrupulous actor uses everyone around him to advance his career and secure an Oscar nomination.",
+      "awards": null,
+      "ratings": {
+        "imdb": 5.2,
+        "rotten_tomatoes_critic": 11,
+        "rotten_tomatoes_popcorn": 19
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0060801/"
+    },
+    {
+      "title": "Harlow",
+      "year": 1965,
+      "role": "Paul Bern",
+      "role_description": "The MGM producer who marries Jean Harlow but commits suicide shortly after.",
+      "plot": "A biographical drama about the life and tragic death of 1930s screen siren Jean Harlow.",
+      "awards": null,
+      "ratings": {
+        "imdb": 5.5,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 18
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0059250/"
     },
     {
       "title": "Julia Misbehaves",
       "year": 1948,
       "role": "Ritchie Lorgan",
-      "role_description": "A handsome young artist who falls in love with the daughter of the title character, giving Elizabeth Taylor her first on-screen kiss.",
-      "plot": "A showgirl mother returns to her estranged wealthy husband's estate for her daughter's wedding, causing chaos and romance.",
-      "awards": "None",
-      "ratings": {
-        "imdb": 6.8,
-        "rotten_tomatoes_critic": 60,
-        "rotten_tomatoes_popcorn": 55
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0040498/"
-    },
-    {
-      "title": "The White Cliffs of Dover",
-      "year": 1944,
-      "role": "John Ashwood II (Young Man)",
-      "role_description": "The son of an American woman and a British aristocrat who grows up to fight for England in World War II.",
-      "plot": "An American woman marries a British baronet and lives through two world wars, losing her husband and fearing for her son.",
-      "awards": "Oscar: Nominated – Best Cinematography",
-      "ratings": {
-        "imdb": 7.2,
-        "rotten_tomatoes_critic": 60,
-        "rotten_tomatoes_popcorn": 77
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0037463/"
-    },
-    {
-      "title": "Never So Few",
-      "year": 1959,
-      "role": "Captain Grey Travis",
-      "role_description": "A medical officer assigned to an OSS detachment in Burma who works alongside Frank Sinatra and Steve McQueen.",
-      "plot": "An OSS commander leads a group of American and British soldiers and Kachin guerrillas against the Japanese in Burma.",
-      "awards": "None",
-      "ratings": {
-        "imdb": 6.4,
-        "rotten_tomatoes_critic": 40,
-        "rotten_tomatoes_popcorn": 48
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0053108/"
-    },
-    {
-      "title": "Buona Sera, Mrs. Campbell",
-      "year": 1968,
-      "role": "Justin Young",
-      "role_description": "One of three American ex-servicemen who have been paying child support to an Italian woman for 20 years, believing he is the father.",
-      "plot": "Three American men return to an Italian village for a reunion, each believing he is the father of a local woman's daughter.",
-      "awards": "Golden Globe: Nominated – Best English-Language Foreign Film",
+      "role_description": "A painter who falls in love with the daughter of the title character.",
+      "plot": "A showgirl returns to her estranged husband for their daughter's wedding and causes chaos.",
+      "awards": null,
       "ratings": {
         "imdb": 6.6,
-        "rotten_tomatoes_critic": 80,
-        "rotten_tomatoes_popcorn": 68
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 57
       },
-      "imdb_url": "https://www.imdb.com/title/tt0062767/"
+      "imdb_url": "https://www.imdb.com/title/tt0040502/"
     },
     {
-      "title": "A Yank at Eton",
-      "year": 1942,
-      "role": "Ronnie Kenvil",
-      "role_description": "A snobbish upperclassman at Eton College who bullies the new American student, played by Mickey Rooney.",
-      "plot": "A brash young American is sent to school in England where he clashes with traditions and the other students.",
-      "awards": "None",
+      "title": "On an Island with You",
+      "year": 1948,
+      "role": "Lt. Lawrence Y. Kingslee",
+      "role_description": "A naval officer who kidnaps a movie star to fly her to the island where they first met.",
+      "plot": "A movie star goes to Hawaii and gets involved in a romantic triangle with a naval officer and her co-star.",
+      "awards": null,
       "ratings": {
         "imdb": 6.1,
-        "rotten_tomatoes_critic": 40,
-        "rotten_tomatoes_popcorn": 45
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 47
       },
-      "imdb_url": "https://www.imdb.com/title/tt0035579/"
-    },
-    {
-      "title": "Cluny Brown",
-      "year": 1946,
-      "role": "Andrew Carmel",
-      "role_description": "A young British gentleman who unwittingly becomes part of the romantic entanglements surrounding a plumber's niece.",
-      "plot": "A plumber's niece with a penchant for plumbing is sent to work as a servant at an English country estate.",
-      "awards": "None",
-      "ratings": {
-        "imdb": 7.3,
-        "rotten_tomatoes_critic": 100,
-        "rotten_tomatoes_popcorn": 82
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0038420/"
-    },
-    {
-      "title": "The April Fools",
-      "year": 1969,
-      "role": "Ted Gunther",
-      "role_description": "The manipulative boss who invites his employee to a party, unknowingly setting him up with his own unhappy wife.",
-      "plot": "A Wall Street broker and his boss's wife fall in love and decide to run away together during a chaotic party.",
-      "awards": "None",
-      "ratings": {
-        "imdb": 6.0,
-        "rotten_tomatoes_critic": 20,
-        "rotten_tomatoes_popcorn": 39
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0064036/"
+      "imdb_url": "https://www.imdb.com/title/tt0040660/"
     },
     {
       "title": "Please Believe Me",
       "year": 1950,
       "role": "Jeremy Taylor",
-      "role_description": "A millionaire bachelor who is one of three men pursuing a woman they mistakenly believe is a wealthy heiress.",
-      "plot": "A British woman inherits a Texas ranch and is pursued by a fortune hunter, a millionaire, and a lawyer on a transatlantic voyage.",
-      "awards": "None",
+      "role_description": "A millionaire playboy who courts a woman who has inherited a Texas ranch.",
+      "plot": "Three men pursue a woman who has inherited a ranch, not realizing that the ranch is worthless.",
+      "awards": null,
       "ratings": {
-        "imdb": 6.3,
-        "rotten_tomatoes_critic": 40,
-        "rotten_tomatoes_popcorn": 45
+        "imdb": 6.1,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 42
       },
-      "imdb_url": "https://www.imdb.com/title/tt0042850/"
-    },
-    {
-      "title": "Just This Once",
-      "year": 1952,
-      "role": "Mark MacLene IV",
-      "role_description": "A carefree millionaire playboy whose spending habits lead a judge to appoint a frugal female lawyer to manage his finances.",
-      "plot": "A spendthrift millionaire has his accounts frozen and is put on a strict allowance by a beautiful but stern attorney.",
-      "awards": "None",
-      "ratings": {
-        "imdb": 6.4,
-        "rotten_tomatoes_critic": 50,
-        "rotten_tomatoes_popcorn": 60
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0044778/"
-    },
-    {
-      "title": "The Red Danube",
-      "year": 1949,
-      "role": "Major John \"Twingo\" McPhimister",
-      "role_description": "A British officer stationed in Vienna who falls in love with a Russian ballerina trying to avoid repatriation.",
-      "plot": "British officials in post-WWII Vienna deal with the repatriation of refugees while trying to protect a ballerina from the Soviets.",
-      "awards": "Oscar: Nominated – Best Art Direction",
-      "ratings": {
-        "imdb": 6.5,
-        "rotten_tomatoes_critic": 40,
-        "rotten_tomatoes_popcorn": 45
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0041793/"
+      "imdb_url": "https://www.imdb.com/title/tt0042848/"
     },
     {
       "title": "They Only Kill Their Masters",
       "year": 1972,
-      "role": "Lee Campbell",
-      "role_description": "The ex-husband of a murder victim in a coastal town, who becomes a person of interest in the investigation.",
-      "plot": "A police chief investigates the murder of a woman found dead on a beach, with her Doberman Pinscher the prime suspect.",
-      "awards": "None",
-      "ratings": {
-        "imdb": 6.2,
-        "rotten_tomatoes_critic": 40,
-        "rotten_tomatoes_popcorn": 38
-      },
-      "imdb_url": "https://www.imdb.com/title/tt0069371/"
-    },
-    {
-      "title": "Sylvia",
-      "year": 1965,
-      "role": "Frederic Summers",
-      "role_description": "A wealthy man who hires a private investigator to look into the past of his mysterious fiancée.",
-      "plot": "A private eye hired to investigate the background of a millionaire's fiancée discovers her sordid past and falls in love with her.",
-      "awards": "None",
+      "role": "Campbell",
+      "role_description": "A police captain in this mystery film involving a Doberman Pinscher.",
+      "plot": "A police chief investigates the death of a woman, with her Doberman as the prime suspect.",
+      "awards": null,
       "ratings": {
         "imdb": 6.3,
-        "rotten_tomatoes_critic": 40,
-        "rotten_tomatoes_popcorn": 42
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 31
       },
-      "imdb_url": "https://www.imdb.com/title/tt0059775/"
+      "imdb_url": "https://www.imdb.com/title/tt0069372/"
     },
     {
-      "title": "You for Me",
+      "title": "Skidoo",
+      "year": 1968,
+      "role": "The Senator",
+      "role_description": "A corrupt senator in this psychedelic comedy.",
+      "plot": "A retired hitman is forced back into duty by a mob boss to silence an informant in prison.",
+      "awards": null,
+      "ratings": {
+        "imdb": 5.4,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 35
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0063612/"
+    },
+    {
+      "title": "The Red Danube",
+      "year": 1949,
+      "role": "Major John 'Twingo' McPhimister",
+      "role_description": "A British officer in post-war Vienna who falls in love with a Russian ballerina.",
+      "plot": "A British colonel in Vienna must deal with Soviet attempts to repatriate refugees, including a ballerina.",
+      "awards": "Oscar: Nomination – Best Art Direction",
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 38
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0041792/"
+    },
+    {
+      "title": "Rogue's March",
       "year": 1952,
-      "role": "Tony Brown",
-      "role_description": "A millionaire sportsman who is accidentally shot by a nurse while hunting, leading to a romantic entanglement.",
-      "plot": "A wealthy playboy falls for the nurse who accidentally shot him in the rear, but she is also pursued by a doctor.",
-      "awards": "None",
+      "role": "Capt. Thomas Garron",
+      "role_description": "A British officer wrongly accused of treason who re-enlists as a private to clear his name.",
+      "plot": "A British officer is framed for espionage and joins the regiment as a private to find the real traitor.",
+      "awards": null,
       "ratings": {
         "imdb": 6.0,
-        "rotten_tomatoes_critic": 40,
-        "rotten_tomatoes_popcorn": 40
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": null
       },
-      "imdb_url": "https://www.imdb.com/title/tt0045344/"
+      "imdb_url": "https://www.imdb.com/title/tt0046248/"
     }
   ]
 }
