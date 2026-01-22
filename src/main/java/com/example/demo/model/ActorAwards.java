@@ -85,6 +85,8 @@ public class ActorAwards {
     private int sagLifetimeAchievement;
     @JsonProperty("sag_awards_won")
     private int sagAwardsWon;
+    @JsonProperty("sag_presidencies")
+    private int sagPresidencies;
     @JsonProperty("tony_awards_nominated")
     private int tonyAwardsNominated;
     @JsonProperty("tony_awards_won")
