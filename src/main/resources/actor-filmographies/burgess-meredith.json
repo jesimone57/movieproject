@@ -1,0 +1,428 @@
+{
+  "actor_profile": {
+    "name": "Burgess Meredith",
+    "year_born": 1907,
+    "year_died": 1997,
+    "imdb_url": "https://www.imdb.com/name/nm0001532/",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Burgess_Meredith_1964.JPG",
+    "year_of_first_film": 1936,
+    "year_of_last_film": 1996,
+    "number_of_feature_films_made": 115,
+    "actor_awards": {
+      "oscars_nominated": 2,
+      "emmys_won": 1,
+      "emmys_nominated": 4,
+      "saturn_awards_won": 2,
+      "national_board_of_review_won": 1,
+      "notes": "A versatile character actor known for his unique voice. He was nominated for Academy Awards for Best Supporting Actor for 'The Day of the Locust' and 'Rocky'. He is iconic for playing The Penguin in the 1960s 'Batman' series and film, and Mickey Goldmill in the 'Rocky' franchise."
+    }
+  },
+  "filmography": [
+    {
+      "title": "Rocky",
+      "year": 1976,
+      "role": "Mickey Goldmill",
+      "role_description": "The gruff, no-nonsense gym owner and trainer who pushes Rocky Balboa to his limits.",
+      "plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "awards": "Oscar: Nomination – Best Supporting Actor",
+      "ratings": {
+        "imdb": 8.1,
+        "rotten_tomatoes_critic": 92,
+        "rotten_tomatoes_popcorn": 69
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0075148/"
+    },
+    {
+      "title": "Of Mice and Men",
+      "year": 1939,
+      "role": "George Milton",
+      "role_description": "A migrant field worker who looks after his mentally disabled friend Lennie during the Great Depression.",
+      "plot": "Two migrant workers, one intelligent and cynical, the other large and mentally disabled, try to survive and pursue their dream of owning a farm during the Great Depression.",
+      "awards": "National Board of Review: Top Ten Films",
+      "ratings": {
+        "imdb": 7.9,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 86
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0031742/"
+    },
+    {
+      "title": "The Day of the Locust",
+      "year": 1975,
+      "role": "Harry Greener",
+      "role_description": "A failing former vaudevillian trying to sell homemade polish door-to-door in Hollywood.",
+      "plot": "A young artist seeking success in 1930s Hollywood meets a variety of eccentric and desperate characters on the fringes of the film industry.",
+      "awards": "Oscar: Nomination – Best Supporting Actor",
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 74,
+        "rotten_tomatoes_popcorn": 54
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0072848/"
+    },
+    {
+      "title": "Batman: The Movie",
+      "year": 1966,
+      "role": "The Penguin",
+      "role_description": "The waddling, umbrella-wielding criminal mastermind who teams up with other supervillains to defeat Batman.",
+      "plot": "The Dynamic Duo faces four supervillains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 79,
+        "rotten_tomatoes_popcorn": 63
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0060153/"
+    },
+    {
+      "title": "The Story of G.I. Joe",
+      "year": 1945,
+      "role": "Ernie Pyle",
+      "role_description": "The famous war correspondent who travels with an infantry company to document the lives of ordinary soldiers.",
+      "plot": "War correspondent Ernie Pyle joins C Company, 18th Infantry as they fight their way from North Africa to Italy during World War II.",
+      "awards": "National Film Registry: Inducted (2009)",
+      "ratings": {
+        "imdb": 7.4,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 77
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0038120/"
+    },
+    {
+      "title": "Advise & Consent",
+      "year": 1962,
+      "role": "Herbert Gelman",
+      "role_description": "A fragile witness who provides damaging testimony during a Senate confirmation hearing.",
+      "plot": "A controversy swirls around the President's nominee for Secretary of State, leading to blackmail and political maneuvering in the Senate.",
+      "awards": "National Board of Review: Win – Best Supporting Actor",
+      "ratings": {
+        "imdb": 7.7,
+        "rotten_tomatoes_critic": 85,
+        "rotten_tomatoes_popcorn": 82
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0055728/"
+    },
+    {
+      "title": "Grumpy Old Men",
+      "year": 1993,
+      "role": "Grandpa Gustafson",
+      "role_description": "The foul-mouthed, beer-drinking, bacon-loving father of one of the feuding neighbors.",
+      "plot": "A lifelong feud between two neighbors since childhood only gets worse when a new female neighbor moves across the street.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 63,
+        "rotten_tomatoes_popcorn": 72
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0107050/"
+    },
+    {
+      "title": "Magic",
+      "year": 1978,
+      "role": "Ben Greene",
+      "role_description": "A talent agent who becomes suspicious of his ventriloquist client's relationship with his dummy.",
+      "plot": "A ventriloquist is at the mercy of his vicious dummy while he tries to renew a romance with his high school sweetheart.",
+      "awards": "Saturn Award: Win – Best Supporting Actor",
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 86,
+        "rotten_tomatoes_popcorn": 49
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0077889/"
+    },
+    {
+      "title": "Clash of the Titans",
+      "year": 1981,
+      "role": "Ammon",
+      "role_description": "A playwright and poet who befriends and aids the hero Perseus on his quest.",
+      "plot": "Perseus, demigod son of Zeus, must battle the minions of the underworld to rescue the Princess Andromeda.",
+      "awards": "Saturn Award: Win – Best Supporting Actor",
+      "ratings": {
+        "imdb": 6.9,
+        "rotten_tomatoes_critic": 65,
+        "rotten_tomatoes_popcorn": 68
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0082186/"
+    },
+    {
+      "title": "In Harm's Way",
+      "year": 1965,
+      "role": "Cmdr. Egan Powell",
+      "role_description": "A naval intelligence officer and friend to John Wayne's character during the Pacific campaign.",
+      "plot": "A naval officer reprimanded after Pearl Harbor is later promoted to rear admiral and gets a second chance to prove himself against the Japanese.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 46,
+        "rotten_tomatoes_popcorn": 69
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0059310/"
+    },
+    {
+      "title": "The Sentinel",
+      "year": 1977,
+      "role": "Charles Chazen",
+      "role_description": "An eccentric neighbor in a brownstone building that serves as a gateway to Hell.",
+      "plot": "A fashion model moves into a house where a blind priest sits at the window, not knowing the building guards the gates of Hell.",
+      "awards": "Saturn Award: Nomination – Best Supporting Actor",
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": 50,
+        "rotten_tomatoes_popcorn": 44
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0076683/"
+    },
+    {
+      "title": "Winterset",
+      "year": 1936,
+      "role": "Mio Romagna",
+      "role_description": "A young man seeking to clear the name of his father who was executed for a crime he didn't commit.",
+      "plot": "Inspired by the Sacco and Vanzetti case, a man seeks the truth about a robbery-murder for which his father was executed.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 31
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0028514/"
+    },
+    {
+      "title": "That Uncertain Feeling",
+      "year": 1941,
+      "role": "Alexander Sebastian",
+      "role_description": "An eccentric, misanthropic pianist who comes between a husband and wife.",
+      "plot": "A happily married woman sees a psychoanalyst for her hiccups and is advised to look for romance outside her marriage.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": 60,
+        "rotten_tomatoes_popcorn": 34
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0034278/"
+    },
+    {
+      "title": "Second Chorus",
+      "year": 1940,
+      "role": "Hank Taylor",
+      "role_description": "A competitive trumpet player vying for a job with Artie Shaw's band and the affection of a manager.",
+      "plot": "Two competitive trumpet players vie for the same job and the same woman.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.0,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 33
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0033029/"
+    },
+    {
+      "title": "Mine Own Executioner",
+      "year": 1947,
+      "role": "Felix Milne",
+      "role_description": "A lay psychoanalyst who takes on the treatment of a schizophrenic former POW.",
+      "plot": "A lay psychiatrist finds himself out of his depth when he treats a traumatized war veteran.",
+      "awards": "Cannes Film Festival: Nomination – Grand Prize of the Festival",
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": null
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0039626/"
+    },
+    {
+      "title": "The Man on the Eiffel Tower",
+      "year": 1949,
+      "role": "Joseph Heurtin",
+      "role_description": "A knife grinder who becomes a suspect in a murder investigation led by Inspector Maigret. Meredith also directed this film.",
+      "plot": "Inspector Maigret investigates a murder in Paris and engages in a battle of wits with the true killer.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.3,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 38
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0041632/"
+    },
+    {
+      "title": "A Big Hand for the Little Lady",
+      "year": 1966,
+      "role": "Doc Scully",
+      "role_description": "A local doctor who gets involved in a high-stakes poker game.",
+      "plot": "A family traveling west stops for a poker game, where the husband bets their life savings, leading his wife to take his place.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 100,
+        "rotten_tomatoes_popcorn": 82
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0060165/"
+    },
+    {
+      "title": "Madame X",
+      "year": 1966,
+      "role": "Dan Sullivan",
+      "role_description": "A blackmailer who discovers the secret past of a prominent woman.",
+      "plot": "A woman is forced to abandon her family and change her identity, only to face trial years later defended by her own son.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 66
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0060644/"
+    },
+    {
+      "title": "Stay Away, Joe",
+      "year": 1968,
+      "role": "Charlie Lightcloud",
+      "role_description": "The father of Elvis Presley's character in this western comedy.",
+      "plot": "A Native American rodeo rider returns to his reservation to help his family raise cattle.",
+      "awards": null,
+      "ratings": {
+        "imdb": 5.3,
+        "rotten_tomatoes_critic": 20,
+        "rotten_tomatoes_popcorn": 30
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0063640/"
+    },
+    {
+      "title": "Mackenna's Gold",
+      "year": 1969,
+      "role": "The Storekeeper",
+      "role_description": "A shopkeeper who joins the diverse group searching for a legendary canyon of gold.",
+      "plot": "A gangster kidnaps a marshal who knows the location of a legendary stash of gold, leading to a tense expedition.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.7,
+        "rotten_tomatoes_critic": 17,
+        "rotten_tomatoes_popcorn": 62
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0064615/"
+    },
+    {
+      "title": "There Was a Crooked Man...",
+      "year": 1970,
+      "role": "The Missouri Kid",
+      "role_description": "An aging inmate who befriends a charismatic robber in a desert prison.",
+      "plot": "A charismatic criminal schemes to escape from a desert prison and recover his hidden loot.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.0,
+        "rotten_tomatoes_critic": 67,
+        "rotten_tomatoes_popcorn": 64
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0066446/"
+    },
+    {
+      "title": "The Hindenburg",
+      "year": 1975,
+      "role": "Emilio Pajetta",
+      "role_description": "A suspicious passenger and card player on the doomed airship.",
+      "plot": "A film that speculates on a sabotage plot that causes the Hindenburg disaster in 1937.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.1,
+        "rotten_tomatoes_critic": null,
+        "rotten_tomatoes_popcorn": 33
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0073115/"
+    },
+    {
+      "title": "Burnt Offerings",
+      "year": 1976,
+      "role": "Arnold Sheehan",
+      "role_description": "One of the siblings who rents their spooky Victorian mansion to a family for the summer.",
+      "plot": "A family moves into a large, old house for the summer, but the house has a dark power that begins to affect them.",
+      "awards": "Saturn Award: Win – Best Horror Film",
+      "ratings": {
+        "imdb": 6.5,
+        "rotten_tomatoes_critic": 45,
+        "rotten_tomatoes_popcorn": 52
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0074258/"
+    },
+    {
+      "title": "Foul Play",
+      "year": 1978,
+      "role": "Mr. Hennessey",
+      "role_description": "The landlord of Goldie Hawn's character who practices martial arts.",
+      "plot": "A shy librarian gets mixed up in a plot to assassinate the Pope in San Francisco.",
+      "awards": "Golden Globe: Nomination – Best Motion Picture - Musical or Comedy",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 74,
+        "rotten_tomatoes_popcorn": 68
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0077574/"
+    },
+    {
+      "title": "Rocky II",
+      "year": 1979,
+      "role": "Mickey Goldmill",
+      "role_description": "Rocky's dedicated but demanding trainer who prepares him for a rematch with Apollo Creed.",
+      "plot": "Rocky struggles in family life after his bout with Apollo Creed, while the embarrassed champ insistently goads him to accept a rematch.",
+      "awards": "People's Choice Award: Win – Favorite Motion Picture",
+      "ratings": {
+        "imdb": 7.3,
+        "rotten_tomatoes_critic": 83,
+        "rotten_tomatoes_popcorn": 82
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0079817/"
+    },
+    {
+      "title": "Rocky III",
+      "year": 1982,
+      "role": "Mickey Goldmill",
+      "role_description": "Rocky's trainer who meets a tragic end, motivating Rocky to find a new path.",
+      "plot": "After winning the ultimate title and being the world champion, Rocky falls into a hole and finds himself picked up by a former enemy.",
+      "awards": "Oscar: Nomination – Best Original Song",
+      "ratings": {
+        "imdb": 6.8,
+        "rotten_tomatoes_critic": 64,
+        "rotten_tomatoes_popcorn": 74
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0084602/"
+    },
+    {
+      "title": "True Confessions",
+      "year": 1981,
+      "role": "Seamus Fargo",
+      "role_description": "An aging, cynical Monsignor in the Catholic church hierarchy.",
+      "plot": "A police detective investigates the murder of a priest in 1940s Los Angeles, uncovering corruption in the church.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.4,
+        "rotten_tomatoes_critic": 72,
+        "rotten_tomatoes_popcorn": 42
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0083232/"
+    },
+    {
+      "title": "State of Grace",
+      "year": 1990,
+      "role": "Finn",
+      "role_description": "An Irish-American mob boss in Hell's Kitchen.",
+      "plot": "A New York cop goes undercover to infiltrate an Irish American gang in Hell's Kitchen.",
+      "awards": null,
+      "ratings": {
+        "imdb": 7.2,
+        "rotten_tomatoes_critic": 84,
+        "rotten_tomatoes_popcorn": 78
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0100685/"
+    },
+    {
+      "title": "Grumpier Old Men",
+      "year": 1995,
+      "role": "Grandpa Gustafson",
+      "role_description": "The still-feisty father who continues to provide comic relief and wisdom. Meredith's final film role.",
+      "plot": "John and Max resolve to save their beloved bait shop from being turned into an Italian restaurant, just as a new female neighbor catches their attention.",
+      "awards": null,
+      "ratings": {
+        "imdb": 6.6,
+        "rotten_tomatoes_critic": 17,
+        "rotten_tomatoes_popcorn": 54
+      },
+      "imdb_url": "https://www.imdb.com/title/tt0113228/"
+    }
+  ]
+}
