@@ -38,7 +38,7 @@ public class ActorFilmography {
     }
 
     public boolean isTextInCurrentFilmographyDisplayText(String searchText) {
-        if (searchText != null && !StringUtils.isBlank(searchText)) {
+        if (searchText != null && !searchText.isBlank()) {
             return filmography.stream().anyMatch(movie -> movie.isTextInCurrentFilmographyDisplayText(searchText));
         }
         return false;
