@@ -142,4 +142,8 @@ public class ActorAwards {
     private int grammyHallOfFameAwards;
     @JsonProperty("tv_land_awards_won")
     private int tvLandAwardsWon;
+    @JsonProperty("david_di_donatello_awards_won")
+    private int davidDiDonatelloAwardsWon;
+    @JsonProperty("nastro_d_argento_awards_won")
+    private int nastroDArgentoAwardsWon;
 }
