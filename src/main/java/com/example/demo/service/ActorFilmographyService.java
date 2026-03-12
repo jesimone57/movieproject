@@ -2,6 +2,7 @@ package com.example.demo.service;
 
 import com.example.demo.model.ActorFilmography;
 import com.example.demo.model.ActorMovie;
+import com.example.demo.util.JsonResourceLoader;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
@@ -13,8 +14,6 @@ import java.util.Map;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.core.io.Resource;
-import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.stereotype.Service;
 
 @Service
@@ -56,9 +55,8 @@ public class ActorFilmographyService {
     }
 
     /**
-     * Loads any JSON resources found under the given folder on the classpath and appends them
-     * to the current list of actorFilmographies. This method is resilient to files containing
-     * either a single ActorFilmography object or an array of ActorFilmography objects.
+     * Scans {@code classpath*:<folder>/**&#47;*.json} and appends all parsed filmographies.
+     * Uses {@link JsonResourceLoader} — tries single-object then array per file.
      * Malformed files are skipped.
      *
      * @param folder the classpath folder containing actor filmography JSON files
@@ -67,51 +65,11 @@ public class ActorFilmographyService {
         if (folder == null || StringUtils.isBlank(folder)) {
             throw new IllegalArgumentException("folder cannot be null or empty");
         }
-
         logger.info("Loading ActorFilmographies from resource folder: {}", folder);
-        int addedFileCount = 0;
-        ObjectMapper objectMapper = new ObjectMapper();
-        PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
-        try {
-            Resource[] resources = resolver.getResources("classpath*:" + folder + "/**/*.json");
-            for (Resource resource : resources) {
-                if (resource == null || !resource.exists()) {
-                    continue;
-                }
-                String resourceFileName = resource.getFile().getName();
-
-                // IMPORTANT: Use the Resource to open the stream with the correct path
-                try (InputStream is = resource.getInputStream()) {
-                    // Try as a single object first
-                    try {
-                        ActorFilmography single = objectMapper.readValue(is, ActorFilmography.class);
-                        if (single != null) {
-                            this.actorFilmographies.add(single);
-                            addedFileCount++;
-                            logger.info("\t {} added as single entry: {}", addedFileCount, resourceFileName);
-                        }
-                    } catch (IOException singleEx) {
-                        // If single parse failed, try as an array/list
-                        try (InputStream is2 = resource.getInputStream()) {
-                            List<ActorFilmography> list = objectMapper.readValue(is2, new TypeReference<ArrayList<ActorFilmography>>() {});
-                            if (list != null && !list.isEmpty()) {
-                                this.actorFilmographies.addAll(list);
-                                addedFileCount++;
-                                logger.info("\t {} added as multiple entries: {}", addedFileCount, resourceFileName);
-                            }
-                        } catch (IOException listEx) {
-                            logger.error(listEx.getMessage(), listEx);
-                            logger.warn("\t Skip malformed resource {} and continue (malformed or unexpected structure)", resourceFileName);
-
-                        }
-                    }
-                }
-            }
-            logger.info("Loaded {} ActorFilmographies from resource folder: {}",addedFileCount, folder);
-        } catch (IOException e) {
-            // If we cannot scan the folder, simply ignore and continue with existing data
-            // Optionally log in the future
-        }
+        List<ActorFilmography> loaded = JsonResourceLoader.loadFromFolder(
+                folder, ActorFilmography.class, new ObjectMapper(), list -> list, logger);
+        this.actorFilmographies.addAll(loaded);
+        logger.info("Total filmographies in memory: {}", this.actorFilmographies.size());
     }
 
     /**

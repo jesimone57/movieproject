@@ -1,5 +1,6 @@
 package com.example.demo.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.ArrayList;
 import java.util.List;
@@ -9,6 +10,7 @@ import org.apache.commons.lang3.StringUtils;
 @Data
 public class Movie {
 
+    @JsonIgnore
     private int num;
     private String title;
     private int year;

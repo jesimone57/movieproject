@@ -1,6 +1,7 @@
 package com.example.demo.controller;
 
 import com.example.demo.model.Movie;
+import com.example.demo.model.MovieFilter;
 import com.example.demo.service.MovieService;
 import java.util.List;
 import java.util.Map;
@@ -40,11 +41,18 @@ public class MovieController {
             @RequestParam(value = "oscarWon",  required = false) String oscarWon,
             @RequestParam(value = "studio",    required = false) String studio)
     {
-        if (StringUtils.isEmpty(sort)) {
-            sort = "title";
-        }
-        return movieService.filterMovies(title, genre, minRating, yearStart,  yearEnd,
-                sort, director, actor, oscarWon, studio);
+        return movieService.filterMovies(MovieFilter.builder()
+                .title(title)
+                .sort(StringUtils.isNotBlank(sort) ? sort : MovieFilter.DEFAULT_SORT)
+                .genre(genre)
+                .minRating(minRating)
+                .yearStart(yearStart)
+                .yearEnd(yearEnd)
+                .director(director)
+                .actor(actor)
+                .oscarWon(oscarWon)
+                .studio(studio)
+                .build());
     }
 
     @GetMapping("/genre/{genre}")

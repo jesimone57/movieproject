@@ -7,7 +7,7 @@ import lombok.Data;
 public class Ratings {
     private double imdb;
     @JsonProperty("rotten_tomatoes_critic")
-    private String rottenRomatoesCriticScore;
+    private String rottenTomatoesCriticScore;
     @JsonProperty("rotten_tomatoes_popcorn")
     private String rottenTomatoesPopcornScore;
 }

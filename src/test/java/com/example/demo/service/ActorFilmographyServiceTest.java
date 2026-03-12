@@ -13,16 +13,16 @@ import org.junit.jupiter.api.Test;
 class ActorFilmographyServiceTest {
 
     private static final String TEST_RESOURCE = "actor-movies-sample.json";
-    private ActorFilmographyService actorFilmographyServiceService;
+    private ActorFilmographyService actorFilmographyService;
 
     @BeforeEach
     void setUp() {
-        actorFilmographyServiceService = new ActorFilmographyService(TEST_RESOURCE);
+        actorFilmographyService = new ActorFilmographyService(TEST_RESOURCE);
     }
 
     @Test
     void getFilmographies() {
-        List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(null,
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(null,
                 null, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
@@ -31,7 +31,7 @@ class ActorFilmographyServiceTest {
     @Test
     void getActorByName() {
         String name = "streep";
-        List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(name,
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(name,
                 null, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
@@ -42,7 +42,7 @@ class ActorFilmographyServiceTest {
     @Test
     void getActorByPartialName() {
         String name = "e";
-        List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(name,
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(name,
                 null, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
@@ -54,7 +54,7 @@ class ActorFilmographyServiceTest {
     @Test
     void getActorByPartialNameWhitespace() {
         String name = " rlo  ";
-        List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(name,
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(name,
                 null, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
@@ -65,7 +65,7 @@ class ActorFilmographyServiceTest {
     @Test
     void getActorByYear() {
         Integer year = 1932;
-        List<ActorFilmography> filmographies = actorFilmographyServiceService.filterActorFilmographies(null,
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(null,
                 year, null, null, null);
         assertNotNull(filmographies);
         assertFalse(filmographies.isEmpty());
@@ -75,393 +75,101 @@ class ActorFilmographyServiceTest {
         }
     }
 
-    /*
-
     @Test
-    void getMoviesByTitlePartialSearchSortedByYear() {
-        String title = "the";
-        List<Movie> movies = movieService.getMovieByPartialTitle(title, "year");
-        assertNotNull(movies);
-        assertEquals(76, movies.size());
-        for (int i = 0; i < movies.size() - 1; i++) {
-            int currentYear = movies.get(i).getYear();
-            int nextYear = movies.get(i + 1).getYear();
-            assertTrue(currentYear <= nextYear);
+    void getActorsByOscarsWon() {
+        Integer oscarsWon = 4;
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(null,
+                null, null, oscarsWon, null);
+        assertNotNull(filmographies);
+        assertFalse(filmographies.isEmpty());
+        for (ActorFilmography af : filmographies) {
+            assertEquals(oscarsWon, af.getActorProfile().getActorAwards().getOscarsWon());
         }
     }
 
     @Test
-    void getMoviesByTitlePartialSearchSortedByRating() {
-        String title = "the";
-        List<Movie> movies = movieService.getMovieByPartialTitle(title, "rating");
-        assertNotNull(movies);
-        assertEquals(76, movies.size());
-        for (int i = 0; i < movies.size() - 1; i++) {
-            double currentRating = movies.get(i).getImdbRating();
-            double nextRating = movies.get(i + 1).getImdbRating();
-            assertTrue(nextRating <= currentRating);
+    void getActorsByOscarsNominated() {
+        Integer oscarsNominated = 12;
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(null,
+                null, oscarsNominated, null, null);
+        assertNotNull(filmographies);
+        assertFalse(filmographies.isEmpty());
+        for (ActorFilmography af : filmographies) {
+            assertEquals(oscarsNominated, af.getActorProfile().getActorAwards().getOscarsNominated());
         }
     }
 
     @Test
-    void getMoviesByTitlePartialSearchSortedByInvalidField() {
-        String title = "the";
-        assertThrows(
-                IllegalArgumentException.class, () -> movieService.getMovieByPartialTitle(title, "fake")
-        );
-    }
-
-    @Test
-    void checkByGenre() {
-        String genre = "Crime";
-        List<Movie> movies = movieService.getMovieByGenre(genre);
-        assertNotNull(movies);
-        assertEquals(25, movies.size());
-        for (Movie movie : movies) {
-            List<String> genres = movie.getGenres();
-            assertTrue(genres.contains(genre));
+    void getActorsByFilmographySearchText() {
+        String searchText = "Morning Glory";
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(null,
+                null, null, null, searchText);
+        assertNotNull(filmographies);
+        assertFalse(filmographies.isEmpty());
+        for (ActorFilmography af : filmographies) {
+            assertTrue(af.isTextInCurrentFilmographyDisplayText(searchText));
         }
     }
 
     @Test
-    void checkByGenreDoesntExists() {
-        String genre = "Fake";
-        List<Movie> movies = movieService.getMovieByGenre(genre);
-        assertNotNull(movies);
-        assertTrue(movies.isEmpty());
-    }
-
-    @Test
-    void checkByCompoundGenres() {
-        String genre = "Romance,Comedy";
-        List<Movie> movies = movieService.getMovieByGenre(genre);
-        assertNotNull(movies);
-        assertEquals(42, movies.size());
-        for (Movie movie : movies) {
-            List<String> genres = movie.getGenres();
-            assertTrue(genres.contains("Romance"));
-            assertTrue(genres.contains("Comedy"));
-        }
-        assertEquals("You Can't Take It with You", movies.getLast().getTitle());
-    }
-
-    @Test
-    void checkByCompoundGenresWithSpaces() {
-        String genre = "  Romance , Comedy  ";
-        List<Movie> movies = movieService.getMovieByGenre(genre);
-        assertNotNull(movies);
-        assertEquals(42, movies.size());
-        for (Movie movie : movies) {
-            List<String> genres = movie.getGenres();
-            assertTrue(genres.contains("Romance"));
-            assertTrue(genres.contains("Comedy"));
-        }
-        assertEquals("You Can't Take It with You", movies.getLast().getTitle());
-    }
-
-    @Test
-    void checkByCompoundGenres3() {
-        String genre = "  Drama , Film-Noir , Crime ";
-        List<Movie> movies = movieService.getMovieByGenre(genre);
-        assertNotNull(movies);
-        assertEquals(9, movies.size());
-        for (Movie movie : movies) {
-            List<String> genres = movie.getGenres();
-            assertTrue(genres.contains("Crime"));
-            assertTrue(genres.contains("Film-Noir"));
-            assertTrue(genres.contains("Drama"));
-        }
-        assertEquals("The Roaring Twenties", movies.getLast().getTitle());
-    }
-
-    @Test
-    void checkByNullGenre() {
-        List<Movie> movies = movieService.getMovieByGenre(null);
-        assertNotNull(movies);
-        assertTrue(movies.isEmpty());
-    }
-
-    @Test
-    void checkByEmptyStringGenre() {
-        List<Movie> movies = movieService.getMovieByGenre("");
-        assertNotNull(movies);
-        assertTrue(movies.isEmpty());
-    }
-
-    @Test
-    void checkByBlankGenre() {
-        List<Movie> movies = movieService.getMovieByGenre("           ");
-        assertNotNull(movies);
-        assertTrue(movies.isEmpty());
-    }
-
-    @Test
-    void checkByBlankCompoundGenres() {
-        List<Movie> movies = movieService.getMovieByGenre("   ,     ,   ");
-        assertNotNull(movies);
-        assertTrue(movies.isEmpty());
-    }
-
-    @Test
-    void checkByYear() {
-        int year = 1935;
-        List<Movie> movies = movieService.getMoviesByYear(year);
-        assertNotNull(movies);
-        assertEquals(24, movies.size());
-        for (Movie movie : movies) {
-            assertEquals(year, movie.getYear());
+    void getActorByNameAndYear() {
+        String name = "Hepburn";
+        Integer year = 1940;
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(name,
+                year, null, null, null);
+        assertNotNull(filmographies);
+        assertFalse(filmographies.isEmpty());
+        for (ActorFilmography af : filmographies) {
+            assertTrue(af.isActorName(name));
+            assertTrue(af.getActorProfile().isInRange(year));
         }
     }
 
     @Test
-    void checkByYearOutOfBounds() {
-        int year = 1800;
-        assertThrows(
-                IllegalArgumentException.class, () -> movieService.getMoviesByYear(year)
-        );
+    void findDuplicateActors_noDuplicatesInSampleFile() {
+        assertFalse(actorFilmographyService.hasDuplicateActors());
+        assertTrue(actorFilmographyService.findDuplicateActors().isEmpty());
     }
 
     @Test
-    void checkByYearDoesNotExist() {
-        int year = 1965;
-        List<Movie> movies = movieService.getMoviesByYear(year);
-        assertNotNull(movies);
-        assertTrue(movies.isEmpty());
-    }
-
-    @Test
-    void checkByYearNegative() {
-        int year = -1994;
-        assertThrows(
-                IllegalArgumentException.class, () -> movieService.getMoviesByYear(year)
-        );
-    }
-
-    @Test
-    void checkByYearInTheFuture() {
-        int year = LocalDate.now().plusYears(5).getYear();
-        List<Movie> movies = movieService.getMoviesByYear(year);
-        assertNotNull(movies);
-        assertTrue(movies.isEmpty());
-    }
-
-    @Test
-    void checkByRating() {
-        double imdbRating = 7.4;
-        List<Movie> movies = movieService.getMovieByRating(imdbRating);
-        assertNotNull(movies);
-        assertEquals(112, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(movie.getImdbRating() >= imdbRating);
+    void sortFilmographiesByTitle() {
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(
+                "Hepburn", null, null, null, null, "title");
+        assertNotNull(filmographies);
+        assertFalse(filmographies.isEmpty());
+        List<com.example.demo.model.ActorMovie> films = filmographies.getFirst().getFilmography();
+        for (int i = 0; i < films.size() - 1; i++) {
+            assertTrue(films.get(i).getTitle().compareToIgnoreCase(films.get(i + 1).getTitle()) <= 0);
         }
     }
 
     @Test
-    void getMoviesByTitleAndYear() {
-        String title = "love";
-        Integer year = 1939;
-        List<Movie> movies = movieService.filterMovies(title, null, null, year, null, "title", null, null, null, null);
-        assertNotNull(movies);
-        assertEquals(2, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(StringUtils.containsIgnoreCase(movie.getTitle(), title));
-            assertEquals(year, movie.getYear());
+    void sortFilmographiesByYear() {
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(
+                "Hepburn", null, null, null, null, "year");
+        assertNotNull(filmographies);
+        assertFalse(filmographies.isEmpty());
+        List<com.example.demo.model.ActorMovie> films = filmographies.getFirst().getFilmography();
+        for (int i = 0; i < films.size() - 1; i++) {
+            Integer y1 = films.get(i).getYear();
+            Integer y2 = films.get(i + 1).getYear();
+            if (y1 != null && y2 != null) {
+                assertTrue(y1 <= y2);
+            }
         }
     }
 
     @Test
-    void getMoviesByGenreAndYear() {
-        String genre = "Drama";
-        Integer year = 1933;
-        List<Movie> movies = movieService.filterMovies(null, genre, null, year, null);
-        assertNotNull(movies);
-        assertEquals(11, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(movie.getGenres().contains(genre));
-            assertEquals(year, movie.getYear());
+    void sortFilmographiesByRating() {
+        List<ActorFilmography> filmographies = actorFilmographyService.filterActorFilmographies(
+                "Hepburn", null, null, null, null, "rating");
+        assertNotNull(filmographies);
+        assertFalse(filmographies.isEmpty());
+        List<com.example.demo.model.ActorMovie> films = filmographies.getFirst().getFilmography();
+        for (int i = 0; i < films.size() - 1; i++) {
+            double r1 = films.get(i).getRatings() != null ? films.get(i).getRatings().getImdb() : Double.MIN_VALUE;
+            double r2 = films.get(i + 1).getRatings() != null ? films.get(i + 1).getRatings().getImdb() : Double.MIN_VALUE;
+            assertTrue(r1 >= r2, "Ratings should be descending");
         }
     }
-
-    @Test
-    void getMoviesByAllFilters() {
-        String title = "the";
-        String genre = "Crime";
-        double minRating = 7.4;
-        Integer year = 1934;
-        List<Movie> movies = movieService.filterMovies(title, genre, minRating, year, null);
-        assertNotNull(movies);
-        assertEquals(2, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(StringUtils.containsIgnoreCase(movie.getTitle(), title));
-            assertTrue(movie.getGenres().contains(genre));
-            assertTrue(movie.getImdbRating() >= minRating);
-            assertEquals(year, movie.getYear());
-        }
-    }
-
-    @Test
-    void getNumberedMovies() {
-        String title = "the";
-        String genre = "Drama";
-        List<Movie> movies = movieService.filterMovies(title, genre, null, null, null);
-        assertEquals(4, movies.get(3).getNum());
-        for (Movie movie : movies) {
-            assertTrue(StringUtils.containsIgnoreCase(movie.getTitle(), title));
-            assertTrue(movie.getGenres().contains(genre));
-        }
-    }
-
-    @Test
-    void getMoviesInRange() {
-        int yearStart = 1930;
-        int yearEnd = 1933;
-        List<Movie> movies = movieService.filterMovies(null, null, null, yearStart, yearEnd,
-                "year", null, null, null, null);
-        assertEquals(28, movies.get(27).getNum());
-        for (Movie movie : movies) {
-            assertTrue(movie.getYear() >= yearStart);
-            assertTrue(movie.getYear() <= yearEnd);
-        }
-    }
-
-    @Test
-    void getMoviesInvalidDateRange() {
-        Integer yearStart = 1995;
-        Integer yearEnd = 1990;
-        assertThrows(IllegalArgumentException.class, () ->
-                movieService.filterMovies(null, null, null, yearStart, yearEnd,
-                        "year",null, null, null, null)
-        );
-    }
-
-    @Test
-    void getMoviesFilterByDirector() {
-        String director = "hitchcock";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, director, null, null, null);
-        assertNotNull(movies);
-        assertEquals(5, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(movie.isDirector(director));
-        }
-    }
-
-    @Test
-    void getMoviesFilterByDirectorWhitespace() {
-        String director = "  hitchcock    ";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, director, null, null, null);
-        assertNotNull(movies);
-        assertEquals(5, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(movie.isDirector(director));
-        }
-    }
-
-    @Test
-    void getMoviesFilterByActor() {
-        String actor = "gable";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, null, actor, null, null);
-        assertNotNull(movies);
-        assertEquals(7, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(movie.isActor(actor));
-        }
-    }
-
-    @Test
-    void getMoviesFilterByActorCompound() {
-        String actor = "gable, colb";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, null, actor, null, null);
-        assertNotNull(movies);
-        assertEquals(1, movies.size());
-        assertEquals("It Happened One Night", movies.getFirst().getTitle());
-        for (Movie movie : movies) {
-            assertTrue(movie.isActor(actor));
-        }
-    }
-
-    @Test
-    void getMoviesFilterByOscarsWonDetails() {
-        String oscarsWonDetail = "picture";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, null, null, oscarsWonDetail, null);
-        assertNotNull(movies);
-        assertEquals(10, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(movie.isOscarsWonDetail(oscarsWonDetail));
-        }
-    }
-
-    @Test
-    void getMoviesFilterByOscarsWonDetailsCompound() {
-        String oscarsWonDetail = "picture, actress";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, null, null, oscarsWonDetail, null);
-        assertNotNull(movies);
-        assertEquals(3, movies.size());
-        assertEquals("Gone with the Wind", movies.getFirst().getTitle());
-        for (Movie movie : movies) {
-            assertTrue(movie.isOscarsWonDetail(oscarsWonDetail));
-        }
-    }
-
-    @Test
-    void getMoviesFilterByStudio() {
-        String studio = "paramount";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, null, null, null, studio);
-        assertNotNull(movies);
-        assertEquals(28, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(movie.isStudio(studio));
-        }
-    }
-
-    @Test
-    void getMoviesFilterByStudioWhitespace() {
-        String studio = "   paramount   ";
-        List<Movie> movies = movieService.filterMovies(null, null, null, null, null,
-                null, null, null, null, studio);
-        assertNotNull(movies);
-        assertEquals(28, movies.size());
-        for (Movie movie : movies) {
-            assertTrue(movie.isStudio(studio));
-        }
-    }
-
-    //@Test
-    void getHighestRatedMoviesFromPastYearExactMatch() {
-        List<Movie> movies = movieService.getMoviesTopNbyYear(2);
-        assertEquals(2, movies.size());
-    }
-
-    //@Test
-    void getHighestRatedMoviesFromPastYearLessThanRequested() {
-        List<Movie> movies = movieService.getMoviesTopNbyYear(50);
-        assertEquals(2, movies.size());
-    }
-
-    //@Test
-    void getHighestRatedMoviesFromPastYearNotMoreThanRequested() {
-        List<Movie> movies = movieService.getMoviesTopNbyYear(1);
-        assertEquals(1, movies.size());
-    }
-
-    @Test
-    void getHighestRatedMoviesFromPastYearInvalidLimit() {
-        assertThrows(IllegalArgumentException.class, () ->
-                movieService.getMoviesTopNbyYear(0)
-        );
-    }
-
-    @Test
-    void getHighestRatedMoviesFromPastYearInvalidNegativeLimit() {
-        assertThrows(IllegalArgumentException.class, () ->
-                movieService.getMoviesTopNbyYear(-1)
-        );
-    }
-     */
 }
